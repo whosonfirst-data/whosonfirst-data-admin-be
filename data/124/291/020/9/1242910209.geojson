@@ -1,0 +1,76 @@
+{
+  "id": 1242910209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.38333,50.45,4.38333,50.45",
+    "geom:latitude":50.45,
+    "geom:longitude":4.38333,
+    "gn:admin1_code":"WAL",
+    "gn:admin2_code":"WHT",
+    "gn:admin3_code":"52.0",
+    "gn:admin4_code":"52011.0",
+    "gn:asciiname":"Trieu des Agneaux",
+    "gn:country_code":"BE",
+    "gn:dem":133,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2785261,
+    "gn:latitude":50.45,
+    "gn:longitude":4.38333,
+    "gn:modification_date":"2017-03-25",
+    "gn:name":"Trieu des Agneaux",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Trieu",
+        "Trieu des Agneaux"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681723,
+        102191581,
+        85632997,
+        404227353,
+        102049927
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2785261
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"2a7ce2bd88acf06b9a3b13c26b79dbe7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049927,
+            "locality_id":1242910209,
+            "macroregion_id":404227353,
+            "region_id":85681723
+        }
+    ],
+    "wof:id":1242910209,
+    "wof:lastmodified":1537586899,
+    "wof:name":"Trieu des Agneaux",
+    "wof:parent_id":102049927,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.38333,
+    50.45,
+    4.38333,
+    50.45
+],
+  "geometry": {"coordinates":[4.38333,50.45],"type":"Point"}
+}

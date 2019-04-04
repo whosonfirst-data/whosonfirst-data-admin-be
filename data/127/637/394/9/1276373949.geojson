@@ -1,0 +1,72 @@
+{
+  "id": 1276373949,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.53333,49.55,5.53333,49.55",
+    "geom:latitude":49.55,
+    "geom:longitude":5.53333,
+    "gn:admin1_code":"WAL",
+    "gn:admin2_code":"WLX",
+    "gn:admin3_code":"85.0",
+    "gn:admin4_code":"85045.0",
+    "gn:asciiname":"La Tuilerie",
+    "gn:country_code":"BE",
+    "gn:dem":215,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2793215,
+    "gn:latitude":49.55,
+    "gn:longitude":5.53333,
+    "gn:modification_date":"2017-03-25",
+    "gn:name":"La Tuilerie",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681727,
+        102191581,
+        85632997,
+        404227353,
+        102049907
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2793215
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"3eb99ebf3c81f1f6a47f8e4c9aa66154",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049907,
+            "locality_id":1276373949,
+            "macroregion_id":404227353,
+            "region_id":85681727
+        }
+    ],
+    "wof:id":1276373949,
+    "wof:lastmodified":1536724386,
+    "wof:name":"La Tuilerie",
+    "wof:parent_id":102049907,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.53333,
+    49.55,
+    5.53333,
+    49.55
+],
+  "geometry": {"coordinates":[5.53333,49.55],"type":"Point"}
+}

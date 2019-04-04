@@ -1,0 +1,95 @@
+{
+  "id": 101913517,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000037,
+    "geom:area_square_m":286058.429718,
+    "geom:bbox":"4.99701978981,51.0511962537,5.00703026034,51.0563908921",
+    "geom:latitude":51.053793,
+    "geom:longitude":5.002257,
+    "iso:country":"BE",
+    "lbl:latitude":51.053815,
+    "lbl:longitude":5.002257,
+    "mps:latitude":51.053815,
+    "mps:longitude":5.002257,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Veerle"
+    ],
+    "name:eng_x_preferred":[
+        "Veerle"
+    ],
+    "name:fre_x_preferred":[
+        "Veerle"
+    ],
+    "name:hun_x_preferred":[
+        "Veerle"
+    ],
+    "name:unk_x_variant":[
+        "Laakdal (Veerle)"
+    ],
+    "qs:a0":"Belgi\u00eb#Belgique#Belgien",
+    "qs:a1":"*Limburg",
+    "qs:a1r":"0Vlaams Gewest",
+    "qs:a2":"Hasselt",
+    "qs:adm0":"Belgi\u00eb#Belgique#Belgien",
+    "qs:la":"Laakdal",
+    "qs:la_lc":"*BE213053",
+    "qs:level":"locality",
+    "qs:loc":"Veerle",
+    "qs:loc_alt":"Veerle",
+    "qs:pop":0,
+    "qs:source":"LCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        85681705,
+        102191581,
+        1108830641,
+        85632997,
+        404227357,
+        102049975
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2784980,
+        "gp:id":978117,
+        "qs:id":1031515,
+        "wd:id":"Q2150821"
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"483ec82eb787e0f8514be97609365443",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049975,
+            "localadmin_id":1108830641,
+            "locality_id":101913517,
+            "macroregion_id":404227357,
+            "region_id":85681705
+        }
+    ],
+    "wof:id":101913517,
+    "wof:lastmodified":1513899540,
+    "wof:name":"Veerle",
+    "wof:parent_id":1108830641,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.99701978981057,
+    51.05119625366973,
+    5.00703026033597,
+    51.05639089206898
+],
+  "geometry": {"coordinates":[[[4.99701978981057,51.05358908779846],[4.99701978981057,51.05566883533976],[4.99896149583356,51.05637491025738],[4.99933175811788,51.05639089206898],[4.9994287623154,51.05549442047158],[5.00654599396921,51.05580136000248],[5.00703026033597,51.05131896346427],[5.00418363116484,51.05119625366973],[5.0040867324189,51.05209273083585],[4.99839340616472,51.05184709633005],[4.99819937560159,51.05364003885211],[4.99701978981057,51.05358908779846]]],"type":"Polygon"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1209446337,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.84714,51.00939,3.84714,51.00939",
+    "geom:latitude":51.00939,
+    "geom:longitude":3.84714,
+    "gn:admin1_code":"VLG",
+    "gn:admin2_code":"VOV",
+    "gn:admin3_code":"42.0",
+    "gn:admin4_code":"42025.0",
+    "gn:asciiname":"Voorde",
+    "gn:country_code":"BE",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2784406,
+    "gn:latitude":51.00939,
+    "gn:longitude":3.84714,
+    "gn:modification_date":"2016-08-02",
+    "gn:name":"Voorde",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2784406
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"93b010203e09a62e9f1f0b5d73eeac4d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "locality_id":1209446337
+        }
+    ],
+    "wof:id":1209446337,
+    "wof:lastmodified":1536286807,
+    "wof:name":"Voorde",
+    "wof:parent_id":85632997,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.84714,
+    51.00939,
+    3.84714,
+    51.00939
+],
+  "geometry": {"coordinates":[3.84714,51.00939],"type":"Point"}
+}

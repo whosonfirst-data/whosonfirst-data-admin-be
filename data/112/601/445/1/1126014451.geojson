@@ -1,0 +1,112 @@
+{
+  "id": 1126014451,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.8401,51.11136,2.8401,51.11136",
+    "geom:latitude":51.11136,
+    "geom:longitude":2.8401,
+    "gn:gn_country":"BE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"BE",
+    "lbl:latitude":51.11136,
+    "lbl:longitude":2.8401,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bre_x_preferred":[
+        "Schore"
+    ],
+    "name:dut_x_preferred":[
+        "Schore"
+    ],
+    "name:eng_x_preferred":[
+        "Schore"
+    ],
+    "name:fre_x_preferred":[
+        "Schore"
+    ],
+    "name:hun_x_preferred":[
+        "Schore"
+    ],
+    "name:unk_x_variant":[
+        "Schoore"
+    ],
+    "name:vls_x_preferred":[
+        "Schore"
+    ],
+    "qs_pg:aaroncc":"BE",
+    "qs_pg:gn_country":"BE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2786970,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Schore",
+    "qs_pg:name_adm0":"Belgique",
+    "qs_pg:name_adm1":"West-Vlaanderen",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":2,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1013889,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424757,
+    "qs_pg:woe_id":976810,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424757,
+    "woe:name_adm0":"Belgique",
+    "woe:name_adm1":"West-Vlaanderen",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85681709,
+        102191581,
+        1108830695,
+        85632997,
+        404227357,
+        102049999
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2786970,
+        "gp:id":976810,
+        "qs_pg:id":1013889,
+        "wd:id":"Q2568071"
+    },
+    "wof:country":"BE",
+    "wof:created":1497300465,
+    "wof:geomhash":"99bf8b138364c67852d79040bc4f6bda",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049999,
+            "localadmin_id":1108830695,
+            "locality_id":1126014451,
+            "macroregion_id":404227357,
+            "region_id":85681709
+        }
+    ],
+    "wof:id":1126014451,
+    "wof:lastmodified":1513899491,
+    "wof:name":"Schore",
+    "wof:parent_id":1108830695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.8401,
+    51.11136,
+    2.8401,
+    51.11136
+],
+  "geometry": {"coordinates":[2.8401,51.11136],"type":"Point"}
+}

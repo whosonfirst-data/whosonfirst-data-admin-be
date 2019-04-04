@@ -1,0 +1,72 @@
+{
+  "id": 1226276555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.18333,49.8,5.18333,49.8",
+    "geom:latitude":49.8,
+    "geom:longitude":5.18333,
+    "gn:admin1_code":"WAL",
+    "gn:admin2_code":"WLX",
+    "gn:admin3_code":"84.0",
+    "gn:admin4_code":"84009.0",
+    "gn:asciiname":"Nounait",
+    "gn:country_code":"BE",
+    "gn:dem":343,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2790010,
+    "gn:latitude":49.8,
+    "gn:longitude":5.18333,
+    "gn:modification_date":"2017-03-25",
+    "gn:name":"Nounait",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681727,
+        102191581,
+        85632997,
+        404227353,
+        102049913
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2790010
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"08ae9b78a4a25fe33c6df0f1227797af",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049913,
+            "locality_id":1226276555,
+            "macroregion_id":404227353,
+            "region_id":85681727
+        }
+    ],
+    "wof:id":1226276555,
+    "wof:lastmodified":1536888799,
+    "wof:name":"Nounait",
+    "wof:parent_id":102049913,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.18333,
+    49.8,
+    5.18333,
+    49.8
+],
+  "geometry": {"coordinates":[5.18333,49.8],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1293423533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.96591,50.70138,5.96591,50.70138",
+    "geom:latitude":50.70138,
+    "geom:longitude":5.96591,
+    "gn:admin1_code":"WAL",
+    "gn:admin2_code":"WLG",
+    "gn:admin3_code":"63.0",
+    "gn:admin4_code":"63088.0",
+    "gn:asciiname":"Birken",
+    "gn:country_code":"BE",
+    "gn:dem":210,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2801902,
+    "gn:latitude":50.70138,
+    "gn:longitude":5.96591,
+    "gn:modification_date":"2017-03-25",
+    "gn:name":"Birken",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681691,
+        102191581,
+        85632997,
+        404227353,
+        102049935
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2801902
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"b989f64241892dc4bfcb448fc653e5e5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049935,
+            "locality_id":1293423533,
+            "macroregion_id":404227353,
+            "region_id":85681691
+        }
+    ],
+    "wof:id":1293423533,
+    "wof:lastmodified":1536878503,
+    "wof:name":"Birken",
+    "wof:parent_id":102049935,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.96591,
+    50.70138,
+    5.96591,
+    50.70138
+],
+  "geometry": {"coordinates":[5.96591,50.70138],"type":"Point"}
+}

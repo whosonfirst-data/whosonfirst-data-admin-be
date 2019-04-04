@@ -1,0 +1,88 @@
+{
+  "id": 1360019705,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.14502,50.81188,4.14502,50.81188",
+    "geom:latitude":50.81188,
+    "geom:longitude":4.14502,
+    "gn:admin1_code":"VLG",
+    "gn:admin2_code":"VBR",
+    "gn:admin3_code":"23.0",
+    "gn:admin4_code":"23104.0",
+    "gn:asciiname":"Neerbuizingen",
+    "gn:country_code":"BE",
+    "gn:dem":55,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2790393,
+    "gn:latitude":50.81188,
+    "gn:longitude":4.14502,
+    "gn:modification_date":"2016-08-02",
+    "gn:name":"Neerbuizingen",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Neerbuesinghen",
+        "Neerbuizingen"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681731,
+        102191581,
+        1108830261,
+        85632997,
+        404227357,
+        102049973,
+        1108830469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2790393
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"9b85a87470e1441fb4f42ba5916af88a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049973,
+            "localadmin_id":1108830261,
+            "locality_id":1360019705,
+            "macroregion_id":404227357,
+            "region_id":85681731
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049973,
+            "localadmin_id":1108830469,
+            "locality_id":1360019705,
+            "macroregion_id":404227357,
+            "region_id":85681731
+        }
+    ],
+    "wof:id":1360019705,
+    "wof:lastmodified":1537586958,
+    "wof:name":"Neerbuizingen",
+    "wof:parent_id":-4,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.14502,
+    50.81188,
+    4.14502,
+    50.81188
+],
+  "geometry": {"coordinates":[4.14502,50.81188],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1193168069,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.20918,50.05072,4.20918,50.05072",
+    "geom:latitude":50.05072,
+    "geom:longitude":4.20918,
+    "gn:admin1_code":"WAL",
+    "gn:admin2_code":"WHT",
+    "gn:admin3_code":"56.0",
+    "gn:admin4_code":"56051.0",
+    "gn:asciiname":"Macon",
+    "gn:country_code":"BE",
+    "gn:dem":211,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2791946,
+    "gn:latitude":50.05072,
+    "gn:longitude":4.20918,
+    "gn:modification_date":"2011-10-14",
+    "gn:name":"Macon",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Momignies (Macon)"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681723,
+        102191581,
+        85632997,
+        404227353,
+        102049923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2791946,
+        "wk:page":"Macon%2C_Belgium"
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"0745f4c46d8f1fca9ce6456845bb347b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049923,
+            "locality_id":1193168069,
+            "macroregion_id":404227353,
+            "region_id":85681723
+        }
+    ],
+    "wof:id":1193168069,
+    "wof:lastmodified":1537586972,
+    "wof:name":"Macon",
+    "wof:parent_id":102049923,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.20918,
+    50.05072,
+    4.20918,
+    50.05072
+],
+  "geometry": {"coordinates":[4.20918,50.05072],"type":"Point"}
+}

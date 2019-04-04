@@ -1,0 +1,77 @@
+{
+  "id": 1344194557,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.31667,50.35,4.31667,50.35",
+    "geom:latitude":50.35,
+    "geom:longitude":4.31667,
+    "gn:admin1_code":"WAL",
+    "gn:admin2_code":"WHT",
+    "gn:admin3_code":"56.0",
+    "gn:admin4_code":"56078.0",
+    "gn:asciiname":"Ancienne Abbaye d'Aulne",
+    "gn:country_code":"BE",
+    "gn:dem":195,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2803210,
+    "gn:latitude":50.35,
+    "gn:longitude":4.31667,
+    "gn:modification_date":"2017-03-25",
+    "gn:name":"Ancienne Abbaye d'Aulne",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Abbaye d'Aulne",
+        "Ancienne Abbaye d'Aulne"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681723,
+        102191581,
+        85632997,
+        404227353,
+        102049923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2803210,
+        "wk:page":"Aulne_Abbey"
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"0b93ed8b9fc3d7f1976ce61df62f9d77",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049923,
+            "locality_id":1344194557,
+            "macroregion_id":404227353,
+            "region_id":85681723
+        }
+    ],
+    "wof:id":1344194557,
+    "wof:lastmodified":1537587084,
+    "wof:name":"Ancienne Abbaye d'Aulne",
+    "wof:parent_id":102049923,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.31667,
+    50.35,
+    4.31667,
+    50.35
+],
+  "geometry": {"coordinates":[4.31667,50.35],"type":"Point"}
+}

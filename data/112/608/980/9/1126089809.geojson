@@ -1,0 +1,91 @@
+{
+  "id": 1126089809,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.66457,50.61091,5.66457,50.61091",
+    "geom:latitude":50.61091,
+    "geom:longitude":5.66457,
+    "gn:gn_country":"BE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"BE",
+    "lbl:latitude":50.61091,
+    "lbl:longitude":5.66457,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:unk_x_variant":[
+        "Fl\u00e9ron (Roms\u00e9e)"
+    ],
+    "qs_pg:aaroncc":"BE",
+    "qs_pg:gn_country":"BE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2787805,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Roms\u00e9e",
+    "qs_pg:name_adm0":"Belgique",
+    "qs_pg:name_adm1":"Li\u00e8ge",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":905105,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424757,
+    "qs_pg:woe_id":976385,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424757,
+    "woe:name_adm0":"Belgique",
+    "woe:name_adm1":"Li\u00e8ge",
+    "woe:placetype":"Suburb",
+    "wof:belongsto":[
+        85681691,
+        102191581,
+        85632997,
+        404227353,
+        101748083,
+        102049941
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2787805,
+        "gp:id":976385,
+        "qs_pg:id":905105
+    },
+    "wof:country":"BE",
+    "wof:created":1497313524,
+    "wof:geomhash":"a07d23ac7853d4608c04bb285f15a87f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049941,
+            "locality_id":101748083,
+            "macroregion_id":404227353,
+            "neighbourhood_id":1126089809,
+            "region_id":85681691
+        }
+    ],
+    "wof:id":1126089809,
+    "wof:lastmodified":1509411591,
+    "wof:name":"Roms\u00e9e",
+    "wof:parent_id":101748083,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.66457,
+    50.61091,
+    5.66457,
+    50.61091
+],
+  "geometry": {"coordinates":[5.66457,50.61091],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1209251015,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.38179,50.5521,5.38179,50.5521",
+    "geom:latitude":50.5521,
+    "geom:longitude":5.38179,
+    "gn:admin1_code":"WAL",
+    "gn:admin2_code":"WLG",
+    "gn:admin3_code":"61.0",
+    "gn:admin4_code":"61080.0",
+    "gn:asciiname":"Aux Fontaines",
+    "gn:country_code":"BE",
+    "gn:dem":214,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2802892,
+    "gn:latitude":50.5521,
+    "gn:longitude":5.38179,
+    "gn:modification_date":"2017-03-25",
+    "gn:name":"Aux Fontaines",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2802892
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"8cca7548dd92d8f3972367779bfce88c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "locality_id":1209251015
+        }
+    ],
+    "wof:id":1209251015,
+    "wof:lastmodified":1536293004,
+    "wof:name":"Aux Fontaines",
+    "wof:parent_id":85632997,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.3817900000000005,
+    50.5521,
+    5.3817900000000005,
+    50.5521
+],
+  "geometry": {"coordinates":[5.38179,50.5521],"type":"Point"}
+}

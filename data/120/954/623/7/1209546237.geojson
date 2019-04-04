@@ -1,0 +1,64 @@
+{
+  "id": 1209546237,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.83921,50.60732,3.83921,50.60732",
+    "geom:latitude":50.60732,
+    "geom:longitude":3.83921,
+    "gn:admin1_code":"WAL",
+    "gn:admin2_code":"WHT",
+    "gn:admin3_code":"51.0",
+    "gn:admin4_code":"51012.0",
+    "gn:asciiname":"Attre",
+    "gn:country_code":"BE",
+    "gn:dem":42,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2802994,
+    "gn:latitude":50.60732,
+    "gn:longitude":3.83921,
+    "gn:modification_date":"2009-01-17",
+    "gn:name":"Attre",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2802994
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"aa0bd2f995c847e2ca99cb0678732d99",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "locality_id":1209546237
+        }
+    ],
+    "wof:id":1209546237,
+    "wof:lastmodified":1536283834,
+    "wof:name":"Attre",
+    "wof:parent_id":85632997,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.83921,
+    50.60732,
+    3.83921,
+    50.60732
+],
+  "geometry": {"coordinates":[3.83921,50.60732],"type":"Point"}
+}

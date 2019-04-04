@@ -1,0 +1,72 @@
+{
+  "id": 1309741051,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.1736,50.19569,5.1736,50.19569",
+    "geom:latitude":50.19569,
+    "geom:longitude":5.1736,
+    "gn:admin1_code":"WAL",
+    "gn:admin2_code":"WNA",
+    "gn:admin3_code":"91.0",
+    "gn:admin4_code":"91114.0",
+    "gn:asciiname":"Frandeux",
+    "gn:country_code":"BE",
+    "gn:dem":182,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2797998,
+    "gn:latitude":50.19569,
+    "gn:longitude":5.1736,
+    "gn:modification_date":"2017-03-25",
+    "gn:name":"Frandeux",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681699,
+        102191581,
+        85632997,
+        404227353,
+        102049919
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2797998
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"70d7f46d952b89244fe2d4e6f82bd38b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049919,
+            "locality_id":1309741051,
+            "macroregion_id":404227353,
+            "region_id":85681699
+        }
+    ],
+    "wof:id":1309741051,
+    "wof:lastmodified":1537023498,
+    "wof:name":"Frandeux",
+    "wof:parent_id":102049919,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.1736,
+    50.19569,
+    5.1736,
+    50.19569
+],
+  "geometry": {"coordinates":[5.1736,50.19569],"type":"Point"}
+}

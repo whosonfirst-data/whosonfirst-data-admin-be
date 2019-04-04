@@ -1,0 +1,64 @@
+{
+  "id": 1209243649,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.08333,51.05,3.08333,51.05",
+    "geom:latitude":51.05,
+    "geom:longitude":3.08333,
+    "gn:admin1_code":"VLG",
+    "gn:admin2_code":"VWV",
+    "gn:admin3_code":"31.0",
+    "gn:admin4_code":"31033.0",
+    "gn:asciiname":"Moereveld",
+    "gn:country_code":"BE",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2791108,
+    "gn:latitude":51.05,
+    "gn:longitude":3.08333,
+    "gn:modification_date":"2016-08-02",
+    "gn:name":"Moereveld",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2791108
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"da7ea028993accea3cfb114493dad57d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "locality_id":1209243649
+        }
+    ],
+    "wof:id":1209243649,
+    "wof:lastmodified":1536293237,
+    "wof:name":"Moereveld",
+    "wof:parent_id":85632997,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.08333,
+    51.05,
+    3.08333,
+    51.05
+],
+  "geometry": {"coordinates":[3.08333,51.05],"type":"Point"}
+}

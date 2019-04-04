@@ -1,0 +1,76 @@
+{
+  "id": 1276586939,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.01705,50.70825,4.01705,50.70825",
+    "geom:latitude":50.70825,
+    "geom:longitude":4.01705,
+    "gn:admin1_code":"WAL",
+    "gn:admin2_code":"WHT",
+    "gn:asciiname":"Smeyers Marcq",
+    "gn:country_code":"BE",
+    "gn:dem":36,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2786467,
+    "gn:latitude":50.70825,
+    "gn:longitude":4.01705,
+    "gn:modification_date":"2011-02-02",
+    "gn:name":"Smeyers Marcq",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Smijersmark",
+        "Smeyers Marcq"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681731,
+        102191581,
+        1108830399,
+        85632997,
+        404227357,
+        102049973
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2786467
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"2abb2ddda1121e3314b5a267f368ae99",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049973,
+            "localadmin_id":1108830399,
+            "locality_id":1276586939,
+            "macroregion_id":404227357,
+            "region_id":85681731
+        }
+    ],
+    "wof:id":1276586939,
+    "wof:lastmodified":1537586912,
+    "wof:name":"Smeyers Marcq",
+    "wof:parent_id":1108830399,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.01705,
+    50.70825,
+    4.01705,
+    50.70825
+],
+  "geometry": {"coordinates":[4.01705,50.70825],"type":"Point"}
+}

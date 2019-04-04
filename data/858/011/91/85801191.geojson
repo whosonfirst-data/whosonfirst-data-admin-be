@@ -1,0 +1,239 @@
+{
+  "id": 85801191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000233,
+    "geom:area_square_m":1822247.21999,
+    "geom:bbox":"4.33410644531,50.8346718572,4.35470581055,50.8518016788",
+    "geom:latitude":50.842743,
+    "geom:longitude":4.344343,
+    "gn:id":"",
+    "iso:country":"BE",
+    "lbl:latitude":50.845966,
+    "lbl:longitude":4.353133,
+    "mps:latitude":50.842059,
+    "mps:longitude":4.344145,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":1,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":12.0,
+    "mz:tier_locality":5,
+    "mz:tier_metro":30,
+    "name:afr_x_preferred":[
+        "Groot Markplein van Brussel"
+    ],
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0645\u064a\u062f\u0627\u0646 \u0627\u0644\u0643\u0628\u064a\u0631"
+    ],
+    "name:bel_x_preferred":[
+        "\u0413\u0440\u0430\u043d-\u041f\u043b\u0430\u0441"
+    ],
+    "name:bel_x_variant":[
+        "\u0413\u0440\u0430\u043d-\u041f\u043b\u044f\u0441"
+    ],
+    "name:bul_x_preferred":[
+        "\u0413\u0440\u0430\u043d \u041f\u043b\u0430\u0441"
+    ],
+    "name:cat_x_preferred":[
+        "Grand Place"
+    ],
+    "name:ces_x_preferred":[
+        "Grande-Place v Bruselu"
+    ],
+    "name:dan_x_preferred":[
+        "Grand-Place"
+    ],
+    "name:deu_x_preferred":[
+        "Grand-Place/Grote Markt"
+    ],
+    "name:ell_x_preferred":[
+        "\u0393\u03ba\u03c1\u03b1\u03bd-\u03a0\u03bb\u03b1\u03c2"
+    ],
+    "name:epo_x_preferred":[
+        "Granda Placo"
+    ],
+    "name:est_x_preferred":[
+        "Grand-Place"
+    ],
+    "name:eus_x_preferred":[
+        "Grand Place"
+    ],
+    "name:fin_x_preferred":[
+        "Grand-Place"
+    ],
+    "name:fra_x_preferred":[
+        "Grand-Place de Bruxelles"
+    ],
+    "name:glg_x_preferred":[
+        "Grand Place"
+    ],
+    "name:hbs_x_preferred":[
+        "Veliki trg u Bruxellesu"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d4\u05db\u05d9\u05db\u05e8 \u05d4\u05d2\u05d3\u05d5\u05dc\u05d4 \u05d1\u05d1\u05e8\u05d9\u05e1\u05dc"
+    ],
+    "name:hrv_x_preferred":[
+        "Grand Place u Bruxellesu"
+    ],
+    "name:hun_x_preferred":[
+        "Grand-Place"
+    ],
+    "name:hye_x_preferred":[
+        "\u0533\u0580\u0561\u0576 \u054a\u056c\u0561\u057d"
+    ],
+    "name:ind_x_preferred":[
+        "Grand Place"
+    ],
+    "name:ita_x_preferred":[
+        "Grand Place"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b0\u30e9\u30f3\uff1d\u30d7\u30e9\u30b9"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d2\u10e0\u10d0\u10dc-\u10de\u10da\u10d0\u10e1\u10d8"
+    ],
+    "name:kor_x_preferred":[
+        "\uadf8\ub791\ud50c\ub77c\uc2a4"
+    ],
+    "name:lit_x_preferred":[
+        "Gran Plasas"
+    ],
+    "name:ltz_x_preferred":[
+        "Grand-Place"
+    ],
+    "name:nld_x_preferred":[
+        "Grote Markt"
+    ],
+    "name:nld_x_variant":[
+        "Grandplace",
+        "Grand' Place"
+    ],
+    "name:nno_x_preferred":[
+        "Grand-Place"
+    ],
+    "name:nor_x_preferred":[
+        "Grand-Place"
+    ],
+    "name:pol_x_preferred":[
+        "Wielki Plac w Brukseli"
+    ],
+    "name:por_x_preferred":[
+        "Grand-Place de Bruxelas"
+    ],
+    "name:ron_x_preferred":[
+        "Pia\u021ba Mare din Bruxelles"
+    ],
+    "name:rus_x_preferred":[
+        "\u0413\u0440\u0430\u043d-\u041f\u043b\u0430\u0441"
+    ],
+    "name:sco_x_preferred":[
+        "Grand Place"
+    ],
+    "name:slk_x_preferred":[
+        "Grand-Place"
+    ],
+    "name:spa_x_preferred":[
+        "Grand Place"
+    ],
+    "name:swe_x_preferred":[
+        "Grand-Place"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e01\u0e23\u0e47\u0e2d\u0e07-\u0e1b\u0e25\u0e31\u0e2a"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0413\u0440\u0430\u043d-\u041f\u043b\u0430\u0441"
+    ],
+    "name:unk_x_variant":[
+        "Grand' Place"
+    ],
+    "name:vie_x_preferred":[
+        "Grand Place"
+    ],
+    "name:zho_x_preferred":[
+        "\u5e03\u9c81\u585e\u5c14\u5927\u5e7f\u573a"
+    ],
+    "qs:gn_id":0,
+    "qs:gn_local":0,
+    "qs:local_max":62861,
+    "qs:local_sum":208570,
+    "qs:localhoods":75,
+    "qs:name":"Grand' Place",
+    "qs:name_adm0":"Belgique",
+    "qs:name_adm1":"R\u00e9gion de Bruxelles-Capitale",
+    "qs:name_adm2":"Brussel Hoofdstad",
+    "qs:name_lau":"Brussel",
+    "qs:name_local":"Bruxelles",
+    "qs:photo_max":2889,
+    "qs:photo_sum":17042,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":58,
+    "qs:woe_adm0":23424757,
+    "qs:woe_adm1":55965974,
+    "qs:woe_adm2":12591762,
+    "qs:woe_lau":12602737,
+    "qs:woe_local":968019,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mz",
+    "wd:wordcount":1245,
+    "wof:belongsto":[
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":970253,
+        "qs:id":531453,
+        "qs_pg:id":531453,
+        "wd:id":"Q215429"
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"777dced0d56f43af3110e6429a923eed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801191,
+            "region_id":85681713
+        }
+    ],
+    "wof:id":85801191,
+    "wof:lang":[
+        "dut"
+    ],
+    "wof:lastmodified":1527270402,
+    "wof:name":"Grand' Place",
+    "wof:parent_id":101751573,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.33410644531006,
+    50.8346718571829,
+    4.35470581055012,
+    50.8518016788061
+],
+  "geometry": {"coordinates":[[[4.34509277344014,50.8518016788061],[4.34646606445278,50.85107660379869],[4.34747923131135,50.85161153918791],[4.34783935546869,50.85104112733764],[4.34783935546861,50.85017410730016],[4.3492126464817,50.85017410730016],[4.34921264648179,50.8493070712001],[4.34921264648179,50.84844001913361],[4.34921264648162,50.84757295370009],[4.34921264648267,50.84753742646588],[4.34783935547003,50.84681241880237],[4.34783935547011,50.84583876285727],[4.34986564636759,50.84583876486899],[4.35058593750011,50.84583876900008],[4.35058593750011,50.84497164995774],[4.35195922851861,50.84497164990019],[4.3519592285187,50.84410451980001],[4.35333251953011,50.84410451980001],[4.35333251953011,50.84334400922656],[4.35333251953011,50.84313069455557],[4.35333251953011,50.84237020620007],[4.35333251953011,50.84106942798455],[4.35401916504006,50.84106942799086],[4.35401916504006,50.84063582810002],[4.35470581055012,50.84063582810002],[4.35470581054869,50.84025558619386],[4.35470581054869,50.83976861257786],[4.35470581054869,50.83890138550008],[4.35470581054744,50.83886578430732],[4.35333251953011,50.83814091137977],[4.35333251953011,50.8379273304099],[4.35381277076061,50.8371668623753],[4.35363019861086,50.83629959677542],[4.3538127758552,50.83543229087543],[4.35333251953011,50.8346718571829],[4.35195922851773,50.83539667620583],[4.35058593750028,50.83467185718537],[4.35010568321471,50.83543230377516],[4.34831960964956,50.83543230402715],[4.34783935547011,50.83467185718537],[4.34646606445278,50.83539667620583],[4.34545296889866,50.83486196730333],[4.34509277234199,50.83543230630657],[4.34371948242136,50.83543230677942],[4.34234619141006,50.83543230700006],[4.34234619141014,50.83619274673408],[4.34234619141023,50.83716686909402],[4.3400798551769,50.83716687097517],[4.33959960937997,50.8371668785001],[4.33959960937935,50.83792733040927],[4.33959960937884,50.83890137610855],[4.33685302734207,50.83890137936685],[4.33685302734148,50.84063581869403],[4.33410644531014,50.84063582093357],[4.33410644531014,50.84237019813783],[4.33410644531068,50.84410451980001],[4.33410644531094,50.84562551080747],[4.33410644531182,50.84735390390573],[4.33410644531006,50.84757295370009],[4.33479796721815,50.84757295370009],[4.33599822267041,50.84795315237194],[4.33685302734148,50.84930706531343],[4.3395996093783,50.84930706531343],[4.34234619141023,50.84930706776667],[4.34234619141023,50.85104112029403],[4.34461260905232,50.85104112217518],[4.34509277344014,50.8518016788061]]],"type":"Polygon"}
+}

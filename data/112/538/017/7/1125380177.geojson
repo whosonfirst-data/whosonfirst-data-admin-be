@@ -1,0 +1,75 @@
+{
+  "id": 1125380177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2017-05-19",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.32964,50.1515,4.32964,50.1515",
+    "geom:latitude":50.1515,
+    "geom:longitude":4.32964,
+    "gn:gn_country":"BE",
+    "gn:gn_fcode":"ADM4",
+    "gn:gn_pop":3745,
+    "gn:population":3745,
+    "iso:country":"BE",
+    "lbl:latitude":50.1515,
+    "lbl:longitude":4.32964,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:unk_x_variant":[
+        "Froid-Chapelle"
+    ],
+    "qs_pg:aaroncc":"BE",
+    "qs_pg:gn_country":"BE",
+    "qs_pg:gn_fcode":"ADM4",
+    "qs_pg:gn_id":2797938,
+    "qs_pg:gn_pop":3745,
+    "qs_pg:name":"Froidchapelle",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":1152144,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85632997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2797938,
+        "qs_pg:id":1152144
+    },
+    "wof:country":"BE",
+    "wof:created":1497047997,
+    "wof:geomhash":"ff5b9f6dadc8ff7c4b5ba3bba3da8bdd",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "localadmin_id":1125380177
+        }
+    ],
+    "wof:id":1125380177,
+    "wof:lastmodified":1505185644,
+    "wof:name":"Froidchapelle",
+    "wof:parent_id":-1,
+    "wof:placetype":"localadmin",
+    "wof:population":3745,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.32964,
+    50.1515,
+    4.32964,
+    50.1515
+],
+  "geometry": {"coordinates":[4.32964,50.1515],"type":"Point"}
+}

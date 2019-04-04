@@ -1,0 +1,78 @@
+{
+  "id": 1343894177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.43333,51.1,5.43333,51.1",
+    "geom:latitude":51.1,
+    "geom:longitude":5.43333,
+    "gn:admin1_code":"VLG",
+    "gn:admin2_code":"VLI",
+    "gn:admin3_code":"72.0",
+    "gn:admin4_code":"72030.0",
+    "gn:asciiname":"Aan de Vrenen",
+    "gn:country_code":"BE",
+    "gn:dem":69,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2803438,
+    "gn:latitude":51.1,
+    "gn:longitude":5.43333,
+    "gn:modification_date":"2016-08-02",
+    "gn:name":"Aan de Vrenen",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Aan de Vreenen",
+        "Aan de Vrenen"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681705,
+        102191581,
+        1108830611,
+        85632997,
+        404227357,
+        102049993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2803438
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"a8f69c86bf94fe9a48bb16dba828a5b7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049993,
+            "localadmin_id":1108830611,
+            "locality_id":1343894177,
+            "macroregion_id":404227357,
+            "region_id":85681705
+        }
+    ],
+    "wof:id":1343894177,
+    "wof:lastmodified":1537587087,
+    "wof:name":"Aan de Vrenen",
+    "wof:parent_id":1108830611,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.43333,
+    51.1,
+    5.43333,
+    51.1
+],
+  "geometry": {"coordinates":[5.43333,51.1],"type":"Point"}
+}

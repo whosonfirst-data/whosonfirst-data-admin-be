@@ -1,0 +1,117 @@
+{
+  "id": 1125811219,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.35664,51.27769,3.35664,51.27769",
+    "geom:latitude":51.27769,
+    "geom:longitude":3.35664,
+    "gn:gn_country":"BE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"BE",
+    "lbl:latitude":51.27769,
+    "lbl:longitude":3.35664,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bul_x_preferred":[
+        "\u041b\u0430\u043f\u0441\u0447\u0435\u0443\u0440\u0435"
+    ],
+    "name:dut_x_preferred":[
+        "Lapscheure"
+    ],
+    "name:eng_x_preferred":[
+        "Lapscheure"
+    ],
+    "name:fre_x_preferred":[
+        "Lapscheure"
+    ],
+    "name:hun_x_preferred":[
+        "Lapscheure"
+    ],
+    "name:por_x_preferred":[
+        "Lapscheure"
+    ],
+    "name:swe_x_preferred":[
+        "Lapscheure"
+    ],
+    "name:vls_x_preferred":[
+        "Lapscheure"
+    ],
+    "qs_pg:aaroncc":"BE",
+    "qs_pg:gn_country":"BE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2793305,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Lapscheure",
+    "qs_pg:name_adm0":"Belgique",
+    "qs_pg:name_adm1":"West-Vlaanderen",
+    "qs_pg:photos":361,
+    "qs_pg:photos_1k":73,
+    "qs_pg:photos_9k":2,
+    "qs_pg:photos_9r":5,
+    "qs_pg:photos_all":361,
+    "qs_pg:photos_sr":6,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":4470,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424757,
+    "qs_pg:woe_id":972943,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424757,
+    "woe:name_adm0":"Belgique",
+    "woe:name_adm1":"West-Vlaanderen",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85681709,
+        102191581,
+        1108830063,
+        85632997,
+        404227357,
+        102050003
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2793305,
+        "gp:id":972943,
+        "qs_pg:id":4470,
+        "wd:id":"Q2676632"
+    },
+    "wof:country":"BE",
+    "wof:created":1497291664,
+    "wof:geomhash":"717b15b127914cb025230fc34da63b8c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102050003,
+            "localadmin_id":1108830063,
+            "locality_id":1125811219,
+            "macroregion_id":404227357,
+            "region_id":85681709
+        }
+    ],
+    "wof:id":1125811219,
+    "wof:lastmodified":1513899356,
+    "wof:name":"Lapscheure",
+    "wof:parent_id":1108830063,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.35664,
+    51.27769,
+    3.35664,
+    51.27769
+],
+  "geometry": {"coordinates":[3.35664,51.27769],"type":"Point"}
+}

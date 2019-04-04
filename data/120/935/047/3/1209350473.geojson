@@ -1,0 +1,68 @@
+{
+  "id": 1209350473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.26649,50.66702,3.26649,50.66702",
+    "geom:latitude":50.66702,
+    "geom:longitude":3.26649,
+    "gn:admin1_code":"WAL",
+    "gn:admin2_code":"WHT",
+    "gn:admin3_code":"57.0",
+    "gn:admin4_code":"57027.0",
+    "gn:asciiname":"Nechin",
+    "gn:country_code":"BE",
+    "gn:dem":28,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2790427,
+    "gn:latitude":50.66702,
+    "gn:longitude":3.26649,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"N\u00e9chin",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "N\u00e9chin"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2790427,
+        "wk:page":"N%C3%A9chin"
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"f2bd2342b5a0c28998c1984a9429bc41",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "locality_id":1209350473
+        }
+    ],
+    "wof:id":1209350473,
+    "wof:lastmodified":1537586959,
+    "wof:name":"Nechin",
+    "wof:parent_id":85632997,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.26649,
+    50.66702,
+    3.26649,
+    50.66702
+],
+  "geometry": {"coordinates":[3.26649,50.66702],"type":"Point"}
+}

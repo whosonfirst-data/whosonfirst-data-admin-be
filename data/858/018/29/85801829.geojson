@@ -1,0 +1,113 @@
+{
+  "id": 85801829,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000018,
+    "geom:area_square_m":138217.408854,
+    "geom:bbox":"4.42199707031,50.8458387529,4.42845058715,50.8512601103",
+    "geom:latitude":50.84833,
+    "geom:longitude":4.425301,
+    "iso:country":"BE",
+    "lbl:latitude":50.848427,
+    "lbl:longitude":4.426096,
+    "mps:latitude":50.848897,
+    "mps:longitude":4.426059,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":1,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_locality":5,
+    "mz:tier_metro":30,
+    "name:fra_x_preferred":[
+        "Rodebeek"
+    ],
+    "name:nld_x_preferred":[
+        "Roodebeek"
+    ],
+    "name:unk_x_variant":[
+        "Rodebeek",
+        "Roodebeek"
+    ],
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":0,
+    "qs:gn_namadm1":"BRU",
+    "qs:gn_name":"Rodebeek",
+    "qs:local_max":62861,
+    "qs:local_sum":208570,
+    "qs:localhoods":75,
+    "qs:name":"Roodebeek",
+    "qs:name_adm0":"Belgique",
+    "qs:name_adm1":"R\u00e9gion de Bruxelles-Capitale",
+    "qs:name_adm2":"Brussel Hoofdstad",
+    "qs:name_lau":"St.-Lambrechts-Woluwe",
+    "qs:name_local":"Bruxelles",
+    "qs:photo_max":129,
+    "qs:photo_sum":130,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":2,
+    "qs:woe_adm0":23424757,
+    "qs:woe_adm1":55965974,
+    "qs:woe_adm2":12591762,
+    "qs:woe_lau":12602818,
+    "qs:woe_local":968019,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mz",
+    "wof:belongsto":[
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2787931,
+        "gp:id":976413,
+        "qs:id":187030,
+        "qs_pg:id":187030
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"f993ade9bd91f8a04b36a7f183de4a89",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801829,
+            "region_id":85681713
+        }
+    ],
+    "wof:id":85801829,
+    "wof:lang":[
+        "dut"
+    ],
+    "wof:lastmodified":1497312343,
+    "wof:name":"Roodebeek",
+    "wof:parent_id":101751573,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.42199707031011,
+    50.8458387528752,
+    4.42845058714667,
+    50.8512601103093
+],
+  "geometry": {"coordinates":[[[4.42772072129901,50.85104106522517],[4.42845058714667,50.84757294940017],[4.42749023438012,50.84757294982295],[4.42474365143113,50.84757294371964],[4.42474365234187,50.84583876285727],[4.4224772706545,50.8458387528752],[4.42247726085165,50.84583876817045],[4.42199707031011,50.84583876900008],[4.42199707031011,50.84659928163545],[4.42199707332574,50.84757294511577],[4.42254450944006,50.84843998157528],[4.42419621321363,50.84843998157528],[4.4247436555753,50.84930706783159],[4.42559834535245,50.85066078636903],[4.42679897713995,50.85104112970011],[4.42749023437756,50.8512601103093],[4.4277206534563,50.85104112970011],[4.42772072129901,50.85104106522517]]],"type":"Polygon"}
+}

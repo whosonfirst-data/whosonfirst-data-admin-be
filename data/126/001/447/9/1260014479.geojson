@@ -1,0 +1,72 @@
+{
+  "id": 1260014479,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.4353,50.71131,3.4353,50.71131",
+    "geom:latitude":50.71131,
+    "geom:longitude":3.4353,
+    "gn:admin1_code":"WAL",
+    "gn:admin2_code":"WHT",
+    "gn:admin3_code":"57.0",
+    "gn:admin4_code":"57018.0",
+    "gn:asciiname":"Basse-Plaine",
+    "gn:country_code":"BE",
+    "gn:dem":34,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2802603,
+    "gn:latitude":50.71131,
+    "gn:longitude":3.4353,
+    "gn:modification_date":"2017-03-25",
+    "gn:name":"Basse-Plaine",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681723,
+        102191581,
+        85632997,
+        404227353,
+        102049951
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2802603
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"de0ead8ef56e502ba1095f6663aa2a0b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049951,
+            "locality_id":1260014479,
+            "macroregion_id":404227353,
+            "region_id":85681723
+        }
+    ],
+    "wof:id":1260014479,
+    "wof:lastmodified":1537084152,
+    "wof:name":"Basse-Plaine",
+    "wof:parent_id":102049951,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.4353,
+    50.71131,
+    3.4353,
+    50.71131
+],
+  "geometry": {"coordinates":[3.4353,50.71131],"type":"Point"}
+}

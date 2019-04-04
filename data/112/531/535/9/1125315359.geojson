@@ -1,0 +1,76 @@
+{
+  "id": 1125315359,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2017-05-19",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.515625,50.802463,3.515625,50.802463",
+    "geom:latitude":50.802463,
+    "geom:longitude":3.515625,
+    "gn:gn_country":null,
+    "iso:country":"BE",
+    "lbl:latitude":50.802463,
+    "lbl:longitude":3.515625,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"BE",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Kluisbergen",
+    "qs_pg:name_adm0":"Belgique",
+    "qs_pg:name_adm1":"Oost-Vlaanderen",
+    "qs_pg:photos":4230,
+    "qs_pg:photos_1k":857,
+    "qs_pg:photos_9k":20,
+    "qs_pg:photos_9r":13,
+    "qs_pg:photos_all":4418,
+    "qs_pg:photos_sr":22,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1209720,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
+    "qs_pg:woe_adm0":23424757,
+    "qs_pg:woe_id":12602579,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424757,
+    "woe:name_adm0":"Belgique",
+    "woe:name_adm1":"Oost-Vlaanderen",
+    "woe:placetype":"LocalAdmin",
+    "wof:belongsto":[
+        85632997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12602579,
+        "qs_pg:id":1209720
+    },
+    "wof:country":"BE",
+    "wof:created":1497044250,
+    "wof:geomhash":"50aa25730c511a9be70407e31aaa55c4",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "localadmin_id":1125315359
+        }
+    ],
+    "wof:id":1125315359,
+    "wof:lastmodified":1505248031,
+    "wof:name":"Kluisbergen",
+    "wof:parent_id":-1,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.515625,
+    50.802463,
+    3.515625,
+    50.802463
+],
+  "geometry": {"coordinates":[3.515625,50.802463],"type":"Point"}
+}

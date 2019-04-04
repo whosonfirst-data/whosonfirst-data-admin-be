@@ -1,0 +1,90 @@
+{
+  "id": 101810517,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000075,
+    "geom:area_square_m":587945.235217,
+    "geom:bbox":"3.58765607979,50.6989095043,3.60225817327,50.713229679",
+    "geom:latitude":50.706781,
+    "geom:longitude":3.596023,
+    "iso:country":"BE",
+    "lbl:latitude":50.707748,
+    "lbl:longitude":3.594916,
+    "mps:latitude":50.707748,
+    "mps:longitude":3.594916,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Saint-Sauveur"
+    ],
+    "name:eng_x_preferred":[
+        "Saint-Sauveur"
+    ],
+    "name:fre_x_preferred":[
+        "Saint-Sauveur"
+    ],
+    "name:hun_x_preferred":[
+        "Saint-Sauveur"
+    ],
+    "qs:a0":"Belgi\u00eb#Belgique#Belgien",
+    "qs:a1":"*Hainaut",
+    "qs:a1r":"0R\u00e9gion wallone",
+    "qs:a2":"Ath",
+    "qs:adm0":"Belgi\u00eb#Belgique#Belgien",
+    "qs:la":"Frasnes-lez-Anvaing",
+    "qs:la_lc":"*BE351065",
+    "qs:level":"locality",
+    "qs:loc":"Saint-Sauveur",
+    "qs:loc_alt":"Saint-Sauveur",
+    "qs:pop":0,
+    "qs:source":"LCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        85681723,
+        102191581,
+        85632997,
+        404227353,
+        102049949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2787329,
+        "gp:id":977299,
+        "qs:id":192415,
+        "wd:id":"Q2269954"
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"3eb97ba723515046a4dfbd6d07e5755e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049949,
+            "locality_id":101810517,
+            "macroregion_id":404227353,
+            "region_id":85681723
+        }
+    ],
+    "wof:id":101810517,
+    "wof:lastmodified":1513899486,
+    "wof:name":"Saint-Sauveur",
+    "wof:parent_id":102049949,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.58765607979348,
+    50.69890950434092,
+    3.60225817326847,
+    50.71322967900352
+],
+  "geometry": {"coordinates":[[[3.59833119321479,50.71322967900352],[3.59857676722021,50.71143966256534],[3.59716554628079,50.71136112563744],[3.59753394363076,50.7086761032698],[3.60035622957616,50.70883314950663],[3.6007244141104,50.70614811331609],[3.60213548347059,50.70622660536645],[3.60225817326847,50.70533159080708],[3.60084713061565,50.70525310048191],[3.60170598277517,50.69898799985037],[3.60029513138142,50.69890950434092],[3.59992700679084,50.70159454460696],[3.59851607964168,50.70151602666425],[3.59802505834182,50.70509606805132],[3.59379198252463,50.70486038995688],[3.59391482672095,50.70396538536801],[3.59250383684849,50.70388679321121],[3.59238096594748,50.70478179607272],[3.59096995371988,50.7047031849292],[3.5908470502705,50.70559818567722],[3.58943601568763,50.705519555546],[3.58919013784032,50.70730955242806],[3.58777905419572,50.70723090158009],[3.58765607979348,50.7081258977135],[3.59188942390841,50.70836180366092],[3.5916436178216,50.71015180514075],[3.59305479465161,50.71023040939008],[3.59293190955304,50.71112541127923],[3.59575432968921,50.7112825714471],[3.59563149217575,50.71217757640545],[3.59704273548283,50.71225613232275],[3.59691991884313,50.71315113862278],[3.59833119321479,50.71322967900352]]],"type":"Polygon"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1326564029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.69509,50.52509,5.69509,50.52509",
+    "geom:latitude":50.52509,
+    "geom:longitude":5.69509,
+    "gn:admin1_code":"WAL",
+    "gn:admin2_code":"WLG",
+    "gn:admin3_code":"62.0",
+    "gn:admin4_code":"62100.0",
+    "gn:asciiname":"Blindef",
+    "gn:country_code":"BE",
+    "gn:dem":229,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2801784,
+    "gn:latitude":50.52509,
+    "gn:longitude":5.69509,
+    "gn:modification_date":"2017-03-25",
+    "gn:name":"Blindef",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681691,
+        102191581,
+        85632997,
+        404227353,
+        102049941
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2801784
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"c874f2b8beb1097f8c3541e974c51044",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049941,
+            "locality_id":1326564029,
+            "macroregion_id":404227353,
+            "region_id":85681691
+        }
+    ],
+    "wof:id":1326564029,
+    "wof:lastmodified":1536938909,
+    "wof:name":"Blindef",
+    "wof:parent_id":102049941,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.69509,
+    50.52509000000001,
+    5.69509,
+    50.52509000000001
+],
+  "geometry": {"coordinates":[5.69509,50.52509000000001],"type":"Point"}
+}

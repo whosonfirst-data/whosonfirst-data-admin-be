@@ -1,0 +1,62 @@
+{
+  "id": 1209651581,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.96667,50.16667,5.96667,50.16667",
+    "geom:latitude":50.16667,
+    "geom:longitude":5.96667,
+    "gn:admin1_code":"WAL",
+    "gn:admin2_code":"WLX",
+    "gn:asciiname":"Bellain",
+    "gn:country_code":"BE",
+    "gn:dem":499,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2802354,
+    "gn:latitude":50.16667,
+    "gn:longitude":5.96667,
+    "gn:modification_date":"2010-03-06",
+    "gn:name":"Bellain",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2802354
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"6a085cad02a3a27895f59408274854bf",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "locality_id":1209651581
+        }
+    ],
+    "wof:id":1209651581,
+    "wof:lastmodified":1536280563,
+    "wof:name":"Bellain",
+    "wof:parent_id":85632997,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.96667,
+    50.16667,
+    5.96667,
+    50.16667
+],
+  "geometry": {"coordinates":[5.96667,50.16667],"type":"Point"}
+}

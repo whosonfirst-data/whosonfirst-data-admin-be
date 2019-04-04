@@ -1,0 +1,105 @@
+{
+  "id": 1125776039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.46706,50.97779,3.46706,50.97779",
+    "geom:latitude":50.97779,
+    "geom:longitude":3.46706,
+    "gn:gn_country":"BE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"BE",
+    "lbl:latitude":50.97779,
+    "lbl:longitude":3.46706,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Grammene"
+    ],
+    "name:eng_x_preferred":[
+        "Grammene"
+    ],
+    "name:fre_x_preferred":[
+        "Grammene"
+    ],
+    "name:hun_x_preferred":[
+        "Grammene"
+    ],
+    "qs_pg:aaroncc":"BE",
+    "qs_pg:gn_country":"BE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2797327,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Grammene",
+    "qs_pg:name_adm0":"Belgique",
+    "qs_pg:name_adm1":"Oost-Vlaanderen",
+    "qs_pg:photos":9,
+    "qs_pg:photos_1k":2,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":9,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1077663,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424757,
+    "qs_pg:woe_id":970213,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424757,
+    "woe:name_adm0":"Belgique",
+    "woe:name_adm1":"Oost-Vlaanderen",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85681733,
+        102191581,
+        1108830629,
+        85632997,
+        404227357,
+        102049989
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2797327,
+        "gp:id":970213,
+        "qs_pg:id":1077663,
+        "wd:id":"Q3113372"
+    },
+    "wof:country":"BE",
+    "wof:created":1497290260,
+    "wof:geomhash":"b41f759716cf923c659a2254a3941fab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049989,
+            "localadmin_id":1108830629,
+            "locality_id":1125776039,
+            "macroregion_id":404227357,
+            "region_id":85681733
+        }
+    ],
+    "wof:id":1125776039,
+    "wof:lastmodified":1513899290,
+    "wof:name":"Grammene",
+    "wof:parent_id":1108830629,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.46706,
+    50.97779,
+    3.46706,
+    50.97779
+],
+  "geometry": {"coordinates":[3.46706,50.97779],"type":"Point"}
+}

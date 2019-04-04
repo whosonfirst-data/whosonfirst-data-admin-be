@@ -1,0 +1,65 @@
+{
+  "id": 1209449375,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.06425,50.47657,4.06425,50.47657",
+    "geom:latitude":50.47657,
+    "geom:longitude":4.06425,
+    "gn:admin1_code":"WAL",
+    "gn:admin2_code":"WHT",
+    "gn:admin3_code":"55.0",
+    "gn:admin4_code":"55035.0",
+    "gn:asciiname":"Ville-sur-Haine",
+    "gn:country_code":"BE",
+    "gn:dem":48,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2784608,
+    "gn:latitude":50.47657,
+    "gn:longitude":4.06425,
+    "gn:modification_date":"2017-03-25",
+    "gn:name":"Ville-sur-Haine",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2784608,
+        "wk:page":"Ville-sur-Haine"
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"76aed4e585e4c1b1c9eaa999c633abdc",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "locality_id":1209449375
+        }
+    ],
+    "wof:id":1209449375,
+    "wof:lastmodified":1537487522,
+    "wof:name":"Ville-sur-Haine",
+    "wof:parent_id":85632997,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.06425,
+    50.47657,
+    4.06425,
+    50.47657
+],
+  "geometry": {"coordinates":[4.06425,50.47657],"type":"Point"}
+}

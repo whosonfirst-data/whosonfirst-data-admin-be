@@ -1,0 +1,72 @@
+{
+  "id": 1242614483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.69991,49.56758,5.69991,49.56758",
+    "geom:latitude":49.56758,
+    "geom:longitude":5.69991,
+    "gn:admin1_code":"WAL",
+    "gn:admin2_code":"WLX",
+    "gn:admin3_code":"85.0",
+    "gn:admin4_code":"85026.0",
+    "gn:asciiname":"Gennevaux",
+    "gn:country_code":"BE",
+    "gn:dem":245,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2797664,
+    "gn:latitude":49.56758,
+    "gn:longitude":5.69991,
+    "gn:modification_date":"2017-03-25",
+    "gn:name":"Gennevaux",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681727,
+        102191581,
+        85632997,
+        404227353,
+        102049907
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2797664
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"d7198ef997ba401ec2e603e547554960",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049907,
+            "locality_id":1242614483,
+            "macroregion_id":404227353,
+            "region_id":85681727
+        }
+    ],
+    "wof:id":1242614483,
+    "wof:lastmodified":1537009755,
+    "wof:name":"Gennevaux",
+    "wof:parent_id":102049907,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.69991,
+    49.56758,
+    5.69991,
+    49.56758
+],
+  "geometry": {"coordinates":[5.69991,49.56758],"type":"Point"}
+}

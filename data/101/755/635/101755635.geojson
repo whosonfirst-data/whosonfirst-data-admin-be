@@ -1,0 +1,82 @@
+{
+  "id": 101755635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000068,
+    "geom:area_square_m":528391.379115,
+    "geom:bbox":"4.71848737484,51.0214152916,4.74430643046,51.0310899385",
+    "geom:latitude":51.025864,
+    "geom:longitude":4.730316,
+    "iso:country":"BE",
+    "lbl:latitude":51.024108,
+    "lbl:longitude":4.72836,
+    "mps:latitude":51.024108,
+    "mps:longitude":4.72836,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:unk_x_variant":[
+        "Hazenbergen"
+    ],
+    "qs:a0":"Belgi\u00eb#Belgique#Belgien",
+    "qs:a1":"*Antwerpen",
+    "qs:a1r":"0Vlaams Gewest",
+    "qs:a2":"Mechelen",
+    "qs:adm0":"Belgi\u00eb#Belgique#Belgien",
+    "qs:la":"Kalmthout",
+    "qs:la_lc":"*BE211022",
+    "qs:level":"locality",
+    "qs:loc":"Hazebergen",
+    "qs:loc_alt":"Hazebergen",
+    "qs:pop":0,
+    "qs:source":"LCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"suburbs point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        85681715,
+        102191581,
+        1108830023,
+        85632997,
+        404227357,
+        102049985
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2796342,
+        "gp:id":970935,
+        "qs:id":1
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"3b0a878e87d2a19b18dfd146cc17f358",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049985,
+            "localadmin_id":1108830023,
+            "locality_id":101755635,
+            "macroregion_id":404227357,
+            "region_id":85681715
+        }
+    ],
+    "wof:id":101755635,
+    "wof:lastmodified":1501264133,
+    "wof:name":"Hazebergen",
+    "wof:parent_id":1108830023,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.71848737484265,
+    51.02141529160781,
+    4.74430643045832,
+    51.0310899385039
+],
+  "geometry": {"coordinates":[[[4.74430643045832,51.02708509091042],[4.74343311506158,51.02614459740619],[4.73534911807349,51.02577733341593],[4.73545113739874,51.02488111761994],[4.73260675007538,51.02475175386985],[4.7327088191372,51.02385554063983],[4.72986450104628,51.02372611002619],[4.72996661983899,51.02282989936356],[4.7200118127995,51.02237635311678],[4.72011411787093,51.02148015222178],[4.71869204451622,51.02141529160781],[4.71848737484265,51.02320769020645],[4.72275376974579,51.02340222839359],[4.72265150948402,51.02429843155147],[4.72407367574647,51.02436324418625],[4.72366469489515,51.02794805949071],[4.72508697408415,51.02801286045019],[4.72488250886215,51.02980526913069],[4.72630484634976,51.02987005553342],[4.72681583601741,51.02538902432048],[4.73250467611649,51.02564796679167],[4.73189212949791,51.03102523784821],[4.7333145125782,51.0310899385039],[4.73341658860477,51.03019372599363],[4.73483894801262,51.03025840777445],[4.73514506473606,51.02756976408364],[4.74083421098527,51.02782829959756],[4.74093613082033,51.02693207867304],[4.74430643045832,51.02708509091042]]],"type":"Polygon"}
+}

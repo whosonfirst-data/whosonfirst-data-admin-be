@@ -1,0 +1,113 @@
+{
+  "id": 85801301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":19679911.628878,
+    "geom:bbox":"4.432257,51.308704,4.432257,51.308704",
+    "geom:latitude":51.308704,
+    "geom:longitude":4.432257,
+    "iso:country":"BE",
+    "lbl:latitude":51.308704,
+    "lbl:longitude":4.432257,
+    "mps:latitude":51.307459,
+    "mps:longitude":4.433338,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":13.0,
+    "mz:tier_locality":1,
+    "name:dut_x_preferred":[
+        "Hoogboom"
+    ],
+    "name:unk_x_variant":[
+        "Hoogboom"
+    ],
+    "qs:gn_adm0_cc":"BE",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_local":2794730,
+    "qs:gn_nam_loc":"Kapellen, Kapellen, Antwerpen, Antwerpen, BE",
+    "qs:gn_namadm1":"VLG",
+    "qs:gn_name":"Hoogboom",
+    "qs:local_max":415,
+    "qs:local_sum":415,
+    "qs:localhoods":1,
+    "qs:name":"Hoogboom",
+    "qs:name_adm0":"Belgique",
+    "qs:name_adm1":"Antwerpen",
+    "qs:name_adm2":"Antwerpen",
+    "qs:name_lau":"Kapellen",
+    "qs:name_local":"Kapellen",
+    "qs:photo_max":89,
+    "qs:photo_sum":415,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":35,
+    "qs:woe_adm0":23424757,
+    "qs:woe_adm1":7153308,
+    "qs:woe_adm2":12591760,
+    "qs:woe_lau":12602748,
+    "qs:woe_local":971867,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        85681715,
+        102191581,
+        1108830423,
+        85632997,
+        404227357,
+        101748101,
+        102050005
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2795452,
+        "gp:id":971421,
+        "qs:id":1064108,
+        "qs_pg:id":1064108
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"975935d7482c360a291d0d886c4383e8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102050005,
+            "localadmin_id":1108830423,
+            "locality_id":101748101,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85801301,
+            "region_id":85681715
+        }
+    ],
+    "wof:id":85801301,
+    "wof:lang":[
+        "dut"
+    ],
+    "wof:lastmodified":1531862074,
+    "wof:name":"Hoogboom",
+    "wof:parent_id":101748101,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.432257,
+    51.308704,
+    4.432257,
+    51.308704
+],
+  "geometry": {"coordinates":[4.432257,51.308704],"type":"Point"}
+}

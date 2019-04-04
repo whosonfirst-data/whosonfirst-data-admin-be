@@ -1,0 +1,72 @@
+{
+  "id": 1327469983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.7,50.38333,4.7,50.38333",
+    "geom:latitude":50.38333,
+    "geom:longitude":4.7,
+    "gn:admin1_code":"WAL",
+    "gn:admin2_code":"WNA",
+    "gn:admin3_code":"92.0",
+    "gn:admin4_code":"92048.0",
+    "gn:asciiname":"Stierlinsart",
+    "gn:country_code":"BE",
+    "gn:dem":231,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2786042,
+    "gn:latitude":50.38333,
+    "gn:longitude":4.7,
+    "gn:modification_date":"2017-03-25",
+    "gn:name":"Stierlinsart",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681699,
+        102191581,
+        85632997,
+        404227353,
+        102049931
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2786042
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"cb42b5c85c2ecafffac97779075d193c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049931,
+            "locality_id":1327469983,
+            "macroregion_id":404227353,
+            "region_id":85681699
+        }
+    ],
+    "wof:id":1327469983,
+    "wof:lastmodified":1536624466,
+    "wof:name":"Stierlinsart",
+    "wof:parent_id":102049931,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.7,
+    50.38333,
+    4.7,
+    50.38333
+],
+  "geometry": {"coordinates":[4.7,50.38333],"type":"Point"}
+}

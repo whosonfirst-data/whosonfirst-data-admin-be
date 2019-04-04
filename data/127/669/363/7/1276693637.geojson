@@ -1,0 +1,75 @@
+{
+  "id": 1276693637,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.34123,50.02748,4.34123,50.02748",
+    "geom:latitude":50.02748,
+    "geom:longitude":4.34123,
+    "gn:admin1_code":"WAL",
+    "gn:admin2_code":"WHT",
+    "gn:admin3_code":"56.0",
+    "gn:admin4_code":"56016.0",
+    "gn:asciiname":"Bourlers",
+    "gn:country_code":"BE",
+    "gn:dem":253,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2801244,
+    "gn:latitude":50.02748,
+    "gn:longitude":4.34123,
+    "gn:modification_date":"2011-08-09",
+    "gn:name":"Bourlers",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chimay (Bourlers)"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681723,
+        102191581,
+        85632997,
+        404227353,
+        102049923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2801244
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"8b86c0484c04e02a8604a876e71056e8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049923,
+            "locality_id":1276693637,
+            "macroregion_id":404227353,
+            "region_id":85681723
+        }
+    ],
+    "wof:id":1276693637,
+    "wof:lastmodified":1537587067,
+    "wof:name":"Bourlers",
+    "wof:parent_id":102049923,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.34123,
+    50.02748,
+    4.34123,
+    50.02748
+],
+  "geometry": {"coordinates":[4.34123,50.02748],"type":"Point"}
+}

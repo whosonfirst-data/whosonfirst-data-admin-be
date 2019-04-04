@@ -1,0 +1,108 @@
+{
+  "id": 1125779939,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.57203,50.43028,4.57203,50.43028",
+    "geom:latitude":50.43028,
+    "geom:longitude":4.57203,
+    "gn:gn_country":"BE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"BE",
+    "lbl:latitude":50.43028,
+    "lbl:longitude":4.57203,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Roselies"
+    ],
+    "name:eng_x_preferred":[
+        "Roselies"
+    ],
+    "name:fre_x_preferred":[
+        "Roselies"
+    ],
+    "name:ger_x_preferred":[
+        "Roselies"
+    ],
+    "name:hun_x_preferred":[
+        "Roselies"
+    ],
+    "name:unk_x_variant":[
+        "Aiseau-Presles (Roselies)"
+    ],
+    "name:wln_x_preferred":[
+        "Rojni"
+    ],
+    "qs_pg:aaroncc":"BE",
+    "qs_pg:gn_country":"BE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2787711,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Roselies",
+    "qs_pg:name_adm0":"Belgique",
+    "qs_pg:name_adm1":"Hainaut",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":192343,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424757,
+    "qs_pg:woe_id":976443,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424757,
+    "woe:name_adm0":"Belgique",
+    "woe:name_adm1":"Hainaut",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85681723,
+        102191581,
+        85632997,
+        404227353,
+        102049927
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2787711,
+        "gp:id":976443,
+        "qs_pg:id":192343,
+        "wd:id":"Q590654"
+    },
+    "wof:country":"BE",
+    "wof:created":1497290422,
+    "wof:geomhash":"5cbee8cdab467e7f6746e0a2eecee00f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049927,
+            "locality_id":1125779939,
+            "macroregion_id":404227353,
+            "region_id":85681723
+        }
+    ],
+    "wof:id":1125779939,
+    "wof:lastmodified":1513899481,
+    "wof:name":"Roselies",
+    "wof:parent_id":102049927,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.57203,
+    50.43028,
+    4.57203,
+    50.43028
+],
+  "geometry": {"coordinates":[4.57203,50.43028],"type":"Point"}
+}

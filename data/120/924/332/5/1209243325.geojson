@@ -1,0 +1,64 @@
+{
+  "id": 1209243325,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.59236,49.8548,5.59236,49.8548",
+    "geom:latitude":49.8548,
+    "geom:longitude":5.59236,
+    "gn:admin1_code":"WAL",
+    "gn:admin2_code":"WLX",
+    "gn:admin3_code":"84.0",
+    "gn:admin4_code":"84033.0",
+    "gn:asciiname":"Traimont",
+    "gn:country_code":"BE",
+    "gn:dem":447,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2785320,
+    "gn:latitude":49.8548,
+    "gn:longitude":5.59236,
+    "gn:modification_date":"2017-03-25",
+    "gn:name":"Traimont",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2785320
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"0303dda3ff19f714b107e37a727c200d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "locality_id":1209243325
+        }
+    ],
+    "wof:id":1209243325,
+    "wof:lastmodified":1536293248,
+    "wof:name":"Traimont",
+    "wof:parent_id":85632997,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.59236,
+    49.8548,
+    5.59236,
+    49.8548
+],
+  "geometry": {"coordinates":[5.59236,49.8548],"type":"Point"}
+}

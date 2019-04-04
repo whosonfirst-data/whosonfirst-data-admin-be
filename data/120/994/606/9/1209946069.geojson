@@ -1,0 +1,72 @@
+{
+  "id": 1209946069,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.27643,50.31165,4.27643,50.31165",
+    "geom:latitude":50.31165,
+    "geom:longitude":4.27643,
+    "gn:admin1_code":"WAL",
+    "gn:admin2_code":"WHT",
+    "gn:admin3_code":"56.0",
+    "gn:admin4_code":"56078.0",
+    "gn:asciiname":"Lyree",
+    "gn:country_code":"BE",
+    "gn:dem":177,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2791987,
+    "gn:latitude":50.31165,
+    "gn:longitude":4.27643,
+    "gn:modification_date":"2017-03-25",
+    "gn:name":"Lyr\u00e9e",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681723,
+        102191581,
+        85632997,
+        404227353,
+        102049923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2791987
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"b80e9a1aaf236c97eb44bb22f4d75e5b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049923,
+            "locality_id":1209946069,
+            "macroregion_id":404227353,
+            "region_id":85681723
+        }
+    ],
+    "wof:id":1209946069,
+    "wof:lastmodified":1536386323,
+    "wof:name":"Lyree",
+    "wof:parent_id":102049923,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.27643,
+    50.31165,
+    4.27643,
+    50.31165
+],
+  "geometry": {"coordinates":[4.27643,50.31165],"type":"Point"}
+}

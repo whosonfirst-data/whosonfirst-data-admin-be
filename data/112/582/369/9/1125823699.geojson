@@ -1,0 +1,91 @@
+{
+  "id": 1125823699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.43961,50.89439,5.43961,50.89439",
+    "geom:latitude":50.89439,
+    "geom:longitude":5.43961,
+    "gn:gn_country":"BE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"BE",
+    "lbl:latitude":50.89439,
+    "lbl:longitude":5.43961,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:unk_x_variant":[
+        "Reijtje"
+    ],
+    "qs_pg:aaroncc":"BE",
+    "qs_pg:gn_country":"BE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2788241,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Reitje",
+    "qs_pg:name_adm0":"Belgique",
+    "qs_pg:name_adm1":"Limburg",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":192327,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424757,
+    "qs_pg:woe_id":976124,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424757,
+    "woe:name_adm0":"Belgique",
+    "woe:name_adm1":"Limburg",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85681705,
+        102191581,
+        1108830257,
+        85632997,
+        404227357,
+        102049975
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2788241,
+        "gp:id":976124,
+        "qs_pg:id":192327
+    },
+    "wof:country":"BE",
+    "wof:created":1497292181,
+    "wof:geomhash":"57fd5859eac0dfdcfbe7b87be999a0ed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049975,
+            "localadmin_id":1108830257,
+            "locality_id":1125823699,
+            "macroregion_id":404227357,
+            "region_id":85681705
+        }
+    ],
+    "wof:id":1125823699,
+    "wof:lastmodified":1509394272,
+    "wof:name":"Reitje",
+    "wof:parent_id":1108830257,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.43961,
+    50.89439,
+    5.43961,
+    50.89439
+],
+  "geometry": {"coordinates":[5.43961,50.89439],"type":"Point"}
+}

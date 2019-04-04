@@ -1,0 +1,72 @@
+{
+  "id": 1343698535,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.15,50.03333,4.15,50.03333",
+    "geom:latitude":50.03333,
+    "geom:longitude":4.15,
+    "gn:admin1_code":"WAL",
+    "gn:admin2_code":"WHT",
+    "gn:admin3_code":"56.0",
+    "gn:admin4_code":"56051.0",
+    "gn:asciiname":"Trieux",
+    "gn:country_code":"BE",
+    "gn:dem":233,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2785252,
+    "gn:latitude":50.03333,
+    "gn:longitude":4.15,
+    "gn:modification_date":"2017-03-25",
+    "gn:name":"Trieux",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681723,
+        102191581,
+        85632997,
+        404227353,
+        102049923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2785252
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"975521398e5c4cc912bfb98d98bec5c0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049923,
+            "locality_id":1343698535,
+            "macroregion_id":404227353,
+            "region_id":85681723
+        }
+    ],
+    "wof:id":1343698535,
+    "wof:lastmodified":1536900112,
+    "wof:name":"Trieux",
+    "wof:parent_id":102049923,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.15,
+    50.03333,
+    4.15,
+    50.03333
+],
+  "geometry": {"coordinates":[4.15,50.03333],"type":"Point"}
+}

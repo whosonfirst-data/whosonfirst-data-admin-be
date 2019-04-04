@@ -1,0 +1,68 @@
+{
+  "id": 1209650043,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.43074,51.08621,3.43074,51.08621",
+    "geom:latitude":51.08621,
+    "geom:longitude":3.43074,
+    "gn:admin1_code":"VLG",
+    "gn:admin2_code":"VOV",
+    "gn:admin3_code":"44.0",
+    "gn:admin4_code":"44001.0",
+    "gn:asciiname":"Stratem",
+    "gn:country_code":"BE",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2785976,
+    "gn:latitude":51.08621,
+    "gn:longitude":3.43074,
+    "gn:modification_date":"2016-08-02",
+    "gn:name":"Stratem",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Straathem",
+        "Stratem"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2785976
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"72f3b6f691afd012cd0a8841b1f48f72",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "locality_id":1209650043
+        }
+    ],
+    "wof:id":1209650043,
+    "wof:lastmodified":1537586907,
+    "wof:name":"Stratem",
+    "wof:parent_id":85632997,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.43074,
+    51.08621,
+    3.43074,
+    51.08621
+],
+  "geometry": {"coordinates":[3.43074,51.08621],"type":"Point"}
+}

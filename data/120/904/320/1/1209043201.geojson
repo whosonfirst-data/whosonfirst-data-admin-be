@@ -1,0 +1,68 @@
+{
+  "id": 1209043201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.99484,50.992,2.99484,50.992",
+    "geom:latitude":50.992,
+    "geom:longitude":2.99484,
+    "gn:admin1_code":"VLG",
+    "gn:admin2_code":"VWV",
+    "gn:admin3_code":"32.0",
+    "gn:admin4_code":"32011.0",
+    "gn:asciiname":"Vuilpan",
+    "gn:country_code":"BE",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2784273,
+    "gn:latitude":50.992,
+    "gn:longitude":2.99484,
+    "gn:modification_date":"2016-08-02",
+    "gn:name":"Vuilpan",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Vuilepan",
+        "Vuilpan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2784273
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"11cf3629b8a95fac8d7685f400aefad4",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "locality_id":1209043201
+        }
+    ],
+    "wof:id":1209043201,
+    "wof:lastmodified":1537586887,
+    "wof:name":"Vuilpan",
+    "wof:parent_id":85632997,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.99484,
+    50.992,
+    2.99484,
+    50.992
+],
+  "geometry": {"coordinates":[2.99484,50.992],"type":"Point"}
+}

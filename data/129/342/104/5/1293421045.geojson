@@ -1,0 +1,73 @@
+{
+  "id": 1293421045,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.82891,50.40983,3.82891,50.40983",
+    "geom:latitude":50.40983,
+    "geom:longitude":3.82891,
+    "gn:admin1_code":"WAL",
+    "gn:admin2_code":"WHT",
+    "gn:admin3_code":"53.0",
+    "gn:admin4_code":"53082.0",
+    "gn:asciiname":"Petit Wasmes",
+    "gn:country_code":"BE",
+    "gn:dem":81,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2789027,
+    "gn:latitude":50.40983,
+    "gn:longitude":3.82891,
+    "gn:modification_date":"2017-03-25",
+    "gn:name":"Petit Wasmes",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681723,
+        102191581,
+        85632997,
+        404227353,
+        102049933
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2789027,
+        "wk:page":"Petit_Wasmes"
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"bc55ff095fa5bad745bb1f959857bebb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049933,
+            "locality_id":1293421045,
+            "macroregion_id":404227353,
+            "region_id":85681723
+        }
+    ],
+    "wof:id":1293421045,
+    "wof:lastmodified":1537487539,
+    "wof:name":"Petit Wasmes",
+    "wof:parent_id":102049933,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.82891,
+    50.40983,
+    3.82891,
+    50.40983
+],
+  "geometry": {"coordinates":[3.82891,50.40983],"type":"Point"}
+}

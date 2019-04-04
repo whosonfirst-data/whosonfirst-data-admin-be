@@ -1,0 +1,93 @@
+{
+  "id": 1125376793,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2017-05-19",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.98768,50.87277,2.98768,50.87277",
+    "geom:latitude":50.87277,
+    "geom:longitude":2.98768,
+    "gn:gn_country":"BE",
+    "gn:gn_fcode":"ADM4",
+    "gn:gn_pop":12273,
+    "gn:population":12273,
+    "iso:country":"BE",
+    "lbl:latitude":50.87277,
+    "lbl:longitude":2.98768,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bul_x_preferred":[
+        "\u0417\u043e\u043d\u0435\u0431\u0435\u043a\u0435"
+    ],
+    "name:ell_x_preferred":[
+        "\u0396\u03bf\u03bd\u03b5\u03bc\u03c0\u03ad\u03ba\u03b5"
+    ],
+    "name:fas_x_preferred":[
+        "\u0632\u0648\u0646\u0648\u0628\u0648\u06a9"
+    ],
+    "name:lat_x_preferred":[
+        "Sonnebeca"
+    ],
+    "name:rus_x_preferred":[
+        "\u0417\u043e\u043d\u043d\u0435\u0431\u0435\u043a\u0435"
+    ],
+    "name:vls_x_preferred":[
+        "Zunnebeke"
+    ],
+    "name:zho_x_preferred":[
+        "\u4f50\u5185\u8d1d\u514b"
+    ],
+    "qs_pg:aaroncc":"BE",
+    "qs_pg:gn_country":"BE",
+    "qs_pg:gn_fcode":"ADM4",
+    "qs_pg:gn_id":2783185,
+    "qs_pg:gn_pop":12273,
+    "qs_pg:name":"Zonnebeke",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":6,
+    "qs_pg:qs_id":373519,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85632997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2783185,
+        "qs_pg:id":373519
+    },
+    "wof:country":"BE",
+    "wof:created":1497047796,
+    "wof:geomhash":"eed5c482c7723e27fc5e49f6eccdaf85",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "localadmin_id":1125376793
+        }
+    ],
+    "wof:id":1125376793,
+    "wof:lastmodified":1505185639,
+    "wof:name":"Zonnebeke",
+    "wof:parent_id":-1,
+    "wof:placetype":"localadmin",
+    "wof:population":12273,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.98768,
+    50.87277,
+    2.98768,
+    50.87277
+],
+  "geometry": {"coordinates":[2.98768,50.87277],"type":"Point"}
+}

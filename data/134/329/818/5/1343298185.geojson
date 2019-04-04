@@ -1,0 +1,74 @@
+{
+  "id": 1343298185,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.78333,51.28333,4.78333,51.28333",
+    "geom:latitude":51.28333,
+    "geom:longitude":4.78333,
+    "gn:admin1_code":"VLG",
+    "gn:admin2_code":"VAN",
+    "gn:admin3_code":"13.0",
+    "gn:admin4_code":"13004.0",
+    "gn:asciiname":"Ronde Heide",
+    "gn:country_code":"BE",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2787793,
+    "gn:latitude":51.28333,
+    "gn:longitude":4.78333,
+    "gn:modification_date":"2016-08-02",
+    "gn:name":"Ronde Heide",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681715,
+        102191581,
+        1108830491,
+        85632997,
+        404227357,
+        102050007
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2787793
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"4c2f369e040c1b9feab7b5a6c5e35ba2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102050007,
+            "localadmin_id":1108830491,
+            "locality_id":1343298185,
+            "macroregion_id":404227357,
+            "region_id":85681715
+        }
+    ],
+    "wof:id":1343298185,
+    "wof:lastmodified":1536979741,
+    "wof:name":"Ronde Heide",
+    "wof:parent_id":1108830491,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.78333,
+    51.28333,
+    4.78333,
+    51.28333
+],
+  "geometry": {"coordinates":[4.78333,51.28333],"type":"Point"}
+}

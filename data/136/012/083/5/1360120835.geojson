@@ -1,0 +1,72 @@
+{
+  "id": 1360120835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.95089,50.47673,4.95089,50.47673",
+    "geom:latitude":50.47673,
+    "geom:longitude":4.95089,
+    "gn:admin1_code":"WAL",
+    "gn:admin2_code":"WNA",
+    "gn:admin3_code":"92.0",
+    "gn:admin4_code":"92094.0",
+    "gn:asciiname":"Brumagne",
+    "gn:country_code":"BE",
+    "gn:dem":123,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2800887,
+    "gn:latitude":50.47673,
+    "gn:longitude":4.95089,
+    "gn:modification_date":"2017-03-25",
+    "gn:name":"Brumagne",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681699,
+        102191581,
+        85632997,
+        404227353,
+        102049931
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2800887
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"dd5809c8ea374497b6d7cc9b0a6ab3d5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049931,
+            "locality_id":1360120835,
+            "macroregion_id":404227353,
+            "region_id":85681699
+        }
+    ],
+    "wof:id":1360120835,
+    "wof:lastmodified":1536893748,
+    "wof:name":"Brumagne",
+    "wof:parent_id":102049931,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.95089,
+    50.47673,
+    4.95089,
+    50.47673
+],
+  "geometry": {"coordinates":[4.95089,50.47673],"type":"Point"}
+}

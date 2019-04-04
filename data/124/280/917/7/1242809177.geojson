@@ -1,0 +1,133 @@
+{
+  "id": 1242809177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.42912,50.84389,4.42912,50.84389",
+    "geom:latitude":50.84389,
+    "geom:longitude":4.42912,
+    "gn:admin1_code":"BRU",
+    "gn:admin2_code":"BRU",
+    "gn:admin3_code":"21.0",
+    "gn:admin4_code":"21018.0",
+    "gn:asciiname":"Woluwe-Saint-Lambert",
+    "gn:country_code":"BE",
+    "gn:dem":72,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2783476,
+    "gn:latitude":50.84389,
+    "gn:longitude":4.42912,
+    "gn:modification_date":"2011-01-26",
+    "gn:name":"Woluwe-Saint-Lambert",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0421\u0438\u043d\u0442 \u041b\u0430\u043c\u0431\u0440\u0435\u0445\u0442\u0441 - \u0412\u043e\u043b\u044e\u0432\u0435"
+    ],
+    "name:cat_x_preferred":[
+        "Woluwe-Saint-Lambert"
+    ],
+    "name:deu_x_preferred":[
+        "Woluwe-Saint-Lambert/Sint-Lambrechts-Woluwe"
+    ],
+    "name:eng_x_preferred":[
+        "Woluwe-Saint-Lambert"
+    ],
+    "name:epo_x_preferred":[
+        "Woluwe-Saint-Lambert"
+    ],
+    "name:fas_x_preferred":[
+        "\u0648\u0648\u0644\u0648\u0648-\u0633\u0646-\u0644\u0627\u0645\u0628\u0631"
+    ],
+    "name:fra_x_preferred":[
+        "Woluw\u00e9-Saint-Lambert"
+    ],
+    "name:fra_x_variant":[
+        "Bruxelles (Woluwe-Saint-Lambert)"
+    ],
+    "name:ind_x_preferred":[
+        "Woluwe-Saint-Lambert - Sint-Lambrechts-Woluwe"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30f4\u30a9\u30ea\u30e5\u30a6\u30a7\uff1d\u30b5\u30f3\uff1d\u30e9\u30f3\u30d9\u30fc\u30eb"
+    ],
+    "name:kor_x_preferred":[
+        "\uc6d4\ub93c\ube0c\uc0dd\ub791\ubca0\ub974"
+    ],
+    "name:lim_x_preferred":[
+        "Sint-Lambrechts-Woluwe"
+    ],
+    "name:ltz_x_preferred":[
+        "Woluwe-Saint-Lambert - Sint-Lambrechts-Woluwe"
+    ],
+    "name:nld_x_preferred":[
+        "Brussel (Sint-Lambrechts-Woluwe)"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u043e\u043b\u044e\u0432\u0435-\u0421\u0435\u043d-\u041b\u0430\u043c\u0431\u0435\u0440"
+    ],
+    "name:spa_x_preferred":[
+        "Woluwe-Saint-Lambert"
+    ],
+    "name:srp_x_preferred":[
+        "\u0412\u043e\u043b\u0438\u0432\u0435 \u0421\u0435\u043d \u041b\u0430\u043c\u0431\u0435\u0440"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0412\u043e\u043b\u044e\u0432\u0435-\u0421\u0435\u043d-\u041b\u0430\u043c\u0431\u0435\u0440"
+    ],
+    "name:und_x_variant":[
+        "Sint-Lambrechts-Woluwe"
+    ],
+    "name:zho_x_preferred":[
+        "\u6c83\u5415\u97e6-\u5723\u5170\u4f2f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681713,
+        102191581,
+        85632997,
+        404227355,
+        102049957
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2783476,
+        "wk:page":"Woluwe-Saint-Lambert"
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"3032b23dc1edecc8ffab124b8d871f42",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":1242809177,
+            "macroregion_id":404227355,
+            "region_id":85681713
+        }
+    ],
+    "wof:id":1242809177,
+    "wof:lastmodified":1537586880,
+    "wof:name":"Woluwe-Saint-Lambert",
+    "wof:parent_id":102049957,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.42912,
+    50.84389,
+    4.42912,
+    50.84389
+],
+  "geometry": {"coordinates":[4.42912,50.84389],"type":"Point"}
+}

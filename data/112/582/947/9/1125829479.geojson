@@ -1,0 +1,115 @@
+{
+  "id": 1125829479,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.66955,50.68237,5.66955,50.68237",
+    "geom:latitude":50.68237,
+    "geom:longitude":5.66955,
+    "gn:gn_country":"BE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"BE",
+    "lbl:latitude":50.68237,
+    "lbl:longitude":5.66955,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Cheratte"
+    ],
+    "name:dut_x_preferred":[
+        "Cheratte"
+    ],
+    "name:eng_x_preferred":[
+        "Cheratte"
+    ],
+    "name:fre_x_preferred":[
+        "Cheratte"
+    ],
+    "name:hun_x_preferred":[
+        "Cheratte"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b7\u30e5\u30e9\u30c3\u30c8"
+    ],
+    "name:ltz_x_preferred":[
+        "Cheratte"
+    ],
+    "name:unk_x_variant":[
+        "Vis\u00e9 (Cheratte)"
+    ],
+    "qs_pg:aaroncc":"BE",
+    "qs_pg:gn_country":"BE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2800363,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Cheratte",
+    "qs_pg:name_adm0":"Belgique",
+    "qs_pg:name_adm1":"Li\u00e8ge",
+    "qs_pg:photos":76,
+    "qs_pg:photos_1k":15,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":3,
+    "qs_pg:photos_all":76,
+    "qs_pg:photos_sr":3,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1169708,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424757,
+    "qs_pg:woe_id":968325,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424757,
+    "woe:name_adm0":"Belgique",
+    "woe:name_adm1":"Li\u00e8ge",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85681691,
+        102191581,
+        85632997,
+        404227353,
+        102049941
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2800363,
+        "gp:id":968325,
+        "qs_pg:id":1169708,
+        "wd:id":"Q2470479"
+    },
+    "wof:country":"BE",
+    "wof:created":1497292427,
+    "wof:geomhash":"62a151080fad348ee2b91f996571ead9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049941,
+            "locality_id":1125829479,
+            "macroregion_id":404227353,
+            "region_id":85681691
+        }
+    ],
+    "wof:id":1125829479,
+    "wof:lastmodified":1513899215,
+    "wof:name":"Cheratte",
+    "wof:parent_id":102049941,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.66955,
+    50.68237,
+    5.66955,
+    50.68237
+],
+  "geometry": {"coordinates":[5.66955,50.68237],"type":"Point"}
+}

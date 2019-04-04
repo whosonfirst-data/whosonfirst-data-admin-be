@@ -1,0 +1,87 @@
+{
+  "id": 1125374873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2017-05-19",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.3088,50.54845,5.3088,50.54845",
+    "geom:latitude":50.54845,
+    "geom:longitude":5.3088,
+    "gn:gn_country":"BE",
+    "gn:gn_fcode":"ADM4",
+    "gn:gn_pop":13621,
+    "gn:population":13621,
+    "iso:country":"BE",
+    "lbl:latitude":50.54845,
+    "lbl:longitude":5.3088,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bul_x_preferred":[
+        "\u0410\u043c\u0435"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0645\u0647"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u043c\u0435"
+    ],
+    "name:wln_x_preferred":[
+        "Ama"
+    ],
+    "name:zho_x_preferred":[
+        "\u963f\u8fc8"
+    ],
+    "qs_pg:aaroncc":"BE",
+    "qs_pg:gn_country":"BE",
+    "qs_pg:gn_fcode":"ADM4",
+    "qs_pg:gn_id":2803247,
+    "qs_pg:gn_pop":13621,
+    "qs_pg:name":"Amay",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":6,
+    "qs_pg:qs_id":373656,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85632997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2803247,
+        "qs_pg:id":373656
+    },
+    "wof:country":"BE",
+    "wof:created":1497047657,
+    "wof:geomhash":"800ed1689d238d93fe2d814e8e57add8",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "localadmin_id":1125374873
+        }
+    ],
+    "wof:id":1125374873,
+    "wof:lastmodified":1505185647,
+    "wof:name":"Amay",
+    "wof:parent_id":-1,
+    "wof:placetype":"localadmin",
+    "wof:population":13621,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.3088,
+    50.54845,
+    5.3088,
+    50.54845
+],
+  "geometry": {"coordinates":[5.3088,50.54845],"type":"Point"}
+}

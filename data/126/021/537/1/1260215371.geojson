@@ -1,0 +1,76 @@
+{
+  "id": 1260215371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.14536,50.53428,5.14536,50.53428",
+    "geom:latitude":50.53428,
+    "geom:longitude":5.14536,
+    "gn:admin1_code":"WAL",
+    "gn:admin2_code":"WLG",
+    "gn:admin3_code":"61.0",
+    "gn:admin4_code":"61028.0",
+    "gn:asciiname":"Envoz",
+    "gn:country_code":"BE",
+    "gn:dem":162,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2798724,
+    "gn:latitude":50.53428,
+    "gn:longitude":5.14536,
+    "gn:modification_date":"2017-03-25",
+    "gn:name":"Envoz",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Envaux",
+        "Envoz"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681691,
+        102191581,
+        85632997,
+        404227353,
+        102049925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2798724
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"241db8b9ee2379e883629b1863c6ee6e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049925,
+            "locality_id":1260215371,
+            "macroregion_id":404227353,
+            "region_id":85681691
+        }
+    ],
+    "wof:id":1260215371,
+    "wof:lastmodified":1537587042,
+    "wof:name":"Envoz",
+    "wof:parent_id":102049925,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.14536,
+    50.53428,
+    5.14536,
+    50.53428
+],
+  "geometry": {"coordinates":[5.14536,50.53428],"type":"Point"}
+}

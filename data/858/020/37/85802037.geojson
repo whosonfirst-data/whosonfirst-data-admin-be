@@ -1,0 +1,109 @@
+{
+  "id": 85802037,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":18467736.729952,
+    "geom:bbox":"4.268534,50.75459,4.268534,50.75459",
+    "geom:latitude":50.75459,
+    "geom:longitude":4.268534,
+    "gn:id":"",
+    "iso:country":"BE",
+    "lbl:latitude":50.75459,
+    "lbl:longitude":4.268534,
+    "mps:latitude":50.753371,
+    "mps:longitude":4.261232,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":13.0,
+    "mz:tier_locality":1,
+    "name:dut_x_preferred":[
+        "Zwarte Poort"
+    ],
+    "name:unk_x_variant":[
+        "Zwarte Poort"
+    ],
+    "qs:gn_id":0,
+    "qs:gn_local":0,
+    "qs:local_max":391,
+    "qs:local_sum":765,
+    "qs:localhoods":3,
+    "qs:name":"Zwarte Poort",
+    "qs:name_adm0":"Belgique",
+    "qs:name_adm1":"Vlaams Brabant",
+    "qs:name_adm2":"Halle-Vilvoorde",
+    "qs:name_lau":"Beersel",
+    "qs:name_local":"Beersel",
+    "qs:photo_max":118,
+    "qs:photo_sum":341,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":28,
+    "qs:woe_adm0":23424757,
+    "qs:woe_adm1":22525998,
+    "qs:woe_adm2":12591768,
+    "qs:woe_lau":12602382,
+    "qs:woe_local":12602382,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        85681731,
+        102191581,
+        1108830253,
+        85632997,
+        404227357,
+        101755547,
+        102049973
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":979251,
+        "qs:id":1104407,
+        "qs_pg:id":1104407
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"436499d2b2324636cda546c8006a3c0c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049973,
+            "localadmin_id":1108830253,
+            "locality_id":101755547,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85802037,
+            "region_id":85681731
+        }
+    ],
+    "wof:id":85802037,
+    "wof:lang":[
+        "dut"
+    ],
+    "wof:lastmodified":1531862120,
+    "wof:name":"Zwarte Poort",
+    "wof:parent_id":101755547,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.268534,
+    50.75459,
+    4.268534,
+    50.75459
+],
+  "geometry": {"coordinates":[4.268534,50.75459],"type":"Point"}
+}

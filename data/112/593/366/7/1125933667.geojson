@@ -1,0 +1,114 @@
+{
+  "id": 1125933667,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.41599,51.04722,4.41599,51.04722",
+    "geom:latitude":51.04722,
+    "geom:longitude":4.41599,
+    "gn:gn_country":"BE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"BE",
+    "lbl:latitude":51.04722,
+    "lbl:longitude":4.41599,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bul_x_preferred":[
+        "\u0425\u0435\u0444\u0435\u043d"
+    ],
+    "name:dut_x_preferred":[
+        "Heffen"
+    ],
+    "name:eng_x_preferred":[
+        "Heffen"
+    ],
+    "name:fre_x_preferred":[
+        "Heffen"
+    ],
+    "name:hun_x_preferred":[
+        "Heffen"
+    ],
+    "name:swe_x_preferred":[
+        "Heffen"
+    ],
+    "name:unk_x_variant":[
+        "Mechelen (Heffen)"
+    ],
+    "qs_pg:aaroncc":"BE",
+    "qs_pg:gn_country":"BE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2796282,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Heffen",
+    "qs_pg:name_adm0":"Belgique",
+    "qs_pg:name_adm1":"Antwerpen",
+    "qs_pg:photos":1090,
+    "qs_pg:photos_1k":221,
+    "qs_pg:photos_9k":5,
+    "qs_pg:photos_9r":7,
+    "qs_pg:photos_all":1090,
+    "qs_pg:photos_sr":11,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":182699,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424757,
+    "qs_pg:woe_id":970830,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424757,
+    "woe:name_adm0":"Belgique",
+    "woe:name_adm1":"Antwerpen",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85681715,
+        102191581,
+        1108830407,
+        85632997,
+        404227357,
+        102049985
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2796282,
+        "gp:id":970830,
+        "qs_pg:id":182699,
+        "wd:id":"Q2434402"
+    },
+    "wof:country":"BE",
+    "wof:created":1497296893,
+    "wof:geomhash":"f25e86bce332c3522e38a2251098cb77",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049985,
+            "localadmin_id":1108830407,
+            "locality_id":1125933667,
+            "macroregion_id":404227357,
+            "region_id":85681715
+        }
+    ],
+    "wof:id":1125933667,
+    "wof:lastmodified":1513899301,
+    "wof:name":"Heffen",
+    "wof:parent_id":1108830407,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.41599,
+    51.04722,
+    4.41599,
+    51.04722
+],
+  "geometry": {"coordinates":[4.41599,51.04722],"type":"Point"}
+}

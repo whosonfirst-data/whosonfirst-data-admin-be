@@ -1,0 +1,76 @@
+{
+  "id": 1326958959,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.12481,50.69232,4.12481,50.69232",
+    "geom:latitude":50.69232,
+    "geom:longitude":4.12481,
+    "gn:admin1_code":"WAL",
+    "gn:admin2_code":"WBR",
+    "gn:admin3_code":"25.0",
+    "gn:admin4_code":"25123.0",
+    "gn:asciiname":"Sartiau",
+    "gn:country_code":"BE",
+    "gn:dem":72,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2787222,
+    "gn:latitude":50.69232,
+    "gn:longitude":4.12481,
+    "gn:modification_date":"2017-03-25",
+    "gn:name":"Sartiau",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sartiaux",
+        "Sartiau"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681693,
+        102191581,
+        85632997,
+        404227353,
+        102049945
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2787222
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"f6e335b6a3e21ec772d75c2b990ffc15",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049945,
+            "locality_id":1326958959,
+            "macroregion_id":404227353,
+            "region_id":85681693
+        }
+    ],
+    "wof:id":1326958959,
+    "wof:lastmodified":1537586924,
+    "wof:name":"Sartiau",
+    "wof:parent_id":102049945,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.12481,
+    50.69232,
+    4.12481,
+    50.69232
+],
+  "geometry": {"coordinates":[4.12481,50.69232],"type":"Point"}
+}

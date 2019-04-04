@@ -1,0 +1,72 @@
+{
+  "id": 1243297747,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.85444,50.02533,4.85444,50.02533",
+    "geom:latitude":50.02533,
+    "geom:longitude":4.85444,
+    "gn:admin1_code":"WAL",
+    "gn:admin2_code":"WNA",
+    "gn:admin3_code":"91.0",
+    "gn:admin4_code":"91054.0",
+    "gn:asciiname":"Bourseigne-Neuve",
+    "gn:country_code":"BE",
+    "gn:dem":357,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2801235,
+    "gn:latitude":50.02533,
+    "gn:longitude":4.85444,
+    "gn:modification_date":"2012-02-02",
+    "gn:name":"Bourseigne-Neuve",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681699,
+        102191581,
+        85632997,
+        404227353,
+        102049919
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2801235
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"caaf3259e970e7ec4255d8736095b5f9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049919,
+            "locality_id":1243297747,
+            "macroregion_id":404227353,
+            "region_id":85681699
+        }
+    ],
+    "wof:id":1243297747,
+    "wof:lastmodified":1537019059,
+    "wof:name":"Bourseigne-Neuve",
+    "wof:parent_id":102049919,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.85444,
+    50.02533,
+    4.85444,
+    50.02533
+],
+  "geometry": {"coordinates":[4.85444,50.02533],"type":"Point"}
+}

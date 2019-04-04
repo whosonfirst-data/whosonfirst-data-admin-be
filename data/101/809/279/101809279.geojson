@@ -1,0 +1,101 @@
+{
+  "id": 101809279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000063,
+    "geom:area_square_m":488273.220713,
+    "geom:bbox":"2.72928969397,50.9266874816,2.74884110134,50.9349991063",
+    "geom:latitude":50.931528,
+    "geom:longitude":2.738963,
+    "iso:country":"BE",
+    "lbl:latitude":50.932053,
+    "lbl:longitude":2.738963,
+    "mps:latitude":50.932053,
+    "mps:longitude":2.738963,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bre_x_preferred":[
+        "Oostvleteren"
+    ],
+    "name:dut_x_preferred":[
+        "Oostvleteren"
+    ],
+    "name:eng_x_preferred":[
+        "Oostvleteren"
+    ],
+    "name:fre_x_preferred":[
+        "Oostvleteren"
+    ],
+    "name:hun_x_preferred":[
+        "Oostvleteren"
+    ],
+    "name:vls_x_preferred":[
+        "Oostvletern"
+    ],
+    "qs:a0":"Belgi\u00eb#Belgique#Belgien",
+    "qs:a1":"*West-Vlanderen",
+    "qs:a1r":"0Vlaams Gewest",
+    "qs:a2":"Ieper",
+    "qs:adm0":"Belgi\u00eb#Belgique#Belgien",
+    "qs:la":"Vleteren",
+    "qs:la_lc":"*BE233041",
+    "qs:level":"locality",
+    "qs:loc":"Oostvleteren",
+    "qs:loc_alt":"Oostvleteren",
+    "qs:pop":0,
+    "qs:source":"LCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        85681709,
+        102191581,
+        1108830565,
+        85632997,
+        404227357,
+        102049971
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2789731,
+        "gp:id":975167,
+        "qs:id":236745,
+        "qs_pg:id":236745,
+        "wd:id":"Q2555902"
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"afe6e0b7777d9951b095b9caa4ed8fc5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049971,
+            "localadmin_id":1108830565,
+            "locality_id":101809279,
+            "macroregion_id":404227357,
+            "region_id":85681709
+        }
+    ],
+    "wof:id":101809279,
+    "wof:lastmodified":1513899445,
+    "wof:name":"Oostvleteren",
+    "wof:parent_id":1108830565,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.72928969396759,
+    50.92668748155029,
+    2.74884110133644,
+    50.9349991062918
+],
+  "geometry": {"coordinates":[[[2.7427542231527,50.9349991062918],[2.74289437486232,50.93410528625037],[2.7443110319665,50.93419434371469],[2.74445115008416,50.93330052127976],[2.74870107060576,50.93356758383214],[2.74884110133644,50.93267375506861],[2.74317465820428,50.93231764489275],[2.74331478983737,50.93142382357661],[2.7418982184131,50.93133475469665],[2.74245878561089,50.92775947305563],[2.74104232674443,50.92767039473046],[2.74118247870615,50.9267765752258],[2.73976605171481,50.92668748155029],[2.73934549508209,50.92936893288021],[2.72943008114152,50.92874475083107],[2.72928969396759,50.92963855329367],[2.73353920781244,50.92990616972139],[2.73325857471184,50.9316937851994],[2.73467514309834,50.93178295997683],[2.73439453698791,50.93357057769504],[2.73581116415869,50.93365973909295],[2.73567087795169,50.93455354928489],[2.7427542231527,50.9349991062918]]],"type":"Polygon"}
+}

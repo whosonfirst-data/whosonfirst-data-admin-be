@@ -1,0 +1,87 @@
+{
+  "id": 1125407263,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2017-05-19",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.96587,51.09366,2.96587,51.09366",
+    "geom:latitude":51.09366,
+    "geom:longitude":2.96587,
+    "gn:gn_country":"BE",
+    "gn:gn_fcode":"ADM4",
+    "gn:gn_pop":8430,
+    "gn:population":8430,
+    "iso:country":"BE",
+    "lbl:latitude":51.09366,
+    "lbl:longitude":2.96587,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bul_x_preferred":[
+        "\u041a\u0443\u043a\u0435\u043b\u0430\u0440\u0435"
+    ],
+    "name:fas_x_preferred":[
+        "\u06a9\u0648\u0626\u06a9\u0648\u0644\u0631"
+    ],
+    "name:unk_x_variant":[
+        "Couckelaere"
+    ],
+    "name:vls_x_preferred":[
+        "Kookloare"
+    ],
+    "name:zho_x_preferred":[
+        "\u5e93\u514b\u62c9\u52d2"
+    ],
+    "qs_pg:aaroncc":"BE",
+    "qs_pg:gn_country":"BE",
+    "qs_pg:gn_fcode":"ADM4",
+    "qs_pg:gn_id":2794195,
+    "qs_pg:gn_pop":8430,
+    "qs_pg:name":"Koekelare",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":5,
+    "qs_pg:qs_id":92653,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85632997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2794195,
+        "qs_pg:id":92653
+    },
+    "wof:country":"BE",
+    "wof:created":1497049722,
+    "wof:geomhash":"208b91a822b7ae0c76fa94edb03262c0",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "localadmin_id":1125407263
+        }
+    ],
+    "wof:id":1125407263,
+    "wof:lastmodified":1505185643,
+    "wof:name":"Koekelare",
+    "wof:parent_id":-1,
+    "wof:placetype":"localadmin",
+    "wof:population":8430,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.96587,
+    51.09366,
+    2.96587,
+    51.09366
+],
+  "geometry": {"coordinates":[2.96587,51.09366],"type":"Point"}
+}

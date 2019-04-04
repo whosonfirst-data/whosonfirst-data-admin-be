@@ -1,0 +1,64 @@
+{
+  "id": 1209449015,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.21851,50.5647,5.21851,50.5647",
+    "geom:latitude":50.5647,
+    "geom:longitude":5.21851,
+    "gn:admin1_code":"WAL",
+    "gn:admin2_code":"WLG",
+    "gn:admin3_code":"61.0",
+    "gn:admin4_code":"61072.0",
+    "gn:asciiname":"Wanzoul",
+    "gn:country_code":"BE",
+    "gn:dem":196,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2784089,
+    "gn:latitude":50.5647,
+    "gn:longitude":5.21851,
+    "gn:modification_date":"2017-03-25",
+    "gn:name":"Wanzoul",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2784089
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"0651a876df141a7d93aa1e0f8c211642",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "locality_id":1209449015
+        }
+    ],
+    "wof:id":1209449015,
+    "wof:lastmodified":1536286729,
+    "wof:name":"Wanzoul",
+    "wof:parent_id":85632997,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.21851,
+    50.5647,
+    5.21851,
+    50.5647
+],
+  "geometry": {"coordinates":[5.21851,50.5647],"type":"Point"}
+}

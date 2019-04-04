@@ -1,0 +1,110 @@
+{
+  "id": 85801045,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":1052679.6141,
+    "geom:bbox":"4.452827,50.881046,4.452827,50.881046",
+    "geom:latitude":50.881046,
+    "geom:longitude":4.452827,
+    "iso:country":"BE",
+    "lbl:latitude":50.881046,
+    "lbl:longitude":4.452827,
+    "mps:latitude":50.881847,
+    "mps:longitude":4.429572,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":14.0,
+    "mz:tier_locality":2,
+    "mz:tier_metro":30,
+    "name:dut_x_preferred":[
+        "De Drie Linden"
+    ],
+    "name:unk_x_variant":[
+        "De Drie Linden"
+    ],
+    "qs:gn_fcode":"PPL",
+    "qs:gn_local":0,
+    "qs:gn_namadm1":"VLG",
+    "qs:gn_name":"De Drie Linden",
+    "qs:local_max":1103,
+    "qs:local_sum":4034,
+    "qs:localhoods":6,
+    "qs:name":"De Drie Linden",
+    "qs:name_adm0":"Belgique",
+    "qs:name_adm1":"Vlaams Brabant",
+    "qs:name_adm2":"Halle-Vilvoorde",
+    "qs:name_lau":"Machelen",
+    "qs:name_local":"Machelen",
+    "qs:photo_max":47,
+    "qs:photo_sum":144,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":8,
+    "qs:woe_adm0":23424757,
+    "qs:woe_adm1":22525998,
+    "qs:woe_adm2":12591768,
+    "qs:woe_lau":12602573,
+    "qs:woe_local":12602573,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"mz",
+    "wof:belongsto":[
+        85681731,
+        102191581,
+        1108830477,
+        85632997,
+        404227357,
+        101913231,
+        102049973
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2799802,
+        "gp:id":968674,
+        "qs:id":1171303
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"f1be1f668a819c3276714f2bc604c27c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049973,
+            "localadmin_id":1108830477,
+            "locality_id":101913231,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85801045,
+            "region_id":85681731
+        }
+    ],
+    "wof:id":85801045,
+    "wof:lang":[
+        "dut"
+    ],
+    "wof:lastmodified":1531862057,
+    "wof:name":"De Drie Linden",
+    "wof:parent_id":101913231,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.452827,
+    50.881046,
+    4.452827,
+    50.881046
+],
+  "geometry": {"coordinates":[4.452827,50.881046],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 1226079463,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.72026,50.932,3.72026,50.932",
+    "geom:latitude":50.932,
+    "geom:longitude":3.72026,
+    "gn:admin1_code":"VLG",
+    "gn:admin2_code":"VOV",
+    "gn:admin3_code":"44.0",
+    "gn:admin4_code":"44020.0",
+    "gn:asciiname":"Baaigem",
+    "gn:country_code":"BE",
+    "gn:dem":39,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2802830,
+    "gn:latitude":50.932,
+    "gn:longitude":3.72026,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Baaigem",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Baeygem",
+        "Baaigem"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681733,
+        102191581,
+        1108830425,
+        85632997,
+        404227357,
+        102049989
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2802830,
+        "wk:page":"Baaigem"
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"e184697c985ade068b58cd6b118d24e5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049989,
+            "localadmin_id":1108830425,
+            "locality_id":1226079463,
+            "macroregion_id":404227357,
+            "region_id":85681733
+        }
+    ],
+    "wof:id":1226079463,
+    "wof:lastmodified":1537587082,
+    "wof:name":"Baaigem",
+    "wof:parent_id":1108830425,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.72026,
+    50.932,
+    3.72026,
+    50.932
+],
+  "geometry": {"coordinates":[3.72026,50.932],"type":"Point"}
+}

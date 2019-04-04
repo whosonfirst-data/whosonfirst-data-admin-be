@@ -1,0 +1,87 @@
+{
+  "id": 1125386833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2017-05-19",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.85417,50.60961,5.85417,50.60961",
+    "geom:latitude":50.60961,
+    "geom:longitude":5.85417,
+    "gn:gn_country":"BE",
+    "gn:gn_fcode":"ADM4",
+    "gn:gn_pop":15029,
+    "gn:population":15029,
+    "iso:country":"BE",
+    "lbl:latitude":50.60961,
+    "lbl:longitude":5.85417,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bul_x_preferred":[
+        "\u0414\u0438\u0437\u043e\u043d"
+    ],
+    "name:fas_x_preferred":[
+        "\u062f\u06cc\u0632\u0648\u0646"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u0438\u0437\u043e\u043d"
+    ],
+    "name:wln_x_preferred":[
+        "Dizon"
+    ],
+    "name:zho_x_preferred":[
+        "\u8fea\u677e"
+    ],
+    "qs_pg:aaroncc":"BE",
+    "qs_pg:gn_country":"BE",
+    "qs_pg:gn_fcode":"ADM4",
+    "qs_pg:gn_id":2799348,
+    "qs_pg:gn_pop":15029,
+    "qs_pg:name":"Dison",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":6,
+    "qs_pg:qs_id":1032680,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85632997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2799348,
+        "qs_pg:id":1032680
+    },
+    "wof:country":"BE",
+    "wof:created":1497048439,
+    "wof:geomhash":"32df8d0771b8bf178ea2a7b4e7cb1a9d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "localadmin_id":1125386833
+        }
+    ],
+    "wof:id":1125386833,
+    "wof:lastmodified":1505185645,
+    "wof:name":"Dison",
+    "wof:parent_id":-1,
+    "wof:placetype":"localadmin",
+    "wof:population":15029,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.85417,
+    50.60961,
+    5.85417,
+    50.60961
+],
+  "geometry": {"coordinates":[5.85417,50.60961],"type":"Point"}
+}

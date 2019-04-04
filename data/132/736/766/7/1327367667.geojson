@@ -1,0 +1,76 @@
+{
+  "id": 1327367667,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.97689,50.7471,4.97689,50.7471",
+    "geom:latitude":50.7471,
+    "geom:longitude":4.97689,
+    "gn:admin1_code":"WAL",
+    "gn:admin2_code":"WBR",
+    "gn:admin3_code":"25.0",
+    "gn:admin4_code":"25118.0",
+    "gn:asciiname":"Opheylissem",
+    "gn:country_code":"BE",
+    "gn:dem":62,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2789700,
+    "gn:latitude":50.7471,
+    "gn:longitude":4.97689,
+    "gn:modification_date":"2011-01-26",
+    "gn:name":"Opheylissem",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "H\u00e9l\u00e9cine (Opheylissem)"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681693,
+        102191581,
+        85632997,
+        404227353,
+        102049945
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2789700,
+        "wk:page":"Opheylissem_Castle"
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"e0140ca3eb93c175cdacba4f21d13a85",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049945,
+            "locality_id":1327367667,
+            "macroregion_id":404227353,
+            "region_id":85681693
+        }
+    ],
+    "wof:id":1327367667,
+    "wof:lastmodified":1537586951,
+    "wof:name":"Opheylissem",
+    "wof:parent_id":102049945,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.97689,
+    50.7471,
+    4.97689,
+    50.7471
+],
+  "geometry": {"coordinates":[4.97689,50.7471],"type":"Point"}
+}

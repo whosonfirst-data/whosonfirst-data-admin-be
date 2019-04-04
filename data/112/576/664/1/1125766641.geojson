@@ -1,0 +1,114 @@
+{
+  "id": 1125766641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.58405,51.0016,4.58405,51.0016",
+    "geom:latitude":51.0016,
+    "geom:longitude":4.58405,
+    "gn:gn_country":"BE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"BE",
+    "lbl:latitude":51.0016,
+    "lbl:longitude":4.58405,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Rijmenam"
+    ],
+    "name:eng_x_preferred":[
+        "Rijmenam"
+    ],
+    "name:fre_x_preferred":[
+        "Rijmenam"
+    ],
+    "name:hun_x_preferred":[
+        "Rijmenam"
+    ],
+    "name:mac_x_preferred":[
+        "\u0420\u0435\u0458\u043c\u0435\u043d\u0430\u043c"
+    ],
+    "name:swe_x_preferred":[
+        "Rijmenam"
+    ],
+    "name:unk_x_variant":[
+        "Rymenam"
+    ],
+    "qs_pg:aaroncc":"BE",
+    "qs_pg:gn_country":"BE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2788046,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Rijmenam",
+    "qs_pg:name_adm0":"Belgique",
+    "qs_pg:name_adm1":"Antwerpen",
+    "qs_pg:photos":207,
+    "qs_pg:photos_1k":42,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":4,
+    "qs_pg:photos_all":207,
+    "qs_pg:photos_sr":4,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1075319,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424757,
+    "qs_pg:woe_id":976249,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424757,
+    "woe:name_adm0":"Belgique",
+    "woe:name_adm1":"Antwerpen",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85681715,
+        102191581,
+        1108830049,
+        85632997,
+        404227357,
+        102049985
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2788046,
+        "gp:id":976249,
+        "qs_pg:id":1075319,
+        "wd:id":"Q633089"
+    },
+    "wof:country":"BE",
+    "wof:created":1497289920,
+    "wof:geomhash":"d51c2d530176f56312b9b18ee4e0cd91",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049985,
+            "localadmin_id":1108830049,
+            "locality_id":1125766641,
+            "macroregion_id":404227357,
+            "region_id":85681715
+        }
+    ],
+    "wof:id":1125766641,
+    "wof:lastmodified":1513899475,
+    "wof:name":"Rijmenam",
+    "wof:parent_id":1108830049,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.58405,
+    51.0016,
+    4.58405,
+    51.0016
+],
+  "geometry": {"coordinates":[4.58405,51.0016],"type":"Point"}
+}

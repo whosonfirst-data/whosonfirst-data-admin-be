@@ -1,0 +1,84 @@
+{
+  "id": 1125368471,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2017-05-19",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.10109,50.835,5.10109,50.835",
+    "geom:latitude":50.835,
+    "geom:longitude":5.10109,
+    "gn:gn_country":"BE",
+    "gn:gn_fcode":"ADM4",
+    "gn:gn_pop":8269,
+    "gn:population":8269,
+    "iso:country":"BE",
+    "lbl:latitude":50.835,
+    "lbl:longitude":5.10109,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bul_x_preferred":[
+        "\u0417\u0430\u0443\u0442\u043b\u0435\u0443"
+    ],
+    "name:fas_x_preferred":[
+        "\u0632\u0648\u062a\u0644\u0626\u0648"
+    ],
+    "name:unk_x_variant":[
+        "L\u00e9au"
+    ],
+    "name:zho_x_preferred":[
+        "\u7956\u65f6\u83b1\u5384\u592b"
+    ],
+    "qs_pg:aaroncc":"BE",
+    "qs_pg:gn_country":"BE",
+    "qs_pg:gn_fcode":"ADM4",
+    "qs_pg:gn_id":2783171,
+    "qs_pg:gn_pop":8269,
+    "qs_pg:name":"Zoutleeuw",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":5,
+    "qs_pg:qs_id":92521,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85632997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2783171,
+        "qs_pg:id":92521
+    },
+    "wof:country":"BE",
+    "wof:created":1497047237,
+    "wof:geomhash":"191034670102574e851112657b4c2cb6",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "localadmin_id":1125368471
+        }
+    ],
+    "wof:id":1125368471,
+    "wof:lastmodified":1505185638,
+    "wof:name":"Zoutleeuw",
+    "wof:parent_id":-1,
+    "wof:placetype":"localadmin",
+    "wof:population":8269,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.10109,
+    50.835,
+    5.10109,
+    50.835
+],
+  "geometry": {"coordinates":[5.10109,50.835],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1277106119,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.75724,50.68874,3.75724,50.68874",
+    "geom:latitude":50.68874,
+    "geom:longitude":3.75724,
+    "gn:admin1_code":"WAL",
+    "gn:admin2_code":"WHT",
+    "gn:admin3_code":"51.0",
+    "gn:admin4_code":"51004.0",
+    "gn:asciiname":"Goumenpont",
+    "gn:country_code":"BE",
+    "gn:dem":37,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2797432,
+    "gn:latitude":50.68874,
+    "gn:longitude":3.75724,
+    "gn:modification_date":"2017-03-25",
+    "gn:name":"Goumenpont",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681723,
+        102191581,
+        85632997,
+        404227353,
+        102049949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2797432
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"7c506a47bea3610967b7b389bab2202c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049949,
+            "locality_id":1277106119,
+            "macroregion_id":404227353,
+            "region_id":85681723
+        }
+    ],
+    "wof:id":1277106119,
+    "wof:lastmodified":1536734182,
+    "wof:name":"Goumenpont",
+    "wof:parent_id":102049949,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.75724,
+    50.68874,
+    3.75724,
+    50.68874
+],
+  "geometry": {"coordinates":[3.75724,50.68874],"type":"Point"}
+}

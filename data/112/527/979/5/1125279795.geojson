@@ -1,0 +1,92 @@
+{
+  "id": 1125279795,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2017-05-19",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.71667,50.0,5.71667,50.0",
+    "geom:latitude":50.0,
+    "geom:longitude":5.71667,
+    "gn:gn_country":"BE",
+    "gn:gn_fcode":"ADM4",
+    "gn:gn_pop":14961,
+    "gn:population":14961,
+    "iso:country":"BE",
+    "lbl:latitude":50.0,
+    "lbl:longitude":5.71667,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:fra_x_preferred":[
+        "Bastogne"
+    ],
+    "name:unk_x_variant":[
+        "Bastenaken"
+    ],
+    "qs_pg:aaroncc":"BE",
+    "qs_pg:gn_country":"BE",
+    "qs_pg:gn_fcode":"ADM4",
+    "qs_pg:gn_id":2802584,
+    "qs_pg:gn_pop":14961,
+    "qs_pg:name":"Bastogne",
+    "qs_pg:name_adm0":"Belgique",
+    "qs_pg:name_adm1":"Luxembourg",
+    "qs_pg:photos":217,
+    "qs_pg:photos_1k":44,
+    "qs_pg:photos_9k":21,
+    "qs_pg:photos_9r":13,
+    "qs_pg:photos_all":4692,
+    "qs_pg:photos_sr":4,
+    "qs_pg:pop_sr":6,
+    "qs_pg:qs_id":1079170,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
+    "qs_pg:woe_adm0":23424757,
+    "qs_pg:woe_id":12602276,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424757,
+    "woe:name_adm0":"Belgique",
+    "woe:name_adm1":"Luxembourg",
+    "woe:placetype":"LocalAdmin",
+    "wof:belongsto":[
+        85632997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2802584,
+        "gp:id":12602276,
+        "qs_pg:id":1079170
+    },
+    "wof:country":"BE",
+    "wof:created":1497042462,
+    "wof:geomhash":"c96d6132b56e2a96d19e7225edfec7e3",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "localadmin_id":1125279795
+        }
+    ],
+    "wof:id":1125279795,
+    "wof:lastmodified":1505185646,
+    "wof:name":"Bastogne",
+    "wof:parent_id":-1,
+    "wof:placetype":"localadmin",
+    "wof:population":14961,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.71667,
+    50.0,
+    5.71667,
+    50.0
+],
+  "geometry": {"coordinates":[5.71667,50.0],"type":"Point"}
+}

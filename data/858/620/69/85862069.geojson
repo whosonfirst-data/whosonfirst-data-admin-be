@@ -1,0 +1,111 @@
+{
+  "id": 85862069,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":27737309.807213,
+    "geom:bbox":"3.7809,51.189216,3.7809,51.189216",
+    "geom:latitude":51.189216,
+    "geom:longitude":3.7809,
+    "gn:id":"",
+    "iso:country":"BE",
+    "lbl:latitude":51.189216,
+    "lbl:longitude":3.7809,
+    "mps:latitude":51.170733,
+    "mps:longitude":3.775772,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":13.0,
+    "mz:tier_locality":1,
+    "name:dut_x_preferred":[
+        "Klein Rusland"
+    ],
+    "name:unk_x_variant":[
+        "Klein Rusland"
+    ],
+    "qs:gn_adm0_cc":"BE",
+    "qs:gn_id":0,
+    "qs:gn_local":2783278,
+    "qs:gn_nam_loc":"Zelzate, Eeklo, Zelzate, Oost-Vlaanderen, BE",
+    "qs:gn_namadm1":"VLG",
+    "qs:local_max":428,
+    "qs:local_sum":590,
+    "qs:localhoods":2,
+    "qs:name":"Klein Rusland",
+    "qs:name_adm0":"Belgique",
+    "qs:name_adm1":"Oost-Vlaanderen",
+    "qs:name_adm2":"Eeklo",
+    "qs:name_lau":"Zelzate",
+    "qs:name_local":"Zelzate",
+    "qs:photo_max":80,
+    "qs:photo_sum":428,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":37,
+    "qs:woe_adm0":23424757,
+    "qs:woe_adm1":7153304,
+    "qs:woe_adm2":12591755,
+    "qs:woe_lau":12602363,
+    "qs:woe_local":979145,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        85681733,
+        102191581,
+        1108830561,
+        85632997,
+        404227357,
+        102049995
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":20098287,
+        "qs:id":895782,
+        "qs_pg:id":895782
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"cead11a4fba71ec71d6b279eb8f38e8e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049995,
+            "localadmin_id":1108830561,
+            "locality_id":-1,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85862069,
+            "region_id":85681733
+        }
+    ],
+    "wof:id":85862069,
+    "wof:lang":[
+        "dut"
+    ],
+    "wof:lastmodified":1531870538,
+    "wof:name":"Klein Rusland",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.7809,
+    51.189216,
+    3.7809,
+    51.189216
+],
+  "geometry": {"coordinates":[3.7809,51.189216],"type":"Point"}
+}

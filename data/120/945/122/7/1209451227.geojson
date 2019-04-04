@@ -1,0 +1,64 @@
+{
+  "id": 1209451227,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.74405,50.00217,5.74405,50.00217",
+    "geom:latitude":50.00217,
+    "geom:longitude":5.74405,
+    "gn:admin1_code":"WAL",
+    "gn:admin2_code":"WLX",
+    "gn:admin3_code":"82.0",
+    "gn:admin4_code":"82003.0",
+    "gn:asciiname":"Mont",
+    "gn:country_code":"BE",
+    "gn:dem":482,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2790853,
+    "gn:latitude":50.00217,
+    "gn:longitude":5.74405,
+    "gn:modification_date":"2017-03-25",
+    "gn:name":"Mont",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2790853
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"ed62def2e4c2ee0c17061e29e16242a1",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "locality_id":1209451227
+        }
+    ],
+    "wof:id":1209451227,
+    "wof:lastmodified":1536286666,
+    "wof:name":"Mont",
+    "wof:parent_id":85632997,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.74405,
+    50.00217,
+    5.74405,
+    50.00217
+],
+  "geometry": {"coordinates":[5.74405,50.00217],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1343892189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.9,50.91667,2.9,50.91667",
+    "geom:latitude":50.91667,
+    "geom:longitude":2.9,
+    "gn:admin1_code":"VLG",
+    "gn:admin2_code":"VWV",
+    "gn:admin3_code":"33.0",
+    "gn:admin4_code":"33040.0",
+    "gn:asciiname":"Weidendrift",
+    "gn:country_code":"BE",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2783894,
+    "gn:latitude":50.91667,
+    "gn:longitude":2.9,
+    "gn:modification_date":"2016-08-02",
+    "gn:name":"Weidendrift",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Wydendreft",
+        "Weidendrift"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681709,
+        102191581,
+        1108830263,
+        85632997,
+        404227357,
+        102049971
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2783894
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"7e451305eca709f4b3d03a2a5c42b86a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049971,
+            "localadmin_id":1108830263,
+            "locality_id":1343892189,
+            "macroregion_id":404227357,
+            "region_id":85681709
+        }
+    ],
+    "wof:id":1343892189,
+    "wof:lastmodified":1537586884,
+    "wof:name":"Weidendrift",
+    "wof:parent_id":1108830263,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.9,
+    50.91667,
+    2.9,
+    50.91667
+],
+  "geometry": {"coordinates":[2.9,50.91667],"type":"Point"}
+}

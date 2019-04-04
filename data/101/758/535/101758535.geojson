@@ -1,0 +1,114 @@
+{
+  "id": 101758535,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000169,
+    "geom:area_square_m":1313791.041794,
+    "geom:bbox":"4.46009918241,50.9684468953,4.48279527789,50.9839495574",
+    "geom:latitude":50.974755,
+    "geom:longitude":4.47219,
+    "iso:country":"BE",
+    "lbl:latitude":50.974737,
+    "lbl:longitude":4.472964,
+    "mps:latitude":50.974737,
+    "mps:longitude":4.472964,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Weerde"
+    ],
+    "name:eng_x_preferred":[
+        "Weerde"
+    ],
+    "name:fra_x_preferred":[
+        "Weerde"
+    ],
+    "name:fre_x_preferred":[
+        "Weerde"
+    ],
+    "name:hun_x_preferred":[
+        "Weerde"
+    ],
+    "name:nld_x_preferred":[
+        "Weerde"
+    ],
+    "name:ron_x_preferred":[
+        "Weerde"
+    ],
+    "name:rum_x_preferred":[
+        "Weerde"
+    ],
+    "name:unk_x_variant":[
+        "Zemst (Weerde)"
+    ],
+    "qs:a0":"Belgi\u00eb#Belgique#Belgien",
+    "qs:a1":"*Vlaams Brabant",
+    "qs:a1r":"0Vlaams Gewest",
+    "qs:a2":"Halle-Vilvoorde",
+    "qs:adm0":"Belgi\u00eb#Belgique#Belgien",
+    "qs:la":"Kalmthout",
+    "qs:la_lc":"*BE211022",
+    "qs:level":"locality",
+    "qs:loc":"Weerde",
+    "qs:loc_alt":"Weerde",
+    "qs:pop":0,
+    "qs:source":"LCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"suburbs point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "wd:latitude":50.9719,
+    "wd:longitude":4.4797,
+    "wd:wordcount":166,
+    "wof:belongsto":[
+        85681731,
+        102191581,
+        1108830589,
+        85632997,
+        404227357,
+        102049973
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2783913,
+        "gp:id":978751,
+        "qs:id":1072576,
+        "qs_pg:id":1072576,
+        "wd:id":"Q2638828",
+        "wk:page":"Weerde"
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"04b926e1a07f31da095b286c7972b581",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049973,
+            "localadmin_id":1108830589,
+            "locality_id":101758535,
+            "macroregion_id":404227357,
+            "region_id":85681731
+        }
+    ],
+    "wof:id":101758535,
+    "wof:lastmodified":1527689302,
+    "wof:name":"Weerde",
+    "wof:parent_id":1108830589,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.46009918241339,
+    50.96844689528257,
+    4.48279527789083,
+    50.98394955737723
+],
+  "geometry": {"coordinates":[[[4.46009918241339,50.97508753107422],[4.46009918241339,50.97598860903543],[4.46816418715684,50.97637463189056],[4.46805716058577,50.97727057920156],[4.46947758303708,50.97733850485281],[4.46904953433375,50.98092229688535],[4.46830208133417,50.98088654344303],[4.46931964544217,50.98183626994381],[4.47320420788401,50.98202193919235],[4.47299030584304,50.98381384165754],[4.47583156619714,50.98394955737723],[4.47593846533238,50.98305360329545],[4.47451786047054,50.9829857556453],[4.47505241541876,50.97850598791291],[4.4764728841804,50.9785738280379],[4.47657975258608,50.97767787201616],[4.47800019794812,50.97774569323019],[4.47810703401842,50.9768497353806],[4.48094788175325,50.9769853225809],[4.4811614296853,50.97519339989742],[4.48258180484288,50.97526116438195],[4.48279527789083,50.97346923739883],[4.48137495715514,50.9734014759199],[4.48158846416845,50.97160955064879],[4.48016820166174,50.97154177477159],[4.48027497470406,50.97064581315385],[4.4788547432168,50.97057802137613],[4.47896153834989,50.969682060938],[4.47328075935246,50.96941072581103],[4.47338765818358,50.96851477106617],[4.47196750017497,50.96844689528257],[4.47175364298772,50.97023880143792],[4.46465263819164,50.9698991464229],[4.46454556589288,50.97079509148182],[4.46312534919343,50.97072710676298],[4.46280401990208,50.97341493546998],[4.46138372540816,50.97334692882345],[4.46116942580574,50.9751388099894],[4.46009918241339,50.97508753107422]]],"type":"Polygon"}
+}

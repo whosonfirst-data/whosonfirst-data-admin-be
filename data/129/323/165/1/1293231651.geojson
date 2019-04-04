@@ -1,0 +1,75 @@
+{
+  "id": 1293231651,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.21,50.23573,4.21,50.23573",
+    "geom:latitude":50.23573,
+    "geom:longitude":4.21,
+    "gn:admin1_code":"WAL",
+    "gn:admin2_code":"WHT",
+    "gn:admin3_code":"56.0",
+    "gn:admin4_code":"56005.0",
+    "gn:asciiname":"Leval-Chaudeville",
+    "gn:country_code":"BE",
+    "gn:dem":159,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2792468,
+    "gn:latitude":50.23573,
+    "gn:longitude":4.21,
+    "gn:modification_date":"2011-09-07",
+    "gn:name":"Leval-Chaudeville",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Beaumont (Leval-Chaudeville)"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681723,
+        102191581,
+        85632997,
+        404227353,
+        102049923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2792468
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"650d58c0a9ffc2634f193dfdb6aed0ae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049923,
+            "locality_id":1293231651,
+            "macroregion_id":404227353,
+            "region_id":85681723
+        }
+    ],
+    "wof:id":1293231651,
+    "wof:lastmodified":1537586978,
+    "wof:name":"Leval-Chaudeville",
+    "wof:parent_id":102049923,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.21,
+    50.23573,
+    4.21,
+    50.23573
+],
+  "geometry": {"coordinates":[4.21,50.23573],"type":"Point"}
+}

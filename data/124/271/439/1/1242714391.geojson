@@ -1,0 +1,74 @@
+{
+  "id": 1242714391,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.37329,50.99623,5.37329,50.99623",
+    "geom:latitude":50.99623,
+    "geom:longitude":5.37329,
+    "gn:admin1_code":"VLG",
+    "gn:admin2_code":"VLI",
+    "gn:admin3_code":"71.0",
+    "gn:admin4_code":"71066.0",
+    "gn:asciiname":"Hemmen",
+    "gn:country_code":"BE",
+    "gn:dem":48,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2796083,
+    "gn:latitude":50.99623,
+    "gn:longitude":5.37329,
+    "gn:modification_date":"2016-08-02",
+    "gn:name":"Hemmen",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681705,
+        102191581,
+        1108830153,
+        85632997,
+        404227357,
+        102049975
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2796083
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"206c173b5c9e5d2d6f444f50dd1602a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049975,
+            "localadmin_id":1108830153,
+            "locality_id":1242714391,
+            "macroregion_id":404227357,
+            "region_id":85681705
+        }
+    ],
+    "wof:id":1242714391,
+    "wof:lastmodified":1536865340,
+    "wof:name":"Hemmen",
+    "wof:parent_id":1108830153,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.37329,
+    50.99623,
+    5.37329,
+    50.99623
+],
+  "geometry": {"coordinates":[5.37329,50.99623],"type":"Point"}
+}

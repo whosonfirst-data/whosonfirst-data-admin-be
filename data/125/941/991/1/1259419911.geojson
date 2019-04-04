@@ -1,0 +1,78 @@
+{
+  "id": 1259419911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.98454,51.09076,3.98454,51.09076",
+    "geom:latitude":51.09076,
+    "geom:longitude":3.98454,
+    "gn:admin1_code":"VLG",
+    "gn:admin2_code":"VOV",
+    "gn:admin3_code":"46.0",
+    "gn:admin4_code":"46014.0",
+    "gn:asciiname":"Naastveld",
+    "gn:country_code":"BE",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2790503,
+    "gn:latitude":51.09076,
+    "gn:longitude":3.98454,
+    "gn:modification_date":"2016-08-02",
+    "gn:name":"Naastveld",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Naestveld",
+        "Naastveld"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681733,
+        102191581,
+        1108830451,
+        85632997,
+        404227357,
+        102049997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2790503
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"156e3f4b4b531ed8fb20c0a872759f49",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049997,
+            "localadmin_id":1108830451,
+            "locality_id":1259419911,
+            "macroregion_id":404227357,
+            "region_id":85681733
+        }
+    ],
+    "wof:id":1259419911,
+    "wof:lastmodified":1537586959,
+    "wof:name":"Naastveld",
+    "wof:parent_id":1108830451,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.98454,
+    51.09076,
+    3.98454,
+    51.09076
+],
+  "geometry": {"coordinates":[3.98454,51.09076],"type":"Point"}
+}

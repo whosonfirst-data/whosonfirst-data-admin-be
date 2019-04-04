@@ -1,0 +1,70 @@
+{
+  "id": 1209351223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.11921,51.16776,3.11921,51.16776",
+    "geom:latitude":51.16776,
+    "geom:longitude":3.11921,
+    "gn:admin1_code":"VLG",
+    "gn:admin2_code":"VWV",
+    "gn:admin3_code":"31.0",
+    "gn:admin4_code":"31012.0",
+    "gn:asciiname":"Snellegem",
+    "gn:country_code":"BE",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2786446,
+    "gn:latitude":51.16776,
+    "gn:longitude":3.11921,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Snellegem",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Smellegem",
+        "Snelleghem",
+        "Snellegem"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2786446,
+        "wk:page":"Snellegem"
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"358efd2b07f93fc871754694bb107b9e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "locality_id":1209351223
+        }
+    ],
+    "wof:id":1209351223,
+    "wof:lastmodified":1537586912,
+    "wof:name":"Snellegem",
+    "wof:parent_id":85632997,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.11921,
+    51.16776,
+    3.11921,
+    51.16776
+],
+  "geometry": {"coordinates":[3.11921,51.16776],"type":"Point"}
+}

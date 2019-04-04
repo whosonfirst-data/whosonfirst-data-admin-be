@@ -1,0 +1,198 @@
+{
+  "id": 101754381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000591,
+    "geom:area_square_m":4599706.034957,
+    "geom:bbox":"3.62837624764,50.981056825,3.66553714491,51.0086863399",
+    "geom:latitude":50.994708,
+    "geom:longitude":3.645717,
+    "gn:population":10020,
+    "iso:country":"BE",
+    "lbl:latitude":50.995392,
+    "lbl:longitude":3.645435,
+    "mps:latitude":50.995392,
+    "mps:longitude":3.645435,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:baq_x_preferred":[
+        "De Pinte"
+    ],
+    "name:bre_x_preferred":[
+        "De Pinte"
+    ],
+    "name:bul_x_preferred":[
+        "\u0414\u0435 \u041f\u0438\u043d\u0442\u0435"
+    ],
+    "name:cat_x_preferred":[
+        "De Pinte"
+    ],
+    "name:chi_x_preferred":[
+        "\u5fb7\u5e73\u7279"
+    ],
+    "name:deu_x_preferred":[
+        "De Pinte"
+    ],
+    "name:dut_x_preferred":[
+        "De Pinte"
+    ],
+    "name:eng_x_preferred":[
+        "De Pinte"
+    ],
+    "name:epo_x_preferred":[
+        "De Pinte"
+    ],
+    "name:est_x_preferred":[
+        "De Pinte"
+    ],
+    "name:eus_x_preferred":[
+        "De Pinte"
+    ],
+    "name:fas_x_preferred":[
+        "\u062f\u0648 \u067e\u0646\u062a"
+    ],
+    "name:fra_x_preferred":[
+        "De Pinte"
+    ],
+    "name:fre_x_preferred":[
+        "De Pinte"
+    ],
+    "name:ger_x_preferred":[
+        "De Pinte"
+    ],
+    "name:hun_x_preferred":[
+        "De Pinte"
+    ],
+    "name:ita_x_preferred":[
+        "De Pinte"
+    ],
+    "name:lit_x_preferred":[
+        "De Pint\u0117"
+    ],
+    "name:nld_x_preferred":[
+        "De Pinte"
+    ],
+    "name:nob_x_preferred":[
+        "De Pinte"
+    ],
+    "name:nor_x_preferred":[
+        "De Pinte"
+    ],
+    "name:oci_x_preferred":[
+        "De Pinte"
+    ],
+    "name:per_x_preferred":[
+        "\u062f\u0648 \u067e\u0646\u062a"
+    ],
+    "name:por_x_preferred":[
+        "De Pinte"
+    ],
+    "name:ron_x_preferred":[
+        "De Pinte"
+    ],
+    "name:rum_x_preferred":[
+        "De Pinte"
+    ],
+    "name:sco_x_preferred":[
+        "De Pinte"
+    ],
+    "name:slk_x_preferred":[
+        "De Pinte"
+    ],
+    "name:slo_x_preferred":[
+        "De Pinte"
+    ],
+    "name:spa_x_preferred":[
+        "De Pinte"
+    ],
+    "name:unk_x_variant":[
+        "La Pinte"
+    ],
+    "name:vie_x_preferred":[
+        "De Pinte"
+    ],
+    "name:vol_x_preferred":[
+        "De Pinte"
+    ],
+    "name:war_x_preferred":[
+        "De Pinte"
+    ],
+    "name:zho_x_preferred":[
+        "\u5fb7\u5e73\u7279"
+    ],
+    "qs:a0":"Belgi\u00eb#Belgique#Belgien",
+    "qs:a1":"*Oost-Vlanderen",
+    "qs:a1r":"0Vlaams Gewest",
+    "qs:a2":"Gent",
+    "qs:adm0":"Belgi\u00eb#Belgique#Belgien",
+    "qs:la":"Kalmthout",
+    "qs:la_lc":"*BE211022",
+    "qs:level":"locality",
+    "qs:loc":"De Pinte",
+    "qs:loc_alt":"De Pinte",
+    "qs:pop":0,
+    "qs:source":"LCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"suburbs point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":770,
+    "wof:belongsto":[
+        85681733,
+        102191581,
+        1108830643,
+        85632997,
+        404227357,
+        102049989
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"03696892-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2799570,
+        "gp:id":968760,
+        "qs:id":1103107,
+        "qs_pg:id":1103107,
+        "wd:id":"Q842454",
+        "wk:page":"De Pinte"
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"96d18ee9d4b517cff6152adc3b64e400",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049989,
+            "localadmin_id":1108830643,
+            "locality_id":101754381,
+            "macroregion_id":404227357,
+            "region_id":85681733
+        }
+    ],
+    "wof:id":101754381,
+    "wof:lang":[
+        "dut"
+    ],
+    "wof:lastmodified":1527641870,
+    "wof:name":"De Pinte",
+    "wof:parent_id":1108830643,
+    "wof:placetype":"locality",
+    "wof:population":10020,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.62837624764211,
+    50.98105682499721,
+    3.6655371449101,
+    51.00868633986556
+],
+  "geometry": {"coordinates":[[[3.6630290223564,50.99031207103025],[3.66085822009933,50.98951230177767],[3.65843349181432,50.98708757349266],[3.65349569882113,50.98681666029995],[3.65361849707767,50.98592165279609],[3.65219889114479,50.98584372196223],[3.65232171063803,50.98494871581909],[3.64948256614787,50.98479280546439],[3.6491139273329,50.98747781242503],[3.64485499944237,50.98724380097815],[3.64534683146957,50.98366381171155],[3.64818589543091,50.98381982289061],[3.64844263683079,50.98194988375695],[3.64719253565568,50.98105998122571],[3.64713509215079,50.98105682499721],[3.64701218773632,50.98195182569566],[3.64559271216956,50.98187381487458],[3.64546977476209,50.98276881347653],[3.64405027647109,50.98269078354667],[3.64380432977839,50.98448077619003],[3.63670663304174,50.98409034854421],[3.63682974488512,50.9831953610601],[3.63541024582088,50.98311722512329],[3.63553337888055,50.98222223900319],[3.63411391131677,50.9821440874195],[3.63349805151665,50.98661900567964],[3.63491765463436,50.98669716592519],[3.63454814933851,50.98938211766529],[3.62886943785418,50.98906935160028],[3.62837624764211,50.99264925437024],[3.6297960273958,50.99272747889563],[3.62862807395163,51.00120427770412],[3.63801082872993,51.00580366730128],[3.63813390975457,51.0049093875042],[3.63955407740241,51.00498749547569],[3.63967721634003,51.00409250950804],[3.64109736124249,51.004170598359],[3.64122046714272,51.00327561029292],[3.64690098212662,51.0035877848868],[3.64677798478829,51.00448277987658],[3.64819815165362,51.00456078178411],[3.64807517556636,51.00545577813773],[3.65233578392633,51.0056896847147],[3.65245867858363,51.0047946831732],[3.65103849855245,51.00471673343247],[3.65165301926021,51.00024172888106],[3.65733322290168,51.00055338894589],[3.65635078767235,51.00771344714184],[3.65493051304554,51.00763554438544],[3.65480765502349,51.00853054828735],[3.65764826295759,51.00868633986556],[3.65813944256996,51.00510630824311],[3.65955964452581,51.00518417103723],[3.6596823975828,51.00428916049117],[3.65826222277002,51.00421129942424],[3.65863052808976,51.00152627077455],[3.66289082139849,51.00175978627033],[3.66301349666202,51.00086477081055],[3.6615934216519,51.00078695142622],[3.66196149360758,50.9981019080318],[3.66338148720763,50.99817972223934],[3.66350413897493,50.99728470531812],[3.66492410981806,50.99736250041366],[3.6655371449101,50.99288740169897],[3.6626974789059,50.99273181137204],[3.6630290223564,50.99031207103025]]],"type":"Polygon"}
+}

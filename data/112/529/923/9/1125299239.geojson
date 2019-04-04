@@ -1,0 +1,75 @@
+{
+  "id": 1125299239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2017-05-19",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.37754,50.38006,4.37754,50.38006",
+    "geom:latitude":50.38006,
+    "geom:longitude":4.37754,
+    "gn:gn_country":"BE",
+    "gn:gn_fcode":"ADM4",
+    "gn:gn_pop":10155,
+    "gn:population":10155,
+    "iso:country":"BE",
+    "lbl:latitude":50.38006,
+    "lbl:longitude":4.37754,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:unk_x_variant":[
+        "Montignies-le-Tilleul"
+    ],
+    "qs_pg:aaroncc":"BE",
+    "qs_pg:gn_country":"BE",
+    "qs_pg:gn_fcode":"ADM4",
+    "qs_pg:gn_id":2790805,
+    "qs_pg:gn_pop":10155,
+    "qs_pg:name":"Montigny-le-Tilleul",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":6,
+    "qs_pg:qs_id":1032565,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85632997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2790805,
+        "qs_pg:id":1032565
+    },
+    "wof:country":"BE",
+    "wof:created":1497043330,
+    "wof:geomhash":"e01c405e183a1c248e4b29358e54983f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "localadmin_id":1125299239
+        }
+    ],
+    "wof:id":1125299239,
+    "wof:lastmodified":1505185641,
+    "wof:name":"Montigny-le-Tilleul",
+    "wof:parent_id":-1,
+    "wof:placetype":"localadmin",
+    "wof:population":10155,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.37754,
+    50.38006,
+    4.37754,
+    50.38006
+],
+  "geometry": {"coordinates":[4.37754,50.38006],"type":"Point"}
+}

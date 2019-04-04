@@ -1,0 +1,75 @@
+{
+  "id": 1277017229,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.95612,50.62513,4.95612,50.62513",
+    "geom:latitude":50.62513,
+    "geom:longitude":4.95612,
+    "gn:admin1_code":"WAL",
+    "gn:admin2_code":"WNA",
+    "gn:admin3_code":"92.0",
+    "gn:admin4_code":"92035.0",
+    "gn:asciiname":"Boneffe",
+    "gn:country_code":"BE",
+    "gn:dem":136,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2801545,
+    "gn:latitude":50.62513,
+    "gn:longitude":4.95612,
+    "gn:modification_date":"2011-04-05",
+    "gn:name":"Boneffe",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u00c9ghez\u00e9e (Boneffe)"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681699,
+        102191581,
+        85632997,
+        404227353,
+        102049931
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2801545
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"37622c1299592f00ea9c18796d651b1b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049931,
+            "locality_id":1277017229,
+            "macroregion_id":404227353,
+            "region_id":85681699
+        }
+    ],
+    "wof:id":1277017229,
+    "wof:lastmodified":1537587072,
+    "wof:name":"Boneffe",
+    "wof:parent_id":102049931,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.95612,
+    50.62513,
+    4.95612,
+    50.62513
+],
+  "geometry": {"coordinates":[4.95612,50.62513],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1276801777,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.17938,50.16011,4.17938,50.16011",
+    "geom:latitude":50.16011,
+    "geom:longitude":4.17938,
+    "gn:admin1_code":"WAL",
+    "gn:admin2_code":"WHT",
+    "gn:admin3_code":"56.0",
+    "gn:admin4_code":"56088.0",
+    "gn:asciiname":"Louviere",
+    "gn:country_code":"BE",
+    "gn:dem":237,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2792068,
+    "gn:latitude":50.16011,
+    "gn:longitude":4.17938,
+    "gn:modification_date":"2017-03-25",
+    "gn:name":"Louvi\u00e8re",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681723,
+        102191581,
+        85632997,
+        404227353,
+        102049923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2792068
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"1b6854ff0fb2ef1cdb1f10b1820d0a83",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049923,
+            "locality_id":1276801777,
+            "macroregion_id":404227353,
+            "region_id":85681723
+        }
+    ],
+    "wof:id":1276801777,
+    "wof:lastmodified":1536647870,
+    "wof:name":"Louviere",
+    "wof:parent_id":102049923,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.17938,
+    50.16011,
+    4.17938,
+    50.16011
+],
+  "geometry": {"coordinates":[4.17938,50.16011],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1125376871,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2017-05-19",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.08333,51.03333,4.08333,51.03333",
+    "geom:latitude":51.03333,
+    "geom:longitude":4.08333,
+    "gn:gn_country":"BE",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":0,
+    "iso:country":"BE",
+    "lbl:latitude":51.03333,
+    "lbl:longitude":4.08333,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:fra_x_preferred":[
+        "Arrondissement de Termonde"
+    ],
+    "qs_pg:aaroncc":"BE",
+    "qs_pg:gn_country":"BE",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":2799644,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Arrondissement Dendermonde",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":373612,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "wof:belongsto":[
+        85632997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2799644,
+        "qs_pg:id":373612
+    },
+    "wof:country":"BE",
+    "wof:created":1497047801,
+    "wof:geomhash":"89f1bc53199322328fa175744008aa81",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "localadmin_id":1125376871
+        }
+    ],
+    "wof:id":1125376871,
+    "wof:lastmodified":1505248133,
+    "wof:name":"Arrondissement Dendermonde",
+    "wof:parent_id":-1,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.08333,
+    51.03333,
+    4.08333,
+    51.03333
+],
+  "geometry": {"coordinates":[4.08333,51.03333],"type":"Point"}
+}

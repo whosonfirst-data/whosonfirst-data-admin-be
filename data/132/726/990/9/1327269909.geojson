@@ -1,0 +1,75 @@
+{
+  "id": 1327269909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.87235,50.57174,4.87235,50.57174",
+    "geom:latitude":50.57174,
+    "geom:longitude":4.87235,
+    "gn:admin1_code":"WAL",
+    "gn:admin2_code":"WNA",
+    "gn:admin3_code":"92.0",
+    "gn:admin4_code":"92035.0",
+    "gn:asciiname":"Upigny",
+    "gn:country_code":"BE",
+    "gn:dem":156,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2785096,
+    "gn:latitude":50.57174,
+    "gn:longitude":4.87235,
+    "gn:modification_date":"2011-04-05",
+    "gn:name":"Upigny",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u00c9ghez\u00e9e (Upigny)"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681699,
+        102191581,
+        85632997,
+        404227353,
+        102049931
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2785096
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"99db06dad098a88450be2572a9670698",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049931,
+            "locality_id":1327269909,
+            "macroregion_id":404227353,
+            "region_id":85681699
+        }
+    ],
+    "wof:id":1327269909,
+    "wof:lastmodified":1537586897,
+    "wof:name":"Upigny",
+    "wof:parent_id":102049931,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.87235,
+    50.57174000000001,
+    4.87235,
+    50.57174000000001
+],
+  "geometry": {"coordinates":[4.87235,50.57174000000001],"type":"Point"}
+}

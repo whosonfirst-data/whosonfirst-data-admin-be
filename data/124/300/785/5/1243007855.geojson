@@ -1,0 +1,74 @@
+{
+  "id": 1243007855,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.07714,50.94108,3.07714,50.94108",
+    "geom:latitude":50.94108,
+    "geom:longitude":3.07714,
+    "gn:admin1_code":"VLG",
+    "gn:admin2_code":"VWV",
+    "gn:admin3_code":"36.0",
+    "gn:admin4_code":"36019.0",
+    "gn:asciiname":"Most",
+    "gn:country_code":"BE",
+    "gn:dem":25,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2790662,
+    "gn:latitude":50.94108,
+    "gn:longitude":3.07714,
+    "gn:modification_date":"2016-08-02",
+    "gn:name":"Most",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681709,
+        102191581,
+        1108830315,
+        85632997,
+        404227357,
+        102049977
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2790662
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"8d66c495aaa9cc3a0e346e91c36860dc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049977,
+            "localadmin_id":1108830315,
+            "locality_id":1243007855,
+            "macroregion_id":404227357,
+            "region_id":85681709
+        }
+    ],
+    "wof:id":1243007855,
+    "wof:lastmodified":1536941487,
+    "wof:name":"Most",
+    "wof:parent_id":1108830315,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.07714,
+    50.94108,
+    3.07714,
+    50.94108
+],
+  "geometry": {"coordinates":[3.07714,50.94108],"type":"Point"}
+}

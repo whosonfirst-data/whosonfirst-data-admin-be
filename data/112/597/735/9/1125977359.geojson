@@ -1,0 +1,100 @@
+{
+  "id": 1125977359,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.64646,50.1356,5.64646,50.1356",
+    "geom:latitude":50.1356,
+    "geom:longitude":5.64646,
+    "gn:gn_country":"BE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"BE",
+    "lbl:latitude":50.1356,
+    "lbl:longitude":5.64646,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Nisramont"
+    ],
+    "name:eng_x_preferred":[
+        "Nisramont"
+    ],
+    "name:fre_x_preferred":[
+        "Nisramont"
+    ],
+    "qs_pg:aaroncc":"BE",
+    "qs_pg:gn_country":"BE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2790108,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Nisramont",
+    "qs_pg:name_adm0":"Belgique",
+    "qs_pg:name_adm1":"Luxembourg",
+    "qs_pg:photos":56,
+    "qs_pg:photos_1k":11,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":56,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":992714,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424757,
+    "qs_pg:woe_id":974941,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424757,
+    "woe:name_adm0":"Belgique",
+    "woe:name_adm1":"Luxembourg",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85681727,
+        102191581,
+        85632997,
+        404227353,
+        102049921
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2790108,
+        "gp:id":974941,
+        "qs_pg:id":992714,
+        "wd:id":"Q1833620"
+    },
+    "wof:country":"BE",
+    "wof:created":1497298402,
+    "wof:geomhash":"40a24869dd5ddf7734711d298aeea8fd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049921,
+            "locality_id":1125977359,
+            "macroregion_id":404227353,
+            "region_id":85681727
+        }
+    ],
+    "wof:id":1125977359,
+    "wof:lastmodified":1513899436,
+    "wof:name":"Nisramont",
+    "wof:parent_id":102049921,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.64646,
+    50.1356,
+    5.64646,
+    50.1356
+],
+  "geometry": {"coordinates":[5.64646,50.1356],"type":"Point"}
+}

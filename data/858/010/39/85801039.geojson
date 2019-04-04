@@ -1,0 +1,112 @@
+{
+  "id": 85801039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":5154738.267782,
+    "geom:bbox":"4.295072,50.743457,4.295072,50.743457",
+    "geom:latitude":50.743457,
+    "geom:longitude":4.295072,
+    "iso:country":"BE",
+    "lbl:latitude":50.743457,
+    "lbl:longitude":4.295072,
+    "mps:latitude":50.732194,
+    "mps:longitude":4.295914,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_locality":1,
+    "name:dut_x_preferred":[
+        "Dachelenberg"
+    ],
+    "name:unk_x_variant":[
+        "Dachelberg",
+        "Dachelenberg"
+    ],
+    "qs:gn_fcode":"PPL",
+    "qs:gn_local":0,
+    "qs:gn_namadm1":"VLG",
+    "qs:gn_name":"Dachelenberg",
+    "qs:local_max":391,
+    "qs:local_sum":765,
+    "qs:localhoods":3,
+    "qs:name":"Dachelenberg",
+    "qs:name_adm0":"Belgique",
+    "qs:name_adm1":"Vlaams Brabant",
+    "qs:name_adm2":"Halle-Vilvoorde",
+    "qs:name_lau":"Beersel",
+    "qs:name_local":"Beersel",
+    "qs:photo_max":12,
+    "qs:photo_sum":33,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":6,
+    "qs:woe_adm0":23424757,
+    "qs:woe_adm1":22525998,
+    "qs:woe_adm2":12591768,
+    "qs:woe_lau":12602382,
+    "qs:woe_local":12602382,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        85681731,
+        102191581,
+        1108830437,
+        85632997,
+        404227357,
+        101755535,
+        102049973
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2799910,
+        "gp:id":968610,
+        "qs:id":394035,
+        "qs_pg:id":394035
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"ebe4642de6edecd0d4474bc745fd0234",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049973,
+            "localadmin_id":1108830437,
+            "locality_id":101755535,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85801039,
+            "region_id":85681731
+        }
+    ],
+    "wof:id":85801039,
+    "wof:lang":[
+        "dut"
+    ],
+    "wof:lastmodified":1531862057,
+    "wof:name":"Dachelenberg",
+    "wof:parent_id":101755535,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.295072,
+    50.743457,
+    4.295072,
+    50.743457
+],
+  "geometry": {"coordinates":[4.295072,50.743457],"type":"Point"}
+}

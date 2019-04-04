@@ -1,0 +1,74 @@
+{
+  "id": 1226784081,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.94033,50.82124,2.94033,50.82124",
+    "geom:latitude":50.82124,
+    "geom:longitude":2.94033,
+    "gn:admin1_code":"VLG",
+    "gn:admin2_code":"VWV",
+    "gn:admin3_code":"33.0",
+    "gn:admin4_code":"33011.0",
+    "gn:asciiname":"Klein Zillebeke",
+    "gn:country_code":"BE",
+    "gn:dem":53,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2794287,
+    "gn:latitude":50.82124,
+    "gn:longitude":2.94033,
+    "gn:modification_date":"2016-08-02",
+    "gn:name":"Klein Zillebeke",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681709,
+        102191581,
+        1108830595,
+        85632997,
+        404227357,
+        102049971
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2794287
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"cc3b7620d0afe0c65cdb4cbc2e52ee51",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049971,
+            "localadmin_id":1108830595,
+            "locality_id":1226784081,
+            "macroregion_id":404227357,
+            "region_id":85681709
+        }
+    ],
+    "wof:id":1226784081,
+    "wof:lastmodified":1536660362,
+    "wof:name":"Klein Zillebeke",
+    "wof:parent_id":1108830595,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.94033,
+    50.82124,
+    2.94033,
+    50.82124
+],
+  "geometry": {"coordinates":[2.94033,50.82124],"type":"Point"}
+}

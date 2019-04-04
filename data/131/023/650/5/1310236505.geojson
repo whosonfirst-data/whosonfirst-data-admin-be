@@ -1,0 +1,72 @@
+{
+  "id": 1310236505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.6963,50.50573,3.6963,50.50573",
+    "geom:latitude":50.50573,
+    "geom:longitude":3.6963,
+    "gn:admin1_code":"WAL",
+    "gn:admin2_code":"WHT",
+    "gn:admin3_code":"51.0",
+    "gn:admin4_code":"51008.0",
+    "gn:asciiname":"Grandglise",
+    "gn:country_code":"BE",
+    "gn:dem":54,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2797256,
+    "gn:latitude":50.50573,
+    "gn:longitude":3.6963,
+    "gn:modification_date":"2009-01-18",
+    "gn:name":"Grandglise",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681723,
+        102191581,
+        85632997,
+        404227353,
+        102049949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2797256
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"d193b5ad9e6f09d91e5f243e0372e39d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049949,
+            "locality_id":1310236505,
+            "macroregion_id":404227353,
+            "region_id":85681723
+        }
+    ],
+    "wof:id":1310236505,
+    "wof:lastmodified":1536807250,
+    "wof:name":"Grandglise",
+    "wof:parent_id":102049949,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.6963,
+    50.50573,
+    3.6963,
+    50.50573
+],
+  "geometry": {"coordinates":[3.6963,50.50573],"type":"Point"}
+}

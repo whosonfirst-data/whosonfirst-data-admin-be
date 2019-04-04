@@ -1,0 +1,72 @@
+{
+  "id": 1209751951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.88021,49.88748,4.88021,49.88748",
+    "geom:latitude":49.88748,
+    "geom:longitude":4.88021,
+    "gn:admin1_code":"WAL",
+    "gn:admin2_code":"WNA",
+    "gn:admin3_code":"91.0",
+    "gn:admin4_code":"91143.0",
+    "gn:asciiname":"Herissart",
+    "gn:country_code":"BE",
+    "gn:dem":329,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2795990,
+    "gn:latitude":49.88748,
+    "gn:longitude":4.88021,
+    "gn:modification_date":"2017-03-25",
+    "gn:name":"H\u00e9rissart",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681699,
+        102191581,
+        85632997,
+        404227353,
+        102049919
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2795990
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"45b4b30469c0ba494f1e5073a468ac34",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049919,
+            "locality_id":1209751951,
+            "macroregion_id":404227353,
+            "region_id":85681699
+        }
+    ],
+    "wof:id":1209751951,
+    "wof:lastmodified":1536392347,
+    "wof:name":"Herissart",
+    "wof:parent_id":102049919,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.88021,
+    49.88748,
+    4.88021,
+    49.88748
+],
+  "geometry": {"coordinates":[4.88021,49.88748],"type":"Point"}
+}

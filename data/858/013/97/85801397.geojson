@@ -1,0 +1,118 @@
+{
+  "id": 85801397,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":3116811.318621,
+    "geom:bbox":"4.488433,50.871681,4.488433,50.871681",
+    "geom:latitude":50.871681,
+    "geom:longitude":4.488433,
+    "iso:country":"BE",
+    "lbl:latitude":50.871681,
+    "lbl:longitude":4.488433,
+    "mps:latitude":50.869787,
+    "mps:longitude":4.486935,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":1,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":14.0,
+    "mz:tier_locality":1,
+    "mz:tier_metro":30,
+    "name:dut_x_preferred":[
+        "Kouter"
+    ],
+    "name:ita_x_preferred":[
+        "Nogometni Klub Ver\u017eej"
+    ],
+    "name:slv_x_preferred":[
+        "NK Ver\u017eej"
+    ],
+    "name:unk_x_variant":[
+        "Kouter"
+    ],
+    "qs:gn_fcode":"PPL",
+    "qs:gn_local":0,
+    "qs:gn_namadm1":"VLG",
+    "qs:gn_name":"Kouter",
+    "qs:local_max":439,
+    "qs:local_sum":1180,
+    "qs:localhoods":10,
+    "qs:name":"Kouter",
+    "qs:name_adm0":"Belgique",
+    "qs:name_adm1":"Vlaams Brabant",
+    "qs:name_adm2":"Halle-Vilvoorde",
+    "qs:name_lau":"Zaventem",
+    "qs:name_local":"Zaventem",
+    "qs:photo_max":23,
+    "qs:photo_sum":95,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":13,
+    "qs:woe_adm0":23424757,
+    "qs:woe_adm1":22525998,
+    "qs:woe_adm2":12591768,
+    "qs:woe_lau":12602445,
+    "qs:woe_local":12602445,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"mz",
+    "wof:belongsto":[
+        85681731,
+        102191581,
+        1108830477,
+        85632997,
+        404227357,
+        101913231,
+        102049973
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2794039,
+        "gp:id":972301,
+        "qs:id":186920,
+        "qs_pg:id":186920
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"1e0976e102b2f68216c076a5cb1e0ecc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049973,
+            "localadmin_id":1108830477,
+            "locality_id":101913231,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85801397,
+            "region_id":85681731
+        }
+    ],
+    "wof:id":85801397,
+    "wof:lang":[
+        "dut"
+    ],
+    "wof:lastmodified":1531862080,
+    "wof:name":"Kouter",
+    "wof:parent_id":101913231,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.488433,
+    50.871681,
+    4.488433,
+    50.871681
+],
+  "geometry": {"coordinates":[4.488433,50.871681],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1327170269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.94251,50.62101,4.94251,50.62101",
+    "geom:latitude":50.62101,
+    "geom:longitude":4.94251,
+    "gn:admin1_code":"WAL",
+    "gn:admin2_code":"WNA",
+    "gn:admin3_code":"92.0",
+    "gn:admin4_code":"92035.0",
+    "gn:asciiname":"Francqnee",
+    "gn:country_code":"BE",
+    "gn:dem":138,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2798002,
+    "gn:latitude":50.62101,
+    "gn:longitude":4.94251,
+    "gn:modification_date":"2017-03-25",
+    "gn:name":"Francqn\u00e9e",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Franquen\u00e9e",
+        "Francqn\u00e9e"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681699,
+        102191581,
+        85632997,
+        404227353,
+        102049931
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2798002
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"7a90dd6661527bead4a9e5ef55d7e9b7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049931,
+            "locality_id":1327170269,
+            "macroregion_id":404227353,
+            "region_id":85681699
+        }
+    ],
+    "wof:id":1327170269,
+    "wof:lastmodified":1537587038,
+    "wof:name":"Francqnee",
+    "wof:parent_id":102049931,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.94251,
+    50.62101,
+    4.94251,
+    50.62101
+],
+  "geometry": {"coordinates":[4.94251,50.62101],"type":"Point"}
+}

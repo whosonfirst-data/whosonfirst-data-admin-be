@@ -1,0 +1,74 @@
+{
+  "id": 1343795771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.31667,51.03333,3.31667,51.03333",
+    "geom:latitude":51.03333,
+    "geom:longitude":3.31667,
+    "gn:admin1_code":"VLG",
+    "gn:admin2_code":"VWV",
+    "gn:admin3_code":"37.0",
+    "gn:admin4_code":"37015.0",
+    "gn:asciiname":"Hooithoek",
+    "gn:country_code":"BE",
+    "gn:dem":23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2795384,
+    "gn:latitude":51.03333,
+    "gn:longitude":3.31667,
+    "gn:modification_date":"2016-08-02",
+    "gn:name":"Hooithoek",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681709,
+        102191581,
+        1108830265,
+        85632997,
+        404227357,
+        102049981
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2795384
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"e8d8e16ac322492a983a9b35c65bc0e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049981,
+            "localadmin_id":1108830265,
+            "locality_id":1343795771,
+            "macroregion_id":404227357,
+            "region_id":85681709
+        }
+    ],
+    "wof:id":1343795771,
+    "wof:lastmodified":1536760270,
+    "wof:name":"Hooithoek",
+    "wof:parent_id":1108830265,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.31667,
+    51.03333,
+    3.31667,
+    51.03333
+],
+  "geometry": {"coordinates":[3.31667,51.03333],"type":"Point"}
+}

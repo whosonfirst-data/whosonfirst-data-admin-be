@@ -1,0 +1,106 @@
+{
+  "id": 85801841,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":343005.093137,
+    "geom:bbox":"4.281921,50.786839,4.281921,50.786839",
+    "geom:latitude":50.786839,
+    "geom:longitude":4.281921,
+    "iso:country":"BE",
+    "lbl:latitude":50.786839,
+    "lbl:longitude":4.281921,
+    "mps:latitude":50.787706,
+    "mps:longitude":4.281972,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_locality":1,
+    "name:dut_x_preferred":[
+        "Ruysbroeck"
+    ],
+    "name:unk_x_variant":[
+        "Ruysbroeck"
+    ],
+    "qs:gn_id":0,
+    "qs:gn_local":0,
+    "qs:id":0,
+    "qs:local_max":172,
+    "qs:local_sum":397,
+    "qs:localhoods":4,
+    "qs:name":"Ruysbroeck",
+    "qs:name_adm0":"Belgique",
+    "qs:name_adm1":"Vlaams Brabant",
+    "qs:name_adm2":"Halle-Vilvoorde",
+    "qs:name_lau":"St.-Pieters-Leeuw",
+    "qs:name_local":"St.-Pieters-Leeuw",
+    "qs:photo_max":1,
+    "qs:photo_sum":1,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":1,
+    "qs:woe_adm0":23424757,
+    "qs:woe_adm1":22525998,
+    "qs:woe_adm2":12591768,
+    "qs:woe_lau":20074659,
+    "qs:woe_local":20074659,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        85681731,
+        102191581,
+        1108830529,
+        85632997,
+        404227357,
+        101913243,
+        102049973
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":976580
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"19bb8d934f89ef0ff598073e51c2e3bd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049973,
+            "localadmin_id":1108830529,
+            "locality_id":101913243,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85801841,
+            "region_id":85681731
+        }
+    ],
+    "wof:id":85801841,
+    "wof:lang":[
+        "dut"
+    ],
+    "wof:lastmodified":1531862101,
+    "wof:name":"Ruysbroeck",
+    "wof:parent_id":101913243,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.281921,
+    50.786839,
+    4.281921,
+    50.786839
+],
+  "geometry": {"coordinates":[4.281921,50.786839],"type":"Point"}
+}

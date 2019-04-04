@@ -1,0 +1,66 @@
+{
+  "id": 1209551371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.56413,50.93777,4.56413,50.93777",
+    "geom:latitude":50.93777,
+    "geom:longitude":4.56413,
+    "gn:admin1_code":"WAL",
+    "gn:admin2_code":"WHT",
+    "gn:asciiname":"Voort",
+    "gn:country_code":"BE",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2784386,
+    "gn:latitude":50.93777,
+    "gn:longitude":4.56413,
+    "gn:modification_date":"2011-02-04",
+    "gn:name":"Voort",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "De Voort",
+        "Voort"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2784386
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"3f809351f774b2f3204c202879ca543d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "locality_id":1209551371
+        }
+    ],
+    "wof:id":1209551371,
+    "wof:lastmodified":1537586888,
+    "wof:name":"Voort",
+    "wof:parent_id":85632997,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.56413,
+    50.93777,
+    4.56413,
+    50.93777
+],
+  "geometry": {"coordinates":[4.56413,50.93777],"type":"Point"}
+}

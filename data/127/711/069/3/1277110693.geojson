@@ -1,0 +1,72 @@
+{
+  "id": 1277110693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.81553,50.74645,4.81553,50.74645",
+    "geom:latitude":50.74645,
+    "geom:longitude":4.81553,
+    "gn:admin1_code":"WAL",
+    "gn:admin2_code":"WBR",
+    "gn:admin3_code":"25.0",
+    "gn:admin4_code":"25048.0",
+    "gn:asciiname":"Maison du Bois",
+    "gn:country_code":"BE",
+    "gn:dem":118,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2791893,
+    "gn:latitude":50.74645,
+    "gn:longitude":4.81553,
+    "gn:modification_date":"2017-03-25",
+    "gn:name":"Maison du Bois",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681693,
+        102191581,
+        85632997,
+        404227353,
+        102049945
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2791893
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"3cd4b65a7ca0aa2c44f27296b555ca54",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049945,
+            "locality_id":1277110693,
+            "macroregion_id":404227353,
+            "region_id":85681693
+        }
+    ],
+    "wof:id":1277110693,
+    "wof:lastmodified":1536727736,
+    "wof:name":"Maison du Bois",
+    "wof:parent_id":102049945,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.81553,
+    50.74645,
+    4.81553,
+    50.74645
+],
+  "geometry": {"coordinates":[4.81553,50.74645],"type":"Point"}
+}

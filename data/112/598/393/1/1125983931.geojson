@@ -1,0 +1,108 @@
+{
+  "id": 1125983931,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.50067,50.80882,5.50067,50.80882",
+    "geom:latitude":50.80882,
+    "geom:longitude":5.50067,
+    "gn:gn_country":"BE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"BE",
+    "lbl:latitude":50.80882,
+    "lbl:longitude":5.50067,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "'s Herenelderen"
+    ],
+    "name:eng_x_preferred":[
+        "'s Herenelderen"
+    ],
+    "name:fre_x_preferred":[
+        "'s Herenelderen"
+    ],
+    "name:hun_x_preferred":[
+        "'s Herenelderen"
+    ],
+    "name:unk_x_variant":[
+        "'s Heerenelderen"
+    ],
+    "qs_pg:aaroncc":"BE",
+    "qs_pg:gn_country":"BE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2786788,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"'s-Herenelderen",
+    "qs_pg:name_adm0":"Belgique",
+    "qs_pg:name_adm1":"Limburg",
+    "qs_pg:photos":111,
+    "qs_pg:photos_1k":22,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":3,
+    "qs_pg:photos_all":111,
+    "qs_pg:photos_sr":3,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1345541,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424757,
+    "qs_pg:woe_id":966378,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424757,
+    "woe:name_adm0":"Belgique",
+    "woe:name_adm1":"Limburg",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85681705,
+        102191581,
+        1108830031,
+        85632997,
+        404227357,
+        1108782563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2786788,
+        "gp:id":966378,
+        "qs_pg:id":1345541,
+        "wd:id":"Q2367806"
+    },
+    "wof:country":"BE",
+    "wof:created":1497298707,
+    "wof:geomhash":"c88eb989aed4adf5abc5fa1addbb735f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":1108782563,
+            "localadmin_id":1108830031,
+            "locality_id":1125983931,
+            "macroregion_id":404227357,
+            "region_id":85681705
+        }
+    ],
+    "wof:id":1125983931,
+    "wof:lastmodified":1513899137,
+    "wof:name":"'s-Herenelderen",
+    "wof:parent_id":1108830031,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.50067,
+    50.80882,
+    5.50067,
+    50.80882
+],
+  "geometry": {"coordinates":[5.50067,50.80882],"type":"Point"}
+}

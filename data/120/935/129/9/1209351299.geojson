@@ -1,0 +1,68 @@
+{
+  "id": 1209351299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.49204,50.69857,4.49204,50.69857",
+    "geom:latitude":50.69857,
+    "geom:longitude":4.49204,
+    "gn:admin1_code":"WAL",
+    "gn:admin2_code":"WBR",
+    "gn:admin3_code":"25.0",
+    "gn:admin4_code":"25119.0",
+    "gn:asciiname":"La Brire",
+    "gn:country_code":"BE",
+    "gn:dem":92,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2793739,
+    "gn:latitude":50.69857,
+    "gn:longitude":4.49204,
+    "gn:modification_date":"2017-03-25",
+    "gn:name":"La Brire",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Brire",
+        "La Brire"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2793739
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"4078fbeffef312026063237b47abf609",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "locality_id":1209351299
+        }
+    ],
+    "wof:id":1209351299,
+    "wof:lastmodified":1537586992,
+    "wof:name":"La Brire",
+    "wof:parent_id":85632997,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.49204,
+    50.69857,
+    4.49204,
+    50.69857
+],
+  "geometry": {"coordinates":[4.49204,50.69857],"type":"Point"}
+}

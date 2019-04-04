@@ -1,0 +1,118 @@
+{
+  "id": 1125948491,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.33518,50.75958,5.33518,50.75958",
+    "geom:latitude":50.75958,
+    "geom:longitude":5.33518,
+    "gn:gn_country":"BE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"BE",
+    "lbl:latitude":50.75958,
+    "lbl:longitude":5.33518,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:chi_x_preferred":[
+        "\u65a1\u65cb\u7bc7"
+    ],
+    "name:dut_x_preferred":[
+        "Horpmaal"
+    ],
+    "name:eng_x_preferred":[
+        "Horpmaal"
+    ],
+    "name:fre_x_preferred":[
+        "Horpmaal"
+    ],
+    "name:gre_x_preferred":[
+        "\u039f\u03c5\u03bd\u03c4\u03b3\u03b9\u03cc\u03b3\u03ba\u03b1 \u03a0\u03ac\u03c1\u03b2\u03b1"
+    ],
+    "name:guj_x_preferred":[
+        "\u0a89\u0aa6\u0acd\u0aaf\u0acb\u0a97\u0aaa\u0ab0\u0acd\u0ab5"
+    ],
+    "name:hun_x_preferred":[
+        "Horpmaal"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e2d\u0e38\u0e17\u0e42\u0e22\u0e04\u0e1a\u0e23\u0e23\u0e1e"
+    ],
+    "name:unk_x_variant":[
+        "Horpmael"
+    ],
+    "qs_pg:aaroncc":"BE",
+    "qs_pg:gn_country":"BE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2795359,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Horpmaal",
+    "qs_pg:name_adm0":"Belgique",
+    "qs_pg:name_adm1":"Limburg",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":3,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1142976,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424757,
+    "qs_pg:woe_id":971487,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424757,
+    "woe:name_adm0":"Belgique",
+    "woe:name_adm1":"Limburg",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85681705,
+        102191581,
+        1108830275,
+        85632997,
+        404227357,
+        1108782563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2795359,
+        "gp:id":971487,
+        "qs_pg:id":1142976,
+        "wd:id":"Q2588258"
+    },
+    "wof:country":"BE",
+    "wof:created":1497297373,
+    "wof:geomhash":"5bc68dc92bcafb303e9e76b752d5cc35",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":1108782563,
+            "localadmin_id":1108830275,
+            "locality_id":1125948491,
+            "macroregion_id":404227357,
+            "region_id":85681705
+        }
+    ],
+    "wof:id":1125948491,
+    "wof:lastmodified":1513899318,
+    "wof:name":"Horpmaal",
+    "wof:parent_id":1108830275,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.33518,
+    50.75958,
+    5.33518,
+    50.75958
+],
+  "geometry": {"coordinates":[5.33518,50.75958],"type":"Point"}
+}

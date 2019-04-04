@@ -1,0 +1,78 @@
+{
+  "id": 1343895287,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.10048,50.95766,5.10048,50.95766",
+    "geom:latitude":50.95766,
+    "geom:longitude":5.10048,
+    "gn:admin1_code":"VLG",
+    "gn:admin2_code":"VLI",
+    "gn:admin3_code":"71.0",
+    "gn:admin4_code":"71020.0",
+    "gn:asciiname":"Halensbroek",
+    "gn:country_code":"BE",
+    "gn:dem":26,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2796713,
+    "gn:latitude":50.95766,
+    "gn:longitude":5.10048,
+    "gn:modification_date":"2016-08-02",
+    "gn:name":"Halensbroek",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Haelens Broek",
+        "Halensbroek"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681705,
+        102191581,
+        1108830269,
+        85632997,
+        404227357,
+        102049975
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2796713
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"4fd788e615831b3008d7c0540758ed77",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049975,
+            "localadmin_id":1108830269,
+            "locality_id":1343895287,
+            "macroregion_id":404227357,
+            "region_id":85681705
+        }
+    ],
+    "wof:id":1343895287,
+    "wof:lastmodified":1537587025,
+    "wof:name":"Halensbroek",
+    "wof:parent_id":1108830269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.10048,
+    50.95766,
+    5.10048,
+    50.95766
+],
+  "geometry": {"coordinates":[5.10048,50.95766],"type":"Point"}
+}

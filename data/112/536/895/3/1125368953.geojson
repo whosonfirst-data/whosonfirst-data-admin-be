@@ -1,0 +1,78 @@
+{
+  "id": 1125368953,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2017-05-19",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.4483,50.70384,3.4483,50.70384",
+    "geom:latitude":50.70384,
+    "geom:longitude":3.4483,
+    "gn:gn_country":"BE",
+    "gn:gn_fcode":"ADM4",
+    "gn:gn_pop":5461,
+    "gn:population":5461,
+    "iso:country":"BE",
+    "lbl:latitude":50.70384,
+    "lbl:longitude":3.4483,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bul_x_preferred":[
+        "\u0421\u0435\u043b"
+    ],
+    "name:fas_x_preferred":[
+        "\u0633\u0644\u060c \u0627\u0646\u0648"
+    ],
+    "qs_pg:aaroncc":"BE",
+    "qs_pg:gn_country":"BE",
+    "qs_pg:gn_fcode":"ADM4",
+    "qs_pg:gn_id":2800608,
+    "qs_pg:gn_pop":5461,
+    "qs_pg:name":"Celles",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":5,
+    "qs_pg:qs_id":92743,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85632997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2800608,
+        "qs_pg:id":92743
+    },
+    "wof:country":"BE",
+    "wof:created":1497047263,
+    "wof:geomhash":"96cfa252a11499d31d52ae425d02608c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "localadmin_id":1125368953
+        }
+    ],
+    "wof:id":1125368953,
+    "wof:lastmodified":1505185645,
+    "wof:name":"Celles",
+    "wof:parent_id":-1,
+    "wof:placetype":"localadmin",
+    "wof:population":5461,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.4483,
+    50.70384,
+    3.4483,
+    50.70384
+],
+  "geometry": {"coordinates":[3.4483,50.70384],"type":"Point"}
+}

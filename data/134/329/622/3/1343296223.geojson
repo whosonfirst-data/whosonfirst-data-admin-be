@@ -1,0 +1,78 @@
+{
+  "id": 1343296223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.39222,51.14279,5.39222,51.14279",
+    "geom:latitude":51.14279,
+    "geom:longitude":5.39222,
+    "gn:admin1_code":"VLG",
+    "gn:admin2_code":"VLI",
+    "gn:admin3_code":"72.0",
+    "gn:admin4_code":"72038.0",
+    "gn:asciiname":"Hoenrik",
+    "gn:country_code":"BE",
+    "gn:dem":57,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2795652,
+    "gn:latitude":51.14279,
+    "gn:longitude":5.39222,
+    "gn:modification_date":"2016-08-02",
+    "gn:name":"Hoenrik",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hoenkrik",
+        "Hoenrik"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681705,
+        102191581,
+        1108830149,
+        85632997,
+        404227357,
+        102049993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2795652
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"ceef2b3655fadbfec56555be7f20598a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049993,
+            "localadmin_id":1108830149,
+            "locality_id":1343296223,
+            "macroregion_id":404227357,
+            "region_id":85681705
+        }
+    ],
+    "wof:id":1343296223,
+    "wof:lastmodified":1537587015,
+    "wof:name":"Hoenrik",
+    "wof:parent_id":1108830149,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.39222,
+    51.14279000000001,
+    5.39222,
+    51.14279000000001
+],
+  "geometry": {"coordinates":[5.39222,51.14279000000001],"type":"Point"}
+}

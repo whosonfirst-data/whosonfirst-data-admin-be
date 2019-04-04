@@ -1,0 +1,76 @@
+{
+  "id": 1243001941,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.40629,50.42235,4.40629,50.42235",
+    "geom:latitude":50.42235,
+    "geom:longitude":4.40629,
+    "gn:admin1_code":"WAL",
+    "gn:admin2_code":"WHT",
+    "gn:admin3_code":"52.0",
+    "gn:admin4_code":"52011.0",
+    "gn:asciiname":"La Docherie",
+    "gn:country_code":"BE",
+    "gn:dem":124,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2793660,
+    "gn:latitude":50.42235,
+    "gn:longitude":4.40629,
+    "gn:modification_date":"2017-03-25",
+    "gn:name":"La Docherie",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Docherie",
+        "La Docherie"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681723,
+        102191581,
+        85632997,
+        404227353,
+        102049927
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2793660
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"daaaae0b2e56913054065097312b3134",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049927,
+            "locality_id":1243001941,
+            "macroregion_id":404227353,
+            "region_id":85681723
+        }
+    ],
+    "wof:id":1243001941,
+    "wof:lastmodified":1537586991,
+    "wof:name":"La Docherie",
+    "wof:parent_id":102049927,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.40629,
+    50.42235,
+    4.40629,
+    50.42235
+],
+  "geometry": {"coordinates":[4.40629,50.42235],"type":"Point"}
+}

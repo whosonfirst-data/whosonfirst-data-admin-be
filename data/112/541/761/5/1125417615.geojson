@@ -1,0 +1,117 @@
+{
+  "id": 1125417615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2017-05-19",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.86464,50.48591,5.86464,50.48591",
+    "geom:latitude":50.48591,
+    "geom:longitude":5.86464,
+    "gn:gn_country":"BE",
+    "gn:gn_fcode":"ADM4",
+    "gn:gn_pop":10531,
+    "gn:population":10531,
+    "iso:country":"BE",
+    "lbl:latitude":50.48591,
+    "lbl:longitude":5.86464,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bel_x_preferred":[
+        "\u0413\u043e\u0440\u0430\u0434 \u0421\u043f\u0430"
+    ],
+    "name:bul_x_preferred":[
+        "\u0421\u043f\u0430"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a3\u03c0\u03b1"
+    ],
+    "name:est_x_preferred":[
+        "Spa vald"
+    ],
+    "name:fas_x_preferred":[
+        "\u0633\u067e\u0647"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e1\u05e4\u05d0"
+    ],
+    "name:hye_x_preferred":[
+        "\u054d\u057a\u0561"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b9\u30d1"
+    ],
+    "name:kor_x_preferred":[
+        "\uc2a4\ud30c"
+    ],
+    "name:lat_x_preferred":[
+        "Aquae Spadanae"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u043f\u0430"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e2a\u0e1b\u0e32"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u043f\u0430"
+    ],
+    "name:wln_x_preferred":[
+        "Sp\u00e5"
+    ],
+    "name:zho_x_preferred":[
+        "\u65af\u5e15"
+    ],
+    "qs_pg:aaroncc":"BE",
+    "qs_pg:gn_country":"BE",
+    "qs_pg:gn_fcode":"ADM4",
+    "qs_pg:gn_id":2786319,
+    "qs_pg:gn_pop":10531,
+    "qs_pg:name":"Spa",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":6,
+    "qs_pg:qs_id":92556,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85632997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2786319,
+        "qs_pg:id":92556
+    },
+    "wof:country":"BE",
+    "wof:created":1497051624,
+    "wof:geomhash":"fbf52d4d3e8cb3e9cc2696bc0ae8be8f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "localadmin_id":1125417615
+        }
+    ],
+    "wof:id":1125417615,
+    "wof:lastmodified":1505185640,
+    "wof:name":"Spa",
+    "wof:parent_id":-1,
+    "wof:placetype":"localadmin",
+    "wof:population":10531,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.86464,
+    50.48591,
+    5.86464,
+    50.48591
+],
+  "geometry": {"coordinates":[5.86464,50.48591],"type":"Point"}
+}

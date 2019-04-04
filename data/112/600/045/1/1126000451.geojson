@@ -1,0 +1,117 @@
+{
+  "id": 1126000451,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.23034,50.9238,3.23034,50.9238",
+    "geom:latitude":50.9238,
+    "geom:longitude":3.23034,
+    "gn:gn_country":"BE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"BE",
+    "lbl:latitude":50.9238,
+    "lbl:longitude":3.23034,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Emelgem"
+    ],
+    "name:dut_x_preferred":[
+        "Emelgem"
+    ],
+    "name:eng_x_preferred":[
+        "Emelgem"
+    ],
+    "name:fre_x_preferred":[
+        "Emelgem"
+    ],
+    "name:ger_x_preferred":[
+        "Emelgem"
+    ],
+    "name:hun_x_preferred":[
+        "Emelgem"
+    ],
+    "name:unk_x_variant":[
+        "Emelghem"
+    ],
+    "name:vls_x_preferred":[
+        "Emelgem"
+    ],
+    "qs_pg:aaroncc":"BE",
+    "qs_pg:gn_country":"BE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2798779,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Emelgem",
+    "qs_pg:name_adm0":"Belgique",
+    "qs_pg:name_adm1":"West-Vlaanderen",
+    "qs_pg:photos":68,
+    "qs_pg:photos_1k":14,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":68,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1003552,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424757,
+    "qs_pg:woe_id":969370,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424757,
+    "woe:name_adm0":"Belgique",
+    "woe:name_adm1":"West-Vlaanderen",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85681709,
+        102191581,
+        1108830151,
+        85632997,
+        404227357,
+        102049977
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2798779,
+        "gp:id":969370,
+        "qs_pg:id":1003552,
+        "wd:id":"Q2681034"
+    },
+    "wof:country":"BE",
+    "wof:created":1497299618,
+    "wof:geomhash":"04a468ff9cd8e793ccaf8c115bcb2dc6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049977,
+            "localadmin_id":1108830151,
+            "locality_id":1126000451,
+            "macroregion_id":404227357,
+            "region_id":85681709
+        }
+    ],
+    "wof:id":1126000451,
+    "wof:lastmodified":1513899244,
+    "wof:name":"Emelgem",
+    "wof:parent_id":1108830151,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.23034,
+    50.9238,
+    3.23034,
+    50.9238
+],
+  "geometry": {"coordinates":[3.23034,50.9238],"type":"Point"}
+}

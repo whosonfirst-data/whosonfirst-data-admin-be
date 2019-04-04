@@ -1,0 +1,74 @@
+{
+  "id": 1260016649,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.8,50.81667,2.8,50.81667",
+    "geom:latitude":50.81667,
+    "geom:longitude":2.8,
+    "gn:admin1_code":"VLG",
+    "gn:admin2_code":"VWV",
+    "gn:admin3_code":"33.0",
+    "gn:admin4_code":"33011.0",
+    "gn:asciiname":"Sint-Hubertushoek",
+    "gn:country_code":"BE",
+    "gn:dem":28,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2786689,
+    "gn:latitude":50.81667,
+    "gn:longitude":2.8,
+    "gn:modification_date":"2016-08-02",
+    "gn:name":"Sint-Hubertushoek",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681709,
+        102191581,
+        1108830595,
+        85632997,
+        404227357,
+        102049971
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2786689
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"7f77f91d485e276d0a85edc2dd262134",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049971,
+            "localadmin_id":1108830595,
+            "locality_id":1260016649,
+            "macroregion_id":404227357,
+            "region_id":85681709
+        }
+    ],
+    "wof:id":1260016649,
+    "wof:lastmodified":1537080997,
+    "wof:name":"Sint-Hubertushoek",
+    "wof:parent_id":1108830595,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.8,
+    50.81667,
+    2.8,
+    50.81667
+],
+  "geometry": {"coordinates":[2.8,50.81667],"type":"Point"}
+}

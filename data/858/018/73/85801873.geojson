@@ -1,0 +1,111 @@
+{
+  "id": 85801873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":47223854.283936,
+    "geom:bbox":"4.534527,50.761926,4.534527,50.761926",
+    "geom:latitude":50.761926,
+    "geom:longitude":4.534527,
+    "iso:country":"BE",
+    "lbl:latitude":50.761926,
+    "lbl:longitude":4.534527,
+    "mps:latitude":50.76252,
+    "mps:longitude":4.537658,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":13.0,
+    "mz:tier_locality":1,
+    "name:dut_x_preferred":[
+        "Speelberg"
+    ],
+    "name:unk_x_variant":[
+        "Speelberg"
+    ],
+    "qs:gn_fcode":"PPL",
+    "qs:gn_local":0,
+    "qs:gn_namadm1":"VLG",
+    "qs:gn_name":"Speelberg",
+    "qs:local_max":966,
+    "qs:local_sum":966,
+    "qs:localhoods":1,
+    "qs:name":"Speelberg",
+    "qs:name_adm0":"Belgique",
+    "qs:name_adm1":"Vlaams Brabant",
+    "qs:name_adm2":"Halle-Vilvoorde",
+    "qs:name_lau":"Overijse",
+    "qs:name_local":"Overijse",
+    "qs:photo_max":210,
+    "qs:photo_sum":966,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":59,
+    "qs:woe_adm0":23424757,
+    "qs:woe_adm1":22525998,
+    "qs:woe_adm2":12591768,
+    "qs:woe_lau":12602744,
+    "qs:woe_local":12602744,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        85681731,
+        102191581,
+        1108830581,
+        85632997,
+        404227357,
+        101755537,
+        102049973
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2786302,
+        "gp:id":977083,
+        "qs:id":187048,
+        "qs_pg:id":187048
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"741344f67f0d78234922e81ab8785f75",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049973,
+            "localadmin_id":1108830581,
+            "locality_id":101755537,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85801873,
+            "region_id":85681731
+        }
+    ],
+    "wof:id":85801873,
+    "wof:lang":[
+        "dut"
+    ],
+    "wof:lastmodified":1531862105,
+    "wof:name":"Speelberg",
+    "wof:parent_id":101755537,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.534527,
+    50.761926,
+    4.534527,
+    50.761926
+],
+  "geometry": {"coordinates":[4.534527,50.761926],"type":"Point"}
+}

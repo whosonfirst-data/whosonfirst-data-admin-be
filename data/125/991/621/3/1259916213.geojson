@@ -1,0 +1,72 @@
+{
+  "id": 1259916213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.31049,50.32943,4.31049,50.32943",
+    "geom:latitude":50.32943,
+    "geom:longitude":4.31049,
+    "gn:admin1_code":"WAL",
+    "gn:admin2_code":"WHT",
+    "gn:admin3_code":"56.0",
+    "gn:admin4_code":"56078.0",
+    "gn:asciiname":"Fostaille",
+    "gn:country_code":"BE",
+    "gn:dem":190,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2798088,
+    "gn:latitude":50.32943,
+    "gn:longitude":4.31049,
+    "gn:modification_date":"2017-03-25",
+    "gn:name":"Fostaille",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681723,
+        102191581,
+        85632997,
+        404227353,
+        102049923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2798088
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"105783c1591e3430e82fa2b6a4ccc3d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049923,
+            "locality_id":1259916213,
+            "macroregion_id":404227353,
+            "region_id":85681723
+        }
+    ],
+    "wof:id":1259916213,
+    "wof:lastmodified":1536732197,
+    "wof:name":"Fostaille",
+    "wof:parent_id":102049923,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.31049,
+    50.32943,
+    4.31049,
+    50.32943
+],
+  "geometry": {"coordinates":[4.31049,50.32943],"type":"Point"}
+}

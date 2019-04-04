@@ -1,0 +1,72 @@
+{
+  "id": 1276374337,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.72596,50.56638,4.72596,50.56638",
+    "geom:latitude":50.56638,
+    "geom:longitude":4.72596,
+    "gn:admin1_code":"WAL",
+    "gn:admin2_code":"WNA",
+    "gn:admin3_code":"92.0",
+    "gn:admin4_code":"92142.0",
+    "gn:asciiname":"Liroux",
+    "gn:country_code":"BE",
+    "gn:dem":160,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2792276,
+    "gn:latitude":50.56638,
+    "gn:longitude":4.72596,
+    "gn:modification_date":"2017-03-25",
+    "gn:name":"Liroux",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681699,
+        102191581,
+        85632997,
+        404227353,
+        102049931
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2792276
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"3283af9ac00498f564c1862132cf1dbd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049931,
+            "locality_id":1276374337,
+            "macroregion_id":404227353,
+            "region_id":85681699
+        }
+    ],
+    "wof:id":1276374337,
+    "wof:lastmodified":1536723825,
+    "wof:name":"Liroux",
+    "wof:parent_id":102049931,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.72596,
+    50.56638,
+    4.72596,
+    50.56638
+],
+  "geometry": {"coordinates":[4.72596,50.56638],"type":"Point"}
+}

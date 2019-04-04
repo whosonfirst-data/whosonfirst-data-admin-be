@@ -1,0 +1,72 @@
+{
+  "id": 1293815183,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.22368,50.13455,4.22368,50.13455",
+    "geom:latitude":50.13455,
+    "geom:longitude":4.22368,
+    "gn:admin1_code":"WAL",
+    "gn:admin2_code":"WHT",
+    "gn:admin3_code":"56.0",
+    "gn:admin4_code":"56088.0",
+    "gn:asciiname":"Montbliart",
+    "gn:country_code":"BE",
+    "gn:dem":244,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2790834,
+    "gn:latitude":50.13455,
+    "gn:longitude":4.22368,
+    "gn:modification_date":"2012-02-02",
+    "gn:name":"Montbliart",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681723,
+        102191581,
+        85632997,
+        404227353,
+        102049923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2790834
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"e2b94ad08686f820e1386e464d112753",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049923,
+            "locality_id":1293815183,
+            "macroregion_id":404227353,
+            "region_id":85681723
+        }
+    ],
+    "wof:id":1293815183,
+    "wof:lastmodified":1536811270,
+    "wof:name":"Montbliart",
+    "wof:parent_id":102049923,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.22368,
+    50.13455,
+    4.22368,
+    50.13455
+],
+  "geometry": {"coordinates":[4.22368,50.13455],"type":"Point"}
+}

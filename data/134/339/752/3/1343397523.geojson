@@ -1,0 +1,78 @@
+{
+  "id": 1343397523,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.73333,50.98333,4.73333,50.98333",
+    "geom:latitude":50.98333,
+    "geom:longitude":4.73333,
+    "gn:admin1_code":"VLG",
+    "gn:admin2_code":"VBR",
+    "gn:admin3_code":"24.0",
+    "gn:admin4_code":"24094.0",
+    "gn:asciiname":"Hoogdonk",
+    "gn:country_code":"BE",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2795442,
+    "gn:latitude":50.98333,
+    "gn:longitude":4.73333,
+    "gn:modification_date":"2016-08-02",
+    "gn:name":"Hoogdonk",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hoogdonck",
+        "Hoogdonk"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681731,
+        102191581,
+        1108830325,
+        85632997,
+        404227357,
+        102049969
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2795442
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"938c921ac393579f3c31bceb32194e0e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049969,
+            "localadmin_id":1108830325,
+            "locality_id":1343397523,
+            "macroregion_id":404227357,
+            "region_id":85681731
+        }
+    ],
+    "wof:id":1343397523,
+    "wof:lastmodified":1537587012,
+    "wof:name":"Hoogdonk",
+    "wof:parent_id":1108830325,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.73333,
+    50.98333,
+    4.73333,
+    50.98333
+],
+  "geometry": {"coordinates":[4.73333,50.98333],"type":"Point"}
+}

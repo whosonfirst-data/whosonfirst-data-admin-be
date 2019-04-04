@@ -1,0 +1,84 @@
+{
+  "id": 1125398533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2017-05-19",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.85,50.81667,3.85,50.81667",
+    "geom:latitude":50.81667,
+    "geom:longitude":3.85,
+    "gn:gn_country":"BE",
+    "gn:gn_fcode":"ADM4",
+    "gn:gn_pop":6514,
+    "gn:population":6514,
+    "iso:country":"BE",
+    "lbl:latitude":50.81667,
+    "lbl:longitude":3.85,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bul_x_preferred":[
+        "\u041b\u0438\u0439\u0440\u0434\u0435"
+    ],
+    "name:fas_x_preferred":[
+        "\u0644\u06cc\u0631\u062f"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u0438\u0440\u0434\u0435"
+    ],
+    "name:zho_x_preferred":[
+        "\u5229\u5c14\u5fb7"
+    ],
+    "qs_pg:aaroncc":"BE",
+    "qs_pg:gn_country":"BE",
+    "qs_pg:gn_fcode":"ADM4",
+    "qs_pg:gn_id":2786604,
+    "qs_pg:gn_pop":6514,
+    "qs_pg:name":"Lierde",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":5,
+    "qs_pg:qs_id":1062718,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85632997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2786604,
+        "qs_pg:id":1062718
+    },
+    "wof:country":"BE",
+    "wof:created":1497049170,
+    "wof:geomhash":"8619f3fe244db2bbbb000db065e93441",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "localadmin_id":1125398533
+        }
+    ],
+    "wof:id":1125398533,
+    "wof:lastmodified":1505185640,
+    "wof:name":"Lierde",
+    "wof:parent_id":-1,
+    "wof:placetype":"localadmin",
+    "wof:population":6514,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.85,
+    50.81667,
+    3.85,
+    50.81667
+],
+  "geometry": {"coordinates":[3.85,50.81667],"type":"Point"}
+}

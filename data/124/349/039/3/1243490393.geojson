@@ -1,0 +1,72 @@
+{
+  "id": 1243490393,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.68271,50.72239,3.68271,50.72239",
+    "geom:latitude":50.72239,
+    "geom:longitude":3.68271,
+    "gn:admin1_code":"WAL",
+    "gn:admin2_code":"WHT",
+    "gn:admin3_code":"51.0",
+    "gn:admin4_code":"51017.0",
+    "gn:asciiname":"Arbre Saint-Pierre",
+    "gn:country_code":"BE",
+    "gn:dem":47,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2803105,
+    "gn:latitude":50.72239,
+    "gn:longitude":3.68271,
+    "gn:modification_date":"2017-03-25",
+    "gn:name":"Arbre Saint-Pierre",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681723,
+        102191581,
+        85632997,
+        404227353,
+        102049949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2803105
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"e25c3af652fa9d7a626a8f481f86b982",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049949,
+            "locality_id":1243490393,
+            "macroregion_id":404227353,
+            "region_id":85681723
+        }
+    ],
+    "wof:id":1243490393,
+    "wof:lastmodified":1536741872,
+    "wof:name":"Arbre Saint-Pierre",
+    "wof:parent_id":102049949,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.68271,
+    50.72239,
+    3.68271,
+    50.72239
+],
+  "geometry": {"coordinates":[3.68271,50.72239],"type":"Point"}
+}

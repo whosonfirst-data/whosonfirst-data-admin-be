@@ -1,0 +1,68 @@
+{
+  "id": 1209448709,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.08333,50.08333,5.08333,50.08333",
+    "geom:latitude":50.08333,
+    "geom:longitude":5.08333,
+    "gn:admin1_code":"WAL",
+    "gn:admin2_code":"WLX",
+    "gn:admin3_code":"84.0",
+    "gn:admin4_code":"84075.0",
+    "gn:asciiname":"Le Merdier",
+    "gn:country_code":"BE",
+    "gn:dem":269,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2792890,
+    "gn:latitude":50.08333,
+    "gn:longitude":5.08333,
+    "gn:modification_date":"2017-03-25",
+    "gn:name":"Le Merdier",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Merdier",
+        "Le Merdier"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2792890
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"a17b34d551dfa17ff08d956b1ad18d45",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "locality_id":1209448709
+        }
+    ],
+    "wof:id":1209448709,
+    "wof:lastmodified":1537586983,
+    "wof:name":"Le Merdier",
+    "wof:parent_id":85632997,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.08333,
+    50.08333,
+    5.08333,
+    50.08333
+],
+  "geometry": {"coordinates":[5.08333,50.08333],"type":"Point"}
+}

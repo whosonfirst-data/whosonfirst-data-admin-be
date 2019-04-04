@@ -1,0 +1,110 @@
+{
+  "id": 85862019,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":2858051.937589,
+    "geom:bbox":"5.606284,50.630802,5.606284,50.630802",
+    "geom:latitude":50.630802,
+    "geom:longitude":5.606284,
+    "gn:id":"",
+    "iso:country":"BE",
+    "lbl:latitude":50.630802,
+    "lbl:longitude":5.606284,
+    "mps:latitude":50.631206,
+    "mps:longitude":5.612859,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":16.0,
+    "mz:tier_locality":3,
+    "name:fra_x_preferred":[
+        "Belle Flamme"
+    ],
+    "name:unk_x_variant":[
+        "Belle Flamme"
+    ],
+    "qs:gn_adm0_cc":"BE",
+    "qs:gn_id":0,
+    "qs:gn_local":2792413,
+    "qs:gn_nam_loc":"Li\u00e8ge, Li\u00e8ge, Li\u00e8ge, BE",
+    "qs:gn_namadm1":"WAL",
+    "qs:local_max":5890,
+    "qs:local_sum":27074,
+    "qs:localhoods":35,
+    "qs:name":"Belle Flamme",
+    "qs:name_adm0":"Belgique",
+    "qs:name_adm1":"Li\u00e8ge",
+    "qs:name_adm2":"Li\u00e8ge",
+    "qs:name_lau":"Li\u00e8ge",
+    "qs:name_local":"Li\u00e8ge",
+    "qs:photo_max":15,
+    "qs:photo_sum":75,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":12,
+    "qs:woe_adm0":23424757,
+    "qs:woe_adm1":7153300,
+    "qs:woe_adm2":12591793,
+    "qs:woe_lau":12602393,
+    "qs:woe_local":973540,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        85681691,
+        102191581,
+        85632997,
+        404227353,
+        101748083,
+        102049941
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":20098232,
+        "qs:id":985044,
+        "qs_pg:id":985044
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"01620bce59b38932c8a283ce5bc56a21",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049941,
+            "locality_id":101748083,
+            "macroregion_id":404227353,
+            "neighbourhood_id":85862019,
+            "region_id":85681691
+        }
+    ],
+    "wof:id":85862019,
+    "wof:lang":[
+        "fre"
+    ],
+    "wof:lastmodified":1531870528,
+    "wof:name":"Belle Flamme",
+    "wof:parent_id":101748083,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.606284,
+    50.630802,
+    5.606284,
+    50.630802
+],
+  "geometry": {"coordinates":[5.606284,50.630802],"type":"Point"}
+}

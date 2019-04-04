@@ -1,0 +1,72 @@
+{
+  "id": 1226378905,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.49188,50.60084,5.49188,50.60084",
+    "geom:latitude":50.60084,
+    "geom:longitude":5.49188,
+    "gn:admin1_code":"WAL",
+    "gn:admin2_code":"WLG",
+    "gn:admin3_code":"62.0",
+    "gn:admin4_code":"62096.0",
+    "gn:asciiname":"Le Many",
+    "gn:country_code":"BE",
+    "gn:dem":95,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2792907,
+    "gn:latitude":50.60084,
+    "gn:longitude":5.49188,
+    "gn:modification_date":"2017-03-25",
+    "gn:name":"Le Many",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681691,
+        102191581,
+        85632997,
+        404227353,
+        102049941
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2792907
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"4debe9b7fc7f2d855228aff00ddbf976",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049941,
+            "locality_id":1226378905,
+            "macroregion_id":404227353,
+            "region_id":85681691
+        }
+    ],
+    "wof:id":1226378905,
+    "wof:lastmodified":1536741484,
+    "wof:name":"Le Many",
+    "wof:parent_id":102049941,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.49188,
+    50.60084000000001,
+    5.49188,
+    50.60084000000001
+],
+  "geometry": {"coordinates":[5.49188,50.60084000000001],"type":"Point"}
+}

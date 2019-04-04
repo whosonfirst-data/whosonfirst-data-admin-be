@@ -1,0 +1,78 @@
+{
+  "id": 1344188219,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.18333,51.16667,3.18333,51.16667",
+    "geom:latitude":51.16667,
+    "geom:longitude":3.18333,
+    "gn:admin1_code":"VLG",
+    "gn:admin2_code":"VWV",
+    "gn:admin3_code":"31.0",
+    "gn:admin4_code":"31005.0",
+    "gn:asciiname":"Stuivenberg",
+    "gn:country_code":"BE",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2785924,
+    "gn:latitude":51.16667,
+    "gn:longitude":3.18333,
+    "gn:modification_date":"2016-08-02",
+    "gn:name":"Stuivenberg",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Stuivenbergh",
+        "Stuivenberg"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681709,
+        102191581,
+        1108830689,
+        85632997,
+        404227357,
+        102050003
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2785924
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"c38b82046aa179d305abb3f2e35b8563",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102050003,
+            "localadmin_id":1108830689,
+            "locality_id":1344188219,
+            "macroregion_id":404227357,
+            "region_id":85681709
+        }
+    ],
+    "wof:id":1344188219,
+    "wof:lastmodified":1537586906,
+    "wof:name":"Stuivenberg",
+    "wof:parent_id":1108830689,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.18333,
+    51.16667,
+    3.18333,
+    51.16667
+],
+  "geometry": {"coordinates":[3.18333,51.16667],"type":"Point"}
+}

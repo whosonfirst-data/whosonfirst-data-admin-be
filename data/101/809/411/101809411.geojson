@@ -1,0 +1,79 @@
+{
+  "id": 101809411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00005,
+    "geom:area_square_m":388598.335924,
+    "geom:bbox":"3.49532388119,51.1725962614,3.51552945655,51.1833336129",
+    "geom:latitude":51.176554,
+    "geom:longitude":3.505438,
+    "iso:country":"BE",
+    "lbl:latitude":51.176065,
+    "lbl:longitude":3.504749,
+    "mps:latitude":51.176065,
+    "mps:longitude":3.504749,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:a0":"Belgi\u00eb#Belgique#Belgien",
+    "qs:a1":"*Oost-Vlanderen",
+    "qs:a1r":"0Vlaams Gewest",
+    "qs:a2":"Eeklo",
+    "qs:adm0":"Belgi\u00eb#Belgique#Belgien",
+    "qs:la":"Maldegem",
+    "qs:la_lc":"*BE243010",
+    "qs:level":"locality",
+    "qs:loc":"Appelboom",
+    "qs:loc_alt":"Appelboom",
+    "qs:pop":0,
+    "qs:source":"LCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        85681733,
+        102191581,
+        1108830541,
+        85632997,
+        404227357,
+        102049995
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2803127,
+        "gp:id":973882,
+        "qs:id":8
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"6902c2dc3da901399835113e7a1529aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049995,
+            "localadmin_id":1108830541,
+            "locality_id":101809411,
+            "macroregion_id":404227357,
+            "region_id":85681733
+        }
+    ],
+    "wof:id":101809411,
+    "wof:lastmodified":1499531230,
+    "wof:name":"Appelboom",
+    "wof:parent_id":1108830541,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.49532388119428,
+    51.17259626141157,
+    3.51552945655226,
+    51.18333361294458
+],
+  "geometry": {"coordinates":[[[3.50571416930632,51.18333361294458],[3.50672555429736,51.17617538442215],[3.51527699953533,51.17665369585649],[3.51552945655226,51.17486411375694],[3.50840351457049,51.17446558230677],[3.50865622099661,51.17267601651645],[3.50723110092542,51.17259626141157],[3.50685195006929,51.17528060421648],[3.49972600719991,51.17488154017263],[3.49985253373671,51.17398676849757],[3.49557710455747,51.17374712593397],[3.49532388119428,51.17553665823533],[3.49959947457978,51.17577631148248],[3.49947293587599,51.17667108242745],[3.50517390006365,51.17699038281125],[3.50466812238705,51.1805694914151],[3.50324276503807,51.18048968538909],[3.50298978496068,51.18227923394539],[3.50441519706618,51.18235904353008],[3.5042887252838,51.18325381904083],[3.50571416930632,51.18333361294458]]],"type":"Polygon"}
+}

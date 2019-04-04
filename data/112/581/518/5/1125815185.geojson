@@ -1,0 +1,106 @@
+{
+  "id": 1125815185,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.55664,51.02888,3.55664,51.02888",
+    "geom:latitude":51.02888,
+    "geom:longitude":3.55664,
+    "gn:gn_country":"BE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"BE",
+    "lbl:latitude":51.02888,
+    "lbl:longitude":3.55664,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Vosselare"
+    ],
+    "name:eng_x_preferred":[
+        "Vosselare"
+    ],
+    "name:fre_x_preferred":[
+        "Vosselare"
+    ],
+    "name:hun_x_preferred":[
+        "Vosselare"
+    ],
+    "name:unk_x_variant":[
+        "Vosselaere"
+    ],
+    "qs_pg:aaroncc":"BE",
+    "qs_pg:gn_country":"BE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2784347,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Vosselare",
+    "qs_pg:name_adm0":"Belgique",
+    "qs_pg:name_adm1":"Oost-Vlaanderen",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":1,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":240755,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424757,
+    "qs_pg:woe_id":978500,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424757,
+    "woe:name_adm0":"Belgique",
+    "woe:name_adm1":"Oost-Vlaanderen",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85681733,
+        102191581,
+        1108830463,
+        85632997,
+        404227357,
+        102049989
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2784347,
+        "gp:id":978500,
+        "qs_pg:id":240755,
+        "wd:id":"Q2415637"
+    },
+    "wof:country":"BE",
+    "wof:created":1497291812,
+    "wof:geomhash":"39e124708129e028473fc1dac3335509",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049989,
+            "localadmin_id":1108830463,
+            "locality_id":1125815185,
+            "macroregion_id":404227357,
+            "region_id":85681733
+        }
+    ],
+    "wof:id":1125815185,
+    "wof:lastmodified":1513899551,
+    "wof:name":"Vosselare",
+    "wof:parent_id":1108830463,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.55664,
+    51.02888,
+    3.55664,
+    51.02888
+],
+  "geometry": {"coordinates":[3.55664,51.02888],"type":"Point"}
+}

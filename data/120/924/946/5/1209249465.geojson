@@ -1,0 +1,64 @@
+{
+  "id": 1209249465,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.68333,50.48333,3.68333,50.48333",
+    "geom:latitude":50.48333,
+    "geom:longitude":3.68333,
+    "gn:admin1_code":"WAL",
+    "gn:admin2_code":"WHT",
+    "gn:admin3_code":"51.0",
+    "gn:admin4_code":"51009.0",
+    "gn:asciiname":"Coucou",
+    "gn:country_code":"BE",
+    "gn:dem":27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6957849,
+    "gn:latitude":50.48333,
+    "gn:longitude":3.68333,
+    "gn:modification_date":"2017-03-25",
+    "gn:name":"Coucou",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6957849
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"0a9fe2621df32e9f8f71483e73fb3465",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "locality_id":1209249465
+        }
+    ],
+    "wof:id":1209249465,
+    "wof:lastmodified":1536293052,
+    "wof:name":"Coucou",
+    "wof:parent_id":85632997,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.68333,
+    50.48333,
+    3.68333,
+    50.48333
+],
+  "geometry": {"coordinates":[3.68333,50.48333],"type":"Point"}
+}

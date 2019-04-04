@@ -1,0 +1,72 @@
+{
+  "id": 1260114727,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.76179,49.76338,5.76179,49.76338",
+    "geom:latitude":49.76338,
+    "geom:longitude":5.76179,
+    "gn:admin1_code":"WAL",
+    "gn:admin2_code":"WLX",
+    "gn:admin3_code":"81.0",
+    "gn:admin4_code":"81003.0",
+    "gn:asciiname":"Schockville",
+    "gn:country_code":"BE",
+    "gn:dem":361,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2787029,
+    "gn:latitude":49.76338,
+    "gn:longitude":5.76179,
+    "gn:modification_date":"2017-03-25",
+    "gn:name":"Schockville",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681727,
+        102191581,
+        85632997,
+        404227353,
+        102049909
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2787029
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"e3a21f54b3c0817c7e7b07846946b0f6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049909,
+            "locality_id":1260114727,
+            "macroregion_id":404227353,
+            "region_id":85681727
+        }
+    ],
+    "wof:id":1260114727,
+    "wof:lastmodified":1536943620,
+    "wof:name":"Schockville",
+    "wof:parent_id":102049909,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.76179,
+    49.76338,
+    5.76179,
+    49.76338
+],
+  "geometry": {"coordinates":[5.76179,49.76338],"type":"Point"}
+}

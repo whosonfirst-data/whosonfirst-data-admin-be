@@ -1,0 +1,76 @@
+{
+  "id": 1276266169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.23333,50.31667,5.23333,50.31667",
+    "geom:latitude":50.31667,
+    "geom:longitude":5.23333,
+    "gn:admin1_code":"WAL",
+    "gn:admin2_code":"WNA",
+    "gn:admin3_code":"91.0",
+    "gn:admin4_code":"91064.0",
+    "gn:asciiname":"Les Maurlires",
+    "gn:country_code":"BE",
+    "gn:dem":315,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2792625,
+    "gn:latitude":50.31667,
+    "gn:longitude":5.23333,
+    "gn:modification_date":"2017-03-25",
+    "gn:name":"Les Maurlires",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Les Maurli\u00e8res",
+        "Les Maurlires"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681699,
+        102191581,
+        85632997,
+        404227353,
+        102049919
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2792625
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"2e9dbf7e87d866a08dc9f3f671456698",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049919,
+            "locality_id":1276266169,
+            "macroregion_id":404227353,
+            "region_id":85681699
+        }
+    ],
+    "wof:id":1276266169,
+    "wof:lastmodified":1537586979,
+    "wof:name":"Les Maurlires",
+    "wof:parent_id":102049919,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.23333,
+    50.31667,
+    5.23333,
+    50.31667
+],
+  "geometry": {"coordinates":[5.23333,50.31667],"type":"Point"}
+}

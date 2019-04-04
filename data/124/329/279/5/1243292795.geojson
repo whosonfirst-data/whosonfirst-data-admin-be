@@ -1,0 +1,78 @@
+{
+  "id": 1243292795,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.34011,50.90402,5.34011,50.90402",
+    "geom:latitude":50.90402,
+    "geom:longitude":5.34011,
+    "gn:admin1_code":"VLG",
+    "gn:admin2_code":"VLI",
+    "gn:admin3_code":"71.0",
+    "gn:admin4_code":"71022.0",
+    "gn:asciiname":"Trekschuren",
+    "gn:country_code":"BE",
+    "gn:dem":59,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2785298,
+    "gn:latitude":50.90402,
+    "gn:longitude":5.34011,
+    "gn:modification_date":"2016-08-02",
+    "gn:name":"Trekschuren",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Trekschueren",
+        "Trekschuren"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681705,
+        102191581,
+        1108830649,
+        85632997,
+        404227357,
+        102049975
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2785298
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"3bb2e73161abc0301969c9ef8d37de10",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049975,
+            "localadmin_id":1108830649,
+            "locality_id":1243292795,
+            "macroregion_id":404227357,
+            "region_id":85681705
+        }
+    ],
+    "wof:id":1243292795,
+    "wof:lastmodified":1537586899,
+    "wof:name":"Trekschuren",
+    "wof:parent_id":1108830649,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.34011,
+    50.90402,
+    5.34011,
+    50.90402
+],
+  "geometry": {"coordinates":[5.34011,50.90402],"type":"Point"}
+}

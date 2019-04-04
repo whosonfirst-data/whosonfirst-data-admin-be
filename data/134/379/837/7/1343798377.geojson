@@ -1,0 +1,80 @@
+{
+  "id": 1343798377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.05,49.76667,5.05,49.76667",
+    "geom:latitude":49.76667,
+    "geom:longitude":5.05,
+    "gn:admin1_code":"WAL",
+    "gn:admin2_code":"WLX",
+    "gn:asciiname":"Boucandrie",
+    "gn:country_code":"BE",
+    "gn:dem":415,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2801306,
+    "gn:latitude":49.76667,
+    "gn:longitude":5.05,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Boucandrie",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Boucaudrie",
+        "Boucandrie"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85683309,
+        102191581,
+        404228017,
+        404359229,
+        85633147,
+        1108826391,
+        136253037,
+        102069371
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2801306
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"b7f107cbff68a7cd75e9752dd0483b33",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "county_id":102069371,
+            "empire_id":136253037,
+            "localadmin_id":404359229,
+            "locality_id":1343798377,
+            "macrocounty_id":404228017,
+            "macroregion_id":1108826391,
+            "region_id":85683309
+        }
+    ],
+    "wof:id":1343798377,
+    "wof:lastmodified":1537587067,
+    "wof:name":"Boucandrie",
+    "wof:parent_id":404359229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.05,
+    49.76667,
+    5.05,
+    49.76667
+],
+  "geometry": {"coordinates":[5.05,49.76667],"type":"Point"}
+}

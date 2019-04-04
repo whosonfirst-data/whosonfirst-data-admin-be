@@ -1,0 +1,105 @@
+{
+  "id": 1125778615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.55263,50.45433,4.55263,50.45433",
+    "geom:latitude":50.45433,
+    "geom:longitude":4.55263,
+    "gn:gn_country":"BE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"BE",
+    "lbl:latitude":50.45433,
+    "lbl:longitude":4.55263,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Lambusart"
+    ],
+    "name:eng_x_preferred":[
+        "Lambusart"
+    ],
+    "name:fre_x_preferred":[
+        "Lambusart"
+    ],
+    "name:hun_x_preferred":[
+        "Lambusart"
+    ],
+    "name:unk_x_variant":[
+        "Fleurus (Lambusart)"
+    ],
+    "name:vls_x_preferred":[
+        "Lambusart"
+    ],
+    "qs_pg:aaroncc":"BE",
+    "qs_pg:gn_country":"BE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2793478,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Lambusart",
+    "qs_pg:name_adm0":"Belgique",
+    "qs_pg:name_adm1":"Hainaut",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":192124,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424757,
+    "qs_pg:woe_id":972858,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424757,
+    "woe:name_adm0":"Belgique",
+    "woe:name_adm1":"Hainaut",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85681723,
+        102191581,
+        85632997,
+        404227353,
+        102049927
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2793478,
+        "gp:id":972858,
+        "qs_pg:id":192124,
+        "wd:id":"Q2444895"
+    },
+    "wof:country":"BE",
+    "wof:created":1497290374,
+    "wof:geomhash":"4ae986a897dd6c17b7de28e5b2ebfab9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049927,
+            "locality_id":1125778615,
+            "macroregion_id":404227353,
+            "region_id":85681723
+        }
+    ],
+    "wof:id":1125778615,
+    "wof:lastmodified":1513899353,
+    "wof:name":"Lambusart",
+    "wof:parent_id":102049927,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.55263,
+    50.45433,
+    4.55263,
+    50.45433
+],
+  "geometry": {"coordinates":[4.55263,50.45433],"type":"Point"}
+}

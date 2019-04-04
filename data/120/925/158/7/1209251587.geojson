@@ -1,0 +1,68 @@
+{
+  "id": 1209251587,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.85,50.91667,3.85,50.91667",
+    "geom:latitude":50.91667,
+    "geom:longitude":3.85,
+    "gn:admin1_code":"VLG",
+    "gn:admin2_code":"VOV",
+    "gn:admin3_code":"41.0",
+    "gn:admin4_code":"41063.0",
+    "gn:asciiname":"Houwerzele",
+    "gn:country_code":"BE",
+    "gn:dem":49,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2795243,
+    "gn:latitude":50.91667,
+    "gn:longitude":3.85,
+    "gn:modification_date":"2016-08-02",
+    "gn:name":"Houwerzele",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hauwerzeele",
+        "Houwerzele"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2795243
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"fcd46d375fe3935be4080e6b2a7e177b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "locality_id":1209251587
+        }
+    ],
+    "wof:id":1209251587,
+    "wof:lastmodified":1537587010,
+    "wof:name":"Houwerzele",
+    "wof:parent_id":85632997,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.85,
+    50.91667,
+    3.85,
+    50.91667
+],
+  "geometry": {"coordinates":[3.85,50.91667],"type":"Point"}
+}

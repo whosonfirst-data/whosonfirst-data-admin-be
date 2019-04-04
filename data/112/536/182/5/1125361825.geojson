@@ -1,0 +1,81 @@
+{
+  "id": 1125361825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2017-05-19",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.99334,50.7517,3.99334,50.7517",
+    "geom:latitude":50.7517,
+    "geom:longitude":3.99334,
+    "gn:gn_country":"BE",
+    "gn:gn_fcode":"ADM4",
+    "gn:gn_pop":8483,
+    "gn:population":8483,
+    "iso:country":"BE",
+    "lbl:latitude":50.7517,
+    "lbl:longitude":3.99334,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:fra_x_preferred":[
+        "Gammerages"
+    ],
+    "name:nld_x_preferred":[
+        "Galmaarden"
+    ],
+    "name:unk_x_variant":[
+        "Gammerages"
+    ],
+    "qs_pg:aaroncc":"BE",
+    "qs_pg:gn_country":"BE",
+    "qs_pg:gn_fcode":"ADM4",
+    "qs_pg:gn_id":2797852,
+    "qs_pg:gn_pop":8483,
+    "qs_pg:name":"Galmaarden",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":5,
+    "qs_pg:qs_id":92704,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85632997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2797852,
+        "qs_pg:id":92704
+    },
+    "wof:country":"BE",
+    "wof:created":1497046846,
+    "wof:geomhash":"84ed2d42e3e21ae6dd3fd6acfe877ded",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "localadmin_id":1125361825
+        }
+    ],
+    "wof:id":1125361825,
+    "wof:lastmodified":1505185644,
+    "wof:name":"Galmaarden",
+    "wof:parent_id":-1,
+    "wof:placetype":"localadmin",
+    "wof:population":8483,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.99334,
+    50.7517,
+    3.99334,
+    50.7517
+],
+  "geometry": {"coordinates":[3.99334,50.7517],"type":"Point"}
+}

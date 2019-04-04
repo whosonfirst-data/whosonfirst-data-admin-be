@@ -1,0 +1,106 @@
+{
+  "id": 1126009157,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.62682,49.56871,5.62682,49.56871",
+    "geom:latitude":49.56871,
+    "geom:longitude":5.62682,
+    "gn:gn_country":"BE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"BE",
+    "lbl:latitude":49.56871,
+    "lbl:longitude":5.62682,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Bleid"
+    ],
+    "name:eng_x_preferred":[
+        "Bleid"
+    ],
+    "name:fre_x_preferred":[
+        "Bleid"
+    ],
+    "name:hun_x_preferred":[
+        "Bleid"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d6\u30ec\u30c9"
+    ],
+    "qs_pg:aaroncc":"BE",
+    "qs_pg:gn_country":"BE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2801813,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Bleid",
+    "qs_pg:name_adm0":"Belgique",
+    "qs_pg:name_adm1":"Luxembourg",
+    "qs_pg:photos":61,
+    "qs_pg:photos_1k":12,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":61,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":114026,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424757,
+    "qs_pg:woe_id":967398,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424757,
+    "woe:name_adm0":"Belgique",
+    "woe:name_adm1":"Luxembourg",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85681727,
+        102191581,
+        85632997,
+        404227353,
+        102049907
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2801813,
+        "gp:id":967398,
+        "qs_pg:id":114026,
+        "wd:id":"Q2199533"
+    },
+    "wof:country":"BE",
+    "wof:created":1497300163,
+    "wof:geomhash":"0961a9a320522061115dec3c0a139c23",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049907,
+            "locality_id":1126009157,
+            "macroregion_id":404227353,
+            "region_id":85681727
+        }
+    ],
+    "wof:id":1126009157,
+    "wof:lastmodified":1513899181,
+    "wof:name":"Bleid",
+    "wof:parent_id":102049907,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.62682,
+    49.56871,
+    5.62682,
+    49.56871
+],
+  "geometry": {"coordinates":[5.62682,49.56871],"type":"Point"}
+}

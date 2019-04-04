@@ -1,0 +1,87 @@
+{
+  "id": 1125281533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2017-05-19",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.53333,50.58333,4.53333,50.58333",
+    "geom:latitude":50.58333,
+    "geom:longitude":4.53333,
+    "gn:gn_country":"BE",
+    "gn:gn_fcode":"ADM4",
+    "gn:gn_pop":10120,
+    "gn:population":10120,
+    "iso:country":"BE",
+    "lbl:latitude":50.58333,
+    "lbl:longitude":4.53333,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bul_x_preferred":[
+        "\u0412\u0438\u0439\u0435\u0440\u0441 \u043b\u0430 \u0412\u0438\u043b"
+    ],
+    "name:fas_x_preferred":[
+        "\u0648\u06cc\u0647-\u0644\u0648\u06cc\u0644"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u0438\u043b\u043b\u0435\u0440-\u043b\u0430-\u0412\u0438\u043b\u044c"
+    ],
+    "name:wln_x_preferred":[
+        "L Abeye"
+    ],
+    "name:zho_x_preferred":[
+        "\u7ef4\u83b1\u5c14\u65af\u62c9\u7ef4\u8036"
+    ],
+    "qs_pg:aaroncc":"BE",
+    "qs_pg:gn_country":"BE",
+    "qs_pg:gn_fcode":"ADM4",
+    "qs_pg:gn_id":2784642,
+    "qs_pg:gn_pop":10120,
+    "qs_pg:name":"Villers-la-Ville",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":6,
+    "qs_pg:qs_id":373541,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85632997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2784642,
+        "qs_pg:id":373541
+    },
+    "wof:country":"BE",
+    "wof:created":1497042519,
+    "wof:geomhash":"6aa3a9e9241ab156099c81c5431885aa",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "localadmin_id":1125281533
+        }
+    ],
+    "wof:id":1125281533,
+    "wof:lastmodified":1505185639,
+    "wof:name":"Villers-la-Ville",
+    "wof:parent_id":-1,
+    "wof:placetype":"localadmin",
+    "wof:population":10120,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.53333,
+    50.58333,
+    4.53333,
+    50.58333
+],
+  "geometry": {"coordinates":[4.53333,50.58333],"type":"Point"}
+}

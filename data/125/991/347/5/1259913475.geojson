@@ -1,0 +1,72 @@
+{
+  "id": 1259913475,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.65,50.7,3.65,50.7",
+    "geom:latitude":50.7,
+    "geom:longitude":3.65,
+    "gn:admin1_code":"WAL",
+    "gn:admin2_code":"WHT",
+    "gn:admin3_code":"51.0",
+    "gn:admin4_code":"51065.0",
+    "gn:asciiname":"Vrissart",
+    "gn:country_code":"BE",
+    "gn:dem":143,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2784299,
+    "gn:latitude":50.7,
+    "gn:longitude":3.65,
+    "gn:modification_date":"2017-03-25",
+    "gn:name":"Vrissart",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681723,
+        102191581,
+        85632997,
+        404227353,
+        102049949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2784299
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"25b1b39d2098ab2cea963a7b401b9a88",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049949,
+            "locality_id":1259913475,
+            "macroregion_id":404227353,
+            "region_id":85681723
+        }
+    ],
+    "wof:id":1259913475,
+    "wof:lastmodified":1536736071,
+    "wof:name":"Vrissart",
+    "wof:parent_id":102049949,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.65,
+    50.7,
+    3.65,
+    50.7
+],
+  "geometry": {"coordinates":[3.65,50.7],"type":"Point"}
+}

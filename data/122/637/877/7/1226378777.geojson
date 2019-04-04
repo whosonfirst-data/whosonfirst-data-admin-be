@@ -1,0 +1,77 @@
+{
+  "id": 1226378777,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.61021,50.71522,5.61021,50.71522",
+    "geom:latitude":50.71522,
+    "geom:longitude":5.61021,
+    "gn:admin1_code":"WAL",
+    "gn:admin2_code":"WLG",
+    "gn:admin3_code":"62.0",
+    "gn:admin4_code":"62079.0",
+    "gn:asciiname":"Grand Aaz",
+    "gn:country_code":"BE",
+    "gn:dem":117,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2797324,
+    "gn:latitude":50.71522,
+    "gn:longitude":5.61021,
+    "gn:modification_date":"2017-03-25",
+    "gn:name":"Grand Aaz",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Grande-Aaz",
+        "Grand-Aa",
+        "Grand Aaz"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681691,
+        102191581,
+        85632997,
+        404227353,
+        102049941
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2797324
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"75c4e4a0384d056506e7d4d18e127c77",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049941,
+            "locality_id":1226378777,
+            "macroregion_id":404227353,
+            "region_id":85681691
+        }
+    ],
+    "wof:id":1226378777,
+    "wof:lastmodified":1537587032,
+    "wof:name":"Grand Aaz",
+    "wof:parent_id":102049941,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.61021,
+    50.71522,
+    5.61021,
+    50.71522
+],
+  "geometry": {"coordinates":[5.61021,50.71522],"type":"Point"}
+}

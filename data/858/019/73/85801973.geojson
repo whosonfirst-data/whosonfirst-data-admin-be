@@ -1,0 +1,110 @@
+{
+  "id": 85801973,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":2144426.64749,
+    "geom:bbox":"4.518323,50.829781,4.518323,50.829781",
+    "geom:latitude":50.829781,
+    "geom:longitude":4.518323,
+    "gn:id":"",
+    "iso:country":"BE",
+    "lbl:latitude":50.829781,
+    "lbl:longitude":4.518323,
+    "mps:latitude":50.832767,
+    "mps:longitude":4.517425,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":1,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":13.0,
+    "mz:tier_locality":1,
+    "mz:tier_metro":30,
+    "name:dut_x_preferred":[
+        "Vurenveld"
+    ],
+    "name:unk_x_variant":[
+        "Vurenveld"
+    ],
+    "qs:gn_id":0,
+    "qs:gn_local":0,
+    "qs:local_max":1117,
+    "qs:local_sum":1275,
+    "qs:localhoods":3,
+    "qs:name":"Vurenveld",
+    "qs:name_adm0":"Belgique",
+    "qs:name_adm1":"Vlaams Brabant",
+    "qs:name_adm2":"Halle-Vilvoorde",
+    "qs:name_lau":"Wezembeek-Oppem",
+    "qs:name_local":"Wezembeek-Oppem",
+    "qs:photo_max":385,
+    "qs:photo_sum":1117,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":23,
+    "qs:woe_adm0":23424757,
+    "qs:woe_adm1":22525998,
+    "qs:woe_adm2":12591768,
+    "qs:woe_lau":20074660,
+    "qs:woe_local":20074660,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"mz",
+    "wof:belongsto":[
+        85681731,
+        102191581,
+        1108830631,
+        85632997,
+        404227357,
+        101754329,
+        102049969
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":978547,
+        "qs:id":1104261,
+        "qs_pg:id":1104261
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"ad8fb6e07095fa97d69e6aafb4293944",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049969,
+            "localadmin_id":1108830631,
+            "locality_id":101754329,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85801973,
+            "region_id":85681731
+        }
+    ],
+    "wof:id":85801973,
+    "wof:lang":[
+        "dut"
+    ],
+    "wof:lastmodified":1531862111,
+    "wof:name":"Vurenveld",
+    "wof:parent_id":101754329,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.518323,
+    50.829781,
+    4.518323,
+    50.829781
+],
+  "geometry": {"coordinates":[4.518323,50.829781],"type":"Point"}
+}

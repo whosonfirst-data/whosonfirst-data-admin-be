@@ -1,0 +1,72 @@
+{
+  "id": 1125376817,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2017-05-19",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.13333,49.9,5.13333,49.9",
+    "geom:latitude":49.9,
+    "geom:longitude":5.13333,
+    "gn:gn_country":"BE",
+    "gn:gn_fcode":"ADM4",
+    "gn:gn_pop":5183,
+    "gn:population":5183,
+    "iso:country":"BE",
+    "lbl:latitude":49.9,
+    "lbl:longitude":5.13333,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"BE",
+    "qs_pg:gn_country":"BE",
+    "qs_pg:gn_fcode":"ADM4",
+    "qs_pg:gn_id":2789355,
+    "qs_pg:gn_pop":5183,
+    "qs_pg:name":"Paliseul",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":5,
+    "qs_pg:qs_id":373561,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85632997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2789355,
+        "qs_pg:id":373561
+    },
+    "wof:country":"BE",
+    "wof:created":1497047798,
+    "wof:geomhash":"9d514eddbc8fb607424f5d4b1a9ea0da",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "localadmin_id":1125376817
+        }
+    ],
+    "wof:id":1125376817,
+    "wof:lastmodified":1505185641,
+    "wof:name":"Paliseul",
+    "wof:parent_id":-1,
+    "wof:placetype":"localadmin",
+    "wof:population":5183,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.13333,
+    49.9,
+    5.13333,
+    49.9
+],
+  "geometry": {"coordinates":[5.13333,49.9],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1242808269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.06091,50.62318,6.06091,50.62318",
+    "geom:latitude":50.62318,
+    "geom:longitude":6.06091,
+    "gn:admin1_code":"WAL",
+    "gn:admin2_code":"WLG",
+    "gn:admin3_code":"63.0",
+    "gn:admin4_code":"63023.0",
+    "gn:asciiname":"Langes",
+    "gn:country_code":"BE",
+    "gn:dem":357,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2793371,
+    "gn:latitude":50.62318,
+    "gn:longitude":6.06091,
+    "gn:modification_date":"2017-03-25",
+    "gn:name":"Langes",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Langestal",
+        "Langes"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681691,
+        102191581,
+        85632997,
+        404227353,
+        102049935
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2793371
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"c75ac9bf93ec90de5d1549b050cf7130",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049935,
+            "locality_id":1242808269,
+            "macroregion_id":404227353,
+            "region_id":85681691
+        }
+    ],
+    "wof:id":1242808269,
+    "wof:lastmodified":1537586988,
+    "wof:name":"Langes",
+    "wof:parent_id":102049935,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.06091,
+    50.62318,
+    6.06091,
+    50.62318
+],
+  "geometry": {"coordinates":[6.06091,50.62318],"type":"Point"}
+}

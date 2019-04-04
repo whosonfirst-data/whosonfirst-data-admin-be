@@ -1,0 +1,80 @@
+{
+  "id": 1125862277,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.49218,50.69503,4.49218,50.69503",
+    "geom:latitude":50.69503,
+    "geom:longitude":4.49218,
+    "gn:gn_country":"BE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":13861,
+    "gn:population":13861,
+    "iso:country":"BE",
+    "lbl:latitude":50.69503,
+    "lbl:longitude":4.49218,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"BE",
+    "qs_pg:gn_country":"BE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2802610,
+    "qs_pg:gn_pop":13861,
+    "qs_pg:name":"Basse Lasne",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":6,
+    "qs_pg:qs_id":92757,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681693,
+        102191581,
+        85632997,
+        404227353,
+        102049945
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2802610,
+        "qs_pg:id":92757
+    },
+    "wof:country":"BE",
+    "wof:created":1497293878,
+    "wof:geomhash":"c616a5580f56ffc8f288f238bfb5216e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049945,
+            "locality_id":1125862277,
+            "macroregion_id":404227353,
+            "region_id":85681693
+        }
+    ],
+    "wof:id":1125862277,
+    "wof:lastmodified":1509396706,
+    "wof:name":"Basse Lasne",
+    "wof:parent_id":102049945,
+    "wof:placetype":"locality",
+    "wof:population":13861,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.49218,
+    50.69503,
+    4.49218,
+    50.69503
+],
+  "geometry": {"coordinates":[4.49218,50.69503],"type":"Point"}
+}

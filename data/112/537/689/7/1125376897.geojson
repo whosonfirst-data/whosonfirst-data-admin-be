@@ -1,0 +1,90 @@
+{
+  "id": 1125376897,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2017-05-19",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.67751,50.97932,2.67751,50.97932",
+    "geom:latitude":50.97932,
+    "geom:longitude":2.67751,
+    "gn:gn_country":"BE",
+    "gn:gn_fcode":"ADM4",
+    "gn:gn_pop":4945,
+    "gn:population":4945,
+    "iso:country":"BE",
+    "lbl:latitude":50.97932,
+    "lbl:longitude":2.67751,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bul_x_preferred":[
+        "\u0410\u043b\u0432\u0435\u0440\u0438\u043d\u0433\u0435\u043c"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0644\u0648\u0648\u0631\u0646\u0698\u0645"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0410\u043b\u044c\u0432\u0435\u0440\u0456\u043d\u0491\u0435\u043c"
+    ],
+    "name:unk_x_variant":[
+        "Alveringhem"
+    ],
+    "name:vls_x_preferred":[
+        "Oalveringem"
+    ],
+    "name:zho_x_preferred":[
+        "\u963f\u5c14\u5f17\u7075\u5384\u59c6"
+    ],
+    "qs_pg:aaroncc":"BE",
+    "qs_pg:gn_country":"BE",
+    "qs_pg:gn_fcode":"ADM4",
+    "qs_pg:gn_id":2803253,
+    "qs_pg:gn_pop":4945,
+    "qs_pg:name":"Alveringem",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":373659,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85632997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2803253,
+        "qs_pg:id":373659
+    },
+    "wof:country":"BE",
+    "wof:created":1497047802,
+    "wof:geomhash":"130d12822702d630c6f6ef2ab6d427bc",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "localadmin_id":1125376897
+        }
+    ],
+    "wof:id":1125376897,
+    "wof:lastmodified":1505185647,
+    "wof:name":"Alveringem",
+    "wof:parent_id":-1,
+    "wof:placetype":"localadmin",
+    "wof:population":4945,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.67751,
+    50.97932,
+    2.67751,
+    50.97932
+],
+  "geometry": {"coordinates":[2.67751,50.97932],"type":"Point"}
+}

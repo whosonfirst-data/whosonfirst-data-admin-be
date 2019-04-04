@@ -1,0 +1,68 @@
+{
+  "id": 1209552067,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.54562,50.80812,3.54562,50.80812",
+    "geom:latitude":50.80812,
+    "geom:longitude":3.54562,
+    "gn:admin1_code":"VLG",
+    "gn:admin2_code":"VOV",
+    "gn:admin3_code":"45.0",
+    "gn:admin4_code":"45035.0",
+    "gn:asciiname":"Meerse",
+    "gn:country_code":"BE",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2791483,
+    "gn:latitude":50.80812,
+    "gn:longitude":3.54562,
+    "gn:modification_date":"2016-08-02",
+    "gn:name":"Meerse",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Meersche",
+        "Meerse"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2791483
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"5b6b068e7b2dbc87575eb9cd3c61ad6a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "locality_id":1209552067
+        }
+    ],
+    "wof:id":1209552067,
+    "wof:lastmodified":1537586969,
+    "wof:name":"Meerse",
+    "wof:parent_id":85632997,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.54562,
+    50.80812,
+    3.54562,
+    50.80812
+],
+  "geometry": {"coordinates":[3.54562,50.80812],"type":"Point"}
+}

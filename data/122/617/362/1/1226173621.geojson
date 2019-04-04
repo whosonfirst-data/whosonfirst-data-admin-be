@@ -1,0 +1,74 @@
+{
+  "id": 1226173621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.68779,50.94311,2.68779,50.94311",
+    "geom:latitude":50.94311,
+    "geom:longitude":2.68779,
+    "gn:admin1_code":"VLG",
+    "gn:admin2_code":"VWV",
+    "gn:admin3_code":"38.0",
+    "gn:admin4_code":"38002.0",
+    "gn:asciiname":"Oosthoek",
+    "gn:country_code":"BE",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2789763,
+    "gn:latitude":50.94311,
+    "gn:longitude":2.68779,
+    "gn:modification_date":"2016-08-02",
+    "gn:name":"Oosthoek",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681709,
+        102191581,
+        1108830587,
+        85632997,
+        404227357,
+        102049991
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2789763
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"3cfd165ee026bd6015dd5b0cae1c0c72",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049991,
+            "localadmin_id":1108830587,
+            "locality_id":1226173621,
+            "macroregion_id":404227357,
+            "region_id":85681709
+        }
+    ],
+    "wof:id":1226173621,
+    "wof:lastmodified":1537036012,
+    "wof:name":"Oosthoek",
+    "wof:parent_id":1108830587,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.68779,
+    50.94311,
+    2.68779,
+    50.94311
+],
+  "geometry": {"coordinates":[2.68779,50.94311],"type":"Point"}
+}

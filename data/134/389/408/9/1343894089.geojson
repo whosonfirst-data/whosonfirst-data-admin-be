@@ -1,0 +1,76 @@
+{
+  "id": 1343894089,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.24979,50.62433,4.24979,50.62433",
+    "geom:latitude":50.62433,
+    "geom:longitude":4.24979,
+    "gn:admin1_code":"WAL",
+    "gn:admin2_code":"WBR",
+    "gn:admin3_code":"25.0",
+    "gn:admin4_code":"25044.0",
+    "gn:asciiname":"Basse Fauquez",
+    "gn:country_code":"BE",
+    "gn:dem":105,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2802619,
+    "gn:latitude":50.62433,
+    "gn:longitude":4.24979,
+    "gn:modification_date":"2017-03-25",
+    "gn:name":"Basse Fauquez",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "La Basse-Fauquez",
+        "Basse Fauquez"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681693,
+        102191581,
+        85632997,
+        404227353,
+        102049945
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2802619
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"1e88375b24120f67405a59142c57d16e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049945,
+            "locality_id":1343894089,
+            "macroregion_id":404227353,
+            "region_id":85681693
+        }
+    ],
+    "wof:id":1343894089,
+    "wof:lastmodified":1537587081,
+    "wof:name":"Basse Fauquez",
+    "wof:parent_id":102049945,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.24979,
+    50.62433,
+    4.24979,
+    50.62433
+],
+  "geometry": {"coordinates":[4.24979,50.62433],"type":"Point"}
+}

@@ -1,0 +1,107 @@
+{
+  "id": 1125779117,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.53385,50.85597,5.53385,50.85597",
+    "geom:latitude":50.85597,
+    "geom:longitude":5.53385,
+    "gn:gn_country":"BE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"BE",
+    "lbl:latitude":50.85597,
+    "lbl:longitude":5.53385,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Martenslinde"
+    ],
+    "name:eng_x_preferred":[
+        "Martenslinde"
+    ],
+    "name:fre_x_preferred":[
+        "Martenslinde"
+    ],
+    "name:hun_x_preferred":[
+        "Martenslinde"
+    ],
+    "name:lim_x_preferred":[
+        "Lin"
+    ],
+    "name:unk_x_variant":[
+        "Bilzen (Martenslinde)"
+    ],
+    "qs_pg:aaroncc":"BE",
+    "qs_pg:gn_country":"BE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2791640,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Martenslinde",
+    "qs_pg:name_adm0":"Belgique",
+    "qs_pg:name_adm1":"Limburg",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":192179,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424757,
+    "qs_pg:woe_id":974017,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424757,
+    "woe:name_adm0":"Belgique",
+    "woe:name_adm1":"Limburg",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85681705,
+        102191581,
+        1108830245,
+        85632997,
+        404227357,
+        1108782563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2791640,
+        "gp:id":974017,
+        "qs_pg:id":192179,
+        "wd:id":"Q2603011"
+    },
+    "wof:country":"BE",
+    "wof:created":1497290391,
+    "wof:geomhash":"e25f0687ab575ae6c90f4b3fe32a2f18",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":1108782563,
+            "localadmin_id":1108830245,
+            "locality_id":1125779117,
+            "macroregion_id":404227357,
+            "region_id":85681705
+        }
+    ],
+    "wof:id":1125779117,
+    "wof:lastmodified":1513899392,
+    "wof:name":"Martenslinde",
+    "wof:parent_id":1108830245,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.53385,
+    50.85597,
+    5.53385,
+    50.85597
+],
+  "geometry": {"coordinates":[5.53385,50.85597],"type":"Point"}
+}

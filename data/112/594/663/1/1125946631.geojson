@@ -1,0 +1,106 @@
+{
+  "id": 1125946631,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.13884,50.8479,4.13884,50.8479",
+    "geom:latitude":50.8479,
+    "geom:longitude":4.13884,
+    "gn:gn_country":"BE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"BE",
+    "lbl:latitude":50.8479,
+    "lbl:longitude":4.13884,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Borchtlombeek"
+    ],
+    "name:eng_x_preferred":[
+        "Borchtlombeek"
+    ],
+    "name:fre_x_preferred":[
+        "Borchtlombeek"
+    ],
+    "name:hun_x_preferred":[
+        "Borchtlombeek"
+    ],
+    "name:unk_x_variant":[
+        "Roosdaal (Borchtlombeek)"
+    ],
+    "qs_pg:aaroncc":"BE",
+    "qs_pg:gn_country":"BE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2801478,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Borchtlombeek",
+    "qs_pg:name_adm0":"Belgique",
+    "qs_pg:name_adm1":"Vlaams Brabant",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":1,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":348516,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424757,
+    "qs_pg:woe_id":967613,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424757,
+    "woe:name_adm0":"Belgique",
+    "woe:name_adm1":"Vlaams Brabant",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85681731,
+        102191581,
+        1108830261,
+        85632997,
+        404227357,
+        102049973
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2801478,
+        "gp:id":967613,
+        "qs_pg:id":348516,
+        "wd:id":"Q2741443"
+    },
+    "wof:country":"BE",
+    "wof:created":1497297308,
+    "wof:geomhash":"079e97d933739c5b2c900ebf7de97933",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049973,
+            "localadmin_id":1108830261,
+            "locality_id":1125946631,
+            "macroregion_id":404227357,
+            "region_id":85681731
+        }
+    ],
+    "wof:id":1125946631,
+    "wof:lastmodified":1513899185,
+    "wof:name":"Borchtlombeek",
+    "wof:parent_id":1108830261,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.13884,
+    50.8479,
+    4.13884,
+    50.8479
+],
+  "geometry": {"coordinates":[4.13884,50.8479],"type":"Point"}
+}

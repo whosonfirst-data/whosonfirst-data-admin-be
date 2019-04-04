@@ -1,0 +1,112 @@
+{
+  "id": 85802003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":8477400.108367,
+    "geom:bbox":"5.708563,50.689974,5.708563,50.689974",
+    "geom:latitude":50.689974,
+    "geom:longitude":5.708563,
+    "gn:id":"",
+    "iso:country":"BE",
+    "lbl:latitude":50.689974,
+    "lbl:longitude":5.708563,
+    "mps:latitude":50.684799,
+    "mps:longitude":5.702267,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":14.0,
+    "mz:tier_locality":1,
+    "name:fra_x_preferred":[
+        "Wihou"
+    ],
+    "name:unk_x_variant":[
+        "Wihou"
+    ],
+    "qs:gn_adm0_cc":"BE",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_local":2799897,
+    "qs:gn_nam_loc":"Dalhem, Dalhem, Li\u00e8ge, Li\u00e8ge, BE",
+    "qs:gn_namadm1":"WAL",
+    "qs:gn_name":"Wixhou",
+    "qs:local_max":119,
+    "qs:local_sum":195,
+    "qs:localhoods":3,
+    "qs:name":"Wihou",
+    "qs:name_adm0":"Belgique",
+    "qs:name_adm1":"Li\u00e8ge",
+    "qs:name_adm2":"Li\u00e8ge",
+    "qs:name_lau":"Dalhem",
+    "qs:name_local":"Dalhem",
+    "qs:photo_max":96,
+    "qs:photo_sum":119,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":7,
+    "qs:woe_adm0":23424757,
+    "qs:woe_adm1":7153300,
+    "qs:woe_adm2":12591793,
+    "qs:woe_lau":12602348,
+    "qs:woe_local":968617,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        102191581,
+        85632997,
+        404227353,
+        102049941,
+        85681691
+    ],
+    "wof:breaches":[
+        85802011
+    ],
+    "wof:concordances":{
+        "gp:id":978885,
+        "qs:id":1104348,
+        "qs_pg:id":1104348
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"6890967b667b34600c099c00373e6e99",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049941,
+            "locality_id":-1,
+            "macroregion_id":404227353,
+            "neighbourhood_id":85802003,
+            "region_id":85681691
+        }
+    ],
+    "wof:id":85802003,
+    "wof:lang":[
+        "fre"
+    ],
+    "wof:lastmodified":1531862115,
+    "wof:name":"Wihou",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.708563,
+    50.689974,
+    5.708563,
+    50.689974
+],
+  "geometry": {"coordinates":[5.708563,50.689974],"type":"Point"}
+}

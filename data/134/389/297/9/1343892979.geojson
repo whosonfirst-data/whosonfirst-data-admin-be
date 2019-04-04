@@ -1,0 +1,78 @@
+{
+  "id": 1343892979,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.05929,51.27529,5.05929,51.27529",
+    "geom:latitude":51.27529,
+    "geom:longitude":5.05929,
+    "gn:admin1_code":"VLG",
+    "gn:admin2_code":"VAN",
+    "gn:admin3_code":"13.0",
+    "gn:admin4_code":"13036.0",
+    "gn:asciiname":"Loeiend",
+    "gn:country_code":"BE",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2792222,
+    "gn:latitude":51.27529,
+    "gn:longitude":5.05929,
+    "gn:modification_date":"2016-08-02",
+    "gn:name":"Loeiend",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Loyend",
+        "Loeiend"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681715,
+        102191581,
+        1108830225,
+        85632997,
+        404227357,
+        102050007
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2792222
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"0fa26a70421f98aee4f8bd52f88b92c2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102050007,
+            "localadmin_id":1108830225,
+            "locality_id":1343892979,
+            "macroregion_id":404227357,
+            "region_id":85681715
+        }
+    ],
+    "wof:id":1343892979,
+    "wof:lastmodified":1537586976,
+    "wof:name":"Loeiend",
+    "wof:parent_id":1108830225,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.05929,
+    51.27529000000001,
+    5.05929,
+    51.27529000000001
+],
+  "geometry": {"coordinates":[5.05929,51.27529000000001],"type":"Point"}
+}

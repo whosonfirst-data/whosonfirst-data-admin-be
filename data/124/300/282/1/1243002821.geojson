@@ -1,0 +1,72 @@
+{
+  "id": 1243002821,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.83903,50.5323,5.83903,50.5323",
+    "geom:latitude":50.5323,
+    "geom:longitude":5.83903,
+    "gn:admin1_code":"WAL",
+    "gn:admin2_code":"WLG",
+    "gn:admin3_code":"63.0",
+    "gn:admin4_code":"63076.0",
+    "gn:asciiname":"Sassor",
+    "gn:country_code":"BE",
+    "gn:dem":250,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2787199,
+    "gn:latitude":50.5323,
+    "gn:longitude":5.83903,
+    "gn:modification_date":"2017-03-25",
+    "gn:name":"Sassor",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681691,
+        102191581,
+        85632997,
+        404227353,
+        102049935
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2787199
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"f4358c44bf29ae7a82e125b4f42e59f9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049935,
+            "locality_id":1243002821,
+            "macroregion_id":404227353,
+            "region_id":85681691
+        }
+    ],
+    "wof:id":1243002821,
+    "wof:lastmodified":1536948532,
+    "wof:name":"Sassor",
+    "wof:parent_id":102049935,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.83903,
+    50.5323,
+    5.83903,
+    50.5323
+],
+  "geometry": {"coordinates":[5.83903,50.5323],"type":"Point"}
+}

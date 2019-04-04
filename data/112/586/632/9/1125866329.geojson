@@ -1,0 +1,108 @@
+{
+  "id": 1125866329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.10477,50.41016,4.10477,50.41016",
+    "geom:latitude":50.41016,
+    "geom:longitude":4.10477,
+    "gn:gn_country":"BE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":7573,
+    "gn:population":7573,
+    "iso:country":"BE",
+    "lbl:latitude":50.41016,
+    "lbl:longitude":4.10477,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Estinnes-au-Val"
+    ],
+    "name:eng_x_preferred":[
+        "Estinnes-au-Val"
+    ],
+    "name:fre_x_preferred":[
+        "Estinnes-au-Val"
+    ],
+    "name:hun_x_preferred":[
+        "Estinnes-au-Val"
+    ],
+    "name:swe_x_preferred":[
+        "Estinnes-au-Val"
+    ],
+    "qs_pg:aaroncc":"BE",
+    "qs_pg:gn_country":"BE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2798597,
+    "qs_pg:gn_pop":7573,
+    "qs_pg:name":"Estinnes-au-Val",
+    "qs_pg:name_adm0":"Belgique",
+    "qs_pg:name_adm1":"Hainaut",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":2,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":5,
+    "qs_pg:qs_id":256271,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424757,
+    "qs_pg:woe_id":969463,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424757,
+    "woe:name_adm0":"Belgique",
+    "woe:name_adm1":"Hainaut",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85681723,
+        102191581,
+        85632997,
+        404227353,
+        102049923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2798597,
+        "gp:id":969463,
+        "qs_pg:id":256271,
+        "wd:id":"Q2151873"
+    },
+    "wof:country":"BE",
+    "wof:created":1497294057,
+    "wof:geomhash":"39a7e6f0819fd2695c054c20b7550566",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049923,
+            "locality_id":1125866329,
+            "macroregion_id":404227353,
+            "region_id":85681723
+        }
+    ],
+    "wof:id":1125866329,
+    "wof:lastmodified":1513899254,
+    "wof:name":"Estinnes-au-Val",
+    "wof:parent_id":102049923,
+    "wof:placetype":"locality",
+    "wof:population":7573,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.10477,
+    50.41016,
+    4.10477,
+    50.41016
+],
+  "geometry": {"coordinates":[4.10477,50.41016],"type":"Point"}
+}

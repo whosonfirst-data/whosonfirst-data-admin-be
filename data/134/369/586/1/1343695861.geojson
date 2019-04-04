@@ -1,0 +1,78 @@
+{
+  "id": 1343695861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.76605,50.79424,3.76605,50.79424",
+    "geom:latitude":50.79424,
+    "geom:longitude":3.76605,
+    "gn:admin1_code":"VLG",
+    "gn:admin2_code":"VOV",
+    "gn:admin3_code":"45.0",
+    "gn:admin4_code":"45059.0",
+    "gn:asciiname":"Driestenbroek",
+    "gn:country_code":"BE",
+    "gn:dem":53,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2799128,
+    "gn:latitude":50.79424,
+    "gn:longitude":3.76605,
+    "gn:modification_date":"2016-08-02",
+    "gn:name":"Driestenbroek",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dries Ten Broeke",
+        "Driestenbroek"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681733,
+        102191581,
+        1108830545,
+        85632997,
+        404227357,
+        102049963
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2799128
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"53c19e24fbdc9cde060500c7ba320ef9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049963,
+            "localadmin_id":1108830545,
+            "locality_id":1343695861,
+            "macroregion_id":404227357,
+            "region_id":85681733
+        }
+    ],
+    "wof:id":1343695861,
+    "wof:lastmodified":1537587047,
+    "wof:name":"Driestenbroek",
+    "wof:parent_id":1108830545,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.76605,
+    50.79424,
+    3.76605,
+    50.79424
+],
+  "geometry": {"coordinates":[3.76605,50.79424],"type":"Point"}
+}

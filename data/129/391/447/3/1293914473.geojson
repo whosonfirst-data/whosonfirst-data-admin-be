@@ -1,0 +1,72 @@
+{
+  "id": 1293914473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.21041,49.87269,5.21041,49.87269",
+    "geom:latitude":49.87269,
+    "geom:longitude":5.21041,
+    "gn:admin1_code":"WAL",
+    "gn:admin2_code":"WLX",
+    "gn:admin3_code":"84.0",
+    "gn:admin4_code":"84009.0",
+    "gn:asciiname":"Glaumont",
+    "gn:country_code":"BE",
+    "gn:dem":414,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2797492,
+    "gn:latitude":49.87269,
+    "gn:longitude":5.21041,
+    "gn:modification_date":"2017-03-25",
+    "gn:name":"Glaumont",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681727,
+        102191581,
+        85632997,
+        404227353,
+        102049913
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2797492
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"9e762f43aa7302c75825b55d39c5cec6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049913,
+            "locality_id":1293914473,
+            "macroregion_id":404227353,
+            "region_id":85681727
+        }
+    ],
+    "wof:id":1293914473,
+    "wof:lastmodified":1536668754,
+    "wof:name":"Glaumont",
+    "wof:parent_id":102049913,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.21041,
+    49.87269000000001,
+    5.21041,
+    49.87269000000001
+],
+  "geometry": {"coordinates":[5.21041,49.87269000000001],"type":"Point"}
+}

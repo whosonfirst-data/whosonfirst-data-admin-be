@@ -1,0 +1,64 @@
+{
+  "id": 1209649435,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.61059,49.5866,5.61059,49.5866",
+    "geom:latitude":49.5866,
+    "geom:longitude":5.61059,
+    "gn:admin1_code":"WAL",
+    "gn:admin2_code":"WLX",
+    "gn:admin3_code":"85.0",
+    "gn:admin4_code":"85045.0",
+    "gn:asciiname":"Hamawe",
+    "gn:country_code":"BE",
+    "gn:dem":226,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11238166,
+    "gn:latitude":49.5866,
+    "gn:longitude":5.61059,
+    "gn:modification_date":"2017-03-25",
+    "gn:name":"Hamaw\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11238166
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"bb420e3031c5983b2c40320f92fec60f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "locality_id":1209649435
+        }
+    ],
+    "wof:id":1209649435,
+    "wof:lastmodified":1536280627,
+    "wof:name":"Hamawe",
+    "wof:parent_id":85632997,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.61059,
+    49.5866,
+    5.61059,
+    49.5866
+],
+  "geometry": {"coordinates":[5.61059,49.5866],"type":"Point"}
+}

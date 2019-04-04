@@ -1,0 +1,104 @@
+{
+  "id": 1126053375,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.07129,50.8453,4.07129,50.8453",
+    "geom:latitude":50.8453,
+    "geom:longitude":4.07129,
+    "gn:gn_country":"BE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"BE",
+    "lbl:latitude":50.8453,
+    "lbl:longitude":4.07129,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Pamel"
+    ],
+    "name:eng_x_preferred":[
+        "Pamel"
+    ],
+    "name:fre_x_preferred":[
+        "Pamel"
+    ],
+    "name:hun_x_preferred":[
+        "Pamel"
+    ],
+    "name:unk_x_variant":[
+        "Roosdaal (Pamel)"
+    ],
+    "qs_pg:aaroncc":"BE",
+    "qs_pg:gn_country":"BE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2789346,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Pamel",
+    "qs_pg:name_adm0":"Belgique",
+    "qs_pg:name_adm1":"Vlaams Brabant",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1060838,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424757,
+    "qs_pg:woe_id":975407,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424757,
+    "woe:name_adm0":"Belgique",
+    "woe:name_adm1":"Vlaams Brabant",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85681731,
+        102191581,
+        1108830261,
+        85632997,
+        404227357,
+        102049973
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2789346,
+        "gp:id":975407,
+        "qs_pg:id":1060838,
+        "wd:id":"Q2653136"
+    },
+    "wof:country":"BE",
+    "wof:created":1497302925,
+    "wof:geomhash":"55f5929e186318af0701d2d7b8e25242",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049973,
+            "localadmin_id":1108830261,
+            "locality_id":1126053375,
+            "macroregion_id":404227357,
+            "region_id":85681731
+        }
+    ],
+    "wof:id":1126053375,
+    "wof:lastmodified":1513899457,
+    "wof:name":"Pamel",
+    "wof:parent_id":1108830261,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.07129,
+    50.8453,
+    4.07129,
+    50.8453
+],
+  "geometry": {"coordinates":[4.07129,50.8453],"type":"Point"}
+}

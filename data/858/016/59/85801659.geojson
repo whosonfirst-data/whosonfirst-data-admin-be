@@ -1,0 +1,136 @@
+{
+  "id": 85801659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000357,
+    "geom:area_square_m":2781047.285075,
+    "geom:bbox":"4.37202859317,50.8985711556,4.39562348486,50.9251258403",
+    "geom:latitude":50.909563,
+    "geom:longitude":4.384591,
+    "iso:country":"BE",
+    "lbl:latitude":50.900219,
+    "lbl:longitude":4.391232,
+    "mps:latitude":50.908427,
+    "mps:longitude":4.385395,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":13.0,
+    "mz:tier_locality":5,
+    "mz:tier_metro":30,
+    "name:bre_x_preferred":[
+        "Neder-Over-Heembeek"
+    ],
+    "name:dut_x_preferred":[
+        "Neder-over-Heembeek"
+    ],
+    "name:est_x_preferred":[
+        "Neder-Over-Heembeek"
+    ],
+    "name:fra_x_preferred":[
+        "Neder-Over-Heembeek"
+    ],
+    "name:fra_x_variant":[
+        "Bruxelles (Neder-Over-Heembeek)",
+        "Neder-over-Heembeek"
+    ],
+    "name:nld_x_preferred":[
+        "Neder-Over-Heembeek"
+    ],
+    "name:nld_x_variant":[
+        "Brussel (Neder-Over-Heembeek)"
+    ],
+    "name:por_x_preferred":[
+        "Neder-Over-Heembeek"
+    ],
+    "name:unk_x_variant":[
+        "Neder-over-Heembeek"
+    ],
+    "qs:gn_fcode":"PPL",
+    "qs:gn_local":0,
+    "qs:gn_namadm1":"BRU",
+    "qs:gn_name":"Neder-Over-Heembeek",
+    "qs:local_max":62861,
+    "qs:local_sum":208570,
+    "qs:localhoods":75,
+    "qs:name":"Neder-over-Heembeek",
+    "qs:name_adm0":"Belgique",
+    "qs:name_adm1":"R\u00e9gion de Bruxelles-Capitale",
+    "qs:name_adm2":"Brussel Hoofdstad",
+    "qs:name_lau":"Brussel",
+    "qs:name_local":"Bruxelles",
+    "qs:photo_max":20,
+    "qs:photo_sum":38,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":10,
+    "qs:woe_adm0":23424757,
+    "qs:woe_adm1":55965974,
+    "qs:woe_adm2":12591762,
+    "qs:woe_lau":12602737,
+    "qs:woe_local":968019,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mz",
+    "wd:latitude":50.8936,
+    "wd:longitude":4.3853,
+    "wd:wordcount":959,
+    "wof:belongsto":[
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2790407,
+        "gp:id":974739,
+        "qs:id":1075302,
+        "qs_pg:id":1075302,
+        "wd:id":"Q2645721",
+        "wk:page":"Neder-Over-Heembeek"
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"838a92e9aee86c64c2d6adeca5e3a863",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801659,
+            "region_id":85681713
+        }
+    ],
+    "wof:id":85801659,
+    "wof:lang":[
+        "dut"
+    ],
+    "wof:lastmodified":1536864472,
+    "wof:name":"Neder-Over-Heembeek",
+    "wof:parent_id":101751573,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.37202859316744,
+    50.89857115560814,
+    4.39562348485731,
+    50.9251258402539
+],
+  "geometry": {"coordinates":[[[4.39453125,50.90303276667522],[4.39234653646645,50.89956845775016],[4.39234621136217,50.89956820000016],[4.39122296201538,50.89956820000016],[4.39062694301839,50.89909569788914],[4.38831115328622,50.89857115560814],[4.38642412596266,50.89956852220003],[4.38354492187011,50.89956852220003],[4.38354492187011,50.90109029241371],[4.38262616525486,50.90157589065736],[4.37967181587248,50.89956820000016],[4.37805175780994,50.89956820000016],[4.37557070989038,50.90087950494576],[4.37202859316744,50.9064960445502],[4.37255859375006,50.90705641062836],[4.37805175780994,50.90996035347526],[4.37805175780994,50.9134242113001],[4.37805175780994,50.91688742477511],[4.37805175780994,50.91688748920002],[4.37805179842653,50.91688748920011],[4.38023500866222,50.92035044497523],[4.38098610758715,50.92094615469999],[4.38155865195,50.92276260217126],[4.38602767612508,50.9251258402539],[4.38903804532461,50.92035050940022],[4.38903808594011,50.92035050939997],[4.38903808593869,50.92035044497523],[4.38903808593869,50.91688748920002],[4.38903808593815,50.91688742477511],[4.39101110243456,50.91375787327077],[4.39098104518757,50.91342414687536],[4.39105332482842,50.91315665920929],[4.39453125,50.91079269668491],[4.39453125,50.90996067570008],[4.39453125,50.90649688229998],[4.39453125,50.90649681785028],[4.39562348485731,50.90476472782537],[4.39453129062866,50.90303283110005],[4.39453125,50.90303276667522]]],"type":"Polygon"}
+}

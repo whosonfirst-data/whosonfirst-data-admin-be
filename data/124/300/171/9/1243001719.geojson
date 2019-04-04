@@ -1,0 +1,74 @@
+{
+  "id": 1243001719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.80243,51.13255,4.80243,51.13255",
+    "geom:latitude":51.13255,
+    "geom:longitude":4.80243,
+    "gn:admin1_code":"VLG",
+    "gn:admin2_code":"VAN",
+    "gn:admin3_code":"13.0",
+    "gn:admin4_code":"13011.0",
+    "gn:asciiname":"Roetershoek",
+    "gn:country_code":"BE",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2787880,
+    "gn:latitude":51.13255,
+    "gn:longitude":4.80243,
+    "gn:modification_date":"2016-08-02",
+    "gn:name":"Roetershoek",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681715,
+        102191581,
+        1108830061,
+        85632997,
+        404227357,
+        102050007
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2787880
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"375d149547269cbdb5c57ada2f8d9455",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102050007,
+            "localadmin_id":1108830061,
+            "locality_id":1243001719,
+            "macroregion_id":404227357,
+            "region_id":85681715
+        }
+    ],
+    "wof:id":1243001719,
+    "wof:lastmodified":1536950143,
+    "wof:name":"Roetershoek",
+    "wof:parent_id":1108830061,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.80243,
+    51.13255,
+    4.80243,
+    51.13255
+],
+  "geometry": {"coordinates":[4.80243,51.13255],"type":"Point"}
+}

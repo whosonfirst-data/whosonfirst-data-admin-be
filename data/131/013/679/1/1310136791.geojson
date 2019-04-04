@@ -1,0 +1,72 @@
+{
+  "id": 1310136791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.88278,50.34205,4.88278,50.34205",
+    "geom:latitude":50.34205,
+    "geom:longitude":4.88278,
+    "gn:admin1_code":"WAL",
+    "gn:admin2_code":"WNA",
+    "gn:admin3_code":"91.0",
+    "gn:admin4_code":"91141.0",
+    "gn:asciiname":"Scourseau",
+    "gn:country_code":"BE",
+    "gn:dem":255,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2786889,
+    "gn:latitude":50.34205,
+    "gn:longitude":4.88278,
+    "gn:modification_date":"2017-03-25",
+    "gn:name":"Scourseau",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681699,
+        102191581,
+        85632997,
+        404227353,
+        102049919
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2786889
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"0d8b3c7aa1cd121440249eff1c7b7d7a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049919,
+            "locality_id":1310136791,
+            "macroregion_id":404227353,
+            "region_id":85681699
+        }
+    ],
+    "wof:id":1310136791,
+    "wof:lastmodified":1536951651,
+    "wof:name":"Scourseau",
+    "wof:parent_id":102049919,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.88278,
+    50.34205,
+    4.88278,
+    50.34205
+],
+  "geometry": {"coordinates":[4.88278,50.34205],"type":"Point"}
+}

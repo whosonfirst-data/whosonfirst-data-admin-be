@@ -1,0 +1,114 @@
+{
+  "id": 101755291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000124,
+    "geom:area_square_m":966252.006007,
+    "geom:bbox":"3.15701064806,50.7773606379,3.17153210959,50.793895956",
+    "geom:latitude":50.784368,
+    "geom:longitude":3.164302,
+    "iso:country":"BE",
+    "lbl:latitude":50.783253,
+    "lbl:longitude":3.164189,
+    "mps:latitude":50.783253,
+    "mps:longitude":3.164189,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Rekkem"
+    ],
+    "name:eng_x_preferred":[
+        "Rekkem"
+    ],
+    "name:fra_x_preferred":[
+        "Rekkem"
+    ],
+    "name:fre_x_preferred":[
+        "Rekkem"
+    ],
+    "name:ger_x_preferred":[
+        "Rekkem"
+    ],
+    "name:hun_x_preferred":[
+        "Rekkem"
+    ],
+    "name:nld_x_preferred":[
+        "Rekkem"
+    ],
+    "name:por_x_preferred":[
+        "Rekkem"
+    ],
+    "name:unk_x_variant":[
+        "Reckem"
+    ],
+    "name:vls_x_preferred":[
+        "Rekkem"
+    ],
+    "qs:a0":"Belgi\u00eb#Belgique#Belgien",
+    "qs:a1":"*West-Vlanderen",
+    "qs:a1r":"0Vlaams Gewest",
+    "qs:a2":"Kortrijk",
+    "qs:adm0":"Belgi\u00eb#Belgique#Belgien",
+    "qs:la":"Waregem",
+    "qs:la_lc":"*BE234040",
+    "qs:level":"locality",
+    "qs:loc":"Rekkem",
+    "qs:loc_alt":"Rekkem",
+    "qs:pop":0,
+    "qs:source":"LCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"suburbs point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":316,
+    "wof:belongsto":[
+        85681709,
+        102191581,
+        1108830067,
+        85632997,
+        404227357,
+        102049961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2788227,
+        "gp:id":976136,
+        "qs:id":1120104,
+        "qs_pg:id":1120104,
+        "wd:id":"Q2566545"
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"0ad459df928026a774d61d7209f7ef13",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049961,
+            "localadmin_id":1108830067,
+            "locality_id":101755291,
+            "macroregion_id":404227357,
+            "region_id":85681709
+        }
+    ],
+    "wof:id":101755291,
+    "wof:lastmodified":1527641704,
+    "wof:name":"Rekkem",
+    "wof:parent_id":1108830067,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.15701064805779,
+    50.77736063791809,
+    3.17153210959361,
+    50.79389595603936
+],
+  "geometry": {"coordinates":[[[3.16892348246955,50.78967189971655],[3.16893766751519,50.78957529440964],[3.16752472194736,50.78949147624587],[3.16805010602354,50.78591372647514],[3.16946294455448,50.78599753725621],[3.16985683668122,50.78331421512621],[3.17126959960336,50.78339800309476],[3.17153210959361,50.78160911595359],[3.16870669541225,50.78144153011999],[3.16912088763485,50.77861975186448],[3.16776888090197,50.77812309633003],[3.1676879541584,50.77867439413495],[3.16203752125676,50.77833896821642],[3.16216893535056,50.77744453573564],[3.16075636551295,50.77736063791809],[3.16036202422424,50.78004392859822],[3.15894937881097,50.77996000796475],[3.15868639983017,50.78174886268761],[3.15727370558238,50.78166492108369],[3.15701064805779,50.78345377048157],[3.15842339580627,50.78353771578185],[3.15829188440222,50.78443214171853],[3.15970466356521,50.78451607159087],[3.15931017204309,50.78719935250354],[3.15789731261503,50.78711541708685],[3.15776577616009,50.78800984139588],[3.16341734887584,50.78834548678861],[3.16289156859023,50.79192320952535],[3.16571759700969,50.79209094332782],[3.16545477636851,50.79387980964691],[3.16572689930638,50.79389595603936],[3.16892348246955,50.78967189971655]]],"type":"Polygon"}
+}

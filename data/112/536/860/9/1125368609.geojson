@@ -1,0 +1,87 @@
+{
+  "id": 1125368609,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2017-05-19",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.34003,50.92961,3.34003,50.92961",
+    "geom:latitude":50.92961,
+    "geom:longitude":3.34003,
+    "gn:gn_country":"BE",
+    "gn:gn_fcode":"ADM4",
+    "gn:gn_pop":7550,
+    "gn:population":7550,
+    "iso:country":"BE",
+    "lbl:latitude":50.92961,
+    "lbl:longitude":3.34003,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bul_x_preferred":[
+        "\u041e\u0441\u0442\u0440\u043e\u0437\u0435\u0431\u0435\u043a\u0435"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0648\u0632\u062a\u0631\u0648\u0632\u0648\u0628\u0648\u06a9"
+    ],
+    "name:unk_x_variant":[
+        "Oostroozebeke"
+    ],
+    "name:vls_x_preferred":[
+        "\u00d4ostr\u00f4zebeke"
+    ],
+    "name:zho_x_preferred":[
+        "\u5965\u65af\u7279\u7f57\u6cfd\u8d1d\u514b"
+    ],
+    "qs_pg:aaroncc":"BE",
+    "qs_pg:gn_country":"BE",
+    "qs_pg:gn_fcode":"ADM4",
+    "qs_pg:gn_id":2789738,
+    "qs_pg:gn_pop":7550,
+    "qs_pg:name":"Oostrozebeke",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":5,
+    "qs_pg:qs_id":92597,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85632997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2789738,
+        "qs_pg:id":92597
+    },
+    "wof:country":"BE",
+    "wof:created":1497047243,
+    "wof:geomhash":"57580ab5a37b0150934effaca5cffaf8",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "localadmin_id":1125368609
+        }
+    ],
+    "wof:id":1125368609,
+    "wof:lastmodified":1505185641,
+    "wof:name":"Oostrozebeke",
+    "wof:parent_id":-1,
+    "wof:placetype":"localadmin",
+    "wof:population":7550,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.34003,
+    50.92961,
+    3.34003,
+    50.92961
+],
+  "geometry": {"coordinates":[3.34003,50.92961],"type":"Point"}
+}

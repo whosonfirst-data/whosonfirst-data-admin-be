@@ -1,0 +1,105 @@
+{
+  "id": 85801295,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000442,
+    "geom:area_square_m":3458722.098555,
+    "geom:bbox":"4.32135986328,50.7599154915,4.34948711848,50.782577222",
+    "geom:latitude":50.771186,
+    "geom:longitude":4.334256,
+    "iso:country":"BE",
+    "lbl:latitude":50.773188,
+    "lbl:longitude":4.335598,
+    "mps:latitude":50.770384,
+    "mps:longitude":4.333988,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":14.0,
+    "mz:tier_locality":5,
+    "mz:tier_metro":30,
+    "name:dut_x_preferred":[
+        "Homborg"
+    ],
+    "name:unk_x_variant":[
+        "Homborg"
+    ],
+    "qs:gn_id":0,
+    "qs:gn_local":0,
+    "qs:id":0,
+    "qs:local_max":62861,
+    "qs:local_sum":208570,
+    "qs:localhoods":75,
+    "qs:name":"Homborg",
+    "qs:name_adm0":"Belgique",
+    "qs:name_adm1":"R\u00e9gion de Bruxelles-Capitale",
+    "qs:name_adm2":"Brussel Hoofdstad",
+    "qs:name_lau":"Ukkel",
+    "qs:name_local":"Bruxelles",
+    "qs:photo_max":78,
+    "qs:photo_sum":139,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":12,
+    "qs:woe_adm0":23424757,
+    "qs:woe_adm1":55965974,
+    "qs:woe_adm2":12591762,
+    "qs:woe_lau":12602248,
+    "qs:woe_local":968019,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mz",
+    "wof:belongsto":[
+        102191581,
+        1108830473,
+        85632997,
+        404227357,
+        101755541,
+        102049973,
+        85681731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":971374
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"df6a7f86e6f1201ba72c5ab27fa6b9ac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049973,
+            "localadmin_id":1108830473,
+            "locality_id":101755541,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85801295,
+            "region_id":85681731
+        }
+    ],
+    "wof:id":85801295,
+    "wof:lang":[
+        "dut"
+    ],
+    "wof:lastmodified":1527269922,
+    "wof:name":"Homborg",
+    "wof:parent_id":101755541,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.32135986328018,
+    50.75991549148183,
+    4.34948711847562,
+    50.78257722197613
+],
+  "geometry": {"coordinates":[[[4.34509277344006,50.78181178276704],[4.34509277344006,50.77815527469996],[4.34509277344006,50.77468168230003],[4.34509277344006,50.77294462810026],[4.34948711847562,50.76947026170025],[4.33959960937767,50.76165391429102],[4.33904982069919,50.76078466820046],[4.33904908630467,50.76078389415029],[4.33410644531273,50.76078389415029],[4.33135986328256,50.75991549148183],[4.32481112654727,50.76198604331263],[4.32141577023009,50.77003841048834],[4.32153094183337,50.77120776740027],[4.32135986328018,50.77294475710018],[4.32141026410937,50.77345648530708],[4.32257228644107,50.77468161780014],[4.32476864319239,50.77815521020035],[4.32545436293532,50.78032425614801],[4.32737855298404,50.78162854460017],[4.32861328125009,50.78162854460017],[4.32861328125009,50.78162860910005],[4.33410644531006,50.78162860910005],[4.3341064453121,50.78162854460017],[4.33520454211936,50.77989181290003],[4.33959960937767,50.77989181290003],[4.34299558430604,50.78257722197613],[4.34509277344006,50.78181178276704]]],"type":"Polygon"}
+}

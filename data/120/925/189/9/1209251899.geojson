@@ -1,0 +1,68 @@
+{
+  "id": 1209251899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.28857,50.53558,4.28857,50.53558",
+    "geom:latitude":50.53558,
+    "geom:longitude":4.28857,
+    "gn:admin1_code":"WAL",
+    "gn:admin2_code":"WHT",
+    "gn:admin3_code":"52.0",
+    "gn:admin4_code":"52063.0",
+    "gn:asciiname":"Profond Rieu",
+    "gn:country_code":"BE",
+    "gn:dem":140,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2788575,
+    "gn:latitude":50.53558,
+    "gn:longitude":4.28857,
+    "gn:modification_date":"2017-03-25",
+    "gn:name":"Profond Rieu",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Profondrieux",
+        "Profond Rieu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2788575
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"ef6cdc1be9de333b0cf59b8f6838d952",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "locality_id":1209251899
+        }
+    ],
+    "wof:id":1209251899,
+    "wof:lastmodified":1537586941,
+    "wof:name":"Profond Rieu",
+    "wof:parent_id":85632997,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.28857,
+    50.53558,
+    4.28857,
+    50.53558
+],
+  "geometry": {"coordinates":[4.28857,50.53558],"type":"Point"}
+}

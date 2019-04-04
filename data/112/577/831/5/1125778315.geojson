@@ -1,0 +1,91 @@
+{
+  "id": 1125778315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.95174,50.88593,4.95174,50.88593",
+    "geom:latitude":50.88593,
+    "geom:longitude":4.95174,
+    "gn:gn_country":"BE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"BE",
+    "lbl:latitude":50.88593,
+    "lbl:longitude":4.95174,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:unk_x_variant":[
+        "Cappellen"
+    ],
+    "qs_pg:aaroncc":"BE",
+    "qs_pg:gn_country":"BE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2794731,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Kapellen",
+    "qs_pg:name_adm0":"Belgique",
+    "qs_pg:name_adm1":"Vlaams Brabant",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":192086,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424757,
+    "qs_pg:woe_id":971868,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424757,
+    "woe:name_adm0":"Belgique",
+    "woe:name_adm1":"Vlaams Brabant",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85681731,
+        102191581,
+        1108830653,
+        85632997,
+        404227357,
+        102049969
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2794731,
+        "gp:id":971868,
+        "qs_pg:id":192086
+    },
+    "wof:country":"BE",
+    "wof:created":1497290362,
+    "wof:geomhash":"34746872e7ae56ddbaa6c6a18b3940dd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049969,
+            "localadmin_id":1108830653,
+            "locality_id":1125778315,
+            "macroregion_id":404227357,
+            "region_id":85681731
+        }
+    ],
+    "wof:id":1125778315,
+    "wof:lastmodified":1509391406,
+    "wof:name":"Kapellen",
+    "wof:parent_id":1108830653,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.95174,
+    50.88593,
+    4.95174,
+    50.88593
+],
+  "geometry": {"coordinates":[4.95174,50.88593],"type":"Point"}
+}

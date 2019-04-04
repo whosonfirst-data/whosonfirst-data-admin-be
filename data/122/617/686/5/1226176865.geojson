@@ -1,0 +1,72 @@
+{
+  "id": 1226176865,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.19862,50.44921,5.19862,50.44921",
+    "geom:latitude":50.44921,
+    "geom:longitude":5.19862,
+    "gn:admin1_code":"WAL",
+    "gn:admin2_code":"WNA",
+    "gn:admin3_code":"92.0",
+    "gn:admin4_code":"92097.0",
+    "gn:asciiname":"Filee",
+    "gn:country_code":"BE",
+    "gn:dem":262,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2798348,
+    "gn:latitude":50.44921,
+    "gn:longitude":5.19862,
+    "gn:modification_date":"2017-03-25",
+    "gn:name":"Fil\u00e9e",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681699,
+        102191581,
+        85632997,
+        404227353,
+        102049931
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2798348
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"d6da281df871f482b4f93c683a5e7cd3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049931,
+            "locality_id":1226176865,
+            "macroregion_id":404227353,
+            "region_id":85681699
+        }
+    ],
+    "wof:id":1226176865,
+    "wof:lastmodified":1537031472,
+    "wof:name":"Filee",
+    "wof:parent_id":102049931,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.19862,
+    50.44921,
+    5.19862,
+    50.44921
+],
+  "geometry": {"coordinates":[5.19862,50.44921],"type":"Point"}
+}

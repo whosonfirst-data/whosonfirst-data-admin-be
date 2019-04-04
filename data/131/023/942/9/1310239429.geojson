@@ -1,0 +1,75 @@
+{
+  "id": 1310239429,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.48105,50.18987,4.48105,50.18987",
+    "geom:latitude":50.18987,
+    "geom:longitude":4.48105,
+    "gn:admin1_code":"WAL",
+    "gn:admin2_code":"WNA",
+    "gn:admin3_code":"93.0",
+    "gn:admin4_code":"93010.0",
+    "gn:asciiname":"Villers-Deux-Eglises",
+    "gn:country_code":"BE",
+    "gn:dem":254,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2784654,
+    "gn:latitude":50.18987,
+    "gn:longitude":4.48105,
+    "gn:modification_date":"2012-02-02",
+    "gn:name":"Villers-Deux-\u00c9glises",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Villers-Deux-\u00c9glises"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681699,
+        102191581,
+        85632997,
+        404227353,
+        102049917
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2784654
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"2f90d9da39f9c8deb6677db813a156e8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049917,
+            "locality_id":1310239429,
+            "macroregion_id":404227353,
+            "region_id":85681699
+        }
+    ],
+    "wof:id":1310239429,
+    "wof:lastmodified":1537586891,
+    "wof:name":"Villers-Deux-Eglises",
+    "wof:parent_id":102049917,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.48105,
+    50.18987,
+    4.48105,
+    50.18987
+],
+  "geometry": {"coordinates":[4.48105,50.18987],"type":"Point"}
+}

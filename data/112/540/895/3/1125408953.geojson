@@ -1,0 +1,89 @@
+{
+  "id": 1125408953,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2017-05-19",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.48071,51.02758,4.48071,51.02758",
+    "geom:latitude":51.02758,
+    "geom:longitude":4.48071,
+    "gn:gn_country":"BE",
+    "gn:gn_fcode":"ADM4",
+    "gn:gn_pop":81793,
+    "gn:population":81793,
+    "iso:country":"BE",
+    "lbl:latitude":51.02758,
+    "lbl:longitude":4.48071,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:unk_x_variant":[
+        "Malines"
+    ],
+    "qs_pg:aaroncc":"BE",
+    "qs_pg:gn_country":"BE",
+    "qs_pg:gn_fcode":"ADM4",
+    "qs_pg:gn_id":2791538,
+    "qs_pg:gn_pop":81793,
+    "qs_pg:name":"Mechelen",
+    "qs_pg:name_adm0":"Belgique",
+    "qs_pg:name_adm1":"Antwerpen",
+    "qs_pg:photos":14,
+    "qs_pg:photos_1k":3,
+    "qs_pg:photos_9k":31,
+    "qs_pg:photos_9r":15,
+    "qs_pg:photos_all":7084,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":8,
+    "qs_pg:qs_id":49115,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
+    "qs_pg:woe_adm0":23424757,
+    "qs_pg:woe_id":12602563,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424757,
+    "woe:name_adm0":"Belgique",
+    "woe:name_adm1":"Antwerpen",
+    "woe:placetype":"LocalAdmin",
+    "wof:belongsto":[
+        85632997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2791538,
+        "gp:id":12602563,
+        "qs_pg:id":49115
+    },
+    "wof:country":"BE",
+    "wof:created":1497049839,
+    "wof:geomhash":"ff5f922924462f9b1f48a024444b05d7",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "localadmin_id":1125408953
+        }
+    ],
+    "wof:id":1125408953,
+    "wof:lastmodified":1505185642,
+    "wof:name":"Mechelen",
+    "wof:parent_id":-1,
+    "wof:placetype":"localadmin",
+    "wof:population":81793,
+    "wof:population_rank":8,
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.48071,
+    51.02758,
+    4.48071,
+    51.02758
+],
+  "geometry": {"coordinates":[4.48071,51.02758],"type":"Point"}
+}

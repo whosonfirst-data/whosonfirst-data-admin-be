@@ -1,0 +1,115 @@
+{
+  "id": 1125961247,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.95967,50.48585,4.95967,50.48585",
+    "geom:latitude":50.48585,
+    "geom:longitude":4.95967,
+    "gn:gn_country":"BE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"BE",
+    "lbl:latitude":50.48585,
+    "lbl:longitude":4.95967,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bre_x_preferred":[
+        "Marche-les-Dames"
+    ],
+    "name:dut_x_preferred":[
+        "Marche-les-Dames"
+    ],
+    "name:eng_x_preferred":[
+        "Marche-les-Dames"
+    ],
+    "name:fre_x_preferred":[
+        "Marche-les-Dames"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30de\u30eb\u30b7\u30e5\uff1d\u30ec\uff1d\u30c0\u30fc\u30e0"
+    ],
+    "name:ltz_x_preferred":[
+        "Marche-les-Dames"
+    ],
+    "name:rum_x_preferred":[
+        "Marche-les-Dames"
+    ],
+    "name:wln_x_preferred":[
+        "M\u00e5tche-les-Dames"
+    ],
+    "qs_pg:aaroncc":"BE",
+    "qs_pg:gn_country":"BE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2791741,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Marche-les-Dames",
+    "qs_pg:name_adm0":"Belgique",
+    "qs_pg:name_adm1":"Namur",
+    "qs_pg:photos":118,
+    "qs_pg:photos_1k":24,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":3,
+    "qs_pg:photos_all":118,
+    "qs_pg:photos_sr":3,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":186962,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424757,
+    "qs_pg:woe_id":973956,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424757,
+    "woe:name_adm0":"Belgique",
+    "woe:name_adm1":"Namur",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85681699,
+        102191581,
+        85632997,
+        404227353,
+        102049931
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2791741,
+        "gp:id":973956,
+        "qs_pg:id":186962,
+        "wd:id":"Q3143139"
+    },
+    "wof:country":"BE",
+    "wof:created":1497297806,
+    "wof:geomhash":"c084c1fdef9a39bf68213bc79137c91a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049931,
+            "locality_id":1125961247,
+            "macroregion_id":404227353,
+            "region_id":85681699
+        }
+    ],
+    "wof:id":1125961247,
+    "wof:lastmodified":1513899390,
+    "wof:name":"Marche-les-Dames",
+    "wof:parent_id":102049931,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.95967,
+    50.48585,
+    4.95967,
+    50.48585
+],
+  "geometry": {"coordinates":[4.95967,50.48585],"type":"Point"}
+}

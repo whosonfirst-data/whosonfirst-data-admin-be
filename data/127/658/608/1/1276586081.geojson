@@ -1,0 +1,72 @@
+{
+  "id": 1276586081,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.45426,50.4541,4.45426,50.4541",
+    "geom:latitude":50.4541,
+    "geom:longitude":4.45426,
+    "gn:admin1_code":"WAL",
+    "gn:admin2_code":"WHT",
+    "gn:admin3_code":"52.0",
+    "gn:admin4_code":"52011.0",
+    "gn:asciiname":"Diarbois",
+    "gn:country_code":"BE",
+    "gn:dem":178,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2799421,
+    "gn:latitude":50.4541,
+    "gn:longitude":4.45426,
+    "gn:modification_date":"2017-03-25",
+    "gn:name":"Diarbois",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681723,
+        102191581,
+        85632997,
+        404227353,
+        102049927
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2799421
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"5ec554781a9799ff3017a5605d970c1f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049927,
+            "locality_id":1276586081,
+            "macroregion_id":404227353,
+            "region_id":85681723
+        }
+    ],
+    "wof:id":1276586081,
+    "wof:lastmodified":1536938401,
+    "wof:name":"Diarbois",
+    "wof:parent_id":102049927,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.45426,
+    50.4541,
+    4.45426,
+    50.4541
+],
+  "geometry": {"coordinates":[4.45426,50.4541],"type":"Point"}
+}

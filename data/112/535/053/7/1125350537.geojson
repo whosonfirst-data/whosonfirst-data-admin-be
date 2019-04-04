@@ -1,0 +1,76 @@
+{
+  "id": 1125350537,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2017-05-19",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.065005,49.796336,5.065005,49.796336",
+    "geom:latitude":49.796336,
+    "geom:longitude":5.065005,
+    "gn:gn_country":null,
+    "iso:country":"BE",
+    "lbl:latitude":49.796336,
+    "lbl:longitude":5.065005,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"BE",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Bouillon",
+    "qs_pg:name_adm0":"Belgique",
+    "qs_pg:name_adm1":"Luxembourg",
+    "qs_pg:photos":1,
+    "qs_pg:photos_1k":1,
+    "qs_pg:photos_9k":13,
+    "qs_pg:photos_9r":11,
+    "qs_pg:photos_all":2838,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":907262,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
+    "qs_pg:woe_adm0":23424757,
+    "qs_pg:woe_id":12602532,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424757,
+    "woe:name_adm0":"Belgique",
+    "woe:name_adm1":"Luxembourg",
+    "woe:placetype":"LocalAdmin",
+    "wof:belongsto":[
+        85632997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12602532,
+        "qs_pg:id":907262
+    },
+    "wof:country":"BE",
+    "wof:created":1497046174,
+    "wof:geomhash":"046b923adddf01fcb80275d7de45fdef",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "localadmin_id":1125350537
+        }
+    ],
+    "wof:id":1125350537,
+    "wof:lastmodified":1505248091,
+    "wof:name":"Bouillon",
+    "wof:parent_id":-1,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.065005,
+    49.796336,
+    5.065005,
+    49.796336
+],
+  "geometry": {"coordinates":[5.065005,49.796336],"type":"Point"}
+}

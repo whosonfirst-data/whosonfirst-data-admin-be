@@ -1,0 +1,64 @@
+{
+  "id": 1209451319,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.24654,50.54432,4.24654,50.54432",
+    "geom:latitude":50.54432,
+    "geom:longitude":4.24654,
+    "gn:admin1_code":"WAL",
+    "gn:admin2_code":"WHT",
+    "gn:admin3_code":"52.0",
+    "gn:admin4_code":"52063.0",
+    "gn:asciiname":"Claire Haie",
+    "gn:country_code":"BE",
+    "gn:dem":129,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2800278,
+    "gn:latitude":50.54432,
+    "gn:longitude":4.24654,
+    "gn:modification_date":"2017-03-25",
+    "gn:name":"Claire Haie",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2800278
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"06401899db87c8925e8ead81f530fdf0",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "locality_id":1209451319
+        }
+    ],
+    "wof:id":1209451319,
+    "wof:lastmodified":1536286663,
+    "wof:name":"Claire Haie",
+    "wof:parent_id":85632997,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.24654,
+    50.54432,
+    4.24654,
+    50.54432
+],
+  "geometry": {"coordinates":[4.24654,50.54432],"type":"Point"}
+}

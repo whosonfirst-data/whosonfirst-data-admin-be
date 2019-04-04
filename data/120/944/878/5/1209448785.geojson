@@ -1,0 +1,64 @@
+{
+  "id": 1209448785,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.02771,50.86677,4.02771,50.86677",
+    "geom:latitude":50.86677,
+    "geom:longitude":4.02771,
+    "gn:admin1_code":"VLG",
+    "gn:admin2_code":"VOV",
+    "gn:admin3_code":"41.0",
+    "gn:admin4_code":"41024.0",
+    "gn:asciiname":"Vossel",
+    "gn:country_code":"BE",
+    "gn:dem":24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2784352,
+    "gn:latitude":50.86677,
+    "gn:longitude":4.02771,
+    "gn:modification_date":"2016-08-02",
+    "gn:name":"Vossel",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2784352
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"da178af8c6eb23a7cc2e032964625efa",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "locality_id":1209448785
+        }
+    ],
+    "wof:id":1209448785,
+    "wof:lastmodified":1536286735,
+    "wof:name":"Vossel",
+    "wof:parent_id":85632997,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.02771,
+    50.86677,
+    4.02771,
+    50.86677
+],
+  "geometry": {"coordinates":[4.02771,50.86677],"type":"Point"}
+}

@@ -1,0 +1,93 @@
+{
+  "id": 1125912005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.13333,51.08333,5.13333,51.08333",
+    "geom:latitude":51.08333,
+    "geom:longitude":5.13333,
+    "gn:gn_country":"BE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"BE",
+    "lbl:latitude":51.08333,
+    "lbl:longitude":5.13333,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:unk_x_variant":[
+        "Genenbosch"
+    ],
+    "qs_pg:aaroncc":"BE",
+    "qs_pg:gn_country":"BE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2797684,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Genenbos",
+    "qs_pg:name_adm0":"Belgique",
+    "qs_pg:name_adm1":"Limburg",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":4,
+    "qs_pg:photos_all":184,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":390046,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424757,
+    "qs_pg:woe_id":969992,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424757,
+    "woe:name_adm0":"Belgique",
+    "woe:name_adm1":"Limburg",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85681705,
+        102191581,
+        1108830379,
+        85632997,
+        404227357,
+        102049975
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2797684,
+        "gp:id":969992,
+        "qs_pg:id":390046
+    },
+    "wof:country":"BE",
+    "wof:created":1497296169,
+    "wof:geomhash":"d0a61b6b18ee31ab15030c99cf0515e9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049975,
+            "localadmin_id":1108830379,
+            "locality_id":1125912005,
+            "macroregion_id":404227357,
+            "region_id":85681705
+        }
+    ],
+    "wof:id":1125912005,
+    "wof:lastmodified":1509400244,
+    "wof:name":"Genenbos",
+    "wof:parent_id":1108830379,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.13333,
+    51.08333,
+    5.13333,
+    51.08333
+],
+  "geometry": {"coordinates":[5.13333,51.08333],"type":"Point"}
+}

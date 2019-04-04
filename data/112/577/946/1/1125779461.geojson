@@ -1,0 +1,110 @@
+{
+  "id": 1125779461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.43185,50.93789,3.43185,50.93789",
+    "geom:latitude":50.93789,
+    "geom:longitude":3.43185,
+    "gn:gn_country":"BE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"BE",
+    "lbl:latitude":50.93789,
+    "lbl:longitude":3.43185,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Oeselgem"
+    ],
+    "name:eng_x_preferred":[
+        "Oeselgem"
+    ],
+    "name:est_x_preferred":[
+        "Oeselgem"
+    ],
+    "name:fre_x_preferred":[
+        "Oeselgem"
+    ],
+    "name:hun_x_preferred":[
+        "Oeselgem"
+    ],
+    "name:unk_x_variant":[
+        "Oesselghem"
+    ],
+    "name:vls_x_preferred":[
+        "Oeselgem"
+    ],
+    "qs_pg:aaroncc":"BE",
+    "qs_pg:gn_country":"BE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2789936,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Oeselgem",
+    "qs_pg:name_adm0":"Belgique",
+    "qs_pg:name_adm1":"West-Vlaanderen",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":192264,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424757,
+    "qs_pg:woe_id":975043,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424757,
+    "woe:name_adm0":"Belgique",
+    "woe:name_adm1":"West-Vlaanderen",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85681709,
+        102191581,
+        1108830197,
+        85632997,
+        404227357,
+        102049981
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2789936,
+        "gp:id":975043,
+        "qs_pg:id":192264,
+        "wd:id":"Q2351568"
+    },
+    "wof:country":"BE",
+    "wof:created":1497290405,
+    "wof:geomhash":"b0ce29e975d5f7c3677c455ab8951315",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049981,
+            "localadmin_id":1108830197,
+            "locality_id":1125779461,
+            "macroregion_id":404227357,
+            "region_id":85681709
+        }
+    ],
+    "wof:id":1125779461,
+    "wof:lastmodified":1513899437,
+    "wof:name":"Oeselgem",
+    "wof:parent_id":1108830197,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.43185,
+    50.93789,
+    3.43185,
+    50.93789
+],
+  "geometry": {"coordinates":[3.43185,50.93789],"type":"Point"}
+}

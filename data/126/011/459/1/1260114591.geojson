@@ -1,0 +1,72 @@
+{
+  "id": 1260114591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.03333,50.08333,5.03333,50.08333",
+    "geom:latitude":50.08333,
+    "geom:longitude":5.03333,
+    "gn:admin1_code":"WAL",
+    "gn:admin2_code":"WNA",
+    "gn:admin3_code":"91.0",
+    "gn:admin4_code":"91013.0",
+    "gn:asciiname":"Voie du Chenet",
+    "gn:country_code":"BE",
+    "gn:dem":247,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2784426,
+    "gn:latitude":50.08333,
+    "gn:longitude":5.03333,
+    "gn:modification_date":"2017-03-25",
+    "gn:name":"Voie du Chenet",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681699,
+        102191581,
+        85632997,
+        404227353,
+        102049919
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2784426
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"8c1eadbfcea1f4cf4025139b7941395f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049919,
+            "locality_id":1260114591,
+            "macroregion_id":404227353,
+            "region_id":85681699
+        }
+    ],
+    "wof:id":1260114591,
+    "wof:lastmodified":1536943808,
+    "wof:name":"Voie du Chenet",
+    "wof:parent_id":102049919,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.03333,
+    50.08333,
+    5.03333,
+    50.08333
+],
+  "geometry": {"coordinates":[5.03333,50.08333],"type":"Point"}
+}

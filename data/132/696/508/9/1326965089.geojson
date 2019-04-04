@@ -1,0 +1,76 @@
+{
+  "id": 1326965089,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.53395,49.72252,5.53395,49.72252",
+    "geom:latitude":49.72252,
+    "geom:longitude":5.53395,
+    "gn:admin1_code":"WAL",
+    "gn:admin2_code":"WLX",
+    "gn:admin3_code":"85.0",
+    "gn:admin4_code":"85046.0",
+    "gn:asciiname":"Marbehan",
+    "gn:country_code":"BE",
+    "gn:dem":354,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2791753,
+    "gn:latitude":49.72252,
+    "gn:longitude":5.53395,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Marbehan",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Marbehon"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681727,
+        102191581,
+        85632997,
+        404227353,
+        102049907
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2791753,
+        "wk:page":"Marbehan"
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"677d36a49d79433ed2ff37a3b95b0613",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049907,
+            "locality_id":1326965089,
+            "macroregion_id":404227353,
+            "region_id":85681727
+        }
+    ],
+    "wof:id":1326965089,
+    "wof:lastmodified":1537586971,
+    "wof:name":"Marbehan",
+    "wof:parent_id":102049907,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.53395,
+    49.72252,
+    5.53395,
+    49.72252
+],
+  "geometry": {"coordinates":[5.53395,49.72252],"type":"Point"}
+}

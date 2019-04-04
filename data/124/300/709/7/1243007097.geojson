@@ -1,0 +1,72 @@
+{
+  "id": 1243007097,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.17959,50.46948,4.17959,50.46948",
+    "geom:latitude":50.46948,
+    "geom:longitude":4.17959,
+    "gn:admin1_code":"WAL",
+    "gn:admin2_code":"WHT",
+    "gn:admin3_code":"55.0",
+    "gn:admin4_code":"55022.0",
+    "gn:asciiname":"Bouvy",
+    "gn:country_code":"BE",
+    "gn:dem":123,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2801201,
+    "gn:latitude":50.46948,
+    "gn:longitude":4.17959,
+    "gn:modification_date":"2017-03-25",
+    "gn:name":"Bouvy",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681723,
+        102191581,
+        85632997,
+        404227353,
+        102049943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2801201
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"61054838ccf5ffc41122f8a7b6041d0d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049943,
+            "locality_id":1243007097,
+            "macroregion_id":404227353,
+            "region_id":85681723
+        }
+    ],
+    "wof:id":1243007097,
+    "wof:lastmodified":1536942577,
+    "wof:name":"Bouvy",
+    "wof:parent_id":102049943,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.17959,
+    50.46948,
+    4.17959,
+    50.46948
+],
+  "geometry": {"coordinates":[4.17959,50.46948],"type":"Point"}
+}

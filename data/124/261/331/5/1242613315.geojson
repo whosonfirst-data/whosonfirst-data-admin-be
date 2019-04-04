@@ -1,0 +1,72 @@
+{
+  "id": 1242613315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.60177,50.52112,5.60177,50.52112",
+    "geom:latitude":50.52112,
+    "geom:longitude":5.60177,
+    "gn:admin1_code":"WAL",
+    "gn:admin2_code":"WLG",
+    "gn:admin3_code":"62.0",
+    "gn:admin4_code":"62032.0",
+    "gn:asciiname":"Flagothier",
+    "gn:country_code":"BE",
+    "gn:dem":182,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2798327,
+    "gn:latitude":50.52112,
+    "gn:longitude":5.60177,
+    "gn:modification_date":"2017-03-25",
+    "gn:name":"Flagothier",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681691,
+        102191581,
+        85632997,
+        404227353,
+        102049941
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2798327
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"72b5f993c4c4d1c4baefc35155e061ef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049941,
+            "locality_id":1242613315,
+            "macroregion_id":404227353,
+            "region_id":85681691
+        }
+    ],
+    "wof:id":1242613315,
+    "wof:lastmodified":1537011485,
+    "wof:name":"Flagothier",
+    "wof:parent_id":102049941,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.60177,
+    50.52112,
+    5.60177,
+    50.52112
+],
+  "geometry": {"coordinates":[5.60177,50.52112],"type":"Point"}
+}

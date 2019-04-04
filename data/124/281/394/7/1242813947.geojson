@@ -1,0 +1,72 @@
+{
+  "id": 1242813947,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.98548,50.60358,3.98548,50.60358",
+    "geom:latitude":50.60358,
+    "geom:longitude":3.98548,
+    "gn:admin1_code":"WAL",
+    "gn:admin2_code":"WHT",
+    "gn:admin3_code":"55.0",
+    "gn:admin4_code":"55040.0",
+    "gn:asciiname":"L'Herse",
+    "gn:country_code":"BE",
+    "gn:dem":91,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2792452,
+    "gn:latitude":50.60358,
+    "gn:longitude":3.98548,
+    "gn:modification_date":"2017-03-25",
+    "gn:name":"L'Herse",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681723,
+        102191581,
+        85632997,
+        404227353,
+        102049943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2792452
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"cd6597139787bc8c33db104bd3ffedd9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049943,
+            "locality_id":1242813947,
+            "macroregion_id":404227353,
+            "region_id":85681723
+        }
+    ],
+    "wof:id":1242813947,
+    "wof:lastmodified":1536723585,
+    "wof:name":"L'Herse",
+    "wof:parent_id":102049943,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.98548,
+    50.60358,
+    3.98548,
+    50.60358
+],
+  "geometry": {"coordinates":[3.98548,50.60358],"type":"Point"}
+}

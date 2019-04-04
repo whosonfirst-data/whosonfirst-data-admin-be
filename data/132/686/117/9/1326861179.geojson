@@ -1,0 +1,76 @@
+{
+  "id": 1326861179,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.7914,50.75622,3.7914,50.75622",
+    "geom:latitude":50.75622,
+    "geom:longitude":3.7914,
+    "gn:admin1_code":"WAL",
+    "gn:admin2_code":"WHT",
+    "gn:asciiname":"Hemelrijk",
+    "gn:country_code":"BE",
+    "gn:dem":58,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2796099,
+    "gn:latitude":50.75622,
+    "gn:longitude":3.7914,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Hemelrijk",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hemelryk",
+        "Hemelrijk"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681733,
+        102191581,
+        1108830545,
+        85632997,
+        404227357,
+        102049963
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2796099
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"5b8c071044a34607f0458b5e0f629a3e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049963,
+            "localadmin_id":1108830545,
+            "locality_id":1326861179,
+            "macroregion_id":404227357,
+            "region_id":85681733
+        }
+    ],
+    "wof:id":1326861179,
+    "wof:lastmodified":1537587020,
+    "wof:name":"Hemelrijk",
+    "wof:parent_id":1108830545,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.7914,
+    50.75622,
+    3.7914,
+    50.75622
+],
+  "geometry": {"coordinates":[3.7914,50.75622],"type":"Point"}
+}

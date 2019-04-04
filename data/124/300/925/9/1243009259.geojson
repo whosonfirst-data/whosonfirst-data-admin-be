@@ -1,0 +1,72 @@
+{
+  "id": 1243009259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.54949,50.29553,5.54949,50.29553",
+    "geom:latitude":50.29553,
+    "geom:longitude":5.54949,
+    "gn:admin1_code":"WAL",
+    "gn:admin2_code":"WLX",
+    "gn:admin3_code":"83.0",
+    "gn:admin4_code":"83013.0",
+    "gn:asciiname":"Sous le Bois",
+    "gn:country_code":"BE",
+    "gn:dem":319,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2786337,
+    "gn:latitude":50.29553,
+    "gn:longitude":5.54949,
+    "gn:modification_date":"2017-03-25",
+    "gn:name":"Sous le Bois",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681727,
+        102191581,
+        85632997,
+        404227353,
+        102049921
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2786337
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"2c3aad3f26126b118894fa599ee7d989",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049921,
+            "locality_id":1243009259,
+            "macroregion_id":404227353,
+            "region_id":85681727
+        }
+    ],
+    "wof:id":1243009259,
+    "wof:lastmodified":1536939536,
+    "wof:name":"Sous le Bois",
+    "wof:parent_id":102049921,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.54949,
+    50.29553,
+    5.54949,
+    50.29553
+],
+  "geometry": {"coordinates":[5.54949,50.29553],"type":"Point"}
+}

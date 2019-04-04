@@ -1,0 +1,80 @@
+{
+  "id": 1327270569,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.33333,50.5,3.33333,50.5",
+    "geom:latitude":50.5,
+    "geom:longitude":3.33333,
+    "gn:admin1_code":"WAL",
+    "gn:admin2_code":"WHT",
+    "gn:asciiname":"Le Plantis",
+    "gn:country_code":"BE",
+    "gn:dem":28,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2792826,
+    "gn:latitude":50.5,
+    "gn:longitude":3.33333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Le Plantis",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Le Planti",
+        "Le Plantis"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85683445,
+        102191581,
+        404228303,
+        404374553,
+        85633147,
+        1108826399,
+        136253037,
+        102071717
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2792826
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"ea4a04b8d146afcb3315a2d8e60c38f9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "county_id":102071717,
+            "empire_id":136253037,
+            "localadmin_id":404374553,
+            "locality_id":1327270569,
+            "macrocounty_id":404228303,
+            "macroregion_id":1108826399,
+            "region_id":85683445
+        }
+    ],
+    "wof:id":1327270569,
+    "wof:lastmodified":1537586982,
+    "wof:name":"Le Plantis",
+    "wof:parent_id":404374553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.33333,
+    50.5,
+    3.33333,
+    50.5
+],
+  "geometry": {"coordinates":[3.33333,50.5],"type":"Point"}
+}

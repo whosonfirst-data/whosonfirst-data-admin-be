@@ -1,0 +1,72 @@
+{
+  "id": 1344090415,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.24064,50.86258,4.24064,50.86258",
+    "geom:latitude":50.86258,
+    "geom:longitude":4.24064,
+    "gn:admin1_code":"WAL",
+    "gn:admin2_code":"WHT",
+    "gn:asciiname":"Wolfsem",
+    "gn:country_code":"BE",
+    "gn:dem":45,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2783489,
+    "gn:latitude":50.86258,
+    "gn:longitude":4.24064,
+    "gn:modification_date":"2011-02-02",
+    "gn:name":"Wolfsem",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681731,
+        102191581,
+        1108830207,
+        85632997,
+        404227357,
+        102049973
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2783489
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"8bb85b6f0c0b25506c3cb7ca5b06419c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049973,
+            "localadmin_id":1108830207,
+            "locality_id":1344090415,
+            "macroregion_id":404227357,
+            "region_id":85681731
+        }
+    ],
+    "wof:id":1344090415,
+    "wof:lastmodified":1536831488,
+    "wof:name":"Wolfsem",
+    "wof:parent_id":1108830207,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.24064,
+    50.86258,
+    4.24064,
+    50.86258
+],
+  "geometry": {"coordinates":[4.24064,50.86258],"type":"Point"}
+}

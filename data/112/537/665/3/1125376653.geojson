@@ -1,0 +1,105 @@
+{
+  "id": 1125376653,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2017-05-19",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.65581,49.61243,5.65581,49.61243",
+    "geom:latitude":49.61243,
+    "geom:longitude":5.65581,
+    "gn:gn_country":"BE",
+    "gn:gn_fcode":"ADM4",
+    "gn:gn_pop":3337,
+    "gn:population":3337,
+    "iso:country":"BE",
+    "lbl:latitude":49.61243,
+    "lbl:longitude":5.65581,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bre_x_preferred":[
+        "Saint-L\u00e9ger-en-Gaume"
+    ],
+    "name:bul_x_preferred":[
+        "\u0421\u0435\u043d \u041b\u0435\u0436\u0435"
+    ],
+    "name:cat_x_preferred":[
+        "Saint-L\u00e9ger-en-Gaume"
+    ],
+    "name:epo_x_preferred":[
+        "Saint-L\u00e9ger-en-Gaume"
+    ],
+    "name:fas_x_preferred":[
+        "\u0633\u0646-\u0644\u0698\u0647"
+    ],
+    "name:ltz_x_preferred":[
+        "Saint-L\u00e9ger-en-Gaume"
+    ],
+    "name:oci_x_preferred":[
+        "Saint-L\u00e9ger-en-Gaume"
+    ],
+    "name:ron_x_preferred":[
+        "Saint-L\u00e9ger-en-Gaume"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0435\u043d-\u041b\u0435\u0436\u0435"
+    ],
+    "name:urd_x_preferred":[
+        "\u0633\u06cc\u0646\u0679-\u0644\u06af\u0631\u060c \u0628\u06cc\u0644\u062c\u06cc\u0645"
+    ],
+    "name:zho_x_preferred":[
+        "\u5723\u83b1\u70ed"
+    ],
+    "qs_pg:aaroncc":"BE",
+    "qs_pg:gn_country":"BE",
+    "qs_pg:gn_fcode":"ADM4",
+    "qs_pg:gn_id":2787380,
+    "qs_pg:gn_pop":3337,
+    "qs_pg:name":"Saint-L\u00e9ger",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":277090,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85632997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2787380,
+        "qs_pg:id":277090
+    },
+    "wof:country":"BE",
+    "wof:created":1497047788,
+    "wof:geomhash":"20a954d85cd71c25fca2b938bdbbb475",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "localadmin_id":1125376653
+        }
+    ],
+    "wof:id":1125376653,
+    "wof:lastmodified":1505185640,
+    "wof:name":"Saint-L\u00e9ger",
+    "wof:parent_id":-1,
+    "wof:placetype":"localadmin",
+    "wof:population":3337,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.65581,
+    49.61243,
+    5.65581,
+    49.61243
+],
+  "geometry": {"coordinates":[5.65581,49.61243],"type":"Point"}
+}

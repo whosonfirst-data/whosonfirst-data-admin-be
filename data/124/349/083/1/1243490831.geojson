@@ -1,0 +1,76 @@
+{
+  "id": 1243490831,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.55136,50.65447,5.55136,50.65447",
+    "geom:latitude":50.65447,
+    "geom:longitude":5.55136,
+    "gn:admin1_code":"WAL",
+    "gn:admin2_code":"WLG",
+    "gn:admin3_code":"62.0",
+    "gn:admin4_code":"62063.0",
+    "gn:asciiname":"Molinvaux",
+    "gn:country_code":"BE",
+    "gn:dem":140,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2790926,
+    "gn:latitude":50.65447,
+    "gn:longitude":5.55136,
+    "gn:modification_date":"2017-03-25",
+    "gn:name":"Molinvaux",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Molinvau",
+        "Molinvaux"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681691,
+        102191581,
+        85632997,
+        404227353,
+        102049941
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2790926
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"c3aaa936636df87db812a507cd79f6d6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049941,
+            "locality_id":1243490831,
+            "macroregion_id":404227353,
+            "region_id":85681691
+        }
+    ],
+    "wof:id":1243490831,
+    "wof:lastmodified":1537586963,
+    "wof:name":"Molinvaux",
+    "wof:parent_id":102049941,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.55136,
+    50.65447,
+    5.55136,
+    50.65447
+],
+  "geometry": {"coordinates":[5.55136,50.65447],"type":"Point"}
+}

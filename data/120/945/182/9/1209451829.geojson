@@ -1,0 +1,70 @@
+{
+  "id": 1209451829,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.6585,50.86065,3.6585,50.86065",
+    "geom:latitude":50.86065,
+    "geom:longitude":3.6585,
+    "gn:admin1_code":"VLG",
+    "gn:admin2_code":"VOV",
+    "gn:admin3_code":"45.0",
+    "gn:admin4_code":"45035.0",
+    "gn:asciiname":"Ose",
+    "gn:country_code":"BE",
+    "gn:dem":33,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2789609,
+    "gn:latitude":50.86065,
+    "gn:longitude":3.6585,
+    "gn:modification_date":"2016-08-02",
+    "gn:name":"Ose",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Osse",
+        "Oose",
+        "Oossche",
+        "Ose"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2789609
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"c87deb1daa297072e8c2ae6c720e04a4",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "locality_id":1209451829
+        }
+    ],
+    "wof:id":1209451829,
+    "wof:lastmodified":1537586951,
+    "wof:name":"Ose",
+    "wof:parent_id":85632997,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.6585,
+    50.86065,
+    3.6585,
+    50.86065
+],
+  "geometry": {"coordinates":[3.6585,50.86065],"type":"Point"}
+}

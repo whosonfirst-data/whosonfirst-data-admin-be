@@ -1,0 +1,68 @@
+{
+  "id": 1209552189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.87319,50.67005,4.87319,50.67005",
+    "geom:latitude":50.67005,
+    "geom:longitude":4.87319,
+    "gn:admin1_code":"WAL",
+    "gn:admin2_code":"WBR",
+    "gn:admin3_code":"25.0",
+    "gn:admin4_code":"25122.0",
+    "gn:asciiname":"Bomal",
+    "gn:country_code":"BE",
+    "gn:dem":119,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2801575,
+    "gn:latitude":50.67005,
+    "gn:longitude":4.87319,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Bomal",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ramilies (Bomal)",
+        "Bomal"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2801575
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"0b4f5e2f3a1ce372ac9dce79320c1c02",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "locality_id":1209552189
+        }
+    ],
+    "wof:id":1209552189,
+    "wof:lastmodified":1537587072,
+    "wof:name":"Bomal",
+    "wof:parent_id":85632997,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.87319,
+    50.67005,
+    4.87319,
+    50.67005
+],
+  "geometry": {"coordinates":[4.87319,50.67005],"type":"Point"}
+}

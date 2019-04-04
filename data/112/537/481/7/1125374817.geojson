@@ -1,0 +1,76 @@
+{
+  "id": 1125374817,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2017-05-19",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.019631,50.722013,6.019631,50.722013",
+    "geom:latitude":50.722013,
+    "geom:longitude":6.019631,
+    "gn:gn_country":null,
+    "iso:country":"BE",
+    "lbl:latitude":50.722013,
+    "lbl:longitude":6.019631,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"BE",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Kelmis",
+    "qs_pg:name_adm0":"Belgique",
+    "qs_pg:name_adm1":"Li\u00e8ge",
+    "qs_pg:photos":47,
+    "qs_pg:photos_1k":10,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":3,
+    "qs_pg:photos_all":89,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":995632,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
+    "qs_pg:woe_adm0":23424757,
+    "qs_pg:woe_id":12602726,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424757,
+    "woe:name_adm0":"Belgique",
+    "woe:name_adm1":"Li\u00e8ge",
+    "woe:placetype":"LocalAdmin",
+    "wof:belongsto":[
+        85632997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12602726,
+        "qs_pg:id":995632
+    },
+    "wof:country":"BE",
+    "wof:created":1497047655,
+    "wof:geomhash":"2b0f513b4e077e46984c03f3f74e6e97",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "localadmin_id":1125374817
+        }
+    ],
+    "wof:id":1125374817,
+    "wof:lastmodified":1505248128,
+    "wof:name":"Kelmis",
+    "wof:parent_id":-1,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.019631,
+    50.722013,
+    6.019631,
+    50.722013
+],
+  "geometry": {"coordinates":[6.019631,50.722013],"type":"Point"}
+}

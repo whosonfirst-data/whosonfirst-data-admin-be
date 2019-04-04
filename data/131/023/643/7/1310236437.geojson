@@ -1,0 +1,74 @@
+{
+  "id": 1310236437,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.29821,50.73344,3.29821,50.73344",
+    "geom:latitude":50.73344,
+    "geom:longitude":3.29821,
+    "gn:admin1_code":"VLG",
+    "gn:admin2_code":"VWV",
+    "gn:asciiname":"Klein Tourcoing",
+    "gn:country_code":"BE",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2794297,
+    "gn:latitude":50.73344,
+    "gn:longitude":3.29821,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Klein Tourcoing",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Petit-Tourcoing",
+        "Klein Tourcoing"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681723,
+        102191581,
+        85632997,
+        404227353,
+        1108782559
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2794297
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"101efdda8147cde3230d4db177aa3fb7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":1108782559,
+            "locality_id":1310236437,
+            "macroregion_id":404227353,
+            "region_id":85681723
+        }
+    ],
+    "wof:id":1310236437,
+    "wof:lastmodified":1537587000,
+    "wof:name":"Klein Tourcoing",
+    "wof:parent_id":1108782559,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.29821,
+    50.73344,
+    3.29821,
+    50.73344
+],
+  "geometry": {"coordinates":[3.29821,50.73344],"type":"Point"}
+}

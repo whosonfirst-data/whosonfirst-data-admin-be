@@ -1,0 +1,72 @@
+{
+  "id": 1309748659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.47748,50.71287,3.47748,50.71287",
+    "geom:latitude":50.71287,
+    "geom:longitude":3.47748,
+    "gn:admin1_code":"WAL",
+    "gn:admin2_code":"WHT",
+    "gn:admin3_code":"57.0",
+    "gn:admin4_code":"57018.0",
+    "gn:asciiname":"Petit Hollaye",
+    "gn:country_code":"BE",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2789072,
+    "gn:latitude":50.71287,
+    "gn:longitude":3.47748,
+    "gn:modification_date":"2017-03-25",
+    "gn:name":"Petit Hollaye",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681723,
+        102191581,
+        85632997,
+        404227353,
+        102049951
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2789072
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"f9a809045b4df9b5add3ff9fda721d35",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049951,
+            "locality_id":1309748659,
+            "macroregion_id":404227353,
+            "region_id":85681723
+        }
+    ],
+    "wof:id":1309748659,
+    "wof:lastmodified":1537012733,
+    "wof:name":"Petit Hollaye",
+    "wof:parent_id":102049951,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.47748,
+    50.71287,
+    3.47748,
+    50.71287
+],
+  "geometry": {"coordinates":[3.47748,50.71287],"type":"Point"}
+}

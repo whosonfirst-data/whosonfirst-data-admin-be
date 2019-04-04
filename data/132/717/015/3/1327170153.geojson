@@ -1,0 +1,72 @@
+{
+  "id": 1327170153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.45,50.68333,4.45,50.68333",
+    "geom:latitude":50.68333,
+    "geom:longitude":4.45,
+    "gn:admin1_code":"WAL",
+    "gn:admin2_code":"WBR",
+    "gn:admin3_code":"25.0",
+    "gn:admin4_code":"25119.0",
+    "gn:asciiname":"Smohain",
+    "gn:country_code":"BE",
+    "gn:dem":99,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2786461,
+    "gn:latitude":50.68333,
+    "gn:longitude":4.45,
+    "gn:modification_date":"2017-03-25",
+    "gn:name":"Smohain",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681693,
+        102191581,
+        85632997,
+        404227353,
+        102049945
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2786461
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"3736440bb4b97e004be43b39508f2092",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049945,
+            "locality_id":1327170153,
+            "macroregion_id":404227353,
+            "region_id":85681693
+        }
+    ],
+    "wof:id":1327170153,
+    "wof:lastmodified":1537056965,
+    "wof:name":"Smohain",
+    "wof:parent_id":102049945,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.45,
+    50.68333,
+    4.45,
+    50.68333
+],
+  "geometry": {"coordinates":[4.45,50.68333],"type":"Point"}
+}

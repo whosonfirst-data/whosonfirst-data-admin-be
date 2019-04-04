@@ -1,0 +1,76 @@
+{
+  "id": 1125307435,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2017-05-19",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.2518615,49.842244,5.2518615,49.842244",
+    "geom:latitude":49.842244,
+    "geom:longitude":5.251862,
+    "gn:gn_country":null,
+    "iso:country":"BE",
+    "lbl:latitude":49.842244,
+    "lbl:longitude":5.251862,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"BE",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Bertrix",
+    "qs_pg:name_adm0":"Belgique",
+    "qs_pg:name_adm1":"Luxembourg",
+    "qs_pg:photos":19,
+    "qs_pg:photos_1k":4,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":5,
+    "qs_pg:photos_all":325,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1106181,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
+    "qs_pg:woe_adm0":23424757,
+    "qs_pg:woe_id":12602342,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424757,
+    "woe:name_adm0":"Belgique",
+    "woe:name_adm1":"Luxembourg",
+    "woe:placetype":"LocalAdmin",
+    "wof:belongsto":[
+        85632997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12602342,
+        "qs_pg:id":1106181
+    },
+    "wof:country":"BE",
+    "wof:created":1497043780,
+    "wof:geomhash":"91bd16e2969e6d564323843fe6a874dd",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "localadmin_id":1125307435
+        }
+    ],
+    "wof:id":1125307435,
+    "wof:lastmodified":1505248013,
+    "wof:name":"Bertrix",
+    "wof:parent_id":-1,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.2518615,
+    49.842244,
+    5.2518615,
+    49.842244
+],
+  "geometry": {"coordinates":[5.2518615,49.842244],"type":"Point"}
+}

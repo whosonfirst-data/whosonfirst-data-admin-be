@@ -1,0 +1,103 @@
+{
+  "id": 1125830175,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.7993,50.69352,3.7993,50.69352",
+    "geom:latitude":50.69352,
+    "geom:longitude":3.7993,
+    "gn:gn_country":"BE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"BE",
+    "lbl:latitude":50.69352,
+    "lbl:longitude":3.7993,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Wannebecq"
+    ],
+    "name:eng_x_preferred":[
+        "Wannebecq"
+    ],
+    "name:fre_x_preferred":[
+        "Wannebecq"
+    ],
+    "name:hun_x_preferred":[
+        "Wannebecq"
+    ],
+    "qs_pg:aaroncc":"BE",
+    "qs_pg:gn_country":"BE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2784100,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Wannebecq",
+    "qs_pg:name_adm0":"Belgique",
+    "qs_pg:name_adm1":"Hainaut",
+    "qs_pg:photos":26,
+    "qs_pg:photos_1k":5,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":26,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1169876,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424757,
+    "qs_pg:woe_id":978637,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424757,
+    "woe:name_adm0":"Belgique",
+    "woe:name_adm1":"Hainaut",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85681723,
+        102191581,
+        85632997,
+        404227353,
+        102049943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2784100,
+        "gp:id":978637,
+        "qs_pg:id":1169876,
+        "wd:id":"Q2313402"
+    },
+    "wof:country":"BE",
+    "wof:created":1497292463,
+    "wof:geomhash":"faed4555f9b5ff7f2245f9f3017bf944",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049943,
+            "locality_id":1125830175,
+            "macroregion_id":404227353,
+            "region_id":85681723
+        }
+    ],
+    "wof:id":1125830175,
+    "wof:lastmodified":1513899569,
+    "wof:name":"Wannebecq",
+    "wof:parent_id":102049943,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.7993,
+    50.69352,
+    3.7993,
+    50.69352
+],
+  "geometry": {"coordinates":[3.7993,50.69352],"type":"Point"}
+}

@@ -1,0 +1,112 @@
+{
+  "id": 1125779389,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.88789,50.4147,4.88789,50.4147",
+    "geom:latitude":50.4147,
+    "geom:longitude":4.88789,
+    "gn:gn_country":"BE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"BE",
+    "lbl:latitude":50.4147,
+    "lbl:longitude":4.88789,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Dave"
+    ],
+    "name:eng_x_preferred":[
+        "Dave"
+    ],
+    "name:fre_x_preferred":[
+        "Dave"
+    ],
+    "name:hun_x_preferred":[
+        "Dave"
+    ],
+    "name:swe_x_preferred":[
+        "Dave"
+    ],
+    "name:unk_x_variant":[
+        "Namur (Dave)"
+    ],
+    "name:wln_x_preferred":[
+        "D\u00e5ve"
+    ],
+    "qs_pg:aaroncc":"BE",
+    "qs_pg:gn_country":"BE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2799855,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Dave",
+    "qs_pg:name_adm0":"Belgique",
+    "qs_pg:name_adm1":"Namur",
+    "qs_pg:photos":417,
+    "qs_pg:photos_1k":84,
+    "qs_pg:photos_9k":2,
+    "qs_pg:photos_9r":5,
+    "qs_pg:photos_all":417,
+    "qs_pg:photos_sr":6,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":4297,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424757,
+    "qs_pg:woe_id":968638,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424757,
+    "woe:name_adm0":"Belgique",
+    "woe:name_adm1":"Namur",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85681699,
+        102191581,
+        85632997,
+        404227353,
+        102049931
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2799855,
+        "gp:id":968638,
+        "qs_pg:id":4297,
+        "wd:id":"Q2217505"
+    },
+    "wof:country":"BE",
+    "wof:created":1497290402,
+    "wof:geomhash":"e204d5a06d7f16510400342598f4bcf1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049931,
+            "locality_id":1125779389,
+            "macroregion_id":404227353,
+            "region_id":85681699
+        }
+    ],
+    "wof:id":1125779389,
+    "wof:lastmodified":1553816528,
+    "wof:name":"Dave",
+    "wof:parent_id":102049931,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.88789,
+    50.4147,
+    4.88789,
+    50.4147
+],
+  "geometry": {"coordinates":[4.88789,50.4147],"type":"Point"}
+}

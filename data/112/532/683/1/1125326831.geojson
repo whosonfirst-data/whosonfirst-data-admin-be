@@ -1,0 +1,72 @@
+{
+  "id": 1125326831,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2017-05-19",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.85872,50.7032,5.85872,50.7032",
+    "geom:latitude":50.7032,
+    "geom:longitude":5.85872,
+    "gn:gn_country":"BE",
+    "gn:gn_fcode":"ADM4",
+    "gn:gn_pop":4182,
+    "gn:population":4182,
+    "iso:country":"BE",
+    "lbl:latitude":50.7032,
+    "lbl:longitude":5.85872,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"BE",
+    "qs_pg:gn_country":"BE",
+    "qs_pg:gn_fcode":"ADM4",
+    "qs_pg:gn_id":2802986,
+    "qs_pg:gn_pop":4182,
+    "qs_pg:name":"Aubel",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":92768,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85632997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2802986,
+        "qs_pg:id":92768
+    },
+    "wof:country":"BE",
+    "wof:created":1497044866,
+    "wof:geomhash":"a77d443ef8c012382d5315ab6a7f16f8",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "localadmin_id":1125326831
+        }
+    ],
+    "wof:id":1125326831,
+    "wof:lastmodified":1505185646,
+    "wof:name":"Aubel",
+    "wof:parent_id":-1,
+    "wof:placetype":"localadmin",
+    "wof:population":4182,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.85872,
+    50.7032,
+    5.85872,
+    50.7032
+],
+  "geometry": {"coordinates":[5.85872,50.7032],"type":"Point"}
+}

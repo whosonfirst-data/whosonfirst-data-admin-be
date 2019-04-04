@@ -1,0 +1,72 @@
+{
+  "id": 1210050591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.69645,50.18161,4.69645,50.18161",
+    "geom:latitude":50.18161,
+    "geom:longitude":4.69645,
+    "gn:admin1_code":"WAL",
+    "gn:admin2_code":"WNA",
+    "gn:admin3_code":"93.0",
+    "gn:admin4_code":"93056.0",
+    "gn:asciiname":"Surice",
+    "gn:country_code":"BE",
+    "gn:dem":213,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2785902,
+    "gn:latitude":50.18161,
+    "gn:longitude":4.69645,
+    "gn:modification_date":"2012-02-02",
+    "gn:name":"Surice",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681699,
+        102191581,
+        85632997,
+        404227353,
+        102049917
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2785902
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"bf7730722dc3d5048a0d8c2832347dea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049917,
+            "locality_id":1210050591,
+            "macroregion_id":404227353,
+            "region_id":85681699
+        }
+    ],
+    "wof:id":1210050591,
+    "wof:lastmodified":1536374081,
+    "wof:name":"Surice",
+    "wof:parent_id":102049917,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.69645,
+    50.18161,
+    4.69645,
+    50.18161
+],
+  "geometry": {"coordinates":[4.69645,50.18161],"type":"Point"}
+}

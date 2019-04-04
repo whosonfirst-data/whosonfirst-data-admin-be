@@ -1,0 +1,72 @@
+{
+  "id": 1226081813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.24818,50.39374,4.24818,50.39374",
+    "geom:latitude":50.39374,
+    "geom:longitude":4.24818,
+    "gn:admin1_code":"WAL",
+    "gn:admin2_code":"WHT",
+    "gn:admin3_code":"56.0",
+    "gn:admin4_code":"56001.0",
+    "gn:asciiname":"Ansuelle",
+    "gn:country_code":"BE",
+    "gn:dem":194,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2803154,
+    "gn:latitude":50.39374,
+    "gn:longitude":4.24818,
+    "gn:modification_date":"2017-03-25",
+    "gn:name":"Ansuelle",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681723,
+        102191581,
+        85632997,
+        404227353,
+        102049923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2803154
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"0238729a053c5e700649475ea17c9d0b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049923,
+            "locality_id":1226081813,
+            "macroregion_id":404227353,
+            "region_id":85681723
+        }
+    ],
+    "wof:id":1226081813,
+    "wof:lastmodified":1536673041,
+    "wof:name":"Ansuelle",
+    "wof:parent_id":102049923,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.24818,
+    50.39374,
+    4.24818,
+    50.39374
+],
+  "geometry": {"coordinates":[4.24818,50.39374],"type":"Point"}
+}

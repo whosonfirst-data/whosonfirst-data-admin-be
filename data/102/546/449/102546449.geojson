@@ -1,0 +1,81 @@
+{
+  "id": 102546449,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.964747,51.396461,4.964747,51.396461",
+    "geom:latitude":51.396461,
+    "geom:longitude":4.964747,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:fas_x_preferred":[
+        "\u067e\u0627\u06cc\u06af\u0627\u0647 \u0647\u0648\u0627\u06cc\u06cc \u0648\u06cc\u0644\u062f\u0647"
+    ],
+    "name:fra_x_preferred":[
+        "Base a\u00e9rienne de Weelde"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a6\u30a7\u30fc\u30eb\u30c7\u7a7a\u8ecd\u57fa\u5730"
+    ],
+    "name:nld_x_preferred":[
+        "Vliegveld Weelde"
+    ],
+    "name:tgk_x_preferred":[
+        "\u041f\u043e\u0439\u0433\u043e\u04b3\u0438 \u04b3\u0430\u0432\u043e\u0438\u0438 \u0412\u0438\u043b\u0434\u0435"
+    ],
+    "oa:elevation_ft":"105",
+    "oa:type":"small_airport",
+    "src:geom":"wikidata",
+    "src:geom_alt":[],
+    "wd:wordcount":113,
+    "woe:hierarchy":{
+        "country_id":23424757,
+        "county_id":12591772,
+        "localadmin_id":12602509,
+        "planet_id":1,
+        "state_id":7153308
+    },
+    "wof:belongsto":[
+        85632997,
+        85681715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12510856,
+        "icao:code":"EBWE",
+        "oa:id":"2168",
+        "wd:id":"Q1944310"
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"791259389eb5b68d6d36aee452e3f52f",
+    "wof:hierarchy":[
+        {
+            "campus_id":102546449,
+            "country_id":85632997,
+            "region_id":85681715
+        }
+    ],
+    "wof:id":102546449,
+    "wof:lastmodified":1543846097,
+    "wof:name":"Weelde Airport",
+    "wof:parent_id":85681715,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    4.964747,
+    51.396461,
+    4.964747,
+    51.396461
+],
+  "geometry": {"coordinates":[4.964747,51.396461],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1360022051,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.21361,51.03157,5.21361,51.03157",
+    "geom:latitude":51.03157,
+    "geom:longitude":5.21361,
+    "gn:admin1_code":"VLG",
+    "gn:admin2_code":"VLI",
+    "gn:admin3_code":"71.0",
+    "gn:admin4_code":"71037.0",
+    "gn:asciiname":"Gestel",
+    "gn:country_code":"BE",
+    "gn:dem":28,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2797590,
+    "gn:latitude":51.03157,
+    "gn:longitude":5.21361,
+    "gn:modification_date":"2016-08-02",
+    "gn:name":"Gestel",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681705,
+        102191581,
+        1108830255,
+        85632997,
+        404227357,
+        102049975
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2797590
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"20a7b0eb848f7eeda4b75e9e450fefa9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049975,
+            "localadmin_id":1108830255,
+            "locality_id":1360022051,
+            "macroregion_id":404227357,
+            "region_id":85681705
+        }
+    ],
+    "wof:id":1360022051,
+    "wof:lastmodified":1537034955,
+    "wof:name":"Gestel",
+    "wof:parent_id":1108830255,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.21361,
+    51.03157,
+    5.21361,
+    51.03157
+],
+  "geometry": {"coordinates":[5.21361,51.03157],"type":"Point"}
+}

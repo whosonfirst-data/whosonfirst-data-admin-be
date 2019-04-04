@@ -1,0 +1,102 @@
+{
+  "id": 1125871651,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.47355,50.56756,3.47355,50.56756",
+    "geom:latitude":50.56756,
+    "geom:longitude":3.47355,
+    "gn:gn_country":"BE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"BE",
+    "lbl:latitude":50.56756,
+    "lbl:longitude":3.47355,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Fontenoy"
+    ],
+    "name:eng_x_preferred":[
+        "Fontenoy"
+    ],
+    "name:fre_x_preferred":[
+        "Fontenoy"
+    ],
+    "name:hun_x_preferred":[
+        "Fontenoy"
+    ],
+    "name:rus_x_preferred":[
+        "\u0424\u043e\u043d\u0442\u0435\u043d\u0443\u0430"
+    ],
+    "qs_pg:aaroncc":"BE",
+    "qs_pg:gn_country":"BE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2798153,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Fontenoy",
+    "qs_pg:name_adm0":"Belgique",
+    "qs_pg:name_adm1":"Hainaut",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":358459,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424757,
+    "qs_pg:woe_id":969713,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424757,
+    "woe:name_adm0":"Belgique",
+    "woe:name_adm1":"Hainaut",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85681723,
+        102191581,
+        85632997,
+        404227353,
+        102049951
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2798153,
+        "gp:id":969713,
+        "qs_pg:id":358459,
+        "wd:id":"Q634052"
+    },
+    "wof:country":"BE",
+    "wof:created":1497294333,
+    "wof:geomhash":"d279f40ff14fcce3183890102d1a45ee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049951,
+            "locality_id":1125871651,
+            "macroregion_id":404227353,
+            "region_id":85681723
+        }
+    ],
+    "wof:id":1125871651,
+    "wof:lastmodified":1513899269,
+    "wof:name":"Fontenoy",
+    "wof:parent_id":102049951,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.47355,
+    50.56756,
+    3.47355,
+    50.56756
+],
+  "geometry": {"coordinates":[3.47355,50.56756],"type":"Point"}
+}

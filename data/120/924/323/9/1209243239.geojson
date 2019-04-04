@@ -1,0 +1,68 @@
+{
+  "id": 1209243239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.12574,50.424,6.12574,50.424",
+    "geom:latitude":50.424,
+    "geom:longitude":6.12574,
+    "gn:admin1_code":"WAL",
+    "gn:admin2_code":"WLG",
+    "gn:admin3_code":"63.0",
+    "gn:admin4_code":"63080.0",
+    "gn:asciiname":"Thioux",
+    "gn:country_code":"BE",
+    "gn:dem":568,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2785553,
+    "gn:latitude":50.424,
+    "gn:longitude":6.12574,
+    "gn:modification_date":"2017-03-25",
+    "gn:name":"Thioux",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tio\u00fb",
+        "Thioux"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2785553
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"7fbf7b56fb7ed210428c5a52e510fba9",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "locality_id":1209243239
+        }
+    ],
+    "wof:id":1209243239,
+    "wof:lastmodified":1537586902,
+    "wof:name":"Thioux",
+    "wof:parent_id":85632997,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.12574,
+    50.424,
+    6.12574,
+    50.424
+],
+  "geometry": {"coordinates":[6.12574,50.424],"type":"Point"}
+}

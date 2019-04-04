@@ -1,0 +1,72 @@
+{
+  "id": 1209951305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.38424,49.98847,4.38424,49.98847",
+    "geom:latitude":49.98847,
+    "geom:longitude":4.38424,
+    "gn:admin1_code":"WAL",
+    "gn:admin2_code":"WHT",
+    "gn:admin3_code":"56.0",
+    "gn:admin4_code":"56016.0",
+    "gn:asciiname":"Haute Grange",
+    "gn:country_code":"BE",
+    "gn:dem":276,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2796430,
+    "gn:latitude":49.98847,
+    "gn:longitude":4.38424,
+    "gn:modification_date":"2017-03-25",
+    "gn:name":"Haute Grange",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681723,
+        102191581,
+        85632997,
+        404227353,
+        102049923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2796430
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"de522fbd1c5a446d2c4aaa1df6c60d10",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049923,
+            "locality_id":1209951305,
+            "macroregion_id":404227353,
+            "region_id":85681723
+        }
+    ],
+    "wof:id":1209951305,
+    "wof:lastmodified":1536383325,
+    "wof:name":"Haute Grange",
+    "wof:parent_id":102049923,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.38424,
+    49.98847,
+    4.38424,
+    49.98847
+],
+  "geometry": {"coordinates":[4.38424,49.98847],"type":"Point"}
+}

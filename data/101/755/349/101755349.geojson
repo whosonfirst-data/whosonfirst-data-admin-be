@@ -1,0 +1,120 @@
+{
+  "id": 101755349,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000268,
+    "geom:area_square_m":2087173.825488,
+    "geom:bbox":"4.03655853491,50.8873188538,4.06200518887,50.9062508778",
+    "geom:latitude":50.897885,
+    "geom:longitude":4.050157,
+    "iso:country":"BE",
+    "lbl:latitude":50.898299,
+    "lbl:longitude":4.051422,
+    "mps:latitude":50.898299,
+    "mps:longitude":4.051422,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Welle"
+    ],
+    "name:deu_x_preferred":[
+        "Welle"
+    ],
+    "name:dut_x_preferred":[
+        "Welle"
+    ],
+    "name:eng_x_preferred":[
+        "Welle"
+    ],
+    "name:eus_x_preferred":[
+        "Welle"
+    ],
+    "name:fra_x_preferred":[
+        "Welle"
+    ],
+    "name:fre_x_preferred":[
+        "Welle"
+    ],
+    "name:hun_x_preferred":[
+        "Welle"
+    ],
+    "name:ita_x_preferred":[
+        "Welle"
+    ],
+    "name:nld_x_preferred":[
+        "Welle"
+    ],
+    "name:pol_x_preferred":[
+        "Welle"
+    ],
+    "name:swe_x_preferred":[
+        "Welle"
+    ],
+    "qs:a0":"Belgi\u00eb#Belgique#Belgien",
+    "qs:a1":"*Oost-Vlanderen",
+    "qs:a1r":"0Vlaams Gewest",
+    "qs:a2":"Aalst",
+    "qs:adm0":"Belgi\u00eb#Belgique#Belgien",
+    "qs:la":"Kalmthout",
+    "qs:la_lc":"*BE211022",
+    "qs:level":"locality",
+    "qs:loc":"Welle",
+    "qs:loc_alt":"Welle",
+    "qs:pop":0,
+    "qs:source":"LCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"suburbs point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":75,
+    "wof:belongsto":[
+        85681733,
+        102191581,
+        1108830457,
+        85632997,
+        404227357,
+        102049967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2783868,
+        "gp:id":978774,
+        "qs:id":213854,
+        "qs_pg:id":213854,
+        "wd:id":"Q3472348"
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"22376fb4f80db85c9cf097b150309168",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049967,
+            "localadmin_id":1108830457,
+            "locality_id":101755349,
+            "macroregion_id":404227357,
+            "region_id":85681733
+        }
+    ],
+    "wof:id":101755349,
+    "wof:lastmodified":1527641700,
+    "wof:name":"Welle",
+    "wof:parent_id":1108830457,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.03655853491131,
+    50.88731885380724,
+    4.06200518886578,
+    50.9062508778469
+],
+  "geometry": {"coordinates":[[[4.05891484172389,50.89187399217491],[4.05888976314998,50.89206993830766],[4.0546378644143,50.89185106410247],[4.05475256513398,50.89095555599977],[4.05191804046495,50.8908095563142],[4.05168852539987,50.89260056571226],[4.04885390892872,50.89245449014635],[4.04873908909508,50.89334999108979],[4.04165248429024,50.8929844903725],[4.04188238882938,50.89119350430047],[4.04046513421349,50.89112035532543],[4.04081003091846,50.88843387843934],[4.03939286148955,50.88836071696301],[4.03950784309956,50.88746522558347],[4.03667357057799,50.88731885380724],[4.03655853491131,50.88821434195046],[4.03797569615335,50.8882875381334],[4.03786068201896,50.88918302754371],[4.0392778743842,50.88925620799154],[4.03870285642881,50.89373365787083],[4.04012018805759,50.8938068290546],[4.0389700102557,50.90276171870022],[4.04038761641687,50.90283488871017],[4.04027259544705,50.9037303773664],[4.04169023275415,50.90380353163499],[4.04157523333794,50.90469902155951],[4.04441057434525,50.90484528125154],[4.04452551965647,50.90394978809138],[4.04877848070754,50.90416904257387],[4.04873352579824,50.90451950084781],[4.05675158448673,50.90300257082549],[4.05896633927392,50.9062508778469],[4.06200518886578,50.90037576863585],[4.06128878826866,50.89368936306209],[4.05891484172389,50.89187399217491]]],"type":"Polygon"}
+}

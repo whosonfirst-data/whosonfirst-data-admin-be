@@ -1,0 +1,103 @@
+{
+  "id": 1126009227,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.35456,50.62185,3.35456,50.62185",
+    "geom:latitude":50.62185,
+    "geom:longitude":3.35456,
+    "gn:gn_country":"BE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"BE",
+    "lbl:latitude":50.62185,
+    "lbl:longitude":3.35456,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Froyennes"
+    ],
+    "name:eng_x_preferred":[
+        "Froyennes"
+    ],
+    "name:fre_x_preferred":[
+        "Froyennes"
+    ],
+    "name:hun_x_preferred":[
+        "Froyennes"
+    ],
+    "qs_pg:aaroncc":"BE",
+    "qs_pg:gn_country":"BE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2797903,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Froyennes",
+    "qs_pg:name_adm0":"Belgique",
+    "qs_pg:name_adm1":"Hainaut",
+    "qs_pg:photos":40,
+    "qs_pg:photos_1k":8,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":40,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":114247,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424757,
+    "qs_pg:woe_id":969855,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424757,
+    "woe:name_adm0":"Belgique",
+    "woe:name_adm1":"Hainaut",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85681723,
+        102191581,
+        85632997,
+        404227353,
+        102049951
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2797903,
+        "gp:id":969855,
+        "qs_pg:id":114247,
+        "wd:id":"Q2010088"
+    },
+    "wof:country":"BE",
+    "wof:created":1497300166,
+    "wof:geomhash":"af92e9f2bbe5186574cd9c1ea0f014e8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049951,
+            "locality_id":1126009227,
+            "macroregion_id":404227353,
+            "region_id":85681723
+        }
+    ],
+    "wof:id":1126009227,
+    "wof:lastmodified":1513899272,
+    "wof:name":"Froyennes",
+    "wof:parent_id":102049951,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.35456,
+    50.62185,
+    3.35456,
+    50.62185
+],
+  "geometry": {"coordinates":[3.35456,50.62185],"type":"Point"}
+}

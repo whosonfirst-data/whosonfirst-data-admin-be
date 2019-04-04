@@ -1,0 +1,89 @@
+{
+  "id": 101913541,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000002,
+    "geom:area_square_m":16257.20986,
+    "geom:bbox":"5.18768099533,51.1972703037,5.18914127843,51.2012867885",
+    "geom:latitude":51.199934,
+    "geom:longitude":5.188515,
+    "iso:country":"BE",
+    "lbl:latitude":51.200441,
+    "lbl:longitude":5.188404,
+    "mps:latitude":51.200441,
+    "mps:longitude":5.188404,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Wezel"
+    ],
+    "name:eng_x_preferred":[
+        "Wezel"
+    ],
+    "name:fre_x_preferred":[
+        "Wezel"
+    ],
+    "qs:a0":"Belgi\u00eb#Belgique#Belgien",
+    "qs:a1":"*Antwerpen",
+    "qs:a1r":"0Vlaams Gewest",
+    "qs:a2":"Turnhout",
+    "qs:adm0":"Belgi\u00eb#Belgique#Belgien",
+    "qs:la":"Bergeijk",
+    "qs:la_lc":"*NL301724",
+    "qs:level":"locality",
+    "qs:loc":"Wezel",
+    "qs:loc_alt":"Wezel",
+    "qs:pop":0,
+    "qs:source":"LCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-multi-in-poly-resolved",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        85681715,
+        102191581,
+        1108830443,
+        85632997,
+        404227357,
+        102050007
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2783744,
+        "gp:id":978855,
+        "qs:id":7,
+        "wd:id":"Q2180996"
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"59d7e7ed9590da1ed5c79a3985868081",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102050007,
+            "localadmin_id":1108830443,
+            "locality_id":101913541,
+            "macroregion_id":404227357,
+            "region_id":85681715
+        }
+    ],
+    "wof:id":101913541,
+    "wof:lastmodified":1513899581,
+    "wof:name":"Wezel",
+    "wof:parent_id":1108830443,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.18768099532855,
+    51.19727030369114,
+    5.18914127842993,
+    51.20128678853342
+],
+  "geometry": {"coordinates":[[[5.18914127842993,51.19727030369114],[5.18768099532855,51.20124368690415],[5.18872127843991,51.20128678853342],[5.18914127842993,51.19727030369114]]],"type":"Polygon"}
+}

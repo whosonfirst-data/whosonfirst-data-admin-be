@@ -1,0 +1,72 @@
+{
+  "id": 1243103869,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.16667,50.91667,4.16667,50.91667",
+    "geom:latitude":50.91667,
+    "geom:longitude":4.16667,
+    "gn:admin1_code":"WAL",
+    "gn:admin2_code":"WHT",
+    "gn:asciiname":"Vogelzang",
+    "gn:country_code":"BE",
+    "gn:dem":57,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2784437,
+    "gn:latitude":50.91667,
+    "gn:longitude":4.16667,
+    "gn:modification_date":"2010-03-06",
+    "gn:name":"Vogelzang",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681731,
+        102191581,
+        1108830421,
+        85632997,
+        404227357,
+        102049973
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2784437
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"2404cd4d366fb8a9ea83b9669a5aec2d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049973,
+            "localadmin_id":1108830421,
+            "locality_id":1243103869,
+            "macroregion_id":404227357,
+            "region_id":85681731
+        }
+    ],
+    "wof:id":1243103869,
+    "wof:lastmodified":1536802203,
+    "wof:name":"Vogelzang",
+    "wof:parent_id":1108830421,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.16667,
+    50.91667,
+    4.16667,
+    50.91667
+],
+  "geometry": {"coordinates":[4.16667,50.91667],"type":"Point"}
+}

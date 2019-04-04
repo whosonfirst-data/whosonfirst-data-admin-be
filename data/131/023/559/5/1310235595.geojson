@@ -1,0 +1,72 @@
+{
+  "id": 1310235595,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.36667,50.08333,4.36667,50.08333",
+    "geom:latitude":50.08333,
+    "geom:longitude":4.36667,
+    "gn:admin1_code":"WAL",
+    "gn:admin2_code":"WHT",
+    "gn:admin3_code":"56.0",
+    "gn:admin4_code":"56016.0",
+    "gn:asciiname":"Pre Colot",
+    "gn:country_code":"BE",
+    "gn:dem":223,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2788644,
+    "gn:latitude":50.08333,
+    "gn:longitude":4.36667,
+    "gn:modification_date":"2017-03-25",
+    "gn:name":"Pr\u00e9 Colot",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681723,
+        102191581,
+        85632997,
+        404227353,
+        102049923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2788644
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"3c8b5b79039d04538591bf1c46b993ce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049923,
+            "locality_id":1310235595,
+            "macroregion_id":404227353,
+            "region_id":85681723
+        }
+    ],
+    "wof:id":1310235595,
+    "wof:lastmodified":1536808565,
+    "wof:name":"Pre Colot",
+    "wof:parent_id":102049923,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.36667,
+    50.08333,
+    4.36667,
+    50.08333
+],
+  "geometry": {"coordinates":[4.36667,50.08333],"type":"Point"}
+}

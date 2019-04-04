@@ -1,0 +1,72 @@
+{
+  "id": 1259817463,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.09415,50.65673,5.09415,50.65673",
+    "geom:latitude":50.65673,
+    "geom:longitude":5.09415,
+    "gn:admin1_code":"WAL",
+    "gn:admin2_code":"WLG",
+    "gn:admin3_code":"64.0",
+    "gn:admin4_code":"64034.0",
+    "gn:asciiname":"Villers-le-Peuplier",
+    "gn:country_code":"BE",
+    "gn:dem":143,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2784635,
+    "gn:latitude":50.65673,
+    "gn:longitude":5.09415,
+    "gn:modification_date":"2012-02-02",
+    "gn:name":"Villers-le-Peuplier",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681691,
+        102191581,
+        85632997,
+        404227353,
+        102049937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2784635
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"71e4ef59a813355127e7d0dea14dd790",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049937,
+            "locality_id":1259817463,
+            "macroregion_id":404227353,
+            "region_id":85681691
+        }
+    ],
+    "wof:id":1259817463,
+    "wof:lastmodified":1536873406,
+    "wof:name":"Villers-le-Peuplier",
+    "wof:parent_id":102049937,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.09415,
+    50.65673,
+    5.09415,
+    50.65673
+],
+  "geometry": {"coordinates":[5.09415,50.65673],"type":"Point"}
+}

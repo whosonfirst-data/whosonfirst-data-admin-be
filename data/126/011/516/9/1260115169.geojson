@@ -1,0 +1,74 @@
+{
+  "id": 1260115169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.54629,50.94112,5.54629,50.94112",
+    "geom:latitude":50.94112,
+    "geom:longitude":5.54629,
+    "gn:admin1_code":"VLG",
+    "gn:admin2_code":"VLI",
+    "gn:admin3_code":"71.0",
+    "gn:admin4_code":"71067.0",
+    "gn:asciiname":"Papendaal",
+    "gn:country_code":"BE",
+    "gn:dem":87,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2789323,
+    "gn:latitude":50.94112,
+    "gn:longitude":5.54629,
+    "gn:modification_date":"2016-08-02",
+    "gn:name":"Papendaal",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681705,
+        102191581,
+        1108830605,
+        85632997,
+        404227357,
+        102049975
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2789323
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"c95a85bb4d692a513b49da3435088567",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049975,
+            "localadmin_id":1108830605,
+            "locality_id":1260115169,
+            "macroregion_id":404227357,
+            "region_id":85681705
+        }
+    ],
+    "wof:id":1260115169,
+    "wof:lastmodified":1536943011,
+    "wof:name":"Papendaal",
+    "wof:parent_id":1108830605,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.54629,
+    50.94112,
+    5.54629,
+    50.94112
+],
+  "geometry": {"coordinates":[5.54629,50.94112],"type":"Point"}
+}

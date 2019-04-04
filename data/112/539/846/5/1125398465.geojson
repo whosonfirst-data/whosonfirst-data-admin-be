@@ -1,0 +1,75 @@
+{
+  "id": 1125398465,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2017-05-19",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.08667,51.06546,5.08667,51.06546",
+    "geom:latitude":51.06546,
+    "geom:longitude":5.08667,
+    "gn:gn_country":"BE",
+    "gn:gn_fcode":"ADM4",
+    "gn:gn_pop":17851,
+    "gn:population":17851,
+    "iso:country":"BE",
+    "lbl:latitude":51.06546,
+    "lbl:longitude":5.08667,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:unk_x_variant":[
+        "Tessenderloo"
+    ],
+    "qs_pg:aaroncc":"BE",
+    "qs_pg:gn_country":"BE",
+    "qs_pg:gn_fcode":"ADM4",
+    "qs_pg:gn_id":2785613,
+    "qs_pg:gn_pop":17851,
+    "qs_pg:name":"Tessenderlo",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":6,
+    "qs_pg:qs_id":1062711,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85632997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2785613,
+        "qs_pg:id":1062711
+    },
+    "wof:country":"BE",
+    "wof:created":1497049165,
+    "wof:geomhash":"8268e93b2df2054c31936b0705b074e6",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "localadmin_id":1125398465
+        }
+    ],
+    "wof:id":1125398465,
+    "wof:lastmodified":1505185639,
+    "wof:name":"Tessenderlo",
+    "wof:parent_id":-1,
+    "wof:placetype":"localadmin",
+    "wof:population":17851,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.08667,
+    51.06546,
+    5.08667,
+    51.06546
+],
+  "geometry": {"coordinates":[5.08667,51.06546],"type":"Point"}
+}

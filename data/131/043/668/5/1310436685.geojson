@@ -1,0 +1,74 @@
+{
+  "id": 1310436685,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.20238,50.95638,4.20238,50.95638",
+    "geom:latitude":50.95638,
+    "geom:longitude":4.20238,
+    "gn:admin1_code":"VLG",
+    "gn:admin2_code":"VBR",
+    "gn:admin3_code":"23.0",
+    "gn:admin4_code":"23060.0",
+    "gn:asciiname":"Mansteen",
+    "gn:country_code":"BE",
+    "gn:dem":28,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2791784,
+    "gn:latitude":50.95638,
+    "gn:longitude":4.20238,
+    "gn:modification_date":"2016-08-02",
+    "gn:name":"Mansteen",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681731,
+        102191581,
+        1108830247,
+        85632997,
+        404227357,
+        102049973
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2791784
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"88a88ba71478686f3e7a238f755a4bd2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049973,
+            "localadmin_id":1108830247,
+            "locality_id":1310436685,
+            "macroregion_id":404227357,
+            "region_id":85681731
+        }
+    ],
+    "wof:id":1310436685,
+    "wof:lastmodified":1537015595,
+    "wof:name":"Mansteen",
+    "wof:parent_id":1108830247,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.20238,
+    50.95638,
+    4.20238,
+    50.95638
+],
+  "geometry": {"coordinates":[4.20238,50.95638],"type":"Point"}
+}

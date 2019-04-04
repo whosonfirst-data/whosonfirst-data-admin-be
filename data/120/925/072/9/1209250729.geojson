@@ -1,0 +1,64 @@
+{
+  "id": 1209250729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.73149,50.62251,3.73149,50.62251",
+    "geom:latitude":50.62251,
+    "geom:longitude":3.73149,
+    "gn:admin1_code":"WAL",
+    "gn:admin2_code":"WHT",
+    "gn:admin3_code":"51.0",
+    "gn:admin4_code":"51004.0",
+    "gn:asciiname":"Villers-Saint-Amand",
+    "gn:country_code":"BE",
+    "gn:dem":43,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2784621,
+    "gn:latitude":50.62251,
+    "gn:longitude":3.73149,
+    "gn:modification_date":"2017-03-25",
+    "gn:name":"Villers-Saint-Amand",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2784621
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"ee3291e76ec518a572709f530bf17675",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "locality_id":1209250729
+        }
+    ],
+    "wof:id":1209250729,
+    "wof:lastmodified":1536293013,
+    "wof:name":"Villers-Saint-Amand",
+    "wof:parent_id":85632997,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.73149,
+    50.62251,
+    3.73149,
+    50.62251
+],
+  "geometry": {"coordinates":[3.73149,50.62251],"type":"Point"}
+}

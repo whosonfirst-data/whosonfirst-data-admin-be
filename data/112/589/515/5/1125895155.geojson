@@ -1,0 +1,112 @@
+{
+  "id": 1125895155,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.01121,50.51233,4.01121,50.51233",
+    "geom:latitude":50.51233,
+    "geom:longitude":4.01121,
+    "gn:gn_country":"BE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"BE",
+    "lbl:latitude":50.51233,
+    "lbl:longitude":4.01121,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Casteau"
+    ],
+    "name:eng_x_preferred":[
+        "Casteau"
+    ],
+    "name:fre_x_preferred":[
+        "Casteau"
+    ],
+    "name:hun_x_preferred":[
+        "Casteau"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ab\u30b9\u30c8\u30fc"
+    ],
+    "name:swe_x_preferred":[
+        "Casteau"
+    ],
+    "name:wln_x_preferred":[
+        "Castea"
+    ],
+    "qs_pg:aaroncc":"BE",
+    "qs_pg:gn_country":"BE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2800629,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Casteau",
+    "qs_pg:name_adm0":"Belgique",
+    "qs_pg:name_adm1":"Hainaut",
+    "qs_pg:photos":73,
+    "qs_pg:photos_1k":15,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":73,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":4281,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424757,
+    "qs_pg:woe_id":968166,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424757,
+    "woe:name_adm0":"Belgique",
+    "woe:name_adm1":"Hainaut",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85681723,
+        102191581,
+        85632997,
+        404227353,
+        102049943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2800629,
+        "gp:id":968166,
+        "qs_pg:id":4281,
+        "wd:id":"Q2941349"
+    },
+    "wof:country":"BE",
+    "wof:created":1497295515,
+    "wof:geomhash":"c32fb9bb0af2d534a6e402ed4eacc25a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049943,
+            "locality_id":1125895155,
+            "macroregion_id":404227353,
+            "region_id":85681723
+        }
+    ],
+    "wof:id":1125895155,
+    "wof:lastmodified":1513899209,
+    "wof:name":"Casteau",
+    "wof:parent_id":102049943,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.01121,
+    50.51233,
+    4.01121,
+    50.51233
+],
+  "geometry": {"coordinates":[4.01121,50.51233],"type":"Point"}
+}

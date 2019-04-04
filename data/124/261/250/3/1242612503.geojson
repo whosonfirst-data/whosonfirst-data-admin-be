@@ -1,0 +1,74 @@
+{
+  "id": 1242612503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.82486,50.8216,4.82486,50.8216",
+    "geom:latitude":50.8216,
+    "geom:longitude":4.82486,
+    "gn:admin1_code":"VLG",
+    "gn:admin2_code":"VBR",
+    "gn:admin3_code":"24.0",
+    "gn:admin4_code":"24016.0",
+    "gn:asciiname":"Redingen",
+    "gn:country_code":"BE",
+    "gn:dem":76,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2788280,
+    "gn:latitude":50.8216,
+    "gn:longitude":4.82486,
+    "gn:modification_date":"2016-08-02",
+    "gn:name":"Redingen",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681731,
+        102191581,
+        1108830471,
+        85632997,
+        404227357,
+        102049969
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2788280
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"66e24a24974d040ea61b88fe02e74fdc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049969,
+            "localadmin_id":1108830471,
+            "locality_id":1242612503,
+            "macroregion_id":404227357,
+            "region_id":85681731
+        }
+    ],
+    "wof:id":1242612503,
+    "wof:lastmodified":1537012668,
+    "wof:name":"Redingen",
+    "wof:parent_id":1108830471,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.82486,
+    50.8216,
+    4.82486,
+    50.8216
+],
+  "geometry": {"coordinates":[4.82486,50.8216],"type":"Point"}
+}

@@ -1,0 +1,132 @@
+{
+  "id": 101755681,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00036,
+    "geom:area_square_m":2805006.735962,
+    "geom:bbox":"3.70050345459,50.9920186493,3.72748167167,51.0159385",
+    "geom:latitude":51.004704,
+    "geom:longitude":3.712125,
+    "iso:country":"BE",
+    "lbl:latitude":51.005548,
+    "lbl:longitude":3.711205,
+    "mps:latitude":51.005548,
+    "mps:longitude":3.711205,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bre_x_preferred":[
+        "Zwijnaarde"
+    ],
+    "name:ceb_x_preferred":[
+        "Zwijnaarde"
+    ],
+    "name:deu_x_preferred":[
+        "Zwijnaarde"
+    ],
+    "name:dut_x_preferred":[
+        "Zwijnaarde"
+    ],
+    "name:eng_x_preferred":[
+        "Zwijnaarde"
+    ],
+    "name:fra_x_preferred":[
+        "Zwijnaarde"
+    ],
+    "name:fre_x_preferred":[
+        "Zwijnaarde"
+    ],
+    "name:ger_x_preferred":[
+        "Zwijnaarde"
+    ],
+    "name:hun_x_preferred":[
+        "Zwijnaarde"
+    ],
+    "name:nld_x_preferred":[
+        "Zwijnaarde"
+    ],
+    "name:rus_x_preferred":[
+        "\u0417\u0432\u0435\u0439\u043d\u0430\u0440\u0434\u0435"
+    ],
+    "name:sco_x_preferred":[
+        "Zwijnaarde"
+    ],
+    "name:spa_x_preferred":[
+        "Zwijnaarde"
+    ],
+    "name:swe_x_preferred":[
+        "Zwijnaarde"
+    ],
+    "name:unk_x_variant":[
+        "Zwynaerde"
+    ],
+    "qs:a0":"Belgi\u00eb#Belgique#Belgien",
+    "qs:a1":"*Oost-Vlanderen",
+    "qs:a1r":"0Vlaams Gewest",
+    "qs:a2":"Gent",
+    "qs:adm0":"Belgi\u00eb#Belgique#Belgien",
+    "qs:la":"Kalmthout",
+    "qs:la_lc":"*BE211022",
+    "qs:level":"locality",
+    "qs:loc":"Zwijnaarde",
+    "qs:loc_alt":"Zwijnaarde",
+    "qs:pop":0,
+    "qs:source":"LCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"suburbs point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "wd:latitude":51.0006,
+    "wd:longitude":3.7133,
+    "wd:wordcount":145,
+    "wof:belongsto":[
+        85681733,
+        102191581,
+        1108830083,
+        85632997,
+        404227357,
+        102049989
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2783084,
+        "gp:id":979265,
+        "qs:id":1145653,
+        "qs_pg:id":1145653,
+        "wd:id":"Q2176982",
+        "wk:page":"Zwijnaarde"
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"2469a48536300407d58724f1b281e66c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049989,
+            "localadmin_id":1108830083,
+            "locality_id":101755681,
+            "macroregion_id":404227357,
+            "region_id":85681733
+        }
+    ],
+    "wof:id":101755681,
+    "wof:lastmodified":1527641697,
+    "wof:name":"Zwijnaarde",
+    "wof:parent_id":1108830083,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.70050345458588,
+    50.99201864927892,
+    3.72748167167214,
+    51.01593849999983
+],
+  "geometry": {"coordinates":[[[3.72748167167214,51.00347733126279],[3.72278211853654,51.00322239468392],[3.72302515968516,51.00143221766751],[3.72018481073962,51.00127803249643],[3.7204279371951,50.99948786087145],[3.71758771419218,50.99933361298162],[3.71807411438397,50.99575327906712],[3.71665411796056,50.99567613588158],[3.71714053353611,50.99209580300857],[3.71572064999862,50.99201864927892],[3.7153557656448,50.99470389434521],[3.70683606717489,50.99424057604472],[3.70695786393225,50.99334550499219],[3.70553795653063,50.99326822613511],[3.70492877872698,50.99774356919716],[3.70208870559867,50.99758894218161],[3.70184488506692,50.99937907000549],[3.70326497373844,50.99945639563691],[3.70204579217938,51.00840703012261],[3.70062543201919,51.00832968733835],[3.70050345458588,51.00922474707539],[3.70192384190176,51.00930209157548],[3.70167992382062,51.01109221339334],[3.70310036980669,51.01116954393143],[3.70285945193171,51.01293783077421],[3.70597349999986,51.01282199999974],[3.705921,51.01391649999988],[3.708448,51.01448899999986],[3.70969849999989,51.01593849999983],[3.71426449999984,51.01427899999987],[3.72108099999986,51.01389599999982],[3.719468,51.01087849999988],[3.71977399999986,51.008086],[3.721432,51.00689099999983],[3.72697949999991,51.00600149999997],[3.72620349999983,51.00492899999983],[3.72748167167214,51.00347733126279]]],"type":"Polygon"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1209348277,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.83333,50.93333,4.83333,50.93333",
+    "geom:latitude":50.93333,
+    "geom:longitude":4.83333,
+    "gn:admin1_code":"VLG",
+    "gn:admin2_code":"VBR",
+    "gn:admin3_code":"24.0",
+    "gn:admin4_code":"24043.0",
+    "gn:asciiname":"Baronsheide",
+    "gn:country_code":"BE",
+    "gn:dem":26,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2802670,
+    "gn:latitude":50.93333,
+    "gn:longitude":4.83333,
+    "gn:modification_date":"2016-08-02",
+    "gn:name":"Baronsheide",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2802670
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"1d2c36225827d8e542f41506ef57336c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "locality_id":1209348277
+        }
+    ],
+    "wof:id":1209348277,
+    "wof:lastmodified":1536289835,
+    "wof:name":"Baronsheide",
+    "wof:parent_id":85632997,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.83333,
+    50.93333,
+    4.83333,
+    50.93333
+],
+  "geometry": {"coordinates":[4.83333,50.93333],"type":"Point"}
+}

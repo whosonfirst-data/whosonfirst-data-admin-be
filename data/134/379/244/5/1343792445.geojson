@@ -1,0 +1,78 @@
+{
+  "id": 1343792445,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.72181,50.89518,2.72181,50.89518",
+    "geom:latitude":50.89518,
+    "geom:longitude":2.72181,
+    "gn:admin1_code":"VLG",
+    "gn:admin2_code":"VWV",
+    "gn:admin3_code":"33.0",
+    "gn:admin4_code":"33041.0",
+    "gn:asciiname":"Sint-Sixtus",
+    "gn:country_code":"BE",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2786550,
+    "gn:latitude":50.89518,
+    "gn:longitude":2.72181,
+    "gn:modification_date":"2016-08-02",
+    "gn:name":"Sint-Sixtus",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sint Sixte",
+        "Sint-Sixtus"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681709,
+        102191581,
+        1108830565,
+        85632997,
+        404227357,
+        102049971
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2786550
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"501cb1fa97b54944b84912b66bd40064",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049971,
+            "localadmin_id":1108830565,
+            "locality_id":1343792445,
+            "macroregion_id":404227357,
+            "region_id":85681709
+        }
+    ],
+    "wof:id":1343792445,
+    "wof:lastmodified":1537586914,
+    "wof:name":"Sint-Sixtus",
+    "wof:parent_id":1108830565,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.72181,
+    50.89518,
+    2.72181,
+    50.89518
+],
+  "geometry": {"coordinates":[2.72181,50.89518],"type":"Point"}
+}

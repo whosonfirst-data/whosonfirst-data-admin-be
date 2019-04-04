@@ -1,0 +1,90 @@
+{
+  "id": 1125417621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2017-05-19",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.21936,50.1626,5.21936,50.1626",
+    "geom:latitude":50.1626,
+    "geom:longitude":5.21936,
+    "gn:gn_country":"BE",
+    "gn:gn_fcode":"ADM4",
+    "gn:gn_pop":12338,
+    "gn:population":12338,
+    "iso:country":"BE",
+    "lbl:latitude":50.1626,
+    "lbl:longitude":5.21936,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bul_x_preferred":[
+        "\u0420\u043e\u0448\u0444\u043e\u0440"
+    ],
+    "name:fas_x_preferred":[
+        "\u0631\u0634\u0641\u0631"
+    ],
+    "name:kor_x_preferred":[
+        "\ub85c\uc288\ud3ec\ub974"
+    ],
+    "name:rus_x_preferred":[
+        "\u0420\u043e\u0448\u0444\u043e\u0440"
+    ],
+    "name:wln_x_preferred":[
+        "Rotchfoirt"
+    ],
+    "name:zho_x_preferred":[
+        "\u7f57\u4ec0\u798f\u5c14"
+    ],
+    "qs_pg:aaroncc":"BE",
+    "qs_pg:gn_country":"BE",
+    "qs_pg:gn_fcode":"ADM4",
+    "qs_pg:gn_id":2787949,
+    "qs_pg:gn_pop":12338,
+    "qs_pg:name":"Rochefort",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":6,
+    "qs_pg:qs_id":92577,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85632997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2787949,
+        "qs_pg:id":92577
+    },
+    "wof:country":"BE",
+    "wof:created":1497051625,
+    "wof:geomhash":"c4337da0e4eb8555e6bb16584b926d24",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "localadmin_id":1125417621
+        }
+    ],
+    "wof:id":1125417621,
+    "wof:lastmodified":1505185640,
+    "wof:name":"Rochefort",
+    "wof:parent_id":-1,
+    "wof:placetype":"localadmin",
+    "wof:population":12338,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.21936,
+    50.1626,
+    5.21936,
+    50.1626
+],
+  "geometry": {"coordinates":[5.21936,50.1626],"type":"Point"}
+}

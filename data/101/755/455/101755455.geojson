@@ -1,0 +1,110 @@
+{
+  "id": 101755455,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000336,
+    "geom:area_square_m":2623892.95167,
+    "geom:bbox":"4.23680764296,50.8667049406,4.2739765,50.8806125664",
+    "geom:latitude":50.873045,
+    "geom:longitude":4.255656,
+    "iso:country":"BE",
+    "lbl:latitude":50.87134,
+    "lbl:longitude":4.257009,
+    "mps:latitude":50.87134,
+    "mps:longitude":4.257009,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:chi_x_preferred":[
+        "\u683c\u9b6f\u7279-\u62dc\u5609\u767b"
+    ],
+    "name:dut_x_preferred":[
+        "Groot-Bijgaarden"
+    ],
+    "name:eng_x_preferred":[
+        "Groot-Bijgaarden"
+    ],
+    "name:fra_x_preferred":[
+        "Grand-Bigard"
+    ],
+    "name:fre_x_preferred":[
+        "Grand-Bigard"
+    ],
+    "name:hun_x_preferred":[
+        "Groot-Bijgaarden"
+    ],
+    "name:nld_x_preferred":[
+        "Groot-Bijgaarden"
+    ],
+    "name:unk_x_variant":[
+        "Dilbeek (Groot-Bijgaarden)"
+    ],
+    "qs:a0":"Belgi\u00eb#Belgique#Belgien",
+    "qs:a1":"*Vlaams Brabant",
+    "qs:a1r":"0Vlaams Gewest",
+    "qs:a2":"Halle-Vilvoorde",
+    "qs:adm0":"Belgi\u00eb#Belgique#Belgien",
+    "qs:la":"Kalmthout",
+    "qs:la_lc":"*BE211022",
+    "qs:level":"locality",
+    "qs:loc":"Groot-Bijgaarden",
+    "qs:loc_alt":"Groot-Bijgaarden",
+    "qs:pop":0,
+    "qs:source":"LCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"suburbs point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "wd:latitude":50.871389,
+    "wd:longitude":4.252778,
+    "wd:wordcount":268,
+    "wof:belongsto":[
+        85681731,
+        102191581,
+        1108830207,
+        85632997,
+        404227357,
+        102049973
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2797051,
+        "gp:id":970386,
+        "qs:id":1145497,
+        "qs_pg:id":1145497,
+        "wd:id":"Q2168341"
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"19ab1ad34d8ec4d824615980460da19b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049973,
+            "localadmin_id":1108830207,
+            "locality_id":101755455,
+            "macroregion_id":404227357,
+            "region_id":85681731
+        }
+    ],
+    "wof:id":101755455,
+    "wof:lastmodified":1527641698,
+    "wof:name":"Groot-Bijgaarden",
+    "wof:parent_id":1108830207,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.23680764296165,
+    50.86670494056847,
+    4.27397649999989,
+    50.88061256638321
+],
+  "geometry": {"coordinates":[[[4.26001061699765,50.88061256638321],[4.26012132151698,50.87971682320898],[4.26576113512368,50.87999709398019],[4.26498300000077,50.8785130000029],[4.27397649999989,50.87657900000289],[4.27098800000095,50.87346200000292],[4.26913150000047,50.86949900000297],[4.26948091927892,50.86778861624566],[4.25734375169554,50.86670494056847],[4.25027877251165,50.86707678157819],[4.25000369827501,50.86929950776334],[4.2457531293968,50.86908767716352],[4.24594018258881,50.8675773141095],[4.23720314570869,50.86905816781797],[4.23680764296165,50.87224642696282],[4.23964152044135,50.87238788544795],[4.23930828542382,50.87507505087484],[4.23741362946743,50.87498046285901],[4.23908560274356,50.87687051960552],[4.23908610220479,50.87686649278646],[4.24050318205701,50.87693720381424],[4.24061424928141,50.87604148146585],[4.25195081402791,50.87660653239118],[4.25161824542698,50.8792937358923],[4.2487839182931,50.87915256793093],[4.24867299740782,50.88004829862905],[4.26001061699765,50.88061256638321]],[[4.25598054609026,50.87860961881893],[4.25631285542266,50.87592240026089],[4.26056408669439,50.87613384711148],[4.26023202074703,50.8788210796946],[4.25598054609026,50.87860961881893]]],"type":"Polygon"}
+}

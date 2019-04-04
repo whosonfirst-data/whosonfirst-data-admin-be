@@ -1,0 +1,113 @@
+{
+  "id": 1126003133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.77741,49.65178,5.77741,49.65178",
+    "geom:latitude":49.65178,
+    "geom:longitude":5.77741,
+    "gn:gn_country":"BE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"BE",
+    "lbl:latitude":49.65178,
+    "lbl:longitude":5.77741,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bul_x_preferred":[
+        "\u0422\u043e\u0435\u0440\u043d\u0438\u0447"
+    ],
+    "name:dut_x_preferred":[
+        "Toernich"
+    ],
+    "name:eng_x_preferred":[
+        "Toernich"
+    ],
+    "name:est_x_preferred":[
+        "Toernich"
+    ],
+    "name:fre_x_preferred":[
+        "Toernich"
+    ],
+    "name:hun_x_preferred":[
+        "Toernich"
+    ],
+    "name:swe_x_preferred":[
+        "Toernich"
+    ],
+    "name:wln_x_preferred":[
+        "Tournich"
+    ],
+    "qs_pg:aaroncc":"BE",
+    "qs_pg:gn_country":"BE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2785408,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Toernich",
+    "qs_pg:name_adm0":"Belgique",
+    "qs_pg:name_adm1":"Luxembourg",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":20,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":293279,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424757,
+    "qs_pg:woe_id":977832,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424757,
+    "woe:name_adm0":"Belgique",
+    "woe:name_adm1":"Luxembourg",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85681727,
+        102191581,
+        85632997,
+        404227353,
+        102049909
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2785408,
+        "gp:id":977832,
+        "qs_pg:id":293279,
+        "wd:id":"Q2376927"
+    },
+    "wof:country":"BE",
+    "wof:created":1497299773,
+    "wof:geomhash":"cd457fbe1d2585e4545e05d5a25d99c1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049909,
+            "locality_id":1126003133,
+            "macroregion_id":404227353,
+            "region_id":85681727
+        }
+    ],
+    "wof:id":1126003133,
+    "wof:lastmodified":1513899530,
+    "wof:name":"Toernich",
+    "wof:parent_id":102049909,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.77741,
+    49.65178,
+    5.77741,
+    49.65178
+],
+  "geometry": {"coordinates":[5.77741,49.65178],"type":"Point"}
+}

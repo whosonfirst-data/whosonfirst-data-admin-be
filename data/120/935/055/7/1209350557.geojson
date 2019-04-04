@@ -1,0 +1,66 @@
+{
+  "id": 1209350557,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.96667,50.71667,3.96667,50.71667",
+    "geom:latitude":50.71667,
+    "geom:longitude":3.96667,
+    "gn:admin1_code":"WAL",
+    "gn:admin2_code":"WHT",
+    "gn:asciiname":"Heisbroek",
+    "gn:country_code":"BE",
+    "gn:dem":47,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2796164,
+    "gn:latitude":50.71667,
+    "gn:longitude":3.96667,
+    "gn:modification_date":"2010-08-09",
+    "gn:name":"Heisbroek",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Heysbroek",
+        "Heisbroek"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2796164
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"c19304d22d03184dae1c5e744b16fc26",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "locality_id":1209350557
+        }
+    ],
+    "wof:id":1209350557,
+    "wof:lastmodified":1537587020,
+    "wof:name":"Heisbroek",
+    "wof:parent_id":85632997,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.96667,
+    50.71667,
+    3.96667,
+    50.71667
+],
+  "geometry": {"coordinates":[3.96667,50.71667],"type":"Point"}
+}

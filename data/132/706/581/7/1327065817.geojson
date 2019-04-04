@@ -1,0 +1,72 @@
+{
+  "id": 1327065817,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.63333,50.26667,5.63333,50.26667",
+    "geom:latitude":50.26667,
+    "geom:longitude":5.63333,
+    "gn:admin1_code":"WAL",
+    "gn:admin2_code":"WLX",
+    "gn:admin3_code":"83.0",
+    "gn:admin4_code":"83055.0",
+    "gn:asciiname":"Moulin de la Fosse",
+    "gn:country_code":"BE",
+    "gn:dem":401,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2790606,
+    "gn:latitude":50.26667,
+    "gn:longitude":5.63333,
+    "gn:modification_date":"2017-03-25",
+    "gn:name":"Moulin de la Fosse",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681727,
+        102191581,
+        85632997,
+        404227353,
+        102049921
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2790606
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"318449b655d403ce932e9fb2bbc11d5a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049921,
+            "locality_id":1327065817,
+            "macroregion_id":404227353,
+            "region_id":85681727
+        }
+    ],
+    "wof:id":1327065817,
+    "wof:lastmodified":1536712498,
+    "wof:name":"Moulin de la Fosse",
+    "wof:parent_id":102049921,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.63333,
+    50.26667,
+    5.63333,
+    50.26667
+],
+  "geometry": {"coordinates":[5.63333,50.26667],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1242711787,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.85826,50.54513,3.85826,50.54513",
+    "geom:latitude":50.54513,
+    "geom:longitude":3.85826,
+    "gn:admin1_code":"WAL",
+    "gn:admin2_code":"WHT",
+    "gn:admin3_code":"53.0",
+    "gn:admin4_code":"53044.0",
+    "gn:asciiname":"Colroy",
+    "gn:country_code":"BE",
+    "gn:dem":73,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2800208,
+    "gn:latitude":50.54513,
+    "gn:longitude":3.85826,
+    "gn:modification_date":"2017-03-25",
+    "gn:name":"Colroy",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681723,
+        102191581,
+        85632997,
+        404227353,
+        102049933
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2800208
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"41cffdedf3c076782bd6b16e1c79fbcb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049933,
+            "locality_id":1242711787,
+            "macroregion_id":404227353,
+            "region_id":85681723
+        }
+    ],
+    "wof:id":1242711787,
+    "wof:lastmodified":1536869380,
+    "wof:name":"Colroy",
+    "wof:parent_id":102049933,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.85826,
+    50.54513,
+    3.85826,
+    50.54513
+],
+  "geometry": {"coordinates":[3.85826,50.54513],"type":"Point"}
+}

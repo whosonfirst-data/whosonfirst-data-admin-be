@@ -1,0 +1,76 @@
+{
+  "id": 1260323133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.45136,49.8876,5.45136,49.8876",
+    "geom:latitude":49.8876,
+    "geom:longitude":5.45136,
+    "gn:admin1_code":"WAL",
+    "gn:admin2_code":"WLX",
+    "gn:admin3_code":"84.0",
+    "gn:admin4_code":"84043.0",
+    "gn:asciiname":"Tronquoy",
+    "gn:country_code":"BE",
+    "gn:dem":463,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2785211,
+    "gn:latitude":49.8876,
+    "gn:longitude":5.45136,
+    "gn:modification_date":"2017-03-25",
+    "gn:name":"Tronquoy",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tronquoi",
+        "Tronquoy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681727,
+        102191581,
+        85632997,
+        404227353,
+        102049913
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2785211
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"56dbd4a93db4ed377d78018cf49d3471",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049913,
+            "locality_id":1260323133,
+            "macroregion_id":404227353,
+            "region_id":85681727
+        }
+    ],
+    "wof:id":1260323133,
+    "wof:lastmodified":1537586899,
+    "wof:name":"Tronquoy",
+    "wof:parent_id":102049913,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.45136,
+    49.8876,
+    5.45136,
+    49.8876
+],
+  "geometry": {"coordinates":[5.45136,49.8876],"type":"Point"}
+}

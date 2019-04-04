@@ -1,0 +1,157 @@
+{
+  "id": 101755263,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000578,
+    "geom:area_square_m":4524240.475678,
+    "geom:bbox":"4.39024066805,50.673586091,4.42695792488,50.7090984382",
+    "geom:latitude":50.696012,
+    "geom:longitude":4.408362,
+    "iso:country":"BE",
+    "lbl:latitude":50.697064,
+    "lbl:longitude":4.408362,
+    "mps:latitude":50.697064,
+    "mps:longitude":4.408362,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bre_x_preferred":[
+        "Mont-Saint-Jean"
+    ],
+    "name:cat_x_preferred":[
+        "Mont Saint-Jean"
+    ],
+    "name:ceb_x_preferred":[
+        "Mont-Saint-Jean"
+    ],
+    "name:ces_x_preferred":[
+        "Mont-Saint-Jean"
+    ],
+    "name:deu_x_preferred":[
+        "Mont-Saint-Jean"
+    ],
+    "name:dut_x_preferred":[
+        "Mont-Saint-Jean"
+    ],
+    "name:eng_x_preferred":[
+        "Mont-Saint-Jean"
+    ],
+    "name:eus_x_preferred":[
+        "Mont-Saint-Jean"
+    ],
+    "name:fra_x_preferred":[
+        "Mont-Saint-Jean"
+    ],
+    "name:fre_x_preferred":[
+        "Mont-Saint-Jean"
+    ],
+    "name:ger_x_preferred":[
+        "Mont-Saint-Jean"
+    ],
+    "name:ita_x_preferred":[
+        "Mont-Saint-Jean"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30e2\u30f3\u30fb\u30b5\u30f3\u30fb\u30b8\u30e3\u30f3"
+    ],
+    "name:nld_x_preferred":[
+        "Mont-Saint-Jean"
+    ],
+    "name:nob_x_preferred":[
+        "Mont-Saint-Jean"
+    ],
+    "name:oci_x_preferred":[
+        "Mont-Saint-Jean"
+    ],
+    "name:pms_x_preferred":[
+        "Mont-Saint-Jean"
+    ],
+    "name:pol_x_preferred":[
+        "Mont-Saint-Jean"
+    ],
+    "name:por_x_preferred":[
+        "Mont-Saint-Jean"
+    ],
+    "name:rum_x_preferred":[
+        "Mont Saint-Jean"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u043e\u043d-\u0421\u0435\u043d-\u0416\u0430\u043d"
+    ],
+    "name:sco_x_preferred":[
+        "Mont-Saint-Jean"
+    ],
+    "name:slk_x_preferred":[
+        "Mont-Saint-Jean"
+    ],
+    "name:spa_x_preferred":[
+        "Mont-Saint-Jean"
+    ],
+    "name:swe_x_preferred":[
+        "Mont-Saint-Jean"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u043e\u043d-\u0421\u0435\u043d-\u0416\u0430\u043d"
+    ],
+    "qs:a0":"Belgi\u00eb#Belgique#Belgien",
+    "qs:a1":"*Brabant wallon",
+    "qs:a1r":"0R\u00e9gion wallone",
+    "qs:a2":"Nivelles",
+    "qs:adm0":"Belgi\u00eb#Belgique#Belgien",
+    "qs:id":0,
+    "qs:la":"Kalmthout",
+    "qs:la_lc":"*BE211022",
+    "qs:level":"locality",
+    "qs:loc":"Mont-Saint-Jean",
+    "qs:loc_alt":"Mont-Saint-Jean",
+    "qs:pop":0,
+    "qs:source":"LCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"suburbs point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":87,
+    "wof:belongsto":[
+        85681693,
+        102191581,
+        85632997,
+        404227353,
+        102049945
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2790755,
+        "gp:id":978708,
+        "wd:id":"Q3321619"
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"8ed68f303cd466d0c8f739abc0f1915d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049945,
+            "locality_id":101755263,
+            "macroregion_id":404227353,
+            "region_id":85681693
+        }
+    ],
+    "wof:id":101755263,
+    "wof:lastmodified":1553815478,
+    "wof:name":"Mont-Saint-Jean",
+    "wof:parent_id":102049945,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.39024066805075,
+    50.67358609100557,
+    4.42695792488092,
+    50.70909843820732
+],
+  "geometry": {"coordinates":[[[4.42032350818192,50.70909843820732],[4.42042496412881,50.70824919162084],[4.42324939225699,50.70838607685414],[4.42335636512098,50.70749011237518],[4.42614030759842,50.7076249145133],[4.42695792488092,50.70135651535179],[4.42551703781277,50.70128675609692],[4.42562394313541,50.70039078737921],[4.42421196473418,50.70032238424113],[4.42442581373314,50.6985304487888],[4.4230138927395,50.69846203137382],[4.42312083641298,50.6975660646392],[4.42170894601531,50.69749763144341],[4.42181591140439,50.69660166587164],[4.42040405160128,50.69653321689589],[4.42051103870455,50.6956372524869],[4.41909920949598,50.69556878773199],[4.41920621831059,50.69467282448636],[4.41779441969373,50.69460434395256],[4.41811549598356,50.69191645667803],[4.41952721419966,50.6919849326942],[4.41963420264443,50.69108896807825],[4.41398745971838,50.69081496634124],[4.41420163569916,50.68902304813025],[4.41279001303684,50.68895450750392],[4.41289712017635,50.68805854939069],[4.41148552810006,50.68798999299054],[4.41319897795353,50.67365464057355],[4.41178781817428,50.67358609100557],[4.41039539139666,50.68523355195401],[4.40616089042493,50.6850277407994],[4.40626811111485,50.68413178885174],[4.40344518302197,50.68399449803553],[4.40355245217944,50.68309854876236],[4.40214102061475,50.68302987894481],[4.40235559718531,50.68123798238514],[4.40085048887568,50.68116472745714],[4.39024066805075,50.69416549381947],[4.39086342260339,50.6941958629846],[4.39075587267212,50.69509179569536],[4.39357943651316,50.69522940229984],[4.3932569168112,50.69791720744757],[4.39184505258282,50.69784840824815],[4.39173750897822,50.69874434109698],[4.39314940001111,50.69881314180964],[4.3930418780937,50.6997090758278],[4.39445379974103,50.69977786076822],[4.39423620093629,50.70159129943164],[4.42032350818192,50.70909843820732]]],"type":"Polygon"}
+}

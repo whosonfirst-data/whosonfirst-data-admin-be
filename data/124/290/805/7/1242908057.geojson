@@ -1,0 +1,78 @@
+{
+  "id": 1242908057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.11597,51.15851,4.11597,51.15851",
+    "geom:latitude":51.15851,
+    "geom:longitude":4.11597,
+    "gn:admin1_code":"VLG",
+    "gn:admin2_code":"VOV",
+    "gn:admin3_code":"46.0",
+    "gn:admin4_code":"46021.0",
+    "gn:asciiname":"Valk",
+    "gn:country_code":"BE",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2785060,
+    "gn:latitude":51.15851,
+    "gn:longitude":4.11597,
+    "gn:modification_date":"2016-08-02",
+    "gn:name":"Valk",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Valcke",
+        "Valk"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681733,
+        102191581,
+        1108830559,
+        85632997,
+        404227357,
+        102049997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2785060
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"da980d0125589559b6fe68513ee230e9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049997,
+            "localadmin_id":1108830559,
+            "locality_id":1242908057,
+            "macroregion_id":404227357,
+            "region_id":85681733
+        }
+    ],
+    "wof:id":1242908057,
+    "wof:lastmodified":1537586896,
+    "wof:name":"Valk",
+    "wof:parent_id":1108830559,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.11597,
+    51.15851,
+    4.11597,
+    51.15851
+],
+  "geometry": {"coordinates":[4.11597,51.15851],"type":"Point"}
+}

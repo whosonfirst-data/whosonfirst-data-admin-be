@@ -1,0 +1,166 @@
+{
+  "id": 1126018893,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.79828,50.55009,4.79828,50.55009",
+    "geom:latitude":50.55009,
+    "geom:longitude":4.79828,
+    "gn:gn_country":"BE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"BE",
+    "lbl:latitude":50.55009,
+    "lbl:longitude":4.79828,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:baq_x_preferred":[
+        "La Bruy\u00e8re"
+    ],
+    "name:bre_x_preferred":[
+        "La Bruy\u00e8re"
+    ],
+    "name:bul_x_preferred":[
+        "\u041b\u0430 \u0411\u0440\u044e\u0439\u0435\u0440"
+    ],
+    "name:cat_x_preferred":[
+        "La Bruy\u00e8re"
+    ],
+    "name:chi_x_preferred":[
+        "\u62c9\u5e03\u5415\u57c3"
+    ],
+    "name:dut_x_preferred":[
+        "La Bruy\u00e8re"
+    ],
+    "name:eng_x_preferred":[
+        "La Bruy\u00e8re"
+    ],
+    "name:epo_x_preferred":[
+        "La Bruy\u00e8re"
+    ],
+    "name:fre_x_preferred":[
+        "La Bruy\u00e8re"
+    ],
+    "name:ger_x_preferred":[
+        "La Bruy\u00e8re"
+    ],
+    "name:hun_x_preferred":[
+        "La Bruy\u00e8re"
+    ],
+    "name:ita_x_preferred":[
+        "La Bruy\u00e8re"
+    ],
+    "name:lim_x_preferred":[
+        "La Bruy\u00e8re"
+    ],
+    "name:nob_x_preferred":[
+        "La Bruy\u00e8re"
+    ],
+    "name:oci_x_preferred":[
+        "La Bruy\u00e8re"
+    ],
+    "name:per_x_preferred":[
+        "\u0644\u0628\u0631\u0648\u06cc\u0631"
+    ],
+    "name:por_x_preferred":[
+        "La Bruy\u00e8re"
+    ],
+    "name:rum_x_preferred":[
+        "La Bruy\u00e8re"
+    ],
+    "name:slo_x_preferred":[
+        "La Bruy\u00e8re"
+    ],
+    "name:spa_x_preferred":[
+        "La Bruy\u00e8re"
+    ],
+    "name:swe_x_preferred":[
+        "La Bruy\u00e8re"
+    ],
+    "name:vie_x_preferred":[
+        "La Bruy\u00e8re"
+    ],
+    "name:vol_x_preferred":[
+        "La Bruy\u00e8re"
+    ],
+    "name:war_x_preferred":[
+        "La Bruy\u00e8re"
+    ],
+    "name:wln_x_preferred":[
+        "Les Brouhires"
+    ],
+    "qs_pg:aaroncc":"BE",
+    "qs_pg:gn_country":"BE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":7732187,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"La Bruyere",
+    "qs_pg:name_adm0":"Belgique",
+    "qs_pg:name_adm1":"Namur",
+    "qs_pg:photos":2,
+    "qs_pg:photos_1k":1,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":2,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1017039,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424757,
+    "qs_pg:woe_id":29374900,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424757,
+    "woe:name_adm0":"Belgique",
+    "woe:name_adm1":"Namur",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85681699,
+        102191581,
+        85632997,
+        404227353,
+        102049931
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7732187,
+        "gp:id":29374900,
+        "qs_pg:id":1017039,
+        "wd:id":"Q715422"
+    },
+    "wof:country":"BE",
+    "wof:created":1497300710,
+    "wof:geomhash":"ce747ed9cf8ec6f17c478cc3b7b008b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049931,
+            "locality_id":1126018893,
+            "macroregion_id":404227353,
+            "region_id":85681699
+        }
+    ],
+    "wof:id":1126018893,
+    "wof:lastmodified":1513899349,
+    "wof:name":"La Bruyere",
+    "wof:parent_id":102049931,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.79828,
+    50.55009,
+    4.79828,
+    50.55009
+],
+  "geometry": {"coordinates":[4.79828,50.55009],"type":"Point"}
+}

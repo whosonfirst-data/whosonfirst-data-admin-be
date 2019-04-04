@@ -1,0 +1,76 @@
+{
+  "id": 1292940449,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.99758,50.39331,4.99758,50.39331",
+    "geom:latitude":50.39331,
+    "geom:longitude":4.99758,
+    "gn:admin1_code":"WAL",
+    "gn:admin2_code":"WNA",
+    "gn:admin3_code":"92.0",
+    "gn:admin4_code":"92006.0",
+    "gn:asciiname":"Trieu d'Avillon",
+    "gn:country_code":"BE",
+    "gn:dem":279,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2785265,
+    "gn:latitude":50.39331,
+    "gn:longitude":4.99758,
+    "gn:modification_date":"2017-03-25",
+    "gn:name":"Trieu d'Avillon",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Trieu-d'Avillon-Fays",
+        "Trieu d'Avillon"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681699,
+        102191581,
+        85632997,
+        404227353,
+        102049931
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2785265
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"d4b9a214d8e6cfbdc254e78d0a23db16",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049931,
+            "locality_id":1292940449,
+            "macroregion_id":404227353,
+            "region_id":85681699
+        }
+    ],
+    "wof:id":1292940449,
+    "wof:lastmodified":1537586899,
+    "wof:name":"Trieu d'Avillon",
+    "wof:parent_id":102049931,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.99758,
+    50.39331,
+    4.99758,
+    50.39331
+],
+  "geometry": {"coordinates":[4.99758,50.39331],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1310037083,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.86667,50.33333,5.86667,50.33333",
+    "geom:latitude":50.33333,
+    "geom:longitude":5.86667,
+    "gn:admin1_code":"WAL",
+    "gn:admin2_code":"WLX",
+    "gn:admin3_code":"82.0",
+    "gn:admin4_code":"82032.0",
+    "gn:asciiname":"Legnai Thiere",
+    "gn:country_code":"BE",
+    "gn:dem":510,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2792984,
+    "gn:latitude":50.33333,
+    "gn:longitude":5.86667,
+    "gn:modification_date":"2017-03-25",
+    "gn:name":"Legnai Thi\u00e8re",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681727,
+        102191581,
+        85632997,
+        404227353,
+        102049915
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2792984
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"8aef17eb56e43674f1c6ebcabd914a0f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049915,
+            "locality_id":1310037083,
+            "macroregion_id":404227353,
+            "region_id":85681727
+        }
+    ],
+    "wof:id":1310037083,
+    "wof:lastmodified":1537091978,
+    "wof:name":"Legnai Thiere",
+    "wof:parent_id":102049915,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.86667,
+    50.33333,
+    5.86667,
+    50.33333
+],
+  "geometry": {"coordinates":[5.86667,50.33333],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1326660389,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.16667,50.56667,5.16667,50.56667",
+    "geom:latitude":50.56667,
+    "geom:longitude":5.16667,
+    "gn:admin1_code":"WAL",
+    "gn:admin2_code":"WLG",
+    "gn:admin3_code":"61.0",
+    "gn:admin4_code":"61072.0",
+    "gn:asciiname":"Bienonsart",
+    "gn:country_code":"BE",
+    "gn:dem":100,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2802001,
+    "gn:latitude":50.56667,
+    "gn:longitude":5.16667,
+    "gn:modification_date":"2017-03-25",
+    "gn:name":"Bienonsart",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681691,
+        102191581,
+        85632997,
+        404227353,
+        102049925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2802001
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"11bc2a5e08409af41814927b080979ef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049925,
+            "locality_id":1326660389,
+            "macroregion_id":404227353,
+            "region_id":85681691
+        }
+    ],
+    "wof:id":1326660389,
+    "wof:lastmodified":1536799449,
+    "wof:name":"Bienonsart",
+    "wof:parent_id":102049925,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.16667,
+    50.56667,
+    5.16667,
+    50.56667
+],
+  "geometry": {"coordinates":[5.16667,50.56667],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1125398595,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2017-05-19",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.66833,50.90823,4.66833,50.90823",
+    "geom:latitude":50.90823,
+    "geom:longitude":4.66833,
+    "gn:gn_country":"BE",
+    "gn:gn_fcode":"ADM4",
+    "gn:gn_pop":20259,
+    "gn:population":20259,
+    "iso:country":"BE",
+    "lbl:latitude":50.90823,
+    "lbl:longitude":4.66833,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"BE",
+    "qs_pg:gn_country":"BE",
+    "qs_pg:gn_fcode":"ADM4",
+    "qs_pg:gn_id":2796013,
+    "qs_pg:gn_pop":20259,
+    "qs_pg:name":"Herent",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":7,
+    "qs_pg:qs_id":1062766,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85632997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2796013,
+        "qs_pg:id":1062766
+    },
+    "wof:country":"BE",
+    "wof:created":1497049174,
+    "wof:geomhash":"007d6a899e2de1e5d64b73254de43952",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "localadmin_id":1125398595
+        }
+    ],
+    "wof:id":1125398595,
+    "wof:lastmodified":1505185643,
+    "wof:name":"Herent",
+    "wof:parent_id":-1,
+    "wof:placetype":"localadmin",
+    "wof:population":20259,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.66833,
+    50.90823,
+    4.66833,
+    50.90823
+],
+  "geometry": {"coordinates":[4.66833,50.90823],"type":"Point"}
+}

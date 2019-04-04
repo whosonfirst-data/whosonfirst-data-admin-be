@@ -1,0 +1,72 @@
+{
+  "id": 1125407251,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2017-05-19",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.87159,50.37221,5.87159,50.37221",
+    "geom:latitude":50.37221,
+    "geom:longitude":5.87159,
+    "gn:gn_country":"BE",
+    "gn:gn_fcode":"ADM4",
+    "gn:gn_pop":2501,
+    "gn:population":2501,
+    "iso:country":"BE",
+    "lbl:latitude":50.37221,
+    "lbl:longitude":5.87159,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"BE",
+    "qs_pg:gn_country":"BE",
+    "qs_pg:gn_fcode":"ADM4",
+    "qs_pg:gn_id":2784103,
+    "qs_pg:gn_pop":2501,
+    "qs_pg:name":"Trois-Ponts",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":92536,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85632997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2784103,
+        "qs_pg:id":92536
+    },
+    "wof:country":"BE",
+    "wof:created":1497049721,
+    "wof:geomhash":"b0555af5782f9aa433e8cd73f1f8bf72",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "localadmin_id":1125407251
+        }
+    ],
+    "wof:id":1125407251,
+    "wof:lastmodified":1505185639,
+    "wof:name":"Trois-Ponts",
+    "wof:parent_id":-1,
+    "wof:placetype":"localadmin",
+    "wof:population":2501,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.87159,
+    50.37221,
+    5.87159,
+    50.37221
+],
+  "geometry": {"coordinates":[5.87159,50.37221],"type":"Point"}
+}

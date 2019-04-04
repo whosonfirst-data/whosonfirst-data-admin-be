@@ -1,0 +1,75 @@
+{
+  "id": 1226478839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.49608,49.66429,5.49608,49.66429",
+    "geom:latitude":49.66429,
+    "geom:longitude":5.49608,
+    "gn:admin1_code":"WAL",
+    "gn:admin2_code":"WLX",
+    "gn:admin3_code":"85.0",
+    "gn:admin4_code":"85039.0",
+    "gn:asciiname":"Bellefontaine",
+    "gn:country_code":"BE",
+    "gn:dem":360,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2802340,
+    "gn:latitude":49.66429,
+    "gn:longitude":5.49608,
+    "gn:modification_date":"2012-03-01",
+    "gn:name":"Bellefontaine",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tintigny (Bellefontaine)"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681727,
+        102191581,
+        85632997,
+        404227353,
+        102049907
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2802340
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"e1622d7f9989b804aa0c9e117b7be333",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049907,
+            "locality_id":1226478839,
+            "macroregion_id":404227353,
+            "region_id":85681727
+        }
+    ],
+    "wof:id":1226478839,
+    "wof:lastmodified":1537587079,
+    "wof:name":"Bellefontaine",
+    "wof:parent_id":102049907,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.49608,
+    49.66429,
+    5.49608,
+    49.66429
+],
+  "geometry": {"coordinates":[5.49608,49.66429],"type":"Point"}
+}

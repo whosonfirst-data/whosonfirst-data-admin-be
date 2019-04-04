@@ -1,0 +1,76 @@
+{
+  "id": 1277113835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.49136,50.70325,5.49136,50.70325",
+    "geom:latitude":50.70325,
+    "geom:longitude":5.49136,
+    "gn:admin1_code":"WAL",
+    "gn:admin2_code":"WLG",
+    "gn:admin3_code":"62.0",
+    "gn:admin4_code":"62003.0",
+    "gn:asciiname":"Viernay",
+    "gn:country_code":"BE",
+    "gn:dem":150,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2784764,
+    "gn:latitude":50.70325,
+    "gn:longitude":5.49136,
+    "gn:modification_date":"2017-03-25",
+    "gn:name":"Viernay",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Viernet",
+        "Viernay"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681691,
+        102191581,
+        85632997,
+        404227353,
+        102049941
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2784764
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"60150761903a6e45be0aa1b076a74dbf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049941,
+            "locality_id":1277113835,
+            "macroregion_id":404227353,
+            "region_id":85681691
+        }
+    ],
+    "wof:id":1277113835,
+    "wof:lastmodified":1537586893,
+    "wof:name":"Viernay",
+    "wof:parent_id":102049941,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.49136,
+    50.70325,
+    5.49136,
+    50.70325
+],
+  "geometry": {"coordinates":[5.49136,50.70325],"type":"Point"}
+}

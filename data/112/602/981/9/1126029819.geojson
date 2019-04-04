@@ -1,0 +1,103 @@
+{
+  "id": 1126029819,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.21801,51.02806,4.21801,51.02806",
+    "geom:latitude":51.02806,
+    "geom:longitude":4.21801,
+    "gn:gn_country":"BE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"BE",
+    "lbl:latitude":51.02806,
+    "lbl:longitude":4.21801,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Opdorp"
+    ],
+    "name:eng_x_preferred":[
+        "Opdorp"
+    ],
+    "name:fre_x_preferred":[
+        "Opdorp"
+    ],
+    "name:hun_x_preferred":[
+        "Opdorp"
+    ],
+    "qs_pg:aaroncc":"BE",
+    "qs_pg:gn_country":"BE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2789716,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Opdorp",
+    "qs_pg:name_adm0":"Belgique",
+    "qs_pg:name_adm1":"Oost-Vlaanderen",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":28,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":960797,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424757,
+    "qs_pg:woe_id":975180,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424757,
+    "woe:name_adm0":"Belgique",
+    "woe:name_adm1":"Oost-Vlaanderen",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85681733,
+        102191581,
+        1108830107,
+        85632997,
+        404227357,
+        102049979
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2789716,
+        "gp:id":975180,
+        "qs_pg:id":960797,
+        "wd:id":"Q724546"
+    },
+    "wof:country":"BE",
+    "wof:created":1497301391,
+    "wof:geomhash":"d421f33fbb6a0eccba52768b63eaf0c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049979,
+            "localadmin_id":1108830107,
+            "locality_id":1126029819,
+            "macroregion_id":404227357,
+            "region_id":85681733
+        }
+    ],
+    "wof:id":1126029819,
+    "wof:lastmodified":1513899446,
+    "wof:name":"Opdorp",
+    "wof:parent_id":1108830107,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.21801,
+    51.02806,
+    4.21801,
+    51.02806
+],
+  "geometry": {"coordinates":[4.21801,51.02806],"type":"Point"}
+}

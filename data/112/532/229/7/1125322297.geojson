@@ -1,0 +1,96 @@
+{
+  "id": 1125322297,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2017-05-19",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.34365,50.80398,5.34365,50.80398",
+    "geom:latitude":50.80398,
+    "geom:longitude":5.34365,
+    "gn:gn_country":"BE",
+    "gn:gn_fcode":"ADM4",
+    "gn:gn_pop":10426,
+    "gn:population":10426,
+    "iso:country":"BE",
+    "lbl:latitude":50.80398,
+    "lbl:longitude":5.34365,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bul_x_preferred":[
+        "\u0411\u043e\u0440\u0433\u043b\u043e\u043d"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u0648\u0631\u06af\u0644\u0648\u0646"
+    ],
+    "name:fra_x_preferred":[
+        "Looz"
+    ],
+    "name:lat_x_preferred":[
+        "Borchlonium"
+    ],
+    "name:lim_x_preferred":[
+        "Loe\u00ebn"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e2d\u0e23\u0e4c\u0e04\u0e42\u0e25\u0e19"
+    ],
+    "name:wln_x_preferred":[
+        "L\u00f4"
+    ],
+    "name:zho_x_preferred":[
+        "\u535a\u5c14\u8d6b\u9686"
+    ],
+    "qs_pg:aaroncc":"BE",
+    "qs_pg:gn_country":"BE",
+    "qs_pg:gn_fcode":"ADM4",
+    "qs_pg:gn_id":2801468,
+    "qs_pg:gn_pop":10426,
+    "qs_pg:name":"Borgloon",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":6,
+    "qs_pg:qs_id":92754,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85632997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2801468,
+        "qs_pg:id":92754
+    },
+    "wof:country":"BE",
+    "wof:created":1497044601,
+    "wof:geomhash":"fff7a381c7d04514d6b301fb12625cd9",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "localadmin_id":1125322297
+        }
+    ],
+    "wof:id":1125322297,
+    "wof:lastmodified":1505185646,
+    "wof:name":"Borgloon",
+    "wof:parent_id":-1,
+    "wof:placetype":"localadmin",
+    "wof:population":10426,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.34365,
+    50.80398,
+    5.34365,
+    50.80398
+],
+  "geometry": {"coordinates":[5.34365,50.80398],"type":"Point"}
+}

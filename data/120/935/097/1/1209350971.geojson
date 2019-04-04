@@ -1,0 +1,68 @@
+{
+  "id": 1209350971,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.50139,50.8268,3.50139,50.8268",
+    "geom:latitude":50.8268,
+    "geom:longitude":3.50139,
+    "gn:admin1_code":"VLG",
+    "gn:admin2_code":"VWV",
+    "gn:admin3_code":"34.0",
+    "gn:admin4_code":"34002.0",
+    "gn:asciiname":"Gijzelbrechtegem",
+    "gn:country_code":"BE",
+    "gn:dem":31,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2797540,
+    "gn:latitude":50.8268,
+    "gn:longitude":3.50139,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Gijzelbrechtegem",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gyselbrechteghem",
+        "Gijzelbrechtegem"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2797540
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"fcc3519fee81d26bc5476f7b89145ae9",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "locality_id":1209350971
+        }
+    ],
+    "wof:id":1209350971,
+    "wof:lastmodified":1537587033,
+    "wof:name":"Gijzelbrechtegem",
+    "wof:parent_id":85632997,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.50139,
+    50.8268,
+    3.50139,
+    50.8268
+],
+  "geometry": {"coordinates":[3.50139,50.8268],"type":"Point"}
+}

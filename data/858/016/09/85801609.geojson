@@ -1,0 +1,115 @@
+{
+  "id": 85801609,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":32699304.095861,
+    "geom:bbox":"4.255364,51.216846,4.255364,51.216846",
+    "geom:latitude":51.216846,
+    "geom:longitude":4.255364,
+    "iso:country":"BE",
+    "lbl:latitude":51.216846,
+    "lbl:longitude":4.255364,
+    "mps:latitude":51.223969,
+    "mps:longitude":4.273784,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":13.0,
+    "mz:tier_locality":1,
+    "name:dut_x_preferred":[
+        "Melsele"
+    ],
+    "name:unk_x_variant":[
+        "Melsele"
+    ],
+    "qs:gn_adm0_cc":"BE",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_local":2802031,
+    "qs:gn_nam_loc":"Beveren, St-Niklaas, Beveren, Oost-Vlaanderen, BE",
+    "qs:gn_namadm1":"VLG",
+    "qs:gn_name":"Melsele",
+    "qs:local_max":959,
+    "qs:local_sum":959,
+    "qs:localhoods":1,
+    "qs:name":"Melsele",
+    "qs:name_adm0":"Belgique",
+    "qs:name_adm1":"Oost-Vlaanderen",
+    "qs:name_adm2":"St.-Niklaas",
+    "qs:name_lau":"Beveren",
+    "qs:name_local":"Beveren",
+    "qs:photo_max":233,
+    "qs:photo_sum":959,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":47,
+    "qs:woe_adm0":23424757,
+    "qs:woe_adm1":7153304,
+    "qs:woe_adm2":12591764,
+    "qs:woe_lau":12602584,
+    "qs:woe_local":967272,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        85681733,
+        102191581,
+        1108830621,
+        85632997,
+        404227357,
+        101837567,
+        102049997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2791366,
+        "gp:id":974185,
+        "qs:id":114615,
+        "qs_pg:id":114615,
+        "wd:id":"Q3305287",
+        "wk:page":"Melsele"
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"2682196185f60cc476d7ff94c88f0d91",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049997,
+            "localadmin_id":1108830621,
+            "locality_id":101837567,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85801609,
+            "region_id":85681733
+        }
+    ],
+    "wof:id":85801609,
+    "wof:lang":[
+        "dut"
+    ],
+    "wof:lastmodified":1531862087,
+    "wof:name":"Melsele",
+    "wof:parent_id":101837567,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.255364,
+    51.216846,
+    4.255364,
+    51.216846
+],
+  "geometry": {"coordinates":[4.255364,51.216846],"type":"Point"}
+}

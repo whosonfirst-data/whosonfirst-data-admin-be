@@ -1,0 +1,78 @@
+{
+  "id": 1309842235,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.29374,51.03189,4.29374,51.03189",
+    "geom:latitude":51.03189,
+    "geom:longitude":4.29374,
+    "gn:admin1_code":"VLG",
+    "gn:admin2_code":"VBR",
+    "gn:admin3_code":"23.0",
+    "gn:admin4_code":"23045.0",
+    "gn:asciiname":"Sint-Jozef",
+    "gn:country_code":"BE",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2786648,
+    "gn:latitude":51.03189,
+    "gn:longitude":4.29374,
+    "gn:modification_date":"2016-08-02",
+    "gn:name":"Sint-Jozef",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Saint-Joseph",
+        "Sint-Jozef"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681731,
+        102191581,
+        1108830053,
+        85632997,
+        404227357,
+        102049973
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2786648
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"089a856d8bedfccfb419cefa1b9d15a5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049973,
+            "localadmin_id":1108830053,
+            "locality_id":1309842235,
+            "macroregion_id":404227357,
+            "region_id":85681731
+        }
+    ],
+    "wof:id":1309842235,
+    "wof:lastmodified":1537586916,
+    "wof:name":"Sint-Jozef",
+    "wof:parent_id":1108830053,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.29374,
+    51.03189,
+    4.29374,
+    51.03189
+],
+  "geometry": {"coordinates":[4.29374,51.03189],"type":"Point"}
+}

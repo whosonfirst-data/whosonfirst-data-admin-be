@@ -1,0 +1,109 @@
+{
+  "id": 85801553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000216,
+    "geom:area_square_m":1684271.457344,
+    "geom:bbox":"4.3505859375,50.7975341112,4.37351948828,50.8094059975",
+    "geom:latitude":50.803984,
+    "geom:longitude":4.362668,
+    "iso:country":"BE",
+    "lbl:latitude":50.804481,
+    "lbl:longitude":4.362544,
+    "mps:latitude":50.804198,
+    "mps:longitude":4.361521,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":1,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":16.0,
+    "mz:tier_locality":5,
+    "mz:tier_metro":30,
+    "name:nld_x_preferred":[
+        "Langeveld"
+    ],
+    "name:unk_x_variant":[
+        "Langeveld"
+    ],
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":0,
+    "qs:gn_namadm1":"BRU",
+    "qs:gn_name":"Langeveld",
+    "qs:local_max":62861,
+    "qs:local_sum":208570,
+    "qs:localhoods":75,
+    "qs:name":"Langeveld",
+    "qs:name_adm0":"Belgique",
+    "qs:name_adm1":"R\u00e9gion de Bruxelles-Capitale",
+    "qs:name_adm2":"Brussel Hoofdstad",
+    "qs:name_lau":"Ukkel",
+    "qs:name_local":"Bruxelles",
+    "qs:photo_max":39,
+    "qs:photo_sum":176,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":15,
+    "qs:woe_adm0":23424757,
+    "qs:woe_adm1":55965974,
+    "qs:woe_adm2":12591762,
+    "qs:woe_lau":12602248,
+    "qs:woe_local":968019,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mz",
+    "wof:belongsto":[
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2793362,
+        "gp:id":972924,
+        "qs:id":875180,
+        "qs_pg:id":875180
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"d22cd851c562a19c8b14d85a8f6b936a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801553,
+            "region_id":85681713
+        }
+    ],
+    "wof:id":85801553,
+    "wof:lang":[
+        "dut"
+    ],
+    "wof:lastmodified":1497311303,
+    "wof:name":"Langeveld",
+    "wof:parent_id":101751573,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.35058593750011,
+    50.79753411115139,
+    4.37351948828262,
+    50.80940599750006
+],
+  "geometry": {"coordinates":[[[4.37255859356799,50.80853816370031],[4.37255859156559,50.80593471735726],[4.37327924696814,50.80479434462741],[4.3731538263109,50.80419897857549],[4.37351948828262,50.80246313362532],[4.37255859375006,50.80094274947358],[4.37255859375006,50.79899141150007],[4.37255859375006,50.7989913470001],[4.36706542969017,50.7989913470001],[4.36644864330475,50.79801548548876],[4.36431884766,50.79753411115139],[4.3621890520119,50.79801548548939],[4.36157226562824,50.7989913470001],[4.35607910156267,50.7989913470001],[4.35607906079599,50.79899141150007],[4.35515408682551,50.80045487846162],[4.35475252128379,50.80072717582523],[4.35168305586586,50.80072717582523],[4.35058593750011,50.80246313362532],[4.35058593750011,50.80246319810006],[4.35058593750011,50.80593466230023],[4.35058593750011,50.80593472680003],[4.35058597826065,50.80593472680003],[4.35120232010746,50.80691002989805],[4.35333251953011,50.80739159005334],[4.35488525458885,50.80704057346405],[4.35587518036522,50.80756274773053],[4.35607910156008,50.80788545186134],[4.35607910156008,50.80940599750006],[4.35703990101609,50.80940599750006],[4.36157226563012,50.80940599750006],[4.36706542969009,50.80940599750006],[4.37255859375006,50.80940599750006],[4.37255859356799,50.80853816370031]]],"type":"Polygon"}
+}

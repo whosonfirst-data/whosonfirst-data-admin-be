@@ -1,0 +1,101 @@
+{
+  "id": 1125896443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.17436,50.41166,5.17436,50.41166",
+    "geom:latitude":50.41166,
+    "geom:longitude":5.17436,
+    "gn:gn_country":"BE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"BE",
+    "lbl:latitude":50.41166,
+    "lbl:longitude":5.17436,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "\u00c9velette"
+    ],
+    "name:eng_x_preferred":[
+        "\u00c9velette"
+    ],
+    "name:fre_x_preferred":[
+        "\u00c9velette"
+    ],
+    "name:hun_x_preferred":[
+        "\u00c9velette"
+    ],
+    "qs_pg:aaroncc":"BE",
+    "qs_pg:gn_country":"BE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2798563,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Evelette",
+    "qs_pg:name_adm0":"Belgique",
+    "qs_pg:name_adm1":"Namur",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":4,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1014262,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424757,
+    "qs_pg:woe_id":969481,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424757,
+    "woe:name_adm0":"Belgique",
+    "woe:name_adm1":"Namur",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85681699,
+        102191581,
+        85632997,
+        404227353,
+        102049931
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2798563,
+        "gp:id":969481,
+        "qs_pg:id":1014262,
+        "wd:id":"Q2458616"
+    },
+    "wof:country":"BE",
+    "wof:created":1497295592,
+    "wof:geomhash":"75bbdfff3271d58870f5b2f77ea9671e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049931,
+            "locality_id":1125896443,
+            "macroregion_id":404227353,
+            "region_id":85681699
+        }
+    ],
+    "wof:id":1125896443,
+    "wof:lastmodified":1513899255,
+    "wof:name":"Evelette",
+    "wof:parent_id":102049931,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.17436,
+    50.41166,
+    5.17436,
+    50.41166
+],
+  "geometry": {"coordinates":[5.17436,50.41166],"type":"Point"}
+}

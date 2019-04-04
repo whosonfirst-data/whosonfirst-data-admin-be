@@ -1,0 +1,64 @@
+{
+  "id": 1209546853,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.09938,50.27909,5.09938,50.27909",
+    "geom:latitude":50.27909,
+    "geom:longitude":5.09938,
+    "gn:admin1_code":"WAL",
+    "gn:admin2_code":"WNA",
+    "gn:admin3_code":"91.0",
+    "gn:admin4_code":"91030.0",
+    "gn:asciiname":"Barcene",
+    "gn:country_code":"BE",
+    "gn:dem":252,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2802682,
+    "gn:latitude":50.27909,
+    "gn:longitude":5.09938,
+    "gn:modification_date":"2017-03-25",
+    "gn:name":"Barc\u00e8ne",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2802682
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"6f87c071700c744bb359b6dc306f73f7",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "locality_id":1209546853
+        }
+    ],
+    "wof:id":1209546853,
+    "wof:lastmodified":1536283817,
+    "wof:name":"Barcene",
+    "wof:parent_id":85632997,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.09938,
+    50.27909,
+    5.09938,
+    50.27909
+],
+  "geometry": {"coordinates":[5.09938,50.27909],"type":"Point"}
+}

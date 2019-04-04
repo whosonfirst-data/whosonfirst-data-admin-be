@@ -1,0 +1,68 @@
+{
+  "id": 1209035281,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.66882,51.1026,3.66882,51.1026",
+    "geom:latitude":51.1026,
+    "geom:longitude":3.66882,
+    "gn:admin1_code":"VLG",
+    "gn:admin2_code":"VOV",
+    "gn:admin3_code":"44.0",
+    "gn:admin4_code":"44019.0",
+    "gn:asciiname":"Belzele",
+    "gn:country_code":"BE",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2802277,
+    "gn:latitude":51.1026,
+    "gn:longitude":3.66882,
+    "gn:modification_date":"2016-08-02",
+    "gn:name":"Belzele",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Belzeele",
+        "Belzele"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2802277
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"45c0cf9d556ae8b16072305bae3f9658",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "locality_id":1209035281
+        }
+    ],
+    "wof:id":1209035281,
+    "wof:lastmodified":1537587078,
+    "wof:name":"Belzele",
+    "wof:parent_id":85632997,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.66882,
+    51.1026,
+    3.66882,
+    51.1026
+],
+  "geometry": {"coordinates":[3.66882,51.1026],"type":"Point"}
+}

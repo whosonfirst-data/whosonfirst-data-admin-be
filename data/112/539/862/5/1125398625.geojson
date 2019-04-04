@@ -1,0 +1,78 @@
+{
+  "id": 1125398625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2017-05-19",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.35984,50.67513,4.35984,50.67513",
+    "geom:latitude":50.67513,
+    "geom:longitude":4.35984,
+    "gn:gn_country":"BE",
+    "gn:gn_fcode":"ADM4",
+    "gn:gn_pop":38468,
+    "gn:population":38468,
+    "iso:country":"BE",
+    "lbl:latitude":50.67513,
+    "lbl:longitude":4.35984,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:nld_x_preferred":[
+        "Eigenbrakel"
+    ],
+    "name:unk_x_variant":[
+        "Eigenbrakel"
+    ],
+    "qs_pg:aaroncc":"BE",
+    "qs_pg:gn_country":"BE",
+    "qs_pg:gn_fcode":"ADM4",
+    "qs_pg:gn_id":2801155,
+    "qs_pg:gn_pop":38468,
+    "qs_pg:name":"Braine-l'Alleud",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":7,
+    "qs_pg:qs_id":1062792,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85632997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2801155,
+        "qs_pg:id":1062792
+    },
+    "wof:country":"BE",
+    "wof:created":1497049176,
+    "wof:geomhash":"0ea3d27ad33b342323e1ab94d7c014da",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "localadmin_id":1125398625
+        }
+    ],
+    "wof:id":1125398625,
+    "wof:lastmodified":1505185646,
+    "wof:name":"Braine-l'Alleud",
+    "wof:parent_id":-1,
+    "wof:placetype":"localadmin",
+    "wof:population":38468,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.35984,
+    50.67513,
+    4.35984,
+    50.67513
+],
+  "geometry": {"coordinates":[4.35984,50.67513],"type":"Point"}
+}

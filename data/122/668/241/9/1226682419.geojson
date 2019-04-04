@@ -1,0 +1,72 @@
+{
+  "id": 1226682419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.6863,50.34016,5.6863,50.34016",
+    "geom:latitude":50.34016,
+    "geom:longitude":5.6863,
+    "gn:admin1_code":"WAL",
+    "gn:admin2_code":"WLX",
+    "gn:admin3_code":"83.0",
+    "gn:admin4_code":"83055.0",
+    "gn:asciiname":"La Fourche",
+    "gn:country_code":"BE",
+    "gn:dem":464,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2793624,
+    "gn:latitude":50.34016,
+    "gn:longitude":5.6863,
+    "gn:modification_date":"2017-03-25",
+    "gn:name":"La Fourche",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681727,
+        102191581,
+        85632997,
+        404227353,
+        102049921
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2793624
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"4589717fc14454933521b9a384aa6092",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049921,
+            "locality_id":1226682419,
+            "macroregion_id":404227353,
+            "region_id":85681727
+        }
+    ],
+    "wof:id":1226682419,
+    "wof:lastmodified":1536806422,
+    "wof:name":"La Fourche",
+    "wof:parent_id":102049921,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.6863,
+    50.34016,
+    5.6863,
+    50.34016
+],
+  "geometry": {"coordinates":[5.6863,50.34016],"type":"Point"}
+}

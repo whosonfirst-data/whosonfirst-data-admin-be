@@ -1,0 +1,103 @@
+{
+  "id": 1126043697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.889,50.11783,4.889,50.11783",
+    "geom:latitude":50.11783,
+    "geom:longitude":4.889,
+    "gn:gn_country":"BE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"BE",
+    "lbl:latitude":50.11783,
+    "lbl:longitude":4.889,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Dion"
+    ],
+    "name:eng_x_preferred":[
+        "Dion"
+    ],
+    "name:fre_x_preferred":[
+        "Dion"
+    ],
+    "name:unk_x_variant":[
+        "Beauraing (Dion)"
+    ],
+    "qs_pg:aaroncc":"BE",
+    "qs_pg:gn_country":"BE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2799353,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Dion",
+    "qs_pg:name_adm0":"Belgique",
+    "qs_pg:name_adm1":"Namur",
+    "qs_pg:photos":30,
+    "qs_pg:photos_1k":6,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":30,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":460103,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424757,
+    "qs_pg:woe_id":968984,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424757,
+    "woe:name_adm0":"Belgique",
+    "woe:name_adm1":"Namur",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85681699,
+        102191581,
+        85632997,
+        404227353,
+        102049919
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2799353,
+        "gp:id":968984,
+        "qs_pg:id":460103,
+        "wd:id":"Q2252966"
+    },
+    "wof:country":"BE",
+    "wof:created":1497302306,
+    "wof:geomhash":"29ba92d9a7db390e126feda24ecd0910",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049919,
+            "locality_id":1126043697,
+            "macroregion_id":404227353,
+            "region_id":85681699
+        }
+    ],
+    "wof:id":1126043697,
+    "wof:lastmodified":1513899236,
+    "wof:name":"Dion",
+    "wof:parent_id":102049919,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.889,
+    50.11783,
+    4.889,
+    50.11783
+],
+  "geometry": {"coordinates":[4.889,50.11783],"type":"Point"}
+}

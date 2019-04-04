@@ -1,0 +1,65 @@
+{
+  "id": 1209139537,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.4141,50.99226,4.4141,50.99226",
+    "geom:latitude":50.99226,
+    "geom:longitude":4.4141,
+    "gn:admin1_code":"VLG",
+    "gn:admin2_code":"VBR",
+    "gn:admin3_code":"23.0",
+    "gn:admin4_code":"23096.0",
+    "gn:asciiname":"Laar",
+    "gn:country_code":"BE",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2793812,
+    "gn:latitude":50.99226,
+    "gn:longitude":4.4141,
+    "gn:modification_date":"2016-08-02",
+    "gn:name":"Laar",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2793812,
+        "wk:page":"Laar_%28Zemst%29"
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"aee4dca09f861c7d538bcfbd9965a5be",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "locality_id":1209139537
+        }
+    ],
+    "wof:id":1209139537,
+    "wof:lastmodified":1537487554,
+    "wof:name":"Laar",
+    "wof:parent_id":85632997,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.4141,
+    50.99226,
+    4.4141,
+    50.99226
+],
+  "geometry": {"coordinates":[4.4141,50.99226],"type":"Point"}
+}

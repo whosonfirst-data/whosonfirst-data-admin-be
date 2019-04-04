@@ -1,0 +1,64 @@
+{
+  "id": 1209348625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.4469,50.30292,5.4469,50.30292",
+    "geom:latitude":50.30292,
+    "geom:longitude":5.4469,
+    "gn:admin1_code":"WAL",
+    "gn:admin2_code":"WLX",
+    "gn:admin3_code":"83.0",
+    "gn:admin4_code":"83013.0",
+    "gn:asciiname":"Champagne",
+    "gn:country_code":"BE",
+    "gn:dem":184,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2800565,
+    "gn:latitude":50.30292,
+    "gn:longitude":5.4469,
+    "gn:modification_date":"2017-03-25",
+    "gn:name":"Champagne",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2800565
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"c9c8508e5f4874a021b14eb3e8854a23",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "locality_id":1209348625
+        }
+    ],
+    "wof:id":1209348625,
+    "wof:lastmodified":1536289823,
+    "wof:name":"Champagne",
+    "wof:parent_id":85632997,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.4469,
+    50.30292,
+    5.4469,
+    50.30292
+],
+  "geometry": {"coordinates":[5.4469,50.30292],"type":"Point"}
+}

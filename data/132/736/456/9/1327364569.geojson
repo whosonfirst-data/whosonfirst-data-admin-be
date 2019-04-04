@@ -1,0 +1,78 @@
+{
+  "id": 1327364569,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.67185,51.3094,4.67185,51.3094",
+    "geom:latitude":51.3094,
+    "geom:longitude":4.67185,
+    "gn:admin1_code":"VLG",
+    "gn:admin2_code":"VAN",
+    "gn:admin3_code":"11.0",
+    "gn:admin4_code":"11057.0",
+    "gn:asciiname":"De Heidsie",
+    "gn:country_code":"BE",
+    "gn:dem":26,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2799767,
+    "gn:latitude":51.3094,
+    "gn:longitude":4.67185,
+    "gn:modification_date":"2016-08-02",
+    "gn:name":"De Heidsie",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Heidsie",
+        "De Heidsie"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681715,
+        102191581,
+        1108830005,
+        85632997,
+        404227357,
+        102050005
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2799767
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"235390525f2787e6a0e24953fbe78eca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102050005,
+            "localadmin_id":1108830005,
+            "locality_id":1327364569,
+            "macroregion_id":404227357,
+            "region_id":85681715
+        }
+    ],
+    "wof:id":1327364569,
+    "wof:lastmodified":1537587056,
+    "wof:name":"De Heidsie",
+    "wof:parent_id":1108830005,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.67185,
+    51.3094,
+    4.67185,
+    51.3094
+],
+  "geometry": {"coordinates":[4.67185,51.3094],"type":"Point"}
+}

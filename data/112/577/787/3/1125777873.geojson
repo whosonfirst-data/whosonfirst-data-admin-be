@@ -1,0 +1,112 @@
+{
+  "id": 1125777873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.95157,50.76882,4.95157,50.76882",
+    "geom:latitude":50.76882,
+    "geom:longitude":4.95157,
+    "gn:gn_country":"BE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"BE",
+    "lbl:latitude":50.76882,
+    "lbl:longitude":4.95157,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Goetsenhoven"
+    ],
+    "name:eng_x_preferred":[
+        "Goetsenhoven"
+    ],
+    "name:fre_x_preferred":[
+        "Gossoncourt"
+    ],
+    "name:hun_x_preferred":[
+        "Goetsenhoven"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b0\u30c4\u30a7\u30f3\u30db\u30fc\u30d5\u30a7\u30f3"
+    ],
+    "name:unk_x_variant":[
+        "Gossoncourt"
+    ],
+    "name:wln_x_preferred":[
+        "Gossonco\u00fb"
+    ],
+    "qs_pg:aaroncc":"BE",
+    "qs_pg:gn_country":"BE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2797447,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Goetsenhoven",
+    "qs_pg:name_adm0":"Belgique",
+    "qs_pg:name_adm1":"Vlaams Brabant",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":2,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":191962,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424757,
+    "qs_pg:woe_id":970141,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424757,
+    "woe:name_adm0":"Belgique",
+    "woe:name_adm1":"Vlaams Brabant",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85681731,
+        102191581,
+        1108830017,
+        85632997,
+        404227357,
+        102049969
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2797447,
+        "gp:id":970141,
+        "qs_pg:id":191962,
+        "wd:id":"Q2952974"
+    },
+    "wof:country":"BE",
+    "wof:created":1497290344,
+    "wof:geomhash":"ec5d66f725432d6ca8e467e3d385e6b6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049969,
+            "localadmin_id":1108830017,
+            "locality_id":1125777873,
+            "macroregion_id":404227357,
+            "region_id":85681731
+        }
+    ],
+    "wof:id":1125777873,
+    "wof:lastmodified":1513899287,
+    "wof:name":"Goetsenhoven",
+    "wof:parent_id":1108830017,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.95157,
+    50.76882,
+    4.95157,
+    50.76882
+],
+  "geometry": {"coordinates":[4.95157,50.76882],"type":"Point"}
+}

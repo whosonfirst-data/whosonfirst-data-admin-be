@@ -1,0 +1,111 @@
+{
+  "id": 1125985717,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.59444,50.75688,5.59444,50.75688",
+    "geom:latitude":50.75688,
+    "geom:longitude":5.59444,
+    "gn:gn_country":"BE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"BE",
+    "lbl:latitude":50.75688,
+    "lbl:longitude":5.59444,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Rukkelingen-aan-de-Jeker"
+    ],
+    "name:eng_x_preferred":[
+        "Roclenge-sur-Geer"
+    ],
+    "name:fre_x_preferred":[
+        "Roclenge-sur-Geer"
+    ],
+    "name:hun_x_preferred":[
+        "Roclenge-sur-Geer"
+    ],
+    "name:lim_x_preferred":[
+        "Rukkelinge-aan-de-Jeker"
+    ],
+    "name:ltz_x_preferred":[
+        "Roclenge-sur-Geer"
+    ],
+    "name:unk_x_variant":[
+        "Rukkelingen-op-den-Jeker"
+    ],
+    "name:wln_x_preferred":[
+        "Roclindje-so-Djer"
+    ],
+    "qs_pg:aaroncc":"BE",
+    "qs_pg:gn_country":"BE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2787939,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Roclenge-sur-Geer",
+    "qs_pg:name_adm0":"Belgique",
+    "qs_pg:name_adm1":"Li\u00e8ge",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":886104,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424757,
+    "qs_pg:woe_id":976314,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424757,
+    "woe:name_adm0":"Belgique",
+    "woe:name_adm1":"Li\u00e8ge",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85681691,
+        102191581,
+        85632997,
+        404227353,
+        102049941
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2787939,
+        "gp:id":976314,
+        "qs_pg:id":886104,
+        "wd:id":"Q2098699"
+    },
+    "wof:country":"BE",
+    "wof:created":1497298795,
+    "wof:geomhash":"83ae9e48b55d8a70590e7fe709e20789",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049941,
+            "locality_id":1125985717,
+            "macroregion_id":404227353,
+            "region_id":85681691
+        }
+    ],
+    "wof:id":1125985717,
+    "wof:lastmodified":1513899478,
+    "wof:name":"Roclenge-sur-Geer",
+    "wof:parent_id":102049941,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.59444,
+    50.75688,
+    5.59444,
+    50.75688
+],
+  "geometry": {"coordinates":[5.59444,50.75688],"type":"Point"}
+}

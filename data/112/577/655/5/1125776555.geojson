@@ -1,0 +1,106 @@
+{
+  "id": 1125776555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.26278,50.74081,5.26278,50.74081",
+    "geom:latitude":50.74081,
+    "geom:longitude":5.26278,
+    "gn:gn_country":"BE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"BE",
+    "lbl:latitude":50.74081,
+    "lbl:longitude":5.26278,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Mechelen-Bovelingen"
+    ],
+    "name:eng_x_preferred":[
+        "Mechelen-Bovelingen"
+    ],
+    "name:fre_x_preferred":[
+        "Marlinne"
+    ],
+    "name:hun_x_preferred":[
+        "Mechelen-Bovelingen"
+    ],
+    "name:unk_x_variant":[
+        "Marlinne"
+    ],
+    "qs_pg:aaroncc":"BE",
+    "qs_pg:gn_country":"BE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2791532,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Mechelen-Bovelingen",
+    "qs_pg:name_adm0":"Belgique",
+    "qs_pg:name_adm1":"Limburg",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":3,
+    "qs_pg:photos_all":93,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1159729,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424757,
+    "qs_pg:woe_id":974074,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424757,
+    "woe:name_adm0":"Belgique",
+    "woe:name_adm1":"Limburg",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85681705,
+        102191581,
+        1108830275,
+        85632997,
+        404227357,
+        1108782563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2791532,
+        "gp:id":974074,
+        "qs_pg:id":1159729,
+        "wd:id":"Q2132066"
+    },
+    "wof:country":"BE",
+    "wof:created":1497290285,
+    "wof:geomhash":"1cfcc9dd2018f5f4c253026bc6e6323b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":1108782563,
+            "localadmin_id":1108830275,
+            "locality_id":1125776555,
+            "macroregion_id":404227357,
+            "region_id":85681705
+        }
+    ],
+    "wof:id":1125776555,
+    "wof:lastmodified":1513899397,
+    "wof:name":"Mechelen-Bovelingen",
+    "wof:parent_id":1108830275,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.26278,
+    50.74081,
+    5.26278,
+    50.74081
+],
+  "geometry": {"coordinates":[5.26278,50.74081],"type":"Point"}
+}

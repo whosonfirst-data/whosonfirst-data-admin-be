@@ -1,0 +1,72 @@
+{
+  "id": 1259418665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.03333,50.36667,5.03333,50.36667",
+    "geom:latitude":50.36667,
+    "geom:longitude":5.03333,
+    "gn:admin1_code":"WAL",
+    "gn:admin2_code":"WNA",
+    "gn:admin3_code":"92.0",
+    "gn:admin4_code":"92006.0",
+    "gn:asciiname":"Bouchaille",
+    "gn:country_code":"BE",
+    "gn:dem":256,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2801303,
+    "gn:latitude":50.36667,
+    "gn:longitude":5.03333,
+    "gn:modification_date":"2017-03-25",
+    "gn:name":"Bouchaille",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681699,
+        102191581,
+        85632997,
+        404227353,
+        102049931
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2801303
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"c2b6c3dbd28d82a29ff5456be6179af4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049931,
+            "locality_id":1259418665,
+            "macroregion_id":404227353,
+            "region_id":85681699
+        }
+    ],
+    "wof:id":1259418665,
+    "wof:lastmodified":1536952031,
+    "wof:name":"Bouchaille",
+    "wof:parent_id":102049931,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.03333,
+    50.36667,
+    5.03333,
+    50.36667
+],
+  "geometry": {"coordinates":[5.03333,50.36667],"type":"Point"}
+}

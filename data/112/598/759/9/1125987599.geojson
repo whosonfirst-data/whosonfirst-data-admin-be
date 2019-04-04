@@ -1,0 +1,118 @@
+{
+  "id": 1125987599,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.70944,50.48143,4.70944,50.48143",
+    "geom:latitude":50.48143,
+    "geom:longitude":4.70944,
+    "gn:gn_country":"BE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"BE",
+    "lbl:latitude":50.48143,
+    "lbl:longitude":4.70944,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Spy"
+    ],
+    "name:eng_x_preferred":[
+        "Spy"
+    ],
+    "name:fre_x_preferred":[
+        "Spy"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e1\u05e4\u05d9"
+    ],
+    "name:lim_x_preferred":[
+        "Spy"
+    ],
+    "name:pol_x_preferred":[
+        "Spy"
+    ],
+    "name:spa_x_preferred":[
+        "Gruta de Spy"
+    ],
+    "name:unk_x_variant":[
+        "Jemeppe-sur-Sambre (Spy)"
+    ],
+    "name:wln_x_preferred":[
+        "Sp\u00ee"
+    ],
+    "qs_pg:aaroncc":"BE",
+    "qs_pg:gn_country":"BE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2786236,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Sy",
+    "qs_pg:name_adm0":"Belgique",
+    "qs_pg:name_adm1":"Li\u00e8ge",
+    "qs_pg:photos":41,
+    "qs_pg:photos_1k":8,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":41,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1185177,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424757,
+    "qs_pg:woe_id":20098375,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424757,
+    "woe:name_adm0":"Belgique",
+    "woe:name_adm1":"Li\u00e8ge",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85681699,
+        102191581,
+        85632997,
+        404227353,
+        102049931
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2786236,
+        "gp:id":20098375,
+        "qs_pg:id":1185177,
+        "wd:id":"Q1260067"
+    },
+    "wof:country":"BE",
+    "wof:created":1497298887,
+    "wof:geomhash":"a5da9b6b4861bab29ff0e69ed57bfc3b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049931,
+            "locality_id":1125987599,
+            "macroregion_id":404227353,
+            "region_id":85681699
+        }
+    ],
+    "wof:id":1125987599,
+    "wof:lastmodified":1513899520,
+    "wof:name":"Sy",
+    "wof:parent_id":102049931,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.70944,
+    50.48143,
+    4.70944,
+    50.48143
+],
+  "geometry": {"coordinates":[4.70944,50.48143],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1209137131,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.84395,49.6519,5.84395,49.6519",
+    "geom:latitude":49.6519,
+    "geom:longitude":5.84395,
+    "gn:admin1_code":"WAL",
+    "gn:admin2_code":"WLX",
+    "gn:admin3_code":"81.0",
+    "gn:admin4_code":"81001.0",
+    "gn:asciiname":"Autelhaut",
+    "gn:country_code":"BE",
+    "gn:dem":334,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2802913,
+    "gn:latitude":49.6519,
+    "gn:longitude":5.84395,
+    "gn:modification_date":"2017-03-25",
+    "gn:name":"Autelhaut",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2802913
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"d4533863ff6f6e47c2eaac629696866c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "locality_id":1209137131
+        }
+    ],
+    "wof:id":1209137131,
+    "wof:lastmodified":1536296624,
+    "wof:name":"Autelhaut",
+    "wof:parent_id":85632997,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.84395,
+    49.6519,
+    5.84395,
+    49.6519
+],
+  "geometry": {"coordinates":[5.84395,49.6519],"type":"Point"}
+}

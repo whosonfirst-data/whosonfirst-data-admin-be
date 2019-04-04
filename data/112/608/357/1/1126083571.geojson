@@ -1,0 +1,105 @@
+{
+  "id": 1126083571,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.32424,50.78656,4.32424,50.78656",
+    "geom:latitude":50.78656,
+    "geom:longitude":4.32424,
+    "gn:gn_country":"BE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"BE",
+    "lbl:latitude":50.78656,
+    "lbl:longitude":4.32424,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:fra_x_preferred":[
+        "Calevoet"
+    ],
+    "name:nld_x_preferred":[
+        "Kalevoet"
+    ],
+    "name:unk_x_variant":[
+        "Kalevoet",
+        "Calevoet"
+    ],
+    "qs_pg:aaroncc":"BE",
+    "qs_pg:gn_country":"BE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2800680,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Kalevoet",
+    "qs_pg:name_adm0":"Belgique",
+    "qs_pg:name_adm1":"Vlaams Brabant",
+    "qs_pg:photos":49,
+    "qs_pg:photos_1k":10,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":49,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":186900,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424757,
+    "qs_pg:woe_id":971814,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424757,
+    "woe:name_adm0":"Belgique",
+    "woe:name_adm1":"Vlaams Brabant",
+    "woe:placetype":"Suburb",
+    "wof:belongsto":[
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2800680,
+        "gp:id":971814,
+        "qs:id":186900,
+        "qs_pg:id":186900
+    },
+    "wof:country":"BE",
+    "wof:created":1497312342,
+    "wof:geomhash":"76a3c77fffa3f310c7e23a89787f5cea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":1126083571,
+            "region_id":85681713
+        }
+    ],
+    "wof:id":1126083571,
+    "wof:lastmodified":1534379234,
+    "wof:name":"Kalevoet",
+    "wof:parent_id":101751573,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        85801345
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.32424,
+    50.78656,
+    4.32424,
+    50.78656
+],
+  "geometry": {"coordinates":[4.32424,50.78656],"type":"Point"}
+}

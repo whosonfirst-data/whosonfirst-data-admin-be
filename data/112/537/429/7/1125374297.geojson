@@ -1,0 +1,72 @@
+{
+  "id": 1125374297,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2017-05-19",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.03492,51.06701,4.03492,51.06701",
+    "geom:latitude":51.06701,
+    "geom:longitude":4.03492,
+    "gn:gn_country":"BE",
+    "gn:gn_fcode":"ADM4",
+    "gn:gn_pop":20721,
+    "gn:population":20721,
+    "iso:country":"BE",
+    "lbl:latitude":51.06701,
+    "lbl:longitude":4.03492,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"BE",
+    "qs_pg:gn_country":"BE",
+    "qs_pg:gn_fcode":"ADM4",
+    "qs_pg:gn_id":2783294,
+    "qs_pg:gn_pop":20721,
+    "qs_pg:name":"Zele",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":7,
+    "qs_pg:qs_id":352123,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85632997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2783294,
+        "qs_pg:id":352123
+    },
+    "wof:country":"BE",
+    "wof:created":1497047621,
+    "wof:geomhash":"82360f0f68e9d0058b13117095fcbda9",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "localadmin_id":1125374297
+        }
+    ],
+    "wof:id":1125374297,
+    "wof:lastmodified":1505185639,
+    "wof:name":"Zele",
+    "wof:parent_id":-1,
+    "wof:placetype":"localadmin",
+    "wof:population":20721,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.03492,
+    51.06701,
+    4.03492,
+    51.06701
+],
+  "geometry": {"coordinates":[4.03492,51.06701],"type":"Point"}
+}

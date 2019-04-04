@@ -1,0 +1,64 @@
+{
+  "id": 1209035931,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.36667,50.45,4.36667,50.45",
+    "geom:latitude":50.45,
+    "geom:longitude":4.36667,
+    "gn:admin1_code":"WAL",
+    "gn:admin2_code":"WHT",
+    "gn:admin3_code":"52.0",
+    "gn:admin4_code":"52015.0",
+    "gn:asciiname":"Sartis",
+    "gn:country_code":"BE",
+    "gn:dem":144,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2787219,
+    "gn:latitude":50.45,
+    "gn:longitude":4.36667,
+    "gn:modification_date":"2017-03-25",
+    "gn:name":"Sartis",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2787219
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"6ebcc2aef9c43989e35e9233edee2579",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "locality_id":1209035931
+        }
+    ],
+    "wof:id":1209035931,
+    "wof:lastmodified":1536299700,
+    "wof:name":"Sartis",
+    "wof:parent_id":85632997,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.36667,
+    50.45,
+    4.36667,
+    50.45
+],
+  "geometry": {"coordinates":[4.36667,50.45],"type":"Point"}
+}

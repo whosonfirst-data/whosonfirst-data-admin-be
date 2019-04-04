@@ -1,0 +1,77 @@
+{
+  "id": 1193173899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.29694,51.31028,4.29694,51.31028",
+    "geom:latitude":51.31028,
+    "geom:longitude":4.29694,
+    "gn:admin1_code":"VLG",
+    "gn:admin2_code":"VAN",
+    "gn:admin3_code":"11.0",
+    "gn:admin4_code":"11002.0",
+    "gn:asciiname":"Oud Lillo",
+    "gn:country_code":"BE",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLW",
+    "gn:geonameid":2789490,
+    "gn:latitude":51.31028,
+    "gn:longitude":4.29694,
+    "gn:modification_date":"2016-08-02",
+    "gn:name":"Oud Lillo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:fra_x_preferred":[
+        "Vieux-Lillo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681715,
+        102191581,
+        1108830423,
+        85632997,
+        404227357,
+        102050005
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2789490
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"0089d843926ee7b162c8e3dd14222ce8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102050005,
+            "localadmin_id":1108830423,
+            "locality_id":1193173899,
+            "macroregion_id":404227357,
+            "region_id":85681715
+        }
+    ],
+    "wof:id":1193173899,
+    "wof:lastmodified":1537586950,
+    "wof:name":"Oud Lillo",
+    "wof:parent_id":1108830423,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.29694,
+    51.31028,
+    4.29694,
+    51.31028
+],
+  "geometry": {"coordinates":[4.29694,51.31028],"type":"Point"}
+}

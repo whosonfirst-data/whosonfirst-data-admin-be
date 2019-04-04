@@ -1,0 +1,72 @@
+{
+  "id": 1293726349,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.6,50.6,5.6,50.6",
+    "geom:latitude":50.6,
+    "geom:longitude":5.6,
+    "gn:admin1_code":"WAL",
+    "gn:admin2_code":"WLG",
+    "gn:admin3_code":"62.0",
+    "gn:admin4_code":"62022.0",
+    "gn:asciiname":"Mathysart",
+    "gn:country_code":"BE",
+    "gn:dem":70,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2791587,
+    "gn:latitude":50.6,
+    "gn:longitude":5.6,
+    "gn:modification_date":"2017-03-25",
+    "gn:name":"Mathysart",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681691,
+        102191581,
+        85632997,
+        404227353,
+        102049941
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2791587
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"5eaa653eb7ef32ab0fab116742de628b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049941,
+            "locality_id":1293726349,
+            "macroregion_id":404227353,
+            "region_id":85681691
+        }
+    ],
+    "wof:id":1293726349,
+    "wof:lastmodified":1536940593,
+    "wof:name":"Mathysart",
+    "wof:parent_id":102049941,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.6,
+    50.6,
+    5.6,
+    50.6
+],
+  "geometry": {"coordinates":[5.6,50.6],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1260214169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.68141,50.65975,3.68141,50.65975",
+    "geom:latitude":50.65975,
+    "geom:longitude":3.68141,
+    "gn:admin1_code":"WAL",
+    "gn:admin2_code":"WHT",
+    "gn:admin3_code":"51.0",
+    "gn:admin4_code":"51004.0",
+    "gn:asciiname":"Renowelz",
+    "gn:country_code":"BE",
+    "gn:dem":104,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2788162,
+    "gn:latitude":50.65975,
+    "gn:longitude":3.68141,
+    "gn:modification_date":"2017-03-25",
+    "gn:name":"Renowelz",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681723,
+        102191581,
+        85632997,
+        404227353,
+        102049949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2788162
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"cd508a23e49fc8790ff3080fb5becce1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049949,
+            "locality_id":1260214169,
+            "macroregion_id":404227353,
+            "region_id":85681723
+        }
+    ],
+    "wof:id":1260214169,
+    "wof:lastmodified":1536805925,
+    "wof:name":"Renowelz",
+    "wof:parent_id":102049949,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.68141,
+    50.65975,
+    3.68141,
+    50.65975
+],
+  "geometry": {"coordinates":[3.68141,50.65975],"type":"Point"}
+}

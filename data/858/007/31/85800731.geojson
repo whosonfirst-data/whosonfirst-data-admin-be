@@ -1,0 +1,145 @@
+{
+  "id": 85800731,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":4024145.144837,
+    "geom:bbox":"3.700524,51.039012,3.700524,51.039012",
+    "geom:latitude":51.039012,
+    "geom:longitude":3.700524,
+    "iso:country":"BE",
+    "lbl:latitude":51.039012,
+    "lbl:longitude":3.700524,
+    "mps:latitude":51.037076,
+    "mps:longitude":3.691288,
+    "mz:hierarchy_label":0,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":13.0,
+    "mz:tier_locality":3,
+    "name:dut_x_preferred":[
+        "Aalst St.-Pieter"
+    ],
+    "name:dut_x_variant":[
+        "Aalst Sint-Pieter",
+        "Aalst St-Pieter",
+        "Sint-Pieters-Aalst"
+    ],
+    "name:eng_x_preferred":[
+        "Aalst-Saint Pierre"
+    ],
+    "name:eng_x_variant":[
+        "Aalst-St Pierre",
+        "Aalst-St. Pierre",
+        "Ayghem-Saint-Pierre",
+        "Ayghem-St-Pierre",
+        "Ayghem-St.-Pierre",
+        "Sant-pieters-aalst",
+        "Sint-Pieters-Aalst",
+        "Sint-pieters-aaigem",
+        "St-Pieters-Aalst",
+        "St-pieters-aaigem",
+        "St.-Pieters-Aalst",
+        "St.-pieters-aaigem",
+        "Aalst-Saint Pierre"
+    ],
+    "name:fra_x_preferred":[
+        "Aalst-Saint Pierre"
+    ],
+    "name:nld_x_preferred":[
+        "Sint-Pieters-Aalst"
+    ],
+    "name:unk_x_variant":[
+        "Aalst Sint-Pieter",
+        "Aalst St.-Pieter"
+    ],
+    "qs:gn_adm0_cc":"BE",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_local":2797656,
+    "qs:gn_nam_loc":"Gent, Gent, Gent, Oost-Vlaanderen, BE",
+    "qs:gn_namadm1":"VLG",
+    "qs:gn_name":"Aalst Sint-Pieter",
+    "qs:local_max":6077,
+    "qs:local_sum":36126,
+    "qs:localhoods":17,
+    "qs:name":"Aalst St.-Pieter",
+    "qs:name_adm0":"Belgique",
+    "qs:name_adm1":"Oost-Vlaanderen",
+    "qs:name_adm2":"Gent",
+    "qs:name_en":"Aalst-Saint Pierre",
+    "qs:name_lau":"Gent",
+    "qs:name_local":"Gent",
+    "qs:photo_max":316,
+    "qs:photo_sum":1627,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":54,
+    "qs:woe_adm0":23424757,
+    "qs:woe_adm1":7153304,
+    "qs:woe_adm2":12591774,
+    "qs:woe_lau":12602289,
+    "qs:woe_local":970013,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        85681733,
+        102191581,
+        1108830083,
+        85632997,
+        404227357,
+        101748093,
+        102049989
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2803445,
+        "gp:id":966412,
+        "qs:id":186730,
+        "qs_pg:id":186730,
+        "wd:id":"Q2524363"
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"ab22a0ab8e430bcacd18b54ec5b5e9a2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049989,
+            "localadmin_id":1108830083,
+            "locality_id":101748093,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85800731,
+            "region_id":85681733
+        }
+    ],
+    "wof:id":85800731,
+    "wof:lang":[
+        "dut"
+    ],
+    "wof:lastmodified":1531862040,
+    "wof:name":"Aalst St.-Pieter",
+    "wof:parent_id":101748093,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.700524,
+    51.039012,
+    3.700524,
+    51.039012
+],
+  "geometry": {"coordinates":[3.700524,51.039012],"type":"Point"}
+}

@@ -1,0 +1,111 @@
+{
+  "id": 1125993945,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.80852,50.7626,3.80852,50.7626",
+    "geom:latitude":50.7626,
+    "geom:longitude":3.80852,
+    "gn:gn_country":"BE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"BE",
+    "lbl:latitude":50.7626,
+    "lbl:longitude":3.80852,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Everbeek"
+    ],
+    "name:eng_x_preferred":[
+        "Everbeek"
+    ],
+    "name:fre_x_preferred":[
+        "Everbeek"
+    ],
+    "name:hun_x_preferred":[
+        "Everbeek"
+    ],
+    "name:spa_x_preferred":[
+        "Everbeek"
+    ],
+    "name:unk_x_variant":[
+        "Everbecq"
+    ],
+    "qs_pg:aaroncc":"BE",
+    "qs_pg:gn_country":"BE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2798558,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Everbeek",
+    "qs_pg:name_adm0":"Belgique",
+    "qs_pg:name_adm1":"Oost-Vlaanderen",
+    "qs_pg:photos":31,
+    "qs_pg:photos_1k":6,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":31,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":4343,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424757,
+    "qs_pg:woe_id":969482,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424757,
+    "woe:name_adm0":"Belgique",
+    "woe:name_adm1":"Oost-Vlaanderen",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85681733,
+        102191581,
+        1108830545,
+        85632997,
+        404227357,
+        102049963
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2798558,
+        "gp:id":969482,
+        "qs_pg:id":4343,
+        "wd:id":"Q3475722"
+    },
+    "wof:country":"BE",
+    "wof:created":1497299196,
+    "wof:geomhash":"a71fcd8006f61a0471fc3d4f88d015a1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049963,
+            "localadmin_id":1108830545,
+            "locality_id":1125993945,
+            "macroregion_id":404227357,
+            "region_id":85681733
+        }
+    ],
+    "wof:id":1125993945,
+    "wof:lastmodified":1513899255,
+    "wof:name":"Everbeek",
+    "wof:parent_id":1108830545,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.80852,
+    50.7626,
+    3.80852,
+    50.7626
+],
+  "geometry": {"coordinates":[3.80852,50.7626],"type":"Point"}
+}

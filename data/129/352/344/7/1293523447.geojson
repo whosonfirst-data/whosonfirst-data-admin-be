@@ -1,0 +1,75 @@
+{
+  "id": 1293523447,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.39231,50.56961,5.39231,50.56961",
+    "geom:latitude":50.56961,
+    "geom:longitude":5.39231,
+    "gn:admin1_code":"WAL",
+    "gn:admin2_code":"WLG",
+    "gn:admin3_code":"61.0",
+    "gn:admin4_code":"61080.0",
+    "gn:asciiname":"Clermont-sous-Huy",
+    "gn:country_code":"BE",
+    "gn:dem":73,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2800255,
+    "gn:latitude":50.56961,
+    "gn:longitude":5.39231,
+    "gn:modification_date":"2011-03-17",
+    "gn:name":"Clermont-sous-Huy",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Engis (Clermont-sous-Huy)"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681691,
+        102191581,
+        85632997,
+        404227353,
+        102049925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2800255
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"fc940d64437c22514c6fd0659fc3d04e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049925,
+            "locality_id":1293523447,
+            "macroregion_id":404227353,
+            "region_id":85681691
+        }
+    ],
+    "wof:id":1293523447,
+    "wof:lastmodified":1537587061,
+    "wof:name":"Clermont-sous-Huy",
+    "wof:parent_id":102049925,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.39231,
+    50.56961,
+    5.39231,
+    50.56961
+],
+  "geometry": {"coordinates":[5.39231,50.56961],"type":"Point"}
+}

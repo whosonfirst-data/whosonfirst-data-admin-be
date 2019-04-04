@@ -1,0 +1,72 @@
+{
+  "id": 1293626107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.06236,50.61805,4.06236,50.61805",
+    "geom:latitude":50.61805,
+    "geom:longitude":4.06236,
+    "gn:admin1_code":"WAL",
+    "gn:admin2_code":"WHT",
+    "gn:admin3_code":"55.0",
+    "gn:admin4_code":"55040.0",
+    "gn:asciiname":"Froide Fontaine",
+    "gn:country_code":"BE",
+    "gn:dem":71,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2797935,
+    "gn:latitude":50.61805,
+    "gn:longitude":4.06236,
+    "gn:modification_date":"2017-03-25",
+    "gn:name":"Froide Fontaine",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681723,
+        102191581,
+        85632997,
+        404227353,
+        102049943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2797935
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"bb012e600fb7e76be5f798b7deb20a8d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049943,
+            "locality_id":1293626107,
+            "macroregion_id":404227353,
+            "region_id":85681723
+        }
+    ],
+    "wof:id":1293626107,
+    "wof:lastmodified":1537081120,
+    "wof:name":"Froide Fontaine",
+    "wof:parent_id":102049943,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.06236,
+    50.61805,
+    4.06236,
+    50.61805
+],
+  "geometry": {"coordinates":[4.06236,50.61805],"type":"Point"}
+}

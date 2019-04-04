@@ -1,0 +1,116 @@
+{
+  "id": 85801345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-15",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-15",
+    "geom:area":0.0,
+    "geom:area_square_m":512905.363877,
+    "geom:bbox":"4.335663,50.787993,4.335663,50.787993",
+    "geom:latitude":50.787993,
+    "geom:longitude":4.335663,
+    "iso:country":"BE",
+    "lbl:latitude":50.787993,
+    "lbl:longitude":4.335663,
+    "mps:latitude":50.782497,
+    "mps:longitude":4.336813,
+    "mz:hierarchy_label":0,
+    "mz:is_current":0,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":1,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":13.0,
+    "mz:tier_locality":1,
+    "mz:tier_metro":30,
+    "name:fra_x_preferred":[
+        "Calevoet"
+    ],
+    "name:nld_x_preferred":[
+        "Kalevoet"
+    ],
+    "name:unk_x_variant":[
+        "Calevoet",
+        "Kalevoet"
+    ],
+    "qs:gn_fcode":"PPL",
+    "qs:gn_local":0,
+    "qs:gn_namadm1":"VLG",
+    "qs:gn_name":"Calevoet",
+    "qs:local_max":108,
+    "qs:local_sum":130,
+    "qs:localhoods":3,
+    "qs:name":"Kalevoet",
+    "qs:name_adm0":"Belgique",
+    "qs:name_adm1":"Vlaams Brabant",
+    "qs:name_adm2":"Halle-Vilvoorde",
+    "qs:name_lau":"Drogenbos",
+    "qs:name_local":"Drogenbos",
+    "qs:photo_max":4,
+    "qs:photo_sum":5,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":2,
+    "qs:woe_adm0":23424757,
+    "qs:woe_adm1":22525998,
+    "qs:woe_adm2":12591768,
+    "qs:woe_lau":20074657,
+    "qs:woe_local":20074657,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"mz",
+    "wof:belongsto":[
+        102191581,
+        85632997,
+        404227355,
+        101913251,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2800680,
+        "gp:id":971814,
+        "qs:id":186900
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"297b04c9e0978b178e71d803fd5a9ff6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101913251,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801345,
+            "region_id":85681713
+        }
+    ],
+    "wof:id":85801345,
+    "wof:lang":[
+        "dut"
+    ],
+    "wof:lastmodified":1534379234,
+    "wof:name":"Kalevoet",
+    "wof:parent_id":101913251,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[
+        1126083571
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.335663,
+    50.787993,
+    4.335663,
+    50.787993
+],
+  "geometry": {"coordinates":[4.335663,50.787993],"type":"Point"}
+}

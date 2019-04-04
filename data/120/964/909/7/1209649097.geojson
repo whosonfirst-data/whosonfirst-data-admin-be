@@ -1,0 +1,68 @@
+{
+  "id": 1209649097,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.66667,50.86667,3.66667,50.86667",
+    "geom:latitude":50.86667,
+    "geom:longitude":3.66667,
+    "gn:admin1_code":"VLG",
+    "gn:admin2_code":"VOV",
+    "gn:admin3_code":"45.0",
+    "gn:admin4_code":"45035.0",
+    "gn:asciiname":"D'Oude Hulst",
+    "gn:country_code":"BE",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2799229,
+    "gn:latitude":50.86667,
+    "gn:longitude":3.66667,
+    "gn:modification_date":"2016-08-02",
+    "gn:name":"D'Oude Hulst",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Oude Hulst",
+        "D'Oude Hulst"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2799229
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"9e01827647fa026edabcf2706d3bcb17",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "locality_id":1209649097
+        }
+    ],
+    "wof:id":1209649097,
+    "wof:lastmodified":1537587049,
+    "wof:name":"D'Oude Hulst",
+    "wof:parent_id":85632997,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.66667,
+    50.86667,
+    3.66667,
+    50.86667
+],
+  "geometry": {"coordinates":[3.66667,50.86667],"type":"Point"}
+}

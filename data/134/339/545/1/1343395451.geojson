@@ -1,0 +1,88 @@
+{
+  "id": 1343395451,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.60407,51.19058,4.60407,51.19058",
+    "geom:latitude":51.19058,
+    "geom:longitude":4.60407,
+    "gn:admin1_code":"VLG",
+    "gn:admin2_code":"VAN",
+    "gn:admin3_code":"11.0",
+    "gn:admin4_code":"11035.0",
+    "gn:asciiname":"De Bist",
+    "gn:country_code":"BE",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2799831,
+    "gn:latitude":51.19058,
+    "gn:longitude":4.60407,
+    "gn:modification_date":"2016-08-02",
+    "gn:name":"De Bist",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bist",
+        "De Bist"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681715,
+        102191581,
+        1108830001,
+        85632997,
+        404227357,
+        102050005,
+        1108830111
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2799831
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"1c737849444b5260c73b170ba6e03704",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102050005,
+            "localadmin_id":1108830001,
+            "locality_id":1343395451,
+            "macroregion_id":404227357,
+            "region_id":85681715
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102050005,
+            "localadmin_id":1108830111,
+            "locality_id":1343395451,
+            "macroregion_id":404227357,
+            "region_id":85681715
+        }
+    ],
+    "wof:id":1343395451,
+    "wof:lastmodified":1537587057,
+    "wof:name":"De Bist",
+    "wof:parent_id":-4,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.60407,
+    51.19058,
+    4.60407,
+    51.19058
+],
+  "geometry": {"coordinates":[4.60407,51.19058],"type":"Point"}
+}

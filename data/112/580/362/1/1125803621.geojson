@@ -1,0 +1,101 @@
+{
+  "id": 1125803621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.84814,50.82172,3.84814,50.82172",
+    "geom:latitude":50.82172,
+    "geom:longitude":3.84814,
+    "gn:gn_country":"BE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":6449,
+    "gn:population":6449,
+    "iso:country":"BE",
+    "lbl:latitude":50.82172,
+    "lbl:longitude":3.84814,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Sint-Maria-Lierde"
+    ],
+    "name:eng_x_preferred":[
+        "Sint-Maria-Lierde"
+    ],
+    "name:fre_x_preferred":[
+        "Lierde-Sainte-Marie"
+    ],
+    "name:hun_x_preferred":[
+        "Sint-Maria-Lierde"
+    ],
+    "name:swe_x_preferred":[
+        "Sint-Maria-Lierde"
+    ],
+    "name:unk_x_variant":[
+        "Lierde-Sainte-Marie"
+    ],
+    "qs_pg:aaroncc":"BE",
+    "qs_pg:gn_country":"BE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2786603,
+    "qs_pg:gn_pop":6449,
+    "qs_pg:name":"Sint-Maria-Lierde",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":5,
+    "qs_pg:qs_id":1243801,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681733,
+        102191581,
+        1108830669,
+        85632997,
+        404227357,
+        102049963
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2786603,
+        "qs_pg:id":1243801,
+        "wd:id":"Q2167655"
+    },
+    "wof:country":"BE",
+    "wof:created":1497291374,
+    "wof:geomhash":"5f81ae54e0645bb1b36ed0cab05614ba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049963,
+            "localadmin_id":1108830669,
+            "locality_id":1125803621,
+            "macroregion_id":404227357,
+            "region_id":85681733
+        }
+    ],
+    "wof:id":1125803621,
+    "wof:lastmodified":1513899499,
+    "wof:name":"Sint-Maria-Lierde",
+    "wof:parent_id":1108830669,
+    "wof:placetype":"locality",
+    "wof:population":6449,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.84814,
+    50.82172,
+    3.84814,
+    50.82172
+],
+  "geometry": {"coordinates":[3.84814,50.82172],"type":"Point"}
+}

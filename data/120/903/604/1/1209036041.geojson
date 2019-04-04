@@ -1,0 +1,64 @@
+{
+  "id": 1209036041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.81667,51.03333,3.81667,51.03333",
+    "geom:latitude":51.03333,
+    "geom:longitude":3.81667,
+    "gn:admin1_code":"VLG",
+    "gn:admin2_code":"VOV",
+    "gn:admin3_code":"44.0",
+    "gn:admin4_code":"44013.0",
+    "gn:asciiname":"Hoeksken",
+    "gn:country_code":"BE",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2795670,
+    "gn:latitude":51.03333,
+    "gn:longitude":3.81667,
+    "gn:modification_date":"2016-08-02",
+    "gn:name":"Hoeksken",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2795670
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"f6254ac68e6ace11d53dbcd55b238ce3",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "locality_id":1209036041
+        }
+    ],
+    "wof:id":1209036041,
+    "wof:lastmodified":1536299697,
+    "wof:name":"Hoeksken",
+    "wof:parent_id":85632997,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.81667,
+    51.03333,
+    3.81667,
+    51.03333
+],
+  "geometry": {"coordinates":[3.81667,51.03333],"type":"Point"}
+}

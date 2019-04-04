@@ -1,0 +1,78 @@
+{
+  "id": 1226785373,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.75451,51.04818,2.75451,51.04818",
+    "geom:latitude":51.04818,
+    "geom:longitude":2.75451,
+    "gn:admin1_code":"VLG",
+    "gn:admin2_code":"VWV",
+    "gn:admin3_code":"38.0",
+    "gn:admin4_code":"38025.0",
+    "gn:asciiname":"Zoutenaaie",
+    "gn:country_code":"BE",
+    "gn:dem":0,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2783173,
+    "gn:latitude":51.04818,
+    "gn:longitude":2.75451,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Zoutenaaie",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Zoetenaey",
+        "Zoutenaaie"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681709,
+        102191581,
+        1108830165,
+        85632997,
+        404227357,
+        102049991
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2783173
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"ab8cf23d72ca5de403828101155086d5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049991,
+            "localadmin_id":1108830165,
+            "locality_id":1226785373,
+            "macroregion_id":404227357,
+            "region_id":85681709
+        }
+    ],
+    "wof:id":1226785373,
+    "wof:lastmodified":1537586876,
+    "wof:name":"Zoutenaaie",
+    "wof:parent_id":1108830165,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.75451,
+    51.04818,
+    2.75451,
+    51.04818
+],
+  "geometry": {"coordinates":[2.75451,51.04818],"type":"Point"}
+}

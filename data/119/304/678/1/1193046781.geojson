@@ -1,0 +1,78 @@
+{
+  "id": 1193046781,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.04691,51.01634,5.04691,51.01634",
+    "geom:latitude":51.01634,
+    "geom:longitude":5.04691,
+    "gn:admin1_code":"VLG",
+    "gn:admin2_code":"VBR",
+    "gn:admin3_code":"24.0",
+    "gn:admin4_code":"24020.0",
+    "gn:asciiname":"Dassenaarde",
+    "gn:country_code":"BE",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2799867,
+    "gn:latitude":51.01634,
+    "gn:longitude":5.04691,
+    "gn:modification_date":"2016-08-02",
+    "gn:name":"Dassenaarde",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dassen Aerde",
+        "Dassenaarde"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681731,
+        102191581,
+        1108830307,
+        85632997,
+        404227357,
+        102049969
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2799867
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"cb4ca278ed70127a4befc67fe8740b53",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049969,
+            "localadmin_id":1108830307,
+            "locality_id":1193046781,
+            "macroregion_id":404227357,
+            "region_id":85681731
+        }
+    ],
+    "wof:id":1193046781,
+    "wof:lastmodified":1537587058,
+    "wof:name":"Dassenaarde",
+    "wof:parent_id":1108830307,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.04691,
+    51.01634,
+    5.04691,
+    51.01634
+],
+  "geometry": {"coordinates":[5.04691,51.01634],"type":"Point"}
+}

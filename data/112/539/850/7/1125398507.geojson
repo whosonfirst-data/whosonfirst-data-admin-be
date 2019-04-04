@@ -1,0 +1,75 @@
+{
+  "id": 1125398507,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2017-05-19",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.17178,50.83246,3.17178,50.83246",
+    "geom:latitude":50.83246,
+    "geom:longitude":3.17178,
+    "gn:gn_country":"BE",
+    "gn:gn_fcode":"ADM4",
+    "gn:gn_pop":31049,
+    "gn:population":31049,
+    "iso:country":"BE",
+    "lbl:latitude":50.83246,
+    "lbl:longitude":3.17178,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:unk_x_variant":[
+        "Wevelghem"
+    ],
+    "qs_pg:aaroncc":"BE",
+    "qs_pg:gn_country":"BE",
+    "qs_pg:gn_fcode":"ADM4",
+    "qs_pg:gn_id":2783760,
+    "qs_pg:gn_pop":31049,
+    "qs_pg:name":"Wevelgem",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":7,
+    "qs_pg:qs_id":1062702,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85632997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2783760,
+        "qs_pg:id":1062702
+    },
+    "wof:country":"BE",
+    "wof:created":1497049168,
+    "wof:geomhash":"eb1efa55387e81f49c80a678548e9e51",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "localadmin_id":1125398507
+        }
+    ],
+    "wof:id":1125398507,
+    "wof:lastmodified":1505185639,
+    "wof:name":"Wevelgem",
+    "wof:parent_id":-1,
+    "wof:placetype":"localadmin",
+    "wof:population":31049,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.17178,
+    50.83246,
+    3.17178,
+    50.83246
+],
+  "geometry": {"coordinates":[3.17178,50.83246],"type":"Point"}
+}

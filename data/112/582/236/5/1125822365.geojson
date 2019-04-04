@@ -1,0 +1,117 @@
+{
+  "id": 1125822365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.26936,51.10728,3.26936,51.10728",
+    "geom:latitude":51.10728,
+    "geom:longitude":3.26936,
+    "gn:gn_country":"BE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"BE",
+    "lbl:latitude":51.10728,
+    "lbl:longitude":3.26936,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Hertsberge"
+    ],
+    "name:dut_x_preferred":[
+        "Hertsberge"
+    ],
+    "name:eng_x_preferred":[
+        "Hertsberge"
+    ],
+    "name:fre_x_preferred":[
+        "Hertsberge"
+    ],
+    "name:hun_x_preferred":[
+        "Hertsberge"
+    ],
+    "name:por_x_preferred":[
+        "Hertsberge"
+    ],
+    "name:unk_x_variant":[
+        "Hertsberghe"
+    ],
+    "name:vls_x_preferred":[
+        "Ertsberge"
+    ],
+    "qs_pg:aaroncc":"BE",
+    "qs_pg:gn_country":"BE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2795916,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Hertsberge",
+    "qs_pg:name_adm0":"Belgique",
+    "qs_pg:name_adm1":"West-Vlaanderen",
+    "qs_pg:photos":63,
+    "qs_pg:photos_1k":13,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":63,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1087114,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424757,
+    "qs_pg:woe_id":971080,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424757,
+    "woe:name_adm0":"Belgique",
+    "woe:name_adm1":"West-Vlaanderen",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85681709,
+        102191581,
+        1108830181,
+        85632997,
+        404227357,
+        102050003
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2795916,
+        "gp:id":971080,
+        "qs_pg:id":1087114,
+        "wd:id":"Q2751780"
+    },
+    "wof:country":"BE",
+    "wof:created":1497292127,
+    "wof:geomhash":"fe60d486c96b311d18a1baa9399b7803",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102050003,
+            "localadmin_id":1108830181,
+            "locality_id":1125822365,
+            "macroregion_id":404227357,
+            "region_id":85681709
+        }
+    ],
+    "wof:id":1125822365,
+    "wof:lastmodified":1513899310,
+    "wof:name":"Hertsberge",
+    "wof:parent_id":1108830181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.26936,
+    51.10728,
+    3.26936,
+    51.10728
+],
+  "geometry": {"coordinates":[3.26936,51.10728],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1327065049,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.58333,50.46667,4.58333,50.46667",
+    "geom:latitude":50.46667,
+    "geom:longitude":4.58333,
+    "gn:admin1_code":"WAL",
+    "gn:admin2_code":"WHT",
+    "gn:admin3_code":"52.0",
+    "gn:admin4_code":"52021.0",
+    "gn:asciiname":"Trieu Bernard",
+    "gn:country_code":"BE",
+    "gn:dem":159,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2785268,
+    "gn:latitude":50.46667,
+    "gn:longitude":4.58333,
+    "gn:modification_date":"2017-03-25",
+    "gn:name":"Trieu Bernard",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681723,
+        102191581,
+        85632997,
+        404227353,
+        102049927
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2785268
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"4b2659c40b524c190ad7235921742a67",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049927,
+            "locality_id":1327065049,
+            "macroregion_id":404227353,
+            "region_id":85681723
+        }
+    ],
+    "wof:id":1327065049,
+    "wof:lastmodified":1536713641,
+    "wof:name":"Trieu Bernard",
+    "wof:parent_id":102049927,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.58333,
+    50.46667,
+    4.58333,
+    50.46667
+],
+  "geometry": {"coordinates":[4.58333,50.46667],"type":"Point"}
+}

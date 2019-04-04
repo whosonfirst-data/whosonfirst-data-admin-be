@@ -1,0 +1,74 @@
+{
+  "id": 1243393721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.41667,51.11667,4.41667,51.11667",
+    "geom:latitude":51.11667,
+    "geom:longitude":4.41667,
+    "gn:admin1_code":"VLG",
+    "gn:admin2_code":"VAN",
+    "gn:admin3_code":"11.0",
+    "gn:admin4_code":"11024.0",
+    "gn:asciiname":"Pierstraat",
+    "gn:country_code":"BE",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2788988,
+    "gn:latitude":51.11667,
+    "gn:longitude":4.41667,
+    "gn:modification_date":"2016-08-02",
+    "gn:name":"Pierstraat",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681715,
+        102191581,
+        1108830209,
+        85632997,
+        404227357,
+        102050005
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2788988
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"0da43fb929d555434b7d8b6ab60cd267",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102050005,
+            "localadmin_id":1108830209,
+            "locality_id":1243393721,
+            "macroregion_id":404227357,
+            "region_id":85681715
+        }
+    ],
+    "wof:id":1243393721,
+    "wof:lastmodified":1536881031,
+    "wof:name":"Pierstraat",
+    "wof:parent_id":1108830209,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.41667,
+    51.11667,
+    4.41667,
+    51.11667
+],
+  "geometry": {"coordinates":[4.41667,51.11667],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1125373843,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2017-05-19",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.699576,49.625209,5.699576,49.625209",
+    "geom:latitude":49.625209,
+    "geom:longitude":5.699576,
+    "gn:gn_country":null,
+    "iso:country":"BE",
+    "lbl:latitude":49.625209,
+    "lbl:longitude":5.699576,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"BE",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"St.-L\u00e9ger",
+    "qs_pg:name_adm0":"Belgique",
+    "qs_pg:name_adm1":"Luxembourg",
+    "qs_pg:photos":184,
+    "qs_pg:photos_1k":37,
+    "qs_pg:photos_9k":10,
+    "qs_pg:photos_9r":9,
+    "qs_pg:photos_all":2298,
+    "qs_pg:photos_sr":4,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":894374,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
+    "qs_pg:woe_adm0":23424757,
+    "qs_pg:woe_id":12602758,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424757,
+    "woe:name_adm0":"Belgique",
+    "woe:name_adm1":"Luxembourg",
+    "woe:placetype":"LocalAdmin",
+    "wof:belongsto":[
+        85632997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12602758,
+        "qs_pg:id":894374
+    },
+    "wof:country":"BE",
+    "wof:created":1497047590,
+    "wof:geomhash":"03cdae1db6710cd0b04f58987eb3cc74",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "localadmin_id":1125373843
+        }
+    ],
+    "wof:id":1125373843,
+    "wof:lastmodified":1505248125,
+    "wof:name":"St.-L\u00e9ger",
+    "wof:parent_id":-1,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.699576,
+    49.625209,
+    5.699576,
+    49.625209
+],
+  "geometry": {"coordinates":[5.699576,49.625209],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1209549701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.45791,50.43763,5.45791,50.43763",
+    "geom:latitude":50.43763,
+    "geom:longitude":5.45791,
+    "gn:admin1_code":"WAL",
+    "gn:admin2_code":"WLG",
+    "gn:admin3_code":"61.0",
+    "gn:admin4_code":"61048.0",
+    "gn:asciiname":"Temme",
+    "gn:country_code":"BE",
+    "gn:dem":282,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2785789,
+    "gn:latitude":50.43763,
+    "gn:longitude":5.45791,
+    "gn:modification_date":"2017-03-25",
+    "gn:name":"Temme",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2785789
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"0ad4293c77050c231b51d4cb138f288b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "locality_id":1209549701
+        }
+    ],
+    "wof:id":1209549701,
+    "wof:lastmodified":1536283733,
+    "wof:name":"Temme",
+    "wof:parent_id":85632997,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.45791,
+    50.43763,
+    5.45791,
+    50.43763
+],
+  "geometry": {"coordinates":[5.45791,50.43763],"type":"Point"}
+}

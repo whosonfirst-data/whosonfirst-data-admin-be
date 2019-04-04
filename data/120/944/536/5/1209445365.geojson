@@ -1,0 +1,64 @@
+{
+  "id": 1209445365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.67484,50.59163,3.67484,50.59163",
+    "geom:latitude":50.59163,
+    "geom:longitude":3.67484,
+    "gn:admin1_code":"WAL",
+    "gn:admin2_code":"WHT",
+    "gn:admin3_code":"57.0",
+    "gn:admin4_code":"57094.0",
+    "gn:asciiname":"Noire Voie",
+    "gn:country_code":"BE",
+    "gn:dem":55,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2790072,
+    "gn:latitude":50.59163,
+    "gn:longitude":3.67484,
+    "gn:modification_date":"2017-03-25",
+    "gn:name":"Noire Voie",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2790072
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"8ae3c344c821a3cebc05a1d8cc5594b1",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "locality_id":1209445365
+        }
+    ],
+    "wof:id":1209445365,
+    "wof:lastmodified":1536286834,
+    "wof:name":"Noire Voie",
+    "wof:parent_id":85632997,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.67484,
+    50.59163,
+    3.67484,
+    50.59163
+],
+  "geometry": {"coordinates":[3.67484,50.59163],"type":"Point"}
+}

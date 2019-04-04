@@ -1,0 +1,89 @@
+{
+  "id": 1125375415,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2017-05-19",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.697,50.561,4.697,50.561",
+    "geom:latitude":50.561,
+    "geom:longitude":4.697,
+    "gn:gn_country":"BE",
+    "gn:gn_fcode":"ADM4",
+    "gn:gn_pop":23456,
+    "gn:population":23456,
+    "iso:country":"BE",
+    "lbl:latitude":50.561,
+    "lbl:longitude":4.697,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:nld_x_preferred":[
+        "Gembloers"
+    ],
+    "qs_pg:aaroncc":"BE",
+    "qs_pg:gn_country":"BE",
+    "qs_pg:gn_fcode":"ADM4",
+    "qs_pg:gn_id":2797714,
+    "qs_pg:gn_pop":23456,
+    "qs_pg:name":"Gembloux",
+    "qs_pg:name_adm0":"Belgique",
+    "qs_pg:name_adm1":"Namur",
+    "qs_pg:photos":191,
+    "qs_pg:photos_1k":39,
+    "qs_pg:photos_9k":3,
+    "qs_pg:photos_9r":5,
+    "qs_pg:photos_all":728,
+    "qs_pg:photos_sr":4,
+    "qs_pg:pop_sr":7,
+    "qs_pg:qs_id":365053,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
+    "qs_pg:woe_adm0":23424757,
+    "qs_pg:woe_id":12602386,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424757,
+    "woe:name_adm0":"Belgique",
+    "woe:name_adm1":"Namur",
+    "woe:placetype":"LocalAdmin",
+    "wof:belongsto":[
+        85632997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2797714,
+        "gp:id":12602386,
+        "qs_pg:id":365053
+    },
+    "wof:country":"BE",
+    "wof:created":1497047701,
+    "wof:geomhash":"86a05132189ac8e4ab7208b09a5d7d5c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "localadmin_id":1125375415
+        }
+    ],
+    "wof:id":1125375415,
+    "wof:lastmodified":1505185644,
+    "wof:name":"Gembloux",
+    "wof:parent_id":-1,
+    "wof:placetype":"localadmin",
+    "wof:population":23456,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.697,
+    50.561,
+    4.697,
+    50.561
+],
+  "geometry": {"coordinates":[4.697,50.561],"type":"Point"}
+}

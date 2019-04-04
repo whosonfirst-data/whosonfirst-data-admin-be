@@ -1,0 +1,74 @@
+{
+  "id": 1344191369,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.93333,50.88333,2.93333,50.88333",
+    "geom:latitude":50.88333,
+    "geom:longitude":2.93333,
+    "gn:admin1_code":"VLG",
+    "gn:admin2_code":"VWV",
+    "gn:admin3_code":"33.0",
+    "gn:admin4_code":"33040.0",
+    "gn:asciiname":"Fortuin",
+    "gn:country_code":"BE",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2798108,
+    "gn:latitude":50.88333,
+    "gn:longitude":2.93333,
+    "gn:modification_date":"2016-08-02",
+    "gn:name":"Fortuin",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681709,
+        102191581,
+        1108830263,
+        85632997,
+        404227357,
+        102049971
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2798108
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"61f7202d993389edab1b282d164172bd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049971,
+            "localadmin_id":1108830263,
+            "locality_id":1344191369,
+            "macroregion_id":404227357,
+            "region_id":85681709
+        }
+    ],
+    "wof:id":1344191369,
+    "wof:lastmodified":1536686789,
+    "wof:name":"Fortuin",
+    "wof:parent_id":1108830263,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.93333,
+    50.88333,
+    2.93333,
+    50.88333
+],
+  "geometry": {"coordinates":[2.93333,50.88333],"type":"Point"}
+}

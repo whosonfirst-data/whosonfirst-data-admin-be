@@ -1,0 +1,110 @@
+{
+  "id": 85801533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":2834032.275845,
+    "geom:bbox":"5.60877,50.664497,5.60877,50.664497",
+    "geom:latitude":50.664497,
+    "geom:longitude":5.60877,
+    "iso:country":"BE",
+    "lbl:latitude":50.664497,
+    "lbl:longitude":5.60877,
+    "mps:latitude":50.669616,
+    "mps:longitude":5.60834,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_locality":1,
+    "name:fra_x_colloquial":[
+        "La Prealle"
+    ],
+    "name:fra_x_preferred":[
+        "La Pr\u00e9alle"
+    ],
+    "name:unk_x_variant":[
+        "La Pr\u00e9alle"
+    ],
+    "qs:gn_adm0_cc":"BE",
+    "qs:gn_id":0,
+    "qs:gn_local":2795930,
+    "qs:gn_nam_loc":"Herstal, Herstal, Li\u00e8ge, Li\u00e8ge, BE",
+    "qs:gn_namadm1":"WAL",
+    "qs:id":0,
+    "qs:local_max":128,
+    "qs:local_sum":163,
+    "qs:localhoods":3,
+    "qs:name":"La Pr\u00e9alle",
+    "qs:name_adm0":"Belgique",
+    "qs:name_adm1":"Li\u00e8ge",
+    "qs:name_adm2":"Li\u00e8ge",
+    "qs:name_lau":"Herstal",
+    "qs:name_local":"Herstal",
+    "qs:photo_max":14,
+    "qs:photo_sum":30,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":6,
+    "qs:woe_adm0":23424757,
+    "qs:woe_adm1":7153300,
+    "qs:woe_adm2":12591793,
+    "qs:woe_lau":12602637,
+    "qs:woe_local":971074,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        85681691,
+        102191581,
+        85632997,
+        404227353,
+        101748083,
+        102049941
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":972709
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"6b71eb53fd38ce0ad6d42afbca338dc5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049941,
+            "locality_id":101748083,
+            "macroregion_id":404227353,
+            "neighbourhood_id":85801533,
+            "region_id":85681691
+        }
+    ],
+    "wof:id":85801533,
+    "wof:lang":[
+        "fre"
+    ],
+    "wof:lastmodified":1531862082,
+    "wof:name":"La Pr\u00e9alle",
+    "wof:parent_id":101748083,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.60877,
+    50.664497,
+    5.60877,
+    50.664497
+],
+  "geometry": {"coordinates":[5.60877,50.664497],"type":"Point"}
+}

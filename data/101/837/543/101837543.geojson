@@ -1,0 +1,108 @@
+{
+  "id": 101837543,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000046,
+    "geom:area_square_m":355742.19289,
+    "geom:bbox":"3.98321673701,51.0621857604,4.00061681581,51.0694862997",
+    "geom:latitude":51.066143,
+    "geom:longitude":3.991033,
+    "iso:country":"BE",
+    "lbl:latitude":51.066871,
+    "lbl:longitude":3.988727,
+    "mps:latitude":51.066871,
+    "mps:longitude":3.988727,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bul_x_preferred":[
+        "\u0425\u0435\u0438\u043a\u0430\u043d\u0442"
+    ],
+    "name:dut_x_preferred":[
+        "Heikant"
+    ],
+    "name:eng_x_preferred":[
+        "Heikant"
+    ],
+    "name:fre_x_preferred":[
+        "Heikant"
+    ],
+    "name:fry_x_preferred":[
+        "Heik\u00e2nt"
+    ],
+    "name:por_x_preferred":[
+        "Heikant"
+    ],
+    "name:spa_x_preferred":[
+        "Heikant"
+    ],
+    "name:zea_x_preferred":[
+        "D'n Aikant"
+    ],
+    "qs:a0":"Belgi\u00eb#Belgique#Belgien",
+    "qs:a1":"*Oost-Vlanderen",
+    "qs:a1r":"0Vlaams Gewest",
+    "qs:a2":"Dendermonde",
+    "qs:adm0":"Belgi\u00eb#Belgique#Belgien",
+    "qs:la":"Zele",
+    "qs:la_lc":"*BE242028",
+    "qs:level":"locality",
+    "qs:loc":"Heikant",
+    "qs:loc_alt":"Heikant",
+    "qs:pop":0,
+    "qs:source":"LCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-multi-in-poly-resolved",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":300,
+    "wof:belongsto":[
+        85681733,
+        102191581,
+        1108830229,
+        85632997,
+        404227357,
+        102049979
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2796212,
+        "gp:id":970896,
+        "qs:id":273165,
+        "qs_pg:id":273165,
+        "wd:id":"Q2350682"
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"f010f75e2a2c7da3ffea3898989ba996",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049979,
+            "localadmin_id":1108830229,
+            "locality_id":101837543,
+            "macroregion_id":404227357,
+            "region_id":85681733
+        }
+    ],
+    "wof:id":101837543,
+    "wof:lastmodified":1527715306,
+    "wof:name":"Heikant",
+    "wof:parent_id":1108830229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.98321673700747,
+    51.06218576039089,
+    4.00061681580695,
+    51.06948629970373
+],
+  "geometry": {"coordinates":[[[4.00061681580695,51.063937115084],[3.99978450879661,51.06218576039089],[3.99968033171558,51.06298718674003],[3.99825789400751,51.06291348010825],[3.99814146797354,51.06380888193297],[3.99529655049901,51.06366141311162],[3.9951800643222,51.06455681131501],[3.9880677071859,51.06418782608904],[3.98795107902811,51.06508321574688],[3.98652859283527,51.06500936477909],[3.98641193180242,51.0659047524515],[3.9849894225045,51.06583088241433],[3.98475602908331,51.06762165344355],[3.98333346939972,51.06754776269389],[3.98321673700747,51.06844314605013],[3.984639323973,51.06851703844239],[3.98452261326224,51.06941242309756],[3.98594523168651,51.06948629970373],[3.98606191511408,51.06859091340618],[3.99032971357929,51.06881243372436],[3.99056289994354,51.06702165024939],[3.99625313802744,51.06731675354644],[3.9966025482546,51.06463055607855],[3.999447528617,51.06477799332305],[3.99956393295901,51.06388259020321],[4.00061681580695,51.063937115084]]],"type":"Polygon"}
+}

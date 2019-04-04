@@ -1,0 +1,68 @@
+{
+  "id": 1209649613,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.7,50.8,3.7,50.8",
+    "geom:latitude":50.8,
+    "geom:longitude":3.7,
+    "gn:admin1_code":"VLG",
+    "gn:admin2_code":"VOV",
+    "gn:admin3_code":"45.0",
+    "gn:admin4_code":"45064.0",
+    "gn:asciiname":"Weistraat",
+    "gn:country_code":"BE",
+    "gn:dem":105,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2783876,
+    "gn:latitude":50.8,
+    "gn:longitude":3.7,
+    "gn:modification_date":"2016-08-02",
+    "gn:name":"Weistraat",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Weystraat",
+        "Weistraat"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2783876
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"f916e19d1c235bc3be228d2edea65f40",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "locality_id":1209649613
+        }
+    ],
+    "wof:id":1209649613,
+    "wof:lastmodified":1537586883,
+    "wof:name":"Weistraat",
+    "wof:parent_id":85632997,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.7,
+    50.8,
+    3.7,
+    50.8
+],
+  "geometry": {"coordinates":[3.7,50.8],"type":"Point"}
+}

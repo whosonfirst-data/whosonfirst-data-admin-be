@@ -1,0 +1,109 @@
+{
+  "id": 1125784453,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.36343,50.79267,5.36343,50.79267",
+    "geom:latitude":50.79267,
+    "geom:longitude":5.36343,
+    "gn:gn_country":"BE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"BE",
+    "lbl:latitude":50.79267,
+    "lbl:longitude":5.36343,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Groot-Loon"
+    ],
+    "name:eng_x_preferred":[
+        "Groot-Loon"
+    ],
+    "name:fre_x_preferred":[
+        "Groot-Loon"
+    ],
+    "name:hun_x_preferred":[
+        "Groot-Loon"
+    ],
+    "name:unk_x_variant":[
+        "Grand-Looz"
+    ],
+    "name:wln_x_preferred":[
+        "Grand-L\u00f4"
+    ],
+    "qs_pg:aaroncc":"BE",
+    "qs_pg:gn_country":"BE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2797028,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Groot-Loon",
+    "qs_pg:name_adm0":"Belgique",
+    "qs_pg:name_adm1":"Limburg",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":4,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":27425,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424757,
+    "qs_pg:woe_id":970388,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424757,
+    "woe:name_adm0":"Belgique",
+    "woe:name_adm1":"Limburg",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85681705,
+        102191581,
+        1108830359,
+        85632997,
+        404227357,
+        1108782563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2797028,
+        "gp:id":970388,
+        "qs_pg:id":27425,
+        "wd:id":"Q2118047"
+    },
+    "wof:country":"BE",
+    "wof:created":1497290619,
+    "wof:geomhash":"0c6c9be0fdac6560e66382985bbd3713",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":1108782563,
+            "localadmin_id":1108830359,
+            "locality_id":1125784453,
+            "macroregion_id":404227357,
+            "region_id":85681705
+        }
+    ],
+    "wof:id":1125784453,
+    "wof:lastmodified":1513899291,
+    "wof:name":"Groot-Loon",
+    "wof:parent_id":1108830359,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.36343,
+    50.79267,
+    5.36343,
+    50.79267
+],
+  "geometry": {"coordinates":[5.36343,50.79267],"type":"Point"}
+}

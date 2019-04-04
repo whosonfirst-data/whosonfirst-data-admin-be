@@ -1,0 +1,76 @@
+{
+  "id": 1309840127,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.23658,50.37457,4.23658,50.37457",
+    "geom:latitude":50.37457,
+    "geom:longitude":4.23658,
+    "gn:admin1_code":"WAL",
+    "gn:admin2_code":"WHT",
+    "gn:admin3_code":"56.0",
+    "gn:admin4_code":"56044.0",
+    "gn:asciiname":"Mont-Sainte-Genevieve",
+    "gn:country_code":"BE",
+    "gn:dem":201,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2790758,
+    "gn:latitude":50.37457,
+    "gn:longitude":4.23658,
+    "gn:modification_date":"2012-02-02",
+    "gn:name":"Mont-Sainte-Genevi\u00e8ve",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mont-Sainte-Genevi\u00e8ve"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681723,
+        102191581,
+        85632997,
+        404227353,
+        102049923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2790758,
+        "wk:page":"Mont-Sainte-Genevi%C3%A8ve"
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"d555edac7d9ee0587eca45c361d67f44",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049923,
+            "locality_id":1309840127,
+            "macroregion_id":404227353,
+            "region_id":85681723
+        }
+    ],
+    "wof:id":1309840127,
+    "wof:lastmodified":1537586961,
+    "wof:name":"Mont-Sainte-Genevieve",
+    "wof:parent_id":102049923,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.23658,
+    50.37457,
+    4.23658,
+    50.37457
+],
+  "geometry": {"coordinates":[4.23658,50.37457],"type":"Point"}
+}

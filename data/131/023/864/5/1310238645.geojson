@@ -1,0 +1,78 @@
+{
+  "id": 1310238645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.62029,51.24686,4.62029,51.24686",
+    "geom:latitude":51.24686,
+    "geom:longitude":4.62029,
+    "gn:admin1_code":"VLG",
+    "gn:admin2_code":"VAN",
+    "gn:admin3_code":"11.0",
+    "gn:admin4_code":"11055.0",
+    "gn:asciiname":"Driehoek",
+    "gn:country_code":"BE",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2799191,
+    "gn:latitude":51.24686,
+    "gn:longitude":4.62029,
+    "gn:modification_date":"2016-08-02",
+    "gn:name":"Driehoek",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Drijhoek",
+        "Driehoek"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681715,
+        102191581,
+        1108830221,
+        85632997,
+        404227357,
+        102050005
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2799191
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"4315a3633c4cebf6d028b5b026676213",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102050005,
+            "localadmin_id":1108830221,
+            "locality_id":1310238645,
+            "macroregion_id":404227357,
+            "region_id":85681715
+        }
+    ],
+    "wof:id":1310238645,
+    "wof:lastmodified":1537587048,
+    "wof:name":"Driehoek",
+    "wof:parent_id":1108830221,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.62029,
+    51.24686,
+    4.62029,
+    51.24686
+],
+  "geometry": {"coordinates":[4.62029,51.24686],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1343292801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.10797,50.67296,5.10797,50.67296",
+    "geom:latitude":50.67296,
+    "geom:longitude":5.10797,
+    "gn:admin1_code":"WAL",
+    "gn:admin2_code":"WLG",
+    "gn:admin3_code":"64.0",
+    "gn:admin4_code":"64034.0",
+    "gn:asciiname":"Fond du Bosquet",
+    "gn:country_code":"BE",
+    "gn:dem":130,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2798212,
+    "gn:latitude":50.67296,
+    "gn:longitude":5.10797,
+    "gn:modification_date":"2017-03-25",
+    "gn:name":"Fond du Bosquet",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681691,
+        102191581,
+        85632997,
+        404227353,
+        102049937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2798212
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"5e8f8fcf713276c1ce530198387dd604",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049937,
+            "locality_id":1343292801,
+            "macroregion_id":404227353,
+            "region_id":85681691
+        }
+    ],
+    "wof:id":1343292801,
+    "wof:lastmodified":1536987501,
+    "wof:name":"Fond du Bosquet",
+    "wof:parent_id":102049937,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.10797,
+    50.67296,
+    5.10797,
+    50.67296
+],
+  "geometry": {"coordinates":[5.10797,50.67296],"type":"Point"}
+}

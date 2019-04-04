@@ -1,0 +1,64 @@
+{
+  "id": 1209552367,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.10956,50.92063,3.10956,50.92063",
+    "geom:latitude":50.92063,
+    "geom:longitude":3.10956,
+    "gn:admin1_code":"VLG",
+    "gn:admin2_code":"VWV",
+    "gn:admin3_code":"36.0",
+    "gn:admin4_code":"36015.0",
+    "gn:asciiname":"Zilverberg",
+    "gn:country_code":"BE",
+    "gn:dem":33,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2783219,
+    "gn:latitude":50.92063,
+    "gn:longitude":3.10956,
+    "gn:modification_date":"2016-08-02",
+    "gn:name":"Zilverberg",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2783219
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"dab258c1f6d1b50fba202224c894002a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "locality_id":1209552367
+        }
+    ],
+    "wof:id":1209552367,
+    "wof:lastmodified":1536283652,
+    "wof:name":"Zilverberg",
+    "wof:parent_id":85632997,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.10956,
+    50.92063,
+    3.10956,
+    50.92063
+],
+  "geometry": {"coordinates":[3.10956,50.92063],"type":"Point"}
+}

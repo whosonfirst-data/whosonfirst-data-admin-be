@@ -1,0 +1,95 @@
+{
+  "id": 101913645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000013,
+    "geom:area_square_m":98747.38334,
+    "geom:bbox":"4.22236163445,51.0089398021,4.22900725041,51.0132273487",
+    "geom:latitude":51.010842,
+    "geom:longitude":4.225401,
+    "iso:country":"BE",
+    "lbl:latitude":51.010893,
+    "lbl:longitude":4.225401,
+    "mps:latitude":51.010893,
+    "mps:longitude":4.225401,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Malderen"
+    ],
+    "name:eng_x_preferred":[
+        "Malderen"
+    ],
+    "name:fre_x_preferred":[
+        "Malderen"
+    ],
+    "name:ltz_x_preferred":[
+        "Malderen"
+    ],
+    "name:unk_x_variant":[
+        "Londerzeel (Malderen)"
+    ],
+    "qs:a0":"Belgi\u00eb#Belgique#Belgien",
+    "qs:a1":"*Oost-Vlanderen",
+    "qs:a1r":"0Vlaams Gewest",
+    "qs:a2":"Dendermonde",
+    "qs:adm0":"Belgi\u00eb#Belgique#Belgien",
+    "qs:id":0,
+    "qs:la":"Kalmthout",
+    "qs:la_lc":"*BE211022",
+    "qs:level":"locality",
+    "qs:loc":"Malderen",
+    "qs:loc_alt":"Malderen",
+    "qs:pop":0,
+    "qs:source":"LCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"suburbs point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        85681733,
+        102191581,
+        1108830107,
+        85632997,
+        404227357,
+        102049979
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2791854,
+        "gp:id":975180,
+        "wd:id":"Q637158"
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"ea87e60c45f373aaddb71c1231f998c2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049979,
+            "localadmin_id":1108830107,
+            "locality_id":101913645,
+            "macroregion_id":404227357,
+            "region_id":85681733
+        }
+    ],
+    "wof:id":101913645,
+    "wof:lastmodified":1513899386,
+    "wof:name":"Malderen",
+    "wof:parent_id":1108830107,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.2223616344549,
+    51.00893980208104,
+    4.22900725041097,
+    51.01322734870547
+],
+  "geometry": {"coordinates":[[[4.22900725041097,51.00974985904497],[4.22684871758378,51.00964220883054],[4.22693639305476,51.00893980208104],[4.22246019081211,51.01043186949488],[4.2223616344549,51.01122077189922],[4.22378278462986,51.01129171828967],[4.22354100523143,51.01322734870547],[4.22681585360237,51.01165542148738],[4.22900725041097,51.00974985904497]]],"type":"Polygon"}
+}

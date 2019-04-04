@@ -1,0 +1,115 @@
+{
+  "id": 85800763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":4519305.79585,
+    "geom:bbox":"5.599482,50.610085,5.599482,50.610085",
+    "geom:latitude":50.610085,
+    "geom:longitude":5.599482,
+    "iso:country":"BE",
+    "lbl:latitude":50.610085,
+    "lbl:longitude":5.599482,
+    "mps:latitude":50.602849,
+    "mps:longitude":5.601285,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":14.0,
+    "mz:tier_locality":3,
+    "name:fra_x_preferred":[
+        "Angleur"
+    ],
+    "name:unk_x_variant":[
+        "Li\u00e8ge (Angleur)",
+        "Angleur"
+    ],
+    "qs:gn_adm0_cc":"BE",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_local":2792413,
+    "qs:gn_nam_loc":"Li\u00e8ge, Li\u00e8ge, Li\u00e8ge, BE",
+    "qs:gn_namadm1":"WAL",
+    "qs:gn_name":"Angleur",
+    "qs:local_max":5890,
+    "qs:local_sum":27074,
+    "qs:localhoods":35,
+    "qs:name":"Angleur",
+    "qs:name_adm0":"Belgique",
+    "qs:name_adm1":"Li\u00e8ge",
+    "qs:name_adm2":"Li\u00e8ge",
+    "qs:name_lau":"Li\u00e8ge",
+    "qs:name_local":"Li\u00e8ge",
+    "qs:photo_max":63,
+    "qs:photo_sum":403,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":28,
+    "qs:woe_adm0":23424757,
+    "qs:woe_adm1":7153300,
+    "qs:woe_adm2":12591793,
+    "qs:woe_lau":12602393,
+    "qs:woe_local":973540,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wd:wordcount":109,
+    "wof:belongsto":[
+        85681691,
+        102191581,
+        85632997,
+        404227353,
+        101748083,
+        102049941
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2803183,
+        "gp:id":966569,
+        "qs:id":1077898,
+        "qs_pg:id":1077898,
+        "wd:id":"Q540710",
+        "wk:page":"Angleur"
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"143cb7cf67ef12cf8b123992e805af33",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049941,
+            "locality_id":101748083,
+            "macroregion_id":404227353,
+            "neighbourhood_id":85800763,
+            "region_id":85681691
+        }
+    ],
+    "wof:id":85800763,
+    "wof:lang":[
+        "fre"
+    ],
+    "wof:lastmodified":1531862043,
+    "wof:name":"Angleur",
+    "wof:parent_id":101748083,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.599482,
+    50.610085,
+    5.599482,
+    50.610085
+],
+  "geometry": {"coordinates":[5.599482,50.610085],"type":"Point"}
+}

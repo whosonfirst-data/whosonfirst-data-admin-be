@@ -1,0 +1,79 @@
+{
+  "id": 1293914801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.9,50.85,2.9,50.85",
+    "geom:latitude":50.85,
+    "geom:longitude":2.9,
+    "gn:admin1_code":"VLG",
+    "gn:admin2_code":"VWV",
+    "gn:admin3_code":"33.0",
+    "gn:admin4_code":"33011.0",
+    "gn:asciiname":"Menenpoort",
+    "gn:country_code":"BE",
+    "gn:dem":33,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2791342,
+    "gn:latitude":50.85,
+    "gn:longitude":2.9,
+    "gn:modification_date":"2016-08-02",
+    "gn:name":"Menenpoort",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Petite de Menin",
+        "Menenpoort"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681709,
+        102191581,
+        1108830595,
+        85632997,
+        404227357,
+        102049971
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2791342,
+        "wk:page":"Menin_Gate"
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"534d2c9d3a8ef79a673f1f97f1c0a5ff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049971,
+            "localadmin_id":1108830595,
+            "locality_id":1293914801,
+            "macroregion_id":404227357,
+            "region_id":85681709
+        }
+    ],
+    "wof:id":1293914801,
+    "wof:lastmodified":1537586966,
+    "wof:name":"Menenpoort",
+    "wof:parent_id":1108830595,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.9,
+    50.85,
+    2.9,
+    50.85
+],
+  "geometry": {"coordinates":[2.9,50.85],"type":"Point"}
+}

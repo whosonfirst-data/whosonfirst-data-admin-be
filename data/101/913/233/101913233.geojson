@@ -1,0 +1,79 @@
+{
+  "id": 101913233,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000229,
+    "geom:area_square_m":1786393.595433,
+    "geom:bbox":"4.49127943335,50.7939802835,4.53613304078,50.8028018837",
+    "geom:latitude":50.798216,
+    "geom:longitude":4.517121,
+    "iso:country":"BE",
+    "lbl:latitude":50.797899,
+    "lbl:longitude":4.52052,
+    "mps:latitude":50.797899,
+    "mps:longitude":4.52052,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:a0":"Belgi\u00eb#Belgique#Belgien",
+    "qs:a1":"*Vlaams Brabant",
+    "qs:a1r":"0Vlaams Gewest",
+    "qs:a2":"Halle-Vilvoorde",
+    "qs:adm0":"Belgi\u00eb#Belgique#Belgien",
+    "qs:la":"Kalmthout",
+    "qs:la_lc":"*BE211022",
+    "qs:level":"locality",
+    "qs:loc":"Brussel",
+    "qs:loc_alt":"Brussel",
+    "qs:pop":0,
+    "qs:source":"LCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"urban core",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":9443,
+    "wof:belongsto":[
+        85681731,
+        102191581,
+        1108830581,
+        85632997,
+        404227357,
+        102049973
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "qs:id":1,
+        "wd:id":"Q240"
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"463b97e8f81230594e305785c5f71f9c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049973,
+            "localadmin_id":1108830581,
+            "locality_id":101913233,
+            "macroregion_id":404227357,
+            "region_id":85681731
+        }
+    ],
+    "wof:id":101913233,
+    "wof:lastmodified":1527688562,
+    "wof:name":"Brussel",
+    "wof:parent_id":1108830581,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.49127943334599,
+    50.79398028347151,
+    4.53613304077743,
+    50.80280188366015
+],
+  "geometry": {"coordinates":[[[4.53613304077743,50.79669648692322],[4.53506348015424,50.79664579470244],[4.53516860535274,50.79574973280438],[4.53092365644835,50.79554843744228],[4.53102885751008,50.79465237965377],[4.51687954049248,50.79398028347151],[4.51666859417713,50.79577236906295],[4.51525362915305,50.79570506116266],[4.51514812148787,50.79660110197563],[4.51231814876735,50.79646643121447],[4.51221258214844,50.79736246872426],[4.50513758119996,50.79702548110907],[4.50534897898279,50.79523342062521],[4.50110418521405,50.7950310290222],[4.50099840797463,50.7959270549656],[4.49392369208027,50.79558938159471],[4.49381777501173,50.79648539975591],[4.49240281616085,50.79641781160285],[4.49229686708094,50.79731382794006],[4.49127943334599,50.79726520928523],[4.49229103322756,50.79895120908753],[4.50615346168939,50.80010641145952],[4.52771723929652,50.80241681620299],[4.5346484535275,50.80280188366015],[4.53387831861289,50.80049147891674],[4.53387831861289,50.79895120908753],[4.53613304077743,50.79669648692322]]],"type":"Polygon"}
+}

@@ -1,0 +1,99 @@
+{
+  "id": 1125777353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.4983,49.55426,5.4983,49.55426",
+    "geom:latitude":49.55426,
+    "geom:longitude":5.4983,
+    "gn:gn_country":"BE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"BE",
+    "lbl:latitude":49.55426,
+    "lbl:longitude":5.4983,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Dampicourt"
+    ],
+    "name:eng_x_preferred":[
+        "Dampicourt"
+    ],
+    "name:fre_x_preferred":[
+        "Dampicourt"
+    ],
+    "name:hun_x_preferred":[
+        "Dampicourt"
+    ],
+    "qs_pg:aaroncc":"BE",
+    "qs_pg:gn_country":"BE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2799882,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Dampicourt",
+    "qs_pg:name_adm0":"Belgique",
+    "qs_pg:name_adm1":"Luxembourg",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":191846,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424757,
+    "qs_pg:woe_id":968621,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424757,
+    "woe:name_adm0":"Belgique",
+    "woe:name_adm1":"Luxembourg",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85681727,
+        102191581,
+        85632997,
+        404227353,
+        102049907
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2799882,
+        "gp:id":968621,
+        "qs_pg:id":191846,
+        "wd:id":"Q1973320"
+    },
+    "wof:country":"BE",
+    "wof:created":1497290321,
+    "wof:geomhash":"1a61ebc12181d05eb45b7bb62c39f866",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049907,
+            "locality_id":1125777353,
+            "macroregion_id":404227353,
+            "region_id":85681727
+        }
+    ],
+    "wof:id":1125777353,
+    "wof:lastmodified":1513899223,
+    "wof:name":"Dampicourt",
+    "wof:parent_id":102049907,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.4983,
+    49.55426,
+    5.4983,
+    49.55426
+],
+  "geometry": {"coordinates":[5.4983,49.55426],"type":"Point"}
+}

@@ -1,0 +1,95 @@
+{
+  "id": 101809311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00011,
+    "geom:area_square_m":856943.605989,
+    "geom:bbox":"3.94499061336,51.0136158774,3.95990381349,51.0255525608",
+    "geom:latitude":51.020258,
+    "geom:longitude":3.953655,
+    "iso:country":"BE",
+    "lbl:latitude":51.020105,
+    "lbl:longitude":3.955147,
+    "mps:latitude":51.020105,
+    "mps:longitude":3.955147,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Uitbergen"
+    ],
+    "name:eng_x_preferred":[
+        "Uitbergen"
+    ],
+    "name:fre_x_preferred":[
+        "Uitbergen"
+    ],
+    "name:hun_x_preferred":[
+        "Uitbergen"
+    ],
+    "name:unk_x_variant":[
+        "Uytbergen"
+    ],
+    "qs:a0":"Belgi\u00eb#Belgique#Belgien",
+    "qs:a1":"*Oost-Vlanderen",
+    "qs:a1r":"0Vlaams Gewest",
+    "qs:a2":"Dendermonde",
+    "qs:adm0":"Belgi\u00eb#Belgique#Belgien",
+    "qs:la":"Berlare",
+    "qs:la_lc":"*BE242003",
+    "qs:level":"locality",
+    "qs:loc":"Uitbergen",
+    "qs:loc_alt":"Uitbergen",
+    "qs:pop":0,
+    "qs:source":"LCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        85681733,
+        102191581,
+        1108830571,
+        85632997,
+        404227357,
+        102049979
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2785106,
+        "gp:id":978039,
+        "qs:id":1,
+        "wd:id":"Q724536"
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"623e076c9a9f6821a502a7d5ed4d64df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049979,
+            "localadmin_id":1108830571,
+            "locality_id":101809311,
+            "macroregion_id":404227357,
+            "region_id":85681733
+        }
+    ],
+    "wof:id":101809311,
+    "wof:lastmodified":1513899539,
+    "wof:name":"Uitbergen",
+    "wof:parent_id":1108830571,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.94499061335699,
+    51.01361587742912,
+    3.959903813491,
+    51.02555256079268
+],
+  "geometry": {"coordinates":[[[3.95589111967411,51.02555256079268],[3.95600822084202,51.02465719937351],[3.95885064529961,51.02480561336358],[3.959903813491,51.0167473152884],[3.95848284405713,51.01667313181997],[3.9587168741495,51.01488239838039],[3.9530332558416,51.01458550363196],[3.95315037127574,51.0136901429791],[3.9517295043542,51.01361587742912],[3.951612361721,51.01451123643386],[3.95019147178499,51.01443695183121],[3.9500742963379,51.01533230883859],[3.951495213474,51.01540659508987],[3.95090938801297,51.01988338314305],[3.9452252005172,51.01958610072109],[3.94499061335699,51.0213768003054],[3.94641170836292,51.02145115032113],[3.94617715313382,51.0232418518126],[3.94759830675065,51.0233161877216],[3.94748104791586,51.02421153959494],[3.95032342214233,51.02436016248851],[3.95020621211484,51.0252555173131],[3.95589111967411,51.02555256079268]]],"type":"Polygon"}
+}

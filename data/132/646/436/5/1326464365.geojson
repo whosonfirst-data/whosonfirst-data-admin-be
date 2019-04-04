@@ -1,0 +1,80 @@
+{
+  "id": 1326464365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.37325,51.00825,4.37325,51.00825",
+    "geom:latitude":51.00825,
+    "geom:longitude":4.37325,
+    "gn:admin1_code":"VLG",
+    "gn:admin2_code":"VBR",
+    "gn:admin3_code":"23.0",
+    "gn:admin4_code":"23039.0",
+    "gn:asciiname":"Oksdonk",
+    "gn:country_code":"BE",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2789890,
+    "gn:latitude":51.00825,
+    "gn:longitude":4.37325,
+    "gn:modification_date":"2016-08-02",
+    "gn:name":"Oksdonk",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hoxdonck",
+        "Oxdonck",
+        "Oxdonk",
+        "Oksdonk"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681731,
+        102191581,
+        1108830039,
+        85632997,
+        404227357,
+        102049973
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2789890
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"f13063f4fdcaa24a6424294e1d400840",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049973,
+            "localadmin_id":1108830039,
+            "locality_id":1326464365,
+            "macroregion_id":404227357,
+            "region_id":85681731
+        }
+    ],
+    "wof:id":1326464365,
+    "wof:lastmodified":1537586953,
+    "wof:name":"Oksdonk",
+    "wof:parent_id":1108830039,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.37325,
+    51.00825,
+    4.37325,
+    51.00825
+],
+  "geometry": {"coordinates":[4.37325,51.00825],"type":"Point"}
+}

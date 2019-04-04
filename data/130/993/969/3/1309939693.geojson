@@ -1,0 +1,74 @@
+{
+  "id": 1309939693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.50863,51.25957,4.50863,51.25957",
+    "geom:latitude":51.25957,
+    "geom:longitude":4.50863,
+    "gn:admin1_code":"VLG",
+    "gn:admin2_code":"VAN",
+    "gn:admin3_code":"11.0",
+    "gn:admin4_code":"11040.0",
+    "gn:asciiname":"Bloemendaal",
+    "gn:country_code":"BE",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2801773,
+    "gn:latitude":51.25957,
+    "gn:longitude":4.50863,
+    "gn:modification_date":"2016-08-02",
+    "gn:name":"Bloemendaal",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681715,
+        102191581,
+        1108830155,
+        85632997,
+        404227357,
+        102050005
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2801773
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"6e1be8f89e6f53450bc5b476f65511d2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102050005,
+            "localadmin_id":1108830155,
+            "locality_id":1309939693,
+            "macroregion_id":404227357,
+            "region_id":85681715
+        }
+    ],
+    "wof:id":1309939693,
+    "wof:lastmodified":1536738168,
+    "wof:name":"Bloemendaal",
+    "wof:parent_id":1108830155,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.50863,
+    51.25957,
+    4.50863,
+    51.25957
+],
+  "geometry": {"coordinates":[4.50863,51.25957],"type":"Point"}
+}

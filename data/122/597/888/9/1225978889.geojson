@@ -1,0 +1,76 @@
+{
+  "id": 1225978889,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.15618,50.72896,4.15618,50.72896",
+    "geom:latitude":50.72896,
+    "geom:longitude":4.15618,
+    "gn:admin1_code":"VLG",
+    "gn:admin2_code":"VBR",
+    "gn:admin3_code":"23.0",
+    "gn:admin4_code":"23064.0",
+    "gn:asciiname":"Den Daal",
+    "gn:country_code":"BE",
+    "gn:dem":71,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2799658,
+    "gn:latitude":50.72896,
+    "gn:longitude":4.15618,
+    "gn:modification_date":"2016-08-02",
+    "gn:name":"Den Daal",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dael",
+        "Den Daal"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681693,
+        102191581,
+        85632997,
+        404227353,
+        102049945
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2799658
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"7c62b0c5433936f65e3de1fcf59da54b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049945,
+            "locality_id":1225978889,
+            "macroregion_id":404227353,
+            "region_id":85681693
+        }
+    ],
+    "wof:id":1225978889,
+    "wof:lastmodified":1537587054,
+    "wof:name":"Den Daal",
+    "wof:parent_id":102049945,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.15618,
+    50.72896,
+    4.15618,
+    50.72896
+],
+  "geometry": {"coordinates":[4.15618,50.72896],"type":"Point"}
+}

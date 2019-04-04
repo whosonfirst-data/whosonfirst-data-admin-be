@@ -1,0 +1,72 @@
+{
+  "id": 1327060675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.15,50.26667,5.15,50.26667",
+    "geom:latitude":50.26667,
+    "geom:longitude":5.15,
+    "gn:admin1_code":"WAL",
+    "gn:admin2_code":"WNA",
+    "gn:admin3_code":"91.0",
+    "gn:admin4_code":"91030.0",
+    "gn:asciiname":"Les Culees",
+    "gn:country_code":"BE",
+    "gn:dem":312,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2792700,
+    "gn:latitude":50.26667,
+    "gn:longitude":5.15,
+    "gn:modification_date":"2017-03-25",
+    "gn:name":"Les Cul\u00e9es",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681699,
+        102191581,
+        85632997,
+        404227353,
+        102049919
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2792700
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"46e9911da9cbca112b41f732fb870d85",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049919,
+            "locality_id":1327060675,
+            "macroregion_id":404227353,
+            "region_id":85681699
+        }
+    ],
+    "wof:id":1327060675,
+    "wof:lastmodified":1536720086,
+    "wof:name":"Les Culees",
+    "wof:parent_id":102049919,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.15,
+    50.26667,
+    5.15,
+    50.26667
+],
+  "geometry": {"coordinates":[5.15,50.26667],"type":"Point"}
+}

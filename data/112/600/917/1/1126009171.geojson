@@ -1,0 +1,112 @@
+{
+  "id": 1126009171,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.88455,50.65926,5.88455,50.65926",
+    "geom:latitude":50.65926,
+    "geom:longitude":5.88455,
+    "gn:gn_country":"BE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"BE",
+    "lbl:latitude":50.65926,
+    "lbl:longitude":5.88455,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Clermont"
+    ],
+    "name:eng_x_preferred":[
+        "Clermont"
+    ],
+    "name:fre_x_preferred":[
+        "Clermont"
+    ],
+    "name:ger_x_preferred":[
+        "Clermont-sur-Berwinne"
+    ],
+    "name:lim_x_preferred":[
+        "Clermont"
+    ],
+    "name:unk_x_variant":[
+        "Thimister-Clermont (Clermont)"
+    ],
+    "name:wln_x_preferred":[
+        "Clairmont-so-Berwinne"
+    ],
+    "qs_pg:aaroncc":"BE",
+    "qs_pg:gn_country":"BE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2800254,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Clermont",
+    "qs_pg:name_adm0":"Belgique",
+    "qs_pg:name_adm1":"Li\u00e8ge",
+    "qs_pg:photos":53,
+    "qs_pg:photos_1k":11,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":53,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":114085,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424757,
+    "qs_pg:woe_id":968389,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424757,
+    "woe:name_adm0":"Belgique",
+    "woe:name_adm1":"Li\u00e8ge",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85681691,
+        102191581,
+        85632997,
+        404227353,
+        102049935
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2800254,
+        "gp:id":968389,
+        "qs_pg:id":114085,
+        "wd:id":"Q2621830"
+    },
+    "wof:country":"BE",
+    "wof:created":1497300164,
+    "wof:geomhash":"b2cd461e91efccc8d0a742a85b8cac19",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049935,
+            "locality_id":1126009171,
+            "macroregion_id":404227353,
+            "region_id":85681691
+        }
+    ],
+    "wof:id":1126009171,
+    "wof:lastmodified":1513899218,
+    "wof:name":"Clermont",
+    "wof:parent_id":102049935,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.88455,
+    50.65926,
+    5.88455,
+    50.65926
+],
+  "geometry": {"coordinates":[5.88455,50.65926],"type":"Point"}
+}

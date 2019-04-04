@@ -1,0 +1,75 @@
+{
+  "id": 1125368891,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2017-05-19",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.30906,50.79412,4.30906,50.79412",
+    "geom:latitude":50.79412,
+    "geom:longitude":4.30906,
+    "gn:gn_country":"BE",
+    "gn:gn_fcode":"ADM4",
+    "gn:gn_pop":4992,
+    "gn:population":4992,
+    "iso:country":"BE",
+    "lbl:latitude":50.79412,
+    "lbl:longitude":4.30906,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:unk_x_variant":[
+        "Droogenbosch"
+    ],
+    "qs_pg:aaroncc":"BE",
+    "qs_pg:gn_country":"BE",
+    "qs_pg:gn_fcode":"ADM4",
+    "qs_pg:gn_id":2799115,
+    "qs_pg:gn_pop":4992,
+    "qs_pg:name":"Drogenbos",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":92714,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85632997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2799115,
+        "qs_pg:id":92714
+    },
+    "wof:country":"BE",
+    "wof:created":1497047260,
+    "wof:geomhash":"a6669e8ef39ba3bfc5c28dd1c0c799e7",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "localadmin_id":1125368891
+        }
+    ],
+    "wof:id":1125368891,
+    "wof:lastmodified":1505185645,
+    "wof:name":"Drogenbos",
+    "wof:parent_id":-1,
+    "wof:placetype":"localadmin",
+    "wof:population":4992,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.30906,
+    50.79412,
+    4.30906,
+    50.79412
+],
+  "geometry": {"coordinates":[4.30906,50.79412],"type":"Point"}
+}

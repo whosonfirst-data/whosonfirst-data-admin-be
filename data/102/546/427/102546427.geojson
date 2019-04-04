@@ -1,0 +1,78 @@
+{
+  "id": 102546427,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.20472222222,50.8172222222,3.20472222222,50.8172222222",
+    "geom:latitude":50.817222,
+    "geom:longitude":3.204722,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "oa:elevation_ft":"64",
+    "oa:type":"medium_airport",
+    "src:geom":"wikidata",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424757,
+        "county_id":12591766,
+        "localadmin_id":12602256,
+        "planet_id":1,
+        "state_id":7153305
+    },
+    "wof:belongsto":[
+        85632997,
+        102028105,
+        85681709,
+        102049961,
+        101748085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12510853,
+        "iata:code":"KJK",
+        "icao:code":"EBKT",
+        "oa:id":"2161",
+        "wd:id":"Q2536144"
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"3fb8c10dc616aeddc594316d7b7cdfaf",
+    "wof:hierarchy":[
+        {
+            "campus_id":102546427,
+            "country_id":85632997,
+            "county_id":102049961,
+            "locality_id":102028105,
+            "region_id":85681709
+        },
+        {
+            "campus_id":102546427,
+            "country_id":85632997,
+            "county_id":102049961,
+            "locality_id":101748085,
+            "region_id":85681709
+        }
+    ],
+    "wof:id":102546427,
+    "wof:lastmodified":1543846098,
+    "wof:name":"Kortrijk Wevelgem Airport",
+    "wof:parent_id":-1,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    3.2047222222222,
+    50.817222222222,
+    3.2047222222222,
+    50.817222222222
+],
+  "geometry": {"coordinates":[3.2047222222222,50.817222222222],"type":"Point"}
+}

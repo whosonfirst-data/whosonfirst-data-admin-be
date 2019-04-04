@@ -1,0 +1,78 @@
+{
+  "id": 1226472907,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.9429,51.24768,4.9429,51.24768",
+    "geom:latitude":51.24768,
+    "geom:longitude":4.9429,
+    "gn:admin1_code":"VLG",
+    "gn:admin2_code":"VAN",
+    "gn:admin3_code":"13.0",
+    "gn:admin4_code":"13017.0",
+    "gn:asciiname":"Hogen Rielen",
+    "gn:country_code":"BE",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2795584,
+    "gn:latitude":51.24768,
+    "gn:longitude":4.9429,
+    "gn:modification_date":"2016-08-02",
+    "gn:name":"Hogen Rielen",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hoogen-Rielen",
+        "Hogen Rielen"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681715,
+        102191581,
+        1108830677,
+        85632997,
+        404227357,
+        102050007
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2795584
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"1d9b4c997fcb422da2992365a4fa2dae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102050007,
+            "localadmin_id":1108830677,
+            "locality_id":1226472907,
+            "macroregion_id":404227357,
+            "region_id":85681715
+        }
+    ],
+    "wof:id":1226472907,
+    "wof:lastmodified":1537587014,
+    "wof:name":"Hogen Rielen",
+    "wof:parent_id":1108830677,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.9429,
+    51.24768,
+    4.9429,
+    51.24768
+],
+  "geometry": {"coordinates":[4.9429,51.24768],"type":"Point"}
+}

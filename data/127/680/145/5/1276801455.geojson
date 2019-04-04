@@ -1,0 +1,79 @@
+{
+  "id": 1276801455,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.30729,51.21715,4.30729,51.21715",
+    "geom:latitude":51.21715,
+    "geom:longitude":4.30729,
+    "gn:admin1_code":"VLG",
+    "gn:admin2_code":"VAN",
+    "gn:admin3_code":"11.0",
+    "gn:admin4_code":"11056.0",
+    "gn:asciiname":"Vandoren",
+    "gn:country_code":"BE",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2785043,
+    "gn:latitude":51.21715,
+    "gn:longitude":4.30729,
+    "gn:modification_date":"2016-08-02",
+    "gn:name":"Vandoren",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Vandooren",
+        "Vendooren",
+        "Vandoren"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681715,
+        102191581,
+        1108830433,
+        85632997,
+        404227357,
+        102050005
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2785043
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"b419dcbfa57564d6adfc78aa3bdf6fd4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102050005,
+            "localadmin_id":1108830433,
+            "locality_id":1276801455,
+            "macroregion_id":404227357,
+            "region_id":85681715
+        }
+    ],
+    "wof:id":1276801455,
+    "wof:lastmodified":1537586896,
+    "wof:name":"Vandoren",
+    "wof:parent_id":1108830433,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.30729,
+    51.21715,
+    4.30729,
+    51.21715
+],
+  "geometry": {"coordinates":[4.30729,51.21715],"type":"Point"}
+}

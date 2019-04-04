@@ -1,0 +1,117 @@
+{
+  "id": 1125776041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.78705,51.12193,3.78705,51.12193",
+    "geom:latitude":51.12193,
+    "geom:longitude":3.78705,
+    "gn:gn_country":"BE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"BE",
+    "lbl:latitude":51.12193,
+    "lbl:longitude":3.78705,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bul_x_preferred":[
+        "\u0414\u0435\u0441\u0442\u0435\u043b\u0434\u043e\u043d\u043a"
+    ],
+    "name:dut_x_preferred":[
+        "Desteldonk"
+    ],
+    "name:eng_x_preferred":[
+        "Desteldonk"
+    ],
+    "name:fre_x_preferred":[
+        "Desteldonk"
+    ],
+    "name:hun_x_preferred":[
+        "Desteldonk"
+    ],
+    "name:sco_x_preferred":[
+        "Desteldonk"
+    ],
+    "name:swe_x_preferred":[
+        "Desteldonk"
+    ],
+    "name:unk_x_variant":[
+        "Desteldonck"
+    ],
+    "qs_pg:aaroncc":"BE",
+    "qs_pg:gn_country":"BE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2799494,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Desteldonk",
+    "qs_pg:name_adm0":"Belgique",
+    "qs_pg:name_adm1":"Oost-Vlaanderen",
+    "qs_pg:photos":45,
+    "qs_pg:photos_1k":9,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":45,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":917143,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424757,
+    "qs_pg:woe_id":968927,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424757,
+    "woe:name_adm0":"Belgique",
+    "woe:name_adm1":"Oost-Vlaanderen",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85681733,
+        102191581,
+        1108830083,
+        85632997,
+        404227357,
+        102049989
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2799494,
+        "gp:id":968927,
+        "qs_pg:id":917143,
+        "wd:id":"Q1988333"
+    },
+    "wof:country":"BE",
+    "wof:created":1497290261,
+    "wof:geomhash":"4e2ba7b3d50350831571f0dd7d96dfc5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049989,
+            "localadmin_id":1108830083,
+            "locality_id":1125776041,
+            "macroregion_id":404227357,
+            "region_id":85681733
+        }
+    ],
+    "wof:id":1125776041,
+    "wof:lastmodified":1513899230,
+    "wof:name":"Desteldonk",
+    "wof:parent_id":1108830083,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.78705,
+    51.12193,
+    3.78705,
+    51.12193
+],
+  "geometry": {"coordinates":[3.78705,51.12193],"type":"Point"}
+}

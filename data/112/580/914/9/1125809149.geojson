@@ -1,0 +1,103 @@
+{
+  "id": 1125809149,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.51396,50.3101,5.51396,50.3101",
+    "geom:latitude":50.3101,
+    "geom:longitude":5.51396,
+    "gn:gn_country":"BE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"BE",
+    "lbl:latitude":50.3101,
+    "lbl:longitude":5.51396,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Oppagne"
+    ],
+    "name:eng_x_preferred":[
+        "Oppagne"
+    ],
+    "name:est_x_preferred":[
+        "Oppagne"
+    ],
+    "name:fre_x_preferred":[
+        "Oppagne"
+    ],
+    "qs_pg:aaroncc":"BE",
+    "qs_pg:gn_country":"BE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2789681,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Oppagne",
+    "qs_pg:name_adm0":"Belgique",
+    "qs_pg:name_adm1":"Luxembourg",
+    "qs_pg:photos":39,
+    "qs_pg:photos_1k":8,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":39,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":340102,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424757,
+    "qs_pg:woe_id":975201,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424757,
+    "woe:name_adm0":"Belgique",
+    "woe:name_adm1":"Luxembourg",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85681727,
+        102191581,
+        85632997,
+        404227353,
+        102049921
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2789681,
+        "gp:id":975201,
+        "qs_pg:id":340102,
+        "wd:id":"Q2238990"
+    },
+    "wof:country":"BE",
+    "wof:created":1497291584,
+    "wof:geomhash":"3eb40bfa13f87bbc66e5474799ef5eec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049921,
+            "locality_id":1125809149,
+            "macroregion_id":404227353,
+            "region_id":85681727
+        }
+    ],
+    "wof:id":1125809149,
+    "wof:lastmodified":1513899446,
+    "wof:name":"Oppagne",
+    "wof:parent_id":102049921,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.51396,
+    50.3101,
+    5.51396,
+    50.3101
+],
+  "geometry": {"coordinates":[5.51396,50.3101],"type":"Point"}
+}

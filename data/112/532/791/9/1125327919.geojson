@@ -1,0 +1,93 @@
+{
+  "id": 1125327919,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-04",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.34526,50.85115,4.34526,50.85115",
+    "geom:latitude":50.85115,
+    "geom:longitude":4.34526,
+    "gn:gn_country":"BE",
+    "gn:gn_fcode":"ADM4",
+    "gn:gn_pop":164417,
+    "gn:population":164417,
+    "iso:country":"BE",
+    "lbl:latitude":50.85115,
+    "lbl:longitude":4.34526,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Brussel\u00b7les"
+    ],
+    "name:eng_x_preferred":[
+        "City of Brussels"
+    ],
+    "name:fra_x_preferred":[
+        "Ville de Bruxelles"
+    ],
+    "name:fra_x_variant":[
+        "Bruxelles"
+    ],
+    "name:nld_x_preferred":[
+        "Stad Brussel"
+    ],
+    "name:spa_x_preferred":[
+        "Bruselas"
+    ],
+    "qs_pg:aaroncc":"BE",
+    "qs_pg:gn_country":"BE",
+    "qs_pg:gn_fcode":"ADM4",
+    "qs_pg:gn_id":3337389,
+    "qs_pg:gn_pop":164417,
+    "qs_pg:name":"City of Brussels",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":9,
+    "qs_pg:qs_id":276733,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85632997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3337389,
+        "qs_pg:id":276733
+    },
+    "wof:country":"BE",
+    "wof:created":1497044929,
+    "wof:geomhash":"0834221237c4faab2666f9eb351e405f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "localadmin_id":1125327919
+        }
+    ],
+    "wof:id":1125327919,
+    "wof:lastmodified":1512083045,
+    "wof:name":"City of Brussels",
+    "wof:parent_id":-1,
+    "wof:placetype":"localadmin",
+    "wof:population":164417,
+    "wof:population_rank":9,
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[
+        101751573
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.34526,
+    50.85115,
+    4.34526,
+    50.85115
+],
+  "geometry": {"coordinates":[4.34526,50.85115],"type":"Point"}
+}

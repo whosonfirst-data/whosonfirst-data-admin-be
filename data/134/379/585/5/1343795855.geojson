@@ -1,0 +1,78 @@
+{
+  "id": 1343795855,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.86667,51.13333,3.86667,51.13333",
+    "geom:latitude":51.13333,
+    "geom:longitude":3.86667,
+    "gn:admin1_code":"VLG",
+    "gn:admin2_code":"VOV",
+    "gn:admin3_code":"44.0",
+    "gn:admin4_code":"44034.0",
+    "gn:asciiname":"Prinsenhof",
+    "gn:country_code":"BE",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2788583,
+    "gn:latitude":51.13333,
+    "gn:longitude":3.86667,
+    "gn:modification_date":"2016-08-02",
+    "gn:name":"Prinsenhof",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Princenhof",
+        "Prinsenhof"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681733,
+        102191581,
+        1108830047,
+        85632997,
+        404227357,
+        102049989
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2788583
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"8fc13bd1f81733a4a5c7f3263d27a545",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049989,
+            "localadmin_id":1108830047,
+            "locality_id":1343795855,
+            "macroregion_id":404227357,
+            "region_id":85681733
+        }
+    ],
+    "wof:id":1343795855,
+    "wof:lastmodified":1537586941,
+    "wof:name":"Prinsenhof",
+    "wof:parent_id":1108830047,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.86667,
+    51.13333,
+    3.86667,
+    51.13333
+],
+  "geometry": {"coordinates":[3.86667,51.13333],"type":"Point"}
+}

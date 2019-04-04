@@ -1,0 +1,115 @@
+{
+  "id": 85801585,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":4592759.968824,
+    "geom:bbox":"5.685586,50.603236,5.685586,50.603236",
+    "geom:latitude":50.603236,
+    "geom:longitude":5.685586,
+    "iso:country":"BE",
+    "lbl:latitude":50.603236,
+    "lbl:longitude":5.685586,
+    "mps:latitude":50.601193,
+    "mps:longitude":5.681504,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":16.0,
+    "mz:tier_locality":3,
+    "name:fra_x_colloquial":[
+        "Magnee"
+    ],
+    "name:fra_x_preferred":[
+        "Magn\u00e9e"
+    ],
+    "name:unk_x_variant":[
+        "Fl\u00e9ron (Magn\u00e9e)",
+        "Magn\u00e9e"
+    ],
+    "qs:gn_adm0_cc":"BE",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_local":2792413,
+    "qs:gn_nam_loc":"Li\u00e8ge, Li\u00e8ge, Li\u00e8ge, BE",
+    "qs:gn_namadm1":"WAL",
+    "qs:gn_name":"Magn\u00e9e",
+    "qs:local_max":5890,
+    "qs:local_sum":27074,
+    "qs:localhoods":35,
+    "qs:name":"Magn\u00e9e",
+    "qs:name_adm0":"Belgique",
+    "qs:name_adm1":"Li\u00e8ge",
+    "qs:name_adm2":"Li\u00e8ge",
+    "qs:name_lau":"Fl\u00e9ron",
+    "qs:name_local":"Li\u00e8ge",
+    "qs:photo_max":7,
+    "qs:photo_sum":16,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":6,
+    "qs:woe_adm0":23424757,
+    "qs:woe_adm1":7153300,
+    "qs:woe_adm2":12591793,
+    "qs:woe_lau":12602550,
+    "qs:woe_local":973540,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        85681691,
+        102191581,
+        85632997,
+        404227353,
+        101748083,
+        102049941
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2791925,
+        "gp:id":973841,
+        "qs:id":271050,
+        "qs_pg:id":271050
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"724acba64d1f37d66f26b3017945d32b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049941,
+            "locality_id":101748083,
+            "macroregion_id":404227353,
+            "neighbourhood_id":85801585,
+            "region_id":85681691
+        }
+    ],
+    "wof:id":85801585,
+    "wof:lang":[
+        "fre"
+    ],
+    "wof:lastmodified":1531862086,
+    "wof:name":"Magn\u00e9e",
+    "wof:parent_id":101748083,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.685586,
+    50.603236,
+    5.685586,
+    50.603236
+],
+  "geometry": {"coordinates":[5.685586,50.603236],"type":"Point"}
+}

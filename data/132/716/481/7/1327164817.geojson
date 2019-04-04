@@ -1,0 +1,72 @@
+{
+  "id": 1327164817,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.18333,50.35,4.18333,50.35",
+    "geom:latitude":50.35,
+    "geom:longitude":4.18333,
+    "gn:admin1_code":"WAL",
+    "gn:admin2_code":"WHT",
+    "gn:admin3_code":"56.0",
+    "gn:admin4_code":"56049.0",
+    "gn:asciiname":"Pont du Lion Sart",
+    "gn:country_code":"BE",
+    "gn:dem":175,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2788749,
+    "gn:latitude":50.35,
+    "gn:longitude":4.18333,
+    "gn:modification_date":"2017-03-25",
+    "gn:name":"Pont du Lion Sart",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681723,
+        102191581,
+        85632997,
+        404227353,
+        102049923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2788749
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"8a28a23b6b6f5fc9c46930e446d94c4c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049923,
+            "locality_id":1327164817,
+            "macroregion_id":404227353,
+            "region_id":85681723
+        }
+    ],
+    "wof:id":1327164817,
+    "wof:lastmodified":1537064430,
+    "wof:name":"Pont du Lion Sart",
+    "wof:parent_id":102049923,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.18333,
+    50.35,
+    4.18333,
+    50.35
+],
+  "geometry": {"coordinates":[4.18333,50.35],"type":"Point"}
+}

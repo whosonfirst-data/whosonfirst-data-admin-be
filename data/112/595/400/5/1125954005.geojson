@@ -1,0 +1,149 @@
+{
+  "id": 1125954005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.61443,50.66829,4.61443,50.66829",
+    "geom:latitude":50.66829,
+    "geom:longitude":4.61443,
+    "gn:gn_country":"BE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":29521,
+    "gn:population":29521,
+    "iso:country":"BE",
+    "lbl:latitude":50.66829,
+    "lbl:longitude":4.61443,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bre_x_preferred":[
+        "Louvain-la-Neuve"
+    ],
+    "name:dut_x_preferred":[
+        "Louvain-la-Neuve"
+    ],
+    "name:eng_x_preferred":[
+        "Louvain-la-Neuve"
+    ],
+    "name:fre_x_preferred":[
+        "Louvain-la-Neuve"
+    ],
+    "name:ger_x_preferred":[
+        "Louvain-la-Neuve"
+    ],
+    "name:ind_x_preferred":[
+        "Louvain-la-Neuve"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30eb\u30fc\u30f4\u30a1\u30f3\uff1d\u30e9\uff1d\u30cc\u30fc\u30f4"
+    ],
+    "name:lat_x_preferred":[
+        "Novum Lovanium"
+    ],
+    "name:ltz_x_preferred":[
+        "Louvain-la-Neuve"
+    ],
+    "name:rum_x_preferred":[
+        "Louvain-la-Neuve"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u0443\u0432\u0435\u043d-\u043b\u0430-\u041d\u0435\u0432"
+    ],
+    "name:sco_x_preferred":[
+        "Louvain-la-Neuve"
+    ],
+    "name:spa_x_preferred":[
+        "Louvain-la-Neuve"
+    ],
+    "name:swe_x_preferred":[
+        "Louvain-la-Neuve"
+    ],
+    "name:unk_x_variant":[
+        "Ottignies-Louvain-la-Neuve (Louvain-la-Neuve)"
+    ],
+    "name:vie_x_preferred":[
+        "Louvain-la-Neuve"
+    ],
+    "name:vol_x_preferred":[
+        "Louvain-la-Neuve"
+    ],
+    "name:wln_x_preferred":[
+        "Li No\u00fb Lov\u00e9n"
+    ],
+    "qs_pg:aaroncc":"BE",
+    "qs_pg:gn_country":"BE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2792073,
+    "qs_pg:gn_pop":29521,
+    "qs_pg:name":"Louvain-la-Neuve",
+    "qs_pg:name_adm0":"Belgique",
+    "qs_pg:name_adm1":"Brabant Wallon",
+    "qs_pg:photos":1941,
+    "qs_pg:photos_1k":393,
+    "qs_pg:photos_9k":9,
+    "qs_pg:photos_9r":9,
+    "qs_pg:photos_all":1941,
+    "qs_pg:photos_sr":15,
+    "qs_pg:pop_sr":7,
+    "qs_pg:qs_id":1145565,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424757,
+    "qs_pg:woe_id":973746,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424757,
+    "woe:name_adm0":"Belgique",
+    "woe:name_adm1":"Brabant Wallon",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85681693,
+        102191581,
+        85632997,
+        404227353,
+        102049945
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2792073,
+        "gp:id":973746,
+        "qs_pg:id":1145565,
+        "wd:id":"Q665868"
+    },
+    "wof:country":"BE",
+    "wof:created":1497297558,
+    "wof:geomhash":"73d0e4d1260c08fc85e80299110fc9f0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049945,
+            "locality_id":1125954005,
+            "macroregion_id":404227353,
+            "region_id":85681693
+        }
+    ],
+    "wof:id":1125954005,
+    "wof:lastmodified":1513899381,
+    "wof:name":"Louvain-la-Neuve",
+    "wof:parent_id":102049945,
+    "wof:placetype":"locality",
+    "wof:population":29521,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.61443,
+    50.66829,
+    4.61443,
+    50.66829
+],
+  "geometry": {"coordinates":[4.61443,50.66829],"type":"Point"}
+}

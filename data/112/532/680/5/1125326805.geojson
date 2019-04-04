@@ -1,0 +1,87 @@
+{
+  "id": 1125326805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2017-05-19",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.4221,50.9078,5.4221,50.9078",
+    "geom:latitude":50.9078,
+    "geom:longitude":5.4221,
+    "gn:gn_country":"BE",
+    "gn:gn_fcode":"ADM4",
+    "gn:gn_pop":18244,
+    "gn:population":18244,
+    "iso:country":"BE",
+    "lbl:latitude":50.9078,
+    "lbl:longitude":5.4221,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bul_x_preferred":[
+        "\u0414\u0438\u0439\u043f\u0435\u043d\u0431\u0435\u043a"
+    ],
+    "name:fas_x_preferred":[
+        "\u062f\u06cc\u0648\u067e\u0627\u0646\u0628\u0626\u06a9"
+    ],
+    "name:lim_x_preferred":[
+        "Diepenbik"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e14\u0e35\u0e40\u0e1b\u0e34\u0e19\u0e40\u0e1a\u0e01"
+    ],
+    "name:zho_x_preferred":[
+        "\u8fea\u5f6d\u8d1d\u514b"
+    ],
+    "qs_pg:aaroncc":"BE",
+    "qs_pg:gn_country":"BE",
+    "qs_pg:gn_fcode":"ADM4",
+    "qs_pg:gn_id":2799413,
+    "qs_pg:gn_pop":18244,
+    "qs_pg:name":"Diepenbeek",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":6,
+    "qs_pg:qs_id":92720,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85632997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2799413,
+        "qs_pg:id":92720
+    },
+    "wof:country":"BE",
+    "wof:created":1497044864,
+    "wof:geomhash":"40e995224e6ba2a1cea23ef3e9802b0a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "localadmin_id":1125326805
+        }
+    ],
+    "wof:id":1125326805,
+    "wof:lastmodified":1505185645,
+    "wof:name":"Diepenbeek",
+    "wof:parent_id":-1,
+    "wof:placetype":"localadmin",
+    "wof:population":18244,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.4221,
+    50.9078,
+    5.4221,
+    50.9078
+],
+  "geometry": {"coordinates":[5.4221,50.9078],"type":"Point"}
+}

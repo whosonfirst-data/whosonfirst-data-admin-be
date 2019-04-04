@@ -1,0 +1,107 @@
+{
+  "id": 1125790597,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.52458,50.68874,5.52458,50.68874",
+    "geom:latitude":50.68874,
+    "geom:longitude":5.52458,
+    "gn:gn_country":"BE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"BE",
+    "lbl:latitude":50.68874,
+    "lbl:longitude":5.52458,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Lantin"
+    ],
+    "name:eng_x_preferred":[
+        "Lantin"
+    ],
+    "name:fre_x_preferred":[
+        "Lantin"
+    ],
+    "name:hun_x_preferred":[
+        "Lantin"
+    ],
+    "name:unk_x_variant":[
+        "Juprelle (Lantin)"
+    ],
+    "name:wln_x_preferred":[
+        "Lantin"
+    ],
+    "qs_pg:aaroncc":"BE",
+    "qs_pg:gn_country":"BE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2793332,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Lantin",
+    "qs_pg:name_adm0":"Belgique",
+    "qs_pg:name_adm1":"Li\u00e8ge",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":1,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1162219,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424757,
+    "qs_pg:woe_id":972939,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424757,
+    "woe:name_adm0":"Belgique",
+    "woe:name_adm1":"Li\u00e8ge",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85681691,
+        102191581,
+        85632997,
+        404227353,
+        102049941
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2793332,
+        "gp:id":972939,
+        "qs_pg:id":1162219,
+        "wd:id":"Q3217651"
+    },
+    "wof:country":"BE",
+    "wof:created":1497290850,
+    "wof:geomhash":"f2f4a61781257a8dad5681e020b166c7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049941,
+            "locality_id":1125790597,
+            "macroregion_id":404227353,
+            "region_id":85681691
+        }
+    ],
+    "wof:id":1125790597,
+    "wof:lastmodified":1513899355,
+    "wof:name":"Lantin",
+    "wof:parent_id":102049941,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.52458,
+    50.68874,
+    5.52458,
+    50.68874
+],
+  "geometry": {"coordinates":[5.52458,50.68874],"type":"Point"}
+}

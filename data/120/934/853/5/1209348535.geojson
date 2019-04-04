@@ -1,0 +1,68 @@
+{
+  "id": 1209348535,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.70909,50.54851,3.70909,50.54851",
+    "geom:latitude":50.54851,
+    "geom:longitude":3.70909,
+    "gn:admin1_code":"WAL",
+    "gn:admin2_code":"WHT",
+    "gn:admin3_code":"51.0",
+    "gn:admin4_code":"51008.0",
+    "gn:asciiname":"Robertsart",
+    "gn:cc2":"BE",
+    "gn:country_code":"BE",
+    "gn:dem":65,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2787964,
+    "gn:latitude":50.54851,
+    "gn:longitude":3.70909,
+    "gn:modification_date":"2017-03-25",
+    "gn:name":"Robertsart",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Robersart"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2787964
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"e155b3acc5feeda131543bda0ade7f2b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "locality_id":1209348535
+        }
+    ],
+    "wof:id":1209348535,
+    "wof:lastmodified":1537586934,
+    "wof:name":"Robertsart",
+    "wof:parent_id":85632997,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.70909,
+    50.54851,
+    3.70909,
+    50.54851
+],
+  "geometry": {"coordinates":[3.70909,50.54851],"type":"Point"}
+}

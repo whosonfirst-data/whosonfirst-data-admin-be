@@ -1,0 +1,127 @@
+{
+  "id": 101809435,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000144,
+    "geom:area_square_m":1115957.157907,
+    "geom:bbox":"3.18009520768,51.2902858596,3.20816505257,51.3024723152",
+    "geom:latitude":51.295104,
+    "geom:longitude":3.194248,
+    "iso:country":"BE",
+    "lbl:latitude":51.294356,
+    "lbl:longitude":3.192122,
+    "mps:latitude":51.294356,
+    "mps:longitude":3.192122,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:cat_x_preferred":[
+        "Lissewege"
+    ],
+    "name:ceb_x_preferred":[
+        "Lissewege"
+    ],
+    "name:dut_x_preferred":[
+        "Lissewege"
+    ],
+    "name:eng_x_preferred":[
+        "Lissewege"
+    ],
+    "name:epo_x_preferred":[
+        "Lissewege"
+    ],
+    "name:fra_x_preferred":[
+        "Lissewege"
+    ],
+    "name:fre_x_preferred":[
+        "Lissewege"
+    ],
+    "name:ger_x_preferred":[
+        "Lissewege"
+    ],
+    "name:hun_x_preferred":[
+        "Lissewege"
+    ],
+    "name:nld_x_preferred":[
+        "Lissewege"
+    ],
+    "name:por_x_preferred":[
+        "Lissewege"
+    ],
+    "name:swe_x_preferred":[
+        "Lissewege"
+    ],
+    "name:unk_x_variant":[
+        "Lisseweghe"
+    ],
+    "name:vls_x_preferred":[
+        "Lissewege"
+    ],
+    "qs:a0":"Belgi\u00eb#Belgique#Belgien",
+    "qs:a1":"*West-Vlanderen",
+    "qs:a1r":"0Vlaams Gewest",
+    "qs:a2":"Brugge",
+    "qs:adm0":"Belgi\u00eb#Belgique#Belgien",
+    "qs:la":"Brugge",
+    "qs:la_lc":"*BE231005",
+    "qs:level":"locality",
+    "qs:loc":"Lissewege",
+    "qs:loc_alt":"Lissewege",
+    "qs:pop":0,
+    "qs:source":"LCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":65,
+    "wof:belongsto":[
+        85681709,
+        102191581,
+        1108830689,
+        85632997,
+        404227357,
+        102050003
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2792266,
+        "gp:id":973630,
+        "qs:id":4512,
+        "qs_pg:id":4512,
+        "wd:id":"Q1924402",
+        "wk:page":"Lissewege"
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"40e048ddaba75da59ef2221a153bfe58",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102050003,
+            "localadmin_id":1108830689,
+            "locality_id":101809435,
+            "macroregion_id":404227357,
+            "region_id":85681709
+        }
+    ],
+    "wof:id":101809435,
+    "wof:lastmodified":1527715179,
+    "wof:name":"Lissewege",
+    "wof:parent_id":1108830689,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.18009520767743,
+    51.29028585964357,
+    3.20816505257153,
+    51.30247231522014
+],
+  "geometry": {"coordinates":[[[3.19202000439742,51.30247231522014],[3.19215305182917,51.30157797018478],[3.19358168456858,51.30166162304488],[3.19424668801912,51.29718988286356],[3.19567518802199,51.29727350887157],[3.19580814198116,51.29637915783496],[3.19723661926571,51.29646276447568],[3.19736953931772,51.29556841119268],[3.20022645322905,51.29573556824408],[3.20035931187738,51.29484121084613],[3.20464463608414,51.29509180959093],[3.20424628843648,51.29777489746994],[3.20710336013076,51.29794188701942],[3.20816505257153,51.29078694861107],[3.206736734326,51.29070347752059],[3.20647129460122,51.29249221064595],[3.20504292613947,51.29240871832621],[3.20491016918635,51.29330308245738],[3.20062500996511,51.29305249492091],[3.20102350908127,51.2903694182088],[3.19959521470946,51.29028585964357],[3.19946236057979,51.29118021705591],[3.18803595775461,51.29051110377696],[3.18750359739596,51.2940884698051],[3.18607520859871,51.29400474443162],[3.18594207497739,51.29489908312274],[3.1816568548328,51.29464779640932],[3.18179007093903,51.29375346333757],[3.18036170129994,51.29366966798182],[3.18009520767743,51.2954583299998],[3.18152363230649,51.29554212910347],[3.18139040335876,51.29643646141994],[3.18567578848536,51.29668775937324],[3.18554263561333,51.29758209693262],[3.18697113440123,51.29766582979607],[3.18683800261226,51.298560168851],[3.1896950695558,51.29872758583065],[3.18916269826298,51.30230495325873],[3.19202000439742,51.30247231522014]]],"type":"Polygon"}
+}

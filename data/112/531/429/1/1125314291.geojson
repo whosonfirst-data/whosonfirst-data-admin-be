@@ -1,0 +1,76 @@
+{
+  "id": 1125314291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2017-05-19",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.5300385,50.58939,4.5300385,50.58939",
+    "geom:latitude":50.58939,
+    "geom:longitude":4.530038,
+    "gn:gn_country":null,
+    "iso:country":"BE",
+    "lbl:latitude":50.58939,
+    "lbl:longitude":4.530038,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"BE",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Villers-la-Ville",
+    "qs_pg:name_adm0":"Belgique",
+    "qs_pg:name_adm1":"Brabant Wallon",
+    "qs_pg:photos":133,
+    "qs_pg:photos_1k":27,
+    "qs_pg:photos_9k":7,
+    "qs_pg:photos_9r":8,
+    "qs_pg:photos_all":1645,
+    "qs_pg:photos_sr":3,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":893200,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
+    "qs_pg:woe_adm0":23424757,
+    "qs_pg:woe_id":12602553,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424757,
+    "woe:name_adm0":"Belgique",
+    "woe:name_adm1":"Brabant Wallon",
+    "woe:placetype":"LocalAdmin",
+    "wof:belongsto":[
+        85632997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12602553,
+        "qs_pg:id":893200
+    },
+    "wof:country":"BE",
+    "wof:created":1497044189,
+    "wof:geomhash":"086a724054431cfde96a144f5c9485b5",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "localadmin_id":1125314291
+        }
+    ],
+    "wof:id":1125314291,
+    "wof:lastmodified":1505248027,
+    "wof:name":"Villers-la-Ville",
+    "wof:parent_id":-1,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.5300385,
+    50.58939,
+    4.5300385,
+    50.58939
+],
+  "geometry": {"coordinates":[4.5300385,50.58939],"type":"Point"}
+}

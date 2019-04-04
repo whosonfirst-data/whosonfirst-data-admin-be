@@ -1,0 +1,72 @@
+{
+  "id": 1209746481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.15133,50.56521,4.15133,50.56521",
+    "geom:latitude":50.56521,
+    "geom:longitude":4.15133,
+    "gn:admin1_code":"WAL",
+    "gn:admin2_code":"WHT",
+    "gn:admin3_code":"55.0",
+    "gn:admin4_code":"55050.0",
+    "gn:asciiname":"Belle Tete",
+    "gn:country_code":"BE",
+    "gn:dem":116,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2802318,
+    "gn:latitude":50.56521,
+    "gn:longitude":4.15133,
+    "gn:modification_date":"2017-03-25",
+    "gn:name":"Belle T\u00eate",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681723,
+        102191581,
+        85632997,
+        404227353,
+        102049943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2802318
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"8bf40f698f3f509182f4f0a465f60a40",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049943,
+            "locality_id":1209746481,
+            "macroregion_id":404227353,
+            "region_id":85681723
+        }
+    ],
+    "wof:id":1209746481,
+    "wof:lastmodified":1536394748,
+    "wof:name":"Belle Tete",
+    "wof:parent_id":102049943,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.15133,
+    50.56521,
+    4.15133,
+    50.56521
+],
+  "geometry": {"coordinates":[4.15133,50.56521],"type":"Point"}
+}

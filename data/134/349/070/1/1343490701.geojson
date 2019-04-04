@@ -1,0 +1,78 @@
+{
+  "id": 1343490701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.45,51.01667,3.45,51.01667",
+    "geom:latitude":51.01667,
+    "geom:longitude":3.45,
+    "gn:admin1_code":"VLG",
+    "gn:admin2_code":"VOV",
+    "gn:admin3_code":"44.0",
+    "gn:admin4_code":"44011.0",
+    "gn:asciiname":"Duine",
+    "gn:country_code":"BE",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2799084,
+    "gn:latitude":51.01667,
+    "gn:longitude":3.45,
+    "gn:modification_date":"2016-08-02",
+    "gn:name":"Duine",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Den Duine",
+        "Duine"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681733,
+        102191581,
+        1108830629,
+        85632997,
+        404227357,
+        102049989
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2799084
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"6e7ea0c9f4bf4c86671df5fa4a721822",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049989,
+            "localadmin_id":1108830629,
+            "locality_id":1343490701,
+            "macroregion_id":404227357,
+            "region_id":85681733
+        }
+    ],
+    "wof:id":1343490701,
+    "wof:lastmodified":1537587046,
+    "wof:name":"Duine",
+    "wof:parent_id":1108830629,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.45,
+    51.01667,
+    3.45,
+    51.01667
+],
+  "geometry": {"coordinates":[3.45,51.01667],"type":"Point"}
+}

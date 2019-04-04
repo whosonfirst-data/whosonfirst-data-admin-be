@@ -1,0 +1,62 @@
+{
+  "id": 1209449189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.05,50.73333,6.05,50.73333",
+    "geom:latitude":50.73333,
+    "geom:longitude":6.05,
+    "gn:admin1_code":"WAL",
+    "gn:admin2_code":"WLG",
+    "gn:asciiname":"Im Grunenthal",
+    "gn:country_code":"BE",
+    "gn:dem":271,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2795074,
+    "gn:latitude":50.73333,
+    "gn:longitude":6.05,
+    "gn:modification_date":"2010-03-06",
+    "gn:name":"Im Gr\u00fcnenthal",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2795074
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"e83770d6f704d7fdc03a0be468c41759",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "locality_id":1209449189
+        }
+    ],
+    "wof:id":1209449189,
+    "wof:lastmodified":1536286724,
+    "wof:name":"Im Grunenthal",
+    "wof:parent_id":85632997,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.05,
+    50.73333,
+    6.05,
+    50.73333
+],
+  "geometry": {"coordinates":[6.05,50.73333],"type":"Point"}
+}

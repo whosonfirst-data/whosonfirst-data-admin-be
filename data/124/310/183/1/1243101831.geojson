@@ -1,0 +1,72 @@
+{
+  "id": 1243101831,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.03251,50.64314,4.03251,50.64314",
+    "geom:latitude":50.64314,
+    "geom:longitude":4.03251,
+    "gn:admin1_code":"WAL",
+    "gn:admin2_code":"WHT",
+    "gn:admin3_code":"55.0",
+    "gn:admin4_code":"55039.0",
+    "gn:asciiname":"Le Trou",
+    "gn:country_code":"BE",
+    "gn:dem":73,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2792509,
+    "gn:latitude":50.64314,
+    "gn:longitude":4.03251,
+    "gn:modification_date":"2017-03-25",
+    "gn:name":"Le Trou",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681723,
+        102191581,
+        85632997,
+        404227353,
+        102049943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2792509
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"fa58e8bd89ead508797293c018ac7daf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049943,
+            "locality_id":1243101831,
+            "macroregion_id":404227353,
+            "region_id":85681723
+        }
+    ],
+    "wof:id":1243101831,
+    "wof:lastmodified":1536805104,
+    "wof:name":"Le Trou",
+    "wof:parent_id":102049943,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.03251,
+    50.64314,
+    4.03251,
+    50.64314
+],
+  "geometry": {"coordinates":[4.03251,50.64314],"type":"Point"}
+}

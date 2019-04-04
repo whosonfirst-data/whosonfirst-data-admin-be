@@ -1,0 +1,82 @@
+{
+  "id": 101913659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000036,
+    "geom:area_square_m":276173.693388,
+    "geom:bbox":"4.63094899161,51.0117989553,4.64374248507,51.0174383963",
+    "geom:latitude":51.014581,
+    "geom:longitude":4.636251,
+    "iso:country":"BE",
+    "lbl:latitude":51.015267,
+    "lbl:longitude":4.635718,
+    "mps:latitude":51.015267,
+    "mps:longitude":4.635718,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:unk_x_variant":[
+        "Cortewelvaart"
+    ],
+    "qs:a0":"Belgi\u00eb#Belgique#Belgien",
+    "qs:a1":"*Vlaams Brabant",
+    "qs:a1r":"0Vlaams Gewest",
+    "qs:a2":"Leuven",
+    "qs:adm0":"Belgi\u00eb#Belgique#Belgien",
+    "qs:la":"Kalmthout",
+    "qs:la_lc":"*BE211022",
+    "qs:level":"locality",
+    "qs:loc":"Korte Welvaart",
+    "qs:loc_alt":"Korte Welvaart",
+    "qs:pop":0,
+    "qs:source":"LCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"suburbs point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        85681731,
+        102191581,
+        1108830055,
+        85632997,
+        404227357,
+        102049969
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2794061,
+        "gp:id":12602665,
+        "qs:id":2
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"d8de0e3732f573d057d4e371832f5be7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049969,
+            "localadmin_id":1108830055,
+            "locality_id":101913659,
+            "macroregion_id":404227357,
+            "region_id":85681731
+        }
+    ],
+    "wof:id":101913659,
+    "wof:lastmodified":1501264128,
+    "wof:name":"Korte Welvaart",
+    "wof:parent_id":1108830055,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.63094899160717,
+    51.01179895531698,
+    4.64374248507141,
+    51.01743839634349
+],
+  "geometry": {"coordinates":[[[4.63767256828515,51.01740796784537],[4.63768202638346,51.01732637682397],[4.63795157783181,51.01500107026209],[4.64363872554173,51.01526436484556],[4.64374248507141,51.01436824106025],[4.64232071986771,51.01430244501751],[4.64242450171128,51.01340632237958],[4.63389415216881,51.01301118892434],[4.63403475276505,51.01179895531698],[4.63113768751481,51.01213004848853],[4.63094899160717,51.01375593528087],[4.6317693085515,51.01362973267408],[4.63199334759054,51.01542204498918],[4.6351298941421,51.01743839634349],[4.63759432357546,51.01743839634349],[4.63767256828515,51.01740796784537]]],"type":"Polygon"}
+}

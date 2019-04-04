@@ -1,0 +1,68 @@
+{
+  "id": 1209351163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.32615,50.62469,5.32615,50.62469",
+    "geom:latitude":50.62469,
+    "geom:longitude":5.32615,
+    "gn:admin1_code":"WAL",
+    "gn:admin2_code":"WLG",
+    "gn:admin3_code":"61.0",
+    "gn:admin4_code":"61063.0",
+    "gn:asciiname":"Oudoumont",
+    "gn:country_code":"BE",
+    "gn:dem":158,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2789487,
+    "gn:latitude":50.62469,
+    "gn:longitude":5.32615,
+    "gn:modification_date":"2017-03-25",
+    "gn:name":"Oudoumont",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ouldoumont",
+        "Oudoumont"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2789487
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"323bbdf7112f62ddbe79ebc83ba68e4f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "locality_id":1209351163
+        }
+    ],
+    "wof:id":1209351163,
+    "wof:lastmodified":1537586950,
+    "wof:name":"Oudoumont",
+    "wof:parent_id":85632997,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.32615,
+    50.62469,
+    5.32615,
+    50.62469
+],
+  "geometry": {"coordinates":[5.32615,50.62469],"type":"Point"}
+}

@@ -1,0 +1,106 @@
+{
+  "id": 1125780311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.09649,51.19391,4.09649,51.19391",
+    "geom:latitude":51.19391,
+    "geom:longitude":4.09649,
+    "gn:gn_country":"BE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"BE",
+    "lbl:latitude":51.19391,
+    "lbl:longitude":4.09649,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Sint-Pauwels"
+    ],
+    "name:eng_x_preferred":[
+        "Sint-Pauwels"
+    ],
+    "name:fre_x_preferred":[
+        "Saint-Paul"
+    ],
+    "name:hun_x_preferred":[
+        "Sint-Pauwels"
+    ],
+    "name:unk_x_variant":[
+        "Saint-Paul"
+    ],
+    "qs_pg:aaroncc":"BE",
+    "qs_pg:gn_country":"BE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2786570,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"St.-Pauwels",
+    "qs_pg:name_adm0":"Belgique",
+    "qs_pg:name_adm1":"Oost-Vlaanderen",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":55,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":192416,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424757,
+    "qs_pg:woe_id":977275,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424757,
+    "woe:name_adm0":"Belgique",
+    "woe:name_adm1":"Oost-Vlaanderen",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85681733,
+        102191581,
+        1108830193,
+        85632997,
+        404227357,
+        102049997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2786570,
+        "gp:id":977275,
+        "qs_pg:id":192416,
+        "wd:id":"Q2262095"
+    },
+    "wof:country":"BE",
+    "wof:created":1497290442,
+    "wof:geomhash":"d20d39dd270fd02390e4fc49e42b8cff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049997,
+            "localadmin_id":1108830193,
+            "locality_id":1125780311,
+            "macroregion_id":404227357,
+            "region_id":85681733
+        }
+    ],
+    "wof:id":1125780311,
+    "wof:lastmodified":1513899515,
+    "wof:name":"St.-Pauwels",
+    "wof:parent_id":1108830193,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.09649,
+    51.19391,
+    4.09649,
+    51.19391
+],
+  "geometry": {"coordinates":[4.09649,51.19391],"type":"Point"}
+}

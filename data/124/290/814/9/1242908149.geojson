@@ -1,0 +1,74 @@
+{
+  "id": 1242908149,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.15722,51.16401,5.15722,51.16401",
+    "geom:latitude":51.16401,
+    "geom:longitude":5.15722,
+    "gn:admin1_code":"VLG",
+    "gn:admin2_code":"VAN",
+    "gn:admin3_code":"13.0",
+    "gn:admin4_code":"13003.0",
+    "gn:asciiname":"Holven",
+    "gn:country_code":"BE",
+    "gn:dem":32,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2795508,
+    "gn:latitude":51.16401,
+    "gn:longitude":5.15722,
+    "gn:modification_date":"2016-08-02",
+    "gn:name":"Holven",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681715,
+        102191581,
+        1108830443,
+        85632997,
+        404227357,
+        102050007
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2795508
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"94998a2c438f6fe43ed285797e95fa88",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102050007,
+            "localadmin_id":1108830443,
+            "locality_id":1242908149,
+            "macroregion_id":404227357,
+            "region_id":85681715
+        }
+    ],
+    "wof:id":1242908149,
+    "wof:lastmodified":1537081424,
+    "wof:name":"Holven",
+    "wof:parent_id":1108830443,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.15722,
+    51.16401,
+    5.15722,
+    51.16401
+],
+  "geometry": {"coordinates":[5.15722,51.16401],"type":"Point"}
+}

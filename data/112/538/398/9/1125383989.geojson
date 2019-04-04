@@ -1,0 +1,75 @@
+{
+  "id": 1125383989,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2017-05-19",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.21,51.05348,4.21,51.05348",
+    "geom:latitude":51.05348,
+    "geom:longitude":4.21,
+    "gn:gn_country":"BE",
+    "gn:gn_fcode":"ADM4",
+    "gn:gn_pop":8100,
+    "gn:population":8100,
+    "iso:country":"BE",
+    "lbl:latitude":51.05348,
+    "lbl:longitude":4.21,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:unk_x_variant":[
+        "Saint-Amand"
+    ],
+    "qs_pg:aaroncc":"BE",
+    "qs_pg:gn_country":"BE",
+    "qs_pg:gn_fcode":"ADM4",
+    "qs_pg:gn_id":2786747,
+    "qs_pg:gn_pop":8100,
+    "qs_pg:name":"Sint-Amands",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":5,
+    "qs_pg:qs_id":1029133,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85632997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2786747,
+        "qs_pg:id":1029133
+    },
+    "wof:country":"BE",
+    "wof:created":1497048240,
+    "wof:geomhash":"eafcab9cb2091223b516356a855e616b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "localadmin_id":1125383989
+        }
+    ],
+    "wof:id":1125383989,
+    "wof:lastmodified":1505185640,
+    "wof:name":"Sint-Amands",
+    "wof:parent_id":-1,
+    "wof:placetype":"localadmin",
+    "wof:population":8100,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.21,
+    51.05348,
+    4.21,
+    51.05348
+],
+  "geometry": {"coordinates":[4.21,51.05348],"type":"Point"}
+}

@@ -1,0 +1,84 @@
+{
+  "id": 1125398663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2017-05-19",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.34196,51.15149,3.34196,51.15149",
+    "geom:latitude":51.15149,
+    "geom:longitude":3.34196,
+    "gn:gn_country":"BE",
+    "gn:gn_fcode":"ADM4",
+    "gn:gn_pop":15172,
+    "gn:population":15172,
+    "iso:country":"BE",
+    "lbl:latitude":51.15149,
+    "lbl:longitude":3.34196,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bul_x_preferred":[
+        "\u0411\u0435\u0440\u043d\u0435\u043c"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u06cc\u0631\u0646\u0645"
+    ],
+    "name:vls_x_preferred":[
+        "Beirnem"
+    ],
+    "name:zho_x_preferred":[
+        "\u8d1d\u5c14\u8bb7\u59c6"
+    ],
+    "qs_pg:aaroncc":"BE",
+    "qs_pg:gn_country":"BE",
+    "qs_pg:gn_fcode":"ADM4",
+    "qs_pg:gn_id":2802438,
+    "qs_pg:gn_pop":15172,
+    "qs_pg:name":"Beernem",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":6,
+    "qs_pg:qs_id":1062800,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85632997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2802438,
+        "qs_pg:id":1062800
+    },
+    "wof:country":"BE",
+    "wof:created":1497049178,
+    "wof:geomhash":"dd92c16c0823fd5aa7dd2bbe5902ad6d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "localadmin_id":1125398663
+        }
+    ],
+    "wof:id":1125398663,
+    "wof:lastmodified":1505185646,
+    "wof:name":"Beernem",
+    "wof:parent_id":-1,
+    "wof:placetype":"localadmin",
+    "wof:population":15172,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.34196,
+    51.15149,
+    3.34196,
+    51.15149
+],
+  "geometry": {"coordinates":[3.34196,51.15149],"type":"Point"}
+}

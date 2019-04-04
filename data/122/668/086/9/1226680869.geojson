@@ -1,0 +1,72 @@
+{
+  "id": 1226680869,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.59211,50.33598,5.59211,50.33598",
+    "geom:latitude":50.33598,
+    "geom:longitude":5.59211,
+    "gn:admin1_code":"WAL",
+    "gn:admin2_code":"WLX",
+    "gn:admin3_code":"83.0",
+    "gn:admin4_code":"83013.0",
+    "gn:asciiname":"Les Aunais",
+    "gn:country_code":"BE",
+    "gn:dem":204,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2792773,
+    "gn:latitude":50.33598,
+    "gn:longitude":5.59211,
+    "gn:modification_date":"2017-03-25",
+    "gn:name":"Les Aunais",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681727,
+        102191581,
+        85632997,
+        404227353,
+        102049921
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2792773
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"bf2291b9e895e9fe21838f15382a4743",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049921,
+            "locality_id":1226680869,
+            "macroregion_id":404227353,
+            "region_id":85681727
+        }
+    ],
+    "wof:id":1226680869,
+    "wof:lastmodified":1536808565,
+    "wof:name":"Les Aunais",
+    "wof:parent_id":102049921,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.59211,
+    50.33598,
+    5.59211,
+    50.33598
+],
+  "geometry": {"coordinates":[5.59211,50.33598],"type":"Point"}
+}

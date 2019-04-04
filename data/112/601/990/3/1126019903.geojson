@@ -1,0 +1,111 @@
+{
+  "id": 1126019903,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.21884,50.87899,4.21884,50.87899",
+    "geom:latitude":50.87899,
+    "geom:longitude":4.21884,
+    "gn:gn_country":"BE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"BE",
+    "lbl:latitude":50.87899,
+    "lbl:longitude":4.21884,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Sint-Ulriks-Kapelle"
+    ],
+    "name:eng_x_preferred":[
+        "Sint-Ulriks-Kapelle"
+    ],
+    "name:fre_x_preferred":[
+        "Chapelle-Saint-Ulric"
+    ],
+    "name:hun_x_preferred":[
+        "Sint-Ulriks-Kapelle"
+    ],
+    "name:swe_x_preferred":[
+        "Sint-Ulriks-Kapelle"
+    ],
+    "name:unk_x_variant":[
+        "Cappelle-Saint-Ulric"
+    ],
+    "qs_pg:aaroncc":"BE",
+    "qs_pg:gn_country":"BE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2786543,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"St.-Ulriks-Kapelle",
+    "qs_pg:name_adm0":"Belgique",
+    "qs_pg:name_adm1":"Vlaams Brabant",
+    "qs_pg:photos":93,
+    "qs_pg:photos_1k":19,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":3,
+    "qs_pg:photos_all":93,
+    "qs_pg:photos_sr":3,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":250225,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424757,
+    "qs_pg:woe_id":977306,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424757,
+    "woe:name_adm0":"Belgique",
+    "woe:name_adm1":"Vlaams Brabant",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85681731,
+        102191581,
+        1108830207,
+        85632997,
+        404227357,
+        102049973
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2786543,
+        "gp:id":977306,
+        "qs_pg:id":250225,
+        "wd:id":"Q2515123"
+    },
+    "wof:country":"BE",
+    "wof:created":1497300769,
+    "wof:geomhash":"c70e2842471e4a2b2aea593c7be82b44",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049973,
+            "localadmin_id":1108830207,
+            "locality_id":1126019903,
+            "macroregion_id":404227357,
+            "region_id":85681731
+        }
+    ],
+    "wof:id":1126019903,
+    "wof:lastmodified":1513899516,
+    "wof:name":"St.-Ulriks-Kapelle",
+    "wof:parent_id":1108830207,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.21884,
+    50.87899,
+    4.21884,
+    50.87899
+],
+  "geometry": {"coordinates":[4.21884,50.87899],"type":"Point"}
+}

@@ -1,0 +1,98 @@
+{
+  "id": 1125831457,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.18434,50.48876,5.18434,50.48876",
+    "geom:latitude":50.48876,
+    "geom:longitude":5.18434,
+    "gn:gn_country":"BE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"BE",
+    "lbl:latitude":50.48876,
+    "lbl:longitude":5.18434,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Soli\u00e8res"
+    ],
+    "name:eng_x_preferred":[
+        "Soli\u00e8res"
+    ],
+    "name:fre_x_preferred":[
+        "Soli\u00e8res"
+    ],
+    "qs_pg:aaroncc":"BE",
+    "qs_pg:gn_country":"BE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2786407,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Soli\u00e8res",
+    "qs_pg:name_adm0":"Belgique",
+    "qs_pg:name_adm1":"Li\u00e8ge",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":3,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":343231,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424757,
+    "qs_pg:woe_id":977020,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424757,
+    "woe:name_adm0":"Belgique",
+    "woe:name_adm1":"Li\u00e8ge",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85681691,
+        102191581,
+        85632997,
+        404227353,
+        102049925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2786407,
+        "gp:id":977020,
+        "qs_pg:id":343231,
+        "wd:id":"Q4540238"
+    },
+    "wof:country":"BE",
+    "wof:created":1497292517,
+    "wof:geomhash":"29d0a7b76caf6190988efa1902c1fcdb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049925,
+            "locality_id":1125831457,
+            "macroregion_id":404227353,
+            "region_id":85681691
+        }
+    ],
+    "wof:id":1125831457,
+    "wof:lastmodified":1513899507,
+    "wof:name":"Soli\u00e8res",
+    "wof:parent_id":102049925,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.18434,
+    50.48876,
+    5.18434,
+    50.48876
+],
+  "geometry": {"coordinates":[5.18434,50.48876],"type":"Point"}
+}

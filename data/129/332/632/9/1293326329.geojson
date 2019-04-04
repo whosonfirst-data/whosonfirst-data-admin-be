@@ -1,0 +1,72 @@
+{
+  "id": 1293326329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.46629,50.34032,4.46629,50.34032",
+    "geom:latitude":50.34032,
+    "geom:longitude":4.46629,
+    "gn:admin1_code":"WAL",
+    "gn:admin2_code":"WHT",
+    "gn:admin3_code":"56.0",
+    "gn:admin4_code":"56086.0",
+    "gn:asciiname":"Bultia",
+    "gn:country_code":"BE",
+    "gn:dem":232,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2800774,
+    "gn:latitude":50.34032,
+    "gn:longitude":4.46629,
+    "gn:modification_date":"2017-03-25",
+    "gn:name":"Bultia",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681723,
+        102191581,
+        85632997,
+        404227353,
+        102049923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2800774
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"ba650d20f72a7f252eff4c8ee4ec1c68",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049923,
+            "locality_id":1293326329,
+            "macroregion_id":404227353,
+            "region_id":85681723
+        }
+    ],
+    "wof:id":1293326329,
+    "wof:lastmodified":1537018644,
+    "wof:name":"Bultia",
+    "wof:parent_id":102049923,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.46629,
+    50.34032,
+    4.46629,
+    50.34032
+],
+  "geometry": {"coordinates":[4.46629,50.34032],"type":"Point"}
+}

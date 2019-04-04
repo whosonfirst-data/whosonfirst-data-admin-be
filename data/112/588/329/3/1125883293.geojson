@@ -1,0 +1,117 @@
+{
+  "id": 1125883293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.47878,51.00864,3.47878,51.00864",
+    "geom:latitude":51.00864,
+    "geom:longitude":3.47878,
+    "gn:gn_country":"BE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"BE",
+    "lbl:latitude":51.00864,
+    "lbl:longitude":3.47878,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bre_x_preferred":[
+        "Vinkt"
+    ],
+    "name:dut_x_preferred":[
+        "Vinkt"
+    ],
+    "name:eng_x_preferred":[
+        "Vinkt"
+    ],
+    "name:est_x_preferred":[
+        "Vinkt"
+    ],
+    "name:fre_x_preferred":[
+        "Vinkt"
+    ],
+    "name:hun_x_preferred":[
+        "Vinkt"
+    ],
+    "name:unk_x_variant":[
+        "Vynckt"
+    ],
+    "name:vls_x_preferred":[
+        "Vinkt"
+    ],
+    "qs_pg:aaroncc":"BE",
+    "qs_pg:gn_country":"BE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2784588,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Vinkt",
+    "qs_pg:name_adm0":"Belgique",
+    "qs_pg:name_adm1":"Oost-Vlaanderen",
+    "qs_pg:photos":164,
+    "qs_pg:photos_1k":33,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":4,
+    "qs_pg:photos_all":164,
+    "qs_pg:photos_sr":4,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":896404,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424757,
+    "qs_pg:woe_id":978366,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424757,
+    "woe:name_adm0":"Belgique",
+    "woe:name_adm1":"Oost-Vlaanderen",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85681733,
+        102191581,
+        1108830629,
+        85632997,
+        404227357,
+        102049989
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2784588,
+        "gp:id":978366,
+        "qs_pg:id":896404,
+        "wd:id":"Q580227"
+    },
+    "wof:country":"BE",
+    "wof:created":1497294929,
+    "wof:geomhash":"83a2ba67573818053c29ebdd101fb921",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049989,
+            "localadmin_id":1108830629,
+            "locality_id":1125883293,
+            "macroregion_id":404227357,
+            "region_id":85681733
+        }
+    ],
+    "wof:id":1125883293,
+    "wof:lastmodified":1513899547,
+    "wof:name":"Vinkt",
+    "wof:parent_id":1108830629,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.47878,
+    51.00864,
+    3.47878,
+    51.00864
+],
+  "geometry": {"coordinates":[3.47878,51.00864],"type":"Point"}
+}

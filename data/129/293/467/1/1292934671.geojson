@@ -1,0 +1,74 @@
+{
+  "id": 1292934671,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.3,50.86667,4.3,50.86667",
+    "geom:latitude":50.86667,
+    "geom:longitude":4.3,
+    "gn:admin1_code":"WAL",
+    "gn:admin2_code":"WHT",
+    "gn:asciiname":"Vergadering",
+    "gn:country_code":"BE",
+    "gn:dem":61,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2784870,
+    "gn:latitude":50.86667,
+    "gn:longitude":4.3,
+    "gn:modification_date":"2010-08-09",
+    "gn:name":"Vergadering",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "De Vergadering",
+        "Vergadering"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681713,
+        102191581,
+        85632997,
+        404227355,
+        102049957
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2784870
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"836b60404a99fa50b8de7cbc199e9e3e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":1292934671,
+            "macroregion_id":404227355,
+            "region_id":85681713
+        }
+    ],
+    "wof:id":1292934671,
+    "wof:lastmodified":1537586894,
+    "wof:name":"Vergadering",
+    "wof:parent_id":102049957,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.3,
+    50.86667,
+    4.3,
+    50.86667
+],
+  "geometry": {"coordinates":[4.3,50.86667],"type":"Point"}
+}

@@ -1,0 +1,111 @@
+{
+  "id": 85862073,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000045,
+    "geom:area_square_m":348728.064808,
+    "geom:bbox":"3.2080078125,51.2086041083,3.21762084961,51.2154863992",
+    "geom:latitude":51.212153,
+    "geom:longitude":3.212959,
+    "gn:id":"",
+    "iso:country":"BE",
+    "lbl:latitude":51.213378,
+    "lbl:longitude":3.215133,
+    "mps:latitude":51.212164,
+    "mps:longitude":3.21401,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":16.0,
+    "mz:tier_locality":4,
+    "name:dut_x_preferred":[
+        "Kristus-koning"
+    ],
+    "name:unk_x_variant":[
+        "Kristus-koning"
+    ],
+    "qs:gn_adm0_cc":"BE",
+    "qs:gn_id":0,
+    "qs:gn_local":2800931,
+    "qs:gn_nam_loc":"Brugge, Brugge, Brugge, West-Vlaanderen, BE",
+    "qs:gn_namadm1":"VLG",
+    "qs:local_max":37881,
+    "qs:local_sum":63287,
+    "qs:localhoods":13,
+    "qs:name":"Kristus-koning",
+    "qs:name_adm0":"Belgique",
+    "qs:name_adm1":"West-Vlaanderen",
+    "qs:name_adm2":"Brugge",
+    "qs:name_lau":"Brugge",
+    "qs:name_local":"Brugge",
+    "qs:photo_max":103,
+    "qs:photo_sum":302,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":12,
+    "qs:woe_adm0":23424757,
+    "qs:woe_adm1":7153305,
+    "qs:woe_adm2":12591776,
+    "qs:woe_lau":12602455,
+    "qs:woe_local":967974,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        102191581,
+        1108830689,
+        85632997,
+        404227357,
+        101748097,
+        102050003,
+        85681709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":20098293,
+        "qs:id":337055,
+        "qs_pg:id":337055
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"c706334713c1ccc4ccbd2ac03670a7fb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102050003,
+            "localadmin_id":1108830689,
+            "locality_id":101748097,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85862073,
+            "region_id":85681709
+        }
+    ],
+    "wof:id":85862073,
+    "wof:lang":[
+        "dut"
+    ],
+    "wof:lastmodified":1527269994,
+    "wof:name":"Kristus-koning",
+    "wof:parent_id":101748097,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.20800781249994,
+    51.20860410825016,
+    3.21762084961011,
+    51.21548639920003
+],
+  "geometry": {"coordinates":[[[3.21350097656011,51.21462616866974],[3.21487426757844,51.21462616841679],[3.21624755859,51.21462616853519],[3.21654597667305,51.21462616707528],[3.2166060886837,51.2143382738375],[3.21762084961011,51.21379828681138],[3.21762084961011,51.21376592690002],[3.21762084961011,51.21290566401679],[3.21762084961011,51.21204539040006],[3.21762084961011,51.21201299212144],[3.21624755859162,51.21128226063855],[3.21624755859142,51.21032478146272],[3.21624755859142,51.20860411627514],[3.21290416389354,51.20860410825016],[3.21254484260623,51.21032472520024],[3.20800781250014,51.21032472520024],[3.20800781250014,51.21032478950009],[3.20800781250014,51.21223963267967],[3.20800781249994,51.21376592690002],[3.21075439453011,51.21376592690002],[3.21075439362622,51.21548638925687],[3.21302294847712,51.21548639516068],[3.21350097656011,51.21548639920003],[3.21350097656011,51.21462616866974]]],"type":"Polygon"}
+}

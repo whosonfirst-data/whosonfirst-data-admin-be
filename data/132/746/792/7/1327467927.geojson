@@ -1,0 +1,79 @@
+{
+  "id": 1327467927,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.43333,51.26667,4.43333,51.26667",
+    "geom:latitude":51.26667,
+    "geom:longitude":4.43333,
+    "gn:admin1_code":"VLG",
+    "gn:admin2_code":"VAN",
+    "gn:admin3_code":"11.0",
+    "gn:admin4_code":"11002.0",
+    "gn:asciiname":"Het Laar",
+    "gn:country_code":"BE",
+    "gn:dem":0,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2795867,
+    "gn:latitude":51.26667,
+    "gn:longitude":4.43333,
+    "gn:modification_date":"2016-08-02",
+    "gn:name":"Het Laar",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Laer",
+        "Laar",
+        "Het Laar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681715,
+        102191581,
+        1108830423,
+        85632997,
+        404227357,
+        102050005
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2795867
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"06882bc81eaf969bfa323cd6bcf3e2dc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102050005,
+            "localadmin_id":1108830423,
+            "locality_id":1327467927,
+            "macroregion_id":404227357,
+            "region_id":85681715
+        }
+    ],
+    "wof:id":1327467927,
+    "wof:lastmodified":1537587018,
+    "wof:name":"Het Laar",
+    "wof:parent_id":1108830423,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.43333,
+    51.26667,
+    4.43333,
+    51.26667
+],
+  "geometry": {"coordinates":[4.43333,51.26667],"type":"Point"}
+}

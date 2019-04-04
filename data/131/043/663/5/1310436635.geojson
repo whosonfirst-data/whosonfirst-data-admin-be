@@ -1,0 +1,79 @@
+{
+  "id": 1310436635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.71697,50.85905,4.71697,50.85905",
+    "geom:latitude":50.85905,
+    "geom:longitude":4.71697,
+    "gn:admin1_code":"VLG",
+    "gn:admin2_code":"VBR",
+    "gn:admin3_code":"24.0",
+    "gn:admin4_code":"24062.0",
+    "gn:asciiname":"Pietersberg",
+    "gn:country_code":"BE",
+    "gn:dem":47,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2788984,
+    "gn:latitude":50.85905,
+    "gn:longitude":4.71697,
+    "gn:modification_date":"2016-08-02",
+    "gn:name":"Pietersberg",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sint-Pietersberg",
+        "Sint-Peeters Berg",
+        "Pietersberg"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681731,
+        102191581,
+        1108830125,
+        85632997,
+        404227357,
+        102049969
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2788984
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"ff5da3f32401a93c71992a91f6a1cfc4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049969,
+            "localadmin_id":1108830125,
+            "locality_id":1310436635,
+            "macroregion_id":404227357,
+            "region_id":85681731
+        }
+    ],
+    "wof:id":1310436635,
+    "wof:lastmodified":1537586945,
+    "wof:name":"Pietersberg",
+    "wof:parent_id":1108830125,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.71697,
+    50.85905,
+    4.71697,
+    50.85905
+],
+  "geometry": {"coordinates":[4.71697,50.85905],"type":"Point"}
+}

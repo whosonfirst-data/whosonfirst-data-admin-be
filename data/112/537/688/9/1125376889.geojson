@@ -1,0 +1,72 @@
+{
+  "id": 1125376889,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2017-05-19",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.51667,50.73333,3.51667,50.73333",
+    "geom:latitude":50.73333,
+    "geom:longitude":3.51667,
+    "gn:gn_country":"BE",
+    "gn:gn_fcode":"ADM4",
+    "gn:gn_pop":3512,
+    "gn:population":3512,
+    "iso:country":"BE",
+    "lbl:latitude":50.73333,
+    "lbl:longitude":3.51667,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"BE",
+    "qs_pg:gn_country":"BE",
+    "qs_pg:gn_fcode":"ADM4",
+    "qs_pg:gn_id":2803156,
+    "qs_pg:gn_pop":3512,
+    "qs_pg:name":"Mont-de-l'Enclus",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":373657,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85632997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2803156,
+        "qs_pg:id":373657
+    },
+    "wof:country":"BE",
+    "wof:created":1497047802,
+    "wof:geomhash":"3ce1f0c079a60ff1fea7e3b9be3dc9c4",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "localadmin_id":1125376889
+        }
+    ],
+    "wof:id":1125376889,
+    "wof:lastmodified":1505185646,
+    "wof:name":"Mont-de-l'Enclus",
+    "wof:parent_id":-1,
+    "wof:placetype":"localadmin",
+    "wof:population":3512,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.51667,
+    50.73333,
+    3.51667,
+    50.73333
+],
+  "geometry": {"coordinates":[3.51667,50.73333],"type":"Point"}
+}

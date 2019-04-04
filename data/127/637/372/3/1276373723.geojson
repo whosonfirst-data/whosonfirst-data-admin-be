@@ -1,0 +1,75 @@
+{
+  "id": 1276373723,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.18237,50.66181,5.18237,50.66181",
+    "geom:latitude":50.66181,
+    "geom:longitude":5.18237,
+    "gn:admin1_code":"WAL",
+    "gn:admin2_code":"WLG",
+    "gn:admin3_code":"64.0",
+    "gn:admin4_code":"64029.0",
+    "gn:asciiname":"Ligney",
+    "gn:country_code":"BE",
+    "gn:dem":128,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2792372,
+    "gn:latitude":50.66181,
+    "gn:longitude":5.18237,
+    "gn:modification_date":"2011-03-15",
+    "gn:name":"Ligney",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Geer (Ligney)"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681691,
+        102191581,
+        85632997,
+        404227353,
+        102049937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2792372
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"6c9afe798dafd4abebe529e21055b16b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049937,
+            "locality_id":1276373723,
+            "macroregion_id":404227353,
+            "region_id":85681691
+        }
+    ],
+    "wof:id":1276373723,
+    "wof:lastmodified":1537586977,
+    "wof:name":"Ligney",
+    "wof:parent_id":102049937,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.18237,
+    50.66181,
+    5.18237,
+    50.66181
+],
+  "geometry": {"coordinates":[5.18237,50.66181],"type":"Point"}
+}

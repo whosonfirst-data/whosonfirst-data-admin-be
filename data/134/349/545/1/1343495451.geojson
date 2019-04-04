@@ -1,0 +1,72 @@
+{
+  "id": 1343495451,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.77689,50.69151,3.77689,50.69151",
+    "geom:latitude":50.69151,
+    "geom:longitude":3.77689,
+    "gn:admin1_code":"WAL",
+    "gn:admin2_code":"WHT",
+    "gn:admin3_code":"51.0",
+    "gn:admin4_code":"51004.0",
+    "gn:asciiname":"Hameau du Franquier",
+    "gn:country_code":"BE",
+    "gn:dem":47,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2797991,
+    "gn:latitude":50.69151,
+    "gn:longitude":3.77689,
+    "gn:modification_date":"2017-03-25",
+    "gn:name":"Hameau du Franquier",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681723,
+        102191581,
+        85632997,
+        404227353,
+        102049949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2797991
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"8cb67b337db3e4718fbf03a1549dfd7b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049949,
+            "locality_id":1343495451,
+            "macroregion_id":404227353,
+            "region_id":85681723
+        }
+    ],
+    "wof:id":1343495451,
+    "wof:lastmodified":1536695876,
+    "wof:name":"Hameau du Franquier",
+    "wof:parent_id":102049949,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.77689,
+    50.69151,
+    3.77689,
+    50.69151
+],
+  "geometry": {"coordinates":[3.77689,50.69151],"type":"Point"}
+}

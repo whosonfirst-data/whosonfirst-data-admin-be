@@ -1,0 +1,93 @@
+{
+  "id": 1125791353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.7064,50.89014,3.7064,50.89014",
+    "geom:latitude":50.89014,
+    "geom:longitude":3.7064,
+    "gn:gn_country":"BE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"BE",
+    "lbl:latitude":50.89014,
+    "lbl:longitude":3.7064,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:unk_x_variant":[
+        "Laethem-Sainte Marie"
+    ],
+    "qs_pg:aaroncc":"BE",
+    "qs_pg:gn_country":"BE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2786605,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"St.-Maria-Latem",
+    "qs_pg:name_adm0":"Belgique",
+    "qs_pg:name_adm1":"Oost-Vlaanderen",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":2,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1162350,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424757,
+    "qs_pg:woe_id":977253,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424757,
+    "woe:name_adm0":"Belgique",
+    "woe:name_adm1":"Oost-Vlaanderen",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85681733,
+        102191581,
+        1108830583,
+        85632997,
+        404227357,
+        102049963
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2786605,
+        "gp:id":977253,
+        "qs_pg:id":1162350
+    },
+    "wof:country":"BE",
+    "wof:created":1497290875,
+    "wof:geomhash":"dd78f1edd99929346ac2b7559e4bd1b1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049963,
+            "localadmin_id":1108830583,
+            "locality_id":1125791353,
+            "macroregion_id":404227357,
+            "region_id":85681733
+        }
+    ],
+    "wof:id":1125791353,
+    "wof:lastmodified":1509392357,
+    "wof:name":"St.-Maria-Latem",
+    "wof:parent_id":1108830583,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.7064,
+    50.89014,
+    3.7064,
+    50.89014
+],
+  "geometry": {"coordinates":[3.7064,50.89014],"type":"Point"}
+}

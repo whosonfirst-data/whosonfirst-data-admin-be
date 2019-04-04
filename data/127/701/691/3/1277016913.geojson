@@ -1,0 +1,72 @@
+{
+  "id": 1277016913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.07216,50.43236,6.07216,50.43236",
+    "geom:latitude":50.43236,
+    "geom:longitude":6.07216,
+    "gn:admin1_code":"WAL",
+    "gn:admin2_code":"WLG",
+    "gn:admin3_code":"63.0",
+    "gn:admin4_code":"63049.0",
+    "gn:asciiname":"Boussire",
+    "gn:country_code":"BE",
+    "gn:dem":496,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2801230,
+    "gn:latitude":50.43236,
+    "gn:longitude":6.07216,
+    "gn:modification_date":"2017-03-25",
+    "gn:name":"Boussire",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681691,
+        102191581,
+        85632997,
+        404227353,
+        102049935
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2801230
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"be8305d2ec608eea00db8cbc1e65015a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049935,
+            "locality_id":1277016913,
+            "macroregion_id":404227353,
+            "region_id":85681691
+        }
+    ],
+    "wof:id":1277016913,
+    "wof:lastmodified":1536856229,
+    "wof:name":"Boussire",
+    "wof:parent_id":102049935,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.07216,
+    50.43236,
+    6.07216,
+    50.43236
+],
+  "geometry": {"coordinates":[6.07216,50.43236],"type":"Point"}
+}

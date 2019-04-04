@@ -1,0 +1,68 @@
+{
+  "id": 1209445475,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.76667,49.88333,5.76667,49.88333",
+    "geom:latitude":49.88333,
+    "geom:longitude":5.76667,
+    "gn:admin1_code":"WAL",
+    "gn:admin2_code":"WLX",
+    "gn:admin3_code":"82.0",
+    "gn:admin4_code":"82009.0",
+    "gn:asciiname":"Auf Beescht",
+    "gn:country_code":"BE",
+    "gn:dem":413,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2802949,
+    "gn:latitude":49.88333,
+    "gn:longitude":5.76667,
+    "gn:modification_date":"2017-03-25",
+    "gn:name":"Auf Beescht",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Auf Boescht",
+        "Auf Beescht"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2802949
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"600a0d671bfff64f4202e3f1b9edeb27",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "locality_id":1209445475
+        }
+    ],
+    "wof:id":1209445475,
+    "wof:lastmodified":1537587083,
+    "wof:name":"Auf Beescht",
+    "wof:parent_id":85632997,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.76667,
+    49.88333,
+    5.76667,
+    49.88333
+],
+  "geometry": {"coordinates":[5.76667,49.88333],"type":"Point"}
+}

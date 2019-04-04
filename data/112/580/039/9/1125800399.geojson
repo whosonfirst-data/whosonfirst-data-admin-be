@@ -1,0 +1,103 @@
+{
+  "id": 1125800399,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.58987,51.28868,3.58987,51.28868",
+    "geom:latitude":51.28868,
+    "geom:longitude":3.58987,
+    "gn:gn_country":"BE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"BE",
+    "lbl:latitude":51.28868,
+    "lbl:longitude":3.58987,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Waterland-Oudeman"
+    ],
+    "name:eng_x_preferred":[
+        "Waterland-Oudeman"
+    ],
+    "name:fre_x_preferred":[
+        "Waterland-Oudeman"
+    ],
+    "name:hun_x_preferred":[
+        "Waterland-Oudeman"
+    ],
+    "qs_pg:aaroncc":"BE",
+    "qs_pg:gn_country":"BE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2783987,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Waterland-Oudeman",
+    "qs_pg:name_adm0":"Belgique",
+    "qs_pg:name_adm1":"Oost-Vlaanderen",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":2,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":489820,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424757,
+    "qs_pg:woe_id":978707,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424757,
+    "woe:name_adm0":"Belgique",
+    "woe:name_adm1":"Oost-Vlaanderen",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85681733,
+        102191581,
+        1108830091,
+        85632997,
+        404227357,
+        102049995
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2783987,
+        "gp:id":978707,
+        "qs_pg:id":489820,
+        "wd:id":"Q2358090"
+    },
+    "wof:country":"BE",
+    "wof:created":1497291234,
+    "wof:geomhash":"f64cc73cb10af71d8e6e73fa9c918b39",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049995,
+            "localadmin_id":1108830091,
+            "locality_id":1125800399,
+            "macroregion_id":404227357,
+            "region_id":85681733
+        }
+    ],
+    "wof:id":1125800399,
+    "wof:lastmodified":1513899572,
+    "wof:name":"Waterland-Oudeman",
+    "wof:parent_id":1108830091,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.58987,
+    51.28868,
+    3.58987,
+    51.28868
+],
+  "geometry": {"coordinates":[3.58987,51.28868],"type":"Point"}
+}

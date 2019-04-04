@@ -1,0 +1,78 @@
+{
+  "id": 1276796219,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.11105,50.857,5.11105,50.857",
+    "geom:latitude":50.857,
+    "geom:longitude":5.11105,
+    "gn:admin1_code":"VLG",
+    "gn:admin2_code":"VBR",
+    "gn:admin3_code":"24.0",
+    "gn:admin4_code":"24130.0",
+    "gn:asciiname":"Terweiden",
+    "gn:country_code":"BE",
+    "gn:dem":26,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2785617,
+    "gn:latitude":50.857,
+    "gn:longitude":5.11105,
+    "gn:modification_date":"2016-08-02",
+    "gn:name":"Terweiden",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Terweyden",
+        "Terweiden"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681731,
+        102191581,
+        1108830427,
+        85632997,
+        404227357,
+        102049969
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2785617
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"9f868dddfbfe5b5eccc66f8687863768",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049969,
+            "localadmin_id":1108830427,
+            "locality_id":1276796219,
+            "macroregion_id":404227357,
+            "region_id":85681731
+        }
+    ],
+    "wof:id":1276796219,
+    "wof:lastmodified":1537586902,
+    "wof:name":"Terweiden",
+    "wof:parent_id":1108830427,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.11105,
+    50.857,
+    5.11105,
+    50.857
+],
+  "geometry": {"coordinates":[5.11105,50.857],"type":"Point"}
+}

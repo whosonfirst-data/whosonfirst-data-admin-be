@@ -1,0 +1,74 @@
+{
+  "id": 1327170659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.52036,51.24279,4.52036,51.24279",
+    "geom:latitude":51.24279,
+    "geom:longitude":4.52036,
+    "gn:admin1_code":"VLG",
+    "gn:admin2_code":"VAN",
+    "gn:admin3_code":"11.0",
+    "gn:admin4_code":"11040.0",
+    "gn:asciiname":"Wetschot",
+    "gn:country_code":"BE",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2783765,
+    "gn:latitude":51.24279,
+    "gn:longitude":4.52036,
+    "gn:modification_date":"2016-08-02",
+    "gn:name":"Wetschot",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681715,
+        102191581,
+        1108830155,
+        85632997,
+        404227357,
+        102050005
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2783765
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"d19d41281a4d8e642fa9e2e770a0e893",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102050005,
+            "localadmin_id":1108830155,
+            "locality_id":1327170659,
+            "macroregion_id":404227357,
+            "region_id":85681715
+        }
+    ],
+    "wof:id":1327170659,
+    "wof:lastmodified":1537056244,
+    "wof:name":"Wetschot",
+    "wof:parent_id":1108830155,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.52036,
+    51.24279,
+    4.52036,
+    51.24279
+],
+  "geometry": {"coordinates":[4.52036,51.24279],"type":"Point"}
+}

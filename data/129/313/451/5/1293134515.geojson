@@ -1,0 +1,72 @@
+{
+  "id": 1293134515,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.86697,50.68026,3.86697,50.68026",
+    "geom:latitude":50.68026,
+    "geom:longitude":3.86697,
+    "gn:admin1_code":"WAL",
+    "gn:admin2_code":"WHT",
+    "gn:admin3_code":"55.0",
+    "gn:admin4_code":"55023.0",
+    "gn:asciiname":"La Verte Louche",
+    "gn:country_code":"BE",
+    "gn:dem":31,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2793172,
+    "gn:latitude":50.68026,
+    "gn:longitude":3.86697,
+    "gn:modification_date":"2017-03-25",
+    "gn:name":"La Verte Louche",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681723,
+        102191581,
+        85632997,
+        404227353,
+        102049943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2793172
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"dc6729c58ac84d2086b5ef5b88f27790",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049943,
+            "locality_id":1293134515,
+            "macroregion_id":404227353,
+            "region_id":85681723
+        }
+    ],
+    "wof:id":1293134515,
+    "wof:lastmodified":1536799089,
+    "wof:name":"La Verte Louche",
+    "wof:parent_id":102049943,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.86697,
+    50.68026,
+    3.86697,
+    50.68026
+],
+  "geometry": {"coordinates":[3.86697,50.68026],"type":"Point"}
+}

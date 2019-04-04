@@ -1,0 +1,128 @@
+{
+  "id": 101808121,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000142,
+    "geom:area_square_m":1096025.845441,
+    "geom:bbox":"3.07033068861,51.2924865497,3.09019238086,51.304366109",
+    "geom:latitude":51.29806,
+    "geom:longitude":3.081163,
+    "gn:population":4003,
+    "iso:country":"BE",
+    "lbl:latitude":51.298253,
+    "lbl:longitude":3.082345,
+    "mps:latitude":51.298253,
+    "mps:longitude":3.082345,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Wenduine"
+    ],
+    "name:dut_x_preferred":[
+        "Wenduine"
+    ],
+    "name:eng_x_preferred":[
+        "Wenduine"
+    ],
+    "name:fra_x_preferred":[
+        "Wenduine"
+    ],
+    "name:fre_x_preferred":[
+        "Wenduine"
+    ],
+    "name:hun_x_preferred":[
+        "Wenduine"
+    ],
+    "name:lat_x_preferred":[
+        "Wenduine"
+    ],
+    "name:nds_x_preferred":[
+        "Wenduine"
+    ],
+    "name:nld_x_preferred":[
+        "Wenduine"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u0430\u043d\u0434\u044e\u0438\u043d"
+    ],
+    "name:swe_x_preferred":[
+        "Wenduine"
+    ],
+    "name:unk_x_variant":[
+        "Wenduyne"
+    ],
+    "name:vls_x_preferred":[
+        "Wendune"
+    ],
+    "qs:a0":"Belgi\u00eb#Belgique#Belgien",
+    "qs:a1":"*West-Vlanderen",
+    "qs:a1r":"0Vlaams Gewest",
+    "qs:a2":"Oostende",
+    "qs:adm0":"Belgi\u00eb#Belgique#Belgien",
+    "qs:la":"De Haan",
+    "qs:la_lc":"*BE235029",
+    "qs:level":"locality",
+    "qs:loc":"Wenduine",
+    "qs:loc_alt":"Wenduine",
+    "qs:pop":0,
+    "qs:source":"LCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":83,
+    "wof:belongsto":[
+        85681709,
+        102191581,
+        1108830685,
+        85632997,
+        404227357,
+        102049999
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2783854,
+        "gp:id":978782,
+        "qs:id":239972,
+        "qs_pg:id":239972,
+        "wd:id":"Q498639",
+        "wk:page":"Wenduine"
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"04d6ec3baa0ea0d036656d9a171e1e24",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049999,
+            "localadmin_id":1108830685,
+            "locality_id":101808121,
+            "macroregion_id":404227357,
+            "region_id":85681709
+        }
+    ],
+    "wof:id":101808121,
+    "wof:lastmodified":1527715337,
+    "wof:name":"Wenduine",
+    "wof:parent_id":1108830685,
+    "wof:placetype":"locality",
+    "wof:population":4003,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.07033068860915,
+    51.29248654968501,
+    3.09019238085716,
+    51.30436610897414
+],
+  "geometry": {"coordinates":[[[3.08652501329573,51.30436610897414],[3.08679523307649,51.30257770068533],[3.08822373378229,51.30266264593348],[3.08835880641379,51.30176843931469],[3.08978728448648,51.30185336516809],[3.09019238085716,51.29917073731525],[3.08733559450212,51.29900087951023],[3.08787585177163,51.29542405220303],[3.08644757581527,51.29533910465875],[3.08685278286987,51.29265648585056],[3.0839964104033,51.29248654968501],[3.08386129293888,51.29338075253827],[3.0752921273193,51.29287051285701],[3.07502154312357,51.29465889459391],[3.07359331092118,51.29457378962354],[3.07345798156564,51.29546797801265],[3.07202972675111,51.29538285364771],[3.07189436339468,51.29627703974887],[3.07046608596931,51.29619189598839],[3.07033068860915,51.29708607980126],[3.07175899351529,51.2971712254656],[3.07162361711187,51.29806541079813],[3.07305195436834,51.29815054087396],[3.07291659892451,51.29904472772597],[3.07434496853273,51.29912984221244],[3.07420963405059,51.30002403058364],[3.07563803601084,51.30010912947989],[3.07550272249313,51.30100331937007],[3.07693115680746,51.30108840267525],[3.07679586425661,51.30198259408468],[3.07965280245924,51.30215271201672],[3.07951755836808,51.30304690684721],[3.08380308462586,51.30330195823808],[3.08366791649337,51.30419615838969],[3.08652501329573,51.30436610897414]]],"type":"Polygon"}
+}

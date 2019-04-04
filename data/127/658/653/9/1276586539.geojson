@@ -1,0 +1,72 @@
+{
+  "id": 1276586539,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.42601,50.3382,4.42601,50.3382",
+    "geom:latitude":50.3382,
+    "geom:longitude":4.42601,
+    "gn:admin1_code":"WAL",
+    "gn:admin2_code":"WHT",
+    "gn:admin3_code":"56.0",
+    "gn:admin4_code":"56086.0",
+    "gn:asciiname":"Grogeries",
+    "gn:country_code":"BE",
+    "gn:dem":213,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2797058,
+    "gn:latitude":50.3382,
+    "gn:longitude":4.42601,
+    "gn:modification_date":"2017-03-25",
+    "gn:name":"Grogeries",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681723,
+        102191581,
+        85632997,
+        404227353,
+        102049923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2797058
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"7082c4a7ea1a0c0527ee5ce702c9e779",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049923,
+            "locality_id":1276586539,
+            "macroregion_id":404227353,
+            "region_id":85681723
+        }
+    ],
+    "wof:id":1276586539,
+    "wof:lastmodified":1536937715,
+    "wof:name":"Grogeries",
+    "wof:parent_id":102049923,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.42601,
+    50.3382,
+    4.42601,
+    50.3382
+],
+  "geometry": {"coordinates":[4.42601,50.3382],"type":"Point"}
+}

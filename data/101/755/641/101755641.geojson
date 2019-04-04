@@ -1,0 +1,113 @@
+{
+  "id": 101755641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00012,
+    "geom:area_square_m":932783.349806,
+    "geom:bbox":"4.28252781881,51.0988914174,4.30842022167,51.1124674788",
+    "geom:latitude":51.105799,
+    "geom:longitude":4.298536,
+    "iso:country":"BE",
+    "lbl:latitude":51.105562,
+    "lbl:longitude":4.301969,
+    "mps:latitude":51.105562,
+    "mps:longitude":4.301969,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Canal mar\u00edtim Brussel\u00b7les-Escalda"
+    ],
+    "name:deu_x_preferred":[
+        "Seekanal Br\u00fcssel-Schelde"
+    ],
+    "name:fra_x_preferred":[
+        "Canal maritime de Bruxelles \u00e0 l'Escaut"
+    ],
+    "name:ind_x_preferred":[
+        "Kanal Maritim Brussel\u2013Scheldt"
+    ],
+    "name:ltz_x_preferred":[
+        "Kanal vu Willebroek"
+    ],
+    "name:nld_x_preferred":[
+        "Zeekanaal Brussel-Schelde"
+    ],
+    "name:por_x_preferred":[
+        "Canal mar\u00edtimo Bruxelas-Escalda"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0440\u044e\u0441\u0441\u0435\u043b\u044c-\u0428\u0435\u043b\u044c\u0434\u0430"
+    ],
+    "name:spa_x_preferred":[
+        "Canal Mar\u00edtimo Bruselas-Escalda"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0440\u044e\u0441\u0441\u0435\u043b\u044c \u2014 \u0428\u0435\u043b\u044c\u0434\u0430"
+    ],
+    "qs:a0":"Belgi\u00eb#Belgique#Belgien",
+    "qs:a1":"*Antwerpen",
+    "qs:a1r":"0Vlaams Gewest",
+    "qs:a2":"Mechelen",
+    "qs:adm0":"Belgi\u00eb#Belgique#Belgien",
+    "qs:id":0,
+    "qs:la":"Kalmthout",
+    "qs:la_lc":"*BE211022",
+    "qs:level":"locality",
+    "qs:loc":"Wintham",
+    "qs:loc_alt":"Wintham",
+    "qs:pop":0,
+    "qs:source":"LCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"suburbs point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        85681715,
+        102191581,
+        1108830535,
+        85632997,
+        404227357,
+        102049985
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2783557,
+        "gp:id":978966,
+        "qs:id":267709,
+        "qs_pg:id":267709
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"461558c9810b32984cdcbdf9ecd56777",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049985,
+            "localadmin_id":1108830535,
+            "locality_id":101755641,
+            "macroregion_id":404227357,
+            "region_id":85681715
+        }
+    ],
+    "wof:id":101755641,
+    "wof:lastmodified":1497297523,
+    "wof:name":"Wintham",
+    "wof:parent_id":1108830535,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.28252781880872,
+    51.09889141743042,
+    4.30842022167241,
+    51.11246747881057
+],
+  "geometry": {"coordinates":[[[4.28252781880872,51.10432899573823],[4.28315521624722,51.10526112907547],[4.28650518394051,51.10542629910123],[4.28628319245007,51.10721773796354],[4.28913154442,51.10735808843987],[4.28902059543702,51.10825381050756],[4.29899014416776,51.108744498232],[4.29865784031506,51.1114316952615],[4.29723352499622,51.11136164470611],[4.29712271901138,51.11225737483971],[4.30139575903951,51.11246747881057],[4.30172791453515,51.10978027339985],[4.30315218698411,51.10985026846362],[4.30337354261269,51.10805879344946],[4.30479776425642,51.10812876793949],[4.3050190438484,51.10633728851064],[4.30644321469259,51.1064072424287],[4.30666441825934,51.10461575858602],[4.30808853830541,51.10468569193381],[4.30842022167241,51.10199845906345],[4.30414811981507,51.10178862066897],[4.30448000173612,51.09910139888876],[4.30020818189888,51.09889141743042],[4.30009747779451,51.09978715367487],[4.30152144114601,51.09985716650544],[4.30118937903842,51.10254437796254],[4.29976533356665,51.10247436045626],[4.29954387748438,51.1042658300176],[4.29669568893786,51.10412573640457],[4.29658489816006,51.10502146757864],[4.28252781880872,51.10432899573823]]],"type":"Polygon"}
+}

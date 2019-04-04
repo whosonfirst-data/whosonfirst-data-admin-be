@@ -1,0 +1,72 @@
+{
+  "id": 1226376589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.20163,50.64984,4.20163,50.64984",
+    "geom:latitude":50.64984,
+    "geom:longitude":4.20163,
+    "gn:admin1_code":"WAL",
+    "gn:admin2_code":"WBR",
+    "gn:admin3_code":"25.0",
+    "gn:admin4_code":"25044.0",
+    "gn:asciiname":"Bouton Rouge",
+    "gn:country_code":"BE",
+    "gn:dem":107,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2801210,
+    "gn:latitude":50.64984,
+    "gn:longitude":4.20163,
+    "gn:modification_date":"2017-03-25",
+    "gn:name":"Bouton Rouge",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681723,
+        102191581,
+        85632997,
+        404227353,
+        102049943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2801210
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"cd0f475bbbac828d821b297a4320d473",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049943,
+            "locality_id":1226376589,
+            "macroregion_id":404227353,
+            "region_id":85681723
+        }
+    ],
+    "wof:id":1226376589,
+    "wof:lastmodified":1536744848,
+    "wof:name":"Bouton Rouge",
+    "wof:parent_id":102049943,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.20163,
+    50.64984000000001,
+    4.20163,
+    50.64984000000001
+],
+  "geometry": {"coordinates":[4.20163,50.64984000000001],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1293525461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.85,50.75,2.85,50.75",
+    "geom:latitude":50.75,
+    "geom:longitude":2.85,
+    "gn:admin1_code":"VLG",
+    "gn:admin2_code":"VWV",
+    "gn:asciiname":"Bussemeersen",
+    "gn:country_code":"BE",
+    "gn:dem":34,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2800717,
+    "gn:latitude":50.75,
+    "gn:longitude":2.85,
+    "gn:modification_date":"2010-08-09",
+    "gn:name":"Bussemeersen",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Busschemeerschen",
+        "Bussemeersen"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681723,
+        102191581,
+        85632997,
+        404227353,
+        1108782559
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2800717
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"45f05e500251153f09c985c4ed7f9e5d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":1108782559,
+            "locality_id":1293525461,
+            "macroregion_id":404227353,
+            "region_id":85681723
+        }
+    ],
+    "wof:id":1293525461,
+    "wof:lastmodified":1537587063,
+    "wof:name":"Bussemeersen",
+    "wof:parent_id":1108782559,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.85,
+    50.75,
+    2.85,
+    50.75
+],
+  "geometry": {"coordinates":[2.85,50.75],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1209651023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.13333,51.08333,4.13333,51.08333",
+    "geom:latitude":51.08333,
+    "geom:longitude":4.13333,
+    "gn:admin1_code":"VLG",
+    "gn:admin2_code":"VOV",
+    "gn:admin3_code":"42.0",
+    "gn:admin4_code":"42008.0",
+    "gn:asciiname":"Hooirt",
+    "gn:country_code":"BE",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2795385,
+    "gn:latitude":51.08333,
+    "gn:longitude":4.13333,
+    "gn:modification_date":"2016-08-02",
+    "gn:name":"Hooirt",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2795385
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"50d8b74f330889dfb68324a91de2ddd6",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "locality_id":1209651023
+        }
+    ],
+    "wof:id":1209651023,
+    "wof:lastmodified":1536280580,
+    "wof:name":"Hooirt",
+    "wof:parent_id":85632997,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.13333,
+    51.08333,
+    4.13333,
+    51.08333
+],
+  "geometry": {"coordinates":[4.13333,51.08333],"type":"Point"}
+}

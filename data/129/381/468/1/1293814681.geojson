@@ -1,0 +1,76 @@
+{
+  "id": 1293814681,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.36597,51.29683,3.36597,51.29683",
+    "geom:latitude":51.29683,
+    "geom:longitude":3.36597,
+    "gn:admin1_code":"VLG",
+    "gn:admin2_code":"VWV",
+    "gn:asciiname":"Blauwe Sluis",
+    "gn:country_code":"BE",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2801836,
+    "gn:latitude":51.29683,
+    "gn:longitude":3.36597,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Blauwe Sluis",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Blauwe Sluys",
+        "Blauwe Sluis"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681709,
+        102191581,
+        1108830063,
+        85632997,
+        404227357,
+        102050003
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2801836
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"39cf5cbccd0a097729db1a564b1f991c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102050003,
+            "localadmin_id":1108830063,
+            "locality_id":1293814681,
+            "macroregion_id":404227357,
+            "region_id":85681709
+        }
+    ],
+    "wof:id":1293814681,
+    "wof:lastmodified":1537587075,
+    "wof:name":"Blauwe Sluis",
+    "wof:parent_id":1108830063,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.36597,
+    51.29683,
+    3.36597,
+    51.29683
+],
+  "geometry": {"coordinates":[3.36597,51.29683],"type":"Point"}
+}

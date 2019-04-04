@@ -1,0 +1,78 @@
+{
+  "id": 1276260301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.75746,51.36616,4.75746,51.36616",
+    "geom:latitude":51.36616,
+    "geom:longitude":4.75746,
+    "gn:admin1_code":"VLG",
+    "gn:admin2_code":"VAN",
+    "gn:admin3_code":"13.0",
+    "gn:admin4_code":"13037.0",
+    "gn:asciiname":"Gammel",
+    "gn:country_code":"BE",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2797847,
+    "gn:latitude":51.36616,
+    "gn:longitude":4.75746,
+    "gn:modification_date":"2016-08-02",
+    "gn:name":"Gammel",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gommel",
+        "Gammel"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681715,
+        102191581,
+        1108830487,
+        85632997,
+        404227357,
+        102050007
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2797847
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"242003ef6e3f2ce2d3da32fa313b505d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102050007,
+            "localadmin_id":1108830487,
+            "locality_id":1276260301,
+            "macroregion_id":404227357,
+            "region_id":85681715
+        }
+    ],
+    "wof:id":1276260301,
+    "wof:lastmodified":1537587037,
+    "wof:name":"Gammel",
+    "wof:parent_id":1108830487,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.75746,
+    51.36616,
+    4.75746,
+    51.36616
+],
+  "geometry": {"coordinates":[4.75746,51.36616],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1310139507,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.85423,51.03883,3.85423,51.03883",
+    "geom:latitude":51.03883,
+    "geom:longitude":3.85423,
+    "gn:admin1_code":"VLG",
+    "gn:admin2_code":"VOV",
+    "gn:admin3_code":"42.0",
+    "gn:admin4_code":"42010.0",
+    "gn:asciiname":"Zand",
+    "gn:country_code":"BE",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2783367,
+    "gn:latitude":51.03883,
+    "gn:longitude":3.85423,
+    "gn:modification_date":"2016-08-02",
+    "gn:name":"Zand",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681733,
+        102191581,
+        1108830027,
+        85632997,
+        404227357,
+        102049979
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2783367
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"dbfc8c1592afa57155a63b10ac1b80ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049979,
+            "localadmin_id":1108830027,
+            "locality_id":1310139507,
+            "macroregion_id":404227357,
+            "region_id":85681733
+        }
+    ],
+    "wof:id":1310139507,
+    "wof:lastmodified":1536947848,
+    "wof:name":"Zand",
+    "wof:parent_id":1108830027,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.85423,
+    51.03883,
+    3.85423,
+    51.03883
+],
+  "geometry": {"coordinates":[3.85423,51.03883],"type":"Point"}
+}

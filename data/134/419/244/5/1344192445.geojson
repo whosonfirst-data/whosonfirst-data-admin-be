@@ -1,0 +1,76 @@
+{
+  "id": 1344192445,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.56793,49.97224,4.56793,49.97224",
+    "geom:latitude":49.97224,
+    "geom:longitude":4.56793,
+    "gn:admin1_code":"WAL",
+    "gn:admin2_code":"WNA",
+    "gn:asciiname":"Censes Severin",
+    "gn:country_code":"BE",
+    "gn:dem":316,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2800598,
+    "gn:latitude":49.97224,
+    "gn:longitude":4.56793,
+    "gn:modification_date":"2011-02-07",
+    "gn:name":"Censes Severin",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85683309,
+        102191581,
+        85633147,
+        404374517,
+        404227601,
+        1108826391,
+        136253037,
+        102068699
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2800598
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"6daf6dc0c706295bb7fa9c23d75f213f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "county_id":102068699,
+            "empire_id":136253037,
+            "localadmin_id":404374517,
+            "locality_id":1344192445,
+            "macrocounty_id":404227601,
+            "macroregion_id":1108826391,
+            "region_id":85683309
+        }
+    ],
+    "wof:id":1344192445,
+    "wof:lastmodified":1536685149,
+    "wof:name":"Censes Severin",
+    "wof:parent_id":404374517,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.56793,
+    49.97224,
+    4.56793,
+    49.97224
+],
+  "geometry": {"coordinates":[4.56793,49.97224],"type":"Point"}
+}

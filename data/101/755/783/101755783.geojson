@@ -1,0 +1,78 @@
+{
+  "id": 101755783,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000494,
+    "geom:area_square_m":3822574.219737,
+    "geom:bbox":"4.5272467894,51.2212909667,4.5790214242,51.2465640042",
+    "geom:latitude":51.231124,
+    "geom:longitude":4.558538,
+    "iso:country":"BE",
+    "lbl:latitude":51.23294,
+    "lbl:longitude":4.561069,
+    "mps:latitude":51.23294,
+    "mps:longitude":4.561069,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "qs:a0":"Belgi\u00eb#Belgique#Belgien",
+    "qs:a1":"*Antwerpen",
+    "qs:a1r":"0Vlaams Gewest",
+    "qs:a2":"Antwerpen",
+    "qs:adm0":"Belgi\u00eb#Belgique#Belgien",
+    "qs:la":"Kalmthout",
+    "qs:la_lc":"*BE211022",
+    "qs:level":"locality",
+    "qs:loc":"Bergen",
+    "qs:loc_alt":"Bergen",
+    "qs:pop":0,
+    "qs:source":"LCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"suburbs point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        85681715,
+        102191581,
+        1108830185,
+        85632997,
+        404227357,
+        102050005
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":976754,
+        "qs:id":9
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"b6d8b9d61664a3d0ce2cd654361a2229",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102050005,
+            "localadmin_id":1108830185,
+            "locality_id":101755783,
+            "macroregion_id":404227357,
+            "region_id":85681715
+        }
+    ],
+    "wof:id":101755783,
+    "wof:lastmodified":1513813889,
+    "wof:name":"Bergen",
+    "wof:parent_id":1108830185,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.52724678940143,
+    51.22129096666271,
+    4.57902142420187,
+    51.24656400416279
+],
+  "geometry": {"coordinates":[[[4.57871727267815,51.22757089210955],[4.57870424472043,51.22757028465219],[4.57902142420187,51.22488225758229],[4.57759326085551,51.22481562267706],[4.57769900474773,51.22391961453468],[4.56770216097664,51.22345269017791],[4.56759622395873,51.224348687884],[4.56045559758144,51.22401463755278],[4.56056167253735,51.22311864731273],[4.55627742523376,51.22291801141125],[4.55647017650932,51.22129096666271],[4.5488192740541,51.22347693879294],[4.54876999862307,51.22349110179101],[4.54860200000041,51.22370950000072],[4.52730384493969,51.23033585331001],[4.52724678940143,51.23056407546318],[4.53379075860653,51.23087208646496],[4.53400398889755,51.22908016510769],[4.539716979709,51.22934874350346],[4.53964552608272,51.22994982938928],[4.5441728139308,51.22978215206143],[4.55573752659404,51.2405400243062],[4.56109217535538,51.24656400416279],[4.56945381370616,51.23677476902031],[4.5732190689917,51.22924425844894],[4.57871727267815,51.22757089210955]]],"type":"Polygon"}
+}

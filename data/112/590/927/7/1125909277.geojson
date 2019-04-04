@@ -1,0 +1,106 @@
+{
+  "id": 1125909277,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.21421,50.75644,5.21421,50.75644",
+    "geom:latitude":50.75644,
+    "geom:longitude":5.21421,
+    "gn:gn_country":"BE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"BE",
+    "lbl:latitude":50.75644,
+    "lbl:longitude":5.21421,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Mielen-boven-Aalst"
+    ],
+    "name:eng_x_preferred":[
+        "Mielen-boven-Aalst"
+    ],
+    "name:fre_x_preferred":[
+        "Mielen-boven-Aalst"
+    ],
+    "name:hun_x_preferred":[
+        "Mielen-boven-Aalst"
+    ],
+    "name:unk_x_variant":[
+        "Mielen-sur-Aelst"
+    ],
+    "qs_pg:aaroncc":"BE",
+    "qs_pg:gn_country":"BE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2791185,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Mielen-boven-Aalst",
+    "qs_pg:name_adm0":"Belgique",
+    "qs_pg:name_adm1":"Limburg",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":4,
+    "qs_pg:photos_all":172,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1251514,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424757,
+    "qs_pg:woe_id":974299,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424757,
+    "woe:name_adm0":"Belgique",
+    "woe:name_adm1":"Limburg",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85681705,
+        102191581,
+        1108830599,
+        85632997,
+        404227357,
+        102049975
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2791185,
+        "gp:id":974299,
+        "qs_pg:id":1251514,
+        "wd:id":"Q2147469"
+    },
+    "wof:country":"BE",
+    "wof:created":1497296088,
+    "wof:geomhash":"73661ac3db7950ff343c13b3933d80e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049975,
+            "localadmin_id":1108830599,
+            "locality_id":1125909277,
+            "macroregion_id":404227357,
+            "region_id":85681705
+        }
+    ],
+    "wof:id":1125909277,
+    "wof:lastmodified":1513899407,
+    "wof:name":"Mielen-boven-Aalst",
+    "wof:parent_id":1108830599,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.21421,
+    50.75644,
+    5.21421,
+    50.75644
+],
+  "geometry": {"coordinates":[5.21421,50.75644],"type":"Point"}
+}

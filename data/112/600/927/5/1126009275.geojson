@@ -1,0 +1,101 @@
+{
+  "id": 1126009275,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.59562,50.64459,3.59562,50.64459",
+    "geom:latitude":50.64459,
+    "geom:longitude":3.59562,
+    "gn:gn_country":"BE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"BE",
+    "lbl:latitude":50.64459,
+    "lbl:longitude":3.59562,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Montr\u0153ul-au-Bois"
+    ],
+    "name:eng_x_preferred":[
+        "Montr\u0153ul-au-Bois"
+    ],
+    "name:fre_x_preferred":[
+        "Montr\u0153ul-au-Bois"
+    ],
+    "name:hun_x_preferred":[
+        "Montr\u0153ul-au-Bois"
+    ],
+    "qs_pg:aaroncc":"BE",
+    "qs_pg:gn_country":"BE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2790772,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Montroeul-au-Bois",
+    "qs_pg:name_adm0":"Belgique",
+    "qs_pg:name_adm1":"Hainaut",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":1,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1012820,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424757,
+    "qs_pg:woe_id":974553,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424757,
+    "woe:name_adm0":"Belgique",
+    "woe:name_adm1":"Hainaut",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85681723,
+        102191581,
+        85632997,
+        404227353,
+        102049949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2790772,
+        "gp:id":974553,
+        "qs_pg:id":1012820,
+        "wd:id":"Q2527623"
+    },
+    "wof:country":"BE",
+    "wof:created":1497300169,
+    "wof:geomhash":"3328cc68c3f29ae248b515b77624c1ef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049949,
+            "locality_id":1126009275,
+            "macroregion_id":404227353,
+            "region_id":85681723
+        }
+    ],
+    "wof:id":1126009275,
+    "wof:lastmodified":1513899416,
+    "wof:name":"Montroeul-au-Bois",
+    "wof:parent_id":102049949,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.59562,
+    50.64459,
+    3.59562,
+    50.64459
+],
+  "geometry": {"coordinates":[3.59562,50.64459],"type":"Point"}
+}

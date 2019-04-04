@@ -1,0 +1,104 @@
+{
+  "id": 1125777721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.5814,51.14818,5.5814,51.14818",
+    "geom:latitude":51.14818,
+    "geom:longitude":5.5814,
+    "gn:gn_country":"BE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"BE",
+    "lbl:latitude":51.14818,
+    "lbl:longitude":5.5814,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Gerdingen"
+    ],
+    "name:eng_x_preferred":[
+        "Gerdingen"
+    ],
+    "name:fre_x_preferred":[
+        "Gerdingen"
+    ],
+    "name:hun_x_preferred":[
+        "Gerdingen"
+    ],
+    "name:unk_x_variant":[
+        "Bree (Gerdingen)"
+    ],
+    "qs_pg:aaroncc":"BE",
+    "qs_pg:gn_country":"BE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2797632,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Gerdingen",
+    "qs_pg:name_adm0":"Belgique",
+    "qs_pg:name_adm1":"Limburg",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":191941,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424757,
+    "qs_pg:woe_id":970025,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424757,
+    "woe:name_adm0":"Belgique",
+    "woe:name_adm1":"Limburg",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85681705,
+        102191581,
+        1108830143,
+        85632997,
+        404227357,
+        102049993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2797632,
+        "gp:id":970025,
+        "qs_pg:id":191941,
+        "wd:id":"Q2383449"
+    },
+    "wof:country":"BE",
+    "wof:created":1497290336,
+    "wof:geomhash":"1cdbfafad76a8dfcbaa18a2edb3338b1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049993,
+            "localadmin_id":1108830143,
+            "locality_id":1125777721,
+            "macroregion_id":404227357,
+            "region_id":85681705
+        }
+    ],
+    "wof:id":1125777721,
+    "wof:lastmodified":1513899284,
+    "wof:name":"Gerdingen",
+    "wof:parent_id":1108830143,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.5814,
+    51.14818,
+    5.5814,
+    51.14818
+],
+  "geometry": {"coordinates":[5.5814,51.14818],"type":"Point"}
+}

@@ -1,0 +1,110 @@
+{
+  "id": 1125969717,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.28268,50.13132,5.28268,50.13132",
+    "geom:latitude":50.13132,
+    "geom:longitude":5.28268,
+    "gn:gn_country":"BE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"BE",
+    "lbl:latitude":50.13132,
+    "lbl:longitude":5.28268,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Forri\u00e8res"
+    ],
+    "name:eng_x_preferred":[
+        "Forri\u00e8res"
+    ],
+    "name:fre_x_preferred":[
+        "Forri\u00e8res"
+    ],
+    "name:ger_x_preferred":[
+        "Forri\u00e8res"
+    ],
+    "name:hun_x_preferred":[
+        "Forri\u00e8res"
+    ],
+    "name:slv_x_preferred":[
+        "Forri\u00e8res"
+    ],
+    "name:wln_x_preferred":[
+        "Forire"
+    ],
+    "qs_pg:aaroncc":"BE",
+    "qs_pg:gn_country":"BE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2798117,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Forri\u00e8res",
+    "qs_pg:name_adm0":"Belgique",
+    "qs_pg:name_adm1":"Luxembourg",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":4,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1208250,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424757,
+    "qs_pg:woe_id":969730,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424757,
+    "woe:name_adm0":"Belgique",
+    "woe:name_adm1":"Luxembourg",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85681727,
+        102191581,
+        85632997,
+        404227353,
+        102049921
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2798117,
+        "gp:id":969730,
+        "qs_pg:id":1208250,
+        "wd:id":"Q2355680"
+    },
+    "wof:country":"BE",
+    "wof:created":1497298115,
+    "wof:geomhash":"365bf81015cdac58e66735bad447a47a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049921,
+            "locality_id":1125969717,
+            "macroregion_id":404227353,
+            "region_id":85681727
+        }
+    ],
+    "wof:id":1125969717,
+    "wof:lastmodified":1513899269,
+    "wof:name":"Forri\u00e8res",
+    "wof:parent_id":102049921,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.28268,
+    50.13132,
+    5.28268,
+    50.13132
+],
+  "geometry": {"coordinates":[5.28268,50.13132],"type":"Point"}
+}

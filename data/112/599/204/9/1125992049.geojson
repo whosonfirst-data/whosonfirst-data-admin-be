@@ -1,0 +1,110 @@
+{
+  "id": 1125992049,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.259,51.04258,4.259,51.04258",
+    "geom:latitude":51.04258,
+    "geom:longitude":4.259,
+    "gn:gn_country":"BE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"BE",
+    "lbl:latitude":51.04258,
+    "lbl:longitude":4.259,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bul_x_preferred":[
+        "\u041b\u0438\u043f\u0435\u043b\u043e"
+    ],
+    "name:dut_x_preferred":[
+        "Lippelo"
+    ],
+    "name:eng_x_preferred":[
+        "Lippelo"
+    ],
+    "name:fre_x_preferred":[
+        "Lippelo"
+    ],
+    "name:hun_x_preferred":[
+        "Lippelo"
+    ],
+    "name:swe_x_preferred":[
+        "Lippelo"
+    ],
+    "name:unk_x_variant":[
+        "Lippeloo"
+    ],
+    "qs_pg:aaroncc":"BE",
+    "qs_pg:gn_country":"BE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2792282,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Lippelo",
+    "qs_pg:name_adm0":"Belgique",
+    "qs_pg:name_adm1":"Antwerpen",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1157963,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424757,
+    "qs_pg:woe_id":973618,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424757,
+    "woe:name_adm0":"Belgique",
+    "woe:name_adm1":"Antwerpen",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85681715,
+        102191581,
+        1108830145,
+        85632997,
+        404227357,
+        102049985
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2792282,
+        "gp:id":973618,
+        "qs_pg:id":1157963,
+        "wd:id":"Q2201415"
+    },
+    "wof:country":"BE",
+    "wof:created":1497299109,
+    "wof:geomhash":"0804c107d210f1e086c835fb7800d7e2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049985,
+            "localadmin_id":1108830145,
+            "locality_id":1125992049,
+            "macroregion_id":404227357,
+            "region_id":85681715
+        }
+    ],
+    "wof:id":1125992049,
+    "wof:lastmodified":1513899373,
+    "wof:name":"Lippelo",
+    "wof:parent_id":1108830145,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.259,
+    51.04258,
+    4.259,
+    51.04258
+],
+  "geometry": {"coordinates":[4.259,51.04258],"type":"Point"}
+}

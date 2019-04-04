@@ -1,0 +1,87 @@
+{
+  "id": 1125282161,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2017-05-19",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.54861,51.09479,5.54861,51.09479",
+    "geom:latitude":51.09479,
+    "geom:longitude":5.54861,
+    "gn:gn_country":"BE",
+    "gn:gn_fcode":"ADM4",
+    "gn:gn_pop":12913,
+    "gn:population":12913,
+    "iso:country":"BE",
+    "lbl:latitude":51.09479,
+    "lbl:longitude":5.54861,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bul_x_preferred":[
+        "\u041c\u0435\u0443\u0435\u043d-\u0413\u0440\u043e\u0439\u0442\u0440\u043e\u0434\u0435"
+    ],
+    "name:fas_x_preferred":[
+        "\u0645\u0626\u0648\u0627\u0646-\u06af\u0631\u0648\u0626\u06cc\u062a\u0631\u0648\u062f"
+    ],
+    "name:lim_x_preferred":[
+        "Mi\u00ebve-Roj"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e40\u0e21\u0e27\u0e40\u0e27\u0e34\u0e19-\u0e40\u0e04\u0e23\u0e22\u0e42\u0e15\u0e23\u0e40\u0e14\u0e2d"
+    ],
+    "name:zho_x_preferred":[
+        "\u6885\u5384\u6587\uff0d\u8d6b\u96f7\u7279\u7f57\u5fb7"
+    ],
+    "qs_pg:aaroncc":"BE",
+    "qs_pg:gn_country":"BE",
+    "qs_pg:gn_fcode":"ADM4",
+    "qs_pg:gn_id":2791461,
+    "qs_pg:gn_pop":12913,
+    "qs_pg:name":"Meeuwen-Gruitrode",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":6,
+    "qs_pg:qs_id":1029214,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85632997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2791461,
+        "qs_pg:id":1029214
+    },
+    "wof:country":"BE",
+    "wof:created":1497042544,
+    "wof:geomhash":"43c525533db1f0084286e3483283fcca",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "localadmin_id":1125282161
+        }
+    ],
+    "wof:id":1125282161,
+    "wof:lastmodified":1505185642,
+    "wof:name":"Meeuwen-Gruitrode",
+    "wof:parent_id":-1,
+    "wof:placetype":"localadmin",
+    "wof:population":12913,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.54861,
+    51.09479,
+    5.54861,
+    51.09479
+],
+  "geometry": {"coordinates":[5.54861,51.09479],"type":"Point"}
+}

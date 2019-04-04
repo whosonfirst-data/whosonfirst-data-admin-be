@@ -1,0 +1,68 @@
+{
+  "id": 1209645753,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.95203,50.67518,5.95203,50.67518",
+    "geom:latitude":50.67518,
+    "geom:longitude":5.95203,
+    "gn:admin1_code":"WAL",
+    "gn:admin2_code":"WLG",
+    "gn:admin3_code":"63.0",
+    "gn:admin4_code":"63084.0",
+    "gn:asciiname":"Ruyff",
+    "gn:country_code":"BE",
+    "gn:dem":279,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2787497,
+    "gn:latitude":50.67518,
+    "gn:longitude":5.95203,
+    "gn:modification_date":"2017-03-25",
+    "gn:name":"Ruyff",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ruyft",
+        "Ruyff"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2787497
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"0488cc46bcee5c21b7bcd1d0f5d892ff",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "locality_id":1209645753
+        }
+    ],
+    "wof:id":1209645753,
+    "wof:lastmodified":1537586927,
+    "wof:name":"Ruyff",
+    "wof:parent_id":85632997,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.95203,
+    50.67518,
+    5.95203,
+    50.67518
+],
+  "geometry": {"coordinates":[5.95203,50.67518],"type":"Point"}
+}

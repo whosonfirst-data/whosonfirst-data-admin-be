@@ -1,0 +1,107 @@
+{
+  "id": 1125777819,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.46389,50.96419,3.46389,50.96419",
+    "geom:latitude":50.96419,
+    "geom:longitude":3.46389,
+    "gn:gn_country":"BE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"BE",
+    "lbl:latitude":50.96419,
+    "lbl:longitude":3.46389,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Gottem"
+    ],
+    "name:eng_x_preferred":[
+        "Gottem"
+    ],
+    "name:fre_x_preferred":[
+        "Gottem"
+    ],
+    "name:hun_x_preferred":[
+        "Gottem"
+    ],
+    "name:unk_x_variant":[
+        "Gotthem"
+    ],
+    "name:vls_x_preferred":[
+        "Gottem"
+    ],
+    "qs_pg:aaroncc":"BE",
+    "qs_pg:gn_country":"BE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2797369,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Gottem",
+    "qs_pg:name_adm0":"Belgique",
+    "qs_pg:name_adm1":"Oost-Vlaanderen",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":191957,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424757,
+    "qs_pg:woe_id":970192,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424757,
+    "woe:name_adm0":"Belgique",
+    "woe:name_adm1":"Oost-Vlaanderen",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85681733,
+        102191581,
+        1108830629,
+        85632997,
+        404227357,
+        102049989
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2797369,
+        "gp:id":970192,
+        "qs_pg:id":191957,
+        "wd:id":"Q2665511"
+    },
+    "wof:country":"BE",
+    "wof:created":1497290341,
+    "wof:geomhash":"b53c30273a628f5e5b11c8d0c3e44974",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049989,
+            "localadmin_id":1108830629,
+            "locality_id":1125777819,
+            "macroregion_id":404227357,
+            "region_id":85681733
+        }
+    ],
+    "wof:id":1125777819,
+    "wof:lastmodified":1513899289,
+    "wof:name":"Gottem",
+    "wof:parent_id":1108830629,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.46389,
+    50.96419,
+    3.46389,
+    50.96419
+],
+  "geometry": {"coordinates":[3.46389,50.96419],"type":"Point"}
+}

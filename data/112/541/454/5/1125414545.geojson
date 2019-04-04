@@ -1,0 +1,102 @@
+{
+  "id": 1125414545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2017-05-19",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.77352,51.12436,2.77352,51.12436",
+    "geom:latitude":51.12436,
+    "geom:longitude":2.77352,
+    "gn:gn_country":"BE",
+    "gn:gn_fcode":"ADM4",
+    "gn:gn_pop":11288,
+    "gn:population":11288,
+    "iso:country":"BE",
+    "lbl:latitude":51.12436,
+    "lbl:longitude":2.77352,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bul_x_preferred":[
+        "\u041d\u044e\u043f\u043e\u0440\u0442"
+    ],
+    "name:fas_x_preferred":[
+        "\u0646\u06cc\u0648\u067e\u0631"
+    ],
+    "name:fra_x_preferred":[
+        "Nieuport"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30cb\u30fc\u30a6\u30dd\u30fc\u30eb\u30c8"
+    ],
+    "name:kor_x_preferred":[
+        "\ub2c8\uc6b0\ud3ec\ub974\ud2b8"
+    ],
+    "name:nld_x_preferred":[
+        "Nieuwpoort"
+    ],
+    "name:rus_x_preferred":[
+        "\u041d\u044c\u0438\u0432\u043f\u043e\u0440\u0442"
+    ],
+    "name:unk_x_variant":[
+        "Nieuport"
+    ],
+    "name:vls_x_preferred":[
+        "Nieuwp\u00f4ort"
+    ],
+    "name:zho_x_preferred":[
+        "\u5c3c\u4e4c\u6ce2\u5c14\u7279"
+    ],
+    "qs_pg:aaroncc":"BE",
+    "qs_pg:gn_country":"BE",
+    "qs_pg:gn_fcode":"ADM4",
+    "qs_pg:gn_id":2790153,
+    "qs_pg:gn_pop":11288,
+    "qs_pg:name":"Nieuwpoort",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":6,
+    "qs_pg:qs_id":247582,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85632997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2790153,
+        "qs_pg:id":247582
+    },
+    "wof:country":"BE",
+    "wof:created":1497051051,
+    "wof:geomhash":"c304e2b92280896038c2317dbd28a37f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "localadmin_id":1125414545
+        }
+    ],
+    "wof:id":1125414545,
+    "wof:lastmodified":1505185641,
+    "wof:name":"Nieuwpoort",
+    "wof:parent_id":-1,
+    "wof:placetype":"localadmin",
+    "wof:population":11288,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.77352,
+    51.12436,
+    2.77352,
+    51.12436
+],
+  "geometry": {"coordinates":[2.77352,51.12436],"type":"Point"}
+}

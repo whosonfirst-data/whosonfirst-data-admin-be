@@ -1,0 +1,78 @@
+{
+  "id": 101754413,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000081,
+    "geom:area_square_m":630962.096617,
+    "geom:bbox":"4.89697431522,51.1241331421,4.91305137637,51.1323881312",
+    "geom:latitude":51.127724,
+    "geom:longitude":4.904022,
+    "iso:country":"BE",
+    "lbl:latitude":51.127799,
+    "lbl:longitude":4.903868,
+    "mps:latitude":51.127799,
+    "mps:longitude":4.903868,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:a0":"Belgi\u00eb#Belgique#Belgien",
+    "qs:a1":"*Antwerpen",
+    "qs:a1r":"0Vlaams Gewest",
+    "qs:a2":"Turnhout",
+    "qs:adm0":"Belgi\u00eb#Belgique#Belgien",
+    "qs:la":"Kalmthout",
+    "qs:la_lc":"*BE211022",
+    "qs:level":"locality",
+    "qs:loc":"Trienekant",
+    "qs:loc_alt":"Trienekant",
+    "qs:pop":0,
+    "qs:source":"LCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"suburbs point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        85681715,
+        102191581,
+        1108830077,
+        85632997,
+        404227357,
+        102050007
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":975046,
+        "qs:id":6
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"b4af7667c509606324591251d7dc5e4e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102050007,
+            "localadmin_id":1108830077,
+            "locality_id":101754413,
+            "macroregion_id":404227357,
+            "region_id":85681715
+        }
+    ],
+    "wof:id":101754413,
+    "wof:lastmodified":1499530622,
+    "wof:name":"Trienekant",
+    "wof:parent_id":1108830077,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.8969743152233,
+    51.12413314211278,
+    4.9130513763734,
+    51.1323881311983
+],
+  "geometry": {"coordinates":[[[4.90660458078861,51.13208476390776],[4.90695336038186,51.12892805965151],[4.90837895247921,51.12899063197642],[4.90847794865829,51.12809426546301],[4.91132908852933,51.12821935486869],[4.91142802497023,51.12732298527231],[4.91285357274251,51.12738550235417],[4.9130513763734,51.12559275949229],[4.90734942647521,51.12534259741136],[4.90744843109269,51.12444623111548],[4.90032121105116,51.12413314211278],[4.90022206901898,51.12502950142965],[4.89737115092538,51.12490414065371],[4.8969743152233,51.12848956379588],[4.89839988243176,51.12855225851553],[4.89830068906286,51.12944861496186],[4.89972628732062,51.12951129359408],[4.89962711666919,51.13040765114334],[4.9010527459734,51.13047031368728],[4.90084060226638,51.1323881311983],[4.90660458078861,51.13208476390776]]],"type":"Polygon"}
+}

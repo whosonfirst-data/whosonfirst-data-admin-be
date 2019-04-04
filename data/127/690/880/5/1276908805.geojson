@@ -1,0 +1,75 @@
+{
+  "id": 1276908805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.54885,50.35379,4.54885,50.35379",
+    "geom:latitude":50.35379,
+    "geom:longitude":4.54885,
+    "gn:admin1_code":"WAL",
+    "gn:admin2_code":"WHT",
+    "gn:admin3_code":"52.0",
+    "gn:admin4_code":"52025.0",
+    "gn:asciiname":"Villers-Poterie",
+    "gn:country_code":"BE",
+    "gn:dem":192,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2784623,
+    "gn:latitude":50.35379,
+    "gn:longitude":4.54885,
+    "gn:modification_date":"2011-08-01",
+    "gn:name":"Villers-Poterie",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gerpinnes (Villers-Poterie)"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681723,
+        102191581,
+        85632997,
+        404227353,
+        102049927
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2784623
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"89f9f603257b8066ff504b16668f0d96",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049927,
+            "locality_id":1276908805,
+            "macroregion_id":404227353,
+            "region_id":85681723
+        }
+    ],
+    "wof:id":1276908805,
+    "wof:lastmodified":1537586891,
+    "wof:name":"Villers-Poterie",
+    "wof:parent_id":102049927,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.54885,
+    50.35379,
+    4.54885,
+    50.35379
+],
+  "geometry": {"coordinates":[4.54885,50.35379],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1310439179,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.98333,50.3,5.98333,50.3",
+    "geom:latitude":50.3,
+    "geom:longitude":5.98333,
+    "gn:admin1_code":"WAL",
+    "gn:admin2_code":"WLX",
+    "gn:admin3_code":"82.0",
+    "gn:admin4_code":"82032.0",
+    "gn:asciiname":"Pre Carnet",
+    "gn:country_code":"BE",
+    "gn:dem":496,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2788645,
+    "gn:latitude":50.3,
+    "gn:longitude":5.98333,
+    "gn:modification_date":"2017-03-25",
+    "gn:name":"Pr\u00e9 Carnet",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681727,
+        102191581,
+        85632997,
+        404227353,
+        102049915
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2788645
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"2ef52937745876922d555a5f2fb421fb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049915,
+            "locality_id":1310439179,
+            "macroregion_id":404227353,
+            "region_id":85681727
+        }
+    ],
+    "wof:id":1310439179,
+    "wof:lastmodified":1537012025,
+    "wof:name":"Pre Carnet",
+    "wof:parent_id":102049915,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.98333,
+    50.3,
+    5.98333,
+    50.3
+],
+  "geometry": {"coordinates":[5.98333,50.3],"type":"Point"}
+}

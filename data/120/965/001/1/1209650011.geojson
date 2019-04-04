@@ -1,0 +1,64 @@
+{
+  "id": 1209650011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.25446,51.15583,4.25446,51.15583",
+    "geom:latitude":51.15583,
+    "geom:longitude":4.25446,
+    "gn:admin1_code":"VLG",
+    "gn:admin2_code":"VOV",
+    "gn:admin3_code":"46.0",
+    "gn:admin4_code":"46013.0",
+    "gn:asciiname":"Beerstenhoek",
+    "gn:country_code":"BE",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2802428,
+    "gn:latitude":51.15583,
+    "gn:longitude":4.25446,
+    "gn:modification_date":"2016-08-02",
+    "gn:name":"Beerstenhoek",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2802428
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"7c26f6005993f3dc5c827e5f410296f3",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "locality_id":1209650011
+        }
+    ],
+    "wof:id":1209650011,
+    "wof:lastmodified":1536280611,
+    "wof:name":"Beerstenhoek",
+    "wof:parent_id":85632997,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.25446,
+    51.15583,
+    4.25446,
+    51.15583
+],
+  "geometry": {"coordinates":[4.25446,51.15583],"type":"Point"}
+}

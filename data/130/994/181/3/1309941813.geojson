@@ -1,0 +1,76 @@
+{
+  "id": 1309941813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.47255,50.67484,4.47255,50.67484",
+    "geom:latitude":50.67484,
+    "geom:longitude":4.47255,
+    "gn:admin1_code":"WAL",
+    "gn:admin2_code":"WBR",
+    "gn:admin3_code":"25.0",
+    "gn:admin4_code":"25119.0",
+    "gn:asciiname":"Couture-Saint-Germain",
+    "gn:country_code":"BE",
+    "gn:dem":78,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2800030,
+    "gn:latitude":50.67484,
+    "gn:longitude":4.47255,
+    "gn:modification_date":"2011-01-27",
+    "gn:name":"Couture-Saint-Germain",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lasne (Couture-Saint-Germain)"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681693,
+        102191581,
+        85632997,
+        404227353,
+        102049945
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2800030,
+        "wk:page":"Couture-Saint-Germain"
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"1bf8a3a5049c88e1d846e7d75efe1f2d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049945,
+            "locality_id":1309941813,
+            "macroregion_id":404227353,
+            "region_id":85681693
+        }
+    ],
+    "wof:id":1309941813,
+    "wof:lastmodified":1537587059,
+    "wof:name":"Couture-Saint-Germain",
+    "wof:parent_id":102049945,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.47255,
+    50.67484,
+    4.47255,
+    50.67484
+],
+  "geometry": {"coordinates":[4.47255,50.67484],"type":"Point"}
+}

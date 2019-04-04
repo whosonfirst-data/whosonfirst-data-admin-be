@@ -1,0 +1,72 @@
+{
+  "id": 1293919849,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.43333,50.55,3.43333,50.55",
+    "geom:latitude":50.55,
+    "geom:longitude":3.43333,
+    "gn:admin1_code":"WAL",
+    "gn:admin2_code":"WHT",
+    "gn:admin3_code":"57.0",
+    "gn:admin4_code":"57003.0",
+    "gn:asciiname":"Crevecoeur",
+    "gn:country_code":"BE",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6957847,
+    "gn:latitude":50.55,
+    "gn:longitude":3.43333,
+    "gn:modification_date":"2017-03-25",
+    "gn:name":"Cr\u00e8vecoeur",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681723,
+        102191581,
+        85632997,
+        404227353,
+        102049951
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6957847
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"5f5161c0d4dce3ba21e3da8900ef1a65",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049951,
+            "locality_id":1293919849,
+            "macroregion_id":404227353,
+            "region_id":85681723
+        }
+    ],
+    "wof:id":1293919849,
+    "wof:lastmodified":1536660919,
+    "wof:name":"Crevecoeur",
+    "wof:parent_id":102049951,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.43333,
+    50.55,
+    3.43333,
+    50.55
+],
+  "geometry": {"coordinates":[3.43333,50.55],"type":"Point"}
+}

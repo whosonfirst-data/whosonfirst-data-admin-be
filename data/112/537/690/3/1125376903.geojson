@@ -1,0 +1,90 @@
+{
+  "id": 1125376903,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2017-05-19",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.30708,50.87509,5.30708,50.87509",
+    "geom:latitude":50.87509,
+    "geom:longitude":5.30708,
+    "gn:gn_country":"BE",
+    "gn:gn_fcode":"ADM4",
+    "gn:gn_pop":11257,
+    "gn:population":11257,
+    "iso:country":"BE",
+    "lbl:latitude":50.87509,
+    "lbl:longitude":5.30708,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bul_x_preferred":[
+        "\u0410\u043b\u043a\u0435\u043d"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0644\u06a9\u0627\u0646"
+    ],
+    "name:lim_x_preferred":[
+        "Alleke"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u043b\u043a\u0435\u043d"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e2d\u0e31\u0e25\u0e40\u0e01\u0e34\u0e19"
+    ],
+    "name:zho_x_preferred":[
+        "\u963f\u5c14\u80af"
+    ],
+    "qs_pg:aaroncc":"BE",
+    "qs_pg:gn_country":"BE",
+    "qs_pg:gn_fcode":"ADM4",
+    "qs_pg:gn_id":2803286,
+    "qs_pg:gn_pop":11257,
+    "qs_pg:name":"Alken",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":6,
+    "qs_pg:qs_id":373674,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85632997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2803286,
+        "qs_pg:id":373674
+    },
+    "wof:country":"BE",
+    "wof:created":1497047802,
+    "wof:geomhash":"95cce33a24baa60e4e163d2e9c889e1a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "localadmin_id":1125376903
+        }
+    ],
+    "wof:id":1125376903,
+    "wof:lastmodified":1505185647,
+    "wof:name":"Alken",
+    "wof:parent_id":-1,
+    "wof:placetype":"localadmin",
+    "wof:population":11257,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.30708,
+    50.87509,
+    5.30708,
+    50.87509
+],
+  "geometry": {"coordinates":[5.30708,50.87509],"type":"Point"}
+}

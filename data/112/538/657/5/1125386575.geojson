@@ -1,0 +1,72 @@
+{
+  "id": 1125386575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2017-05-19",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.11667,50.06667,5.11667,50.06667",
+    "geom:latitude":50.06667,
+    "geom:longitude":5.11667,
+    "gn:gn_country":"BE",
+    "gn:gn_fcode":"ADM4",
+    "gn:gn_pop":2984,
+    "gn:population":2984,
+    "iso:country":"BE",
+    "lbl:latitude":50.06667,
+    "lbl:longitude":5.11667,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"BE",
+    "qs_pg:gn_country":"BE",
+    "qs_pg:gn_fcode":"ADM4",
+    "qs_pg:gn_id":2783863,
+    "qs_pg:gn_pop":2984,
+    "qs_pg:name":"Wellin",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":1032516,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85632997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2783863,
+        "qs_pg:id":1032516
+    },
+    "wof:country":"BE",
+    "wof:created":1497048420,
+    "wof:geomhash":"8df2afa2369c95df8953c264b30e0f3d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "localadmin_id":1125386575
+        }
+    ],
+    "wof:id":1125386575,
+    "wof:lastmodified":1505185639,
+    "wof:name":"Wellin",
+    "wof:parent_id":-1,
+    "wof:placetype":"localadmin",
+    "wof:population":2984,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.11667,
+    50.06667,
+    5.11667,
+    50.06667
+],
+  "geometry": {"coordinates":[5.11667,50.06667],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1108938293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.3429797018,50.8489200622,4.3429797018,50.8489200622",
+    "geom:latitude":50.84892,
+    "geom:longitude":4.34298,
+    "iso:country":"BE",
+    "lbl:latitude":50.84892,
+    "lbl:longitude":4.34298,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_metro":30,
+    "name:dut_x_preferred":[
+        "Zennewijk"
+    ],
+    "name:eng_x_preferred":[
+        "Senne Quarter"
+    ],
+    "name:fre_x_preferred":[
+        "Quartier de la Senne"
+    ],
+    "src:lbl:centroid":"mz",
+    "wof:belongsto":[
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "wd:id":"Q19567908"
+    },
+    "wof:country":"BE",
+    "wof:created":1491360273,
+    "wof:geomhash":"16b52bace92a20fd44eb68303293fc07",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":1108938293,
+            "region_id":85681713
+        }
+    ],
+    "wof:id":1108938293,
+    "wof:lastmodified":1513899466,
+    "wof:name":"Quartier de la Senne",
+    "wof:parent_id":101751573,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.34297970180146,
+    50.84892006224666,
+    4.34297970180146,
+    50.84892006224666
+],
+  "geometry": {"coordinates":[4.34297970180146,50.84892006224666],"type":"Point"}
+}

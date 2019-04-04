@@ -1,0 +1,70 @@
+{
+  "id": 1209137311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.96717,50.72683,5.96717,50.72683",
+    "geom:latitude":50.72683,
+    "geom:longitude":5.96717,
+    "gn:admin1_code":"WAL",
+    "gn:admin2_code":"WLG",
+    "gn:admin3_code":"63.0",
+    "gn:admin4_code":"63088.0",
+    "gn:asciiname":"Ten Eiken",
+    "gn:country_code":"BE",
+    "gn:dem":188,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2785757,
+    "gn:latitude":50.72683,
+    "gn:longitude":5.96717,
+    "gn:modification_date":"2017-03-25",
+    "gn:name":"Ten Eiken",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ten Eycken",
+        "Ten Eyeken",
+        "Ten Eyken",
+        "Ten Eiken"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2785757
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"539bab22d51d2043c81fcc6e2537d3e0",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "locality_id":1209137311
+        }
+    ],
+    "wof:id":1209137311,
+    "wof:lastmodified":1537586905,
+    "wof:name":"Ten Eiken",
+    "wof:parent_id":85632997,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.96717,
+    50.72683,
+    5.96717,
+    50.72683
+],
+  "geometry": {"coordinates":[5.96717,50.72683],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1343489869,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.97355,49.9175,4.97355,49.9175",
+    "geom:latitude":49.9175,
+    "geom:longitude":4.97355,
+    "gn:admin1_code":"WAL",
+    "gn:admin2_code":"WNA",
+    "gn:admin3_code":"91.0",
+    "gn:admin4_code":"91015.0",
+    "gn:asciiname":"Bellefontaine",
+    "gn:country_code":"BE",
+    "gn:dem":372,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2802339,
+    "gn:latitude":49.9175,
+    "gn:longitude":4.97355,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Bellefontaine",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bi\u00e8vre (Bellefontaine)",
+        "Bellefontaine"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681699,
+        102191581,
+        85632997,
+        404227353,
+        102049919
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2802339
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"d638f2f3647d9d9fb3815ff5647960b1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049919,
+            "locality_id":1343489869,
+            "macroregion_id":404227353,
+            "region_id":85681699
+        }
+    ],
+    "wof:id":1343489869,
+    "wof:lastmodified":1537587079,
+    "wof:name":"Bellefontaine",
+    "wof:parent_id":102049919,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.97355,
+    49.9175,
+    4.97355,
+    49.9175
+],
+  "geometry": {"coordinates":[4.97355,49.9175],"type":"Point"}
+}

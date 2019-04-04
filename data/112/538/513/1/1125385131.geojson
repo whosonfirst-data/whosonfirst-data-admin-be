@@ -1,0 +1,96 @@
+{
+  "id": 1125385131,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2017-05-19",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.59891,51.14182,5.59891,51.14182",
+    "geom:latitude":51.14182,
+    "geom:longitude":5.59891,
+    "gn:gn_country":"BE",
+    "gn:gn_fcode":"ADM4",
+    "gn:gn_pop":15229,
+    "gn:population":15229,
+    "iso:country":"BE",
+    "lbl:latitude":51.14182,
+    "lbl:longitude":5.59891,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bul_x_preferred":[
+        "\u0411\u0440\u0435"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u0631\u06cc"
+    ],
+    "name:fra_x_preferred":[
+        "Br\u00e9e"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d6\u30ec\u30fc"
+    ],
+    "name:kor_x_preferred":[
+        "\ube0c\ub808\uc774"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0440\u0435"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e40\u0e1a\u0e23"
+    ],
+    "name:zho_x_preferred":[
+        "\u5e03\u96f7"
+    ],
+    "qs_pg:aaroncc":"BE",
+    "qs_pg:gn_country":"BE",
+    "qs_pg:gn_fcode":"ADM4",
+    "qs_pg:gn_id":2801094,
+    "qs_pg:gn_pop":15229,
+    "qs_pg:name":"Bree",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":6,
+    "qs_pg:qs_id":1029271,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85632997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2801094,
+        "qs_pg:id":1029271
+    },
+    "wof:country":"BE",
+    "wof:created":1497048317,
+    "wof:geomhash":"659ce0ea2f34e01f647046c612943b4b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "localadmin_id":1125385131
+        }
+    ],
+    "wof:id":1125385131,
+    "wof:lastmodified":1505185645,
+    "wof:name":"Bree",
+    "wof:parent_id":-1,
+    "wof:placetype":"localadmin",
+    "wof:population":15229,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.59891,
+    51.14182,
+    5.59891,
+    51.14182
+],
+  "geometry": {"coordinates":[5.59891,51.14182],"type":"Point"}
+}

@@ -1,0 +1,87 @@
+{
+  "id": 1125417629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2017-05-19",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.76667,50.7,4.76667,50.7",
+    "geom:latitude":50.7,
+    "geom:longitude":4.76667,
+    "gn:gn_country":"BE",
+    "gn:gn_fcode":"ADM4",
+    "gn:gn_pop":4859,
+    "gn:population":4859,
+    "iso:country":"BE",
+    "lbl:latitude":50.7,
+    "lbl:longitude":4.76667,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bul_x_preferred":[
+        "\u0418\u043d\u043a\u0443\u0440"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0646\u06a9\u0648\u0631"
+    ],
+    "name:rus_x_preferred":[
+        "\u042d\u043d\u043a\u0443\u0440"
+    ],
+    "name:wln_x_preferred":[
+        "Inco\u00fb"
+    ],
+    "name:zho_x_preferred":[
+        "\u5b89\u5e93\u5c14"
+    ],
+    "qs_pg:aaroncc":"BE",
+    "qs_pg:gn_country":"BE",
+    "qs_pg:gn_fcode":"ADM4",
+    "qs_pg:gn_id":2795064,
+    "qs_pg:gn_pop":4859,
+    "qs_pg:name":"Incourt",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":92668,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85632997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2795064,
+        "qs_pg:id":92668
+    },
+    "wof:country":"BE",
+    "wof:created":1497051626,
+    "wof:geomhash":"6f1acbf47e65f07bc66b9bd42bf6e740",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "localadmin_id":1125417629
+        }
+    ],
+    "wof:id":1125417629,
+    "wof:lastmodified":1505185643,
+    "wof:name":"Incourt",
+    "wof:parent_id":-1,
+    "wof:placetype":"localadmin",
+    "wof:population":4859,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.76667,
+    50.7,
+    4.76667,
+    50.7
+],
+  "geometry": {"coordinates":[4.76667,50.7],"type":"Point"}
+}

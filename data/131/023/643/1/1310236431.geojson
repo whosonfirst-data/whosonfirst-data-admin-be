@@ -1,0 +1,72 @@
+{
+  "id": 1310236431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.99538,50.37997,5.99538,50.37997",
+    "geom:latitude":50.37997,
+    "geom:longitude":5.99538,
+    "gn:admin1_code":"WAL",
+    "gn:admin2_code":"WLG",
+    "gn:admin3_code":"63.0",
+    "gn:admin4_code":"63073.0",
+    "gn:asciiname":"Beaumont",
+    "gn:country_code":"BE",
+    "gn:dem":390,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2802509,
+    "gn:latitude":50.37997,
+    "gn:longitude":5.99538,
+    "gn:modification_date":"2017-03-25",
+    "gn:name":"Beaumont",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681691,
+        102191581,
+        85632997,
+        404227353,
+        102049935
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2802509
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"f578be468664ff13bb0c103c30e6487c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049935,
+            "locality_id":1310236431,
+            "macroregion_id":404227353,
+            "region_id":85681691
+        }
+    ],
+    "wof:id":1310236431,
+    "wof:lastmodified":1536807357,
+    "wof:name":"Beaumont",
+    "wof:parent_id":102049935,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.99538,
+    50.37997,
+    5.99538,
+    50.37997
+],
+  "geometry": {"coordinates":[5.99538,50.37997],"type":"Point"}
+}

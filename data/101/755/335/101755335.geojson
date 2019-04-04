@@ -1,0 +1,121 @@
+{
+  "id": 101755335,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000082,
+    "geom:area_square_m":639801.327475,
+    "geom:bbox":"3.96907260243,50.9289889984,3.98659255536,50.941031805",
+    "geom:latitude":50.934431,
+    "geom:longitude":3.978739,
+    "iso:country":"BE",
+    "lbl:latitude":50.932998,
+    "lbl:longitude":3.978872,
+    "mps:latitude":50.932998,
+    "mps:longitude":3.978872,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Erpe"
+    ],
+    "name:deu_x_preferred":[
+        "Erpe"
+    ],
+    "name:dut_x_preferred":[
+        "Erpe"
+    ],
+    "name:eng_x_preferred":[
+        "Erpe"
+    ],
+    "name:fra_x_preferred":[
+        "Erpe"
+    ],
+    "name:fre_x_preferred":[
+        "Erpe"
+    ],
+    "name:ger_x_preferred":[
+        "Erpe"
+    ],
+    "name:hun_x_preferred":[
+        "Erpe"
+    ],
+    "name:lit_x_preferred":[
+        "Erp\u0117 Mer\u0117"
+    ],
+    "name:nld_x_preferred":[
+        "Erpe"
+    ],
+    "name:swe_x_preferred":[
+        "Erpe"
+    ],
+    "qs:a0":"Belgi\u00eb#Belgique#Belgien",
+    "qs:a1":"*Oost-Vlanderen",
+    "qs:a1r":"0Vlaams Gewest",
+    "qs:a2":"Aalst",
+    "qs:adm0":"Belgi\u00eb#Belgique#Belgien",
+    "qs:la":"Kalmthout",
+    "qs:la_lc":"*BE211022",
+    "qs:level":"locality",
+    "qs:loc":"Erpe",
+    "qs:loc_alt":"Erpe",
+    "qs:pop":0,
+    "qs:source":"LCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"suburbs point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "wd:elevation":0.0,
+    "wd:latitude":50.9339,
+    "wd:longitude":3.9769,
+    "wd:wordcount":393,
+    "wof:belongsto":[
+        85681733,
+        102191581,
+        1108830215,
+        85632997,
+        404227357,
+        102049967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2798678,
+        "gp:id":969421,
+        "qs:id":182694,
+        "qs_pg:id":182694,
+        "wd:id":"Q985760",
+        "wk:page":"Erpe"
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"e649ca4bf4e27bcaecef002dfe792c41",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049967,
+            "localadmin_id":1108830215,
+            "locality_id":101755335,
+            "macroregion_id":404227357,
+            "region_id":85681733
+        }
+    ],
+    "wof:id":101755335,
+    "wof:lastmodified":1527641701,
+    "wof:name":"Erpe",
+    "wof:parent_id":1108830215,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.9690726024287,
+    50.928988998428,
+    3.98659255536279,
+    50.94103180501799
+],
+  "geometry": {"coordinates":[[[3.98659255536279,50.93790756597411],[3.98589842972882,50.9378714413894],[3.9860146248833,50.93697602404075],[3.98459605298512,50.93690217952292],[3.98471226967189,50.93600676345824],[3.98329372900775,50.93593290320342],[3.98340996722396,50.93503748842306],[3.98199145779245,50.93496361243223],[3.98261632605966,50.9301500510644],[3.98133916815948,50.928988998428],[3.98127059007209,50.92951724263526],[3.97985225143515,50.92944334171915],[3.97973596532978,50.93033875370139],[3.97406254391001,50.93004296980126],[3.97371332722173,50.93272918399208],[3.97006055326682,50.93253858632272],[3.9690726024287,50.93428995371761],[3.97206200785177,50.93444599410429],[3.97177730629522,50.93663490934443],[3.97314366569134,50.93711016478659],[3.97336406041887,50.93541539501496],[3.97903813187725,50.93571121820895],[3.97892180682845,50.93660662772936],[3.9817589216176,50.93675443837026],[3.98129378251809,50.94033608603064],[3.98271245450616,50.94040997183708],[3.98263170400941,50.94103180501799],[3.98487272456998,50.94073300227666],[3.98659255536279,50.93790756597411]]],"type":"Polygon"}
+}

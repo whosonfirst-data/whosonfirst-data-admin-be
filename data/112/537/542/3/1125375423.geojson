@@ -1,0 +1,76 @@
+{
+  "id": 1125375423,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2017-05-19",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.9534085,50.8706255,4.9534085,50.8706255",
+    "geom:latitude":50.870626,
+    "geom:longitude":4.953409,
+    "gn:gn_country":null,
+    "iso:country":"BE",
+    "lbl:latitude":50.870626,
+    "lbl:longitude":4.953409,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"BE",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Glabbeek",
+    "qs_pg:name_adm0":"Belgique",
+    "qs_pg:name_adm1":"Vlaams Brabant",
+    "qs_pg:photos":369,
+    "qs_pg:photos_1k":75,
+    "qs_pg:photos_9k":2,
+    "qs_pg:photos_9r":5,
+    "qs_pg:photos_all":383,
+    "qs_pg:photos_sr":6,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":891721,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
+    "qs_pg:woe_adm0":23424757,
+    "qs_pg:woe_id":12602465,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424757,
+    "woe:name_adm0":"Belgique",
+    "woe:name_adm1":"Vlaams Brabant",
+    "woe:placetype":"LocalAdmin",
+    "wof:belongsto":[
+        85632997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12602465,
+        "qs_pg:id":891721
+    },
+    "wof:country":"BE",
+    "wof:created":1497047702,
+    "wof:geomhash":"fa0bea6eb4b7ba0fcca1cbce16ace934",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "localadmin_id":1125375423
+        }
+    ],
+    "wof:id":1125375423,
+    "wof:lastmodified":1505248129,
+    "wof:name":"Glabbeek",
+    "wof:parent_id":-1,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.9534085,
+    50.8706255,
+    4.9534085,
+    50.8706255
+],
+  "geometry": {"coordinates":[4.9534085,50.8706255],"type":"Point"}
+}

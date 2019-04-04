@@ -1,0 +1,131 @@
+{
+  "id": 1125779145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.92496,50.89621,4.92496,50.89621",
+    "geom:latitude":50.89621,
+    "geom:longitude":4.92496,
+    "gn:gn_country":"BE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"BE",
+    "lbl:latitude":50.89621,
+    "lbl:longitude":4.92496,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dan_x_preferred":[
+        "Meensel-Kiezegem"
+    ],
+    "name:dut_x_preferred":[
+        "Meensel-Kiezegem"
+    ],
+    "name:eng_x_preferred":[
+        "Meensel-Kiezegem"
+    ],
+    "name:fao_x_preferred":[
+        "Meensel-Kiezegem"
+    ],
+    "name:fre_x_preferred":[
+        "Meensel-Kiezegem"
+    ],
+    "name:ger_x_preferred":[
+        "Meensel-Kiezegem"
+    ],
+    "name:heb_x_preferred":[
+        "\u05de\u05d9\u05e0\u05e1\u05dc-\u05e7\u05d9\u05d6\u05d2\u05dd"
+    ],
+    "name:hun_x_preferred":[
+        "Meensel-Kiezegem"
+    ],
+    "name:kal_x_preferred":[
+        "Meensel-Kiezegem"
+    ],
+    "name:nno_x_preferred":[
+        "Meensel-Kiezegem"
+    ],
+    "name:nob_x_preferred":[
+        "Meensel-Kiezegem"
+    ],
+    "name:por_x_preferred":[
+        "Meensel-Kiezegem"
+    ],
+    "name:swe_x_preferred":[
+        "Meensel-Kiezegem"
+    ],
+    "name:unk_x_variant":[
+        "Meensel"
+    ],
+    "qs_pg:aaroncc":"BE",
+    "qs_pg:gn_country":"BE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2791521,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Meensel-Kiezegem",
+    "qs_pg:name_adm0":"Belgique",
+    "qs_pg:name_adm1":"Vlaams Brabant",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":192186,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424757,
+    "qs_pg:woe_id":974080,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424757,
+    "woe:name_adm0":"Belgique",
+    "woe:name_adm1":"Vlaams Brabant",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85681731,
+        102191581,
+        1108830337,
+        85632997,
+        404227357,
+        102049969
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2791521,
+        "gp:id":974080,
+        "qs_pg:id":192186,
+        "wd:id":"Q2707965"
+    },
+    "wof:country":"BE",
+    "wof:created":1497290392,
+    "wof:geomhash":"4a1c45cc25ca128c5d94627a8f7707cf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049969,
+            "localadmin_id":1108830337,
+            "locality_id":1125779145,
+            "macroregion_id":404227357,
+            "region_id":85681731
+        }
+    ],
+    "wof:id":1125779145,
+    "wof:lastmodified":1513899397,
+    "wof:name":"Meensel-Kiezegem",
+    "wof:parent_id":1108830337,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.92496,
+    50.89621,
+    4.92496,
+    50.89621
+],
+  "geometry": {"coordinates":[4.92496,50.89621],"type":"Point"}
+}

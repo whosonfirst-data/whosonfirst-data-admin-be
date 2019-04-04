@@ -1,0 +1,78 @@
+{
+  "id": 1259620357,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.69907,50.97052,2.69907,50.97052",
+    "geom:latitude":50.97052,
+    "geom:longitude":2.69907,
+    "gn:admin1_code":"VLG",
+    "gn:admin2_code":"VWV",
+    "gn:admin3_code":"32.0",
+    "gn:admin4_code":"32030.0",
+    "gn:asciiname":"Gapaardhoek",
+    "gn:country_code":"BE",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2797834,
+    "gn:latitude":50.97052,
+    "gn:longitude":2.69907,
+    "gn:modification_date":"2016-08-02",
+    "gn:name":"Gapaardhoek",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Capaardhoek",
+        "Gapaardhoek"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681709,
+        102191581,
+        1108830073,
+        85632997,
+        404227357,
+        102049987
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2797834
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"85c14d49490d2ccd762b0f9c8ff3872e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049987,
+            "localadmin_id":1108830073,
+            "locality_id":1259620357,
+            "macroregion_id":404227357,
+            "region_id":85681709
+        }
+    ],
+    "wof:id":1259620357,
+    "wof:lastmodified":1537587037,
+    "wof:name":"Gapaardhoek",
+    "wof:parent_id":1108830073,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.69907,
+    50.97052,
+    2.69907,
+    50.97052
+],
+  "geometry": {"coordinates":[2.69907,50.97052],"type":"Point"}
+}

@@ -1,0 +1,84 @@
+{
+  "id": 1125396485,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2017-05-19",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.07586,50.87402,3.07586,50.87402",
+    "geom:latitude":50.87402,
+    "geom:longitude":3.07586,
+    "gn:gn_country":"BE",
+    "gn:gn_fcode":"ADM4",
+    "gn:gn_pop":10833,
+    "gn:population":10833,
+    "iso:country":"BE",
+    "lbl:latitude":50.87402,
+    "lbl:longitude":3.07586,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bul_x_preferred":[
+        "\u041c\u043e\u0440\u0441\u043b\u0435\u0434\u0435"
+    ],
+    "name:fas_x_preferred":[
+        "\u0645\u0648\u0631\u0633\u0644\u0648\u062f"
+    ],
+    "name:vls_x_preferred":[
+        "M\u00f4oslee"
+    ],
+    "name:zho_x_preferred":[
+        "\u83ab\u5c14\u65af\u83b1\u5fb7"
+    ],
+    "qs_pg:aaroncc":"BE",
+    "qs_pg:gn_country":"BE",
+    "qs_pg:gn_fcode":"ADM4",
+    "qs_pg:gn_id":2790730,
+    "qs_pg:gn_pop":10833,
+    "qs_pg:name":"Moorslede",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":6,
+    "qs_pg:qs_id":1062737,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85632997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2790730,
+        "qs_pg:id":1062737
+    },
+    "wof:country":"BE",
+    "wof:created":1497049046,
+    "wof:geomhash":"bae6624d5bedcd9f2432490886e79d36",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "localadmin_id":1125396485
+        }
+    ],
+    "wof:id":1125396485,
+    "wof:lastmodified":1505185641,
+    "wof:name":"Moorslede",
+    "wof:parent_id":-1,
+    "wof:placetype":"localadmin",
+    "wof:population":10833,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.07586,
+    50.87402,
+    3.07586,
+    50.87402
+],
+  "geometry": {"coordinates":[3.07586,50.87402],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1125315403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2017-05-19",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.448524,50.267316,5.448524,50.267316",
+    "geom:latitude":50.267316,
+    "geom:longitude":5.448524,
+    "gn:gn_country":null,
+    "iso:country":"BE",
+    "lbl:latitude":50.267316,
+    "lbl:longitude":5.448524,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"BE",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Hotton",
+    "qs_pg:name_adm0":"Belgique",
+    "qs_pg:name_adm1":"Luxembourg",
+    "qs_pg:photos":1738,
+    "qs_pg:photos_1k":352,
+    "qs_pg:photos_9k":15,
+    "qs_pg:photos_9r":11,
+    "qs_pg:photos_all":3468,
+    "qs_pg:photos_sr":14,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1209754,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
+    "qs_pg:woe_adm0":23424757,
+    "qs_pg:woe_id":12602755,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424757,
+    "woe:name_adm0":"Belgique",
+    "woe:name_adm1":"Luxembourg",
+    "woe:placetype":"LocalAdmin",
+    "wof:belongsto":[
+        85632997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12602755,
+        "qs_pg:id":1209754
+    },
+    "wof:country":"BE",
+    "wof:created":1497044252,
+    "wof:geomhash":"5ab4a9c55d64861af670f9029cf34834",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "localadmin_id":1125315403
+        }
+    ],
+    "wof:id":1125315403,
+    "wof:lastmodified":1505248031,
+    "wof:name":"Hotton",
+    "wof:parent_id":-1,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.448524,
+    50.267316,
+    5.448524,
+    50.267316
+],
+  "geometry": {"coordinates":[5.448524,50.267316],"type":"Point"}
+}

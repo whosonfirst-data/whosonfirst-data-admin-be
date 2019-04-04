@@ -1,0 +1,72 @@
+{
+  "id": 1310436627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.27341,50.56765,4.27341,50.56765",
+    "geom:latitude":50.56765,
+    "geom:longitude":4.27341,
+    "gn:admin1_code":"WAL",
+    "gn:admin2_code":"WHT",
+    "gn:admin3_code":"52.0",
+    "gn:admin4_code":"52063.0",
+    "gn:asciiname":"Arquennes",
+    "gn:country_code":"BE",
+    "gn:dem":97,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2803061,
+    "gn:latitude":50.56765,
+    "gn:longitude":4.27341,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Arquennes",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681723,
+        102191581,
+        85632997,
+        404227353,
+        102049927
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2803061
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"63a32c93164cd0abc11689795c06f4e9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049927,
+            "locality_id":1310436627,
+            "macroregion_id":404227353,
+            "region_id":85681723
+        }
+    ],
+    "wof:id":1310436627,
+    "wof:lastmodified":1537015686,
+    "wof:name":"Arquennes",
+    "wof:parent_id":102049927,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.27341,
+    50.56765,
+    4.27341,
+    50.56765
+],
+  "geometry": {"coordinates":[4.27341,50.56765],"type":"Point"}
+}

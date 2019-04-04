@@ -1,0 +1,64 @@
+{
+  "id": 1209036223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.4,49.96667,4.4,49.96667",
+    "geom:latitude":49.96667,
+    "geom:longitude":4.4,
+    "gn:admin1_code":"WAL",
+    "gn:admin2_code":"WHT",
+    "gn:admin3_code":"56.0",
+    "gn:admin4_code":"56016.0",
+    "gn:asciiname":"Hauts Marais",
+    "gn:country_code":"BE",
+    "gn:dem":343,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2796384,
+    "gn:latitude":49.96667,
+    "gn:longitude":4.4,
+    "gn:modification_date":"2017-03-25",
+    "gn:name":"Hauts Marais",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2796384
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"4a8f3928d2b31654480c393ef1aa2a34",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "locality_id":1209036223
+        }
+    ],
+    "wof:id":1209036223,
+    "wof:lastmodified":1536299691,
+    "wof:name":"Hauts Marais",
+    "wof:parent_id":85632997,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.4,
+    49.96667,
+    4.4,
+    49.96667
+],
+  "geometry": {"coordinates":[4.4,49.96667],"type":"Point"}
+}

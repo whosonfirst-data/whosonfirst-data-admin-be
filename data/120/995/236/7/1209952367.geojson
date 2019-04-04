@@ -1,0 +1,89 @@
+{
+  "id": 1209952367,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.13446,50.19571,6.13446,50.19571",
+    "geom:latitude":50.19571,
+    "geom:longitude":6.13446,
+    "gn:admin1_code":"WAL",
+    "gn:admin2_code":"WLG",
+    "gn:admin3_code":"63.0",
+    "gn:admin4_code":"63087.0",
+    "gn:asciiname":"Burg-Reuland",
+    "gn:cc2":"BE",
+    "gn:country_code":"BE",
+    "gn:dem":379,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2788131,
+    "gn:latitude":50.19571,
+    "gn:longitude":6.13446,
+    "gn:modification_date":"2011-03-23",
+    "gn:name":"Burg-Reuland",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0411\u0443\u0440\u0433 \u0420\u043e\u0439\u043b\u0430\u043d\u0434"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u0648\u0631\u06af-\u0631\u0648\u0644\u0627\u0646"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d6\u30eb\u30af\uff1d\u30ed\u30a4\u30e9\u30f3\u30c8"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0443\u0440\u0433-\u0420\u043e\u0439\u043b\u0430\u043d\u0434"
+    ],
+    "name:zho_x_preferred":[
+        "\u5e03\u5c14\u683c\u2014\u7f57\u4f0a\u5170\u5fb7"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681691,
+        102191581,
+        85632997,
+        404227353,
+        102049935
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2788131,
+        "wk:page":"Burg-Reuland"
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"65178e172a664b8207662f92fb09a372",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049935,
+            "locality_id":1209952367,
+            "macroregion_id":404227353,
+            "region_id":85681691
+        }
+    ],
+    "wof:id":1209952367,
+    "wof:lastmodified":1537586936,
+    "wof:name":"Burg-Reuland",
+    "wof:parent_id":102049935,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.13446,
+    50.19571,
+    6.13446,
+    50.19571
+],
+  "geometry": {"coordinates":[6.13446,50.19571],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1125281577,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2017-05-19",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.94007,51.32439,4.94007,51.32439",
+    "geom:latitude":51.32439,
+    "geom:longitude":4.94007,
+    "gn:gn_country":"BE",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":0,
+    "iso:country":"BE",
+    "lbl:latitude":51.32439,
+    "lbl:longitude":4.94007,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"BE",
+    "qs_pg:gn_country":"BE",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":2785140,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Arrondissement Turnhout",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":373543,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "wof:belongsto":[
+        85632997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2785140,
+        "qs_pg:id":373543
+    },
+    "wof:country":"BE",
+    "wof:created":1497042520,
+    "wof:geomhash":"1575810ac017f0b6e9cfb06a32314903",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "localadmin_id":1125281577
+        }
+    ],
+    "wof:id":1125281577,
+    "wof:lastmodified":1505247967,
+    "wof:name":"Arrondissement Turnhout",
+    "wof:parent_id":-1,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.94007,
+    51.32439,
+    4.94007,
+    51.32439
+],
+  "geometry": {"coordinates":[4.94007,51.32439],"type":"Point"}
+}

@@ -1,0 +1,129 @@
+{
+  "id": 1125936703,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.7012,50.97308,4.7012,50.97308",
+    "geom:latitude":50.97308,
+    "geom:longitude":4.7012,
+    "gn:gn_country":"BE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"BE",
+    "lbl:latitude":50.97308,
+    "lbl:longitude":4.7012,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Werchter"
+    ],
+    "name:eng_x_preferred":[
+        "Werchter"
+    ],
+    "name:fre_x_preferred":[
+        "Werchter"
+    ],
+    "name:ger_x_preferred":[
+        "Werchter"
+    ],
+    "name:hun_x_preferred":[
+        "Werchter"
+    ],
+    "name:ita_x_preferred":[
+        "Werchter"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ef\u30c1\u30bf\u30fc"
+    ],
+    "name:pol_x_preferred":[
+        "Werchter"
+    ],
+    "name:por_x_preferred":[
+        "Werchter"
+    ],
+    "name:spa_x_preferred":[
+        "Werchter"
+    ],
+    "name:swe_x_preferred":[
+        "Werchter"
+    ],
+    "name:tur_x_preferred":[
+        "Werchter"
+    ],
+    "qs_pg:aaroncc":"BE",
+    "qs_pg:gn_country":"BE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2783844,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Werchter",
+    "qs_pg:name_adm0":"Belgique",
+    "qs_pg:name_adm1":"Vlaams Brabant",
+    "qs_pg:photos":2180,
+    "qs_pg:photos_1k":442,
+    "qs_pg:photos_9k":10,
+    "qs_pg:photos_9r":9,
+    "qs_pg:photos_all":2180,
+    "qs_pg:photos_sr":16,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1139366,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424757,
+    "qs_pg:woe_id":978787,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424757,
+    "woe:name_adm0":"Belgique",
+    "woe:name_adm1":"Vlaams Brabant",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85681731,
+        102191581,
+        1108830325,
+        85632997,
+        404227357,
+        102049969
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2783844,
+        "gp:id":978787,
+        "qs_pg:id":1139366,
+        "wd:id":"Q1354834"
+    },
+    "wof:country":"BE",
+    "wof:created":1497296989,
+    "wof:geomhash":"1ffe48ed7534ac968f5cf254eefbdd17",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049969,
+            "localadmin_id":1108830325,
+            "locality_id":1125936703,
+            "macroregion_id":404227357,
+            "region_id":85681731
+        }
+    ],
+    "wof:id":1125936703,
+    "wof:lastmodified":1513899578,
+    "wof:name":"Werchter",
+    "wof:parent_id":1108830325,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.7012,
+    50.97308,
+    4.7012,
+    50.97308
+],
+  "geometry": {"coordinates":[4.7012,50.97308],"type":"Point"}
+}

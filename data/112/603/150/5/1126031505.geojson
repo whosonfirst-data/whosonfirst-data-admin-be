@@ -1,0 +1,109 @@
+{
+  "id": 1126031505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.55616,50.78619,5.55616,50.78619",
+    "geom:latitude":50.78619,
+    "geom:longitude":5.55616,
+    "gn:gn_country":"BE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"BE",
+    "lbl:latitude":50.78619,
+    "lbl:longitude":5.55616,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Millen"
+    ],
+    "name:eng_x_preferred":[
+        "Millen"
+    ],
+    "name:fre_x_preferred":[
+        "Millen"
+    ],
+    "name:hun_x_preferred":[
+        "Millen"
+    ],
+    "name:lim_x_preferred":[
+        "Miele"
+    ],
+    "name:unk_x_variant":[
+        "Riemst (Millen)"
+    ],
+    "qs_pg:aaroncc":"BE",
+    "qs_pg:gn_country":"BE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2791162,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Millen",
+    "qs_pg:name_adm0":"Belgique",
+    "qs_pg:name_adm1":"Limburg",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":3,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1025741,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424757,
+    "qs_pg:woe_id":974315,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424757,
+    "woe:name_adm0":"Belgique",
+    "woe:name_adm1":"Limburg",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85681705,
+        102191581,
+        1108830103,
+        85632997,
+        404227357,
+        1108782563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2791162,
+        "gp:id":974315,
+        "qs_pg:id":1025741,
+        "wd:id":"Q2757889"
+    },
+    "wof:country":"BE",
+    "wof:created":1497301501,
+    "wof:geomhash":"aae9baf15888350a9670be27eab6a189",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":1108782563,
+            "localadmin_id":1108830103,
+            "locality_id":1126031505,
+            "macroregion_id":404227357,
+            "region_id":85681705
+        }
+    ],
+    "wof:id":1126031505,
+    "wof:lastmodified":1513899407,
+    "wof:name":"Millen",
+    "wof:parent_id":1108830103,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.55616,
+    50.78619,
+    5.55616,
+    50.78619
+],
+  "geometry": {"coordinates":[5.55616,50.78619],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 1310139515,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.77261,51.15347,2.77261,51.15347",
+    "geom:latitude":51.15347,
+    "geom:longitude":2.77261,
+    "gn:admin1_code":"VLG",
+    "gn:admin2_code":"VWV",
+    "gn:admin3_code":"35.0",
+    "gn:admin4_code":"35011.0",
+    "gn:asciiname":"Schuddebeurze",
+    "gn:country_code":"BE",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2786924,
+    "gn:latitude":51.15347,
+    "gn:longitude":2.77261,
+    "gn:modification_date":"2016-08-02",
+    "gn:name":"Schuddebeurze",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "De Schuddebeurze",
+        "Schuddebeurs",
+        "Schuddebeurze"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681709,
+        102191581,
+        1108830695,
+        85632997,
+        404227357,
+        102049999
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2786924
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"277c7abcb7fdbb01083be0dfa904e31d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049999,
+            "localadmin_id":1108830695,
+            "locality_id":1310139515,
+            "macroregion_id":404227357,
+            "region_id":85681709
+        }
+    ],
+    "wof:id":1310139515,
+    "wof:lastmodified":1537586919,
+    "wof:name":"Schuddebeurze",
+    "wof:parent_id":1108830695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.77261,
+    51.15347,
+    2.77261,
+    51.15347
+],
+  "geometry": {"coordinates":[2.77261,51.15347],"type":"Point"}
+}

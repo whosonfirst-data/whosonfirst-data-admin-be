@@ -1,0 +1,84 @@
+{
+  "id": 1125417625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2017-05-19",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.26214,50.922,3.26214,50.922",
+    "geom:latitude":50.922,
+    "geom:longitude":3.26214,
+    "gn:gn_country":"BE",
+    "gn:gn_fcode":"ADM4",
+    "gn:gn_pop":10691,
+    "gn:population":10691,
+    "iso:country":"BE",
+    "lbl:latitude":50.922,
+    "lbl:longitude":3.26214,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bul_x_preferred":[
+        "\u0418\u043d\u0433\u0435\u043b\u043c\u044c\u043e\u043d\u0441\u0442\u0435\u0440"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0646\u0698\u0644\u0645\u0646\u0633\u062a\u0647"
+    ],
+    "name:vls_x_preferred":[
+        "Iengelmunstr"
+    ],
+    "name:zho_x_preferred":[
+        "\u82f1\u5384\u5c14\u8499\u65af\u7279"
+    ],
+    "qs_pg:aaroncc":"BE",
+    "qs_pg:gn_country":"BE",
+    "qs_pg:gn_fcode":"ADM4",
+    "qs_pg:gn_id":2795057,
+    "qs_pg:gn_pop":10691,
+    "qs_pg:name":"Ingelmunster",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":6,
+    "qs_pg:qs_id":92667,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85632997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2795057,
+        "qs_pg:id":92667
+    },
+    "wof:country":"BE",
+    "wof:created":1497051626,
+    "wof:geomhash":"59fea14d4d399d088123f608be631563",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "localadmin_id":1125417625
+        }
+    ],
+    "wof:id":1125417625,
+    "wof:lastmodified":1505185643,
+    "wof:name":"Ingelmunster",
+    "wof:parent_id":-1,
+    "wof:placetype":"localadmin",
+    "wof:population":10691,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.26214,
+    50.922,
+    3.26214,
+    50.922
+],
+  "geometry": {"coordinates":[3.26214,50.922],"type":"Point"}
+}

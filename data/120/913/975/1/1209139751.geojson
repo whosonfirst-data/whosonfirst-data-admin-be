@@ -1,0 +1,67 @@
+{
+  "id": 1209139751,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.207,50.30612,5.207,50.30612",
+    "geom:latitude":50.30612,
+    "geom:longitude":5.207,
+    "gn:admin1_code":"WAL",
+    "gn:admin2_code":"WNA",
+    "gn:admin3_code":"91.0",
+    "gn:admin4_code":"91059.0",
+    "gn:asciiname":"Scy",
+    "gn:country_code":"BE",
+    "gn:dem":300,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2786883,
+    "gn:latitude":50.30612,
+    "gn:longitude":5.207,
+    "gn:modification_date":"2011-04-05",
+    "gn:name":"Scy",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hamois (Scy)"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2786883
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"10b1d74c63bca8334138f72be0fed27f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "locality_id":1209139751
+        }
+    ],
+    "wof:id":1209139751,
+    "wof:lastmodified":1537586919,
+    "wof:name":"Scy",
+    "wof:parent_id":85632997,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.207,
+    50.30612,
+    5.207,
+    50.30612
+],
+  "geometry": {"coordinates":[5.207,50.30612],"type":"Point"}
+}

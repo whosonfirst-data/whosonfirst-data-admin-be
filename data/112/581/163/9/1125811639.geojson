@@ -1,0 +1,114 @@
+{
+  "id": 1125811639,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.11146,51.01905,4.11146,51.01905",
+    "geom:latitude":51.01905,
+    "geom:longitude":4.11146,
+    "gn:gn_country":"BE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"BE",
+    "lbl:latitude":51.01905,
+    "lbl:longitude":4.11146,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Sint-Gillis-bij-Dendermonde"
+    ],
+    "name:eng_x_preferred":[
+        "Sint-Gillis-bij-Dendermonde"
+    ],
+    "name:fre_x_preferred":[
+        "Sint-Gillis-bij-Dendermonde"
+    ],
+    "name:hun_x_preferred":[
+        "Sint-Gillis-bij-Dendermonde"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0438\u043d\u0442-\u0413\u0438\u043b\u043b\u0438\u0441-\u0431\u044d\u0439-\u0414\u0435\u043d\u0434\u0435\u0440\u043c\u043e\u043d\u0434\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "Sint-Gillis-bij-Dendermonde"
+    ],
+    "name:unk_x_variant":[
+        "Saint-Gilles-lez-Termonde"
+    ],
+    "qs_pg:aaroncc":"BE",
+    "qs_pg:gn_country":"BE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2786697,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"St.-Gillis-bij-Dendermonde",
+    "qs_pg:name_adm0":"Belgique",
+    "qs_pg:name_adm1":"Oost-Vlaanderen",
+    "qs_pg:photos":208,
+    "qs_pg:photos_1k":42,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":4,
+    "qs_pg:photos_all":208,
+    "qs_pg:photos_sr":4,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":4778,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424757,
+    "qs_pg:woe_id":977183,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424757,
+    "woe:name_adm0":"Belgique",
+    "woe:name_adm1":"Oost-Vlaanderen",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85681733,
+        102191581,
+        1108830417,
+        85632997,
+        404227357,
+        102049979
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2786697,
+        "gp:id":977183,
+        "qs_pg:id":4778,
+        "wd:id":"Q898394"
+    },
+    "wof:country":"BE",
+    "wof:created":1497291680,
+    "wof:geomhash":"c67ba3d4647041229353f92a1cc34ffb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049979,
+            "localadmin_id":1108830417,
+            "locality_id":1125811639,
+            "macroregion_id":404227357,
+            "region_id":85681733
+        }
+    ],
+    "wof:id":1125811639,
+    "wof:lastmodified":1513899513,
+    "wof:name":"St.-Gillis-bij-Dendermonde",
+    "wof:parent_id":1108830417,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.11146,
+    51.01905,
+    4.11146,
+    51.01905
+],
+  "geometry": {"coordinates":[4.11146,51.01905],"type":"Point"}
+}

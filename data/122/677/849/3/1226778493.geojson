@@ -1,0 +1,75 @@
+{
+  "id": 1226778493,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.81755,50.65819,4.81755,50.65819",
+    "geom:latitude":50.65819,
+    "geom:longitude":4.81755,
+    "gn:admin1_code":"WAL",
+    "gn:admin2_code":"WBR",
+    "gn:admin3_code":"25.0",
+    "gn:admin4_code":"25084.0",
+    "gn:asciiname":"Thorembais-les-Beguines",
+    "gn:country_code":"BE",
+    "gn:dem":128,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2785527,
+    "gn:latitude":50.65819,
+    "gn:longitude":4.81755,
+    "gn:modification_date":"2011-01-26",
+    "gn:name":"Thorembais-les-B\u00e9guines",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Perwez (Thorembais-les-B\u00e9guines)"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681693,
+        102191581,
+        85632997,
+        404227353,
+        102049945
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2785527
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"37323320207508b2e3dc3667eb336499",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049945,
+            "locality_id":1226778493,
+            "macroregion_id":404227353,
+            "region_id":85681693
+        }
+    ],
+    "wof:id":1226778493,
+    "wof:lastmodified":1537586901,
+    "wof:name":"Thorembais-les-Beguines",
+    "wof:parent_id":102049945,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.81755,
+    50.65819000000001,
+    4.81755,
+    50.65819000000001
+],
+  "geometry": {"coordinates":[4.81755,50.65819000000001],"type":"Point"}
+}

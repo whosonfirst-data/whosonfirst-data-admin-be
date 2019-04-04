@@ -1,0 +1,72 @@
+{
+  "id": 1309746057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.23333,50.45,5.23333,50.45",
+    "geom:latitude":50.45,
+    "geom:longitude":5.23333,
+    "gn:admin1_code":"WAL",
+    "gn:admin2_code":"WLG",
+    "gn:admin3_code":"61.0",
+    "gn:admin4_code":"61039.0",
+    "gn:asciiname":"Aux Trois Saules",
+    "gn:country_code":"BE",
+    "gn:dem":209,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2802882,
+    "gn:latitude":50.45,
+    "gn:longitude":5.23333,
+    "gn:modification_date":"2017-03-25",
+    "gn:name":"Aux Trois Saules",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681691,
+        102191581,
+        85632997,
+        404227353,
+        102049925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2802882
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"b82fe8aa78c3e555f742fa746e4e2cc4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049925,
+            "locality_id":1309746057,
+            "macroregion_id":404227353,
+            "region_id":85681691
+        }
+    ],
+    "wof:id":1309746057,
+    "wof:lastmodified":1537016620,
+    "wof:name":"Aux Trois Saules",
+    "wof:parent_id":102049925,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.23333,
+    50.45,
+    5.23333,
+    50.45
+],
+  "geometry": {"coordinates":[5.23333,50.45],"type":"Point"}
+}

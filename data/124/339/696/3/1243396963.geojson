@@ -1,0 +1,72 @@
+{
+  "id": 1243396963,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.83333,50.25,4.83333,50.25",
+    "geom:latitude":50.25,
+    "geom:longitude":4.83333,
+    "gn:admin1_code":"WAL",
+    "gn:admin2_code":"WNA",
+    "gn:admin3_code":"91.0",
+    "gn:admin4_code":"91103.0",
+    "gn:asciiname":"Fonds de Lavois",
+    "gn:country_code":"BE",
+    "gn:dem":235,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2798202,
+    "gn:latitude":50.25,
+    "gn:longitude":4.83333,
+    "gn:modification_date":"2017-03-25",
+    "gn:name":"Fonds de Lavois",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681699,
+        102191581,
+        85632997,
+        404227353,
+        102049919
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2798202
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"149a391a1ecc4de2383130506be79720",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049919,
+            "locality_id":1243396963,
+            "macroregion_id":404227353,
+            "region_id":85681699
+        }
+    ],
+    "wof:id":1243396963,
+    "wof:lastmodified":1536876122,
+    "wof:name":"Fonds de Lavois",
+    "wof:parent_id":102049919,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.83333,
+    50.25,
+    4.83333,
+    50.25
+],
+  "geometry": {"coordinates":[4.83333,50.25],"type":"Point"}
+}

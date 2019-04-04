@@ -1,0 +1,76 @@
+{
+  "id": 1343894615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.33333,50.56667,3.33333,50.56667",
+    "geom:latitude":50.56667,
+    "geom:longitude":3.33333,
+    "gn:admin1_code":"WAL",
+    "gn:admin2_code":"WHT",
+    "gn:admin3_code":"57.0",
+    "gn:admin4_code":"57081.0",
+    "gn:asciiname":"Le Preau",
+    "gn:country_code":"BE",
+    "gn:dem":51,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2792817,
+    "gn:latitude":50.56667,
+    "gn:longitude":3.33333,
+    "gn:modification_date":"2017-03-25",
+    "gn:name":"Le Pr\u00e9au",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Preau",
+        "Le Pr\u00e9au"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681723,
+        102191581,
+        85632997,
+        404227353,
+        102049951
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2792817
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"d7588b5fccb91b63d85f9095c95aaca4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049951,
+            "locality_id":1343894615,
+            "macroregion_id":404227353,
+            "region_id":85681723
+        }
+    ],
+    "wof:id":1343894615,
+    "wof:lastmodified":1537586982,
+    "wof:name":"Le Preau",
+    "wof:parent_id":102049951,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.33333,
+    50.56667,
+    3.33333,
+    50.56667
+],
+  "geometry": {"coordinates":[3.33333,50.56667],"type":"Point"}
+}

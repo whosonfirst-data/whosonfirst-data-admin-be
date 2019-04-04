@@ -1,0 +1,64 @@
+{
+  "id": 1209243739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.96556,50.64294,5.96556,50.64294",
+    "geom:latitude":50.64294,
+    "geom:longitude":5.96556,
+    "gn:admin1_code":"WAL",
+    "gn:admin2_code":"WLG",
+    "gn:admin3_code":"63.0",
+    "gn:admin4_code":"63004.0",
+    "gn:asciiname":"Heggen",
+    "gn:country_code":"BE",
+    "gn:dem":278,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2796278,
+    "gn:latitude":50.64294,
+    "gn:longitude":5.96556,
+    "gn:modification_date":"2017-03-25",
+    "gn:name":"Heggen",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2796278
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"9d004b6dfa85c79b51dccafe3a0d9458",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "locality_id":1209243739
+        }
+    ],
+    "wof:id":1209243739,
+    "wof:lastmodified":1536293235,
+    "wof:name":"Heggen",
+    "wof:parent_id":85632997,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.96556,
+    50.64294,
+    5.96556,
+    50.64294
+],
+  "geometry": {"coordinates":[5.96556,50.64294],"type":"Point"}
+}

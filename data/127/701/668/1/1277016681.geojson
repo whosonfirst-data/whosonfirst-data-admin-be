@@ -1,0 +1,72 @@
+{
+  "id": 1277016681,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.39365,50.50599,3.39365,50.50599",
+    "geom:latitude":50.50599,
+    "geom:longitude":3.39365,
+    "gn:admin1_code":"WAL",
+    "gn:admin2_code":"WHT",
+    "gn:admin3_code":"57.0",
+    "gn:admin4_code":"57093.0",
+    "gn:asciiname":"Quesnoy",
+    "gn:country_code":"BE",
+    "gn:dem":26,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2788462,
+    "gn:latitude":50.50599,
+    "gn:longitude":3.39365,
+    "gn:modification_date":"2017-03-25",
+    "gn:name":"Quesnoy",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681723,
+        102191581,
+        85632997,
+        404227353,
+        102049951
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2788462
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"9352edbf87d4bcf181106b1051f36984",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049951,
+            "locality_id":1277016681,
+            "macroregion_id":404227353,
+            "region_id":85681723
+        }
+    ],
+    "wof:id":1277016681,
+    "wof:lastmodified":1536856529,
+    "wof:name":"Quesnoy",
+    "wof:parent_id":102049951,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.39365,
+    50.50599,
+    3.39365,
+    50.50599
+],
+  "geometry": {"coordinates":[3.39365,50.50599],"type":"Point"}
+}

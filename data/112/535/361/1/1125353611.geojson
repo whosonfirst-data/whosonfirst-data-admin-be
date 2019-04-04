@@ -1,0 +1,89 @@
+{
+  "id": 1125353611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2017-05-19",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.08333,51.03333,4.08333,51.03333",
+    "geom:latitude":51.03333,
+    "geom:longitude":4.08333,
+    "gn:gn_country":"BE",
+    "gn:gn_fcode":"ADM4",
+    "gn:gn_pop":44271,
+    "gn:population":44271,
+    "iso:country":"BE",
+    "lbl:latitude":51.03333,
+    "lbl:longitude":4.08333,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:unk_x_variant":[
+        "Arrondissement de Termonde"
+    ],
+    "qs_pg:aaroncc":"BE",
+    "qs_pg:gn_country":"BE",
+    "qs_pg:gn_fcode":"ADM4",
+    "qs_pg:gn_id":2799646,
+    "qs_pg:gn_pop":44271,
+    "qs_pg:name":"Dendermonde",
+    "qs_pg:name_adm0":"Belgique",
+    "qs_pg:name_adm1":"Oost-Vlaanderen",
+    "qs_pg:photos":192,
+    "qs_pg:photos_1k":39,
+    "qs_pg:photos_9k":5,
+    "qs_pg:photos_9r":7,
+    "qs_pg:photos_all":1194,
+    "qs_pg:photos_sr":4,
+    "qs_pg:pop_sr":7,
+    "qs_pg:qs_id":1150138,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
+    "qs_pg:woe_adm0":23424757,
+    "qs_pg:woe_id":12602427,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424757,
+    "woe:name_adm0":"Belgique",
+    "woe:name_adm1":"Oost-Vlaanderen",
+    "woe:placetype":"LocalAdmin",
+    "wof:belongsto":[
+        85632997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2799646,
+        "gp:id":12602427,
+        "qs_pg:id":1150138
+    },
+    "wof:country":"BE",
+    "wof:created":1497046332,
+    "wof:geomhash":"89f1bc53199322328fa175744008aa81",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "localadmin_id":1125353611
+        }
+    ],
+    "wof:id":1125353611,
+    "wof:lastmodified":1505185645,
+    "wof:name":"Dendermonde",
+    "wof:parent_id":-1,
+    "wof:placetype":"localadmin",
+    "wof:population":44271,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.08333,
+    51.03333,
+    4.08333,
+    51.03333
+],
+  "geometry": {"coordinates":[4.08333,51.03333],"type":"Point"}
+}

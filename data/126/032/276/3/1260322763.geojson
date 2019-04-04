@@ -1,0 +1,78 @@
+{
+  "id": 1260322763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.63861,51.36398,4.63861,51.36398",
+    "geom:latitude":51.36398,
+    "geom:longitude":4.63861,
+    "gn:admin1_code":"VLG",
+    "gn:admin2_code":"VAN",
+    "gn:admin3_code":"11.0",
+    "gn:admin4_code":"11009.0",
+    "gn:asciiname":"Stapelheide",
+    "gn:country_code":"BE",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2786198,
+    "gn:latitude":51.36398,
+    "gn:longitude":4.63861,
+    "gn:modification_date":"2016-08-02",
+    "gn:name":"Stapelheide",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Stepelheyde",
+        "Stapelheide"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681715,
+        102191581,
+        1108830385,
+        85632997,
+        404227357,
+        102050005
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2786198
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"c4b72bb3db3e1743198aee51437e785a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102050005,
+            "localadmin_id":1108830385,
+            "locality_id":1260322763,
+            "macroregion_id":404227357,
+            "region_id":85681715
+        }
+    ],
+    "wof:id":1260322763,
+    "wof:lastmodified":1537586910,
+    "wof:name":"Stapelheide",
+    "wof:parent_id":1108830385,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.63861,
+    51.36398,
+    4.63861,
+    51.36398
+],
+  "geometry": {"coordinates":[4.63861,51.36398],"type":"Point"}
+}

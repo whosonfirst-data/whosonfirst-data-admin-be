@@ -1,0 +1,72 @@
+{
+  "id": 1259619897,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.4473,50.52194,3.4473,50.52194",
+    "geom:latitude":50.52194,
+    "geom:longitude":3.4473,
+    "gn:admin1_code":"WAL",
+    "gn:admin2_code":"WHT",
+    "gn:admin3_code":"57.0",
+    "gn:admin4_code":"57018.0",
+    "gn:asciiname":"Laplaigne",
+    "gn:country_code":"BE",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2793319,
+    "gn:latitude":50.52194,
+    "gn:longitude":3.4473,
+    "gn:modification_date":"2009-01-17",
+    "gn:name":"Laplaigne",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681723,
+        102191581,
+        85632997,
+        404227353,
+        102049951
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2793319
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"574a3ea3ef102daad22f465b677c6a8e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049951,
+            "locality_id":1259619897,
+            "macroregion_id":404227353,
+            "region_id":85681723
+        }
+    ],
+    "wof:id":1259619897,
+    "wof:lastmodified":1536662182,
+    "wof:name":"Laplaigne",
+    "wof:parent_id":102049951,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.4473,
+    50.52194,
+    3.4473,
+    50.52194
+],
+  "geometry": {"coordinates":[3.4473,50.52194],"type":"Point"}
+}

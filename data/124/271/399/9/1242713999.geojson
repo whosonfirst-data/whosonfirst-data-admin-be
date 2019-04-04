@@ -1,0 +1,72 @@
+{
+  "id": 1242713999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.40081,49.61705,5.40081,49.61705",
+    "geom:latitude":49.61705,
+    "geom:longitude":5.40081,
+    "gn:admin1_code":"WAL",
+    "gn:admin2_code":"WLX",
+    "gn:admin3_code":"85.0",
+    "gn:admin4_code":"85024.0",
+    "gn:asciiname":"Limes",
+    "gn:country_code":"BE",
+    "gn:dem":225,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2792342,
+    "gn:latitude":49.61705,
+    "gn:longitude":5.40081,
+    "gn:modification_date":"2017-03-25",
+    "gn:name":"Limes",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681727,
+        102191581,
+        85632997,
+        404227353,
+        102049907
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2792342
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"200c73039995998fbbad0595e641122c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049907,
+            "locality_id":1242713999,
+            "macroregion_id":404227353,
+            "region_id":85681727
+        }
+    ],
+    "wof:id":1242713999,
+    "wof:lastmodified":1536865961,
+    "wof:name":"Limes",
+    "wof:parent_id":102049907,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.40081,
+    49.61705,
+    5.40081,
+    49.61705
+],
+  "geometry": {"coordinates":[5.40081,49.61705],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1343595637,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.04077,50.69679,6.04077,50.69679",
+    "geom:latitude":50.69679,
+    "geom:longitude":6.04077,
+    "gn:admin1_code":"WAL",
+    "gn:admin2_code":"WLG",
+    "gn:admin3_code":"63.0",
+    "gn:admin4_code":"63061.0",
+    "gn:asciiname":"Fossey",
+    "gn:country_code":"BE",
+    "gn:dem":236,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2798089,
+    "gn:latitude":50.69679,
+    "gn:longitude":6.04077,
+    "gn:modification_date":"2017-03-25",
+    "gn:name":"Fossey",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681691,
+        102191581,
+        85632997,
+        404227353,
+        102049935
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2798089
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"fac81a3748797b5c66388ab4dabf3168",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049935,
+            "locality_id":1343595637,
+            "macroregion_id":404227353,
+            "region_id":85681691
+        }
+    ],
+    "wof:id":1343595637,
+    "wof:lastmodified":1537046675,
+    "wof:name":"Fossey",
+    "wof:parent_id":102049935,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.04077,
+    50.69679,
+    6.04077,
+    50.69679
+],
+  "geometry": {"coordinates":[6.04077,50.69679],"type":"Point"}
+}

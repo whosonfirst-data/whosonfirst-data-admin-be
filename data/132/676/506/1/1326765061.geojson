@@ -1,0 +1,78 @@
+{
+  "id": 1326765061,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.02939,50.93279,4.02939,50.93279",
+    "geom:latitude":50.93279,
+    "geom:longitude":4.02939,
+    "gn:admin1_code":"VLG",
+    "gn:admin2_code":"VOV",
+    "gn:admin3_code":"41.0",
+    "gn:admin4_code":"41002.0",
+    "gn:asciiname":"Sint-Job",
+    "gn:country_code":"BE",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2786661,
+    "gn:latitude":50.93279,
+    "gn:longitude":4.02939,
+    "gn:modification_date":"2016-08-02",
+    "gn:name":"Sint-Job",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Saint-Job",
+        "Sint-Job"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681733,
+        102191581,
+        1108830515,
+        85632997,
+        404227357,
+        102049967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2786661
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"7c8f531eec30ba37bac030ceb46bfc97",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049967,
+            "localadmin_id":1108830515,
+            "locality_id":1326765061,
+            "macroregion_id":404227357,
+            "region_id":85681733
+        }
+    ],
+    "wof:id":1326765061,
+    "wof:lastmodified":1537586916,
+    "wof:name":"Sint-Job",
+    "wof:parent_id":1108830515,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.02939,
+    50.93279,
+    4.02939,
+    50.93279
+],
+  "geometry": {"coordinates":[4.02939,50.93279],"type":"Point"}
+}

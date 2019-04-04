@@ -1,0 +1,64 @@
+{
+  "id": 1209243667,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.35479,50.7013,4.35479,50.7013",
+    "geom:latitude":50.7013,
+    "geom:longitude":4.35479,
+    "gn:admin1_code":"WAL",
+    "gn:admin2_code":"WBR",
+    "gn:admin3_code":"25.0",
+    "gn:admin4_code":"25014.0",
+    "gn:asciiname":"Mont Saint-Pont",
+    "gn:country_code":"BE",
+    "gn:dem":112,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2790752,
+    "gn:latitude":50.7013,
+    "gn:longitude":4.35479,
+    "gn:modification_date":"2017-03-25",
+    "gn:name":"Mont Saint-Pont",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2790752
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"67d7fda1be46408b37e05332843caf42",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "locality_id":1209243667
+        }
+    ],
+    "wof:id":1209243667,
+    "wof:lastmodified":1536293237,
+    "wof:name":"Mont Saint-Pont",
+    "wof:parent_id":85632997,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.35479,
+    50.7013,
+    4.35479,
+    50.7013
+],
+  "geometry": {"coordinates":[4.35479,50.7013],"type":"Point"}
+}

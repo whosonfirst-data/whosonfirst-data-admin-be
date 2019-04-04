@@ -1,0 +1,78 @@
+{
+  "id": 1310538397,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.26667,50.78333,3.26667,50.78333",
+    "geom:latitude":50.78333,
+    "geom:longitude":3.26667,
+    "gn:admin1_code":"VLG",
+    "gn:admin2_code":"VWV",
+    "gn:admin3_code":"34.0",
+    "gn:admin4_code":"34022.0",
+    "gn:asciiname":"Knok",
+    "gn:country_code":"BE",
+    "gn:dem":52,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2794220,
+    "gn:latitude":50.78333,
+    "gn:longitude":3.26667,
+    "gn:modification_date":"2016-08-02",
+    "gn:name":"Knok",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Knock",
+        "Knok"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681709,
+        102191581,
+        1108830299,
+        85632997,
+        404227357,
+        102049961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2794220
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"c011c2773bf7bc92d6184618ffd09b99",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049961,
+            "localadmin_id":1108830299,
+            "locality_id":1310538397,
+            "macroregion_id":404227357,
+            "region_id":85681709
+        }
+    ],
+    "wof:id":1310538397,
+    "wof:lastmodified":1537586999,
+    "wof:name":"Knok",
+    "wof:parent_id":1108830299,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.26667,
+    50.78333,
+    3.26667,
+    50.78333
+],
+  "geometry": {"coordinates":[3.26667,50.78333],"type":"Point"}
+}

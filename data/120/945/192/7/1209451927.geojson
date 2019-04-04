@@ -1,0 +1,64 @@
+{
+  "id": 1209451927,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.21849,50.04025,4.21849,50.04025",
+    "geom:latitude":50.04025,
+    "geom:longitude":4.21849,
+    "gn:admin1_code":"WAL",
+    "gn:admin2_code":"WHT",
+    "gn:admin3_code":"56.0",
+    "gn:admin4_code":"56051.0",
+    "gn:asciiname":"Imbrechies",
+    "gn:country_code":"BE",
+    "gn:dem":268,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2795076,
+    "gn:latitude":50.04025,
+    "gn:longitude":4.21849,
+    "gn:modification_date":"2017-03-25",
+    "gn:name":"Imbrechies",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2795076
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"c413dd8665113f007e9406f3008be92f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "locality_id":1209451927
+        }
+    ],
+    "wof:id":1209451927,
+    "wof:lastmodified":1536286646,
+    "wof:name":"Imbrechies",
+    "wof:parent_id":85632997,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.21849,
+    50.04025,
+    4.21849,
+    50.04025
+],
+  "geometry": {"coordinates":[4.21849,50.04025],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1125396551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2017-05-19",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.093193,51.233879,5.093193,51.233879",
+    "geom:latitude":51.233879,
+    "geom:longitude":5.093193,
+    "gn:gn_country":null,
+    "iso:country":"BE",
+    "lbl:latitude":51.233879,
+    "lbl:longitude":5.093193,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"BE",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Dessel",
+    "qs_pg:name_adm0":"Belgique",
+    "qs_pg:name_adm1":"Antwerpen",
+    "qs_pg:photos":479,
+    "qs_pg:photos_1k":97,
+    "qs_pg:photos_9k":5,
+    "qs_pg:photos_9r":7,
+    "qs_pg:photos_all":1185,
+    "qs_pg:photos_sr":7,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":891726,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
+    "qs_pg:woe_adm0":23424757,
+    "qs_pg:woe_id":12602713,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424757,
+    "woe:name_adm0":"Belgique",
+    "woe:name_adm1":"Antwerpen",
+    "woe:placetype":"LocalAdmin",
+    "wof:belongsto":[
+        85632997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12602713,
+        "qs_pg:id":891726
+    },
+    "wof:country":"BE",
+    "wof:created":1497049049,
+    "wof:geomhash":"b4b568ffba92048a64c0ac61d3ec92c9",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "localadmin_id":1125396551
+        }
+    ],
+    "wof:id":1125396551,
+    "wof:lastmodified":1505248187,
+    "wof:name":"Dessel",
+    "wof:parent_id":-1,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.093193,
+    51.233879,
+    5.093193,
+    51.233879
+],
+  "geometry": {"coordinates":[5.093193,51.233879],"type":"Point"}
+}

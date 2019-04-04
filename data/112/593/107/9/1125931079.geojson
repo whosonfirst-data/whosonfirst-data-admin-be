@@ -1,0 +1,104 @@
+{
+  "id": 1125931079,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.59323,50.69037,5.59323,50.69037",
+    "geom:latitude":50.69037,
+    "geom:longitude":5.59323,
+    "gn:gn_country":"BE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"BE",
+    "lbl:latitude":50.69037,
+    "lbl:longitude":5.59323,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Milmort"
+    ],
+    "name:eng_x_preferred":[
+        "Milmort"
+    ],
+    "name:fre_x_preferred":[
+        "Milmort"
+    ],
+    "name:hun_x_preferred":[
+        "Milmort"
+    ],
+    "name:wln_x_preferred":[
+        "Mermoite"
+    ],
+    "qs_pg:aaroncc":"BE",
+    "qs_pg:gn_country":"BE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2791159,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Milmort",
+    "qs_pg:name_adm0":"Belgique",
+    "qs_pg:name_adm1":"Li\u00e8ge",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":1,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":490808,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424757,
+    "qs_pg:woe_id":974317,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424757,
+    "woe:name_adm0":"Belgique",
+    "woe:name_adm1":"Li\u00e8ge",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85681691,
+        102191581,
+        85632997,
+        404227353,
+        102049941
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2791159,
+        "gp:id":974317,
+        "qs_pg:id":490808,
+        "wd:id":"Q2550904"
+    },
+    "wof:country":"BE",
+    "wof:created":1497296806,
+    "wof:geomhash":"f51f2d3da7b1dd7434b7eb32ed6b440a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049941,
+            "locality_id":1125931079,
+            "macroregion_id":404227353,
+            "region_id":85681691
+        }
+    ],
+    "wof:id":1125931079,
+    "wof:lastmodified":1513899407,
+    "wof:name":"Milmort",
+    "wof:parent_id":102049941,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.59323,
+    50.69037,
+    5.59323,
+    50.69037
+],
+  "geometry": {"coordinates":[5.59323,50.69037],"type":"Point"}
+}

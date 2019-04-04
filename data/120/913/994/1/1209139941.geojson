@@ -1,0 +1,64 @@
+{
+  "id": 1209139941,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.73333,50.18333,5.73333,50.18333",
+    "geom:latitude":50.18333,
+    "geom:longitude":5.73333,
+    "gn:admin1_code":"WAL",
+    "gn:admin2_code":"WLX",
+    "gn:admin3_code":"82.0",
+    "gn:admin4_code":"82014.0",
+    "gn:asciiname":"Les Chapons",
+    "gn:country_code":"BE",
+    "gn:dem":464,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2792730,
+    "gn:latitude":50.18333,
+    "gn:longitude":5.73333,
+    "gn:modification_date":"2017-03-25",
+    "gn:name":"Les Chapons",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2792730
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"c7520a4298e08442491bfeb7fbd7bf75",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "locality_id":1209139941
+        }
+    ],
+    "wof:id":1209139941,
+    "wof:lastmodified":1536296537,
+    "wof:name":"Les Chapons",
+    "wof:parent_id":85632997,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.7333300000000005,
+    50.18333,
+    5.7333300000000005,
+    50.18333
+],
+  "geometry": {"coordinates":[5.73333,50.18333],"type":"Point"}
+}

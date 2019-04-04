@@ -1,0 +1,92 @@
+{
+  "id": 101913259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000001,
+    "geom:area_square_m":8606.742436,
+    "geom:bbox":"4.69851066806,50.8114839868,4.6998296829,50.812440881",
+    "geom:latitude":50.811953,
+    "geom:longitude":4.699167,
+    "iso:country":"BE",
+    "lbl:latitude":50.811965,
+    "lbl:longitude":4.699168,
+    "mps:latitude":50.811965,
+    "mps:longitude":4.699168,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Hamme-Mille"
+    ],
+    "name:eng_x_preferred":[
+        "Hamme-Mille"
+    ],
+    "name:fre_x_preferred":[
+        "Hamme-Mille"
+    ],
+    "name:ger_x_preferred":[
+        "Hamme-Mille"
+    ],
+    "qs:a0":"Belgi\u00eb#Belgique#Belgien",
+    "qs:a1":"*Vlaams Brabant",
+    "qs:a1r":"0Vlaams Gewest",
+    "qs:a2":"Leuven",
+    "qs:adm0":"Belgi\u00eb#Belgique#Belgien",
+    "qs:la":"Bierbeek",
+    "qs:la_lc":"*BE224011",
+    "qs:level":"locality",
+    "qs:loc":"Hamme-Mille",
+    "qs:loc_alt":"Hamme-Mille",
+    "qs:pop":0,
+    "qs:source":"LCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-multi-in-poly-resolved",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        85681731,
+        102191581,
+        1108830043,
+        85632997,
+        404227357,
+        102049969
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2796632,
+        "gp:id":975277,
+        "qs:id":2,
+        "wd:id":"Q2207097"
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"8a854ced9241d5a79c69af4e3275303b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049969,
+            "localadmin_id":1108830043,
+            "locality_id":101913259,
+            "macroregion_id":404227357,
+            "region_id":85681731
+        }
+    ],
+    "wof:id":101913259,
+    "wof:lastmodified":1513899295,
+    "wof:name":"Hamme-Mille",
+    "wof:parent_id":1108830043,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.698510668057,
+    50.81148398682831,
+    4.69982968290458,
+    50.81244088104995
+],
+  "geometry": {"coordinates":[[[4.698510668057,50.81148398682831],[4.698601294372,50.81238910400828],[4.69972767020869,50.81244088104995],[4.69982968290458,50.81154465151138],[4.698510668057,50.81148398682831]]],"type":"Polygon"}
+}

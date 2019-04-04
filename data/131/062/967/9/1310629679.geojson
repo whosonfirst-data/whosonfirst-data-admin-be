@@ -1,0 +1,72 @@
+{
+  "id": 1310629679,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.44325,51.24781,3.44325,51.24781",
+    "geom:latitude":51.24781,
+    "geom:longitude":3.44325,
+    "gn:admin1_code":"VLG",
+    "gn:admin2_code":"VOV",
+    "gn:asciiname":"Ede",
+    "gn:country_code":"BE",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2799009,
+    "gn:latitude":51.24781,
+    "gn:longitude":3.44325,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Ede",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Eede",
+        "Ede"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        404474629,
+        85633337,
+        85687037
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2799009
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"3218df644f13228d8d3cb5371a547d69",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474629,
+            "locality_id":1310629679,
+            "region_id":85687037
+        }
+    ],
+    "wof:id":1310629679,
+    "wof:lastmodified":1537587046,
+    "wof:name":"Ede",
+    "wof:parent_id":404474629,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.44325,
+    51.24781,
+    3.44325,
+    51.24781
+],
+  "geometry": {"coordinates":[3.44325,51.24781],"type":"Point"}
+}

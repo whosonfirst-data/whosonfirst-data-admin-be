@@ -1,0 +1,74 @@
+{
+  "id": 1259916661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.0689,50.70829,4.0689,50.70829",
+    "geom:latitude":50.70829,
+    "geom:longitude":4.0689,
+    "gn:admin1_code":"WAL",
+    "gn:admin2_code":"WHT",
+    "gn:admin3_code":"55.0",
+    "gn:admin4_code":"55010.0",
+    "gn:asciiname":"Coquiane",
+    "gn:country_code":"BE",
+    "gn:dem":47,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2800157,
+    "gn:latitude":50.70829,
+    "gn:longitude":4.0689,
+    "gn:modification_date":"2017-03-25",
+    "gn:name":"Coquiane",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681731,
+        102191581,
+        1108830399,
+        85632997,
+        404227357,
+        102049973
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2800157
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"c9179801b2b7716d6b6f43708b1c993d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049973,
+            "localadmin_id":1108830399,
+            "locality_id":1259916661,
+            "macroregion_id":404227357,
+            "region_id":85681731
+        }
+    ],
+    "wof:id":1259916661,
+    "wof:lastmodified":1536731564,
+    "wof:name":"Coquiane",
+    "wof:parent_id":1108830399,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.0689,
+    50.70829000000001,
+    4.0689,
+    50.70829000000001
+],
+  "geometry": {"coordinates":[4.0689,50.70829000000001],"type":"Point"}
+}

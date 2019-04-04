@@ -1,0 +1,136 @@
+{
+  "id": 85801539,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":26747751.549975,
+    "geom:bbox":"4.494573,51.312451,4.494573,51.312451",
+    "geom:latitude":51.312451,
+    "geom:longitude":4.494573,
+    "iso:country":"BE",
+    "lbl:latitude":51.312451,
+    "lbl:longitude":4.494573,
+    "mps:latitude":51.311166,
+    "mps:longitude":4.513298,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":14.0,
+    "mz:tier_locality":1,
+    "name:dut_x_preferred":[
+        "Lage Kaart"
+    ],
+    "name:eng_x_preferred":[
+        "Leege Kaart"
+    ],
+    "name:eng_x_variant":[
+        "Kaart",
+        "Lege-Kaart",
+        "Leege Kaart"
+    ],
+    "name:nld_x_historical":[
+        "Kaert",
+        "Caert",
+        "Leeghe Caert"
+    ],
+    "name:nld_x_preferred":[
+        "Kaert"
+    ],
+    "name:nld_x_variant":[
+        "Caert",
+        "Leeghe Caert",
+        "Kaart"
+    ],
+    "name:unk_x_variant":[
+        "Lege-Kaart",
+        "Lage Kaart"
+    ],
+    "qs:gn_adm0_cc":"BE",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_local":2801117,
+    "qs:gn_nam_loc":"Brasschaat, Brasschaat, Antwerpen, Antwerpen, BE",
+    "qs:gn_namadm1":"VLG",
+    "qs:gn_name":"Lage Kaart",
+    "qs:local_max":1502,
+    "qs:local_sum":1795,
+    "qs:localhoods":2,
+    "qs:name":"Lage Kaart",
+    "qs:name_adm0":"Belgique",
+    "qs:name_adm1":"Antwerpen",
+    "qs:name_adm2":"Antwerpen",
+    "qs:name_en":"Leege Kaart",
+    "qs:name_lau":"Brasschaat",
+    "qs:name_local":"Brasschaat",
+    "qs:photo_max":56,
+    "qs:photo_sum":293,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":39,
+    "qs:woe_adm0":23424757,
+    "qs:woe_adm1":7153308,
+    "qs:woe_adm2":12591760,
+    "qs:woe_lau":12602643,
+    "qs:woe_local":967852,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        85681715,
+        102191581,
+        1108830619,
+        85632997,
+        404227357,
+        101755759,
+        102050005
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2793613,
+        "gp:id":972819,
+        "qs:id":1114865,
+        "qs_pg:id":1114865
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"effd179c9ba0d664481b11541d537ed9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102050005,
+            "localadmin_id":1108830619,
+            "locality_id":101755759,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85801539,
+            "region_id":85681715
+        }
+    ],
+    "wof:id":85801539,
+    "wof:lang":[
+        "dut"
+    ],
+    "wof:lastmodified":1531862083,
+    "wof:name":"Lage Kaart",
+    "wof:parent_id":101755759,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.494573,
+    51.312451,
+    4.494573,
+    51.312451
+],
+  "geometry": {"coordinates":[4.494573,51.312451],"type":"Point"}
+}

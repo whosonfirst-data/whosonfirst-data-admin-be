@@ -1,0 +1,111 @@
+{
+  "id": 1125777599,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.14058,50.40316,6.14058,50.40316",
+    "geom:latitude":50.40316,
+    "geom:longitude":6.14058,
+    "gn:gn_country":"BE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"BE",
+    "lbl:latitude":50.40316,
+    "lbl:longitude":6.14058,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Faymonville"
+    ],
+    "name:eng_x_preferred":[
+        "Faymonville"
+    ],
+    "name:fre_x_preferred":[
+        "Faymonville"
+    ],
+    "name:ger_x_preferred":[
+        "Faymonville"
+    ],
+    "name:per_x_preferred":[
+        "\u0641\u0627\u06cc\u0645\u0648\u0646\u0648\u0648\u06cc\u0644"
+    ],
+    "name:tur_x_preferred":[
+        "Faymonville"
+    ],
+    "name:unk_x_variant":[
+        "Waimes (Faymonville)"
+    ],
+    "name:wln_x_preferred":[
+        "Faimonveye"
+    ],
+    "qs_pg:aaroncc":"BE",
+    "qs_pg:gn_country":"BE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2798421,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Faymonville",
+    "qs_pg:name_adm0":"Belgique",
+    "qs_pg:name_adm1":"Li\u00e8ge",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":191916,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424757,
+    "qs_pg:woe_id":969562,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424757,
+    "woe:name_adm0":"Belgique",
+    "woe:name_adm1":"Li\u00e8ge",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85681691,
+        102191581,
+        85632997,
+        404227353,
+        102049935
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2798421,
+        "gp:id":969562,
+        "qs_pg:id":191916,
+        "wd:id":"Q3067699"
+    },
+    "wof:country":"BE",
+    "wof:created":1497290331,
+    "wof:geomhash":"faabf6602091ef10e4a4164985c3902b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049935,
+            "locality_id":1125777599,
+            "macroregion_id":404227353,
+            "region_id":85681691
+        }
+    ],
+    "wof:id":1125777599,
+    "wof:lastmodified":1513899257,
+    "wof:name":"Faymonville",
+    "wof:parent_id":102049935,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.14058,
+    50.40316,
+    6.14058,
+    50.40316
+],
+  "geometry": {"coordinates":[6.14058,50.40316],"type":"Point"}
+}

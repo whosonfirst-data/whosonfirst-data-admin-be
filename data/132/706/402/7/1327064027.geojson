@@ -1,0 +1,72 @@
+{
+  "id": 1327064027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.60539,50.48861,5.60539,50.48861",
+    "geom:latitude":50.48861,
+    "geom:longitude":5.60539,
+    "gn:admin1_code":"WAL",
+    "gn:admin2_code":"WLG",
+    "gn:admin3_code":"62.0",
+    "gn:admin4_code":"62100.0",
+    "gn:asciiname":"Fraiture",
+    "gn:country_code":"BE",
+    "gn:dem":246,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2798026,
+    "gn:latitude":50.48861,
+    "gn:longitude":5.60539,
+    "gn:modification_date":"2017-03-25",
+    "gn:name":"Fraiture",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681691,
+        102191581,
+        85632997,
+        404227353,
+        102049941
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2798026
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"8174750781f4ae5d89cdfe3ce2034025",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049941,
+            "locality_id":1327064027,
+            "macroregion_id":404227353,
+            "region_id":85681691
+        }
+    ],
+    "wof:id":1327064027,
+    "wof:lastmodified":1536715170,
+    "wof:name":"Fraiture",
+    "wof:parent_id":102049941,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.60539,
+    50.48861,
+    5.60539,
+    50.48861
+],
+  "geometry": {"coordinates":[5.60539,50.48861],"type":"Point"}
+}

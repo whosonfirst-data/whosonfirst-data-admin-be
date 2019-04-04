@@ -1,0 +1,72 @@
+{
+  "id": 1125365135,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2017-05-19",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.0756,50.58226,5.0756,50.58226",
+    "geom:latitude":50.58226,
+    "geom:longitude":5.0756,
+    "gn:gn_country":"BE",
+    "gn:gn_fcode":"ADM4",
+    "gn:gn_pop":2993,
+    "gn:population":2993,
+    "iso:country":"BE",
+    "lbl:latitude":50.58226,
+    "lbl:longitude":5.0756,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"BE",
+    "qs_pg:gn_country":"BE",
+    "qs_pg:gn_fcode":"ADM4",
+    "qs_pg:gn_id":2800762,
+    "qs_pg:gn_pop":2993,
+    "qs_pg:name":"Burdinne",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":1152158,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85632997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2800762,
+        "qs_pg:id":1152158
+    },
+    "wof:country":"BE",
+    "wof:created":1497047036,
+    "wof:geomhash":"ac8c902eb60e0c30cf47909356bc0304",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "localadmin_id":1125365135
+        }
+    ],
+    "wof:id":1125365135,
+    "wof:lastmodified":1505185645,
+    "wof:name":"Burdinne",
+    "wof:parent_id":-1,
+    "wof:placetype":"localadmin",
+    "wof:population":2993,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.0756,
+    50.58226,
+    5.0756,
+    50.58226
+],
+  "geometry": {"coordinates":[5.0756,50.58226],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1260111073,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.54063,50.65768,5.54063,50.65768",
+    "geom:latitude":50.65768,
+    "geom:longitude":5.54063,
+    "gn:admin1_code":"WAL",
+    "gn:admin2_code":"WLG",
+    "gn:admin3_code":"62.0",
+    "gn:admin4_code":"62003.0",
+    "gn:asciiname":"Haut Doux",
+    "gn:country_code":"BE",
+    "gn:dem":174,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2796446,
+    "gn:latitude":50.65768,
+    "gn:longitude":5.54063,
+    "gn:modification_date":"2017-03-25",
+    "gn:name":"Haut Doux",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Haut-Doui",
+        "Haut Doux"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681691,
+        102191581,
+        85632997,
+        404227353,
+        102049941
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2796446
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"5c3d05950e1f835a44adafed8a0ef92f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049941,
+            "locality_id":1260111073,
+            "macroregion_id":404227353,
+            "region_id":85681691
+        }
+    ],
+    "wof:id":1260111073,
+    "wof:lastmodified":1537587023,
+    "wof:name":"Haut Doux",
+    "wof:parent_id":102049941,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.54063,
+    50.65768,
+    5.54063,
+    50.65768
+],
+  "geometry": {"coordinates":[5.54063,50.65768],"type":"Point"}
+}

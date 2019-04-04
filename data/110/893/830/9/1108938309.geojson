@@ -1,0 +1,86 @@
+{
+  "id": 1108938309,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.37040262057,50.8428186906,4.37040262057,50.8428186906",
+    "geom:latitude":50.842819,
+    "geom:longitude":4.370403,
+    "iso:country":"BE",
+    "lbl:latitude":50.842819,
+    "lbl:longitude":4.370403,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_metro":30,
+    "name:dut_x_preferred":[
+        "Leopoldswijk"
+    ],
+    "name:eng_x_preferred":[
+        "Leopold Quarter"
+    ],
+    "name:epo_x_preferred":[
+        "Kvartalo Leopoldo"
+    ],
+    "name:fra_x_preferred":[
+        "Quartier L\u00e9opold"
+    ],
+    "name:fre_x_preferred":[
+        "quartier L\u00e9opold"
+    ],
+    "name:nld_x_preferred":[
+        "Leopoldswijk"
+    ],
+    "src:lbl:centroid":"mz",
+    "wof:belongsto":[
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "wd:id":"Q1948732"
+    },
+    "wof:country":"BE",
+    "wof:created":1491360283,
+    "wof:geomhash":"3814a62ea168dd4ca93c4beb22d5051c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":1108938309,
+            "region_id":85681713
+        }
+    ],
+    "wof:id":1108938309,
+    "wof:lastmodified":1513899466,
+    "wof:name":"Quartier Leopold",
+    "wof:parent_id":101751573,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.37040262056763,
+    50.84281869059983,
+    4.37040262056763,
+    50.84281869059983
+],
+  "geometry": {"coordinates":[4.37040262056763,50.84281869059983],"type":"Point"}
+}

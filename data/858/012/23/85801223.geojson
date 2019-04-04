@@ -1,0 +1,153 @@
+{
+  "id": 85801223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000265,
+    "geom:area_square_m":2064329.536964,
+    "geom:bbox":"4.40551757812,50.8807878546,4.42858328213,50.8961039555",
+    "geom:latitude":50.888463,
+    "geom:longitude":4.416332,
+    "iso:country":"BE",
+    "lbl:latitude":50.889736,
+    "lbl:longitude":4.416229,
+    "mps:latitude":50.889136,
+    "mps:longitude":4.416551,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":13.0,
+    "mz:tier_locality":5,
+    "mz:tier_metro":30,
+    "name:bre_x_preferred":[
+        "Haren"
+    ],
+    "name:ceb_x_preferred":[
+        "Haren"
+    ],
+    "name:ces_x_preferred":[
+        "Haren"
+    ],
+    "name:eng_x_preferred":[
+        "Brussel-Haren"
+    ],
+    "name:eng_x_variant":[
+        "Brussel-Haren"
+    ],
+    "name:est_x_preferred":[
+        "Haren"
+    ],
+    "name:fra_x_preferred":[
+        "Haren"
+    ],
+    "name:fra_x_variant":[
+        "Bruxelles (Haren)"
+    ],
+    "name:nld_x_preferred":[
+        "Haren"
+    ],
+    "name:nld_x_variant":[
+        "Brussel (Haren)"
+    ],
+    "name:por_x_preferred":[
+        "Haren"
+    ],
+    "name:slk_x_preferred":[
+        "Haren"
+    ],
+    "name:swe_x_preferred":[
+        "Haren"
+    ],
+    "name:tur_x_preferred":[
+        "Haren"
+    ],
+    "name:unk_x_variant":[
+        "Haeren",
+        "Haren"
+    ],
+    "qs:gn_fcode":"PPL",
+    "qs:gn_local":0,
+    "qs:gn_namadm1":"BRU",
+    "qs:gn_name":"Haren",
+    "qs:local_max":62861,
+    "qs:local_sum":208570,
+    "qs:localhoods":75,
+    "qs:name":"Haren",
+    "qs:name_adm0":"Belgique",
+    "qs:name_adm1":"R\u00e9gion de Bruxelles-Capitale",
+    "qs:name_adm2":"Brussel Hoofdstad",
+    "qs:name_en":"Brussel-Haren",
+    "qs:name_lau":"Brussel",
+    "qs:name_local":"Bruxelles",
+    "qs:photo_max":14,
+    "qs:photo_sum":75,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":13,
+    "qs:woe_adm0":23424757,
+    "qs:woe_adm1":55965974,
+    "qs:woe_adm2":12591762,
+    "qs:woe_lau":12602737,
+    "qs:woe_local":968019,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mz",
+    "wd:wordcount":349,
+    "wof:belongsto":[
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2796540,
+        "gp:id":970663,
+        "qs:id":4396,
+        "qs_pg:id":4396,
+        "wd:id":"Q672888",
+        "wk:page":"Haren, Belgium"
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"7a48c1a82d6f1d5fa1002771e59a367a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801223,
+            "region_id":85681713
+        }
+    ],
+    "wof:id":85801223,
+    "wof:lang":[
+        "dut"
+    ],
+    "wof:lastmodified":1527640514,
+    "wof:name":"Haren",
+    "wof:parent_id":101751573,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.40551757812005,
+    50.88078785459034,
+    4.42858328213288,
+    50.89610395550001
+],
+  "geometry": {"coordinates":[[[4.42199707031011,50.89610395550001],[4.42199707031011,50.89263913110001],[4.42749023438012,50.89263913110001],[4.42749023437861,50.89111741836764],[4.42749023437861,50.88917404889999],[4.42749023437798,50.8891739844503],[4.42858328213288,50.88744125000024],[4.42749027503711,50.88570870890005],[4.42749023438012,50.88570864445411],[4.42639702400021,50.88397578112536],[4.42309028069019,50.88397578112536],[4.42199711095927,50.88224311110004],[4.42199707031011,50.88224304667132],[4.42138370370674,50.88127086284827],[4.41925048828011,50.88078785459034],[4.41711727285724,50.88127086284727],[4.41650390625023,50.8822430466753],[4.41101074218767,50.8822430466753],[4.40551757812273,50.8822430466753],[4.40551757812094,50.88224311110004],[4.40551757812173,50.88570864445019],[4.40551757812173,50.88570870890005],[4.40551757812173,50.8891739844503],[4.40551757812173,50.88917404889999],[4.40551757812182,50.89263906665032],[4.40551757812005,50.89263913110001],[4.41101074218864,50.89263913110001],[4.41101074218864,50.8961038910753],[4.41101074219006,50.89610395550001],[4.41650390625003,50.89610395550001],[4.42103728682585,50.89610395100424],[4.42199707031011,50.89610395550001]]],"type":"Polygon"}
+}

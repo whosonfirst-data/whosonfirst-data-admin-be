@@ -1,0 +1,72 @@
+{
+  "id": 1225975713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.60008,50.65861,5.60008,50.65861",
+    "geom:latitude":50.65861,
+    "geom:longitude":5.60008,
+    "gn:admin1_code":"WAL",
+    "gn:admin2_code":"WLG",
+    "gn:admin3_code":"62.0",
+    "gn:admin4_code":"62063.0",
+    "gn:asciiname":"Tribouillet",
+    "gn:country_code":"BE",
+    "gn:dem":119,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2785284,
+    "gn:latitude":50.65861,
+    "gn:longitude":5.60008,
+    "gn:modification_date":"2017-03-25",
+    "gn:name":"Tribouillet",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681691,
+        102191581,
+        85632997,
+        404227353,
+        102049941
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2785284
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"07e09e68a3c2dbb32825d1c505334b02",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049941,
+            "locality_id":1225975713,
+            "macroregion_id":404227353,
+            "region_id":85681691
+        }
+    ],
+    "wof:id":1225975713,
+    "wof:lastmodified":1536825199,
+    "wof:name":"Tribouillet",
+    "wof:parent_id":102049941,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.60008,
+    50.65861,
+    5.60008,
+    50.65861
+],
+  "geometry": {"coordinates":[5.60008,50.65861],"type":"Point"}
+}

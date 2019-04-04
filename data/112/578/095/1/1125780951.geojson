@@ -1,0 +1,101 @@
+{
+  "id": 1125780951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.41965,50.85157,5.41965,50.85157",
+    "geom:latitude":50.85157,
+    "geom:longitude":5.41965,
+    "gn:gn_country":"BE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"BE",
+    "lbl:latitude":50.85157,
+    "lbl:longitude":5.41965,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Wintershoven"
+    ],
+    "name:eng_x_preferred":[
+        "Wintershoven"
+    ],
+    "name:fre_x_preferred":[
+        "Wintershoven"
+    ],
+    "name:hun_x_preferred":[
+        "Wintershoven"
+    ],
+    "qs_pg:aaroncc":"BE",
+    "qs_pg:gn_country":"BE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2783559,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Wintershoven",
+    "qs_pg:name_adm0":"Belgique",
+    "qs_pg:name_adm1":"Limburg",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":192547,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424757,
+    "qs_pg:woe_id":978964,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424757,
+    "woe:name_adm0":"Belgique",
+    "woe:name_adm1":"Limburg",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85681705,
+        102191581,
+        1108830391,
+        85632997,
+        404227357,
+        1108782563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2783559,
+        "gp:id":978964,
+        "qs_pg:id":192547,
+        "wd:id":"Q2213774"
+    },
+    "wof:country":"BE",
+    "wof:created":1497290472,
+    "wof:geomhash":"acf7795142ab35289a767c5248a99e88",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":1108782563,
+            "localadmin_id":1108830391,
+            "locality_id":1125780951,
+            "macroregion_id":404227357,
+            "region_id":85681705
+        }
+    ],
+    "wof:id":1125780951,
+    "wof:lastmodified":1513899587,
+    "wof:name":"Wintershoven",
+    "wof:parent_id":1108830391,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.41965,
+    50.85157,
+    5.41965,
+    50.85157
+],
+  "geometry": {"coordinates":[5.41965,50.85157],"type":"Point"}
+}

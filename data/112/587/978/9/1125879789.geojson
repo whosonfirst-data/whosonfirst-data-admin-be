@@ -1,0 +1,117 @@
+{
+  "id": 1125879789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.74647,50.79722,2.74647,50.79722",
+    "geom:latitude":50.79722,
+    "geom:longitude":2.74647,
+    "gn:gn_country":"BE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"BE",
+    "lbl:latitude":50.79722,
+    "lbl:longitude":2.74647,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bre_x_preferred":[
+        "Westouter"
+    ],
+    "name:dut_x_preferred":[
+        "Westouter"
+    ],
+    "name:eng_x_preferred":[
+        "Westouter"
+    ],
+    "name:est_x_preferred":[
+        "Westouter"
+    ],
+    "name:fre_x_preferred":[
+        "Westouter"
+    ],
+    "name:hun_x_preferred":[
+        "Westouter"
+    ],
+    "name:unk_x_variant":[
+        "Westoutre"
+    ],
+    "name:vls_x_preferred":[
+        "Westouter"
+    ],
+    "qs_pg:aaroncc":"BE",
+    "qs_pg:gn_country":"BE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2783781,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Westouter",
+    "qs_pg:name_adm0":"Belgique",
+    "qs_pg:name_adm1":"West-Vlaanderen",
+    "qs_pg:photos":318,
+    "qs_pg:photos_1k":64,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":5,
+    "qs_pg:photos_all":318,
+    "qs_pg:photos_sr":5,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":776319,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424757,
+    "qs_pg:woe_id":978828,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424757,
+    "woe:name_adm0":"Belgique",
+    "woe:name_adm1":"West-Vlaanderen",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85681709,
+        102191581,
+        1108830671,
+        85632997,
+        404227357,
+        102049971
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2783781,
+        "gp:id":978828,
+        "qs_pg:id":776319,
+        "wd:id":"Q2231539"
+    },
+    "wof:country":"BE",
+    "wof:created":1497294740,
+    "wof:geomhash":"f6f5c32584527ab588ac1ded21b1b172",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049971,
+            "localadmin_id":1108830671,
+            "locality_id":1125879789,
+            "macroregion_id":404227357,
+            "region_id":85681709
+        }
+    ],
+    "wof:id":1125879789,
+    "wof:lastmodified":1513899580,
+    "wof:name":"Westouter",
+    "wof:parent_id":1108830671,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.74647,
+    50.79722,
+    2.74647,
+    50.79722
+],
+  "geometry": {"coordinates":[2.74647,50.79722],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 1226476345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.16306,51.01539,3.16306,51.01539",
+    "geom:latitude":51.01539,
+    "geom:longitude":3.16306,
+    "gn:admin1_code":"VLG",
+    "gn:admin2_code":"VWV",
+    "gn:admin3_code":"36.0",
+    "gn:admin4_code":"36011.0",
+    "gn:asciiname":"Groendaal",
+    "gn:country_code":"BE",
+    "gn:dem":24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2797091,
+    "gn:latitude":51.01539,
+    "gn:longitude":3.16306,
+    "gn:modification_date":"2016-08-02",
+    "gn:name":"Groendaal",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Groenendael",
+        "Groenendaal",
+        "Groendaal"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681709,
+        102191581,
+        1108830517,
+        85632997,
+        404227357,
+        102049977
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2797091
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"f608d31371f59a5859d51d8b89056590",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049977,
+            "localadmin_id":1108830517,
+            "locality_id":1226476345,
+            "macroregion_id":404227357,
+            "region_id":85681709
+        }
+    ],
+    "wof:id":1226476345,
+    "wof:lastmodified":1537587030,
+    "wof:name":"Groendaal",
+    "wof:parent_id":1108830517,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.16306,
+    51.01539,
+    3.16306,
+    51.01539
+],
+  "geometry": {"coordinates":[3.16306,51.01539],"type":"Point"}
+}

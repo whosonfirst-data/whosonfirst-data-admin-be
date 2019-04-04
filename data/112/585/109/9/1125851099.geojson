@@ -1,0 +1,103 @@
+{
+  "id": 1125851099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.05427,50.37707,6.05427,50.37707",
+    "geom:latitude":50.37707,
+    "geom:longitude":6.05427,
+    "gn:gn_country":"BE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"BE",
+    "lbl:latitude":50.37707,
+    "lbl:longitude":6.05427,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Ligneuville"
+    ],
+    "name:eng_x_preferred":[
+        "Ligneuville"
+    ],
+    "name:fre_x_preferred":[
+        "Ligneuville"
+    ],
+    "name:unk_x_variant":[
+        "Engelsdorf"
+    ],
+    "qs_pg:aaroncc":"BE",
+    "qs_pg:gn_country":"BE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2792374,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Ligneuville",
+    "qs_pg:name_adm0":"Belgique",
+    "qs_pg:name_adm1":"Li\u00e8ge",
+    "qs_pg:photos":138,
+    "qs_pg:photos_1k":28,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":3,
+    "qs_pg:photos_all":138,
+    "qs_pg:photos_sr":3,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":906258,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424757,
+    "qs_pg:woe_id":973559,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424757,
+    "woe:name_adm0":"Belgique",
+    "woe:name_adm1":"Li\u00e8ge",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85681691,
+        102191581,
+        85632997,
+        404227353,
+        102049935
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2792374,
+        "gp:id":973559,
+        "qs_pg:id":906258,
+        "wd:id":"Q27885012"
+    },
+    "wof:country":"BE",
+    "wof:created":1497293407,
+    "wof:geomhash":"fbe0226cc03bacadaca39da4ae7ba099",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049935,
+            "locality_id":1125851099,
+            "macroregion_id":404227353,
+            "region_id":85681691
+        }
+    ],
+    "wof:id":1125851099,
+    "wof:lastmodified":1513899369,
+    "wof:name":"Ligneuville",
+    "wof:parent_id":102049935,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.05427,
+    50.37707,
+    6.05427,
+    50.37707
+],
+  "geometry": {"coordinates":[6.05427,50.37707],"type":"Point"}
+}

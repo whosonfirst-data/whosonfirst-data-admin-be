@@ -1,0 +1,66 @@
+{
+  "id": 1209142693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.85533,50.72195,5.85533,50.72195",
+    "geom:latitude":50.72195,
+    "geom:longitude":5.85533,
+    "gn:admin1_code":"WAL",
+    "gn:admin2_code":"WLG",
+    "gn:asciiname":"Kijs",
+    "gn:country_code":"BE",
+    "gn:dem":271,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2794452,
+    "gn:latitude":50.72195,
+    "gn:longitude":5.85533,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Kijs",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kys",
+        "Kijs"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2794452
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"9f4fa15da19d04a688e0533e560d9114",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "locality_id":1209142693
+        }
+    ],
+    "wof:id":1209142693,
+    "wof:lastmodified":1537587003,
+    "wof:name":"Kijs",
+    "wof:parent_id":85632997,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.85533,
+    50.72195,
+    5.85533,
+    50.72195
+],
+  "geometry": {"coordinates":[5.85533,50.72195],"type":"Point"}
+}

@@ -1,0 +1,96 @@
+{
+  "id": 101755257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000256,
+    "geom:area_square_m":2004379.177984,
+    "geom:bbox":"4.47561002005,50.7073896675,4.50594436654,50.7250038376",
+    "geom:latitude":50.715944,
+    "geom:longitude":4.492497,
+    "iso:country":"BE",
+    "lbl:latitude":50.717523,
+    "lbl:longitude":4.494795,
+    "mps:latitude":50.717523,
+    "mps:longitude":4.494795,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Genval"
+    ],
+    "name:eng_x_preferred":[
+        "Genval"
+    ],
+    "name:fre_x_preferred":[
+        "Genval"
+    ],
+    "name:unk_x_variant":[
+        "Rixensart (Genval)"
+    ],
+    "name:wln_x_preferred":[
+        "Djenv\u00e5"
+    ],
+    "qs:a0":"Belgi\u00eb#Belgique#Belgien",
+    "qs:a1":"*Brabant wallon",
+    "qs:a1r":"0R\u00e9gion wallone",
+    "qs:a2":"Nivelles",
+    "qs:adm0":"Belgi\u00eb#Belgique#Belgien",
+    "qs:la":"Kalmthout",
+    "qs:la_lc":"*BE211022",
+    "qs:level":"locality",
+    "qs:loc":"Genval",
+    "qs:loc_alt":"Genval",
+    "qs:pop":0,
+    "qs:source":"LCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"suburbs point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        85681693,
+        102191581,
+        85632997,
+        404227353,
+        102049945
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2797641,
+        "gp:id":970021,
+        "qs:id":1075285,
+        "qs_pg:id":1075285,
+        "wd:id":"Q2553167"
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"085899b6789abe9b69e720cafb5d3103",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049945,
+            "locality_id":101755257,
+            "macroregion_id":404227353,
+            "region_id":85681693
+        }
+    ],
+    "wof:id":101755257,
+    "wof:lastmodified":1513899283,
+    "wof:name":"Genval",
+    "wof:parent_id":102049945,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.4756100200479,
+    50.70738966749695,
+    4.50594436653574,
+    50.72500383762298
+],
+  "geometry": {"coordinates":[[[4.50492892153392,50.71432684810969],[4.49837499941299,50.70967261356009],[4.49820779040436,50.71109228971471],[4.49679540166045,50.7110247737038],[4.49668982388317,50.71192081595234],[4.49104019899579,50.71165057302727],[4.49114588411476,50.71075453672483],[4.48690878527941,50.7105516774115],[4.48712030141451,50.70875961271895],[4.48570799629579,50.70869196133879],[4.48560221391489,50.70958799236598],[4.48136524055997,50.70938493000455],[4.48147110343257,50.7084889034453],[4.47864652694733,50.70835344505645],[4.47875243843811,50.7074574211386],[4.47734018265237,50.70738966749695],[4.47712830097288,50.70918171201225],[4.4757159952843,50.70911393809706],[4.4756100200479,50.71000995835522],[4.479847028866,50.71021323269656],[4.47942339946422,50.71379732823266],[4.48224830545371,50.71393276991739],[4.48199232346116,50.71609923416753],[4.49399143450051,50.72500383762298],[4.50580103018393,50.718987628501],[4.50594436653574,50.71776938401331],[4.5045317674726,50.71770196137982],[4.50492892153392,50.71432684810969]]],"type":"Polygon"}
+}

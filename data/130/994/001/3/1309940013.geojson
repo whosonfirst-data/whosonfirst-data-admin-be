@@ -1,0 +1,72 @@
+{
+  "id": 1309940013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.07417,50.15935,5.07417,50.15935",
+    "geom:latitude":50.15935,
+    "geom:longitude":5.07417,
+    "gn:admin1_code":"WAL",
+    "gn:admin2_code":"WNA",
+    "gn:admin3_code":"91.0",
+    "gn:admin4_code":"91114.0",
+    "gn:asciiname":"Vignee",
+    "gn:country_code":"BE",
+    "gn:dem":145,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2784723,
+    "gn:latitude":50.15935,
+    "gn:longitude":5.07417,
+    "gn:modification_date":"2017-03-25",
+    "gn:name":"Vign\u00e9e",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681699,
+        102191581,
+        85632997,
+        404227353,
+        102049919
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2784723
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"2dc9dbb7df842849debc7a5ea8406fec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049919,
+            "locality_id":1309940013,
+            "macroregion_id":404227353,
+            "region_id":85681699
+        }
+    ],
+    "wof:id":1309940013,
+    "wof:lastmodified":1536737703,
+    "wof:name":"Vignee",
+    "wof:parent_id":102049919,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.07417,
+    50.15935,
+    5.07417,
+    50.15935
+],
+  "geometry": {"coordinates":[5.07417,50.15935],"type":"Point"}
+}

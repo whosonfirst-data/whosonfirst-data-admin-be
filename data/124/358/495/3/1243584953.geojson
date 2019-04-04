@@ -1,0 +1,74 @@
+{
+  "id": 1243584953,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.96667,50.75,2.96667,50.75",
+    "geom:latitude":50.75,
+    "geom:longitude":2.96667,
+    "gn:admin1_code":"VLG",
+    "gn:admin2_code":"VWV",
+    "gn:asciiname":"Mai Cornet",
+    "gn:country_code":"BE",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2791915,
+    "gn:latitude":50.75,
+    "gn:longitude":2.96667,
+    "gn:modification_date":"2010-03-06",
+    "gn:name":"Mai Cornet",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85683445,
+        102191581,
+        85633147,
+        404228283,
+        1108826399,
+        136253037,
+        102071617
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2791915
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"e17a9cac57d02ee7caf4dac031702be3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "county_id":102071617,
+            "empire_id":136253037,
+            "locality_id":1243584953,
+            "macrocounty_id":404228283,
+            "macroregion_id":1108826399,
+            "region_id":85683445
+        }
+    ],
+    "wof:id":1243584953,
+    "wof:lastmodified":1536602968,
+    "wof:name":"Mai Cornet",
+    "wof:parent_id":102071617,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.96667,
+    50.75,
+    2.96667,
+    50.75
+],
+  "geometry": {"coordinates":[2.96667,50.75],"type":"Point"}
+}

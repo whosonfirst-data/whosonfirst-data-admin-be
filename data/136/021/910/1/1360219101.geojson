@@ -1,0 +1,72 @@
+{
+  "id": 1360219101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.28675,50.40593,4.28675,50.40593",
+    "geom:latitude":50.40593,
+    "geom:longitude":4.28675,
+    "gn:admin1_code":"WAL",
+    "gn:admin2_code":"WHT",
+    "gn:admin3_code":"56.0",
+    "gn:admin4_code":"56001.0",
+    "gn:asciiname":"Bruyere Polvee",
+    "gn:country_code":"BE",
+    "gn:dem":184,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2800844,
+    "gn:latitude":50.40593,
+    "gn:longitude":4.28675,
+    "gn:modification_date":"2017-03-25",
+    "gn:name":"Bruy\u00e8re Polv\u00e9e",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681723,
+        102191581,
+        85632997,
+        404227353,
+        102049923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2800844
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"8eb523b97130f3671ab446500ed16997",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049923,
+            "locality_id":1360219101,
+            "macroregion_id":404227353,
+            "region_id":85681723
+        }
+    ],
+    "wof:id":1360219101,
+    "wof:lastmodified":1536752285,
+    "wof:name":"Bruyere Polvee",
+    "wof:parent_id":102049923,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.28675,
+    50.40593,
+    4.28675,
+    50.40593
+],
+  "geometry": {"coordinates":[4.28675,50.40593],"type":"Point"}
+}

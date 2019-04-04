@@ -1,0 +1,64 @@
+{
+  "id": 1209139843,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.76667,50.6,5.76667,50.6",
+    "geom:latitude":50.6,
+    "geom:longitude":5.76667,
+    "gn:admin1_code":"WAL",
+    "gn:admin2_code":"WLG",
+    "gn:admin3_code":"63.0",
+    "gn:admin4_code":"63035.0",
+    "gn:asciiname":"Falhez",
+    "gn:country_code":"BE",
+    "gn:dem":271,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2798506,
+    "gn:latitude":50.6,
+    "gn:longitude":5.76667,
+    "gn:modification_date":"2017-03-25",
+    "gn:name":"Falhez",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2798506
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"d64ff1b0843022744be454d99d7dcab8",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "locality_id":1209139843
+        }
+    ],
+    "wof:id":1209139843,
+    "wof:lastmodified":1536296540,
+    "wof:name":"Falhez",
+    "wof:parent_id":85632997,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.76667,
+    50.6,
+    5.76667,
+    50.6
+],
+  "geometry": {"coordinates":[5.76667,50.6],"type":"Point"}
+}

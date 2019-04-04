@@ -1,0 +1,72 @@
+{
+  "id": 1193054719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.5013,49.7989,5.5013,49.7989",
+    "geom:latitude":49.7989,
+    "geom:longitude":5.5013,
+    "gn:admin1_code":"WAL",
+    "gn:admin2_code":"WLX",
+    "gn:admin3_code":"84.0",
+    "gn:admin4_code":"84033.0",
+    "gn:asciiname":"Lavaux",
+    "gn:country_code":"BE",
+    "gn:dem":407,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2793187,
+    "gn:latitude":49.7989,
+    "gn:longitude":5.5013,
+    "gn:modification_date":"2017-03-25",
+    "gn:name":"Lavaux",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681727,
+        102191581,
+        85632997,
+        404227353,
+        102049913
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2793187
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"4d70d39bc6fa5d1e9dbca1f4497a6fa8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049913,
+            "locality_id":1193054719,
+            "macroregion_id":404227353,
+            "region_id":85681727
+        }
+    ],
+    "wof:id":1193054719,
+    "wof:lastmodified":1536384052,
+    "wof:name":"Lavaux",
+    "wof:parent_id":102049913,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.5013,
+    49.7989,
+    5.5013,
+    49.7989
+],
+  "geometry": {"coordinates":[5.5013,49.7989],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1293820243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.48953,51.43832,4.48953,51.43832",
+    "geom:latitude":51.43832,
+    "geom:longitude":4.48953,
+    "gn:admin1_code":"VLG",
+    "gn:admin2_code":"VAN",
+    "gn:admin3_code":"11.0",
+    "gn:admin4_code":"11016.0",
+    "gn:asciiname":"Vissenheuvel",
+    "gn:country_code":"BE",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2784542,
+    "gn:latitude":51.43832,
+    "gn:longitude":4.48953,
+    "gn:modification_date":"2016-08-02",
+    "gn:name":"Vissenheuvel",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Vissehenheuvel",
+        "Vissenheuvel"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681715,
+        102191581,
+        1108830513,
+        85632997,
+        404227357,
+        102050005
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2784542
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"2784ff756f450c58de48e459358e037e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102050005,
+            "localadmin_id":1108830513,
+            "locality_id":1293820243,
+            "macroregion_id":404227357,
+            "region_id":85681715
+        }
+    ],
+    "wof:id":1293820243,
+    "wof:lastmodified":1537586890,
+    "wof:name":"Vissenheuvel",
+    "wof:parent_id":1108830513,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.48953,
+    51.43832,
+    4.48953,
+    51.43832
+],
+  "geometry": {"coordinates":[4.48953,51.43832],"type":"Point"}
+}

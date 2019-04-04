@@ -1,0 +1,72 @@
+{
+  "id": 1309740713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.23333,50.78333,4.23333,50.78333",
+    "geom:latitude":50.78333,
+    "geom:longitude":4.23333,
+    "gn:admin1_code":"WAL",
+    "gn:admin2_code":"WHT",
+    "gn:asciiname":"Volsem",
+    "gn:country_code":"BE",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2784416,
+    "gn:latitude":50.78333,
+    "gn:longitude":4.23333,
+    "gn:modification_date":"2010-03-06",
+    "gn:name":"Volsem",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681731,
+        102191581,
+        1108830529,
+        85632997,
+        404227357,
+        102049973
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2784416
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"c803f8548c3f27ce453b7728b7f787cc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049973,
+            "localadmin_id":1108830529,
+            "locality_id":1309740713,
+            "macroregion_id":404227357,
+            "region_id":85681731
+        }
+    ],
+    "wof:id":1309740713,
+    "wof:lastmodified":1537023991,
+    "wof:name":"Volsem",
+    "wof:parent_id":1108830529,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.23333,
+    50.78333,
+    4.23333,
+    50.78333
+],
+  "geometry": {"coordinates":[4.23333,50.78333],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1293135083,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.93333,49.81667,4.93333,49.81667",
+    "geom:latitude":49.81667,
+    "geom:longitude":4.93333,
+    "gn:admin1_code":"WAL",
+    "gn:admin2_code":"WNA",
+    "gn:admin3_code":"91.0",
+    "gn:admin4_code":"91143.0",
+    "gn:asciiname":"Harmansart",
+    "gn:country_code":"BE",
+    "gn:dem":365,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2796524,
+    "gn:latitude":49.81667,
+    "gn:longitude":4.93333,
+    "gn:modification_date":"2017-03-25",
+    "gn:name":"Harmansart",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681699,
+        102191581,
+        85632997,
+        404227353,
+        102049919
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2796524
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"010191c14911a3a5bb01ef5a37ea120d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049919,
+            "locality_id":1293135083,
+            "macroregion_id":404227353,
+            "region_id":85681699
+        }
+    ],
+    "wof:id":1293135083,
+    "wof:lastmodified":1536798258,
+    "wof:name":"Harmansart",
+    "wof:parent_id":102049919,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.93333,
+    49.81667,
+    4.93333,
+    49.81667
+],
+  "geometry": {"coordinates":[4.93333,49.81667],"type":"Point"}
+}

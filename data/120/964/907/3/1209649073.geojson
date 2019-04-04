@@ -1,0 +1,64 @@
+{
+  "id": 1209649073,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.09156,51.18795,5.09156,51.18795",
+    "geom:latitude":51.18795,
+    "geom:longitude":5.09156,
+    "gn:admin1_code":"VLG",
+    "gn:admin2_code":"VAN",
+    "gn:admin3_code":"13.0",
+    "gn:admin4_code":"13025.0",
+    "gn:asciiname":"Hofstede",
+    "gn:country_code":"BE",
+    "gn:dem":26,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2795615,
+    "gn:latitude":51.18795,
+    "gn:longitude":5.09156,
+    "gn:modification_date":"2016-08-02",
+    "gn:name":"Hofstede",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2795615
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"3e55a079293879f2a39719f4875adc27",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "locality_id":1209649073
+        }
+    ],
+    "wof:id":1209649073,
+    "wof:lastmodified":1536280638,
+    "wof:name":"Hofstede",
+    "wof:parent_id":85632997,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.0915599999999985,
+    51.18795,
+    5.0915599999999985,
+    51.18795
+],
+  "geometry": {"coordinates":[5.09156,51.18795],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1243202721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.78333,51.03333,4.78333,51.03333",
+    "geom:latitude":51.03333,
+    "geom:longitude":4.78333,
+    "gn:admin1_code":"VLG",
+    "gn:admin2_code":"VBR",
+    "gn:admin3_code":"24.0",
+    "gn:admin4_code":"24007.0",
+    "gn:asciiname":"Het Hoeksken",
+    "gn:country_code":"BE",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2795876,
+    "gn:latitude":51.03333,
+    "gn:longitude":4.78333,
+    "gn:modification_date":"2016-08-02",
+    "gn:name":"Het Hoeksken",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681731,
+        102191581,
+        1108830539,
+        85632997,
+        404227357,
+        102049969
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2795876
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"7dc34f085052b73ec92e31fbef379617",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049969,
+            "localadmin_id":1108830539,
+            "locality_id":1243202721,
+            "macroregion_id":404227357,
+            "region_id":85681731
+        }
+    ],
+    "wof:id":1243202721,
+    "wof:lastmodified":1536660151,
+    "wof:name":"Het Hoeksken",
+    "wof:parent_id":1108830539,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.78333,
+    51.03333,
+    4.78333,
+    51.03333
+],
+  "geometry": {"coordinates":[4.78333,51.03333],"type":"Point"}
+}

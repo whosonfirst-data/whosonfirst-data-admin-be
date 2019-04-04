@@ -1,0 +1,91 @@
+{
+  "id": 1326959773,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.63263,50.43444,4.63263,50.43444",
+    "geom:latitude":50.43444,
+    "geom:longitude":4.63263,
+    "gn:admin1_code":"WAL",
+    "gn:admin2_code":"WNA",
+    "gn:admin3_code":"92.0",
+    "gn:admin4_code":"92137.0",
+    "gn:asciiname":"Sambreville",
+    "gn:country_code":"BE",
+    "gn:dem":101,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7732186,
+    "gn:latitude":50.43444,
+    "gn:longitude":4.63263,
+    "gn:modification_date":"2011-03-25",
+    "gn:name":"Sambreville",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0421\u0430\u043c\u0431\u0440\u0435\u0432\u0438\u043b"
+    ],
+    "name:fas_x_preferred":[
+        "\u0633\u0645\u0628\u0631\u0648 \u0648\u06cc\u0644"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0421\u0430\u043c\u0431\u0440\u0432\u0438\u043b"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0430\u043c\u0431\u0440\u0432\u0438\u043b\u044c"
+    ],
+    "name:wln_x_preferred":[
+        "Sambveye"
+    ],
+    "name:zho_x_preferred":[
+        "\u6851\u5e03\u5c14\u7ef4\u8036"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681699,
+        102191581,
+        85632997,
+        404227353,
+        102049931
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7732186,
+        "wk:page":"Sambreville"
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"ec35a29d71e4c34ba2279aef999eeec3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049931,
+            "locality_id":1326959773,
+            "macroregion_id":404227353,
+            "region_id":85681699
+        }
+    ],
+    "wof:id":1326959773,
+    "wof:lastmodified":1537587088,
+    "wof:name":"Sambreville",
+    "wof:parent_id":102049931,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.63263,
+    50.43444,
+    4.63263,
+    50.43444
+],
+  "geometry": {"coordinates":[4.63263,50.43444],"type":"Point"}
+}

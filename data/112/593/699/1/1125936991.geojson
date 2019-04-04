@@ -1,0 +1,109 @@
+{
+  "id": 1125936991,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.69769,50.89188,4.69769,50.89188",
+    "geom:latitude":50.89188,
+    "geom:longitude":4.69769,
+    "gn:gn_country":"BE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"BE",
+    "lbl:latitude":50.89188,
+    "lbl:longitude":4.69769,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Wilsele"
+    ],
+    "name:eng_x_preferred":[
+        "Wilsele"
+    ],
+    "name:fre_x_preferred":[
+        "Wilsele"
+    ],
+    "name:hun_x_preferred":[
+        "Wilsele"
+    ],
+    "name:swe_x_preferred":[
+        "Wilsele"
+    ],
+    "name:unk_x_variant":[
+        "Leuven (Wilsele)"
+    ],
+    "qs_pg:aaroncc":"BE",
+    "qs_pg:gn_country":"BE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2783612,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Wilsele",
+    "qs_pg:name_adm0":"Belgique",
+    "qs_pg:name_adm1":"Vlaams Brabant",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":1,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1139436,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424757,
+    "qs_pg:woe_id":978937,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424757,
+    "woe:name_adm0":"Belgique",
+    "woe:name_adm1":"Vlaams Brabant",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85681731,
+        102191581,
+        1108830125,
+        85632997,
+        404227357,
+        102049969
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2783612,
+        "gp:id":978937,
+        "qs_pg:id":1139436,
+        "wd:id":"Q1817149"
+    },
+    "wof:country":"BE",
+    "wof:created":1497296997,
+    "wof:geomhash":"5d9d97c0f80376a620157b52c12e55f1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049969,
+            "localadmin_id":1108830125,
+            "locality_id":1125936991,
+            "macroregion_id":404227357,
+            "region_id":85681731
+        }
+    ],
+    "wof:id":1125936991,
+    "wof:lastmodified":1513899585,
+    "wof:name":"Wilsele",
+    "wof:parent_id":1108830125,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.69769,
+    50.89188,
+    4.69769,
+    50.89188
+],
+  "geometry": {"coordinates":[4.69769,50.89188],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1310036023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.29231,50.04562,4.29231,50.04562",
+    "geom:latitude":50.04562,
+    "geom:longitude":4.29231,
+    "gn:admin1_code":"WAL",
+    "gn:admin2_code":"WHT",
+    "gn:admin3_code":"56.0",
+    "gn:admin4_code":"56016.0",
+    "gn:asciiname":"Saint-Remy",
+    "gn:country_code":"BE",
+    "gn:dem":241,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2787339,
+    "gn:latitude":50.04562,
+    "gn:longitude":4.29231,
+    "gn:modification_date":"2011-08-09",
+    "gn:name":"Saint-Remy",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chimay (Saint-Remy)"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681723,
+        102191581,
+        85632997,
+        404227353,
+        102049923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2787339
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"5da9a718a81ac747bff896d8a4d459a9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049923,
+            "locality_id":1310036023,
+            "macroregion_id":404227353,
+            "region_id":85681723
+        }
+    ],
+    "wof:id":1310036023,
+    "wof:lastmodified":1537586925,
+    "wof:name":"Saint-Remy",
+    "wof:parent_id":102049923,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.29231,
+    50.04562,
+    4.29231,
+    50.04562
+],
+  "geometry": {"coordinates":[4.29231,50.04562],"type":"Point"}
+}

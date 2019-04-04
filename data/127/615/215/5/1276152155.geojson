@@ -1,0 +1,72 @@
+{
+  "id": 1276152155,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.63704,50.69316,4.63704,50.69316",
+    "geom:latitude":50.69316,
+    "geom:longitude":4.63704,
+    "gn:admin1_code":"WAL",
+    "gn:admin2_code":"WBR",
+    "gn:admin3_code":"25.0",
+    "gn:admin4_code":"25018.0",
+    "gn:asciiname":"Louvrange",
+    "gn:country_code":"BE",
+    "gn:dem":83,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2792064,
+    "gn:latitude":50.69316,
+    "gn:longitude":4.63704,
+    "gn:modification_date":"2017-03-25",
+    "gn:name":"Louvrange",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681693,
+        102191581,
+        85632997,
+        404227353,
+        102049945
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2792064
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"e8797ed294da1e47b8e00b6988149de8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049945,
+            "locality_id":1276152155,
+            "macroregion_id":404227353,
+            "region_id":85681693
+        }
+    ],
+    "wof:id":1276152155,
+    "wof:lastmodified":1537020636,
+    "wof:name":"Louvrange",
+    "wof:parent_id":102049945,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.63704,
+    50.69316,
+    4.63704,
+    50.69316
+],
+  "geometry": {"coordinates":[4.63704,50.69316],"type":"Point"}
+}

@@ -1,0 +1,112 @@
+{
+  "id": 1126053263,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.99861,50.57424,4.99861,50.57424",
+    "geom:latitude":50.57424,
+    "geom:longitude":4.99861,
+    "gn:gn_country":"BE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "gn:population":1374,
+    "iso:country":"BE",
+    "lbl:latitude":50.57424,
+    "lbl:longitude":4.99861,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bul_x_preferred":[
+        "\u0424\u043e\u0440\u0432\u0438\u043b\u0435"
+    ],
+    "name:dut_x_preferred":[
+        "Forville"
+    ],
+    "name:eng_x_preferred":[
+        "Forville"
+    ],
+    "name:fre_x_preferred":[
+        "Forville"
+    ],
+    "name:pol_x_preferred":[
+        "Forville"
+    ],
+    "name:swe_x_preferred":[
+        "Forville"
+    ],
+    "name:unk_x_variant":[
+        "Fernelmont (Forville)"
+    ],
+    "qs_pg:aaroncc":"BE",
+    "qs_pg:gn_country":"BE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2798106,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Forville",
+    "qs_pg:name_adm0":"Belgique",
+    "qs_pg:name_adm1":"Namur",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1060806,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424757,
+    "qs_pg:woe_id":969740,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424757,
+    "woe:name_adm0":"Belgique",
+    "woe:name_adm1":"Namur",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85681699,
+        102191581,
+        85632997,
+        404227353,
+        102049931
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2798106,
+        "gp:id":969740,
+        "qs_pg:id":1060806,
+        "wd:id":"Q1866454"
+    },
+    "wof:country":"BE",
+    "wof:created":1497302917,
+    "wof:geomhash":"d12a6e68d127014874d5ec89ef63c311",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049931,
+            "locality_id":1126053263,
+            "macroregion_id":404227353,
+            "region_id":85681699
+        }
+    ],
+    "wof:id":1126053263,
+    "wof:lastmodified":1513899269,
+    "wof:name":"Forville",
+    "wof:parent_id":102049931,
+    "wof:placetype":"locality",
+    "wof:population":1374,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.99861,
+    50.57424,
+    4.99861,
+    50.57424
+],
+  "geometry": {"coordinates":[4.99861,50.57424],"type":"Point"}
+}

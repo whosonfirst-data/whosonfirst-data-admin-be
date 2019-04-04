@@ -1,0 +1,78 @@
+{
+  "id": 1293135301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.12512,51.20945,3.12512,51.20945",
+    "geom:latitude":51.20945,
+    "geom:longitude":3.12512,
+    "gn:admin1_code":"VLG",
+    "gn:admin2_code":"VWV",
+    "gn:admin3_code":"31.0",
+    "gn:admin4_code":"31012.0",
+    "gn:asciiname":"Nieuwege",
+    "gn:country_code":"BE",
+    "gn:dem":2,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2790201,
+    "gn:latitude":51.20945,
+    "gn:longitude":3.12512,
+    "gn:modification_date":"2016-08-02",
+    "gn:name":"Nieuwege",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nieuweghe",
+        "Nieuwege"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681709,
+        102191581,
+        1108830157,
+        85632997,
+        404227357,
+        102050003
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2790201
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"cf52e00918ea0e504d2049fea83a6278",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102050003,
+            "localadmin_id":1108830157,
+            "locality_id":1293135301,
+            "macroregion_id":404227357,
+            "region_id":85681709
+        }
+    ],
+    "wof:id":1293135301,
+    "wof:lastmodified":1537586956,
+    "wof:name":"Nieuwege",
+    "wof:parent_id":1108830157,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.12512,
+    51.20945,
+    3.12512,
+    51.20945
+],
+  "geometry": {"coordinates":[3.12512,51.20945],"type":"Point"}
+}

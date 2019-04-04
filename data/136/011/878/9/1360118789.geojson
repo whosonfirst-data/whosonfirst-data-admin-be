@@ -1,0 +1,72 @@
+{
+  "id": 1360118789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.56667,50.5,4.56667,50.5",
+    "geom:latitude":50.5,
+    "geom:longitude":4.56667,
+    "gn:admin1_code":"WAL",
+    "gn:admin2_code":"WNA",
+    "gn:admin3_code":"92.0",
+    "gn:admin4_code":"92114.0",
+    "gn:asciiname":"Wisterzee",
+    "gn:country_code":"BE",
+    "gn:dem":150,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2783540,
+    "gn:latitude":50.5,
+    "gn:longitude":4.56667,
+    "gn:modification_date":"2017-03-25",
+    "gn:name":"Wisterz\u00e9e",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681699,
+        102191581,
+        85632997,
+        404227353,
+        102049931
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2783540
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"6fc2dd3a1f5983ea4d56ced05518d004",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049931,
+            "locality_id":1360118789,
+            "macroregion_id":404227353,
+            "region_id":85681699
+        }
+    ],
+    "wof:id":1360118789,
+    "wof:lastmodified":1536896915,
+    "wof:name":"Wisterzee",
+    "wof:parent_id":102049931,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.56667,
+    50.5,
+    4.56667,
+    50.5
+],
+  "geometry": {"coordinates":[4.56667,50.5],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1327060643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.96763,51.09829,2.96763,51.09829",
+    "geom:latitude":51.09829,
+    "geom:longitude":2.96763,
+    "gn:admin1_code":"VLG",
+    "gn:admin2_code":"VWV",
+    "gn:admin3_code":"32.0",
+    "gn:admin4_code":"32010.0",
+    "gn:asciiname":"Bisschophoek",
+    "gn:country_code":"BE",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2801896,
+    "gn:latitude":51.09829,
+    "gn:longitude":2.96763,
+    "gn:modification_date":"2016-08-02",
+    "gn:name":"Bisschophoek",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681709,
+        102191581,
+        1108830305,
+        85632997,
+        404227357,
+        102049987
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2801896
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"0be070108c28c942c21a29274bc4e1c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049987,
+            "localadmin_id":1108830305,
+            "locality_id":1327060643,
+            "macroregion_id":404227357,
+            "region_id":85681709
+        }
+    ],
+    "wof:id":1327060643,
+    "wof:lastmodified":1536720133,
+    "wof:name":"Bisschophoek",
+    "wof:parent_id":1108830305,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.96763,
+    51.09829000000001,
+    2.96763,
+    51.09829000000001
+],
+  "geometry": {"coordinates":[2.96763,51.09829000000001],"type":"Point"}
+}

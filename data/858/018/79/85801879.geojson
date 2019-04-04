@@ -1,0 +1,123 @@
+{
+  "id": 85801879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":20331952.368438,
+    "geom:bbox":"3.665007,51.014333,3.665007,51.014333",
+    "geom:latitude":51.014333,
+    "geom:longitude":3.665007,
+    "iso:country":"BE",
+    "lbl:latitude":51.014333,
+    "lbl:longitude":3.665007,
+    "mps:latitude":51.003501,
+    "mps:longitude":3.653669,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":14.0,
+    "mz:tier_locality":3,
+    "name:dut_x_preferred":[
+        "St. Denis-Westrem"
+    ],
+    "name:dut_x_variant":[
+        "Saint Denis-Westrem",
+        "Sint-Denijs-Westrem",
+        "St Denis-Westrem",
+        "St-Denijs-Westrem",
+        "St.-Denijs-Westrem"
+    ],
+    "name:unk_x_variant":[
+        "Saint Denis-Westrem",
+        "St. Denis-Westrem"
+    ],
+    "qs:gn_adm0_cc":"BE",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_local":2797656,
+    "qs:gn_nam_loc":"Gent, Gent, Gent, Oost-Vlaanderen, BE",
+    "qs:gn_namadm1":"VLG",
+    "qs:gn_name":"Sint-Denijs-Westrem",
+    "qs:local_max":6077,
+    "qs:local_sum":36126,
+    "qs:localhoods":17,
+    "qs:name":"St. Denis-Westrem",
+    "qs:name_adm0":"Belgique",
+    "qs:name_adm1":"Oost-Vlaanderen",
+    "qs:name_adm2":"Gent",
+    "qs:name_lau":"Gent",
+    "qs:name_local":"Gent",
+    "qs:photo_max":299,
+    "qs:photo_sum":865,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":53,
+    "qs:woe_adm0":23424757,
+    "qs:woe_adm1":7153304,
+    "qs:woe_adm2":12591774,
+    "qs:woe_lau":12602289,
+    "qs:woe_local":970013,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        85681733,
+        102191581,
+        1108830083,
+        85632997,
+        404227357,
+        101755699,
+        102049989
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2786713,
+        "gp:id":977125,
+        "qs:id":1145606,
+        "qs_pg:id":1145606,
+        "wd:id":"Q2538413",
+        "wk:page":"Sint-Denijs-Westrem"
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"1f467452844b4196cc6d9c96cee74ae9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049989,
+            "localadmin_id":1108830083,
+            "locality_id":101755699,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85801879,
+            "region_id":85681733
+        }
+    ],
+    "wof:id":85801879,
+    "wof:lang":[
+        "dut"
+    ],
+    "wof:lastmodified":1531862105,
+    "wof:name":"St. Denis-Westrem",
+    "wof:parent_id":101755699,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.665007,
+    51.014333,
+    3.665007,
+    51.014333
+],
+  "geometry": {"coordinates":[3.665007,51.014333],"type":"Point"}
+}

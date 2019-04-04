@@ -1,0 +1,72 @@
+{
+  "id": 1310439065,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.01623,50.68559,4.01623,50.68559",
+    "geom:latitude":50.68559,
+    "geom:longitude":4.01623,
+    "gn:admin1_code":"WAL",
+    "gn:admin2_code":"WHT",
+    "gn:admin3_code":"55.0",
+    "gn:admin4_code":"55010.0",
+    "gn:asciiname":"Le Roo",
+    "gn:country_code":"BE",
+    "gn:dem":45,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2792800,
+    "gn:latitude":50.68559,
+    "gn:longitude":4.01623,
+    "gn:modification_date":"2017-03-25",
+    "gn:name":"Le Roo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681723,
+        102191581,
+        85632997,
+        404227353,
+        102049943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2792800
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"d0229d1786a998e857993e6a4542eb93",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049943,
+            "locality_id":1310439065,
+            "macroregion_id":404227353,
+            "region_id":85681723
+        }
+    ],
+    "wof:id":1310439065,
+    "wof:lastmodified":1537012190,
+    "wof:name":"Le Roo",
+    "wof:parent_id":102049943,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.01623,
+    50.68559000000001,
+    4.01623,
+    50.68559000000001
+],
+  "geometry": {"coordinates":[4.01623,50.68559000000001],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1125396611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2017-05-19",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.32691,50.6795455,5.32691,50.6795455",
+    "geom:latitude":50.679546,
+    "geom:longitude":5.32691,
+    "gn:gn_country":null,
+    "iso:country":"BE",
+    "lbl:latitude":50.679546,
+    "lbl:longitude":5.32691,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"BE",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Remicourt",
+    "qs_pg:name_adm0":"Belgique",
+    "qs_pg:name_adm1":"Li\u00e8ge",
+    "qs_pg:photos":223,
+    "qs_pg:photos_1k":45,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":4,
+    "qs_pg:photos_all":245,
+    "qs_pg:photos_sr":4,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":891734,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
+    "qs_pg:woe_adm0":23424757,
+    "qs_pg:woe_id":12602773,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424757,
+    "woe:name_adm0":"Belgique",
+    "woe:name_adm1":"Li\u00e8ge",
+    "woe:placetype":"LocalAdmin",
+    "wof:belongsto":[
+        85632997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12602773,
+        "qs_pg:id":891734
+    },
+    "wof:country":"BE",
+    "wof:created":1497049051,
+    "wof:geomhash":"fafe551531aec93a683b2a6c93347cf9",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "localadmin_id":1125396611
+        }
+    ],
+    "wof:id":1125396611,
+    "wof:lastmodified":1505248187,
+    "wof:name":"Remicourt",
+    "wof:parent_id":-1,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.32691,
+    50.6795455,
+    5.32691,
+    50.6795455
+],
+  "geometry": {"coordinates":[5.32691,50.6795455],"type":"Point"}
+}

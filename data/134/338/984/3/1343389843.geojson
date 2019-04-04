@@ -1,0 +1,76 @@
+{
+  "id": 1343389843,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.38541,49.95869,4.38541,49.95869",
+    "geom:latitude":49.95869,
+    "geom:longitude":4.38541,
+    "gn:admin1_code":"WAL",
+    "gn:admin2_code":"WHT",
+    "gn:admin3_code":"56.0",
+    "gn:admin4_code":"56016.0",
+    "gn:asciiname":"Haute Nimelette",
+    "gn:country_code":"BE",
+    "gn:dem":325,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2796423,
+    "gn:latitude":49.95869,
+    "gn:longitude":4.38541,
+    "gn:modification_date":"2017-03-25",
+    "gn:name":"Haute Nimelette",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nimelette",
+        "Haute Nimelette"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681723,
+        102191581,
+        85632997,
+        404227353,
+        102049923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2796423
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"b5565736cc50832b2e3b096f48d3b7c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049923,
+            "locality_id":1343389843,
+            "macroregion_id":404227353,
+            "region_id":85681723
+        }
+    ],
+    "wof:id":1343389843,
+    "wof:lastmodified":1537587023,
+    "wof:name":"Haute Nimelette",
+    "wof:parent_id":102049923,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.38541,
+    49.95869,
+    4.38541,
+    49.95869
+],
+  "geometry": {"coordinates":[4.38541,49.95869],"type":"Point"}
+}

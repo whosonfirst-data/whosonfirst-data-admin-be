@@ -1,0 +1,76 @@
+{
+  "id": 1327066679,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.13507,50.59142,4.13507,50.59142",
+    "geom:latitude":50.59142,
+    "geom:longitude":4.13507,
+    "gn:admin1_code":"WAL",
+    "gn:admin2_code":"WHT",
+    "gn:admin3_code":"55.0",
+    "gn:admin4_code":"55004.0",
+    "gn:asciiname":"Barriere d'Ecaussinnes",
+    "gn:country_code":"BE",
+    "gn:dem":106,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6957883,
+    "gn:latitude":50.59142,
+    "gn:longitude":4.13507,
+    "gn:modification_date":"2017-03-25",
+    "gn:name":"Barri\u00e8re d\u2019\u00c9caussinnes",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Barri\u00e8re d\u2019\u00c9caussines",
+        "Barri\u00e8re d\u2019\u00c9caussinnes"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681723,
+        102191581,
+        85632997,
+        404227353,
+        102049943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6957883
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"e217ebddfd17f30a26c2b44929ad3388",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049943,
+            "locality_id":1327066679,
+            "macroregion_id":404227353,
+            "region_id":85681723
+        }
+    ],
+    "wof:id":1327066679,
+    "wof:lastmodified":1537587088,
+    "wof:name":"Barriere d'Ecaussinnes",
+    "wof:parent_id":102049943,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.13507,
+    50.59142,
+    4.13507,
+    50.59142
+],
+  "geometry": {"coordinates":[4.13507,50.59142],"type":"Point"}
+}

@@ -1,0 +1,109 @@
+{
+  "id": 85801683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000232,
+    "geom:area_square_m":1816280.492065,
+    "geom:bbox":"4.28796730364,50.7955193024,4.31293457958,50.8094059975",
+    "geom:latitude":50.801719,
+    "geom:longitude":4.300493,
+    "iso:country":"BE",
+    "lbl:latitude":50.801523,
+    "lbl:longitude":4.310989,
+    "mps:latitude":50.800727,
+    "mps:longitude":4.301504,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":13.0,
+    "mz:tier_locality":5,
+    "mz:tier_metro":30,
+    "name:dut_x_preferred":[
+        "Neerstalle"
+    ],
+    "name:unk_x_variant":[
+        "Neerstalle"
+    ],
+    "qs:gn_fcode":"PPL",
+    "qs:gn_local":0,
+    "qs:gn_namadm1":"VLG",
+    "qs:gn_name":"Neerstalle",
+    "qs:local_max":62861,
+    "qs:local_sum":208570,
+    "qs:localhoods":75,
+    "qs:name":"Neerstalle",
+    "qs:name_adm0":"Belgique",
+    "qs:name_adm1":"R\u00e9gion de Bruxelles-Capitale",
+    "qs:name_adm2":"Brussel Hoofdstad",
+    "qs:name_lau":"Vorst",
+    "qs:name_local":"Bruxelles",
+    "qs:photo_max":7,
+    "qs:photo_sum":32,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":11,
+    "qs:woe_adm0":23424757,
+    "qs:woe_adm1":55965974,
+    "qs:woe_adm2":12591762,
+    "qs:woe_lau":12602799,
+    "qs:woe_local":968019,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mz",
+    "wof:belongsto":[
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2790351,
+        "gp:id":974790,
+        "qs:id":213782,
+        "qs_pg:id":213782
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"8a6c9b07f98cfbd6dceea41611a971e3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801683,
+            "region_id":85681713
+        }
+    ],
+    "wof:id":85801683,
+    "wof:lang":[
+        "dut"
+    ],
+    "wof:lastmodified":1497313868,
+    "wof:name":"Neerstalle",
+    "wof:parent_id":101751573,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.287967303637,
+    50.79551930242515,
+    4.31293457957906,
+    50.80940599750006
+],
+  "geometry": {"coordinates":[[[4.30114746093847,50.80940593302496],[4.30114746093864,50.80593472680003],[4.30664062499994,50.80593472680003],[4.30664062500023,50.80593466230023],[4.30729326949262,50.8049019136747],[4.30744137632058,50.8037301532499],[4.3114449143178,50.80246319810006],[4.31213378906011,50.80246319810006],[4.31213378906011,50.80224519757077],[4.31213378906011,50.79899141150007],[4.31213378906011,50.7989913470001],[4.31293457957906,50.79772435949089],[4.31278633895033,50.79655167121435],[4.31213382981409,50.79551936690005],[4.31213378906011,50.79551930242515],[4.30664062500014,50.79551930242515],[4.30114746093767,50.79551930242515],[4.29565429687273,50.79551930242515],[4.29565429687173,50.79551936689997],[4.29565429687173,50.7989913470001],[4.29016113281017,50.7989913470001],[4.29016113281017,50.79899141150007],[4.29016113281017,50.80246313362532],[4.29016109206239,50.80246319810014],[4.287967303637,50.80593440435031],[4.29016113281017,50.80767023317516],[4.29455750454252,50.80767023317516],[4.2956542968721,50.80940593302496],[4.29565429687005,50.80940599750006],[4.30114746094006,50.80940599750006],[4.30114746093847,50.80940593302496]]],"type":"Polygon"}
+}

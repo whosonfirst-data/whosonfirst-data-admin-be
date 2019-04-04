@@ -1,0 +1,104 @@
+{
+  "id": 1125972095,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.43108,50.80802,5.43108,50.80802",
+    "geom:latitude":50.80802,
+    "geom:longitude":5.43108,
+    "gn:gn_country":"BE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"BE",
+    "lbl:latitude":50.80802,
+    "lbl:longitude":5.43108,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Overrepen"
+    ],
+    "name:eng_x_preferred":[
+        "Overrepen"
+    ],
+    "name:fre_x_preferred":[
+        "Overrepen"
+    ],
+    "name:hun_x_preferred":[
+        "Overrepen"
+    ],
+    "name:unk_x_variant":[
+        "Tongeren (Overrepen)"
+    ],
+    "qs_pg:aaroncc":"BE",
+    "qs_pg:gn_country":"BE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2789401,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Overrepen",
+    "qs_pg:name_adm0":"Belgique",
+    "qs_pg:name_adm1":"Limburg",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1116689,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424757,
+    "qs_pg:woe_id":975370,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424757,
+    "woe:name_adm0":"Belgique",
+    "woe:name_adm1":"Limburg",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85681705,
+        102191581,
+        1108830031,
+        85632997,
+        404227357,
+        1108782563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2789401,
+        "gp:id":975370,
+        "qs_pg:id":1116689,
+        "wd:id":"Q2150930"
+    },
+    "wof:country":"BE",
+    "wof:created":1497298210,
+    "wof:geomhash":"0dcfe2406c4effa8fa455bd9a08de86d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":1108782563,
+            "localadmin_id":1108830031,
+            "locality_id":1125972095,
+            "macroregion_id":404227357,
+            "region_id":85681705
+        }
+    ],
+    "wof:id":1125972095,
+    "wof:lastmodified":1513899456,
+    "wof:name":"Overrepen",
+    "wof:parent_id":1108830031,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.43108,
+    50.80802,
+    5.43108,
+    50.80802
+],
+  "geometry": {"coordinates":[5.43108,50.80802],"type":"Point"}
+}

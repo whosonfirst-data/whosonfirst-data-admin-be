@@ -1,0 +1,72 @@
+{
+  "id": 1292934889,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.77432,49.97026,5.77432,49.97026",
+    "geom:latitude":49.97026,
+    "geom:longitude":5.77432,
+    "gn:admin1_code":"WAL",
+    "gn:admin2_code":"WLX",
+    "gn:admin3_code":"82.0",
+    "gn:admin4_code":"82003.0",
+    "gn:asciiname":"Aux Sept Chemins",
+    "gn:country_code":"BE",
+    "gn:dem":544,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2802885,
+    "gn:latitude":49.97026,
+    "gn:longitude":5.77432,
+    "gn:modification_date":"2017-03-25",
+    "gn:name":"Aux Sept Chemins",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681727,
+        102191581,
+        85632997,
+        404227353,
+        102049915
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2802885
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"8766d21afdd08f9502550676d8806089",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049915,
+            "locality_id":1292934889,
+            "macroregion_id":404227353,
+            "region_id":85681727
+        }
+    ],
+    "wof:id":1292934889,
+    "wof:lastmodified":1537083716,
+    "wof:name":"Aux Sept Chemins",
+    "wof:parent_id":102049915,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.77432,
+    49.97026,
+    5.77432,
+    49.97026
+],
+  "geometry": {"coordinates":[5.77432,49.97026],"type":"Point"}
+}

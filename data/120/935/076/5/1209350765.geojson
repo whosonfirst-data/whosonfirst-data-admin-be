@@ -1,0 +1,64 @@
+{
+  "id": 1209350765,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.96481,50.96986,3.96481,50.96986",
+    "geom:latitude":50.96986,
+    "geom:longitude":3.96481,
+    "gn:admin1_code":"VLG",
+    "gn:admin2_code":"VOV",
+    "gn:admin3_code":"41.0",
+    "gn:admin4_code":"41034.0",
+    "gn:asciiname":"Gucht",
+    "gn:country_code":"BE",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2796875,
+    "gn:latitude":50.96986,
+    "gn:longitude":3.96481,
+    "gn:modification_date":"2016-08-02",
+    "gn:name":"Gucht",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2796875
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"12532469c9468e7da97d15ee048b0083",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "locality_id":1209350765
+        }
+    ],
+    "wof:id":1209350765,
+    "wof:lastmodified":1536289749,
+    "wof:name":"Gucht",
+    "wof:parent_id":85632997,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.96481,
+    50.96986,
+    3.96481,
+    50.96986
+],
+  "geometry": {"coordinates":[3.96481,50.96986],"type":"Point"}
+}

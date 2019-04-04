@@ -1,0 +1,109 @@
+{
+  "id": 1126058881,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.6366,50.85847,3.6366,50.85847",
+    "geom:latitude":50.85847,
+    "geom:longitude":3.6366,
+    "gn:gn_country":"BE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"BE",
+    "lbl:latitude":50.85847,
+    "lbl:longitude":3.6366,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Ename"
+    ],
+    "name:eng_x_preferred":[
+        "Ename"
+    ],
+    "name:fre_x_preferred":[
+        "Ename"
+    ],
+    "name:ger_x_preferred":[
+        "Ename"
+    ],
+    "name:hun_x_preferred":[
+        "Ename"
+    ],
+    "name:unk_x_variant":[
+        "Eename"
+    ],
+    "qs_pg:aaroncc":"BE",
+    "qs_pg:gn_country":"BE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2798766,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Ename",
+    "qs_pg:name_adm0":"Belgique",
+    "qs_pg:name_adm1":"Oost-Vlaanderen",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":17,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1072064,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424757,
+    "qs_pg:woe_id":969379,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424757,
+    "woe:name_adm0":"Belgique",
+    "woe:name_adm1":"Oost-Vlaanderen",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85681733,
+        102191581,
+        1108830311,
+        85632997,
+        404227357,
+        102049963
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2798766,
+        "gp:id":969379,
+        "qs_pg:id":1072064,
+        "wd:id":"Q1339941"
+    },
+    "wof:country":"BE",
+    "wof:created":1497303744,
+    "wof:geomhash":"65e4ef649b0ed753f7a1a15fde8e9416",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049963,
+            "localadmin_id":1108830311,
+            "locality_id":1126058881,
+            "macroregion_id":404227357,
+            "region_id":85681733
+        }
+    ],
+    "wof:id":1126058881,
+    "wof:lastmodified":1513899244,
+    "wof:name":"Ename",
+    "wof:parent_id":1108830311,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.6366,
+    50.85847,
+    3.6366,
+    50.85847
+],
+  "geometry": {"coordinates":[3.6366,50.85847],"type":"Point"}
+}

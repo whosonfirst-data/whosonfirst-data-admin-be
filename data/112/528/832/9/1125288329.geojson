@@ -1,0 +1,122 @@
+{
+  "id": 1125288329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2017-05-19",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.86729,50.46821,4.86729,50.46821",
+    "geom:latitude":50.46821,
+    "geom:longitude":4.86729,
+    "gn:gn_country":"BE",
+    "gn:gn_fcode":"ADM4",
+    "gn:gn_pop":109530,
+    "gn:population":110691,
+    "iso:country":"BE",
+    "lbl:latitude":50.46821,
+    "lbl:longitude":4.86729,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bre_x_preferred":[
+        "Arondisamant Namur"
+    ],
+    "name:bul_x_preferred":[
+        "\u041d\u0430\u043c\u044e\u0440"
+    ],
+    "name:deu_x_preferred":[
+        "Bezirk Namur"
+    ],
+    "name:eng_x_preferred":[
+        "Arrondissement of Namur"
+    ],
+    "name:est_x_preferred":[
+        "Namuri ringkond"
+    ],
+    "name:fas_x_preferred":[
+        "\u0634\u0647\u0631\u0633\u062a\u0627\u0646 \u0646\u0645\u0648\u0631"
+    ],
+    "name:fra_x_preferred":[
+        "Arrondissement administratif de Namur"
+    ],
+    "name:ita_x_preferred":[
+        "Arrondissement di Namur"
+    ],
+    "name:lim_x_preferred":[
+        "Name"
+    ],
+    "name:ltz_x_preferred":[
+        "Arrondissement Namouer"
+    ],
+    "name:unk_x_variant":[
+        "Namen"
+    ],
+    "name:zho_x_preferred":[
+        "\u90a3\u6155\u723e\u5340"
+    ],
+    "qs_pg:aaroncc":"BE",
+    "qs_pg:gn_country":"BE",
+    "qs_pg:gn_fcode":"ADM4",
+    "qs_pg:gn_id":2790472,
+    "qs_pg:gn_pop":109530,
+    "qs_pg:name":"Namur",
+    "qs_pg:name_adm0":"Belgique",
+    "qs_pg:name_adm1":"Namur",
+    "qs_pg:photos":1,
+    "qs_pg:photos_1k":1,
+    "qs_pg:photos_9k":32,
+    "qs_pg:photos_9r":15,
+    "qs_pg:photos_all":7280,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":9,
+    "qs_pg:qs_id":23787,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
+    "qs_pg:woe_adm0":23424757,
+    "qs_pg:woe_id":12602406,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424757,
+    "woe:name_adm0":"Belgique",
+    "woe:name_adm1":"Namur",
+    "woe:placetype":"LocalAdmin",
+    "wof:belongsto":[
+        85632997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2790472,
+        "gp:id":12602406,
+        "qs_pg:id":23787
+    },
+    "wof:country":"BE",
+    "wof:created":1497042806,
+    "wof:geomhash":"c4566275526a6775a4e5da1ea18ecfab",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "localadmin_id":1125288329
+        }
+    ],
+    "wof:id":1125288329,
+    "wof:lastmodified":1505185641,
+    "wof:name":"Namur",
+    "wof:parent_id":-1,
+    "wof:placetype":"localadmin",
+    "wof:population":110691,
+    "wof:population_rank":9,
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.86729,
+    50.46821,
+    4.86729,
+    50.46821
+],
+  "geometry": {"coordinates":[4.86729,50.46821],"type":"Point"}
+}

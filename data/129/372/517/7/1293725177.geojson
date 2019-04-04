@@ -1,0 +1,72 @@
+{
+  "id": 1293725177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.8914,50.67189,3.8914,50.67189",
+    "geom:latitude":50.67189,
+    "geom:longitude":3.8914,
+    "gn:admin1_code":"WAL",
+    "gn:admin2_code":"WHT",
+    "gn:admin3_code":"55.0",
+    "gn:admin4_code":"55039.0",
+    "gn:asciiname":"Stoquoi",
+    "gn:country_code":"BE",
+    "gn:dem":47,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2785997,
+    "gn:latitude":50.67189,
+    "gn:longitude":3.8914,
+    "gn:modification_date":"2017-03-25",
+    "gn:name":"Stoquoi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681723,
+        102191581,
+        85632997,
+        404227353,
+        102049943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2785997
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"2429e123185b0420365891176db51bc8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049943,
+            "locality_id":1293725177,
+            "macroregion_id":404227353,
+            "region_id":85681723
+        }
+    ],
+    "wof:id":1293725177,
+    "wof:lastmodified":1536942291,
+    "wof:name":"Stoquoi",
+    "wof:parent_id":102049943,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.8914,
+    50.67189000000001,
+    3.8914,
+    50.67189000000001
+],
+  "geometry": {"coordinates":[3.8914,50.67189000000001],"type":"Point"}
+}

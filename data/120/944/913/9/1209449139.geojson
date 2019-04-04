@@ -1,0 +1,68 @@
+{
+  "id": 1209449139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.70591,50.43821,3.70591,50.43821",
+    "geom:latitude":50.43821,
+    "geom:longitude":3.70591,
+    "gn:admin1_code":"WAL",
+    "gn:admin2_code":"WHT",
+    "gn:admin3_code":"53.0",
+    "gn:admin4_code":"53039.0",
+    "gn:asciiname":"Montroeul-sur-Haine",
+    "gn:cc2":"BE",
+    "gn:country_code":"BE",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2790770,
+    "gn:latitude":50.43821,
+    "gn:longitude":3.70591,
+    "gn:modification_date":"2009-01-18",
+    "gn:name":"Montroeul-sur-Haine",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Montroeul"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2790770
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"92257d82faca9504381acf68a8f75da4",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "locality_id":1209449139
+        }
+    ],
+    "wof:id":1209449139,
+    "wof:lastmodified":1537586961,
+    "wof:name":"Montroeul-sur-Haine",
+    "wof:parent_id":85632997,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.70591,
+    50.43821,
+    3.70591,
+    50.43821
+],
+  "geometry": {"coordinates":[3.70591,50.43821],"type":"Point"}
+}

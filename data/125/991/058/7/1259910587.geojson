@@ -1,0 +1,74 @@
+{
+  "id": 1259910587,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.88555,50.85721,2.88555,50.85721",
+    "geom:latitude":50.85721,
+    "geom:longitude":2.88555,
+    "gn:admin1_code":"VLG",
+    "gn:admin2_code":"VWV",
+    "gn:admin3_code":"33.0",
+    "gn:admin4_code":"33011.0",
+    "gn:asciiname":"Kaaie",
+    "gn:country_code":"BE",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2794841,
+    "gn:latitude":50.85721,
+    "gn:longitude":2.88555,
+    "gn:modification_date":"2016-08-02",
+    "gn:name":"Kaaie",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681709,
+        102191581,
+        1108830595,
+        85632997,
+        404227357,
+        102049971
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2794841
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"58935ef954645f24f4e2be379c0586f4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049971,
+            "localadmin_id":1108830595,
+            "locality_id":1259910587,
+            "macroregion_id":404227357,
+            "region_id":85681709
+        }
+    ],
+    "wof:id":1259910587,
+    "wof:lastmodified":1536740060,
+    "wof:name":"Kaaie",
+    "wof:parent_id":1108830595,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.88555,
+    50.85721,
+    2.88555,
+    50.85721
+],
+  "geometry": {"coordinates":[2.88555,50.85721],"type":"Point"}
+}

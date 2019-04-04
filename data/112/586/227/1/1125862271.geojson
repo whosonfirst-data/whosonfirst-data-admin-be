@@ -1,0 +1,83 @@
+{
+  "id": 1125862271,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.43209,50.50524,4.43209,50.50524",
+    "geom:latitude":50.50524,
+    "geom:longitude":4.43209,
+    "gn:gn_country":"BE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":7592,
+    "gn:population":7592,
+    "iso:country":"BE",
+    "lbl:latitude":50.50524,
+    "lbl:longitude":4.43209,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:unk_x_variant":[
+        "Brunehaut"
+    ],
+    "qs_pg:aaroncc":"BE",
+    "qs_pg:gn_country":"BE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2800883,
+    "qs_pg:gn_pop":7592,
+    "qs_pg:name":"Brunehault",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":5,
+    "qs_pg:qs_id":92733,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681723,
+        102191581,
+        85632997,
+        404227353,
+        102049927
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2800883,
+        "qs_pg:id":92733
+    },
+    "wof:country":"BE",
+    "wof:created":1497293877,
+    "wof:geomhash":"a4411198c212a0c2ad7262f2c3101fff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049927,
+            "locality_id":1125862271,
+            "macroregion_id":404227353,
+            "region_id":85681723
+        }
+    ],
+    "wof:id":1125862271,
+    "wof:lastmodified":1509396706,
+    "wof:name":"Brunehault",
+    "wof:parent_id":102049927,
+    "wof:placetype":"locality",
+    "wof:population":7592,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.43209,
+    50.50524,
+    4.43209,
+    50.50524
+],
+  "geometry": {"coordinates":[4.43209,50.50524],"type":"Point"}
+}

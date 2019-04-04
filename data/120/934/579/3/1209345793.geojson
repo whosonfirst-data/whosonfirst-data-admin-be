@@ -1,0 +1,67 @@
+{
+  "id": 1209345793,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.83829,50.02633,5.83829,50.02633",
+    "geom:latitude":50.02633,
+    "geom:longitude":5.83829,
+    "gn:admin1_code":"WAL",
+    "gn:admin2_code":"WLX",
+    "gn:admin3_code":"82.0",
+    "gn:admin4_code":"82003.0",
+    "gn:asciiname":"Longvilly",
+    "gn:country_code":"BE",
+    "gn:dem":438,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2792121,
+    "gn:latitude":50.02633,
+    "gn:longitude":5.83829,
+    "gn:modification_date":"2011-10-14",
+    "gn:name":"Longvilly",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bastogne (Longvilly)"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2792121
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"a6310702761db404fe3041ef9122bf6e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "locality_id":1209345793
+        }
+    ],
+    "wof:id":1209345793,
+    "wof:lastmodified":1537586975,
+    "wof:name":"Longvilly",
+    "wof:parent_id":85632997,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.83829,
+    50.02633,
+    5.83829,
+    50.02633
+],
+  "geometry": {"coordinates":[5.83829,50.02633],"type":"Point"}
+}

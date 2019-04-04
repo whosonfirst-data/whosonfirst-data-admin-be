@@ -1,0 +1,76 @@
+{
+  "id": 1125307555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2017-05-19",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.080747,50.742321,5.080747,50.742321",
+    "geom:latitude":50.742321,
+    "geom:longitude":5.080747,
+    "gn:gn_country":null,
+    "iso:country":"BE",
+    "lbl:latitude":50.742321,
+    "lbl:longitude":5.080747,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"BE",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Landen",
+    "qs_pg:name_adm0":"Belgique",
+    "qs_pg:name_adm1":"Vlaams Brabant",
+    "qs_pg:photos":3,
+    "qs_pg:photos_1k":1,
+    "qs_pg:photos_9k":8,
+    "qs_pg:photos_9r":9,
+    "qs_pg:photos_all":1804,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1106207,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
+    "qs_pg:woe_adm0":23424757,
+    "qs_pg:woe_id":12602463,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424757,
+    "woe:name_adm0":"Belgique",
+    "woe:name_adm1":"Vlaams Brabant",
+    "woe:placetype":"LocalAdmin",
+    "wof:belongsto":[
+        85632997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12602463,
+        "qs_pg:id":1106207
+    },
+    "wof:country":"BE",
+    "wof:created":1497043786,
+    "wof:geomhash":"7f6523eebb95b552a3a831b35a9b747f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "localadmin_id":1125307555
+        }
+    ],
+    "wof:id":1125307555,
+    "wof:lastmodified":1505248013,
+    "wof:name":"Landen",
+    "wof:parent_id":-1,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.080747,
+    50.742321,
+    5.080747,
+    50.742321
+],
+  "geometry": {"coordinates":[5.080747,50.742321],"type":"Point"}
+}

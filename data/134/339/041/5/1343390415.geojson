@@ -1,0 +1,72 @@
+{
+  "id": 1343390415,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.77378,50.72832,3.77378,50.72832",
+    "geom:latitude":50.72832,
+    "geom:longitude":3.77378,
+    "gn:admin1_code":"WAL",
+    "gn:admin2_code":"WHT",
+    "gn:admin3_code":"55.0",
+    "gn:admin4_code":"55023.0",
+    "gn:asciiname":"Le Ponchau",
+    "gn:country_code":"BE",
+    "gn:dem":27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2792821,
+    "gn:latitude":50.72832,
+    "gn:longitude":3.77378,
+    "gn:modification_date":"2017-03-25",
+    "gn:name":"Le Ponchau",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681723,
+        102191581,
+        85632997,
+        404227353,
+        102049943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2792821
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"4086fac2349415d5f7ecd26f84a68f26",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049943,
+            "locality_id":1343390415,
+            "macroregion_id":404227353,
+            "region_id":85681723
+        }
+    ],
+    "wof:id":1343390415,
+    "wof:lastmodified":1536846271,
+    "wof:name":"Le Ponchau",
+    "wof:parent_id":102049943,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.77378,
+    50.72832,
+    3.77378,
+    50.72832
+],
+  "geometry": {"coordinates":[3.77378,50.72832],"type":"Point"}
+}

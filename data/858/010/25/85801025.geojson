@@ -1,0 +1,103 @@
+{
+  "id": 85801025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000074,
+    "geom:area_square_m":575905.250983,
+    "geom:bbox":"4.33135986328,50.8319629612,4.34371948242,50.8406358209",
+    "geom:latitude":50.83615,
+    "geom:longitude":4.336383,
+    "iso:country":"BE",
+    "lbl:latitude":50.836425,
+    "lbl:longitude":4.336083,
+    "mps:latitude":50.835593,
+    "mps:longitude":4.336383,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":1,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":13.0,
+    "mz:tier_locality":5,
+    "mz:tier_metro":30,
+    "name:nld_x_preferred":[
+        "Curegem"
+    ],
+    "name:unk_x_variant":[
+        "Curegem"
+    ],
+    "qs:gn_id":0,
+    "qs:gn_local":0,
+    "qs:id":0,
+    "qs:local_max":62861,
+    "qs:local_sum":208570,
+    "qs:localhoods":75,
+    "qs:name":"Curegem",
+    "qs:name_adm0":"Belgique",
+    "qs:name_adm1":"R\u00e9gion de Bruxelles-Capitale",
+    "qs:name_adm2":"Brussel Hoofdstad",
+    "qs:name_lau":"Anderlecht",
+    "qs:name_local":"Bruxelles",
+    "qs:photo_max":201,
+    "qs:photo_sum":2076,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":31,
+    "qs:woe_adm0":23424757,
+    "qs:woe_adm1":55965974,
+    "qs:woe_adm2":12591762,
+    "qs:woe_lau":12602403,
+    "qs:woe_local":968019,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mz",
+    "wof:belongsto":[
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":968592
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"f4a1d34ab62aa235a4fc07643f59ce47",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801025,
+            "region_id":85681713
+        }
+    ],
+    "wof:id":85801025,
+    "wof:lang":[
+        "dut"
+    ],
+    "wof:lastmodified":1527270440,
+    "wof:name":"Curegem",
+    "wof:parent_id":101751573,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.33135986327997,
+    50.83196296119804,
+    4.34371948242261,
+    50.84063582093357
+],
+  "geometry": {"coordinates":[[[4.34234619141006,50.83369767100005],[4.34186592704606,50.83369766508763],[4.34007987379951,50.83369766722281],[4.33959960937872,50.83293723330901],[4.3395996093783,50.83196296436687],[4.33685302734128,50.83196296119804],[4.33410644531023,50.83196296436687],[4.33410644531014,50.8329372333131],[4.33362618083564,50.83369766717094],[4.33135986328006,50.83369766485724],[4.33135986327997,50.8354322989377],[4.33135986328006,50.83716687043774],[4.33135986327997,50.83890137745014],[4.33135986328006,50.84063581869403],[4.33410644531014,50.84063582093357],[4.33685302734148,50.84063581869403],[4.33685302734207,50.83890137936685],[4.33959960937884,50.83890137610855],[4.33959960937935,50.83792733040927],[4.3400798551769,50.83716687097517],[4.34234619141023,50.83716686909402],[4.34234619141014,50.83619274673408],[4.34371948242261,50.83546791425603],[4.34371948242136,50.83543230677942],[4.34371948242173,50.83456499450035],[4.34234619141006,50.83456499411962],[4.34234619141006,50.83369767100005]]],"type":"Polygon"}
+}

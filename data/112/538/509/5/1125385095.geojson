@@ -1,0 +1,72 @@
+{
+  "id": 1125385095,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2017-05-19",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.4,50.71667,5.4,50.71667",
+    "geom:latitude":50.71667,
+    "geom:longitude":5.4,
+    "gn:gn_country":"BE",
+    "gn:gn_fcode":"ADM4",
+    "gn:gn_pop":2990,
+    "gn:population":2990,
+    "iso:country":"BE",
+    "lbl:latitude":50.71667,
+    "lbl:longitude":5.4,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"BE",
+    "qs_pg:gn_country":"BE",
+    "qs_pg:gn_fcode":"ADM4",
+    "qs_pg:gn_id":2799998,
+    "qs_pg:gn_pop":2990,
+    "qs_pg:name":"Crisn\u00e9e",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":1029265,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85632997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2799998,
+        "qs_pg:id":1029265
+    },
+    "wof:country":"BE",
+    "wof:created":1497048315,
+    "wof:geomhash":"14b556a61edb4b22dfd5e31feefeafca",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "localadmin_id":1125385095
+        }
+    ],
+    "wof:id":1125385095,
+    "wof:lastmodified":1505185645,
+    "wof:name":"Crisn\u00e9e",
+    "wof:parent_id":-1,
+    "wof:placetype":"localadmin",
+    "wof:population":2990,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.4,
+    50.71667,
+    5.4,
+    50.71667
+],
+  "geometry": {"coordinates":[5.4,50.71667],"type":"Point"}
+}

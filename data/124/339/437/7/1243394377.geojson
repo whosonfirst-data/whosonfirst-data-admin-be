@@ -1,0 +1,72 @@
+{
+  "id": 1243394377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.45574,50.87423,5.45574,50.87423",
+    "geom:latitude":50.87423,
+    "geom:longitude":5.45574,
+    "gn:admin1_code":"WAL",
+    "gn:admin2_code":"WLG",
+    "gn:asciiname":"Dries",
+    "gn:country_code":"BE",
+    "gn:dem":52,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2799164,
+    "gn:latitude":50.87423,
+    "gn:longitude":5.45574,
+    "gn:modification_date":"2011-02-28",
+    "gn:name":"Dries",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681705,
+        102191581,
+        1108830661,
+        85632997,
+        404227357,
+        1108782563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2799164
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"9df3bafd06ba88ef578ac41cf63640eb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":1108782563,
+            "localadmin_id":1108830661,
+            "locality_id":1243394377,
+            "macroregion_id":404227357,
+            "region_id":85681705
+        }
+    ],
+    "wof:id":1243394377,
+    "wof:lastmodified":1536880004,
+    "wof:name":"Dries",
+    "wof:parent_id":1108830661,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.45574,
+    50.87423,
+    5.45574,
+    50.87423
+],
+  "geometry": {"coordinates":[5.45574,50.87423],"type":"Point"}
+}

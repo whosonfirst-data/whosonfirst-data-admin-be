@@ -1,0 +1,82 @@
+{
+  "id": 1125862235,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.86098,50.88914,3.86098,50.88914",
+    "geom:latitude":50.88914,
+    "geom:longitude":3.86098,
+    "gn:gn_country":"BE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":3000,
+    "gn:population":3000,
+    "iso:country":"BE",
+    "lbl:latitude":50.88914,
+    "lbl:longitude":3.86098,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"BE",
+    "qs_pg:gn_country":"BE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2789167,
+    "qs_pg:gn_pop":3000,
+    "qs_pg:name":"Perre",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":92591,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681733,
+        102191581,
+        1108830361,
+        85632997,
+        404227357,
+        102049967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2789167,
+        "qs_pg:id":92591
+    },
+    "wof:country":"BE",
+    "wof:created":1497293875,
+    "wof:geomhash":"bfe3b5603cbccd5ac1d5901f8a26990f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049967,
+            "localadmin_id":1108830361,
+            "locality_id":1125862235,
+            "macroregion_id":404227357,
+            "region_id":85681733
+        }
+    ],
+    "wof:id":1125862235,
+    "wof:lastmodified":1509396701,
+    "wof:name":"Perre",
+    "wof:parent_id":1108830361,
+    "wof:placetype":"locality",
+    "wof:population":3000,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.86098,
+    50.88914,
+    3.86098,
+    50.88914
+],
+  "geometry": {"coordinates":[3.86098,50.88914],"type":"Point"}
+}

@@ -1,0 +1,81 @@
+{
+  "id": 101913557,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00001,
+    "geom:area_square_m":79424.900074,
+    "geom:bbox":"5.25531183267,51.1527024171,5.2617767216,51.1562807939",
+    "geom:latitude":51.153721,
+    "geom:longitude":5.258812,
+    "iso:country":"BE",
+    "lbl:latitude":51.153742,
+    "lbl:longitude":5.258812,
+    "mps:latitude":51.153742,
+    "mps:longitude":5.258812,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "qs:a0":"Belgi\u00eb#Belgique#Belgien",
+    "qs:a1":"*Antwerpen",
+    "qs:a1r":"0Vlaams Gewest",
+    "qs:a2":"Turnhout",
+    "qs:adm0":"Belgi\u00eb#Belgique#Belgien",
+    "qs:id":0,
+    "qs:la":"Houthalen-Helchteren",
+    "qs:la_lc":"*BE272039",
+    "qs:level":"locality",
+    "qs:loc":"Kerkhoven",
+    "qs:loc_alt":"Kerkhoven",
+    "qs:pop":0,
+    "qs:source":"LCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-multi-in-poly-resolved",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":25,
+    "wof:belongsto":[
+        85681715,
+        102191581,
+        1108830443,
+        85632997,
+        404227357,
+        102050007
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2794542,
+        "gp:id":971980,
+        "qs:id":186908
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"1daadabd0d09a0d13baee572ea0b76d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102050007,
+            "localadmin_id":1108830443,
+            "locality_id":101913557,
+            "macroregion_id":404227357,
+            "region_id":85681715
+        }
+    ],
+    "wof:id":101913557,
+    "wof:lastmodified":1527688559,
+    "wof:name":"Kerkhoven",
+    "wof:parent_id":1108830443,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.2553118326673,
+    51.15270241712216,
+    5.26177672159514,
+    51.15628079385272
+],
+  "geometry": {"coordinates":[[[5.26177672159514,51.15296266053332],[5.25540416281154,51.15270241712216],[5.2553118326673,51.15359910941248],[5.25673856887806,51.1536574101151],[5.25664626185471,51.15455410342969],[5.26092657307413,51.15472890440128],[5.2607669165273,51.15628079385272],[5.26122513808582,51.15503109869292],[5.26177672159514,51.15296266053332]]],"type":"Polygon"}
+}

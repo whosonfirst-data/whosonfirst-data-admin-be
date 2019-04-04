@@ -1,0 +1,64 @@
+{
+  "id": 1209248609,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.1901,50.28158,4.1901,50.28158",
+    "geom:latitude":50.28158,
+    "geom:longitude":4.1901,
+    "gn:admin1_code":"WAL",
+    "gn:admin2_code":"WHT",
+    "gn:admin3_code":"56.0",
+    "gn:admin4_code":"56022.0",
+    "gn:asciiname":"Montignies-Saint-Christophe",
+    "gn:country_code":"BE",
+    "gn:dem":153,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2790800,
+    "gn:latitude":50.28158,
+    "gn:longitude":4.1901,
+    "gn:modification_date":"2012-02-02",
+    "gn:name":"Montignies-Saint-Christophe",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2790800
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"5ae9464d2de419f0642f8debc6445ebc",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "locality_id":1209248609
+        }
+    ],
+    "wof:id":1209248609,
+    "wof:lastmodified":1536293078,
+    "wof:name":"Montignies-Saint-Christophe",
+    "wof:parent_id":85632997,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.1901,
+    50.28158,
+    4.1901,
+    50.28158
+],
+  "geometry": {"coordinates":[4.1901,50.28158],"type":"Point"}
+}

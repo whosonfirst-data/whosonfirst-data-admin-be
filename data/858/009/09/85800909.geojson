@@ -1,0 +1,110 @@
+{
+  "id": 85800909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":7994686.602985,
+    "geom:bbox":"5.648996,50.682235,5.648996,50.682235",
+    "geom:latitude":50.682235,
+    "geom:longitude":5.648996,
+    "gn:id":"",
+    "iso:country":"BE",
+    "lbl:latitude":50.682235,
+    "lbl:longitude":5.648996,
+    "mps:latitude":50.682949,
+    "mps:longitude":5.646062,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":14.0,
+    "mz:tier_locality":1,
+    "name:fra_x_preferred":[
+        "Bois-de-Pontisse"
+    ],
+    "name:unk_x_variant":[
+        "Bois-de-Pontisse"
+    ],
+    "qs:gn_adm0_cc":"BE",
+    "qs:gn_id":0,
+    "qs:gn_local":2795930,
+    "qs:gn_nam_loc":"Herstal, Herstal, Li\u00e8ge, Li\u00e8ge, BE",
+    "qs:gn_namadm1":"WAL",
+    "qs:local_max":128,
+    "qs:local_sum":163,
+    "qs:localhoods":3,
+    "qs:name":"Bois-de-Pontisse",
+    "qs:name_adm0":"Belgique",
+    "qs:name_adm1":"Li\u00e8ge",
+    "qs:name_adm2":"Li\u00e8ge",
+    "qs:name_lau":"Herstal",
+    "qs:name_local":"Herstal",
+    "qs:photo_max":37,
+    "qs:photo_sum":128,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":18,
+    "qs:woe_adm0":23424757,
+    "qs:woe_adm1":7153300,
+    "qs:woe_adm2":12591793,
+    "qs:woe_lau":12602637,
+    "qs:woe_local":971074,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        85681691,
+        102191581,
+        85632997,
+        404227353,
+        101748083,
+        102049941
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":967526,
+        "qs:id":1102952,
+        "qs_pg:id":1102952
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"8611dace679013517a519f1554833d88",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049941,
+            "locality_id":101748083,
+            "macroregion_id":404227353,
+            "neighbourhood_id":85800909,
+            "region_id":85681691
+        }
+    ],
+    "wof:id":85800909,
+    "wof:lang":[
+        "fre"
+    ],
+    "wof:lastmodified":1531862049,
+    "wof:name":"Bois-de-Pontisse",
+    "wof:parent_id":101748083,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.648996,
+    50.682235,
+    5.648996,
+    50.682235
+],
+  "geometry": {"coordinates":[5.648996,50.682235],"type":"Point"}
+}

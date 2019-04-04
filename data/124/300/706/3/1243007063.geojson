@@ -1,0 +1,74 @@
+{
+  "id": 1243007063,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.97357,50.90904,3.97357,50.90904",
+    "geom:latitude":50.90904,
+    "geom:longitude":3.97357,
+    "gn:admin1_code":"VLG",
+    "gn:admin2_code":"VOV",
+    "gn:admin3_code":"41.0",
+    "gn:admin4_code":"41082.0",
+    "gn:asciiname":"Oostdorp",
+    "gn:country_code":"BE",
+    "gn:dem":40,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8128767,
+    "gn:latitude":50.90904,
+    "gn:longitude":3.97357,
+    "gn:modification_date":"2016-08-02",
+    "gn:name":"Oostdorp",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681733,
+        102191581,
+        1108830215,
+        85632997,
+        404227357,
+        102049967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8128767
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"e5ea04860e71a2eb7d4a64c6fc945d8a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049967,
+            "localadmin_id":1108830215,
+            "locality_id":1243007063,
+            "macroregion_id":404227357,
+            "region_id":85681733
+        }
+    ],
+    "wof:id":1243007063,
+    "wof:lastmodified":1536942630,
+    "wof:name":"Oostdorp",
+    "wof:parent_id":1108830215,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.97357,
+    50.90904000000001,
+    3.97357,
+    50.90904000000001
+],
+  "geometry": {"coordinates":[3.97357,50.90904000000001],"type":"Point"}
+}

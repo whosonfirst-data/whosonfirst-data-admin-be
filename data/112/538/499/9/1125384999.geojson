@@ -1,0 +1,84 @@
+{
+  "id": 1125384999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2017-05-19",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.29378,50.95,3.29378,50.95",
+    "geom:latitude":50.95,
+    "geom:longitude":3.29378,
+    "gn:gn_country":"BE",
+    "gn:gn_fcode":"ADM4",
+    "gn:gn_pop":11107,
+    "gn:population":11107,
+    "iso:country":"BE",
+    "lbl:latitude":50.95,
+    "lbl:longitude":3.29378,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bul_x_preferred":[
+        "\u041c\u044c\u043e\u043b\u0435\u0431\u0435\u043a\u0435"
+    ],
+    "name:fas_x_preferred":[
+        "\u0645\u0648\u0644\u0648\u0628\u0648\u06a9"
+    ],
+    "name:vls_x_preferred":[
+        "Mullebeke"
+    ],
+    "name:zho_x_preferred":[
+        "\u9ed8\u83b1\u8d1d\u514b"
+    ],
+    "qs_pg:aaroncc":"BE",
+    "qs_pg:gn_country":"BE",
+    "qs_pg:gn_fcode":"ADM4",
+    "qs_pg:gn_id":2791256,
+    "qs_pg:gn_pop":11107,
+    "qs_pg:name":"Meulebeke",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":6,
+    "qs_pg:qs_id":1029191,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85632997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2791256,
+        "qs_pg:id":1029191
+    },
+    "wof:country":"BE",
+    "wof:created":1497048309,
+    "wof:geomhash":"c9e652dcb9811be35858dd60c2e656dc",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "localadmin_id":1125384999
+        }
+    ],
+    "wof:id":1125384999,
+    "wof:lastmodified":1505185642,
+    "wof:name":"Meulebeke",
+    "wof:parent_id":-1,
+    "wof:placetype":"localadmin",
+    "wof:population":11107,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.29378,
+    50.95,
+    3.29378,
+    50.95
+],
+  "geometry": {"coordinates":[3.29378,50.95],"type":"Point"}
+}

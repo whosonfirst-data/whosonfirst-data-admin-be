@@ -1,0 +1,81 @@
+{
+  "id": 101913593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000041,
+    "geom:area_square_m":316949.893355,
+    "geom:bbox":"5.14015655288,50.904342213,5.15321083084,50.9138477087",
+    "geom:latitude":50.909651,
+    "geom:longitude":5.146872,
+    "iso:country":"BE",
+    "lbl:latitude":50.910914,
+    "lbl:longitude":5.146773,
+    "mps:latitude":50.910914,
+    "mps:longitude":5.146773,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:a0":"Belgi\u00eb#Belgique#Belgien",
+    "qs:a1":"*Vlaams Brabant",
+    "qs:a1r":"0Vlaams Gewest",
+    "qs:a2":"Leuven",
+    "qs:adm0":"Belgi\u00eb#Belgique#Belgien",
+    "qs:id":0,
+    "qs:la":"Houthalen-Helchteren",
+    "qs:la_lc":"*BE272039",
+    "qs:level":"locality",
+    "qs:loc":"Donk",
+    "qs:loc_alt":"Donk",
+    "qs:pop":0,
+    "qs:source":"LCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-multi-in-poly-resolved",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":142,
+    "wof:belongsto":[
+        85681731,
+        102191581,
+        1108830543,
+        85632997,
+        404227357,
+        102049969
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2799310,
+        "gp:id":971599,
+        "wd:id":"Q406010"
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"d4fd7556f16de7e55e000f4fa20f384c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049969,
+            "localadmin_id":1108830543,
+            "locality_id":101913593,
+            "macroregion_id":404227357,
+            "region_id":85681731
+        }
+    ],
+    "wof:id":101913593,
+    "wof:lastmodified":1527688558,
+    "wof:name":"Donk",
+    "wof:parent_id":1108830543,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.14015655287818,
+    50.90434221304952,
+    5.15321083083688,
+    50.91384770866409
+],
+  "geometry": {"coordinates":[[[5.14157581557026,50.91384770866409],[5.14166963544977,50.912951068729],[5.14308887428666,50.91301071875796],[5.14318266247489,50.9121140772051],[5.15158266974402,50.91246670978529],[5.15311723753808,50.91253113099179],[5.15321083083688,50.91163447990419],[5.15161643718369,50.91156758681348],[5.1489532173623,50.91145585091721],[5.14923421515675,50.90876590774837],[5.15065333471568,50.90882546418482],[5.15084058977266,50.90703216461958],[5.15178528154564,50.90707178123984],[5.15188658772615,50.90437430952642],[5.15112143874842,50.90434221304952],[5.15093421057924,50.90613551439282],[5.14242003282408,50.90577793857443],[5.14232624886642,50.90667458088132],[5.14800246277258,50.90691303962655],[5.14772141029408,50.90960298061435],[5.14488313348937,50.90948377811424],[5.14478938596636,50.91038042187699],[5.14195106814168,50.91026114714504],[5.14176345083814,50.91205442849707],[5.14034424254714,50.91199476239075],[5.14015655287818,50.91378803991415],[5.14157581557026,50.91384770866409]]],"type":"Polygon"}
+}

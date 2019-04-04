@@ -1,0 +1,72 @@
+{
+  "id": 1209846747,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.65494,50.60993,4.65494,50.60993",
+    "geom:latitude":50.60993,
+    "geom:longitude":4.65494,
+    "gn:admin1_code":"WAL",
+    "gn:admin2_code":"WBR",
+    "gn:admin3_code":"25.0",
+    "gn:admin4_code":"25124.0",
+    "gn:asciiname":"Perbais",
+    "gn:country_code":"BE",
+    "gn:dem":142,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2789187,
+    "gn:latitude":50.60993,
+    "gn:longitude":4.65494,
+    "gn:modification_date":"2017-03-25",
+    "gn:name":"Perbais",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681693,
+        102191581,
+        85632997,
+        404227353,
+        102049945
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2789187
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"9e46e277da0dc1929d8fc77cf918e858",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049945,
+            "locality_id":1209846747,
+            "macroregion_id":404227353,
+            "region_id":85681693
+        }
+    ],
+    "wof:id":1209846747,
+    "wof:lastmodified":1536390305,
+    "wof:name":"Perbais",
+    "wof:parent_id":102049945,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.65494,
+    50.60993,
+    4.65494,
+    50.60993
+],
+  "geometry": {"coordinates":[4.65494,50.60993],"type":"Point"}
+}

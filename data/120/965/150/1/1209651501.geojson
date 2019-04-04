@@ -1,0 +1,64 @@
+{
+  "id": 1209651501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.89614,50.64674,5.89614,50.64674",
+    "geom:latitude":50.64674,
+    "geom:longitude":5.89614,
+    "gn:admin1_code":"WAL",
+    "gn:admin2_code":"WLG",
+    "gn:admin3_code":"63.0",
+    "gn:admin4_code":"63089.0",
+    "gn:asciiname":"La Saute",
+    "gn:country_code":"BE",
+    "gn:dem":294,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2793253,
+    "gn:latitude":50.64674,
+    "gn:longitude":5.89614,
+    "gn:modification_date":"2017-03-25",
+    "gn:name":"La Saute",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2793253
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"b45a57002b81bc7a238166fc505842db",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "locality_id":1209651501
+        }
+    ],
+    "wof:id":1209651501,
+    "wof:lastmodified":1536280565,
+    "wof:name":"La Saute",
+    "wof:parent_id":85632997,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.89614,
+    50.64674,
+    5.89614,
+    50.64674
+],
+  "geometry": {"coordinates":[5.89614,50.64674],"type":"Point"}
+}

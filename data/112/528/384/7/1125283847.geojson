@@ -1,0 +1,76 @@
+{
+  "id": 1125283847,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2017-05-19",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.738226,50.738084,3.738226,50.738084",
+    "geom:latitude":50.738084,
+    "geom:longitude":3.738226,
+    "gn:gn_country":null,
+    "iso:country":"BE",
+    "lbl:latitude":50.738084,
+    "lbl:longitude":3.738226,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"BE",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Flobecq",
+    "qs_pg:name_adm0":"Belgique",
+    "qs_pg:name_adm1":"Hainaut",
+    "qs_pg:photos":10,
+    "qs_pg:photos_1k":2,
+    "qs_pg:photos_9k":3,
+    "qs_pg:photos_9r":5,
+    "qs_pg:photos_all":710,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1093000,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
+    "qs_pg:woe_adm0":23424757,
+    "qs_pg:woe_id":12602479,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424757,
+    "woe:name_adm0":"Belgique",
+    "woe:name_adm1":"Hainaut",
+    "woe:placetype":"LocalAdmin",
+    "wof:belongsto":[
+        85632997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12602479,
+        "qs_pg:id":1093000
+    },
+    "wof:country":"BE",
+    "wof:created":1497042618,
+    "wof:geomhash":"73724a9161c6a50d187516744c11afc2",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "localadmin_id":1125283847
+        }
+    ],
+    "wof:id":1125283847,
+    "wof:lastmodified":1505247973,
+    "wof:name":"Flobecq",
+    "wof:parent_id":-1,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.738226,
+    50.738084,
+    3.738226,
+    50.738084
+],
+  "geometry": {"coordinates":[3.738226,50.738084],"type":"Point"}
+}

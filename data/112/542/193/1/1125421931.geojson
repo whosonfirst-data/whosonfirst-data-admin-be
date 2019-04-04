@@ -1,0 +1,72 @@
+{
+  "id": 1125421931,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2017-05-19",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.85251,50.59615,3.85251,50.59615",
+    "geom:latitude":50.59615,
+    "geom:longitude":3.85251,
+    "gn:gn_country":"BE",
+    "gn:gn_fcode":"ADM4",
+    "gn:gn_pop":3548,
+    "gn:population":3548,
+    "iso:country":"BE",
+    "lbl:latitude":50.59615,
+    "lbl:longitude":3.85251,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"BE",
+    "qs_pg:gn_country":"BE",
+    "qs_pg:gn_fcode":"ADM4",
+    "qs_pg:gn_id":2800937,
+    "qs_pg:gn_pop":3548,
+    "qs_pg:name":"Brugelette",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":1152159,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85632997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2800937,
+        "qs_pg:id":1152159
+    },
+    "wof:country":"BE",
+    "wof:created":1497052424,
+    "wof:geomhash":"1a12d7c466f5806bd885276500cbce34",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "localadmin_id":1125421931
+        }
+    ],
+    "wof:id":1125421931,
+    "wof:lastmodified":1505185645,
+    "wof:name":"Brugelette",
+    "wof:parent_id":-1,
+    "wof:placetype":"localadmin",
+    "wof:population":3548,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.85251,
+    50.59615,
+    3.85251,
+    50.59615
+],
+  "geometry": {"coordinates":[3.85251,50.59615],"type":"Point"}
+}

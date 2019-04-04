@@ -1,0 +1,64 @@
+{
+  "id": 1209035679,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.23333,49.8,5.23333,49.8",
+    "geom:latitude":49.8,
+    "geom:longitude":5.23333,
+    "gn:admin1_code":"WAL",
+    "gn:admin2_code":"WLX",
+    "gn:admin3_code":"84.0",
+    "gn:admin4_code":"84029.0",
+    "gn:asciiname":"Fallimont",
+    "gn:country_code":"BE",
+    "gn:dem":347,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2798496,
+    "gn:latitude":49.8,
+    "gn:longitude":5.23333,
+    "gn:modification_date":"2017-03-25",
+    "gn:name":"Fallimont",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2798496
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"4a79cb80518b58f54b2b388e17c0ce49",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "locality_id":1209035679
+        }
+    ],
+    "wof:id":1209035679,
+    "wof:lastmodified":1536299708,
+    "wof:name":"Fallimont",
+    "wof:parent_id":85632997,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.2333300000000005,
+    49.8,
+    5.2333300000000005,
+    49.8
+],
+  "geometry": {"coordinates":[5.23333,49.8],"type":"Point"}
+}

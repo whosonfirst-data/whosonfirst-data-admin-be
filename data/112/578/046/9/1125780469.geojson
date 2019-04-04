@@ -1,0 +1,105 @@
+{
+  "id": 1125780469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.55495,50.56078,4.55495,50.56078",
+    "geom:latitude":50.56078,
+    "geom:longitude":4.55495,
+    "gn:gn_country":"BE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"BE",
+    "lbl:latitude":50.56078,
+    "lbl:longitude":4.55495,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Tilly"
+    ],
+    "name:dut_x_preferred":[
+        "Tilly"
+    ],
+    "name:eng_x_preferred":[
+        "Tilly"
+    ],
+    "name:fre_x_preferred":[
+        "Tilly"
+    ],
+    "name:unk_x_variant":[
+        "Villers-la-Ville (Tilly)"
+    ],
+    "name:wln_x_preferred":[
+        "Tiy\u00ee"
+    ],
+    "qs_pg:aaroncc":"BE",
+    "qs_pg:gn_country":"BE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2785432,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Tilly",
+    "qs_pg:name_adm0":"Belgique",
+    "qs_pg:name_adm1":"Brabant Wallon",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":192449,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424757,
+    "qs_pg:woe_id":977820,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424757,
+    "woe:name_adm0":"Belgique",
+    "woe:name_adm1":"Brabant Wallon",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85681693,
+        102191581,
+        85632997,
+        404227353,
+        102049945
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2785432,
+        "gp:id":977820,
+        "qs_pg:id":192449,
+        "wd:id":"Q3528536"
+    },
+    "wof:country":"BE",
+    "wof:created":1497290449,
+    "wof:geomhash":"5108b5fb4fad0cc80a3a68efdc37f986",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049945,
+            "locality_id":1125780469,
+            "macroregion_id":404227353,
+            "region_id":85681693
+        }
+    ],
+    "wof:id":1125780469,
+    "wof:lastmodified":1513899529,
+    "wof:name":"Tilly",
+    "wof:parent_id":102049945,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.55495,
+    50.56078,
+    4.55495,
+    50.56078
+],
+  "geometry": {"coordinates":[4.55495,50.56078],"type":"Point"}
+}

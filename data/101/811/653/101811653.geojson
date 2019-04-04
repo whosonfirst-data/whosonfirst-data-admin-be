@@ -1,0 +1,220 @@
+{
+  "id": 101811653,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000205,
+    "geom:area_square_m":1624532.487172,
+    "geom:bbox":"5.56663740777,50.1731468246,5.60168677279,50.1928855432",
+    "geom:latitude":50.181618,
+    "geom:longitude":5.580555,
+    "gn:population":4200,
+    "iso:country":"BE",
+    "lbl:latitude":50.182622,
+    "lbl:longitude":5.575818,
+    "mps:latitude":50.182622,
+    "mps:longitude":5.575818,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:baq_x_preferred":[
+        "La Roche-en-Ardenne"
+    ],
+    "name:bre_x_preferred":[
+        "La Roche-en-Ardenne"
+    ],
+    "name:bul_x_preferred":[
+        "\u041b\u0430 \u0420\u043e\u0448 \u0430\u043d \u0410\u0440\u0434\u0435\u043d"
+    ],
+    "name:cat_x_preferred":[
+        "La Roche-en-Ardenne"
+    ],
+    "name:ceb_x_preferred":[
+        "La Roche-en-Ardenne"
+    ],
+    "name:ces_x_preferred":[
+        "La Roche-en-Ardenne"
+    ],
+    "name:chi_x_preferred":[
+        "\u62c9\u7f57\u4ec0\u6602\u963f\u767b"
+    ],
+    "name:cze_x_preferred":[
+        "La Roche-en-Ardenne"
+    ],
+    "name:deu_x_preferred":[
+        "La Roche-en-Ardenne"
+    ],
+    "name:dut_x_preferred":[
+        "La Roche-en-Ardenne"
+    ],
+    "name:eng_x_preferred":[
+        "Laroche"
+    ],
+    "name:epo_x_preferred":[
+        "La Roche-en-Ardenne"
+    ],
+    "name:est_x_preferred":[
+        "La Roche-en-Ardenne"
+    ],
+    "name:eus_x_preferred":[
+        "La Roche-en-Ardenne"
+    ],
+    "name:fas_x_preferred":[
+        "\u0644\u0631\u0648\u0634-\u0622\u0646-\u0627\u0631\u062f\u0646"
+    ],
+    "name:fra_x_preferred":[
+        "La Roche-en-Ardenne"
+    ],
+    "name:fre_x_preferred":[
+        "La Roche-en-Ardenne"
+    ],
+    "name:ger_x_preferred":[
+        "La Roche-en-Ardenne"
+    ],
+    "name:hun_x_preferred":[
+        "La Roche-en-Ardenne"
+    ],
+    "name:ita_x_preferred":[
+        "La Roche-en-Ardenne"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30e9\u30fb\u30ed\u30c3\u30b7\u30e5\uff1d\u30a2\u30f3\uff1d\u30a2\u30eb\u30c7\u30f3\u30cc"
+    ],
+    "name:kor_x_preferred":[
+        "\ub77c\ub85c\uc288\uc559\uc544\ub974\ub374"
+    ],
+    "name:lim_x_preferred":[
+        "La Roche-en-Ardenne"
+    ],
+    "name:ltz_x_preferred":[
+        "La Roche-en-Ardenne"
+    ],
+    "name:nld_x_preferred":[
+        "La Roche-en-Ardenne"
+    ],
+    "name:nob_x_preferred":[
+        "La Roche-en-Ardenne"
+    ],
+    "name:nor_x_preferred":[
+        "La Roche-en-Ardenne"
+    ],
+    "name:oci_x_preferred":[
+        "La Roche-en-Ardenne"
+    ],
+    "name:per_x_preferred":[
+        "\u0644\u0631\u0648\u0634-\u0622\u0646-\u0627\u0631\u062f\u0646"
+    ],
+    "name:por_x_preferred":[
+        "La Roche-en-Ardenne"
+    ],
+    "name:ron_x_preferred":[
+        "La Roche-en-Ardenne"
+    ],
+    "name:rum_x_preferred":[
+        "La Roche-en-Ardenne"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u0430-\u0420\u043e\u0448-\u0430\u043d-\u0410\u0440\u0434\u0435\u043d"
+    ],
+    "name:rus_x_variant":[
+        "\u041b\u0430 \u0420\u043e\u0448-\u0430\u043d-\u0410\u0440\u0434\u0435\u043d"
+    ],
+    "name:slk_x_preferred":[
+        "La Roche-en-Ardenne"
+    ],
+    "name:slo_x_preferred":[
+        "La Roche-en-Ardenne"
+    ],
+    "name:swe_x_preferred":[
+        "La Roche-en-Ardenne"
+    ],
+    "name:unk_x_variant":[
+        "Laroche"
+    ],
+    "name:vie_x_preferred":[
+        "La Roche-en-Ardenne"
+    ],
+    "name:vol_x_preferred":[
+        "La Roche-en-Ardenne"
+    ],
+    "name:war_x_preferred":[
+        "La Roche-en-Ardenne"
+    ],
+    "name:wln_x_preferred":[
+        "Li Rotche"
+    ],
+    "name:zho_x_preferred":[
+        "\u62c9\u7f57\u4ec0\u6602\u963f\u767b"
+    ],
+    "qs:a0":"Belgi\u00eb#Belgique#Belgien",
+    "qs:a1":"*Luxembourg",
+    "qs:a1r":"0R\u00e9gion wallone",
+    "qs:a2":"Marche-en-Famenne",
+    "qs:adm0":"Belgi\u00eb#Belgique#Belgien",
+    "qs:la":"La Roche-en-Ardenne",
+    "qs:la_lc":"*BE383031",
+    "qs:level":"locality",
+    "qs:loc":"La Roche-en-Ardenne",
+    "qs:loc_alt":"La Roche-en-Ardenne",
+    "qs:pop":0,
+    "qs:source":"LCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":664,
+    "wof:belongsto":[
+        85681727,
+        102191581,
+        85632997,
+        404227353,
+        102049921
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"036b4c98-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2793279,
+        "gp:id":972723,
+        "qs:id":1159366,
+        "qs_pg:id":1159366,
+        "wd:id":"Q159974",
+        "wk:page":"La Roche-en-Ardenne"
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"6cba6b34e2004a0a9d7cf13af7fa4949",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049921,
+            "locality_id":101811653,
+            "macroregion_id":404227353,
+            "region_id":85681727
+        }
+    ],
+    "wof:id":101811653,
+    "wof:lang":[
+        "fre"
+    ],
+    "wof:lastmodified":1527642307,
+    "wof:name":"La Roche-en-Ardenne",
+    "wof:parent_id":102049921,
+    "wof:placetype":"locality",
+    "wof:population":4200,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.56663740777333,
+    50.17314682455157,
+    5.60168677279108,
+    50.19288554322321
+],
+  "geometry": {"coordinates":[[[5.57346079396041,50.19288554322321],[5.57354435101769,50.19198833211402],[5.57634062247973,50.19209676985406],[5.57650761988197,50.19030234196993],[5.57790570753985,50.1903565328281],[5.57798917411731,50.18945931722942],[5.57938723846871,50.18951348980573],[5.57972096058518,50.18592461950044],[5.57832300112301,50.18587045162189],[5.57857333011503,50.18317879904214],[5.58136909464747,50.18328711064947],[5.5814524773553,50.18238989013201],[5.58424820111765,50.18249813097549],[5.58441484989794,50.18070368428346],[5.58721048045595,50.18081185202101],[5.58746026693348,50.17812017253851],[5.59305124843047,50.17833628871733],[5.59321754347502,50.1765418247536],[5.59741065286539,50.17670372529221],[5.59732758592878,50.17760096094389],[5.60152080008442,50.17776271107005],[5.60168677279108,50.17596823243417],[5.60028908425591,50.17591433516424],[5.60037209095623,50.17501709653271],[5.59897443153034,50.17496318332979],[5.59905746052931,50.17406594554564],[5.59206933798504,50.17379612885856],[5.59198617795755,50.17469336079495],[5.58779326069225,50.1745312620609],[5.58771001813153,50.17542849016263],[5.57792646296531,50.1750496530438],[5.57800988896139,50.17415243315236],[5.576612276086,50.17409824633449],[5.57669572435725,50.17320102729519],[5.57529814060183,50.17314682455157],[5.57496421912469,50.17673569407685],[5.57356653346966,50.1766814695327],[5.57281474426543,50.1847563965506],[5.57001890989858,50.18464787498891],[5.56976808537354,50.18733950447847],[5.56837009391722,50.1872852145097],[5.56828645164597,50.18818242251928],[5.56688843689329,50.1881281142675],[5.56663740777333,50.19081973283375],[5.5680355011973,50.19087404461817],[5.56795184316837,50.19177125134149],[5.5693499657441,50.19182554719606],[5.56926633000273,50.19272275477522],[5.57346079396041,50.19288554322321]],[[5.57099889616103,50.18918819774632],[5.57124966564515,50.18649656665656],[5.57544358765693,50.18665927908268],[5.57519305417196,50.18935092075611],[5.57099889616103,50.18918819774632]],[[5.57742582449902,50.18043296563206],[5.57767616141035,50.17774131078636],[5.57907388202676,50.17779548520014],[5.57915729359883,50.17689826510048],[5.58335039431597,50.17706068220923],[5.58301703898843,50.18064957475968],[5.57742582449902,50.18043296563206]]],"type":"Polygon"}
+}

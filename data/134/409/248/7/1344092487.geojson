@@ -1,0 +1,76 @@
+{
+  "id": 1344092487,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.18721,50.21132,4.18721,50.21132",
+    "geom:latitude":50.21132,
+    "geom:longitude":4.18721,
+    "gn:admin1_code":"WAL",
+    "gn:admin2_code":"WHT",
+    "gn:admin3_code":"56.0",
+    "gn:admin4_code":"56088.0",
+    "gn:asciiname":"Quatre Vents",
+    "gn:country_code":"BE",
+    "gn:dem":230,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2788479,
+    "gn:latitude":50.21132,
+    "gn:longitude":4.18721,
+    "gn:modification_date":"2017-03-25",
+    "gn:name":"Quatre Vents",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Les Quatre Vents",
+        "Quatre Vents"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681723,
+        102191581,
+        85632997,
+        404227353,
+        102049923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2788479
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"689f5ddd13935f757a745bd1c5700d51",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049923,
+            "locality_id":1344092487,
+            "macroregion_id":404227353,
+            "region_id":85681723
+        }
+    ],
+    "wof:id":1344092487,
+    "wof:lastmodified":1537586940,
+    "wof:name":"Quatre Vents",
+    "wof:parent_id":102049923,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.18721,
+    50.21132,
+    4.18721,
+    50.21132
+],
+  "geometry": {"coordinates":[4.18721,50.21132],"type":"Point"}
+}

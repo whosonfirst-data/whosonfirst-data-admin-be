@@ -1,0 +1,72 @@
+{
+  "id": 1276366459,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.41476,50.52007,5.41476,50.52007",
+    "geom:latitude":50.52007,
+    "geom:longitude":5.41476,
+    "gn:admin1_code":"WAL",
+    "gn:admin2_code":"WLG",
+    "gn:admin3_code":"61.0",
+    "gn:admin4_code":"61043.0",
+    "gn:asciiname":"Petit Fraineux",
+    "gn:country_code":"BE",
+    "gn:dem":264,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2789081,
+    "gn:latitude":50.52007,
+    "gn:longitude":5.41476,
+    "gn:modification_date":"2017-03-25",
+    "gn:name":"Petit Fra\u00eeneux",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681691,
+        102191581,
+        85632997,
+        404227353,
+        102049925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2789081
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"a4e7935603c0554935425def002edc42",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049925,
+            "locality_id":1276366459,
+            "macroregion_id":404227353,
+            "region_id":85681691
+        }
+    ],
+    "wof:id":1276366459,
+    "wof:lastmodified":1536734406,
+    "wof:name":"Petit Fraineux",
+    "wof:parent_id":102049925,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.41476,
+    50.52007,
+    5.41476,
+    50.52007
+],
+  "geometry": {"coordinates":[5.41476,50.52007],"type":"Point"}
+}

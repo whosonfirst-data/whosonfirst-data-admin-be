@@ -1,0 +1,107 @@
+{
+  "id": 85797565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":12632934.258449,
+    "geom:bbox":"6.058216,50.891282,6.058216,50.891282",
+    "geom:latitude":50.891282,
+    "geom:longitude":6.058216,
+    "gn:latitude":50.92597,
+    "gn:longitude":5.15906,
+    "iso:country":"BE",
+    "lbl:latitude":50.891282,
+    "lbl:longitude":6.058216,
+    "mps:latitude":50.894283,
+    "mps:longitude":6.080244,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":13.0,
+    "mz:tier_locality":2,
+    "name:nld_x_preferred":[
+        "Geitberg"
+    ],
+    "name:unk_x_variant":[
+        "Kaiberg",
+        "Geitberg"
+    ],
+    "qs:gn_fcode":"PPL",
+    "qs:gn_local":0,
+    "qs:gn_namadm1":"VLG",
+    "qs:gn_name":"Keiberg",
+    "qs:local_max":2264,
+    "qs:local_sum":3925,
+    "qs:localhoods":4,
+    "qs:name":"Geitberg",
+    "qs:name_adm0":"Nederland",
+    "qs:name_adm1":"Limburg",
+    "qs:name_adm2":"Kerkrade",
+    "qs:name_local":"Kerkrade",
+    "qs:photo_max":256,
+    "qs:photo_sum":395,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":17,
+    "qs:woe_adm0":23424909,
+    "qs:woe_adm1":2346377,
+    "qs:woe_adm2":12592234,
+    "qs:woe_lau":0,
+    "qs:woe_local":12592234,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        85687033,
+        102191581,
+        404474489,
+        85633337,
+        1158817899
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2794609,
+        "gp:id":729347,
+        "qs:id":1080757
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"a3df5fd427eb66a9d1a3d73fe1cb0bc4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474489,
+            "locality_id":1158817899,
+            "neighbourhood_id":85797565,
+            "region_id":85687033
+        }
+    ],
+    "wof:id":85797565,
+    "wof:lang":[
+        "dut"
+    ],
+    "wof:lastmodified":1531861890,
+    "wof:name":"Geitberg",
+    "wof:parent_id":1158817899,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.058216,
+    50.891282,
+    6.058216,
+    50.891282
+],
+  "geometry": {"coordinates":[6.058216,50.891282],"type":"Point"}
+}

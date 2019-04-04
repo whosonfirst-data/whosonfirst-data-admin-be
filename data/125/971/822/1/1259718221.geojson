@@ -1,0 +1,76 @@
+{
+  "id": 1259718221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.25243,50.67359,3.25243,50.67359",
+    "geom:latitude":50.67359,
+    "geom:longitude":3.25243,
+    "gn:admin1_code":"WAL",
+    "gn:admin2_code":"WHT",
+    "gn:admin3_code":"57.0",
+    "gn:admin4_code":"57027.0",
+    "gn:asciiname":"Gibraltar",
+    "gn:country_code":"BE",
+    "gn:dem":24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2797555,
+    "gn:latitude":50.67359,
+    "gn:longitude":3.25243,
+    "gn:modification_date":"2017-03-25",
+    "gn:name":"Gibraltar",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85683445,
+        102191581,
+        85633147,
+        404228283,
+        1108826399,
+        136253037,
+        102070353
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2797555
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"7260cbbe8c2dc02350c113b335556678",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "county_id":102070353,
+            "empire_id":136253037,
+            "locality_id":1259718221,
+            "macrocounty_id":404228283,
+            "macroregion_id":1108826399,
+            "region_id":85683445
+        }
+    ],
+    "wof:id":1259718221,
+    "wof:lastmodified":1537016321,
+    "wof:name":"Gibraltar",
+    "wof:parent_id":102070353,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.25243,
+    50.67359,
+    3.25243,
+    50.67359
+],
+  "geometry": {"coordinates":[3.25243,50.67359],"type":"Point"}
+}

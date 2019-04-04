@@ -1,0 +1,74 @@
+{
+  "id": 1242909911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.60868,51.28952,4.60868,51.28952",
+    "geom:latitude":51.28952,
+    "geom:longitude":4.60868,
+    "gn:admin1_code":"VLG",
+    "gn:admin2_code":"VAN",
+    "gn:admin3_code":"11.0",
+    "gn:admin4_code":"11039.0",
+    "gn:asciiname":"Het Kamp",
+    "gn:country_code":"BE",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2795873,
+    "gn:latitude":51.28952,
+    "gn:longitude":4.60868,
+    "gn:modification_date":"2016-08-02",
+    "gn:name":"Het Kamp",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681715,
+        102191581,
+        1108830185,
+        85632997,
+        404227357,
+        102050005
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2795873
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"f0fec36095c3b35d666d683d3a2cf713",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102050005,
+            "localadmin_id":1108830185,
+            "locality_id":1242909911,
+            "macroregion_id":404227357,
+            "region_id":85681715
+        }
+    ],
+    "wof:id":1242909911,
+    "wof:lastmodified":1537078841,
+    "wof:name":"Het Kamp",
+    "wof:parent_id":1108830185,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.60868,
+    51.28952,
+    4.60868,
+    51.28952
+],
+  "geometry": {"coordinates":[4.60868,51.28952],"type":"Point"}
+}

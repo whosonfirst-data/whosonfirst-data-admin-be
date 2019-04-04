@@ -1,0 +1,79 @@
+{
+  "id": 1344093375,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.42108,50.88963,5.42108,50.88963",
+    "geom:latitude":50.88963,
+    "geom:longitude":5.42108,
+    "gn:admin1_code":"VLG",
+    "gn:admin2_code":"VLI",
+    "gn:admin3_code":"71.0",
+    "gn:admin4_code":"71011.0",
+    "gn:asciiname":"Krijt",
+    "gn:country_code":"BE",
+    "gn:dem":58,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2793971,
+    "gn:latitude":50.88963,
+    "gn:longitude":5.42108,
+    "gn:modification_date":"2016-08-02",
+    "gn:name":"Krijt",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Cryt",
+        "Crijt",
+        "Krijt"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681705,
+        102191581,
+        1108830257,
+        85632997,
+        404227357,
+        102049975
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2793971
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"27b4e17781b499509f6129c53fb7ab64",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049975,
+            "localadmin_id":1108830257,
+            "locality_id":1344093375,
+            "macroregion_id":404227357,
+            "region_id":85681705
+        }
+    ],
+    "wof:id":1344093375,
+    "wof:lastmodified":1537586996,
+    "wof:name":"Krijt",
+    "wof:parent_id":1108830257,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.42108,
+    50.88963,
+    5.42108,
+    50.88963
+],
+  "geometry": {"coordinates":[5.42108,50.88963],"type":"Point"}
+}

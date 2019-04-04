@@ -1,0 +1,74 @@
+{
+  "id": 1293914071,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.35,51.08333,5.35,51.08333",
+    "geom:latitude":51.08333,
+    "geom:longitude":5.35,
+    "gn:admin1_code":"VLG",
+    "gn:admin2_code":"VLI",
+    "gn:admin3_code":"72.0",
+    "gn:admin4_code":"72039.0",
+    "gn:asciiname":"Hoever Heide",
+    "gn:country_code":"BE",
+    "gn:dem":64,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2795629,
+    "gn:latitude":51.08333,
+    "gn:longitude":5.35,
+    "gn:modification_date":"2016-08-02",
+    "gn:name":"Hoever Heide",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681705,
+        102191581,
+        1108830235,
+        85632997,
+        404227357,
+        102049993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2795629
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"2989c396ac71d196bf2349116bfcc538",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049993,
+            "localadmin_id":1108830235,
+            "locality_id":1293914071,
+            "macroregion_id":404227357,
+            "region_id":85681705
+        }
+    ],
+    "wof:id":1293914071,
+    "wof:lastmodified":1536669353,
+    "wof:name":"Hoever Heide",
+    "wof:parent_id":1108830235,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.35,
+    51.08333,
+    5.35,
+    51.08333
+],
+  "geometry": {"coordinates":[5.35,51.08333],"type":"Point"}
+}

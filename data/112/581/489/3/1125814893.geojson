@@ -1,0 +1,132 @@
+{
+  "id": 1125814893,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.69597,50.86426,4.69597,50.86426",
+    "geom:latitude":50.86426,
+    "geom:longitude":4.69597,
+    "gn:gn_country":"BE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"BE",
+    "lbl:latitude":50.86426,
+    "lbl:longitude":4.69597,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bul_x_preferred":[
+        "\u0425\u0435\u0432\u0435\u0440\u043b\u0435"
+    ],
+    "name:dut_x_preferred":[
+        "Heverlee"
+    ],
+    "name:eng_x_preferred":[
+        "Heverlee"
+    ],
+    "name:epo_x_preferred":[
+        "Heverlee"
+    ],
+    "name:fre_x_preferred":[
+        "Heverlee"
+    ],
+    "name:ger_x_preferred":[
+        "Heverlee"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05d1\u05e8\u05dc\u05d4"
+    ],
+    "name:hun_x_preferred":[
+        "Heverlee"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0425\u0435\u0432\u0435\u0440\u043b\u0435"
+    ],
+    "name:pol_x_preferred":[
+        "Heverlee"
+    ],
+    "name:swe_x_preferred":[
+        "Heverlee"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0413\u0435\u0432\u0435\u0440\u043b\u0435"
+    ],
+    "name:unk_x_variant":[
+        "Heverle"
+    ],
+    "qs_pg:aaroncc":"BE",
+    "qs_pg:gn_country":"BE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2795783,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Heverlee",
+    "qs_pg:name_adm0":"Belgique",
+    "qs_pg:name_adm1":"Vlaams Brabant",
+    "qs_pg:photos":4999,
+    "qs_pg:photos_1k":1000,
+    "qs_pg:photos_9k":22,
+    "qs_pg:photos_9r":14,
+    "qs_pg:photos_all":4999,
+    "qs_pg:photos_sr":24,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":239961,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424757,
+    "qs_pg:woe_id":971176,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424757,
+    "woe:name_adm0":"Belgique",
+    "woe:name_adm1":"Vlaams Brabant",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85681731,
+        102191581,
+        1108830125,
+        85632997,
+        404227357,
+        102049969
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2795783,
+        "gp:id":971176,
+        "qs_pg:id":239961,
+        "wd:id":"Q764369"
+    },
+    "wof:country":"BE",
+    "wof:created":1497291800,
+    "wof:geomhash":"8da8397718a9ffa861327467e90da5c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049969,
+            "localadmin_id":1108830125,
+            "locality_id":1125814893,
+            "macroregion_id":404227357,
+            "region_id":85681731
+        }
+    ],
+    "wof:id":1125814893,
+    "wof:lastmodified":1513899313,
+    "wof:name":"Heverlee",
+    "wof:parent_id":1108830125,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.69597,
+    50.86426,
+    4.69597,
+    50.86426
+],
+  "geometry": {"coordinates":[4.69597,50.86426],"type":"Point"}
+}

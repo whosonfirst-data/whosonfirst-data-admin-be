@@ -1,0 +1,101 @@
+{
+  "id": 1125777655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.42214,50.29423,5.42214,50.29423",
+    "geom:latitude":50.29423,
+    "geom:longitude":5.42214,
+    "gn:gn_country":"BE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"BE",
+    "lbl:latitude":50.29423,
+    "lbl:longitude":5.42214,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Fronville"
+    ],
+    "name:eng_x_preferred":[
+        "Fronville"
+    ],
+    "name:fre_x_preferred":[
+        "Fronville"
+    ],
+    "name:wln_x_preferred":[
+        "Fronveye"
+    ],
+    "qs_pg:aaroncc":"BE",
+    "qs_pg:gn_country":"BE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2797907,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Fronville",
+    "qs_pg:name_adm0":"Belgique",
+    "qs_pg:name_adm1":"Luxembourg",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":4,
+    "qs_pg:photos_all":196,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":191932,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424757,
+    "qs_pg:woe_id":969854,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424757,
+    "woe:name_adm0":"Belgique",
+    "woe:name_adm1":"Luxembourg",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85681727,
+        102191581,
+        85632997,
+        404227353,
+        102049921
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2797907,
+        "gp:id":969854,
+        "qs_pg:id":191932,
+        "wd:id":"Q2155280"
+    },
+    "wof:country":"BE",
+    "wof:created":1497290333,
+    "wof:geomhash":"53b7be1b7f251ec99728beb62b555adf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049921,
+            "locality_id":1125777655,
+            "macroregion_id":404227353,
+            "region_id":85681727
+        }
+    ],
+    "wof:id":1125777655,
+    "wof:lastmodified":1513899272,
+    "wof:name":"Fronville",
+    "wof:parent_id":102049921,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.42214,
+    50.29423,
+    5.42214,
+    50.29423
+],
+  "geometry": {"coordinates":[5.42214,50.29423],"type":"Point"}
+}

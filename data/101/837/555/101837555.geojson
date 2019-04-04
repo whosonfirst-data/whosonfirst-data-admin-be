@@ -1,0 +1,239 @@
+{
+  "id": 101837555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000297,
+    "geom:area_square_m":2307730.651115,
+    "geom:bbox":"2.56517526576,51.0896222738,2.60774553043,51.1063601084",
+    "geom:latitude":51.097286,
+    "geom:longitude":2.586978,
+    "gn:population":9799,
+    "iso:country":"BE",
+    "lbl:latitude":51.097079,
+    "lbl:longitude":2.586978,
+    "mps:latitude":51.097079,
+    "mps:longitude":2.586978,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:afr_x_preferred":[
+        "De Panne"
+    ],
+    "name:ara_x_preferred":[
+        "\u062f\u064a \u0628\u0627\u0646"
+    ],
+    "name:baq_x_preferred":[
+        "De Panne"
+    ],
+    "name:bre_x_preferred":[
+        "De Panne"
+    ],
+    "name:bul_x_preferred":[
+        "\u0414\u0435 \u041f\u0430\u043d\u0435"
+    ],
+    "name:cat_x_preferred":[
+        "De Panne"
+    ],
+    "name:ceb_x_preferred":[
+        "De Panne"
+    ],
+    "name:chi_x_preferred":[
+        "\u5fb7\u5e15\u5185"
+    ],
+    "name:cze_x_preferred":[
+        "De Panne"
+    ],
+    "name:dan_x_preferred":[
+        "De Panne"
+    ],
+    "name:deu_x_preferred":[
+        "De Panne"
+    ],
+    "name:dut_x_preferred":[
+        "De Panne"
+    ],
+    "name:dut_x_variant":[
+        "Depanne"
+    ],
+    "name:eng_x_preferred":[
+        "Panne"
+    ],
+    "name:eng_x_variant":[
+        "De Panne"
+    ],
+    "name:epo_x_preferred":[
+        "De Panne"
+    ],
+    "name:est_x_preferred":[
+        "De Panne"
+    ],
+    "name:eus_x_preferred":[
+        "De Panne"
+    ],
+    "name:fas_x_preferred":[
+        "\u062f\u0648 \u067e\u0646"
+    ],
+    "name:fin_x_preferred":[
+        "De Panne"
+    ],
+    "name:fra_x_preferred":[
+        "La Panne"
+    ],
+    "name:fre_x_preferred":[
+        "La Panne"
+    ],
+    "name:ger_x_preferred":[
+        "De Panne"
+    ],
+    "name:hun_x_preferred":[
+        "De Panne"
+    ],
+    "name:ita_x_preferred":[
+        "De Panne"
+    ],
+    "name:ita_x_variant":[
+        "La Panne"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30c7\u30fb\u30d1\u30f3\u30cd"
+    ],
+    "name:lim_x_preferred":[
+        "De Panne"
+    ],
+    "name:lit_x_preferred":[
+        "De Panas"
+    ],
+    "name:nld_x_preferred":[
+        "De Panne"
+    ],
+    "name:nob_x_preferred":[
+        "De Panne"
+    ],
+    "name:nor_x_preferred":[
+        "De Panne"
+    ],
+    "name:oci_x_preferred":[
+        "La Panne"
+    ],
+    "name:per_x_preferred":[
+        "\u062f\u0648 \u067e\u0646"
+    ],
+    "name:pol_x_preferred":[
+        "De Panne"
+    ],
+    "name:por_x_preferred":[
+        "De Panne"
+    ],
+    "name:ron_x_preferred":[
+        "De Panne"
+    ],
+    "name:rum_x_preferred":[
+        "De Panne"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u0435-\u041f\u0430\u043d\u043d\u0435"
+    ],
+    "name:slk_x_preferred":[
+        "De Panne"
+    ],
+    "name:slo_x_preferred":[
+        "De Panne"
+    ],
+    "name:slv_x_preferred":[
+        "De Panne"
+    ],
+    "name:spa_x_preferred":[
+        "De Panne"
+    ],
+    "name:swe_x_preferred":[
+        "De Panne"
+    ],
+    "name:unk_x_variant":[
+        "La Panne"
+    ],
+    "name:vls_x_preferred":[
+        "De Panne"
+    ],
+    "name:vol_x_preferred":[
+        "De Panne"
+    ],
+    "name:war_x_preferred":[
+        "De Panne"
+    ],
+    "name:zho_x_preferred":[
+        "\u5fb7\u5e15\u5185"
+    ],
+    "qs:a0":"Belgi\u00eb#Belgique#Belgien",
+    "qs:a1":"*West-Vlanderen",
+    "qs:a1r":"0Vlaams Gewest",
+    "qs:a2":"Veurne",
+    "qs:adm0":"Belgi\u00eb#Belgique#Belgien",
+    "qs:la":"Koksijde",
+    "qs:la_lc":"*BE238014",
+    "qs:level":"locality",
+    "qs:loc":"De Panne",
+    "qs:loc_alt":"De Panne",
+    "qs:pop":0,
+    "qs:source":"LCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-multi-in-poly-resolved",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":470,
+    "wof:belongsto":[
+        85681709,
+        102191581,
+        1108830697,
+        85632997,
+        404227357,
+        102049991
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"036a83ee-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2799577,
+        "gp:id":968756,
+        "qs:id":4292,
+        "qs_pg:id":4292,
+        "wd:id":"Q674954"
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"4b523ddca8834b1a09715ee2438fede7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049991,
+            "localadmin_id":1108830697,
+            "locality_id":101837555,
+            "macroregion_id":404227357,
+            "region_id":85681709
+        }
+    ],
+    "wof:id":101837555,
+    "wof:lang":[
+        "dut"
+    ],
+    "wof:lastmodified":1527715309,
+    "wof:name":"De Panne",
+    "wof:parent_id":1108830697,
+    "wof:placetype":"locality",
+    "wof:population":9799,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.56517526575544,
+    51.08962227378117,
+    2.60774553042614,
+    51.10636010840562
+],
+  "geometry": {"coordinates":[[[2.60043653068203,51.10561341570451],[2.60148065641283,51.10387464054492],[2.59984744828142,51.10377026796129],[2.59999112533529,51.10287669314607],[2.59714800459949,51.10269492901006],[2.59801024769172,51.09733349541182],[2.60085304305261,51.09751523532333],[2.60114029388103,51.09572807931238],[2.60617929433511,51.0960500322027],[2.60774553042614,51.09344179037021],[2.60583494340938,51.0933197913165],[2.60569142340228,51.09421337686268],[2.60427011619754,51.09412257582613],[2.60412656220507,51.09501615893021],[2.59986259005029,51.09474364546008],[2.60014985379394,51.09295649093104],[2.59872859421745,51.09286562237423],[2.59887224286808,51.09197204648899],[2.59745101552767,51.09188116256638],[2.59716365713439,51.09366830987364],[2.59005732642544,51.09321360931256],[2.59020114458178,51.09232004597027],[2.58167387993234,51.09177384376221],[2.58181785379753,51.09088029212313],[2.57897552758828,51.09069808970304],[2.57911954874879,51.08980454168272],[2.57627729731547,51.08962227378117],[2.57570095447466,51.09319644710649],[2.57285850684838,51.09301409348041],[2.57271434967402,51.09390763169324],[2.56987186844992,51.09372520448426],[2.5695834249675,51.09551227152389],[2.56531957917355,51.09523848817588],[2.56517526575544,51.09613201497348],[2.56801787866885,51.09631455864343],[2.56787361254305,51.09720808906752],[2.57071630028548,51.09739056725368],[2.5705720814575,51.09828410130342],[2.57625762720534,51.09864885715933],[2.57611350989913,51.0995423988835],[2.58037780461774,51.09981578930029],[2.58023376173696,51.10070933667043],[2.58307670484618,51.10089151406419],[2.58293270928812,51.10178506505451],[2.58719724388698,51.10205820681119],[2.58705332277339,51.10295176344306],[2.58989642579201,51.10313377505383],[2.58975255201494,51.10402733530293],[2.59259572983842,51.10420928140343],[2.59245190340391,51.10510284526902],[2.59529515603032,51.10528472585565],[2.59515137694518,51.10617829333682],[2.59799470437253,51.10636010840562],[2.59813842921329,51.10546653688522],[2.60043653068203,51.10561341570451]]],"type":"Polygon"}
+}

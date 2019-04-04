@@ -1,0 +1,118 @@
+{
+  "id": 101809441,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000188,
+    "geom:area_square_m":1454745.070883,
+    "geom:bbox":"3.33428481233,51.2362585218,3.35906475294,51.2523604559",
+    "geom:latitude":51.244842,
+    "geom:longitude":3.344365,
+    "iso:country":"BE",
+    "lbl:latitude":51.244759,
+    "lbl:longitude":3.344177,
+    "mps:latitude":51.244759,
+    "mps:longitude":3.344177,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bul_x_preferred":[
+        "\u041c\u043e\u0435\u0440\u043a\u0435\u0440\u043a\u0435"
+    ],
+    "name:ceb_x_preferred":[
+        "Moerkerke"
+    ],
+    "name:dut_x_preferred":[
+        "Moerkerke"
+    ],
+    "name:eng_x_preferred":[
+        "Moerkerke"
+    ],
+    "name:fra_x_preferred":[
+        "Moerkerke"
+    ],
+    "name:fre_x_preferred":[
+        "Moerkerke"
+    ],
+    "name:hun_x_preferred":[
+        "Moerkerke"
+    ],
+    "name:nld_x_preferred":[
+        "Moerkerke"
+    ],
+    "name:por_x_preferred":[
+        "Moerkerke"
+    ],
+    "name:swe_x_preferred":[
+        "Moerkerke"
+    ],
+    "name:vls_x_preferred":[
+        "Moerkerke"
+    ],
+    "qs:a0":"Belgi\u00eb#Belgique#Belgien",
+    "qs:a1":"*West-Vlanderen",
+    "qs:a1r":"0Vlaams Gewest",
+    "qs:a2":"Brugge",
+    "qs:adm0":"Belgi\u00eb#Belgique#Belgien",
+    "qs:la":"Damme",
+    "qs:la_lc":"*BE231006",
+    "qs:level":"locality",
+    "qs:loc":"Moerkerke",
+    "qs:loc_alt":"Moerkerke",
+    "qs:pop":0,
+    "qs:source":"LCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":39,
+    "wof:belongsto":[
+        85681709,
+        102191581,
+        1108830063,
+        85632997,
+        404227357,
+        102050003
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2791098,
+        "gp:id":974354,
+        "qs:id":1077683,
+        "qs_pg:id":1077683,
+        "wd:id":"Q2765413",
+        "wk:page":"Moerkerke"
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"2bdf9e51cb26ae17b29b11df239509d2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102050003,
+            "localadmin_id":1108830063,
+            "locality_id":101809441,
+            "macroregion_id":404227357,
+            "region_id":85681709
+        }
+    ],
+    "wof:id":101809441,
+    "wof:lastmodified":1527715165,
+    "wof:name":"Moerkerke",
+    "wof:parent_id":1108830063,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.33428481233386,
+    51.23625852177076,
+    3.35906475293751,
+    51.25236045588781
+],
+  "geometry": {"coordinates":[[[3.3390836694457,51.25236045588781],[3.33921363925236,51.25146590714269],[3.34206825386497,51.25162956160989],[3.34219816250118,51.25073500883883],[3.34362544935328,51.25081680801998],[3.34375532427867,51.24992225305141],[3.34660985707012,51.25008579531061],[3.3467396708329,51.24919123631872],[3.34959416737121,51.24935470499429],[3.34972391997616,51.24846014198113],[3.35115114778427,51.24854184826944],[3.35128086668851,51.24764728306138],[3.35413528137889,51.24781063954157],[3.35426493913275,51.24691607031502],[3.35569212601342,51.24699772050781],[3.35582175007284,51.24610314908784],[3.35867608290073,51.24626639338095],[3.35906475293751,51.24358266596499],[3.35763766654389,51.2435010580275],[3.35750808865504,51.24439563237968],[3.34894550339538,51.2439056067202],[3.34933471236849,51.24122191538368],[3.34790771346599,51.24114018873382],[3.34842668108689,51.23756193573308],[3.34414604161873,51.23731667281663],[3.3442758502178,51.23642211411629],[3.34142216875245,51.23625852177076],[3.34077278888435,51.2407312932981],[3.33934581796069,51.24064946177435],[3.33921589578762,51.24154401313956],[3.33778890209015,51.24146216230929],[3.33765894621973,51.24235671147557],[3.33480491794649,51.24219295372137],[3.33428481233386,51.24577113204782],[3.33713906016555,51.24593490443175],[3.33622901859883,51.25219672782953],[3.3390836694457,51.25236045588781]]],"type":"Polygon"}
+}

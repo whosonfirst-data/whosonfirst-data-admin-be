@@ -1,0 +1,122 @@
+{
+  "id": 1125963193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.56679,50.66535,4.56679,50.66535",
+    "geom:latitude":50.66535,
+    "geom:longitude":4.56679,
+    "gn:gn_country":"BE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":9557,
+    "gn:population":9557,
+    "iso:country":"BE",
+    "lbl:latitude":50.66535,
+    "lbl:longitude":4.56679,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Ottignies"
+    ],
+    "name:eng_x_preferred":[
+        "Ottignies"
+    ],
+    "name:fre_x_preferred":[
+        "Ottignies"
+    ],
+    "name:ger_x_preferred":[
+        "Ottignies"
+    ],
+    "name:lit_x_preferred":[
+        "Otinji Luven la Njuvas"
+    ],
+    "name:rus_x_preferred":[
+        "\u041e\u0442\u0442\u0438\u043d\u044c\u0438"
+    ],
+    "name:spa_x_preferred":[
+        "Ottignies"
+    ],
+    "name:unk_x_variant":[
+        "Ottignies-Louvain-la-Neuve (Ottignies)"
+    ],
+    "name:wln_x_preferred":[
+        "Ocgniye"
+    ],
+    "qs_pg:aaroncc":"BE",
+    "qs_pg:gn_country":"BE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2789570,
+    "qs_pg:gn_pop":9557,
+    "qs_pg:name":"Ottignies",
+    "qs_pg:name_adm0":"Belgique",
+    "qs_pg:name_adm1":"Brabant Wallon",
+    "qs_pg:photos":1692,
+    "qs_pg:photos_1k":343,
+    "qs_pg:photos_9k":7,
+    "qs_pg:photos_9r":8,
+    "qs_pg:photos_all":1692,
+    "qs_pg:photos_sr":14,
+    "qs_pg:pop_sr":5,
+    "qs_pg:qs_id":221773,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424757,
+    "qs_pg:woe_id":975268,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424757,
+    "woe:name_adm0":"Belgique",
+    "woe:name_adm1":"Brabant Wallon",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85681693,
+        102191581,
+        85632997,
+        404227353,
+        102049945
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2789570,
+        "gp:id":975268,
+        "qs_pg:id":221773,
+        "wd:id":"Q3357775"
+    },
+    "wof:country":"BE",
+    "wof:created":1497297878,
+    "wof:geomhash":"0fa522ee6e279708cb305112c1da1af5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049945,
+            "locality_id":1125963193,
+            "macroregion_id":404227353,
+            "region_id":85681693
+        }
+    ],
+    "wof:id":1125963193,
+    "wof:lastmodified":1513899449,
+    "wof:name":"Ottignies",
+    "wof:parent_id":102049945,
+    "wof:placetype":"locality",
+    "wof:population":9557,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.56679,
+    50.66535,
+    4.56679,
+    50.66535
+],
+  "geometry": {"coordinates":[4.56679,50.66535],"type":"Point"}
+}

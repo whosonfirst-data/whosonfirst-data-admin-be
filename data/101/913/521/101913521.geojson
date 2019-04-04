@@ -1,0 +1,85 @@
+{
+  "id": 101913521,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-22",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-22",
+    "geom:area":0.0,
+    "geom:area_square_m":185.214046,
+    "geom:bbox":"5.10724309917,51.0628002182,5.10733520484,51.0636723513",
+    "geom:latitude":51.063092,
+    "geom:longitude":5.107286,
+    "iso:country":"BE",
+    "lbl:latitude":51.062835,
+    "lbl:longitude":5.107306,
+    "mps:latitude":51.062835,
+    "mps:longitude":5.107306,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "qs:a0":"Belgi\u00eb#Belgique#Belgien",
+    "qs:a1":"*Limburg",
+    "qs:a1r":"0Vlaams Gewest",
+    "qs:a2":"Hasselt",
+    "qs:adm0":"Belgi\u00eb#Belgique#Belgien",
+    "qs:la":"Houthalen-Helchteren",
+    "qs:la_lc":"*BE272039",
+    "qs:level":"locality",
+    "qs:loc":"Hulst",
+    "qs:loc_alt":"Hulst",
+    "qs:pop":0,
+    "qs:source":"LCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-multi-in-poly-resolved",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":454,
+    "wof:belongsto":[
+        85681705,
+        102191581,
+        1108830641,
+        85632997,
+        404227357,
+        102049975
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2795160,
+        "gp:id":977732,
+        "qs:id":3,
+        "wd:id":"Q10073"
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"e0f66dcdd22939272001fd8046663aac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049975,
+            "localadmin_id":1108830641,
+            "locality_id":101913521,
+            "macroregion_id":404227357,
+            "region_id":85681705
+        }
+    ],
+    "wof:id":101913521,
+    "wof:lastmodified":1534985845,
+    "wof:name":"Hulst",
+    "wof:parent_id":1108830641,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[
+        1175610557
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.10724309916799,
+    51.06280021819339,
+    5.10733520483581,
+    51.0636723513129
+],
+  "geometry": {"coordinates":[[[5.10728064763293,51.06280021819339],[5.10724309916799,51.0636723513129],[5.10733520483581,51.06280252180761],[5.10728064763293,51.06280021819339]]],"type":"Polygon"}
+}

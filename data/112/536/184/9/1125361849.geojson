@@ -1,0 +1,102 @@
+{
+  "id": 1125361849,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2017-05-19",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.06779,49.79689,5.06779,49.79689",
+    "geom:latitude":49.79689,
+    "geom:longitude":5.06779,
+    "gn:gn_country":"BE",
+    "gn:gn_fcode":"ADM4",
+    "gn:gn_pop":5445,
+    "gn:population":5445,
+    "iso:country":"BE",
+    "lbl:latitude":49.79689,
+    "lbl:longitude":5.06779,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bel_x_preferred":[
+        "\u0413\u043e\u0440\u0430\u0434 \u0411\u0443\u0451\u043d"
+    ],
+    "name:bul_x_preferred":[
+        "\u0411\u0443\u0439\u043e\u043d"
+    ],
+    "name:est_x_preferred":[
+        "Bouilloni vald"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u0648\u06cc\u0646"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d6\u30a4\u30e8\u30f3"
+    ],
+    "name:kor_x_preferred":[
+        "\ubd80\uc6a9"
+    ],
+    "name:lat_x_preferred":[
+        "Bullionium"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0443\u0439\u043e\u043d"
+    ],
+    "name:wln_x_preferred":[
+        "Bouyon"
+    ],
+    "name:zho_x_preferred":[
+        "\u5e03\u6c38"
+    ],
+    "qs_pg:aaroncc":"BE",
+    "qs_pg:gn_country":"BE",
+    "qs_pg:gn_fcode":"ADM4",
+    "qs_pg:gn_id":2801284,
+    "qs_pg:gn_pop":5445,
+    "qs_pg:name":"Bouillon",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":5,
+    "qs_pg:qs_id":92752,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85632997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2801284,
+        "qs_pg:id":92752
+    },
+    "wof:country":"BE",
+    "wof:created":1497046848,
+    "wof:geomhash":"9fff7eeb279b85086babf9848f071b7d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "localadmin_id":1125361849
+        }
+    ],
+    "wof:id":1125361849,
+    "wof:lastmodified":1505185646,
+    "wof:name":"Bouillon",
+    "wof:parent_id":-1,
+    "wof:placetype":"localadmin",
+    "wof:population":5445,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.06779,
+    49.79689,
+    5.06779,
+    49.79689
+],
+  "geometry": {"coordinates":[5.06779,49.79689],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1343495383,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.35305,50.64818,5.35305,50.64818",
+    "geom:latitude":50.64818,
+    "geom:longitude":5.35305,
+    "gn:admin1_code":"WAL",
+    "gn:admin2_code":"WLG",
+    "gn:admin3_code":"64.0",
+    "gn:admin4_code":"64023.0",
+    "gn:asciiname":"Malplaquet",
+    "gn:country_code":"BE",
+    "gn:dem":162,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2791823,
+    "gn:latitude":50.64818,
+    "gn:longitude":5.35305,
+    "gn:modification_date":"2017-03-25",
+    "gn:name":"Malplaquet",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681691,
+        102191581,
+        85632997,
+        404227353,
+        102049937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2791823,
+        "wk:page":"Malplaquet"
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"4dd890889878160d295fb19f2b5154c5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049937,
+            "locality_id":1343495383,
+            "macroregion_id":404227353,
+            "region_id":85681691
+        }
+    ],
+    "wof:id":1343495383,
+    "wof:lastmodified":1537487547,
+    "wof:name":"Malplaquet",
+    "wof:parent_id":102049937,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.35305,
+    50.64818,
+    5.35305,
+    50.64818
+],
+  "geometry": {"coordinates":[5.35305,50.64818],"type":"Point"}
+}

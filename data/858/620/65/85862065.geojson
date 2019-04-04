@@ -1,0 +1,140 @@
+{
+  "id": 85862065,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":2002854.302735,
+    "geom:bbox":"5.572111,50.643456,5.572111,50.643456",
+    "geom:latitude":50.643456,
+    "geom:longitude":5.572111,
+    "gn:id":"",
+    "iso:country":"BE",
+    "lbl:latitude":50.643456,
+    "lbl:longitude":5.572111,
+    "mps:latitude":50.6438,
+    "mps:longitude":5.565969,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":13.0,
+    "mz:tier_locality":3,
+    "name:deu_x_preferred":[
+        "Bahnhof Li\u00e8ge-Guillemins"
+    ],
+    "name:epo_x_preferred":[
+        "Li\u00e8ge-Guillemins"
+    ],
+    "name:fra_x_preferred":[
+        "Gare de Li\u00e8ge-Guillemins"
+    ],
+    "name:fra_x_variant":[
+        "Jonfosse"
+    ],
+    "name:hun_x_preferred":[
+        "Li\u00e8ge-Guillemins vas\u00fat\u00e1llom\u00e1s"
+    ],
+    "name:ita_x_preferred":[
+        "Stazione di Li\u00e8ge-Guillemins"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ea\u30a8\u30fc\u30b8\u30e5\uff1d\u30ae\u30e6\u30de\u30f3\u99c5"
+    ],
+    "name:ltz_x_preferred":[
+        "Gare Li\u00e8ge-Guillemins"
+    ],
+    "name:nld_x_preferred":[
+        "Station Luik-Guillemins"
+    ],
+    "name:pol_x_preferred":[
+        "Li\u00e8ge-Guillemins"
+    ],
+    "name:spa_x_preferred":[
+        "Estaci\u00f3n de Lieja Guillemins"
+    ],
+    "name:unk_x_variant":[
+        "Jonfosse"
+    ],
+    "qs:gn_adm0_cc":"BE",
+    "qs:gn_id":0,
+    "qs:gn_local":2792413,
+    "qs:gn_nam_loc":"Li\u00e8ge, Li\u00e8ge, Li\u00e8ge, BE",
+    "qs:gn_namadm1":"WAL",
+    "qs:local_max":5890,
+    "qs:local_sum":27074,
+    "qs:localhoods":35,
+    "qs:name":"Jonfosse",
+    "qs:name_adm0":"Belgique",
+    "qs:name_adm1":"Li\u00e8ge",
+    "qs:name_adm2":"Li\u00e8ge",
+    "qs:name_lau":"Li\u00e8ge",
+    "qs:name_local":"Li\u00e8ge",
+    "qs:photo_max":1069,
+    "qs:photo_sum":5845,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":42,
+    "qs:woe_adm0":23424757,
+    "qs:woe_adm1":7153300,
+    "qs:woe_adm2":12591793,
+    "qs:woe_lau":12602393,
+    "qs:woe_local":973540,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        85681691,
+        102191581,
+        85632997,
+        404227353,
+        101748083,
+        102049941
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":20098285,
+        "qs:id":895785,
+        "qs_pg:id":895785
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"e2a068468e6816ce752054d9e0b9fa72",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049941,
+            "locality_id":101748083,
+            "macroregion_id":404227353,
+            "neighbourhood_id":85862065,
+            "region_id":85681691
+        }
+    ],
+    "wof:id":85862065,
+    "wof:lang":[
+        "fre"
+    ],
+    "wof:lastmodified":1531870537,
+    "wof:name":"Jonfosse",
+    "wof:parent_id":101748083,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.572111,
+    50.643456,
+    5.572111,
+    50.643456
+],
+  "geometry": {"coordinates":[5.572111,50.643456],"type":"Point"}
+}

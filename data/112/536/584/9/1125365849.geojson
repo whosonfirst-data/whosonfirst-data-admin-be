@@ -1,0 +1,224 @@
+{
+  "id": 1125365849,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2017-05-19",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.41667,51.21667,4.41667,51.21667",
+    "geom:latitude":51.21667,
+    "geom:longitude":4.41667,
+    "gn:gn_country":"BE",
+    "gn:gn_fcode":"ADM4",
+    "gn:gn_pop":494009,
+    "gn:population":494009,
+    "iso:country":"BE",
+    "lbl:latitude":51.21667,
+    "lbl:longitude":4.41667,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u0623\u0646\u062a\u0641\u064a\u0631\u0628"
+    ],
+    "name:arg_x_preferred":[
+        "Provincia dAnvers"
+    ],
+    "name:bel_x_preferred":[
+        "\u041f\u0440\u0430\u0432\u0456\u043d\u0446\u044b\u044f \u0410\u043d\u0442\u0432\u0435\u0440\u043f\u0435\u043d"
+    ],
+    "name:bul_x_preferred":[
+        "\u0410\u043d\u0442\u0432\u0435\u0440\u043f\u0435\u043d"
+    ],
+    "name:cat_x_preferred":[
+        "Prov\u00edncia dAnvers"
+    ],
+    "name:ceb_x_preferred":[
+        "Provincie Antwerpen"
+    ],
+    "name:ces_x_preferred":[
+        "Antverpy"
+    ],
+    "name:deu_x_preferred":[
+        "Provinz Antwerpen"
+    ],
+    "name:ell_x_preferred":[
+        "\u0391\u03bc\u03b2\u03ad\u03c1\u03c3\u03b1"
+    ],
+    "name:epo_x_preferred":[
+        "Antverpeno"
+    ],
+    "name:est_x_preferred":[
+        "Antwerpeni provints"
+    ],
+    "name:eus_x_preferred":[
+        "Anberesko probintzia"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0633\u062a\u0627\u0646 \u0622\u0646\u062a\u0648\u0631\u067e"
+    ],
+    "name:fin_x_preferred":[
+        "Antwerpenin provinssi"
+    ],
+    "name:fra_x_preferred":[
+        "Province dAnvers"
+    ],
+    "name:glg_x_preferred":[
+        "Provincia de Antuerpen"
+    ],
+    "name:hye_x_preferred":[
+        "\u0531\u0576\u057f\u057e\u0565\u0580\u057a\u0565\u0576"
+    ],
+    "name:isl_x_preferred":[
+        "Antwerpen-h\u00e9ra\u00f0"
+    ],
+    "name:ita_x_preferred":[
+        "Provincia di Anversa"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a2\u30f3\u30c8\u30a6\u30a7\u30eb\u30da\u30f3\u5dde"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d0\u10dc\u10e2\u10d5\u10d4\u10e0\u10de\u10d4\u10dc\u10d8\u10e1 \u10de\u10e0\u10dd\u10d5\u10d8\u10dc\u10ea\u10d8\u10d0"
+    ],
+    "name:kor_x_preferred":[
+        "\uc548\ud2b8\ubca0\ub974\ud39c \uc8fc"
+    ],
+    "name:ksh_x_preferred":[
+        "Antv\u00e4rrpe"
+    ],
+    "name:lat_x_preferred":[
+        "Antverpia"
+    ],
+    "name:lav_x_preferred":[
+        "Antverpenes province"
+    ],
+    "name:lim_x_preferred":[
+        "Antwerpe"
+    ],
+    "name:lit_x_preferred":[
+        "Antverpeno provincija"
+    ],
+    "name:ltz_x_preferred":[
+        "Prov\u00ebnz Antwerpen"
+    ],
+    "name:mar_x_preferred":[
+        "\u0905\u0901\u091f\u0935\u0930\u094d\u092a"
+    ],
+    "name:msa_x_preferred":[
+        "Wilayah Antwerpen"
+    ],
+    "name:nan_x_preferred":[
+        "Antwerp S\u00e9ng"
+    ],
+    "name:nld_x_preferred":[
+        "Antwerpen"
+    ],
+    "name:oci_x_preferred":[
+        "Prov\u00edncia dAnv\u00e8rs"
+    ],
+    "name:pnb_x_preferred":[
+        "\u0635\u0648\u0628\u06c1 \u0627\u0646\u0679\u06cc\u0648\u0631\u067e"
+    ],
+    "name:pol_x_preferred":[
+        "Prowincja Antwerpia"
+    ],
+    "name:por_x_preferred":[
+        "Antu\u00e9rpia"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u043d\u0442\u0432\u0435\u0440\u043f\u0435\u043d"
+    ],
+    "name:slk_x_preferred":[
+        "Antverpy"
+    ],
+    "name:spa_x_preferred":[
+        "Provincia de Amberes"
+    ],
+    "name:srp_x_preferred":[
+        "\u041f\u0440\u043e\u0432\u0438\u043d\u0446\u0438\u0458\u0430 \u0410\u043d\u0442\u0432\u0435\u0440\u043f\u0435\u043d"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e21\u0e13\u0e11\u0e25\u0e41\u0e2d\u0e19\u0e15\u0e4c\u0e40\u0e27\u0e34\u0e23\u0e4c\u0e1b"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0410\u043d\u0442\u0432\u0435\u0440\u043f\u0435\u043d"
+    ],
+    "name:unk_x_variant":[
+        "Antwerp"
+    ],
+    "name:urd_x_preferred":[
+        "\u0627\u06cc\u0646\u0679\u0648\u0631\u067e"
+    ],
+    "name:vls_x_preferred":[
+        "Antwerpn"
+    ],
+    "name:zho_x_preferred":[
+        "\u5b89\u7279\u885b\u666e\u7701"
+    ],
+    "qs_pg:aaroncc":"BE",
+    "qs_pg:gn_country":"BE",
+    "qs_pg:gn_fcode":"ADM4",
+    "qs_pg:gn_id":2803139,
+    "qs_pg:gn_pop":494009,
+    "qs_pg:name":"Antwerpen",
+    "qs_pg:name_adm0":"Belgique",
+    "qs_pg:name_adm1":"Antwerpen",
+    "qs_pg:photos":3,
+    "qs_pg:photos_1k":1,
+    "qs_pg:photos_9k":286,
+    "qs_pg:photos_9r":25,
+    "qs_pg:photos_all":64539,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":10,
+    "qs_pg:qs_id":1175408,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
+    "qs_pg:woe_adm0":23424757,
+    "qs_pg:woe_id":12602254,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424757,
+    "woe:name_adm0":"Belgique",
+    "woe:name_adm1":"Antwerpen",
+    "woe:placetype":"LocalAdmin",
+    "wof:belongsto":[
+        85632997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2803139,
+        "gp:id":12602254,
+        "qs_pg:id":1175408
+    },
+    "wof:country":"BE",
+    "wof:created":1497047075,
+    "wof:geomhash":"addabdd1c9e097bcf048f56f077afbbd",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "localadmin_id":1125365849
+        }
+    ],
+    "wof:id":1125365849,
+    "wof:lastmodified":1505185646,
+    "wof:name":"Antwerpen",
+    "wof:parent_id":-1,
+    "wof:placetype":"localadmin",
+    "wof:population":494009,
+    "wof:population_rank":10,
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.41667,
+    51.21667,
+    4.41667,
+    51.21667
+],
+  "geometry": {"coordinates":[4.41667,51.21667],"type":"Point"}
+}

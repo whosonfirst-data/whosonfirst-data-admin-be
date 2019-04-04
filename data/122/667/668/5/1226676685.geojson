@@ -1,0 +1,74 @@
+{
+  "id": 1226676685,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.77275,51.16228,3.77275,51.16228",
+    "geom:latitude":51.16228,
+    "geom:longitude":3.77275,
+    "gn:admin1_code":"VLG",
+    "gn:admin2_code":"VOV",
+    "gn:admin3_code":"44.0",
+    "gn:admin4_code":"44021.0",
+    "gn:asciiname":"Pachtgoederen",
+    "gn:country_code":"BE",
+    "gn:dem":2,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2789381,
+    "gn:latitude":51.16228,
+    "gn:longitude":3.77275,
+    "gn:modification_date":"2016-08-02",
+    "gn:name":"Pachtgoederen",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681733,
+        102191581,
+        1108830083,
+        85632997,
+        404227357,
+        102049989
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2789381
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"d9978c9d48961637313bc4e02170034f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049989,
+            "localadmin_id":1108830083,
+            "locality_id":1226676685,
+            "macroregion_id":404227357,
+            "region_id":85681733
+        }
+    ],
+    "wof:id":1226676685,
+    "wof:lastmodified":1536814347,
+    "wof:name":"Pachtgoederen",
+    "wof:parent_id":1108830083,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.77275,
+    51.16228,
+    3.77275,
+    51.16228
+],
+  "geometry": {"coordinates":[3.77275,51.16228],"type":"Point"}
+}

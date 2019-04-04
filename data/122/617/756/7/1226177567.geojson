@@ -1,0 +1,80 @@
+{
+  "id": 1226177567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.2,50.71667,3.2,50.71667",
+    "geom:latitude":50.71667,
+    "geom:longitude":3.2,
+    "gn:admin1_code":"VLG",
+    "gn:admin2_code":"VWV",
+    "gn:asciiname":"Les Ballons",
+    "gn:country_code":"BE",
+    "gn:dem":25,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2792769,
+    "gn:latitude":50.71667,
+    "gn:longitude":3.2,
+    "gn:modification_date":"2010-08-09",
+    "gn:name":"Les Ballons",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ballons",
+        "Les Ballons"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85683445,
+        102191581,
+        404228283,
+        1159322407,
+        85633147,
+        1108826399,
+        136253037,
+        102072569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2792769
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"fdceba413481c7eac2ce53cf0b71e701",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "county_id":102072569,
+            "empire_id":136253037,
+            "localadmin_id":1159322407,
+            "locality_id":1226177567,
+            "macrocounty_id":404228283,
+            "macroregion_id":1108826399,
+            "region_id":85683445
+        }
+    ],
+    "wof:id":1226177567,
+    "wof:lastmodified":1537586981,
+    "wof:name":"Les Ballons",
+    "wof:parent_id":1159322407,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.2,
+    50.71667,
+    3.2,
+    50.71667
+],
+  "geometry": {"coordinates":[3.2,50.71667],"type":"Point"}
+}

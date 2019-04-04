@@ -1,0 +1,107 @@
+{
+  "id": 1125859939,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.32087,50.60679,3.32087,50.60679",
+    "geom:latitude":50.60679,
+    "geom:longitude":3.32087,
+    "gn:gn_country":"BE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"BE",
+    "lbl:latitude":50.60679,
+    "lbl:longitude":3.32087,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Marquain"
+    ],
+    "name:eng_x_preferred":[
+        "Marquain"
+    ],
+    "name:fre_x_preferred":[
+        "Marquain"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d1\u05d9\u05ea \u05d4\u05d9\u05dc\u05d3\u05d9\u05dd \u05d1\u05de\u05d0\u05e8\u05e7\u05d9\u05df"
+    ],
+    "name:hun_x_preferred":[
+        "Marquain"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30de\u30eb\u30ab\u30f3"
+    ],
+    "qs_pg:aaroncc":"BE",
+    "qs_pg:gn_country":"BE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2791653,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Marquain",
+    "qs_pg:name_adm0":"Belgique",
+    "qs_pg:name_adm1":"Hainaut",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":3,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1181112,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424757,
+    "qs_pg:woe_id":974006,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424757,
+    "woe:name_adm0":"Belgique",
+    "woe:name_adm1":"Hainaut",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85681723,
+        102191581,
+        85632997,
+        404227353,
+        102049951
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2791653,
+        "gp:id":974006,
+        "qs_pg:id":1181112,
+        "wd:id":"Q2784732"
+    },
+    "wof:country":"BE",
+    "wof:created":1497293786,
+    "wof:geomhash":"e404f22912db994c62f4c68d6cee9254",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049951,
+            "locality_id":1125859939,
+            "macroregion_id":404227353,
+            "region_id":85681723
+        }
+    ],
+    "wof:id":1125859939,
+    "wof:lastmodified":1513899392,
+    "wof:name":"Marquain",
+    "wof:parent_id":102049951,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.32087,
+    50.60679,
+    3.32087,
+    50.60679
+],
+  "geometry": {"coordinates":[3.32087,50.60679],"type":"Point"}
+}

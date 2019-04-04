@@ -1,0 +1,105 @@
+{
+  "id": 1125990703,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.95196,50.79433,3.95196,50.79433",
+    "geom:latitude":50.79433,
+    "geom:longitude":3.95196,
+    "gn:gn_country":"BE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"BE",
+    "lbl:latitude":50.79433,
+    "lbl:longitude":3.95196,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Grimminge"
+    ],
+    "name:eng_x_preferred":[
+        "Grimminge"
+    ],
+    "name:fre_x_preferred":[
+        "Grimminge"
+    ],
+    "name:hun_x_preferred":[
+        "Grimminge"
+    ],
+    "qs_pg:aaroncc":"BE",
+    "qs_pg:gn_country":"BE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2797107,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Grimminge",
+    "qs_pg:name_adm0":"Belgique",
+    "qs_pg:name_adm1":"Oost-Vlaanderen",
+    "qs_pg:photos":9,
+    "qs_pg:photos_1k":2,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":9,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1187678,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424757,
+    "qs_pg:woe_id":970334,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424757,
+    "woe:name_adm0":"Belgique",
+    "woe:name_adm1":"Oost-Vlaanderen",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85681733,
+        102191581,
+        1108830521,
+        85632997,
+        404227357,
+        102049967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2797107,
+        "gp:id":970334,
+        "qs_pg:id":1187678,
+        "wd:id":"Q3473244"
+    },
+    "wof:country":"BE",
+    "wof:created":1497299041,
+    "wof:geomhash":"cf0e7c9350ff8ea47cec1e24ab3612d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049967,
+            "localadmin_id":1108830521,
+            "locality_id":1125990703,
+            "macroregion_id":404227357,
+            "region_id":85681733
+        }
+    ],
+    "wof:id":1125990703,
+    "wof:lastmodified":1513899291,
+    "wof:name":"Grimminge",
+    "wof:parent_id":1108830521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.95196,
+    50.79433,
+    3.95196,
+    50.79433
+],
+  "geometry": {"coordinates":[3.95196,50.79433],"type":"Point"}
+}

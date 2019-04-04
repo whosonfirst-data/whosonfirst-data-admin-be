@@ -1,0 +1,147 @@
+{
+  "id": 101809267,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000224,
+    "geom:area_square_m":1743825.977524,
+    "geom:bbox":"2.90327995518,50.9055903299,2.93457631022,50.9215098593",
+    "geom:latitude":50.913212,
+    "geom:longitude":2.92054,
+    "iso:country":"BE",
+    "lbl:latitude":50.913935,
+    "lbl:longitude":2.919472,
+    "mps:latitude":50.913935,
+    "mps:longitude":2.919472,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bre_x_preferred":[
+        "Langemark"
+    ],
+    "name:bul_x_preferred":[
+        "\u041b\u0430\u043d\u0433\u0435\u043c\u0430\u0440\u043a"
+    ],
+    "name:ceb_x_preferred":[
+        "Langemark"
+    ],
+    "name:chi_x_preferred":[
+        "\u862d\u5091\u99ac\u514b"
+    ],
+    "name:deu_x_preferred":[
+        "Langemark"
+    ],
+    "name:dut_x_preferred":[
+        "Langemark"
+    ],
+    "name:eng_x_preferred":[
+        "Langemark"
+    ],
+    "name:fra_x_preferred":[
+        "Langemark"
+    ],
+    "name:fre_x_preferred":[
+        "Langemark"
+    ],
+    "name:ger_x_preferred":[
+        "Langemark"
+    ],
+    "name:hun_x_preferred":[
+        "Langemark"
+    ],
+    "name:nld_x_preferred":[
+        "Langemark"
+    ],
+    "name:nno_x_preferred":[
+        "Langemark"
+    ],
+    "name:nob_x_preferred":[
+        "Langemark"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u0430\u043d\u0433\u0435\u043c\u0430\u0440\u043a"
+    ],
+    "name:slv_x_preferred":[
+        "Langemark"
+    ],
+    "name:swe_x_preferred":[
+        "Langemark"
+    ],
+    "name:unk_x_variant":[
+        "Langemarck"
+    ],
+    "name:urd_x_preferred":[
+        "\u0644\u06cc\u0646\u062c \u0645\u0627\u0631\u06a9"
+    ],
+    "name:vls_x_preferred":[
+        "Langemark"
+    ],
+    "qs:a0":"Belgi\u00eb#Belgique#Belgien",
+    "qs:a1":"*West-Vlanderen",
+    "qs:a1r":"0Vlaams Gewest",
+    "qs:a2":"Ieper",
+    "qs:adm0":"Belgi\u00eb#Belgique#Belgien",
+    "qs:la":"Langemark-Poelkapelle",
+    "qs:la_lc":"*BE233040",
+    "qs:level":"locality",
+    "qs:loc":"Langemark",
+    "qs:loc_alt":"Langemark",
+    "qs:pop":0,
+    "qs:source":"LCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "wd:latitude":50.9133,
+    "wd:longitude":2.9181,
+    "wd:wordcount":370,
+    "wof:belongsto":[
+        85681709,
+        102191581,
+        1108830263,
+        85632997,
+        404227357,
+        102049971
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2793392,
+        "gp:id":972899,
+        "qs:id":1145537,
+        "qs_pg:id":1145537,
+        "wd:id":"Q726498",
+        "wk:page":"Langemark"
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"1d1e7aae0681e13eda444c81045c02ae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049971,
+            "localadmin_id":1108830263,
+            "locality_id":101809267,
+            "macroregion_id":404227357,
+            "region_id":85681709
+        }
+    ],
+    "wof:id":101809267,
+    "wof:lastmodified":1527715167,
+    "wof:name":"Langemark",
+    "wof:parent_id":1108830263,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.90327995518305,
+    50.90559032987414,
+    2.93457631022409,
+    50.92150985933398
+],
+  "geometry": {"coordinates":[[[2.91790276368101,50.92150985933398],[2.91831289720886,50.91882765791564],[2.92114584756314,50.91900145054166],[2.92128249187112,50.91810737873215],[2.9226989474339,50.91819424713992],[2.92283555831187,50.91730017299631],[2.92850132152637,50.91764746571641],[2.92836481827396,50.91854154753565],[2.92978129812684,50.91862832932543],[2.92991777447207,50.91773424558824],[2.93416716243394,50.91799448126267],[2.93457631022409,50.91531221031454],[2.93315992343418,50.91522548816334],[2.93329631991122,50.9143313989365],[2.92904726936479,50.9140711342996],[2.92932020418726,50.91228296610689],[2.92790391751248,50.91219618041998],[2.9283133515753,50.90951393077717],[2.92972955755926,50.90960071071152],[2.92986599565546,50.90870662475106],[2.9312821795973,50.90879338544835],[2.93155498246489,50.90700520845093],[2.92589049095352,50.9066580770837],[2.92602699018215,50.9057639956327],[2.92319482732785,50.90559032987414],[2.92305827432017,50.90648440748839],[2.92164217328747,50.90639754671292],[2.92123239447801,50.9090797713086],[2.91698387851125,50.90881906779367],[2.91712055864389,50.90792499910344],[2.91428829275185,50.90775111400603],[2.91442502013933,50.90685704874244],[2.9130089213761,50.90677008213714],[2.91273540629385,50.90855820840642],[2.91415155883681,50.9086451788545],[2.91346779134244,50.91311549686696],[2.90921894489696,50.91285450473362],[2.90935579214249,50.91196044772869],[2.90510707019024,50.91169930548097],[2.90497014225832,50.91259335671543],[2.90355388445164,50.91250627273536],[2.90327995518305,50.91429437010868],[2.90469626678259,50.91438145793768],[2.90442236515446,50.91616955749714],[2.90583873542425,50.91625663185323],[2.90597566260743,50.91536258035694],[2.91447382507096,50.91588465119435],[2.91433705929518,50.91677871422826],[2.91575346364067,50.91686566732949],[2.91520644285322,50.92044192300386],[2.91662295968683,50.92052886646854],[2.91648621507318,50.92142293127205],[2.91790276368101,50.92150985933398]]],"type":"Polygon"}
+}

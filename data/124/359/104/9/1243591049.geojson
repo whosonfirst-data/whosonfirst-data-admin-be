@@ -1,0 +1,72 @@
+{
+  "id": 1243591049,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.65476,50.61255,3.65476,50.61255",
+    "geom:latitude":50.61255,
+    "geom:longitude":3.65476,
+    "gn:admin1_code":"WAL",
+    "gn:admin2_code":"WHT",
+    "gn:admin3_code":"57.0",
+    "gn:admin4_code":"57094.0",
+    "gn:asciiname":"Chapelle-a-Wattines",
+    "gn:country_code":"BE",
+    "gn:dem":46,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2800502,
+    "gn:latitude":50.61255,
+    "gn:longitude":3.65476,
+    "gn:modification_date":"2009-01-18",
+    "gn:name":"Chapelle-\u00e0-Wattines",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681723,
+        102191581,
+        85632997,
+        404227353,
+        102049951
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2800502
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"d05b8fd9a6c4f21c243da8fb124804e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049951,
+            "locality_id":1243591049,
+            "macroregion_id":404227353,
+            "region_id":85681723
+        }
+    ],
+    "wof:id":1243591049,
+    "wof:lastmodified":1537090678,
+    "wof:name":"Chapelle-a-Wattines",
+    "wof:parent_id":102049951,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.65476,
+    50.61255,
+    3.65476,
+    50.61255
+],
+  "geometry": {"coordinates":[3.65476,50.61255],"type":"Point"}
+}

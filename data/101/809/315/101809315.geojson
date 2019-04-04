@@ -1,0 +1,111 @@
+{
+  "id": 101809315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000058,
+    "geom:area_square_m":448400.220321,
+    "geom:bbox":"4.16031580647,51.0446226125,4.17345508578,51.0524680701",
+    "geom:latitude":51.048821,
+    "geom:longitude":4.166787,
+    "iso:country":"BE",
+    "lbl:latitude":51.048991,
+    "lbl:longitude":4.166787,
+    "mps:latitude":51.048991,
+    "mps:longitude":4.166787,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:cat_x_preferred":[
+        "Kastel"
+    ],
+    "name:ceb_x_preferred":[
+        "Kastel"
+    ],
+    "name:deu_x_preferred":[
+        "Kastel"
+    ],
+    "name:dut_x_preferred":[
+        "Kastel"
+    ],
+    "name:eng_x_preferred":[
+        "Kastel"
+    ],
+    "name:glg_x_preferred":[
+        "Kastel"
+    ],
+    "name:pol_x_preferred":[
+        "Kasztel"
+    ],
+    "name:slk_x_preferred":[
+        "Kastel"
+    ],
+    "name:spa_x_preferred":[
+        "Kastel"
+    ],
+    "qs:a0":"Belgi\u00eb#Belgique#Belgien",
+    "qs:a1":"*Oost-Vlanderen",
+    "qs:a1r":"0Vlaams Gewest",
+    "qs:a2":"Dendermonde",
+    "qs:adm0":"Belgi\u00eb#Belgique#Belgien",
+    "qs:la":"Hamme",
+    "qs:la_lc":"*BE242008",
+    "qs:level":"locality",
+    "qs:loc":"Kastel",
+    "qs:loc_alt":"Kastel",
+    "qs:pop":0,
+    "qs:source":"LCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":59,
+    "wof:belongsto":[
+        85681733,
+        102191581,
+        1108830161,
+        85632997,
+        404227357,
+        102049979
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2794669,
+        "gp:id":971900,
+        "qs:id":408406,
+        "qs_pg:id":408406,
+        "wd:id":"Q2912835"
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"2d9dd015e18e95901c80fb2a0d187692",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049979,
+            "localadmin_id":1108830161,
+            "locality_id":101809315,
+            "macroregion_id":404227357,
+            "region_id":85681733
+        }
+    ],
+    "wof:id":101809315,
+    "wof:lastmodified":1527715169,
+    "wof:name":"Kastel",
+    "wof:parent_id":1108830161,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.16031580646984,
+    51.04462261247835,
+    4.17345508578114,
+    51.05246807006858
+],
+  "geometry": {"coordinates":[[[4.16424306098713,51.05246807006858],[4.16435622861599,51.05157247496936],[4.16577853831285,51.05164414192387],[4.16589167323048,51.05074854489692],[4.1701585447488,51.05096343641753],[4.1700454916795,51.05185903822019],[4.17146781755685,51.05193063546318],[4.17191988816751,51.04834821987833],[4.17334210896161,51.04841979333059],[4.17345508578114,51.04752418700673],[4.17203289226546,51.04745261514506],[4.17225888419819,51.04566140467335],[4.17083674927636,51.0455898185669],[4.17094976438602,51.04469421441911],[4.16952766077992,51.04462261247835],[4.1694146183961,51.04551821503526],[4.16799249155866,51.04544659407827],[4.16776633597073,51.0472377950033],[4.16065548970886,51.0468794129161],[4.16031580646984,51.04956618789709],[4.16173804946021,51.04963790394686],[4.16139839917116,51.05232468068999],[4.16424306098713,51.05246807006858]]],"type":"Polygon"}
+}

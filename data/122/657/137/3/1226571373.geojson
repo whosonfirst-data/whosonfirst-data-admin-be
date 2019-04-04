@@ -1,0 +1,78 @@
+{
+  "id": 1226571373,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.81278,51.23247,4.81278,51.23247",
+    "geom:latitude":51.23247,
+    "geom:longitude":4.81278,
+    "gn:admin1_code":"VLG",
+    "gn:admin2_code":"VAN",
+    "gn:admin3_code":"13.0",
+    "gn:admin4_code":"13019.0",
+    "gn:asciiname":"Heieinde",
+    "gn:country_code":"BE",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2796229,
+    "gn:latitude":51.23247,
+    "gn:longitude":4.81278,
+    "gn:modification_date":"2016-08-02",
+    "gn:name":"Heieinde",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Heieind",
+        "Heieinde"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681715,
+        102191581,
+        1108830113,
+        85632997,
+        404227357,
+        102050007
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2796229
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"8d6fc0460b82a28a940efcedf17fb55f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102050007,
+            "localadmin_id":1108830113,
+            "locality_id":1226571373,
+            "macroregion_id":404227357,
+            "region_id":85681715
+        }
+    ],
+    "wof:id":1226571373,
+    "wof:lastmodified":1537587021,
+    "wof:name":"Heieinde",
+    "wof:parent_id":1108830113,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.81278,
+    51.23247,
+    4.81278,
+    51.23247
+],
+  "geometry": {"coordinates":[4.81278,51.23247],"type":"Point"}
+}

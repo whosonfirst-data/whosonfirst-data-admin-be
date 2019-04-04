@@ -1,0 +1,78 @@
+{
+  "id": 1226572035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.28002,50.57274,3.28002,50.57274",
+    "geom:latitude":50.57274,
+    "geom:longitude":3.28002,
+    "gn:admin1_code":"WAL",
+    "gn:admin2_code":"WHT",
+    "gn:admin3_code":"57.0",
+    "gn:admin4_code":"57081.0",
+    "gn:asciiname":"Maraiche",
+    "gn:country_code":"BE",
+    "gn:dem":49,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2791783,
+    "gn:latitude":50.57274,
+    "gn:longitude":3.28002,
+    "gn:modification_date":"2017-03-25",
+    "gn:name":"Maraiche",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85683445,
+        102191581,
+        85633147,
+        404388327,
+        404228283,
+        1108826399,
+        136253037,
+        102068135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2791783
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"62c1850b2e9eaa63eb77d022b22f3f56",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "county_id":102068135,
+            "empire_id":136253037,
+            "localadmin_id":404388327,
+            "locality_id":1226572035,
+            "macrocounty_id":404228283,
+            "macroregion_id":1108826399,
+            "region_id":85683445
+        }
+    ],
+    "wof:id":1226572035,
+    "wof:lastmodified":1536961232,
+    "wof:name":"Maraiche",
+    "wof:parent_id":404388327,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.28002,
+    50.57274,
+    3.28002,
+    50.57274
+],
+  "geometry": {"coordinates":[3.28002,50.57274],"type":"Point"}
+}

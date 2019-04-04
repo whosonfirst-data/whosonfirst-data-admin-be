@@ -1,0 +1,110 @@
+{
+  "id": 85801001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":6836616.325704,
+    "geom:bbox":"5.587587,50.572362,5.587587,50.572362",
+    "geom:latitude":50.572362,
+    "geom:longitude":5.587587,
+    "gn:id":"",
+    "iso:country":"BE",
+    "lbl:latitude":50.572362,
+    "lbl:longitude":5.587587,
+    "mps:latitude":50.578891,
+    "mps:longitude":5.601881,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":14.0,
+    "mz:tier_locality":1,
+    "name:fra_x_preferred":[
+        "Colonster"
+    ],
+    "name:unk_x_variant":[
+        "Colonster"
+    ],
+    "qs:gn_adm0_cc":"BE",
+    "qs:gn_id":0,
+    "qs:gn_local":2784996,
+    "qs:gn_nam_loc":"Vaux-sous-Ch\u00e8vremont, Chaudfontaine, Li\u00e8ge, Li\u00e8ge, BE",
+    "qs:gn_namadm1":"WAL",
+    "qs:local_max":979,
+    "qs:local_sum":1201,
+    "qs:localhoods":2,
+    "qs:name":"Colonster",
+    "qs:name_adm0":"Belgique",
+    "qs:name_adm1":"Li\u00e8ge",
+    "qs:name_adm2":"Li\u00e8ge",
+    "qs:name_lau":"Chaudfontaine",
+    "qs:name_local":"Vaux-sous-Ch\u00e8vremont",
+    "qs:photo_max":88,
+    "qs:photo_sum":222,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":20,
+    "qs:woe_adm0":23424757,
+    "qs:woe_adm1":7153300,
+    "qs:woe_adm2":12591793,
+    "qs:woe_lau":12602497,
+    "qs:woe_local":978108,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        85681691,
+        102191581,
+        85632997,
+        404227353,
+        101755199,
+        102049941
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":968423,
+        "qs:id":1103057,
+        "qs_pg:id":1103057
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"f869cd8deb45279d034b3d60cb077f80",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049941,
+            "locality_id":101755199,
+            "macroregion_id":404227353,
+            "neighbourhood_id":85801001,
+            "region_id":85681691
+        }
+    ],
+    "wof:id":85801001,
+    "wof:lang":[
+        "fre"
+    ],
+    "wof:lastmodified":1531862055,
+    "wof:name":"Colonster",
+    "wof:parent_id":101755199,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.587587,
+    50.572362,
+    5.587587,
+    50.572362
+],
+  "geometry": {"coordinates":[5.587587,50.572362],"type":"Point"}
+}

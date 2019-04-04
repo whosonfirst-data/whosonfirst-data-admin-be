@@ -1,0 +1,72 @@
+{
+  "id": 1360321093,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.11667,50.06667,5.11667,50.06667",
+    "geom:latitude":50.06667,
+    "geom:longitude":5.11667,
+    "gn:admin1_code":"WAL",
+    "gn:admin2_code":"WLX",
+    "gn:admin3_code":"84.0",
+    "gn:admin4_code":"84075.0",
+    "gn:asciiname":"Quartier au Dore",
+    "gn:country_code":"BE",
+    "gn:dem":324,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2788492,
+    "gn:latitude":50.06667,
+    "gn:longitude":5.11667,
+    "gn:modification_date":"2017-03-25",
+    "gn:name":"Quartier au Dor\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681727,
+        102191581,
+        85632997,
+        404227353,
+        102049913
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2788492
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"8df2afa2369c95df8953c264b30e0f3d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049913,
+            "locality_id":1360321093,
+            "macroregion_id":404227353,
+            "region_id":85681727
+        }
+    ],
+    "wof:id":1360321093,
+    "wof:lastmodified":1536602003,
+    "wof:name":"Quartier au Dore",
+    "wof:parent_id":102049913,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.11667,
+    50.06667,
+    5.11667,
+    50.06667
+],
+  "geometry": {"coordinates":[5.11667,50.06667],"type":"Point"}
+}

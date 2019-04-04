@@ -1,0 +1,73 @@
+{
+  "id": 1293136873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.3817,50.76902,4.3817,50.76902",
+    "geom:latitude":50.76902,
+    "geom:longitude":4.3817,
+    "gn:admin1_code":"VLG",
+    "gn:asciiname":"Kleine Hut",
+    "gn:country_code":"BE",
+    "gn:dem":128,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2794379,
+    "gn:latitude":50.76902,
+    "gn:longitude":4.3817,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Kleine Hut",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Petite Espinette",
+        "Kleine Hut"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681713,
+        102191581,
+        85632997,
+        404227355,
+        102049957
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2794379
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"47d61a96fd096ec76c54fed2af36f6e6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":1293136873,
+            "macroregion_id":404227355,
+            "region_id":85681713
+        }
+    ],
+    "wof:id":1293136873,
+    "wof:lastmodified":1537587002,
+    "wof:name":"Kleine Hut",
+    "wof:parent_id":102049957,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.3817,
+    50.76902000000001,
+    4.3817,
+    50.76902000000001
+],
+  "geometry": {"coordinates":[4.3817,50.76902000000001],"type":"Point"}
+}

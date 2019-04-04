@@ -1,0 +1,477 @@
+{
+  "id": 404227355,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-17",
+    "edtf:inception":"uuuu",
+    "geom:area":0.020728,
+    "geom:area_square_m":161866734.322435,
+    "geom:bbox":"4.244673,50.763691,4.482281,50.913716",
+    "geom:latitude":50.836055,
+    "geom:longitude":4.370654,
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:ace_x_preferred":[
+        "Bruss\u00e8l"
+    ],
+    "name:ady_x_preferred":[
+        "\u0411\u0440\u044e\u0441\u0441\u0435\u043b"
+    ],
+    "name:afr_x_preferred":[
+        "Brusselse Hoofstedelike Gewes"
+    ],
+    "name:alb_x_preferred":[
+        "Brukseli"
+    ],
+    "name:amh_x_preferred":[
+        "\u1265\u1229\u12ad\u1234\u120d"
+    ],
+    "name:ara_x_preferred":[
+        "\u0625\u0642\u0644\u064a\u0645 \u0628\u0631\u0648\u0643\u0633\u0644 \u0627\u0644\u0639\u0627\u0635\u0645\u0629"
+    ],
+    "name:arc_x_preferred":[
+        "\u0712\u072a\u0718\u071f\u0723\u0720"
+    ],
+    "name:arg_x_preferred":[
+        "Rechi\u00f3n de Bruselas-Capital"
+    ],
+    "name:arm_x_preferred":[
+        "\u0532\u0580\u0575\u0578\u0582\u057d\u0565\u056c"
+    ],
+    "name:ast_x_preferred":[
+        "Rex\u00f3n de Bruxeles-Capital"
+    ],
+    "name:bak_x_preferred":[
+        "\u0411\u0440\u044e\u0441\u0441\u0435\u043b\u044c \u0431\u0430\u0448 \u04a1\u0430\u043b\u0430 \u0440\u0435\u0433\u0438\u043e\u043d\u044b"
+    ],
+    "name:bam_x_preferred":[
+        "Brussels"
+    ],
+    "name:baq_x_preferred":[
+        "Brusela-Hiriburua eskualdea"
+    ],
+    "name:bel_x_preferred":[
+        "\u0411\u0440\u0443\u0441\u0435\u043b\u044c\u0441\u043a\u0456 \u0441\u0442\u0430\u043b\u0456\u0447\u043d\u044b \u0440\u044d\u0433\u0456\u0451\u043d"
+    ],
+    "name:ben_x_preferred":[
+        "\u09ac\u09cd\u09b0\u09be\u09b8\u09c7\u09b2\u09cd\u200c\u09b8"
+    ],
+    "name:bos_x_preferred":[
+        "Regija glavnog grada Bruxellesa"
+    ],
+    "name:bre_x_preferred":[
+        "Rannvro Brusel-K\u00earbenn"
+    ],
+    "name:bul_x_preferred":[
+        "\u0421\u0442\u043e\u043b\u0438\u0447\u0435\u043d \u0440\u0435\u0433\u0438\u043e\u043d \u0411\u0440\u044e\u043a\u0441\u0435\u043b"
+    ],
+    "name:bur_x_preferred":[
+        "\u1018\u101b\u1015\u103a\u1006\u1032\u101c\u103a\u1019\u103c\u102d\u102f\u1037"
+    ],
+    "name:bxr_x_preferred":[
+        "\u0411\u0440\u044e\u0441\u0441\u0435\u043b\u044c"
+    ],
+    "name:cat_x_preferred":[
+        "Regi\u00f3 de Brussel\u00b7les-Capital"
+    ],
+    "name:chi_x_preferred":[
+        "\u5e03\u9b6f\u585e\u723e\u9996\u90fd\u5927\u5340\u5e02\u93ae"
+    ],
+    "name:ckb_x_preferred":[
+        "\u0628\u0631\u0648\u06a9\u0633\u06ce\u0644"
+    ],
+    "name:cor_x_preferred":[
+        "Brusselas"
+    ],
+    "name:csb_x_preferred":[
+        "Bruksela"
+    ],
+    "name:cze_x_preferred":[
+        "Bruselsk\u00fd region"
+    ],
+    "name:dan_x_preferred":[
+        "Region Bruxelles"
+    ],
+    "name:diq_x_preferred":[
+        "Bruksel"
+    ],
+    "name:dut_x_preferred":[
+        "Brussels Hoofdstedelijk Gewest"
+    ],
+    "name:eng_x_preferred":[
+        "Brussels Capital Region"
+    ],
+    "name:epo_x_preferred":[
+        "Brusela \u0108efurba Regiono"
+    ],
+    "name:est_x_preferred":[
+        "Pealinna Br\u00fcsseli piirkond"
+    ],
+    "name:fin_x_preferred":[
+        "Brysselin p\u00e4\u00e4kaupunkialue"
+    ],
+    "name:fre_x_preferred":[
+        "R\u00e9gion de Bruxelles-Capitale"
+    ],
+    "name:frr_x_preferred":[
+        "Regiuun Br\u00fcssel"
+    ],
+    "name:gag_x_preferred":[
+        "Br\u00fcksel"
+    ],
+    "name:geo_x_preferred":[
+        "\u10d1\u10e0\u10d8\u10e3\u10e1\u10d4\u10da\u10d8\u10e1 \u10e0\u10d4\u10d2\u10d8\u10dd\u10dc\u10d8"
+    ],
+    "name:ger_x_preferred":[
+        "Region Br\u00fcssel-Hauptstadt"
+    ],
+    "name:gle_x_preferred":[
+        "An Bhruis\u00e9il"
+    ],
+    "name:glg_x_preferred":[
+        "Bruxelas-Capital"
+    ],
+    "name:glv_x_preferred":[
+        "Yn Vrussyl"
+    ],
+    "name:gre_x_preferred":[
+        "\u03a0\u03b5\u03c1\u03b9\u03bf\u03c7\u03ae \u03c4\u03c9\u03bd \u0392\u03c1\u03c5\u03be\u03b5\u03bb\u03bb\u03ce\u03bd"
+    ],
+    "name:gsw_x_preferred":[
+        "Region Br\u00fcssel-Hauptstadt"
+    ],
+    "name:guj_x_preferred":[
+        "\u0aac\u0acd\u0ab0\u0ab8\u0ac7\u0ab2\u0acd\u0ab8-\u0a95\u0ac7\u0aaa\u0abf\u0a9f\u0ab2 \u0aaa\u0acd\u0ab0\u0aa6\u0ac7\u0ab6"
+    ],
+    "name:hat_x_preferred":[
+        "Briks\u00e8l"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d1\u05e8\u05d9\u05e1\u05dc"
+    ],
+    "name:hif_x_preferred":[
+        "Brussels"
+    ],
+    "name:hin_x_preferred":[
+        "\u092c\u094d\u0930\u0941\u0938\u0947\u0932\u094d\u0938"
+    ],
+    "name:hrv_x_preferred":[
+        "Regija glavnoga grada Bruxellesa"
+    ],
+    "name:hsb_x_preferred":[
+        "Br\u00fcssel"
+    ],
+    "name:hun_x_preferred":[
+        "Br\u00fcsszel f\u0151v\u00e1rosi r\u00e9gi\u00f3"
+    ],
+    "name:ice_x_preferred":[
+        "Brussel"
+    ],
+    "name:ido_x_preferred":[
+        "Bruxel"
+    ],
+    "name:ile_x_preferred":[
+        "Bruxelles"
+    ],
+    "name:ilo_x_preferred":[
+        "Bruselas"
+    ],
+    "name:ina_x_preferred":[
+        "Brussel"
+    ],
+    "name:ind_x_preferred":[
+        "Daerah Ibu Kota Brussel"
+    ],
+    "name:ita_x_preferred":[
+        "Regione di Bruxelles-Capitale"
+    ],
+    "name:jam_x_preferred":[
+        "Brussels"
+    ],
+    "name:jbo_x_preferred":[
+        "brusel."
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d6\u30ea\u30e5\u30c3\u30bb\u30eb\u9996\u90fd\u570f\u5730\u57df"
+    ],
+    "name:kan_x_preferred":[
+        "\u0cac\u0ccd\u0cb0\u0cb8\u0cc6\u0cb2\u0ccd\u0cb8\u0ccd"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0411\u0440\u044e\u0441\u0441\u0435\u043b\u044c"
+    ],
+    "name:kom_x_preferred":[
+        "\u0411\u0440\u044e\u0441\u0441\u0435\u043b\u044c"
+    ],
+    "name:kor_x_preferred":[
+        "\ube0c\ub93c\uc140"
+    ],
+    "name:ksh_x_preferred":[
+        "Br\u00fc\u00df\u00dfel"
+    ],
+    "name:kur_x_preferred":[
+        "Bruksel"
+    ],
+    "name:lad_x_preferred":[
+        "Bruselas"
+    ],
+    "name:lat_x_preferred":[
+        "Regio Bruxellae-Capitis"
+    ],
+    "name:lav_x_preferred":[
+        "Briseles galvaspils\u0113tas re\u0123ions"
+    ],
+    "name:lim_x_preferred":[
+        "Brussels Hoofsjtaejelik Gewes"
+    ],
+    "name:lit_x_preferred":[
+        "Briuselio-sostin\u0117s regionas"
+    ],
+    "name:ltz_x_preferred":[
+        "Haaptstadregioun Br\u00e9issel"
+    ],
+    "name:mac_x_preferred":[
+        "\u0411\u0440\u0438\u0441\u0435\u043b"
+    ],
+    "name:mal_x_preferred":[
+        "\u0d2c\u0d4d\u0d30\u0d38\u0d7d\u0d38\u0d4d"
+    ],
+    "name:mao_x_preferred":[
+        "Paruhi"
+    ],
+    "name:mar_x_preferred":[
+        "\u092c\u094d\u0930\u0938\u0947\u0932\u094d\u0938"
+    ],
+    "name:may_x_preferred":[
+        "Brussels"
+    ],
+    "name:mlt_x_preferred":[
+        "Re\u0121jun ta' Bruxelles-Capitale"
+    ],
+    "name:mon_x_preferred":[
+        "\u0411\u0440\u044e\u0441\u0441\u0435\u043b\u044c"
+    ],
+    "name:mrj_x_preferred":[
+        "\u0411\u0440\u044e\u0441\u0441\u0435\u043b\u044c"
+    ],
+    "name:nan_x_preferred":[
+        "Brussels"
+    ],
+    "name:nds_x_preferred":[
+        "Kuntrei vun de H\u00f6\u00f6ftstadt Br\u00fcssel"
+    ],
+    "name:nep_x_preferred":[
+        "\u092c\u094d\u0930\u0938\u0947\u0932\u094d\u0938 \u0930\u093e\u091c\u0927\u093e\u0928\u0940 \u0915\u094d\u0937\u0947\u0924\u094d\u0930"
+    ],
+    "name:new_x_preferred":[
+        "\u092c\u094d\u0930\u0938\u0947\u0932\u094d\u0938"
+    ],
+    "name:nld_x_preferred":[
+        "Brussels Hoofstedelijk Gewest"
+    ],
+    "name:nno_x_preferred":[
+        "Brussel#Region"
+    ],
+    "name:nob_x_preferred":[
+        "Brussel"
+    ],
+    "name:nya_x_preferred":[
+        "Brussels"
+    ],
+    "name:oci_x_preferred":[
+        "Region de Bruss\u00e8las Capitala"
+    ],
+    "name:ori_x_preferred":[
+        "\u0b2c\u0b43\u0b38\u0b47\u0b32"
+    ],
+    "name:pan_x_preferred":[
+        "\u0a2c\u0a30\u0a42\u0a38\u0a32"
+    ],
+    "name:per_x_preferred":[
+        "\u0628\u0631\u0648\u06a9\u0633\u0644"
+    ],
+    "name:pnb_x_preferred":[
+        "\u0628\u0631\u0633\u0644\u0632"
+    ],
+    "name:pol_x_preferred":[
+        "Region Sto\u0142eczny Brukseli"
+    ],
+    "name:por_x_preferred":[
+        "Regi\u00e3o de Bruxelas-Capital"
+    ],
+    "name:pus_x_preferred":[
+        "\u0628\u0631\u0648\u06a9\u0633\u0644"
+    ],
+    "name:rum_x_preferred":[
+        "Regiunea Capitalei Bruxelles"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0440\u044e\u0441\u0441\u0435\u043b\u044c\u0441\u043a\u0438\u0439 \u0441\u0442\u043e\u043b\u0438\u0447\u043d\u044b\u0439 \u0440\u0435\u0433\u0438\u043e\u043d"
+    ],
+    "name:sah_x_preferred":[
+        "\u0411\u0440\u04af\u0441\u0441\u0435\u043b\u044c"
+    ],
+    "name:scn_x_preferred":[
+        "Bruxelles"
+    ],
+    "name:sco_x_preferred":[
+        "Brussels"
+    ],
+    "name:sin_x_preferred":[
+        "\u0db6\u0dca\u200d\u0dbb\u0dc3\u0dbd\u0dca\u0dc3\u0dca-\u0d9a\u0dd0\u0db4\u0dd2\u0da7\u0dbd\u0dca  \u0d9a\u0dbd\u0dcf\u0db4\u0dba"
+    ],
+    "name:slo_x_preferred":[
+        "Regi\u00f3n Brusel-hlavn\u00e9 mesto"
+    ],
+    "name:slv_x_preferred":[
+        "Regija Bruselj-glavno mesto"
+    ],
+    "name:sme_x_preferred":[
+        "Bryssel"
+    ],
+    "name:sna_x_preferred":[
+        "Brussels"
+    ],
+    "name:spa_x_preferred":[
+        "Regi\u00f3n de Bruselas-Capital"
+    ],
+    "name:srn_x_preferred":[
+        "Brusilu"
+    ],
+    "name:srp_x_preferred":[
+        "\u0420\u0435\u0433\u0438\u043e\u043d \u0433\u043b\u0430\u0432\u043d\u043e\u0433 \u0433\u0440\u0430\u0434\u0430 \u0411\u0440\u0438\u0441\u0435\u043b\u0430"
+    ],
+    "name:stq_x_preferred":[
+        "Brussel"
+    ],
+    "name:swa_x_preferred":[
+        "Brussels"
+    ],
+    "name:swe_x_preferred":[
+        "Bryssel"
+    ],
+    "name:szl_x_preferred":[
+        "Bruksela"
+    ],
+    "name:tam_x_preferred":[
+        "\u0baa\u0bbf\u0bb0\u0bb8\u0bcd\u0b9a\u0bc6\u0bb2\u0bcd\u0bb8\u0bcd"
+    ],
+    "name:tat_x_preferred":[
+        "\u0411\u0440\u04af\u0441\u0441\u0435\u043b \u0431\u0430\u0448\u043a\u0430\u043b\u0430 \u0442\u04e9\u0431\u04d9\u0433\u0435"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c2c\u0c4d\u0c30\u0c38\u0c46\u0c32\u0c4d\u0c38\u0c4d-\u0c30\u0c3e\u0c1c\u0c27\u0c3e\u0c28\u0c3f \u0c2a\u0c4d\u0c30\u0c3e\u0c02\u0c24\u0c02"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0411\u0440\u044e\u0441\u0441\u0435\u043b"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e23\u0e31\u0e2a\u0e40\u0e0b\u0e25\u0e2a\u0e4c"
+    ],
+    "name:tib_x_preferred":[
+        "\u0f54\u0f74\u0f60\u0f74\u0f0b\u0f63\u0f74\u0f60\u0f74\u0f0b\u0f66\u0f7a\u0f63\u200b\u0f0d"
+    ],
+    "name:tur_x_preferred":[
+        "Br\u00fcksel Ba\u015fkent B\u00f6lgesi"
+    ],
+    "name:uig_x_preferred":[
+        "Bryuss\u00e9l"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0440\u044e\u0441\u0441\u0435\u043b\u044c\u0441\u044c\u043a\u0438\u0439 \u0441\u0442\u043e\u043b\u0438\u0447\u043d\u0438\u0439 \u0440\u0435\u0433\u0456\u043e\u043d"
+    ],
+    "name:und_x_variant":[
+        "Brussels Hoofstedelijk Gewest#Region De Bruxelles-Capitale"
+    ],
+    "name:urd_x_preferred":[
+        "\u0628\u0631\u0633\u0644\u0632"
+    ],
+    "name:uzb_x_preferred":[
+        "Brussel Poytaxt Regioni"
+    ],
+    "name:vep_x_preferred":[
+        "Br\u00fcssel'"
+    ],
+    "name:vie_x_preferred":[
+        "Bruxelles"
+    ],
+    "name:vls_x_preferred":[
+        "Brussels Oofdstedelik Gewest"
+    ],
+    "name:war_x_preferred":[
+        "Bruselas"
+    ],
+    "name:wel_x_preferred":[
+        "Rhanbarth Brwsel-Prifddinas"
+    ],
+    "name:wln_x_preferred":[
+        "Brussele"
+    ],
+    "name:yid_x_preferred":[
+        "\u05d1\u05e8\u05d9\u05e1\u05dc \u05e8\u05d0\u05d9\u05d0\u05df"
+    ],
+    "name:yue_x_preferred":[
+        "\u5e03\u9b6f\u585e\u723e\u9996\u90fd\u5340"
+    ],
+    "name:zea_x_preferred":[
+        "Brussel"
+    ],
+    "qs:a0":"Belgi\u00eb#Belgique#Belgien",
+    "qs:a0_lc":"BE000000",
+    "qs:a1r":"Brussels Hoofstedelijk Gewest#R\u00e9gion de Bruxelles-Capitale",
+    "qs:a1r_alt":"Brussels Hoofstedelijk Gewest#Region de Bruxelles-Capitale",
+    "qs:a1r_lc":"BE400000",
+    "qs:adm0":"Belgium",
+    "qs:adm0_a3":"BEL",
+    "qs:level":"adm1_region",
+    "qs:source":"EuroGlobalMap",
+    "qs:type":"R\u00e9gion#Gewest#Region",
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191581,
+        85632997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "wd:id":"Q240"
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"42d3b65ecae6c71f1c942e8c0919b42a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "macroregion_id":404227355
+        }
+    ],
+    "wof:id":404227355,
+    "wof:lang_x_official":[
+        "nld",
+        "fra",
+        "deu"
+    ],
+    "wof:lang_x_spoken":[
+        "nld",
+        "fra",
+        "deu"
+    ],
+    "wof:lastmodified":1537229389,
+    "wof:name":"Brussels Capital Region",
+    "wof:parent_id":85632997,
+    "wof:placetype":"macroregion",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[
+        85681713
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.24467299999981,
+    50.76369099999985,
+    4.4822809999998,
+    50.91371599999984
+],
+  "geometry": {"coordinates":[[[4.47678349999978,50.82037749999984],[4.45481799999979,50.81842799999984],[4.4577054999998,50.81615449999984],[4.4532724999998,50.81387349999983],[4.45020149999979,50.81330099999985],[4.4479139999998,50.81124899999983],[4.44958149999979,50.80975699999985],[4.45228849999981,50.80871199999984],[4.44763449999979,50.80825049999984],[4.48047649999981,50.79425799999984],[4.48005699999979,50.79395249999984],[4.4822809999998,50.79287349999984],[4.4636179999998,50.78795999999986],[4.4516629999998,50.78264599999983],[4.43460449999981,50.77647399999983],[4.43314599999979,50.77811099999985],[4.38298549999979,50.76369099999985],[4.38269399999979,50.76872249999985],[4.38121199999981,50.76863499999985],[4.38109499999979,50.76932899999982],[4.36428099999981,50.77305199999983],[4.36371549999978,50.77142699999985],[4.3624919999998,50.77205649999985],[4.36293649999979,50.77226649999983],[4.3565949999998,50.77347199999985],[4.35293999999979,50.77350999999985],[4.34784349999978,50.77472299999985],[4.34756049999979,50.77535999999984],[4.3444024999998,50.77535249999985],[4.3408349999998,50.77359399999983],[4.33106699999979,50.77545949999984],[4.3299274999998,50.77748099999985],[4.32803199999981,50.77824799999985],[4.32710549999979,50.77941499999983],[4.32560049999981,50.77972799999983],[4.32218949999981,50.78310799999982],[4.32113199999981,50.78585049999983],[4.32061399999981,50.78580449999984],[4.31922499999979,50.78733449999984],[4.3198859999998,50.78864299999984],[4.31834699999979,50.79117199999985],[4.31775049999979,50.79510099999984],[4.31666999999979,50.79641699999985],[4.31441,50.79643999999984],[4.31458599999979,50.79707349999983],[4.30502199999981,50.79871749999983],[4.30351449999981,50.80203649999984],[4.30235249999978,50.80308549999984],[4.30326499999978,50.80684599999983],[4.3046999999998,50.80912399999985],[4.3057224999998,50.80906749999985],[4.30636249999981,50.81246199999984],[4.3001754999998,50.81282799999985],[4.29918949999978,50.81151599999984],[4.2982044999998,50.81143949999984],[4.29749749999979,50.80952849999983],[4.29626049999979,50.80953599999984],[4.29419799999979,50.80822349999985],[4.29313399999981,50.80887999999985],[4.2897824999998,50.80873849999983],[4.28659049999979,50.80832649999985],[4.28362049999978,50.80707899999985],[4.2769604999998,50.80837999999983],[4.27565849999979,50.81095499999984],[4.27274249999979,50.81222149999985],[4.2599084999998,50.81108849999984],[4.25877249999979,50.81458649999985],[4.25650249999978,50.81729499999982],[4.2519365,50.81719949999984],[4.2503054999998,50.81941999999984],[4.24720299999979,50.81902299999985],[4.24749649999978,50.81734449999984],[4.2455664999998,50.81762699999984],[4.24467299999981,50.81946549999984],[4.25104499999981,50.82442099999983],[4.2530164999998,50.82513049999983],[4.25493599999979,50.82718299999985],[4.2557974999998,50.82973099999984],[4.25451949999979,50.83225649999983],[4.25520299999979,50.83287449999983],[4.2545474999998,50.83345399999985],[4.2564179999998,50.83490749999984],[4.25888899999978,50.83596049999983],[4.26204049999979,50.83524299999985],[4.26780599999981,50.83629249999984],[4.271828,50.83626149999984],[4.2731794999998,50.83874149999985],[4.27478049999979,50.83895499999982],[4.27788749999979,50.83783349999985],[4.2830519999998,50.83797849999985],[4.28293299999979,50.83961499999984],[4.28211199999978,50.83958799999984],[4.28389349999981,50.84067099999984],[4.2837254999998,50.84379949999985],[4.28451949999979,50.84389899999985],[4.28412799999978,50.84564599999985],[4.28481099999979,50.84644699999984],[4.28318349999981,50.84700399999983],[4.28476599999979,50.84842699999984],[4.28646749999979,50.84775549999983],[4.28820399999981,50.84829349999984],[4.28616199999979,50.85166949999984],[4.2831544999998,50.85361099999983],[4.28434199999981,50.85438899999986],[4.2898409999998,50.85580449999983],[4.2883409999998,50.85751749999982],[4.2874755,50.85692599999984],[4.2841089999998,50.85826099999983],[4.28351799999979,50.85876849999985],[4.2839734999998,50.85926449999985],[4.28262749999979,50.85970699999984],[4.28237399999981,50.85914599999984],[4.28033349999978,50.85985949999982],[4.2808354999998,50.86064899999985],[4.2791559999998,50.86476149999984],[4.2804625,50.86716499999983],[4.2844119999998,50.86961349999984],[4.28535399999978,50.87110899999985],[4.28853049999981,50.87358099999983],[4.29151299999981,50.87405799999985],[4.2924749999998,50.87483199999986],[4.2917429999998,50.87518699999984],[4.29414599999978,50.87646099999984],[4.29434049999981,50.87715549999984],[4.29855749999979,50.87925699999985],[4.29888299999979,50.88006199999983],[4.29698049999979,50.88508149999984],[4.2954234999998,50.88562749999983],[4.29415349999979,50.88681799999983],[4.29399049999981,50.88849599999983],[4.29526999999979,50.88941549999984],[4.3009494999998,50.89050649999984],[4.3072449999998,50.89096399999985],[4.31906749999979,50.89480599999985],[4.32424499999979,50.89847199999986],[4.33090949999979,50.90091699999985],[4.34228449999981,50.90244299999983],[4.35046449999979,50.90135549999985],[4.36410099999981,50.90114199999985],[4.37738249999978,50.89707199999984],[4.3783769999998,50.89767099999983],[4.3780839999998,50.89937599999984],[4.38017649999981,50.90124499999984],[4.38359199999979,50.90206899999983],[4.38836899999978,50.91060649999983],[4.3898264999998,50.91016749999983],[4.39452549999979,50.91061449999984],[4.3953534999998,50.91025149999984],[4.39883649999979,50.91202149999984],[4.3988759999998,50.91312049999985],[4.40337699999981,50.91304399999984],[4.4043119999998,50.91371599999984],[4.4145009999998,50.91138099999984],[4.41203349999981,50.90715049999983],[4.41778449999978,50.90550249999984],[4.41758849999979,50.90444549999984],[4.4186909999998,50.90359899999984],[4.41923449999979,50.90393049999983],[4.42417499999979,50.90267199999985],[4.42763349999979,50.89966599999985],[4.4259149999998,50.89850599999985],[4.43297849999979,50.89457299999983],[4.42933099999979,50.89288699999983],[4.4270079999998,50.89058699999983],[4.42757749999979,50.88913749999983],[4.43705249999979,50.87878049999983],[4.4272564999998,50.87746799999985],[4.42715899999979,50.87707899999984],[4.42854799999981,50.87638849999985],[4.4269534999998,50.87443149999984],[4.4260314999998,50.87175349999984],[4.42059599999979,50.86778999999984],[4.42655499999981,50.86304449999983],[4.42914949999979,50.86321249999983],[4.43095299999979,50.86253749999983],[4.4297559999998,50.86117149999984],[4.43730299999979,50.85848999999985],[4.4390889999998,50.86043949999984],[4.4450664999998,50.85822299999983],[4.44430349999979,50.85745949999983],[4.44652549999981,50.85656349999985],[4.44556849999981,50.85564049999984],[4.4481139999998,50.85420999999985],[4.46125599999979,50.85194799999985],[4.46090749999979,50.85073099999985],[4.46177599999979,50.84864049999985],[4.4628859999998,50.84860249999983],[4.46502849999979,50.84448249999986],[4.46716949999978,50.84463499999984],[4.46680749999979,50.84004199999984],[4.4680764999998,50.83725749999985],[4.4659034999998,50.83539599999983],[4.47678349999978,50.82037749999984]]],"type":"Polygon"}
+}

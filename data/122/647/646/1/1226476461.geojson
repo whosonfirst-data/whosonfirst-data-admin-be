@@ -1,0 +1,76 @@
+{
+  "id": 1226476461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.56667,50.55,5.56667,50.55",
+    "geom:latitude":50.55,
+    "geom:longitude":5.56667,
+    "gn:admin1_code":"WAL",
+    "gn:admin2_code":"WLG",
+    "gn:admin3_code":"62.0",
+    "gn:admin4_code":"62032.0",
+    "gn:asciiname":"Lhonneux",
+    "gn:country_code":"BE",
+    "gn:dem":140,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2792450,
+    "gn:latitude":50.55,
+    "gn:longitude":5.56667,
+    "gn:modification_date":"2017-03-25",
+    "gn:name":"Lhonneux",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Loneux",
+        "Lhonneux"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681691,
+        102191581,
+        85632997,
+        404227353,
+        102049941
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2792450
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"08ccaf1bdd3be45c93519652f881cf9b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049941,
+            "locality_id":1226476461,
+            "macroregion_id":404227353,
+            "region_id":85681691
+        }
+    ],
+    "wof:id":1226476461,
+    "wof:lastmodified":1537586978,
+    "wof:name":"Lhonneux",
+    "wof:parent_id":102049941,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.56667,
+    50.55,
+    5.56667,
+    50.55
+],
+  "geometry": {"coordinates":[5.56667,50.55],"type":"Point"}
+}

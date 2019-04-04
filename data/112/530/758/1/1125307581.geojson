@@ -1,0 +1,76 @@
+{
+  "id": 1125307581,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2017-05-19",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.622,49.9955,5.622,49.9955",
+    "geom:latitude":49.9955,
+    "geom:longitude":5.622,
+    "gn:gn_country":null,
+    "iso:country":"BE",
+    "lbl:latitude":49.9955,
+    "lbl:longitude":5.622,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"BE",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Vaux-sur-S\u00fbre",
+    "qs_pg:name_adm0":"Belgique",
+    "qs_pg:name_adm1":"Luxembourg",
+    "qs_pg:photos":4,
+    "qs_pg:photos_1k":1,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":3,
+    "qs_pg:photos_all":130,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1106210,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
+    "qs_pg:woe_adm0":23424757,
+    "qs_pg:woe_id":12602458,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424757,
+    "woe:name_adm0":"Belgique",
+    "woe:name_adm1":"Luxembourg",
+    "woe:placetype":"LocalAdmin",
+    "wof:belongsto":[
+        85632997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12602458,
+        "qs_pg:id":1106210
+    },
+    "wof:country":"BE",
+    "wof:created":1497043787,
+    "wof:geomhash":"226c7f1b873dd640d03b82181ae0dfba",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "localadmin_id":1125307581
+        }
+    ],
+    "wof:id":1125307581,
+    "wof:lastmodified":1505248013,
+    "wof:name":"Vaux-sur-S\u00fbre",
+    "wof:parent_id":-1,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.622,
+    49.9955,
+    5.622,
+    49.9955
+],
+  "geometry": {"coordinates":[5.622,49.9955],"type":"Point"}
+}

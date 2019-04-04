@@ -1,0 +1,72 @@
+{
+  "id": 1360016483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.31537,50.6558,5.31537,50.6558",
+    "geom:latitude":50.6558,
+    "geom:longitude":5.31537,
+    "gn:admin1_code":"WAL",
+    "gn:admin2_code":"WLG",
+    "gn:admin3_code":"64.0",
+    "gn:admin4_code":"64023.0",
+    "gn:asciiname":"Stiers",
+    "gn:country_code":"BE",
+    "gn:dem":136,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2786041,
+    "gn:latitude":50.6558,
+    "gn:longitude":5.31537,
+    "gn:modification_date":"2017-03-25",
+    "gn:name":"Stiers",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681691,
+        102191581,
+        85632997,
+        404227353,
+        102049937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2786041
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"2a46d13c7d40f49b8d3da405b83fa431",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049937,
+            "locality_id":1360016483,
+            "macroregion_id":404227353,
+            "region_id":85681691
+        }
+    ],
+    "wof:id":1360016483,
+    "wof:lastmodified":1537042913,
+    "wof:name":"Stiers",
+    "wof:parent_id":102049937,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.31537,
+    50.6558,
+    5.31537,
+    50.6558
+],
+  "geometry": {"coordinates":[5.31537,50.6558],"type":"Point"}
+}

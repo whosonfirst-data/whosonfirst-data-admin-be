@@ -1,0 +1,67 @@
+{
+  "id": 1209445557,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.43908,50.27212,4.43908,50.27212",
+    "geom:latitude":50.27212,
+    "geom:longitude":4.43908,
+    "gn:admin1_code":"WAL",
+    "gn:admin2_code":"WNA",
+    "gn:admin3_code":"93.0",
+    "gn:admin4_code":"93088.0",
+    "gn:asciiname":"Pry",
+    "gn:country_code":"BE",
+    "gn:dem":167,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2788554,
+    "gn:latitude":50.27212,
+    "gn:longitude":4.43908,
+    "gn:modification_date":"2011-07-19",
+    "gn:name":"Pry",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Walcourt (Pry)"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2788554
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"5083546d8f293f01f1c8c01429f2c88b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "locality_id":1209445557
+        }
+    ],
+    "wof:id":1209445557,
+    "wof:lastmodified":1537586941,
+    "wof:name":"Pry",
+    "wof:parent_id":85632997,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.43908,
+    50.27212,
+    4.43908,
+    50.27212
+],
+  "geometry": {"coordinates":[4.43908,50.27212],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1125292367,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2017-05-19",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.28333,49.8,5.28333,49.8",
+    "geom:latitude":49.8,
+    "geom:longitude":5.28333,
+    "gn:gn_country":"BE",
+    "gn:gn_fcode":"ADM4",
+    "gn:gn_pop":1563,
+    "gn:population":1563,
+    "iso:country":"BE",
+    "lbl:latitude":49.8,
+    "lbl:longitude":5.28333,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"BE",
+    "qs_pg:gn_country":"BE",
+    "qs_pg:gn_fcode":"ADM4",
+    "qs_pg:gn_id":2796038,
+    "qs_pg:gn_pop":1563,
+    "qs_pg:name":"Herbeumont",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":3,
+    "qs_pg:qs_id":92682,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85632997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2796038,
+        "qs_pg:id":92682
+    },
+    "wof:country":"BE",
+    "wof:created":1497042982,
+    "wof:geomhash":"b21a7332942e70c4ac5aeee2d79b0927",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "localadmin_id":1125292367
+        }
+    ],
+    "wof:id":1125292367,
+    "wof:lastmodified":1505185643,
+    "wof:name":"Herbeumont",
+    "wof:parent_id":-1,
+    "wof:placetype":"localadmin",
+    "wof:population":1563,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.28333,
+    49.8,
+    5.28333,
+    49.8
+],
+  "geometry": {"coordinates":[5.28333,49.8],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1293424073,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.63333,50.28333,5.63333,50.28333",
+    "geom:latitude":50.28333,
+    "geom:longitude":5.63333,
+    "gn:admin1_code":"WAL",
+    "gn:admin2_code":"WLX",
+    "gn:admin3_code":"83.0",
+    "gn:admin4_code":"83055.0",
+    "gn:asciiname":"Dessus Chamon",
+    "gn:country_code":"BE",
+    "gn:dem":490,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2799506,
+    "gn:latitude":50.28333,
+    "gn:longitude":5.63333,
+    "gn:modification_date":"2017-03-25",
+    "gn:name":"Dessus Chamon",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chamon",
+        "Dessus Chamon"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681727,
+        102191581,
+        85632997,
+        404227353,
+        102049921
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2799506
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"4d026ca26dd17ac1540d816822b7e778",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049921,
+            "locality_id":1293424073,
+            "macroregion_id":404227353,
+            "region_id":85681727
+        }
+    ],
+    "wof:id":1293424073,
+    "wof:lastmodified":1537587051,
+    "wof:name":"Dessus Chamon",
+    "wof:parent_id":102049921,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.63333,
+    50.28333,
+    5.63333,
+    50.28333
+],
+  "geometry": {"coordinates":[5.63333,50.28333],"type":"Point"}
+}

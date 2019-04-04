@@ -1,0 +1,109 @@
+{
+  "id": 85801665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000244,
+    "geom:area_square_m":1905166.965131,
+    "geom:bbox":"4.37163877012,50.8822430467,4.39062694302,50.9015758907",
+    "geom:latitude":50.890366,
+    "geom:longitude":4.38241,
+    "gn:id":"",
+    "iso:country":"BE",
+    "lbl:latitude":50.891784,
+    "lbl:longitude":4.383912,
+    "mps:latitude":50.890583,
+    "mps:longitude":4.38354,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":1,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_locality":5,
+    "mz:tier_metro":30,
+    "name:nld_x_preferred":[
+        "Neder-over-Hembeek"
+    ],
+    "name:unk_x_variant":[
+        "Neder-over-Hembeek"
+    ],
+    "qs:gn_fcode":"PPL",
+    "qs:gn_local":0,
+    "qs:gn_namadm1":"BRU",
+    "qs:gn_name":"Neder-Over-Heembeek",
+    "qs:local_max":62861,
+    "qs:local_sum":208570,
+    "qs:localhoods":75,
+    "qs:name":"Neder-over-Hembeek",
+    "qs:name_adm0":"Belgique",
+    "qs:name_adm1":"R\u00e9gion de Bruxelles-Capitale",
+    "qs:name_adm2":"Brussel Hoofdstad",
+    "qs:name_lau":"Brussel",
+    "qs:name_local":"Bruxelles",
+    "qs:photo_max":61,
+    "qs:photo_sum":212,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":16,
+    "qs:woe_adm0":23424757,
+    "qs:woe_adm1":55965974,
+    "qs:woe_adm2":12591762,
+    "qs:woe_lau":12602737,
+    "qs:woe_local":968019,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mz",
+    "wof:belongsto":[
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":974740,
+        "qs:id":1103758,
+        "qs_pg:id":1103758
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"678d739ea3129d1d4bb860a877483b40",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801665,
+            "region_id":85681713
+        }
+    ],
+    "wof:id":85801665,
+    "wof:lang":[
+        "dut"
+    ],
+    "wof:lastmodified":1497315862,
+    "wof:name":"Neder-over-Hembeek",
+    "wof:parent_id":101751573,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.37163877012239,
+    50.8822430466753,
+    4.39062694301839,
+    50.90157589065736
+],
+  "geometry": {"coordinates":[[[4.38642412596266,50.89956852220003],[4.38831115328622,50.89857115560814],[4.39062694301839,50.89909569788914],[4.38999791546203,50.89610395550001],[4.3896336712379,50.89437155940028],[4.38999792224229,50.89263906665032],[4.38903808593869,50.8911174183648],[4.38903808593906,50.88939391809332],[4.389269318591,50.8891739844503],[4.38999800355379,50.88570864445019],[4.38903808593869,50.88418709366927],[4.38903808593852,50.88376463753288],[4.38903808594011,50.88224311110004],[4.38807814798912,50.88224311110004],[4.38807810734323,50.8822430466753],[4.38450490046716,50.8822430466753],[4.38450485982136,50.88224311110004],[4.38354492187011,50.88224311110004],[4.37805175780994,50.88224311110004],[4.37255859375006,50.88224311110004],[4.37255859375006,50.88376463753191],[4.37163877012239,50.88425061893086],[4.37255859375006,50.88570864445019],[4.37255859375006,50.88570870890005],[4.37255859375006,50.8891739844503],[4.37255859375006,50.88917404889999],[4.37805175780994,50.88917404889999],[4.37805175780994,50.89263906665032],[4.37805175780994,50.89263913110001],[4.37805175780994,50.89610395550001],[4.37805175780994,50.89956820000016],[4.37967181587248,50.89956820000016],[4.38262616525486,50.90157589065736],[4.38354492187011,50.90109029241371],[4.38642412596266,50.89956852220003]]],"type":"Polygon"}
+}

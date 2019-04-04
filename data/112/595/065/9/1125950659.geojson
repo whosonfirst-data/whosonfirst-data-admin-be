@@ -1,0 +1,106 @@
+{
+  "id": 1125950659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.68216,50.38072,5.68216,50.38072",
+    "geom:latitude":50.38072,
+    "geom:longitude":5.68216,
+    "gn:gn_country":"BE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"BE",
+    "lbl:latitude":50.38072,
+    "lbl:longitude":5.68216,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Werbomont"
+    ],
+    "name:eng_x_preferred":[
+        "Werbomont"
+    ],
+    "name:fre_x_preferred":[
+        "Werbomont"
+    ],
+    "name:ltz_x_preferred":[
+        "Werbomont"
+    ],
+    "name:unk_x_variant":[
+        "Ferri\u00e8res (Werbomont)"
+    ],
+    "qs_pg:aaroncc":"BE",
+    "qs_pg:gn_country":"BE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2783846,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Werbomont",
+    "qs_pg:name_adm0":"Belgique",
+    "qs_pg:name_adm1":"Li\u00e8ge",
+    "qs_pg:photos":20,
+    "qs_pg:photos_1k":4,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":20,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1287759,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424757,
+    "qs_pg:woe_id":978786,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424757,
+    "woe:name_adm0":"Belgique",
+    "woe:name_adm1":"Li\u00e8ge",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85681691,
+        102191581,
+        85632997,
+        404227353,
+        102049925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2783846,
+        "gp:id":978786,
+        "qs_pg:id":1287759,
+        "wd:id":"Q2536868"
+    },
+    "wof:country":"BE",
+    "wof:created":1497297444,
+    "wof:geomhash":"3e381a93668159f17060ddee357b806c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049925,
+            "locality_id":1125950659,
+            "macroregion_id":404227353,
+            "region_id":85681691
+        }
+    ],
+    "wof:id":1125950659,
+    "wof:lastmodified":1513899578,
+    "wof:name":"Werbomont",
+    "wof:parent_id":102049925,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.68216,
+    50.38072,
+    5.68216,
+    50.38072
+],
+  "geometry": {"coordinates":[5.68216,50.38072],"type":"Point"}
+}

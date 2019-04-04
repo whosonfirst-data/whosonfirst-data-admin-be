@@ -1,0 +1,72 @@
+{
+  "id": 1125376801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2017-05-19",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.9375,49.86742,4.9375,49.86742",
+    "geom:latitude":49.86742,
+    "geom:longitude":4.9375,
+    "gn:gn_country":"BE",
+    "gn:gn_fcode":"ADM4",
+    "gn:gn_pop":2844,
+    "gn:population":2844,
+    "iso:country":"BE",
+    "lbl:latitude":49.86742,
+    "lbl:longitude":4.9375,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"BE",
+    "qs_pg:gn_country":"BE",
+    "qs_pg:gn_fcode":"ADM4",
+    "qs_pg:gn_id":2784312,
+    "qs_pg:gn_pop":2844,
+    "qs_pg:name":"Vresse-sur-Semois",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":373533,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85632997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2784312,
+        "qs_pg:id":373533
+    },
+    "wof:country":"BE",
+    "wof:created":1497047797,
+    "wof:geomhash":"7003535d26f10e5f4420703951fc561b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "localadmin_id":1125376801
+        }
+    ],
+    "wof:id":1125376801,
+    "wof:lastmodified":1505185639,
+    "wof:name":"Vresse-sur-Semois",
+    "wof:parent_id":-1,
+    "wof:placetype":"localadmin",
+    "wof:population":2844,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.9375,
+    49.86742,
+    4.9375,
+    49.86742
+],
+  "geometry": {"coordinates":[4.9375,49.86742],"type":"Point"}
+}

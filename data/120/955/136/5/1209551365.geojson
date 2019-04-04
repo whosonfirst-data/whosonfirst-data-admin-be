@@ -1,0 +1,68 @@
+{
+  "id": 1209551365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.75988,50.91815,2.75988,50.91815",
+    "geom:latitude":50.91815,
+    "geom:longitude":2.75988,
+    "gn:admin1_code":"VLG",
+    "gn:admin2_code":"VWV",
+    "gn:admin3_code":"33.0",
+    "gn:admin4_code":"33041.0",
+    "gn:asciiname":"Kruisdoorn",
+    "gn:country_code":"BE",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2793918,
+    "gn:latitude":50.91815,
+    "gn:longitude":2.75988,
+    "gn:modification_date":"2016-08-02",
+    "gn:name":"Kruisdoorn",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kruydoorn",
+        "Kruisdoorn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2793918
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"5d15553356e8772b080847969c6e0280",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "locality_id":1209551365
+        }
+    ],
+    "wof:id":1209551365,
+    "wof:lastmodified":1537586995,
+    "wof:name":"Kruisdoorn",
+    "wof:parent_id":85632997,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.75988,
+    50.91815,
+    2.75988,
+    50.91815
+],
+  "geometry": {"coordinates":[2.75988,50.91815],"type":"Point"}
+}

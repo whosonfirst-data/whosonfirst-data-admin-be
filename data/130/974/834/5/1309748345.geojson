@@ -1,0 +1,79 @@
+{
+  "id": 1309748345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.88235,50.90199,3.88235,50.90199",
+    "geom:latitude":50.90199,
+    "geom:longitude":3.88235,
+    "gn:admin1_code":"VLG",
+    "gn:admin2_code":"VOV",
+    "gn:admin3_code":"41.0",
+    "gn:admin4_code":"41027.0",
+    "gn:asciiname":"Heie",
+    "gn:country_code":"BE",
+    "gn:dem":43,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2796232,
+    "gn:latitude":50.90199,
+    "gn:longitude":3.88235,
+    "gn:modification_date":"2016-08-02",
+    "gn:name":"Heie",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Heije",
+        "Hei",
+        "Heie"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681733,
+        102191581,
+        1108830361,
+        85632997,
+        404227357,
+        102049967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2796232
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"8fe493181d8eea65b4a3f3ecbb80fdca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049967,
+            "localadmin_id":1108830361,
+            "locality_id":1309748345,
+            "macroregion_id":404227357,
+            "region_id":85681733
+        }
+    ],
+    "wof:id":1309748345,
+    "wof:lastmodified":1537587022,
+    "wof:name":"Heie",
+    "wof:parent_id":1108830361,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.88235,
+    50.90199000000001,
+    3.88235,
+    50.90199000000001
+],
+  "geometry": {"coordinates":[3.88235,50.90199000000001],"type":"Point"}
+}

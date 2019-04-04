@@ -1,0 +1,74 @@
+{
+  "id": 1226777959,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.47428,50.7895,3.47428,50.7895",
+    "geom:latitude":50.7895,
+    "geom:longitude":3.47428,
+    "gn:admin1_code":"VLG",
+    "gn:admin2_code":"VWV",
+    "gn:admin3_code":"34.0",
+    "gn:admin4_code":"34003.0",
+    "gn:asciiname":"Merkegemhoek",
+    "gn:country_code":"BE",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2791306,
+    "gn:latitude":50.7895,
+    "gn:longitude":3.47428,
+    "gn:modification_date":"2016-08-02",
+    "gn:name":"Merkegemhoek",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681709,
+        102191581,
+        1108830525,
+        85632997,
+        404227357,
+        102049961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2791306
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"8e3b504ae860f9ba645a2e41cba12eb4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049961,
+            "localadmin_id":1108830525,
+            "locality_id":1226777959,
+            "macroregion_id":404227357,
+            "region_id":85681709
+        }
+    ],
+    "wof:id":1226777959,
+    "wof:lastmodified":1536669284,
+    "wof:name":"Merkegemhoek",
+    "wof:parent_id":1108830525,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.47428,
+    50.7895,
+    3.47428,
+    50.7895
+],
+  "geometry": {"coordinates":[3.47428,50.7895],"type":"Point"}
+}

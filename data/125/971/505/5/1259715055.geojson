@@ -1,0 +1,72 @@
+{
+  "id": 1259715055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.98333,50.65,3.98333,50.65",
+    "geom:latitude":50.65,
+    "geom:longitude":3.98333,
+    "gn:admin1_code":"WAL",
+    "gn:admin2_code":"WHT",
+    "gn:admin3_code":"55.0",
+    "gn:admin4_code":"55010.0",
+    "gn:asciiname":"Culot du Bois",
+    "gn:country_code":"BE",
+    "gn:dem":96,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2799928,
+    "gn:latitude":50.65,
+    "gn:longitude":3.98333,
+    "gn:modification_date":"2017-03-25",
+    "gn:name":"Culot du Bois",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681723,
+        102191581,
+        85632997,
+        404227353,
+        102049943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2799928
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"612777bc90a25d2d2dc456e33261ec97",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049943,
+            "locality_id":1259715055,
+            "macroregion_id":404227353,
+            "region_id":85681723
+        }
+    ],
+    "wof:id":1259715055,
+    "wof:lastmodified":1537020758,
+    "wof:name":"Culot du Bois",
+    "wof:parent_id":102049943,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.98333,
+    50.65,
+    3.98333,
+    50.65
+],
+  "geometry": {"coordinates":[3.98333,50.65],"type":"Point"}
+}

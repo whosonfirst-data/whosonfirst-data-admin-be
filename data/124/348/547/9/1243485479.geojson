@@ -1,0 +1,72 @@
+{
+  "id": 1243485479,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.85659,50.69818,4.85659,50.69818",
+    "geom:latitude":50.69818,
+    "geom:longitude":4.85659,
+    "gn:admin1_code":"WAL",
+    "gn:admin2_code":"WBR",
+    "gn:admin3_code":"25.0",
+    "gn:admin4_code":"25048.0",
+    "gn:asciiname":"Mont Saint-Pierre",
+    "gn:country_code":"BE",
+    "gn:dem":112,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2790753,
+    "gn:latitude":50.69818,
+    "gn:longitude":4.85659,
+    "gn:modification_date":"2017-03-25",
+    "gn:name":"Mont Saint-Pierre",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681693,
+        102191581,
+        85632997,
+        404227353,
+        102049945
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2790753
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"dc6c2a73b6da92b0c0c1e2f7281e7fb3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049945,
+            "locality_id":1243485479,
+            "macroregion_id":404227353,
+            "region_id":85681693
+        }
+    ],
+    "wof:id":1243485479,
+    "wof:lastmodified":1536749153,
+    "wof:name":"Mont Saint-Pierre",
+    "wof:parent_id":102049945,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.85659,
+    50.69818,
+    4.85659,
+    50.69818
+],
+  "geometry": {"coordinates":[4.85659,50.69818],"type":"Point"}
+}

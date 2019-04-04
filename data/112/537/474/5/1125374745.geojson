@@ -1,0 +1,76 @@
+{
+  "id": 1125374745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2017-05-19",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.587234,50.957453,5.587234,50.957453",
+    "geom:latitude":50.957453,
+    "geom:longitude":5.587234,
+    "gn:gn_country":null,
+    "iso:country":"BE",
+    "lbl:latitude":50.957453,
+    "lbl:longitude":5.587234,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"BE",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Zutendaal",
+    "qs_pg:name_adm0":"Belgique",
+    "qs_pg:name_adm1":"Limburg",
+    "qs_pg:photos":2,
+    "qs_pg:photos_1k":1,
+    "qs_pg:photos_9k":3,
+    "qs_pg:photos_9r":5,
+    "qs_pg:photos_all":686,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":907271,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
+    "qs_pg:woe_adm0":23424757,
+    "qs_pg:woe_id":12602642,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424757,
+    "woe:name_adm0":"Belgique",
+    "woe:name_adm1":"Limburg",
+    "woe:placetype":"LocalAdmin",
+    "wof:belongsto":[
+        85632997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12602642,
+        "qs_pg:id":907271
+    },
+    "wof:country":"BE",
+    "wof:created":1497047651,
+    "wof:geomhash":"4de20bd13079f7e69b09ca260a067659",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "localadmin_id":1125374745
+        }
+    ],
+    "wof:id":1125374745,
+    "wof:lastmodified":1505248128,
+    "wof:name":"Zutendaal",
+    "wof:parent_id":-1,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.587234,
+    50.957453,
+    5.587234,
+    50.957453
+],
+  "geometry": {"coordinates":[5.587234,50.957453],"type":"Point"}
+}

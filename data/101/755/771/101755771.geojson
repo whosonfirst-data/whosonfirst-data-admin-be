@@ -1,0 +1,82 @@
+{
+  "id": 101755771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000267,
+    "geom:area_square_m":2062899.539884,
+    "geom:bbox":"4.62471040867,51.2601911893,4.65130553254,51.2790703566",
+    "geom:latitude":51.269572,
+    "geom:longitude":4.637678,
+    "iso:country":"BE",
+    "lbl:latitude":51.270761,
+    "lbl:longitude":4.637883,
+    "mps:latitude":51.270761,
+    "mps:longitude":4.637883,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:unk_x_variant":[
+        "Saint-Antoine"
+    ],
+    "qs:a0":"Belgi\u00eb#Belgique#Belgien",
+    "qs:a1":"*Antwerpen",
+    "qs:a1r":"0Vlaams Gewest",
+    "qs:a2":"Antwerpen",
+    "qs:adm0":"Belgi\u00eb#Belgique#Belgien",
+    "qs:la":"Kalmthout",
+    "qs:la_lc":"*BE211022",
+    "qs:level":"locality",
+    "qs:loc":"Sint-Antonius",
+    "qs:loc_alt":"Sint-Antonius",
+    "qs:pop":0,
+    "qs:source":"LCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"suburbs point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        85681715,
+        102191581,
+        1108830221,
+        85632997,
+        404227357,
+        102050005
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2786728,
+        "gp:id":977151,
+        "qs:id":1077702
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"ecd48cc7b0c86a1d734187fd071349f6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102050005,
+            "localadmin_id":1108830221,
+            "locality_id":101755771,
+            "macroregion_id":404227357,
+            "region_id":85681715
+        }
+    ],
+    "wof:id":101755771,
+    "wof:lastmodified":1501264108,
+    "wof:name":"Sint-Antonius",
+    "wof:parent_id":1108830221,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.62471040866643,
+    51.26019118928838,
+    4.65130553253744,
+    51.27907035660138
+],
+  "geometry": {"coordinates":[[[4.64772207093654,51.2767145469474],[4.64707144773342,51.27111918740081],[4.65130553253744,51.26652321500671],[4.64588648408267,51.26624767017],[4.64075164159618,51.26479938126357],[4.63087694450661,51.26019118928838],[4.62653320209978,51.26064842533117],[4.62624477113195,51.26311172043256],[4.62481536644844,51.26304565709199],[4.62471040866643,51.26394170627867],[4.62756927711791,51.26407381838163],[4.62725453932563,51.26676197301384],[4.62723455388391,51.26676104920421],[4.6347715417906,51.27791970662452],[4.63886396230521,51.27810840042446],[4.6387592279022,51.27900446107571],[4.64018914443812,51.27907035660138],[4.64029385116248,51.27817429447487],[4.64315364019029,51.27830602995039],[4.64325828650573,51.27740996457646],[4.64468815899619,51.277475804527],[4.6447927725842,51.27657973738104],[4.64772207093654,51.2767145469474]]],"type":"Polygon"}
+}

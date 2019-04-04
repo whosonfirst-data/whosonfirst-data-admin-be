@@ -1,0 +1,98 @@
+{
+  "id": 101755529,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000377,
+    "geom:area_square_m":2950111.311212,
+    "geom:bbox":"4.25293121458,50.7313379497,4.28645971681,50.7557113377",
+    "geom:latitude":50.74548,
+    "geom:longitude":4.269447,
+    "iso:country":"BE",
+    "lbl:latitude":50.744286,
+    "lbl:longitude":4.26805,
+    "mps:latitude":50.744286,
+    "mps:longitude":4.26805,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Huizingen"
+    ],
+    "name:eng_x_preferred":[
+        "Huizingen"
+    ],
+    "name:fre_x_preferred":[
+        "Huizingen"
+    ],
+    "name:hun_x_preferred":[
+        "Huizingen"
+    ],
+    "name:unk_x_variant":[
+        "Huyssinghen"
+    ],
+    "qs:a0":"Belgi\u00eb#Belgique#Belgien",
+    "qs:a1":"*Vlaams Brabant",
+    "qs:a1r":"0Vlaams Gewest",
+    "qs:a2":"Halle-Vilvoorde",
+    "qs:adm0":"Belgi\u00eb#Belgique#Belgien",
+    "qs:la":"Kalmthout",
+    "qs:la_lc":"*BE211022",
+    "qs:level":"locality",
+    "qs:loc":"Huizingen",
+    "qs:loc_alt":"Huizingen",
+    "qs:pop":0,
+    "qs:source":"LCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"suburbs point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        85681731,
+        102191581,
+        1108830437,
+        85632997,
+        404227357,
+        102049973
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2795189,
+        "gp:id":971591,
+        "qs:id":297678,
+        "qs_pg:id":297678,
+        "wd:id":"Q1056288"
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"0c677d92094276fa4e53fd6a5e557036",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049973,
+            "localadmin_id":1108830437,
+            "locality_id":101755529,
+            "macroregion_id":404227357,
+            "region_id":85681731
+        }
+    ],
+    "wof:id":101755529,
+    "wof:lastmodified":1513899321,
+    "wof:name":"Huizingen",
+    "wof:parent_id":1108830437,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.25293121457622,
+    50.73133794973603,
+    4.28645971680538,
+    50.75571133768926
+],
+  "geometry": {"coordinates":[[[4.27129607680166,50.73133794973603],[4.26414801118051,50.73618018773738],[4.25740525563174,50.74200347662025],[4.25293121457622,50.74858294876088],[4.25447814930692,50.74873764223406],[4.26092575468186,50.75112564422466],[4.2668957596581,50.75160324462269],[4.27405976562966,50.75399124661328],[4.27692683274955,50.75482362093834],[4.27698132258354,50.75437963903266],[4.28263503797592,50.75466041182773],[4.28252520494311,50.75555621077137],[4.28565238028244,50.75571133768926],[4.28645971680538,50.75485017873143],[4.28546191905394,50.75480069439573],[4.2855716931133,50.75390489201607],[4.28415827749603,50.75383476092952],[4.28456114353986,50.75054762046176],[4.28391654449371,50.74981894327902],[4.2793192111651,50.74491512106192],[4.27456863339216,50.74077752106615],[4.27196347783939,50.73434125440605],[4.27129607680166,50.73133794973603]]],"type":"Polygon"}
+}

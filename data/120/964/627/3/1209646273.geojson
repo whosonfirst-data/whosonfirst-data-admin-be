@@ -1,0 +1,64 @@
+{
+  "id": 1209646273,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.06667,51.36667,5.06667,51.36667",
+    "geom:latitude":51.36667,
+    "geom:longitude":5.06667,
+    "gn:admin1_code":"VLG",
+    "gn:admin2_code":"VAN",
+    "gn:admin3_code":"13.0",
+    "gn:admin4_code":"13001.0",
+    "gn:asciiname":"Hontjens",
+    "gn:country_code":"BE",
+    "gn:dem":42,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2795464,
+    "gn:latitude":51.36667,
+    "gn:longitude":5.06667,
+    "gn:modification_date":"2016-08-02",
+    "gn:name":"Hontjens",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2795464
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"f1b99c7a93ed20fb0fa722287204a36b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "locality_id":1209646273
+        }
+    ],
+    "wof:id":1209646273,
+    "wof:lastmodified":1536280726,
+    "wof:name":"Hontjens",
+    "wof:parent_id":85632997,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.0666699999999985,
+    51.36667,
+    5.0666699999999985,
+    51.36667
+],
+  "geometry": {"coordinates":[5.06667,51.36667],"type":"Point"}
+}

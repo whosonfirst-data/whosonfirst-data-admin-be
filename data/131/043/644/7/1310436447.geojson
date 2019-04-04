@@ -1,0 +1,72 @@
+{
+  "id": 1310436447,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.77572,50.17223,5.77572,50.17223",
+    "geom:latitude":50.17223,
+    "geom:longitude":5.77572,
+    "gn:admin1_code":"WAL",
+    "gn:admin2_code":"WLX",
+    "gn:admin3_code":"82.0",
+    "gn:admin4_code":"82014.0",
+    "gn:asciiname":"Dinez",
+    "gn:country_code":"BE",
+    "gn:dem":445,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2799355,
+    "gn:latitude":50.17223,
+    "gn:longitude":5.77572,
+    "gn:modification_date":"2017-03-25",
+    "gn:name":"Dinez",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681727,
+        102191581,
+        85632997,
+        404227353,
+        102049915
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2799355
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"cd3b203a1d986371d87790e533af0c02",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049915,
+            "locality_id":1310436447,
+            "macroregion_id":404227353,
+            "region_id":85681727
+        }
+    ],
+    "wof:id":1310436447,
+    "wof:lastmodified":1537015962,
+    "wof:name":"Dinez",
+    "wof:parent_id":102049915,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.77572,
+    50.17223,
+    5.77572,
+    50.17223
+],
+  "geometry": {"coordinates":[5.77572,50.17223],"type":"Point"}
+}

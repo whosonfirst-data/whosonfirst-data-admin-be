@@ -1,0 +1,112 @@
+{
+  "id": 85801691,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":1776029.649053,
+    "geom:bbox":"4.502102,50.87893,4.502102,50.87893",
+    "geom:latitude":50.87893,
+    "geom:longitude":4.502102,
+    "gn:id":"",
+    "iso:country":"BE",
+    "lbl:latitude":50.87893,
+    "lbl:longitude":4.502102,
+    "mps:latitude":50.88433,
+    "mps:longitude":4.50192,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":13.0,
+    "mz:tier_locality":1,
+    "mz:tier_metro":30,
+    "name:dut_x_preferred":[
+        "Nossegem"
+    ],
+    "name:unk_x_variant":[
+        "Nossegem"
+    ],
+    "qs:gn_fcode":"PPL",
+    "qs:gn_local":0,
+    "qs:gn_namadm1":"VLG",
+    "qs:gn_name":"Nossegem",
+    "qs:local_max":439,
+    "qs:local_sum":1180,
+    "qs:localhoods":10,
+    "qs:name":"Nossegem",
+    "qs:name_adm0":"Belgique",
+    "qs:name_adm1":"Vlaams Brabant",
+    "qs:name_adm2":"Halle-Vilvoorde",
+    "qs:name_lau":"Zaventem",
+    "qs:name_local":"Zaventem",
+    "qs:photo_max":186,
+    "qs:photo_sum":253,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":13,
+    "qs:woe_adm0":23424757,
+    "qs:woe_adm1":22525998,
+    "qs:woe_adm2":12591768,
+    "qs:woe_lau":12602445,
+    "qs:woe_local":12602445,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"mz",
+    "wof:belongsto":[
+        85681731,
+        102191581,
+        1108830227,
+        85632997,
+        404227357,
+        101754327,
+        102049969
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":974992,
+        "qs:id":1103806,
+        "qs_pg:id":1103806
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"f7ccf627d4ffd59fc50ae64f43f6200b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049969,
+            "localadmin_id":1108830227,
+            "locality_id":101754327,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85801691,
+            "region_id":85681731
+        }
+    ],
+    "wof:id":85801691,
+    "wof:lang":[
+        "dut"
+    ],
+    "wof:lastmodified":1531862092,
+    "wof:name":"Nossegem",
+    "wof:parent_id":101754327,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.502102,
+    50.87893,
+    4.502102,
+    50.87893
+],
+  "geometry": {"coordinates":[4.502102,50.87893],"type":"Point"}
+}

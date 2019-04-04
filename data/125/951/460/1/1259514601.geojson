@@ -1,0 +1,72 @@
+{
+  "id": 1259514601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.48544,50.60143,3.48544,50.60143",
+    "geom:latitude":50.60143,
+    "geom:longitude":3.48544,
+    "gn:admin1_code":"WAL",
+    "gn:admin2_code":"WHT",
+    "gn:admin3_code":"57.0",
+    "gn:admin4_code":"57081.0",
+    "gn:asciiname":"Bethomee",
+    "gn:country_code":"BE",
+    "gn:dem":46,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2802082,
+    "gn:latitude":50.60143,
+    "gn:longitude":3.48544,
+    "gn:modification_date":"2017-03-25",
+    "gn:name":"Bethom\u00e9e",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681723,
+        102191581,
+        85632997,
+        404227353,
+        102049951
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2802082
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"c58fec04a00d717a7e963897924a2ed7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049951,
+            "locality_id":1259514601,
+            "macroregion_id":404227353,
+            "region_id":85681723
+        }
+    ],
+    "wof:id":1259514601,
+    "wof:lastmodified":1536813519,
+    "wof:name":"Bethomee",
+    "wof:parent_id":102049951,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.48544,
+    50.60143,
+    3.48544,
+    50.60143
+],
+  "geometry": {"coordinates":[3.48544,50.60143],"type":"Point"}
+}

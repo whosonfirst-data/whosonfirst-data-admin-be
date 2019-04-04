@@ -1,0 +1,72 @@
+{
+  "id": 1343597459,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.88799,50.60541,5.88799,50.60541",
+    "geom:latitude":50.60541,
+    "geom:longitude":5.88799,
+    "gn:admin1_code":"WAL",
+    "gn:admin2_code":"WLG",
+    "gn:admin3_code":"63.0",
+    "gn:admin4_code":"63020.0",
+    "gn:asciiname":"Renoupre",
+    "gn:country_code":"BE",
+    "gn:dem":184,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2788164,
+    "gn:latitude":50.60541,
+    "gn:longitude":5.88799,
+    "gn:modification_date":"2017-03-25",
+    "gn:name":"Renoupr\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681691,
+        102191581,
+        85632997,
+        404227353,
+        102049935
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2788164
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"e74d424d5479c4a80eb0906352c3e5e2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049935,
+            "locality_id":1343597459,
+            "macroregion_id":404227353,
+            "region_id":85681691
+        }
+    ],
+    "wof:id":1343597459,
+    "wof:lastmodified":1537044052,
+    "wof:name":"Renoupre",
+    "wof:parent_id":102049935,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.88799,
+    50.60541,
+    5.88799,
+    50.60541
+],
+  "geometry": {"coordinates":[5.88799,50.60541],"type":"Point"}
+}

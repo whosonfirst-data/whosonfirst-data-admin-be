@@ -1,0 +1,72 @@
+{
+  "id": 1310039989,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.84969,50.68989,3.84969,50.68989",
+    "geom:latitude":50.68989,
+    "geom:longitude":3.84969,
+    "gn:admin1_code":"WAL",
+    "gn:admin2_code":"WHT",
+    "gn:admin3_code":"55.0",
+    "gn:admin4_code":"55023.0",
+    "gn:asciiname":"Grand Marais",
+    "gn:country_code":"BE",
+    "gn:dem":24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2797228,
+    "gn:latitude":50.68989,
+    "gn:longitude":3.84969,
+    "gn:modification_date":"2017-03-25",
+    "gn:name":"Grand Marais",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681723,
+        102191581,
+        85632997,
+        404227353,
+        102049943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2797228
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"b3502734c9233f940500cc4d81763865",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049943,
+            "locality_id":1310039989,
+            "macroregion_id":404227353,
+            "region_id":85681723
+        }
+    ],
+    "wof:id":1310039989,
+    "wof:lastmodified":1537087762,
+    "wof:name":"Grand Marais",
+    "wof:parent_id":102049943,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.84969,
+    50.68989000000001,
+    3.84969,
+    50.68989000000001
+],
+  "geometry": {"coordinates":[3.84969,50.68989000000001],"type":"Point"}
+}

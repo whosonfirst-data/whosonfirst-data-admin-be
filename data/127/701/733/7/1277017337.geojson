@@ -1,0 +1,70 @@
+{
+  "id": 1277017337,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.52917,50.75,3.52917,50.75",
+    "geom:latitude":50.75,
+    "geom:longitude":3.52917,
+    "gn:admin1_code":"VLG",
+    "gn:admin2_code":"VOV",
+    "gn:asciiname":"Labroye",
+    "gn:country_code":"BE",
+    "gn:dem":27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2793736,
+    "gn:latitude":50.75,
+    "gn:longitude":3.52917,
+    "gn:modification_date":"2010-03-06",
+    "gn:name":"Labroye",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681723,
+        102191581,
+        85632997,
+        404227353,
+        102049951
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2793736
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"e9facd92fd12e2dbf34c5fbd342e77d9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049951,
+            "locality_id":1277017337,
+            "macroregion_id":404227353,
+            "region_id":85681723
+        }
+    ],
+    "wof:id":1277017337,
+    "wof:lastmodified":1536855652,
+    "wof:name":"Labroye",
+    "wof:parent_id":102049951,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.52917,
+    50.75,
+    3.52917,
+    50.75
+],
+  "geometry": {"coordinates":[3.52917,50.75],"type":"Point"}
+}

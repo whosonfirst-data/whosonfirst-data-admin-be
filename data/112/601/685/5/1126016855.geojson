@@ -1,0 +1,181 @@
+{
+  "id": 1126016855,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.64747,50.99339,3.64747,50.99339",
+    "geom:latitude":50.99339,
+    "geom:longitude":3.64747,
+    "gn:gn_country":"BE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":10020,
+    "gn:population":10020,
+    "iso:country":"BE",
+    "lbl:latitude":50.99339,
+    "lbl:longitude":3.64747,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:baq_x_preferred":[
+        "De Pinte"
+    ],
+    "name:bre_x_preferred":[
+        "De Pinte"
+    ],
+    "name:bul_x_preferred":[
+        "\u0414\u0435 \u041f\u0438\u043d\u0442\u0435"
+    ],
+    "name:cat_x_preferred":[
+        "De Pinte"
+    ],
+    "name:chi_x_preferred":[
+        "\u5fb7\u5e73\u7279"
+    ],
+    "name:dut_x_preferred":[
+        "De Pinte"
+    ],
+    "name:eng_x_preferred":[
+        "De Pinte"
+    ],
+    "name:epo_x_preferred":[
+        "De Pinte"
+    ],
+    "name:est_x_preferred":[
+        "De Pinte"
+    ],
+    "name:fas_x_preferred":[
+        "\u062f\u0648 \u067e\u0646\u062a"
+    ],
+    "name:fre_x_preferred":[
+        "De Pinte"
+    ],
+    "name:ger_x_preferred":[
+        "De Pinte"
+    ],
+    "name:hun_x_preferred":[
+        "De Pinte"
+    ],
+    "name:ita_x_preferred":[
+        "De Pinte"
+    ],
+    "name:lit_x_preferred":[
+        "De Pint\u0117"
+    ],
+    "name:nob_x_preferred":[
+        "De Pinte"
+    ],
+    "name:oci_x_preferred":[
+        "De Pinte"
+    ],
+    "name:per_x_preferred":[
+        "\u062f\u0648 \u067e\u0646\u062a"
+    ],
+    "name:por_x_preferred":[
+        "De Pinte"
+    ],
+    "name:rum_x_preferred":[
+        "De Pinte"
+    ],
+    "name:sco_x_preferred":[
+        "De Pinte"
+    ],
+    "name:slo_x_preferred":[
+        "De Pinte"
+    ],
+    "name:spa_x_preferred":[
+        "De Pinte"
+    ],
+    "name:unk_x_variant":[
+        "De Pinte"
+    ],
+    "name:vie_x_preferred":[
+        "De Pinte"
+    ],
+    "name:vol_x_preferred":[
+        "De Pinte"
+    ],
+    "name:war_x_preferred":[
+        "De Pinte"
+    ],
+    "name:zho_x_preferred":[
+        "\u5fb7\u5e73\u7279"
+    ],
+    "qs_pg:aaroncc":"BE",
+    "qs_pg:gn_country":"BE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2799570,
+    "qs_pg:gn_pop":10020,
+    "qs_pg:name":"La Pinte",
+    "qs_pg:name_adm0":"Belgique",
+    "qs_pg:name_adm1":"Oost-Vlaanderen",
+    "qs_pg:photos":89,
+    "qs_pg:photos_1k":18,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":3,
+    "qs_pg:photos_all":89,
+    "qs_pg:photos_sr":3,
+    "qs_pg:pop_sr":6,
+    "qs_pg:qs_id":141515,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424757,
+    "qs_pg:woe_id":972699,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424757,
+    "woe:name_adm0":"Belgique",
+    "woe:name_adm1":"Oost-Vlaanderen",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85681733,
+        102191581,
+        1108830643,
+        85632997,
+        404227357,
+        102049989
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2799570,
+        "gp:id":972699,
+        "qs_pg:id":141515,
+        "wd:id":"Q842454"
+    },
+    "wof:country":"BE",
+    "wof:created":1497300602,
+    "wof:geomhash":"63db79b949300caf5afd79ded216286c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049989,
+            "localadmin_id":1108830643,
+            "locality_id":1126016855,
+            "macroregion_id":404227357,
+            "region_id":85681733
+        }
+    ],
+    "wof:id":1126016855,
+    "wof:lastmodified":1513899351,
+    "wof:name":"La Pinte",
+    "wof:parent_id":1108830643,
+    "wof:placetype":"locality",
+    "wof:population":10020,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.64747,
+    50.99339,
+    3.64747,
+    50.99339
+],
+  "geometry": {"coordinates":[3.64747,50.99339],"type":"Point"}
+}

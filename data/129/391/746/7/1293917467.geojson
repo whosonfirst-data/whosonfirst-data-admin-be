@@ -1,0 +1,72 @@
+{
+  "id": 1293917467,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.165,50.24,6.165,50.24",
+    "geom:latitude":50.24,
+    "geom:longitude":6.165,
+    "gn:admin1_code":"WAL",
+    "gn:admin2_code":"WLG",
+    "gn:admin3_code":"63.0",
+    "gn:admin4_code":"63067.0",
+    "gn:asciiname":"Lommersweiler",
+    "gn:country_code":"BE",
+    "gn:dem":472,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2792176,
+    "gn:latitude":50.24,
+    "gn:longitude":6.165,
+    "gn:modification_date":"2012-02-02",
+    "gn:name":"Lommersweiler",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681691,
+        102191581,
+        85632997,
+        404227353,
+        102049935
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2792176
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"4a268ebd3d623515870a35f158b0a4a6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049935,
+            "locality_id":1293917467,
+            "macroregion_id":404227353,
+            "region_id":85681691
+        }
+    ],
+    "wof:id":1293917467,
+    "wof:lastmodified":1536664433,
+    "wof:name":"Lommersweiler",
+    "wof:parent_id":102049935,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.165,
+    50.24,
+    6.165,
+    50.24
+],
+  "geometry": {"coordinates":[6.165,50.24],"type":"Point"}
+}

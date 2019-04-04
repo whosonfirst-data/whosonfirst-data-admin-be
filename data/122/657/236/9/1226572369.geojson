@@ -1,0 +1,75 @@
+{
+  "id": 1226572369,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.42654,49.61904,5.42654,49.61904",
+    "geom:latitude":49.61904,
+    "geom:longitude":5.42654,
+    "gn:admin1_code":"WAL",
+    "gn:admin2_code":"WLX",
+    "gn:admin3_code":"85.0",
+    "gn:admin4_code":"85024.0",
+    "gn:asciiname":"Gerouville",
+    "gn:country_code":"BE",
+    "gn:dem":284,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2797600,
+    "gn:latitude":49.61904,
+    "gn:longitude":5.42654,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"G\u00e9rouville",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "G\u00e9rouville"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681727,
+        102191581,
+        85632997,
+        404227353,
+        102049907
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2797600
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"8c115de31e33ab9c1fae168a068913f0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049907,
+            "locality_id":1226572369,
+            "macroregion_id":404227353,
+            "region_id":85681727
+        }
+    ],
+    "wof:id":1226572369,
+    "wof:lastmodified":1537587034,
+    "wof:name":"Gerouville",
+    "wof:parent_id":102049907,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.42654,
+    49.61904000000001,
+    5.42654,
+    49.61904000000001
+],
+  "geometry": {"coordinates":[5.42654,49.61904000000001],"type":"Point"}
+}

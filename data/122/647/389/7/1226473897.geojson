@@ -1,0 +1,72 @@
+{
+  "id": 1226473897,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.96976,50.58156,4.96976,50.58156",
+    "geom:latitude":50.58156,
+    "geom:longitude":4.96976,
+    "gn:admin1_code":"WAL",
+    "gn:admin2_code":"WNA",
+    "gn:admin3_code":"92.0",
+    "gn:admin4_code":"92138.0",
+    "gn:asciiname":"Hambraine",
+    "gn:country_code":"BE",
+    "gn:dem":143,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2796656,
+    "gn:latitude":50.58156,
+    "gn:longitude":4.96976,
+    "gn:modification_date":"2017-03-25",
+    "gn:name":"Hambraine",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681699,
+        102191581,
+        85632997,
+        404227353,
+        102049931
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2796656
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"597795da5b17a57ff2b8f0319cd41171",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049931,
+            "locality_id":1226473897,
+            "macroregion_id":404227353,
+            "region_id":85681699
+        }
+    ],
+    "wof:id":1226473897,
+    "wof:lastmodified":1536601789,
+    "wof:name":"Hambraine",
+    "wof:parent_id":102049931,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.96976,
+    50.58156,
+    4.96976,
+    50.58156
+],
+  "geometry": {"coordinates":[4.96976,50.58156],"type":"Point"}
+}

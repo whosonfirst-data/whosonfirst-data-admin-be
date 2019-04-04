@@ -1,0 +1,64 @@
+{
+  "id": 1209248987,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.43592,50.0577,4.43592,50.0577",
+    "geom:latitude":50.0577,
+    "geom:longitude":4.43592,
+    "gn:admin1_code":"WAL",
+    "gn:admin2_code":"WNA",
+    "gn:admin3_code":"93.0",
+    "gn:admin4_code":"93014.0",
+    "gn:asciiname":"Dailly",
+    "gn:country_code":"BE",
+    "gn:dem":218,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2799904,
+    "gn:latitude":50.0577,
+    "gn:longitude":4.43592,
+    "gn:modification_date":"2012-02-02",
+    "gn:name":"Dailly",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2799904
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"c09aef754140b5e2c57e8d34ed67bcdb",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "locality_id":1209248987
+        }
+    ],
+    "wof:id":1209248987,
+    "wof:lastmodified":1536293066,
+    "wof:name":"Dailly",
+    "wof:parent_id":85632997,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.4359199999999985,
+    50.0577,
+    4.4359199999999985,
+    50.0577
+],
+  "geometry": {"coordinates":[4.43592,50.0577],"type":"Point"}
+}

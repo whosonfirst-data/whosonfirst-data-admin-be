@@ -1,0 +1,64 @@
+{
+  "id": 1209042461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.68992,50.3502,4.68992,50.3502",
+    "geom:latitude":50.3502,
+    "geom:longitude":4.68992,
+    "gn:admin1_code":"WAL",
+    "gn:admin2_code":"WNA",
+    "gn:admin3_code":"92.0",
+    "gn:admin4_code":"92087.0",
+    "gn:asciiname":"Favauge",
+    "gn:country_code":"BE",
+    "gn:dem":252,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2798431,
+    "gn:latitude":50.3502,
+    "gn:longitude":4.68992,
+    "gn:modification_date":"2017-03-25",
+    "gn:name":"Favauge",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2798431
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"4b6a647185f509e1a734d1606693a5e2",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "locality_id":1209042461
+        }
+    ],
+    "wof:id":1209042461,
+    "wof:lastmodified":1536299501,
+    "wof:name":"Favauge",
+    "wof:parent_id":85632997,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.68992,
+    50.3502,
+    4.68992,
+    50.3502
+],
+  "geometry": {"coordinates":[4.68992,50.3502],"type":"Point"}
+}

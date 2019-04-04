@@ -1,0 +1,64 @@
+{
+  "id": 1209139567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.62405,49.66933,5.62405,49.66933",
+    "geom:latitude":49.66933,
+    "geom:longitude":5.62405,
+    "gn:admin1_code":"WAL",
+    "gn:admin2_code":"WLX",
+    "gn:admin3_code":"85.0",
+    "gn:admin4_code":"85009.0",
+    "gn:asciiname":"Sivry",
+    "gn:country_code":"BE",
+    "gn:dem":335,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2786530,
+    "gn:latitude":49.66933,
+    "gn:longitude":5.62405,
+    "gn:modification_date":"2017-03-25",
+    "gn:name":"Sivry",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2786530
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"091bff1b35468a9f3fc57d3365d91db7",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "locality_id":1209139567
+        }
+    ],
+    "wof:id":1209139567,
+    "wof:lastmodified":1536296548,
+    "wof:name":"Sivry",
+    "wof:parent_id":85632997,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.62405,
+    49.66933,
+    5.62405,
+    49.66933
+],
+  "geometry": {"coordinates":[5.62405,49.66933],"type":"Point"}
+}

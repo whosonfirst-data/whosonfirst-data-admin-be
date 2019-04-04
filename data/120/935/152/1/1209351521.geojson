@@ -1,0 +1,70 @@
+{
+  "id": 1209351521,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.98044,50.92557,3.98044,50.92557",
+    "geom:latitude":50.92557,
+    "geom:longitude":3.98044,
+    "gn:admin1_code":"VLG",
+    "gn:admin2_code":"VOV",
+    "gn:admin3_code":"41.0",
+    "gn:admin4_code":"41082.0",
+    "gn:asciiname":"Hoogkouter",
+    "gn:country_code":"BE",
+    "gn:dem":37,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8128768,
+    "gn:latitude":50.92557,
+    "gn:longitude":3.98044,
+    "gn:modification_date":"2016-08-02",
+    "gn:name":"Hoogkouter",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:dut_x_colloquial":[
+        "Boven 't Klooster"
+    ],
+    "name:dut_x_preferred":[
+        "Boven 't Klooster"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8128768
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"ae7987415b68cb8170936a9292cfe9aa",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "locality_id":1209351521
+        }
+    ],
+    "wof:id":1209351521,
+    "wof:lastmodified":1537587088,
+    "wof:name":"Hoogkouter",
+    "wof:parent_id":85632997,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.98044,
+    50.92557,
+    3.98044,
+    50.92557
+],
+  "geometry": {"coordinates":[3.98044,50.92557],"type":"Point"}
+}

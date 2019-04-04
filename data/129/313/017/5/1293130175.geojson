@@ -1,0 +1,76 @@
+{
+  "id": 1293130175,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.38333,49.7,5.38333,49.7",
+    "geom:latitude":49.7,
+    "geom:longitude":5.38333,
+    "gn:admin1_code":"WAL",
+    "gn:admin2_code":"WLX",
+    "gn:admin3_code":"85.0",
+    "gn:admin4_code":"85007.0",
+    "gn:asciiname":"Grifaumont",
+    "gn:country_code":"BE",
+    "gn:dem":314,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2797121,
+    "gn:latitude":49.7,
+    "gn:longitude":5.38333,
+    "gn:modification_date":"2017-03-25",
+    "gn:name":"Grifaumont",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Griffaumont",
+        "Grifaumont"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681727,
+        102191581,
+        85632997,
+        404227353,
+        102049907
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2797121
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"a2efd0d4cc72f9efa5126941a77cde98",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049907,
+            "locality_id":1293130175,
+            "macroregion_id":404227353,
+            "region_id":85681727
+        }
+    ],
+    "wof:id":1293130175,
+    "wof:lastmodified":1537587030,
+    "wof:name":"Grifaumont",
+    "wof:parent_id":102049907,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.38333,
+    49.7,
+    5.38333,
+    49.7
+],
+  "geometry": {"coordinates":[5.38333,49.7],"type":"Point"}
+}

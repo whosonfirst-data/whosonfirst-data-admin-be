@@ -1,0 +1,72 @@
+{
+  "id": 1343595839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.19449,50.38121,6.19449,50.38121",
+    "geom:latitude":50.38121,
+    "geom:longitude":6.19449,
+    "gn:admin1_code":"WAL",
+    "gn:admin2_code":"WLG",
+    "gn:admin3_code":"63.0",
+    "gn:admin4_code":"63001.0",
+    "gn:asciiname":"Moederscheid",
+    "gn:country_code":"BE",
+    "gn:dem":503,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2791131,
+    "gn:latitude":50.38121,
+    "gn:longitude":6.19449,
+    "gn:modification_date":"2017-03-25",
+    "gn:name":"M\u00f6derscheid",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681691,
+        102191581,
+        85632997,
+        404227353,
+        102049935
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2791131
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"0ff390a318e02a74ca15c4af18befe1b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049935,
+            "locality_id":1343595839,
+            "macroregion_id":404227353,
+            "region_id":85681691
+        }
+    ],
+    "wof:id":1343595839,
+    "wof:lastmodified":1537046384,
+    "wof:name":"Moederscheid",
+    "wof:parent_id":102049935,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.19449,
+    50.38121,
+    6.19449,
+    50.38121
+],
+  "geometry": {"coordinates":[6.19449,50.38121],"type":"Point"}
+}

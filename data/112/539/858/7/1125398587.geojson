@@ -1,0 +1,81 @@
+{
+  "id": 1125398587,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2017-05-19",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.8931,50.86971,3.8931,50.86971",
+    "geom:latitude":50.86971,
+    "geom:longitude":3.8931,
+    "gn:gn_country":"BE",
+    "gn:gn_fcode":"ADM4",
+    "gn:gn_pop":17224,
+    "gn:population":17224,
+    "iso:country":"BE",
+    "lbl:latitude":50.86971,
+    "lbl:longitude":3.8931,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bul_x_preferred":[
+        "\u0425\u0435\u0440\u0437\u0435\u043b\u0435"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0631\u0632\u0644"
+    ],
+    "name:zho_x_preferred":[
+        "\u6d77\u5c14\u6cfd\u52d2"
+    ],
+    "qs_pg:aaroncc":"BE",
+    "qs_pg:gn_country":"BE",
+    "qs_pg:gn_fcode":"ADM4",
+    "qs_pg:gn_id":2795909,
+    "qs_pg:gn_pop":17224,
+    "qs_pg:name":"Herzele",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":6,
+    "qs_pg:qs_id":1062764,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85632997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2795909,
+        "qs_pg:id":1062764
+    },
+    "wof:country":"BE",
+    "wof:created":1497049173,
+    "wof:geomhash":"ab07dbace1e2dc74bfc6a9b1965d09e1",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "localadmin_id":1125398587
+        }
+    ],
+    "wof:id":1125398587,
+    "wof:lastmodified":1505185643,
+    "wof:name":"Herzele",
+    "wof:parent_id":-1,
+    "wof:placetype":"localadmin",
+    "wof:population":17224,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.8931,
+    50.86971,
+    3.8931,
+    50.86971
+],
+  "geometry": {"coordinates":[3.8931,50.86971],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1276151227,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.0481,50.15455,5.0481,50.15455",
+    "geom:latitude":50.15455,
+    "geom:longitude":5.0481,
+    "gn:admin1_code":"WAL",
+    "gn:admin2_code":"WNA",
+    "gn:admin3_code":"91.0",
+    "gn:admin4_code":"91072.0",
+    "gn:asciiname":"Croix Remy",
+    "gn:country_code":"BE",
+    "gn:dem":196,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2799969,
+    "gn:latitude":50.15455,
+    "gn:longitude":5.0481,
+    "gn:modification_date":"2017-03-25",
+    "gn:name":"Croix Remy",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681699,
+        102191581,
+        85632997,
+        404227353,
+        102049919
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2799969
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"ff6571035bd91d46ca0a526d6d30625d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049919,
+            "locality_id":1276151227,
+            "macroregion_id":404227353,
+            "region_id":85681699
+        }
+    ],
+    "wof:id":1276151227,
+    "wof:lastmodified":1537021880,
+    "wof:name":"Croix Remy",
+    "wof:parent_id":102049919,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.0481,
+    50.15455,
+    5.0481,
+    50.15455
+],
+  "geometry": {"coordinates":[5.0481,50.15455],"type":"Point"}
+}

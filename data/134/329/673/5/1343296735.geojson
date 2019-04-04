@@ -1,0 +1,75 @@
+{
+  "id": 1343296735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.59582,49.53668,5.59582,49.53668",
+    "geom:latitude":49.53668,
+    "geom:longitude":5.59582,
+    "gn:admin1_code":"WAL",
+    "gn:admin2_code":"WLX",
+    "gn:admin3_code":"85.0",
+    "gn:admin4_code":"85045.0",
+    "gn:asciiname":"Ruette",
+    "gn:country_code":"BE",
+    "gn:dem":234,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2787566,
+    "gn:latitude":49.53668,
+    "gn:longitude":5.59582,
+    "gn:modification_date":"2012-03-01",
+    "gn:name":"Ruette",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Virton (Ruette)"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681727,
+        102191581,
+        85632997,
+        404227353,
+        102049907
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2787566
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"181366ae0909761a26c7d6b419cba14a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049907,
+            "locality_id":1343296735,
+            "macroregion_id":404227353,
+            "region_id":85681727
+        }
+    ],
+    "wof:id":1343296735,
+    "wof:lastmodified":1537586928,
+    "wof:name":"Ruette",
+    "wof:parent_id":102049907,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.59582,
+    49.53668,
+    5.59582,
+    49.53668
+],
+  "geometry": {"coordinates":[5.59582,49.53668],"type":"Point"}
+}

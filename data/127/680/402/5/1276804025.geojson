@@ -1,0 +1,74 @@
+{
+  "id": 1276804025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.06667,51.01667,4.06667,51.01667",
+    "geom:latitude":51.01667,
+    "geom:longitude":4.06667,
+    "gn:admin1_code":"VLG",
+    "gn:admin2_code":"VOV",
+    "gn:admin3_code":"42.0",
+    "gn:admin4_code":"42006.0",
+    "gn:asciiname":"Oudebaan",
+    "gn:country_code":"BE",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2789563,
+    "gn:latitude":51.01667,
+    "gn:longitude":4.06667,
+    "gn:modification_date":"2016-08-02",
+    "gn:name":"Oudebaan",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681733,
+        102191581,
+        1108830417,
+        85632997,
+        404227357,
+        102049979
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2789563
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"bcbb64d64a7ac94b89c8b8255be27b30",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049979,
+            "localadmin_id":1108830417,
+            "locality_id":1276804025,
+            "macroregion_id":404227357,
+            "region_id":85681733
+        }
+    ],
+    "wof:id":1276804025,
+    "wof:lastmodified":1536644541,
+    "wof:name":"Oudebaan",
+    "wof:parent_id":1108830417,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.06667,
+    51.01667,
+    4.06667,
+    51.01667
+],
+  "geometry": {"coordinates":[4.06667,51.01667],"type":"Point"}
+}

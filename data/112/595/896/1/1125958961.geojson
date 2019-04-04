@@ -1,0 +1,109 @@
+{
+  "id": 1125958961,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.92051,50.72257,5.92051,50.72257",
+    "geom:latitude":50.72257,
+    "geom:longitude":5.92051,
+    "gn:gn_country":"BE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"BE",
+    "lbl:latitude":50.72257,
+    "lbl:longitude":5.92051,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Homburg"
+    ],
+    "name:eng_x_preferred":[
+        "Hombourg"
+    ],
+    "name:fre_x_preferred":[
+        "Hombourg"
+    ],
+    "name:hun_x_preferred":[
+        "Hombourg"
+    ],
+    "name:lim_x_preferred":[
+        "Hommerig"
+    ],
+    "name:unk_x_variant":[
+        "Homburg"
+    ],
+    "qs_pg:aaroncc":"BE",
+    "qs_pg:gn_country":"BE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2795499,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Hombourg",
+    "qs_pg:name_adm0":"Belgique",
+    "qs_pg:name_adm1":"Li\u00e8ge",
+    "qs_pg:photos":137,
+    "qs_pg:photos_1k":28,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":3,
+    "qs_pg:photos_all":137,
+    "qs_pg:photos_sr":3,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1249134,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424757,
+    "qs_pg:woe_id":971375,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424757,
+    "woe:name_adm0":"Belgique",
+    "woe:name_adm1":"Li\u00e8ge",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85681691,
+        102191581,
+        85632997,
+        404227353,
+        102049935
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2795499,
+        "gp:id":971375,
+        "qs_pg:id":1249134,
+        "wd:id":"Q2269134"
+    },
+    "wof:country":"BE",
+    "wof:created":1497297725,
+    "wof:geomhash":"9932fafd8e420da2c23b04c50684c056",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049935,
+            "locality_id":1125958961,
+            "macroregion_id":404227353,
+            "region_id":85681691
+        }
+    ],
+    "wof:id":1125958961,
+    "wof:lastmodified":1513899317,
+    "wof:name":"Hombourg",
+    "wof:parent_id":102049935,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.92051,
+    50.72257,
+    5.92051,
+    50.72257
+],
+  "geometry": {"coordinates":[5.92051,50.72257],"type":"Point"}
+}

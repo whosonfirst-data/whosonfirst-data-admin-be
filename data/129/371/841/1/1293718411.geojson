@@ -1,0 +1,70 @@
+{
+  "id": 1293718411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.86601,50.71663,5.86601,50.71663",
+    "geom:latitude":50.71663,
+    "geom:longitude":5.86601,
+    "gn:admin1_code":"WAL",
+    "gn:admin2_code":"WLG",
+    "gn:asciiname":"Hagelstein",
+    "gn:country_code":"BE",
+    "gn:dem":276,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2796784,
+    "gn:latitude":50.71663,
+    "gn:longitude":5.86601,
+    "gn:modification_date":"2011-02-07",
+    "gn:name":"Hagelstein",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681705,
+        102191581,
+        85632997,
+        404227357,
+        1108782563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2796784
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"68bea8dd341782d93f85c7dcb893851d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":1108782563,
+            "locality_id":1293718411,
+            "macroregion_id":404227357,
+            "region_id":85681705
+        }
+    ],
+    "wof:id":1293718411,
+    "wof:lastmodified":1536951778,
+    "wof:name":"Hagelstein",
+    "wof:parent_id":1108782563,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.86601,
+    50.71663,
+    5.86601,
+    50.71663
+],
+  "geometry": {"coordinates":[5.86601,50.71663],"type":"Point"}
+}

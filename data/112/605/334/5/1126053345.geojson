@@ -1,0 +1,116 @@
+{
+  "id": 1126053345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.04021,50.76756,5.04021,50.76756",
+    "geom:latitude":50.76756,
+    "geom:longitude":5.04021,
+    "gn:gn_country":"BE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"BE",
+    "lbl:latitude":50.76756,
+    "lbl:longitude":5.04021,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Neerwinden"
+    ],
+    "name:eng_x_preferred":[
+        "Neerwinden"
+    ],
+    "name:fre_x_preferred":[
+        "Neerwinden"
+    ],
+    "name:ger_x_preferred":[
+        "Neerwinden"
+    ],
+    "name:hun_x_preferred":[
+        "Neerwinden"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30cd\u30fc\u30eb\u30a6\u30a3\u30f3\u30c7\u30f3"
+    ],
+    "name:lit_x_preferred":[
+        "Neerwinden m\u016b\u0161is"
+    ],
+    "name:pol_x_preferred":[
+        "Neerwinden"
+    ],
+    "name:swe_x_preferred":[
+        "Neerwinden"
+    ],
+    "qs_pg:aaroncc":"BE",
+    "qs_pg:gn_country":"BE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2790341,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Neerwinden",
+    "qs_pg:name_adm0":"Belgique",
+    "qs_pg:name_adm1":"Vlaams Brabant",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1060828,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424757,
+    "qs_pg:woe_id":974798,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424757,
+    "woe:name_adm0":"Belgique",
+    "woe:name_adm1":"Vlaams Brabant",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85681731,
+        102191581,
+        1108830259,
+        85632997,
+        404227357,
+        102049969
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2790341,
+        "gp:id":974798,
+        "qs_pg:id":1060828,
+        "wd:id":"Q991231"
+    },
+    "wof:country":"BE",
+    "wof:created":1497302923,
+    "wof:geomhash":"453da4745415af2d5954ff9bb5ebab94",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049969,
+            "localadmin_id":1108830259,
+            "locality_id":1126053345,
+            "macroregion_id":404227357,
+            "region_id":85681731
+        }
+    ],
+    "wof:id":1126053345,
+    "wof:lastmodified":1513899427,
+    "wof:name":"Neerwinden",
+    "wof:parent_id":1108830259,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.04021,
+    50.76756,
+    5.04021,
+    50.76756
+],
+  "geometry": {"coordinates":[5.04021,50.76756],"type":"Point"}
+}

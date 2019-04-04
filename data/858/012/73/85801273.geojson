@@ -1,0 +1,123 @@
+{
+  "id": 85801273,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":22912373.012237,
+    "geom:bbox":"4.351325,51.179155,4.351325,51.179155",
+    "geom:latitude":51.179155,
+    "geom:longitude":4.351325,
+    "gn:id":"",
+    "gn:population":34443,
+    "iso:country":"BE",
+    "lbl:latitude":51.179155,
+    "lbl:longitude":4.351325,
+    "mps:latitude":51.191012,
+    "mps:longitude":4.344542,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":13.0,
+    "mz:tier_locality":3,
+    "mz:tier_metro":30,
+    "name:dut_x_preferred":[
+        "Hoboken"
+    ],
+    "name:unk_x_variant":[
+        "Hoboken"
+    ],
+    "qs:gn_adm0_cc":"BE",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_local":2803138,
+    "qs:gn_nam_loc":"Antwerpen, Antwerpen, Antwerpen, BE",
+    "qs:gn_namadm1":"VLG",
+    "qs:gn_name":"Hoboken",
+    "qs:local_max":24064,
+    "qs:local_sum":52521,
+    "qs:localhoods":10,
+    "qs:name":"Hoboken",
+    "qs:name_adm0":"Belgique",
+    "qs:name_adm1":"Antwerpen",
+    "qs:name_adm2":"Antwerpen",
+    "qs:name_lau":"Antwerpen",
+    "qs:name_local":"Antwerpen",
+    "qs:photo_max":474,
+    "qs:photo_sum":2275,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":89,
+    "qs:woe_adm0":23424757,
+    "qs:woe_adm1":7153308,
+    "qs:woe_adm2":12591760,
+    "qs:woe_lau":12602254,
+    "qs:woe_local":966591,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"mz",
+    "src:population":"geonames",
+    "wd:wordcount":235,
+    "wof:belongsto":[
+        85681715,
+        102191581,
+        1108830423,
+        85632997,
+        404227357,
+        101748099,
+        102050005
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"036e1b26-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2795730,
+        "gp:id":971207,
+        "qs:id":1103397,
+        "qs_pg:id":1103397,
+        "wd:id":"Q267663",
+        "wk:page":"Hoboken, Antwerp"
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"47cb577c686488548ea0273ab5e67184",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102050005,
+            "localadmin_id":1108830423,
+            "locality_id":101748099,
+            "macroregion_id":404227357,
+            "neighbourhood_id":85801273,
+            "region_id":85681715
+        }
+    ],
+    "wof:id":85801273,
+    "wof:lang":[
+        "dut"
+    ],
+    "wof:lastmodified":1531862072,
+    "wof:name":"Hoboken",
+    "wof:parent_id":101748099,
+    "wof:placetype":"neighbourhood",
+    "wof:population":34443,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.351325,
+    51.179155,
+    4.351325,
+    51.179155
+],
+  "geometry": {"coordinates":[4.351325,51.179155],"type":"Point"}
+}

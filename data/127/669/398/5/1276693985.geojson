@@ -1,0 +1,72 @@
+{
+  "id": 1276693985,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.51424,49.98539,4.51424,49.98539",
+    "geom:latitude":49.98539,
+    "geom:longitude":4.51424,
+    "gn:admin1_code":"WAL",
+    "gn:admin2_code":"WNA",
+    "gn:admin3_code":"93.0",
+    "gn:admin4_code":"93014.0",
+    "gn:asciiname":"La Forge du Prince",
+    "gn:country_code":"BE",
+    "gn:dem":292,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2793629,
+    "gn:latitude":49.98539,
+    "gn:longitude":4.51424,
+    "gn:modification_date":"2017-03-25",
+    "gn:name":"La Forge du Prince",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681699,
+        102191581,
+        85632997,
+        404227353,
+        102049917
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2793629
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"ce48cb5af9c4e8125447bbb0c0638f05",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049917,
+            "locality_id":1276693985,
+            "macroregion_id":404227353,
+            "region_id":85681699
+        }
+    ],
+    "wof:id":1276693985,
+    "wof:lastmodified":1536792701,
+    "wof:name":"La Forge du Prince",
+    "wof:parent_id":102049917,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.51424,
+    49.98539,
+    4.51424,
+    49.98539
+],
+  "geometry": {"coordinates":[4.51424,49.98539],"type":"Point"}
+}

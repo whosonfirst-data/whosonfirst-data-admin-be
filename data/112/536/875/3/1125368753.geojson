@@ -1,0 +1,75 @@
+{
+  "id": 1125368753,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2017-05-19",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.11216,50.94869,5.11216,50.94869",
+    "geom:latitude":50.94869,
+    "geom:longitude":5.11216,
+    "gn:gn_country":"BE",
+    "gn:gn_fcode":"ADM4",
+    "gn:gn_pop":9234,
+    "gn:population":9234,
+    "iso:country":"BE",
+    "lbl:latitude":50.94869,
+    "lbl:longitude":5.11216,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:unk_x_variant":[
+        "Haelen"
+    ],
+    "qs_pg:aaroncc":"BE",
+    "qs_pg:gn_country":"BE",
+    "qs_pg:gn_fcode":"ADM4",
+    "qs_pg:gn_id":2796716,
+    "qs_pg:gn_pop":9234,
+    "qs_pg:name":"Halen",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":5,
+    "qs_pg:qs_id":92693,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85632997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2796716,
+        "qs_pg:id":92693
+    },
+    "wof:country":"BE",
+    "wof:created":1497047250,
+    "wof:geomhash":"42288afd95dc0b561d70cbe6d80f904d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "localadmin_id":1125368753
+        }
+    ],
+    "wof:id":1125368753,
+    "wof:lastmodified":1505185644,
+    "wof:name":"Halen",
+    "wof:parent_id":-1,
+    "wof:placetype":"localadmin",
+    "wof:population":9234,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.11216,
+    50.94869,
+    5.11216,
+    50.94869
+],
+  "geometry": {"coordinates":[5.11216,50.94869],"type":"Point"}
+}

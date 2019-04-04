@@ -1,0 +1,78 @@
+{
+  "id": 101755697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000126,
+    "geom:area_square_m":976137.643316,
+    "geom:bbox":"3.62966879479,51.0966330906,3.64385692707,51.1116097609",
+    "geom:latitude":51.103878,
+    "geom:longitude":3.636583,
+    "iso:country":"BE",
+    "lbl:latitude":51.103895,
+    "lbl:longitude":3.636009,
+    "mps:latitude":51.103895,
+    "mps:longitude":3.636009,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:a0":"Belgi\u00eb#Belgique#Belgien",
+    "qs:a1":"*Oost-Vlanderen",
+    "qs:a1r":"0Vlaams Gewest",
+    "qs:a2":"Gent",
+    "qs:adm0":"Belgi\u00eb#Belgique#Belgien",
+    "qs:la":"Kalmthout",
+    "qs:la_lc":"*BE211022",
+    "qs:level":"locality",
+    "qs:loc":"Oostveldkouter",
+    "qs:loc_alt":"Oostveldkouter",
+    "qs:pop":0,
+    "qs:source":"LCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"suburbs point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        85681733,
+        102191581,
+        1108830071,
+        85632997,
+        404227357,
+        102049989
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":973754,
+        "qs:id":7
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"5fa2ef4fd94f7a8192549e77d64ddff0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049989,
+            "localadmin_id":1108830071,
+            "locality_id":101755697,
+            "macroregion_id":404227357,
+            "region_id":85681733
+        }
+    ],
+    "wof:id":101755697,
+    "wof:lastmodified":1499530597,
+    "wof:name":"Oostveldkouter",
+    "wof:parent_id":1108830071,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.62966879479427,
+    51.09663309055912,
+    3.6438569270706,
+    51.11160976085966
+],
+  "geometry": {"coordinates":[[[3.63967210907629,51.09768388431036],[3.63694959799358,51.09663309055912],[3.63680001820427,51.09771661524616],[3.6325310285639,51.09748206837111],[3.63228373185422,51.09927197810299],[3.63086068960484,51.09919375747535],[3.63024220755136,51.10366851677765],[3.62966879479427,51.1036369831653],[3.63102681339268,51.10822029593515],[3.63958687560085,51.10869056716507],[3.63946332271667,51.10958552831136],[3.64088669607753,51.10966364604889],[3.6407631645551,51.11055860857255],[3.64218656963317,51.11063671061396],[3.64206305947675,51.11153167451516],[3.64348649627203,51.11160976085966],[3.6438569270706,51.10892486286281],[3.64243357215827,51.10884678173028],[3.64305097471686,51.10437195321174],[3.64162776067388,51.10429386333317],[3.64199821293084,51.10160896710494],[3.64057508516055,51.10153086500719],[3.64069858467303,51.10063590061338],[3.63927548860431,51.1005577828231],[3.63967210907629,51.09768388431036]]],"type":"Polygon"}
+}

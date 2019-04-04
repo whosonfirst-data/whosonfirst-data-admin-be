@@ -1,0 +1,76 @@
+{
+  "id": 1309840999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.21667,50.2,4.21667,50.2",
+    "geom:latitude":50.2,
+    "geom:longitude":4.21667,
+    "gn:admin1_code":"WAL",
+    "gn:admin2_code":"WHT",
+    "gn:admin3_code":"56.0",
+    "gn:admin4_code":"56005.0",
+    "gn:asciiname":"Lorroir",
+    "gn:country_code":"BE",
+    "gn:dem":248,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2792098,
+    "gn:latitude":50.2,
+    "gn:longitude":4.21667,
+    "gn:modification_date":"2017-03-25",
+    "gn:name":"Lorroir",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Le Lorroir",
+        "Lorroir"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681723,
+        102191581,
+        85632997,
+        404227353,
+        102049923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2792098
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"711038e8c565fc9fd7b3e35c6eb3b5dd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049923,
+            "locality_id":1309840999,
+            "macroregion_id":404227353,
+            "region_id":85681723
+        }
+    ],
+    "wof:id":1309840999,
+    "wof:lastmodified":1537586974,
+    "wof:name":"Lorroir",
+    "wof:parent_id":102049923,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.21667,
+    50.2,
+    4.21667,
+    50.2
+],
+  "geometry": {"coordinates":[4.21667,50.2],"type":"Point"}
+}

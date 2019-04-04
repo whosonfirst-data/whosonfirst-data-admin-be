@@ -1,0 +1,72 @@
+{
+  "id": 1327268503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.37763,49.86014,5.37763,49.86014",
+    "geom:latitude":49.86014,
+    "geom:longitude":5.37763,
+    "gn:admin1_code":"WAL",
+    "gn:admin2_code":"WLX",
+    "gn:admin3_code":"84.0",
+    "gn:admin4_code":"84043.0",
+    "gn:asciiname":"Fineuse",
+    "gn:country_code":"BE",
+    "gn:dem":394,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2798343,
+    "gn:latitude":49.86014,
+    "gn:longitude":5.37763,
+    "gn:modification_date":"2017-03-25",
+    "gn:name":"Fineuse",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681727,
+        102191581,
+        85632997,
+        404227353,
+        102049913
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2798343
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"02e13d3a538d8b3e8b924bc51ee2fda0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049913,
+            "locality_id":1327268503,
+            "macroregion_id":404227353,
+            "region_id":85681727
+        }
+    ],
+    "wof:id":1327268503,
+    "wof:lastmodified":1536918075,
+    "wof:name":"Fineuse",
+    "wof:parent_id":102049913,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.37763,
+    49.86014,
+    5.37763,
+    49.86014
+],
+  "geometry": {"coordinates":[5.37763,49.86014],"type":"Point"}
+}

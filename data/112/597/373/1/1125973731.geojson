@@ -1,0 +1,112 @@
+{
+  "id": 1125973731,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.78214,50.29548,4.78214,50.29548",
+    "geom:latitude":50.29548,
+    "geom:longitude":4.78214,
+    "gn:gn_country":"BE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"BE",
+    "lbl:latitude":50.29548,
+    "lbl:longitude":4.78214,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bul_x_preferred":[
+        "\u0421\u043e\u0441\u043e\u0439\u0435"
+    ],
+    "name:dut_x_preferred":[
+        "Sosoye"
+    ],
+    "name:eng_x_preferred":[
+        "Sosoye"
+    ],
+    "name:fre_x_preferred":[
+        "Sosoye"
+    ],
+    "name:swe_x_preferred":[
+        "Sosoye"
+    ],
+    "name:unk_x_variant":[
+        "Anh\u00e9e (Sosoye)"
+    ],
+    "name:wln_x_preferred":[
+        "S\u00f4zoye"
+    ],
+    "qs_pg:aaroncc":"BE",
+    "qs_pg:gn_country":"BE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2786355,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Sosoye",
+    "qs_pg:name_adm0":"Belgique",
+    "qs_pg:name_adm1":"Namur",
+    "qs_pg:photos":130,
+    "qs_pg:photos_1k":26,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":3,
+    "qs_pg:photos_all":130,
+    "qs_pg:photos_sr":3,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":424290,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424757,
+    "qs_pg:woe_id":977046,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424757,
+    "woe:name_adm0":"Belgique",
+    "woe:name_adm1":"Namur",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85681699,
+        102191581,
+        85632997,
+        404227353,
+        102049919
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2786355,
+        "gp:id":977046,
+        "qs_pg:id":424290,
+        "wd:id":"Q2587670"
+    },
+    "wof:country":"BE",
+    "wof:created":1497298268,
+    "wof:geomhash":"8cdf46d25a58252e7bc200f962015414",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049919,
+            "locality_id":1125973731,
+            "macroregion_id":404227353,
+            "region_id":85681699
+        }
+    ],
+    "wof:id":1125973731,
+    "wof:lastmodified":1513899508,
+    "wof:name":"Sosoye",
+    "wof:parent_id":102049919,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.78214,
+    50.29548,
+    4.78214,
+    50.29548
+],
+  "geometry": {"coordinates":[4.78214,50.29548],"type":"Point"}
+}

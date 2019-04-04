@@ -1,0 +1,106 @@
+{
+  "id": 1125891287,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.40067,50.65429,3.40067,50.65429",
+    "geom:latitude":50.65429,
+    "geom:longitude":3.40067,
+    "gn:gn_country":"BE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"BE",
+    "lbl:latitude":50.65429,
+    "lbl:longitude":3.40067,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Mont-Saint-Aubert"
+    ],
+    "name:eng_x_preferred":[
+        "Mont-Saint-Aubert"
+    ],
+    "name:fre_x_preferred":[
+        "Mont-Saint-Aubert"
+    ],
+    "name:hun_x_preferred":[
+        "Mont-Saint-Aubert"
+    ],
+    "name:unk_x_variant":[
+        "Mont-Saint-Aubert"
+    ],
+    "qs_pg:aaroncc":"BE",
+    "qs_pg:gn_country":"BE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2790762,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Mont-St.-Aubert",
+    "qs_pg:name_adm0":"Belgique",
+    "qs_pg:name_adm1":"Hainaut",
+    "qs_pg:photos":51,
+    "qs_pg:photos_1k":10,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":51,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":917209,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424757,
+    "qs_pg:woe_id":974526,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424757,
+    "woe:name_adm0":"Belgique",
+    "woe:name_adm1":"Hainaut",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85681723,
+        102191581,
+        85632997,
+        404227353,
+        102049951
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2790762,
+        "gp:id":974526,
+        "qs_pg:id":917209,
+        "wd:id":"Q1965718"
+    },
+    "wof:country":"BE",
+    "wof:created":1497295330,
+    "wof:geomhash":"70c40d85e36c42503b63286cbebc3d81",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049951,
+            "locality_id":1125891287,
+            "macroregion_id":404227353,
+            "region_id":85681723
+        }
+    ],
+    "wof:id":1125891287,
+    "wof:lastmodified":1513899415,
+    "wof:name":"Mont-St.-Aubert",
+    "wof:parent_id":102049951,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.40067,
+    50.65429,
+    3.40067,
+    50.65429
+],
+  "geometry": {"coordinates":[3.40067,50.65429],"type":"Point"}
+}

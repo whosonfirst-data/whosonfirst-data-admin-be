@@ -1,0 +1,74 @@
+{
+  "id": 1293420887,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.07535,50.76364,4.07535,50.76364",
+    "geom:latitude":50.76364,
+    "geom:longitude":4.07535,
+    "gn:admin1_code":"VLG",
+    "gn:admin2_code":"VBR",
+    "gn:admin3_code":"23.0",
+    "gn:admin4_code":"23024.0",
+    "gn:asciiname":"Goteringen",
+    "gn:country_code":"BE",
+    "gn:dem":46,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2797372,
+    "gn:latitude":50.76364,
+    "gn:longitude":4.07535,
+    "gn:modification_date":"2016-08-02",
+    "gn:name":"Goteringen",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681731,
+        102191581,
+        1108830505,
+        85632997,
+        404227357,
+        102049973
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2797372
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"412a9c0b5b5de0e4ba6e1106cde95ffe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049973,
+            "localadmin_id":1108830505,
+            "locality_id":1293420887,
+            "macroregion_id":404227357,
+            "region_id":85681731
+        }
+    ],
+    "wof:id":1293420887,
+    "wof:lastmodified":1536882482,
+    "wof:name":"Goteringen",
+    "wof:parent_id":1108830505,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.07535,
+    50.76364,
+    4.07535,
+    50.76364
+],
+  "geometry": {"coordinates":[4.07535,50.76364],"type":"Point"}
+}

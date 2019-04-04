@@ -1,0 +1,74 @@
+{
+  "id": 1310442157,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.65,51.38333,4.65,51.38333",
+    "geom:latitude":51.38333,
+    "geom:longitude":4.65,
+    "gn:admin1_code":"VLG",
+    "gn:admin2_code":"VAN",
+    "gn:admin3_code":"11.0",
+    "gn:admin4_code":"11053.0",
+    "gn:asciiname":"Wehagen",
+    "gn:country_code":"BE",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2783900,
+    "gn:latitude":51.38333,
+    "gn:longitude":4.65,
+    "gn:modification_date":"2016-08-02",
+    "gn:name":"Wehagen",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681715,
+        102191581,
+        1108830509,
+        85632997,
+        404227357,
+        102050005
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2783900
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"fed6dd58f2336bd088073a5f708e4ab9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102050005,
+            "localadmin_id":1108830509,
+            "locality_id":1310442157,
+            "macroregion_id":404227357,
+            "region_id":85681715
+        }
+    ],
+    "wof:id":1310442157,
+    "wof:lastmodified":1537007540,
+    "wof:name":"Wehagen",
+    "wof:parent_id":1108830509,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.65,
+    51.38333,
+    4.65,
+    51.38333
+],
+  "geometry": {"coordinates":[4.65,51.38333],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1293326609,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.68505,51.03945,3.68505,51.03945",
+    "geom:latitude":51.03945,
+    "geom:longitude":3.68505,
+    "gn:admin1_code":"VLG",
+    "gn:admin2_code":"VOV",
+    "gn:admin3_code":"44.0",
+    "gn:admin4_code":"44021.0",
+    "gn:asciiname":"Sleewagen",
+    "gn:country_code":"BE",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2786519,
+    "gn:latitude":51.03945,
+    "gn:longitude":3.68505,
+    "gn:modification_date":"2016-11-27",
+    "gn:name":"Sleewagen",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681733,
+        102191581,
+        1108830083,
+        85632997,
+        404227357,
+        102049989
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2786519
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"4fb92dd6e3519c01a3853d549cf60d51",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049989,
+            "localadmin_id":1108830083,
+            "locality_id":1293326609,
+            "macroregion_id":404227357,
+            "region_id":85681733
+        }
+    ],
+    "wof:id":1293326609,
+    "wof:lastmodified":1537018261,
+    "wof:name":"Sleewagen",
+    "wof:parent_id":1108830083,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.68505,
+    51.03945,
+    3.68505,
+    51.03945
+],
+  "geometry": {"coordinates":[3.68505,51.03945],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1343292529,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.93333,50.73333,4.93333,50.73333",
+    "geom:latitude":50.73333,
+    "geom:longitude":4.93333,
+    "gn:admin1_code":"WAL",
+    "gn:admin2_code":"WBR",
+    "gn:admin3_code":"25.0",
+    "gn:admin4_code":"25048.0",
+    "gn:asciiname":"Pietremeau",
+    "gn:country_code":"BE",
+    "gn:dem":74,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2788974,
+    "gn:latitude":50.73333,
+    "gn:longitude":4.93333,
+    "gn:modification_date":"2017-03-25",
+    "gn:name":"Pi\u00e9tremeau",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pi\u00e9tremau",
+        "Pi\u00e9tremeau"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681693,
+        102191581,
+        85632997,
+        404227353,
+        102049945
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2788974
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"83bb12e02ac594814b73ad8e6810851f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049945,
+            "locality_id":1343292529,
+            "macroregion_id":404227353,
+            "region_id":85681693
+        }
+    ],
+    "wof:id":1343292529,
+    "wof:lastmodified":1537586945,
+    "wof:name":"Pietremeau",
+    "wof:parent_id":102049945,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.93333,
+    50.73333,
+    4.93333,
+    50.73333
+],
+  "geometry": {"coordinates":[4.93333,50.73333],"type":"Point"}
+}

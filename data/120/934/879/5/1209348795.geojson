@@ -1,0 +1,68 @@
+{
+  "id": 1209348795,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.9,51.25,4.9,51.25",
+    "geom:latitude":51.25,
+    "geom:longitude":4.9,
+    "gn:admin1_code":"VLG",
+    "gn:admin2_code":"VAN",
+    "gn:admin3_code":"13.0",
+    "gn:admin4_code":"13017.0",
+    "gn:asciiname":"Pleintje",
+    "gn:country_code":"BE",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2788859,
+    "gn:latitude":51.25,
+    "gn:longitude":4.9,
+    "gn:modification_date":"2016-08-02",
+    "gn:name":"Pleintje",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pleintjen",
+        "Pleintje"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2788859
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"0cf9a88e80a8cf890270c43080f3b362",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "locality_id":1209348795
+        }
+    ],
+    "wof:id":1209348795,
+    "wof:lastmodified":1537586944,
+    "wof:name":"Pleintje",
+    "wof:parent_id":85632997,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.9,
+    51.25,
+    4.9,
+    51.25
+],
+  "geometry": {"coordinates":[4.9,51.25],"type":"Point"}
+}

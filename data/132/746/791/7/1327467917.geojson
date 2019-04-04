@@ -1,0 +1,79 @@
+{
+  "id": 1327467917,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.99359,50.76325,3.99359,50.76325",
+    "geom:latitude":50.76325,
+    "geom:longitude":3.99359,
+    "gn:admin1_code":"VLG",
+    "gn:admin2_code":"VBR",
+    "gn:admin3_code":"23.0",
+    "gn:admin4_code":"23023.0",
+    "gn:asciiname":"Sint-Leonardus",
+    "gn:country_code":"BE",
+    "gn:dem":55,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2786621,
+    "gn:latitude":50.76325,
+    "gn:longitude":3.99359,
+    "gn:modification_date":"2016-08-02",
+    "gn:name":"Sint-Leonardus",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sint-Leenaart",
+        "Saint-L\u00e9onard",
+        "Sint-Leonardus"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681731,
+        102191581,
+        1108830579,
+        85632997,
+        404227357,
+        102049973
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2786621
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"5ab8727cb7804550a5403321329fc0d6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049973,
+            "localadmin_id":1108830579,
+            "locality_id":1327467917,
+            "macroregion_id":404227357,
+            "region_id":85681731
+        }
+    ],
+    "wof:id":1327467917,
+    "wof:lastmodified":1537586915,
+    "wof:name":"Sint-Leonardus",
+    "wof:parent_id":1108830579,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.99359,
+    50.76325,
+    3.99359,
+    50.76325
+],
+  "geometry": {"coordinates":[3.99359,50.76325],"type":"Point"}
+}

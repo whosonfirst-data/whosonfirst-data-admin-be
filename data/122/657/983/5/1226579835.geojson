@@ -1,0 +1,79 @@
+{
+  "id": 1226579835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.68762,50.78905,3.68762,50.78905",
+    "geom:latitude":50.78905,
+    "geom:longitude":3.68762,
+    "gn:admin1_code":"VLG",
+    "gn:admin2_code":"VOV",
+    "gn:admin3_code":"45.0",
+    "gn:admin4_code":"45064.0",
+    "gn:asciiname":"Het Bosgat",
+    "gn:country_code":"BE",
+    "gn:dem":95,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2795892,
+    "gn:latitude":50.78905,
+    "gn:longitude":3.68762,
+    "gn:modification_date":"2016-08-02",
+    "gn:name":"Het Bosgat",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Boschgat",
+        "Bosgat",
+        "Het Bosgat"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681733,
+        102191581,
+        1108830139,
+        85632997,
+        404227357,
+        102049963
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2795892
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"1f6e3bd20287a81267dfec579797465f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049963,
+            "localadmin_id":1108830139,
+            "locality_id":1226579835,
+            "macroregion_id":404227357,
+            "region_id":85681733
+        }
+    ],
+    "wof:id":1226579835,
+    "wof:lastmodified":1537587018,
+    "wof:name":"Het Bosgat",
+    "wof:parent_id":1108830139,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.68762,
+    50.78905,
+    3.68762,
+    50.78905
+],
+  "geometry": {"coordinates":[3.68762,50.78905],"type":"Point"}
+}

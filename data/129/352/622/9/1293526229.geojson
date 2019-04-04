@@ -1,0 +1,74 @@
+{
+  "id": 1293526229,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.7,51.06667,3.7,51.06667",
+    "geom:latitude":51.06667,
+    "geom:longitude":3.7,
+    "gn:admin1_code":"VLG",
+    "gn:admin2_code":"VOV",
+    "gn:admin3_code":"44.0",
+    "gn:admin4_code":"44021.0",
+    "gn:asciiname":"Kerkstraat",
+    "gn:country_code":"BE",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2794533,
+    "gn:latitude":51.06667,
+    "gn:longitude":3.7,
+    "gn:modification_date":"2016-08-02",
+    "gn:name":"Kerkstraat",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681733,
+        102191581,
+        1108830083,
+        85632997,
+        404227357,
+        102049989
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2794533
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"72cf57e375e6f3cc9e11dd958f098c62",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049989,
+            "localadmin_id":1108830083,
+            "locality_id":1293526229,
+            "macroregion_id":404227357,
+            "region_id":85681733
+        }
+    ],
+    "wof:id":1293526229,
+    "wof:lastmodified":1536731418,
+    "wof:name":"Kerkstraat",
+    "wof:parent_id":1108830083,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.7,
+    51.06667,
+    3.7,
+    51.06667
+],
+  "geometry": {"coordinates":[3.7,51.06667],"type":"Point"}
+}

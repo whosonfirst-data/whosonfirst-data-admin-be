@@ -1,0 +1,87 @@
+{
+  "id": 1125398525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2017-05-19",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.07734,51.11884,4.07734,51.11884",
+    "geom:latitude":51.11884,
+    "geom:longitude":4.07734,
+    "gn:gn_country":"BE",
+    "gn:gn_fcode":"ADM4",
+    "gn:gn_pop":10483,
+    "gn:population":10483,
+    "iso:country":"BE",
+    "lbl:latitude":51.11884,
+    "lbl:longitude":4.07734,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bul_x_preferred":[
+        "\u0412\u0430\u0441\u043c\u044c\u043e\u043d\u0441\u0442\u0435\u0440"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0648\u0626\u0632\u0645\u0627\u0646\u0633\u062a\u0647"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u0430\u0441\u043c\u044e\u043d\u0441\u0442\u0435\u0440"
+    ],
+    "name:unk_x_variant":[
+        "Waesmunster"
+    ],
+    "name:zho_x_preferred":[
+        "\u74e6\u65af\u660e\u65af\u7279\u5c14"
+    ],
+    "qs_pg:aaroncc":"BE",
+    "qs_pg:gn_country":"BE",
+    "qs_pg:gn_fcode":"ADM4",
+    "qs_pg:gn_id":2784232,
+    "qs_pg:gn_pop":10483,
+    "qs_pg:name":"Waasmunster",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":6,
+    "qs_pg:qs_id":1062707,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85632997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2784232,
+        "qs_pg:id":1062707
+    },
+    "wof:country":"BE",
+    "wof:created":1497049170,
+    "wof:geomhash":"037c52d02626b045d2d947c4e5d3d985",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "localadmin_id":1125398525
+        }
+    ],
+    "wof:id":1125398525,
+    "wof:lastmodified":1505185639,
+    "wof:name":"Waasmunster",
+    "wof:parent_id":-1,
+    "wof:placetype":"localadmin",
+    "wof:population":10483,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.07734,
+    51.11884,
+    4.07734,
+    51.11884
+],
+  "geometry": {"coordinates":[4.07734,51.11884],"type":"Point"}
+}

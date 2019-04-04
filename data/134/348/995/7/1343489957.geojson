@@ -1,0 +1,72 @@
+{
+  "id": 1343489957,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.15,50.4,4.15,50.4",
+    "geom:latitude":50.4,
+    "geom:longitude":4.15,
+    "gn:admin1_code":"WAL",
+    "gn:admin2_code":"WHT",
+    "gn:admin3_code":"56.0",
+    "gn:admin4_code":"56011.0",
+    "gn:asciiname":"Bourleau",
+    "gn:country_code":"BE",
+    "gn:dem":114,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2801248,
+    "gn:latitude":50.4,
+    "gn:longitude":4.15,
+    "gn:modification_date":"2017-03-25",
+    "gn:name":"Bourleau",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681723,
+        102191581,
+        85632997,
+        404227353,
+        102049923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2801248
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"093caa543d4d383884abe4a8e417572f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049923,
+            "locality_id":1343489957,
+            "macroregion_id":404227353,
+            "region_id":85681723
+        }
+    ],
+    "wof:id":1343489957,
+    "wof:lastmodified":1536704020,
+    "wof:name":"Bourleau",
+    "wof:parent_id":102049923,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.15,
+    50.4,
+    4.15,
+    50.4
+],
+  "geometry": {"coordinates":[4.15,50.4],"type":"Point"}
+}

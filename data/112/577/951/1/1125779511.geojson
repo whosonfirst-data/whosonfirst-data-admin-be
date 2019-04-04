@@ -1,0 +1,112 @@
+{
+  "id": 1125779511,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.0059,50.32256,5.0059,50.32256",
+    "geom:latitude":50.32256,
+    "geom:longitude":5.0059,
+    "gn:gn_country":"BE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"BE",
+    "lbl:latitude":50.32256,
+    "lbl:longitude":5.0059,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Spontin"
+    ],
+    "name:eng_x_preferred":[
+        "Spontin"
+    ],
+    "name:est_x_preferred":[
+        "Spontin"
+    ],
+    "name:fre_x_preferred":[
+        "Spontin"
+    ],
+    "name:rum_x_preferred":[
+        "Spontin"
+    ],
+    "name:unk_x_variant":[
+        "Yvoir (Spontin)"
+    ],
+    "name:wln_x_preferred":[
+        "Spontin"
+    ],
+    "qs_pg:aaroncc":"BE",
+    "qs_pg:gn_country":"BE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2786254,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Spontin",
+    "qs_pg:name_adm0":"Belgique",
+    "qs_pg:name_adm1":"Namur",
+    "qs_pg:photos":357,
+    "qs_pg:photos_1k":72,
+    "qs_pg:photos_9k":2,
+    "qs_pg:photos_9r":5,
+    "qs_pg:photos_all":357,
+    "qs_pg:photos_sr":6,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":4761,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424757,
+    "qs_pg:woe_id":977111,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424757,
+    "woe:name_adm0":"Belgique",
+    "woe:name_adm1":"Namur",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85681699,
+        102191581,
+        85632997,
+        404227353,
+        102049919
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2786254,
+        "gp:id":977111,
+        "qs_pg:id":4761,
+        "wd:id":"Q2047779"
+    },
+    "wof:country":"BE",
+    "wof:created":1497290407,
+    "wof:geomhash":"f5973c438b0d4663be95d18344e18f34",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049919,
+            "locality_id":1125779511,
+            "macroregion_id":404227353,
+            "region_id":85681699
+        }
+    ],
+    "wof:id":1125779511,
+    "wof:lastmodified":1513899511,
+    "wof:name":"Spontin",
+    "wof:parent_id":102049919,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.0059,
+    50.32256,
+    5.0059,
+    50.32256
+],
+  "geometry": {"coordinates":[5.0059,50.32256],"type":"Point"}
+}

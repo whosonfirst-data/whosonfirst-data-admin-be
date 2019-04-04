@@ -1,0 +1,110 @@
+{
+  "id": 1126009655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.5444,50.60149,5.5444,50.60149",
+    "geom:latitude":50.60149,
+    "geom:longitude":5.5444,
+    "gn:gn_country":"BE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"BE",
+    "lbl:latitude":50.60149,
+    "lbl:longitude":5.5444,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Ougr\u00e9e"
+    ],
+    "name:dut_x_preferred":[
+        "Ougr\u00e9e"
+    ],
+    "name:eng_x_preferred":[
+        "Ougr\u00e9e"
+    ],
+    "name:fre_x_preferred":[
+        "Ougr\u00e9e"
+    ],
+    "name:hun_x_preferred":[
+        "Ougr\u00e9e"
+    ],
+    "name:ltz_x_preferred":[
+        "Ougr\u00e9e"
+    ],
+    "name:unk_x_variant":[
+        "Seraing (Ougr\u00e9e)"
+    ],
+    "qs_pg:aaroncc":"BE",
+    "qs_pg:gn_country":"BE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2789475,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Ougr\u00e9e",
+    "qs_pg:name_adm0":"Belgique",
+    "qs_pg:name_adm1":"Li\u00e8ge",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":7,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1012942,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424757,
+    "qs_pg:woe_id":975318,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424757,
+    "woe:name_adm0":"Belgique",
+    "woe:name_adm1":"Li\u00e8ge",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85681691,
+        102191581,
+        85632997,
+        404227353,
+        102049941
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2789475,
+        "gp:id":975318,
+        "qs_pg:id":1012942,
+        "wd:id":"Q2854501"
+    },
+    "wof:country":"BE",
+    "wof:created":1497300189,
+    "wof:geomhash":"e906c799bc5b8008c8a5e6be32cdda73",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049941,
+            "locality_id":1126009655,
+            "macroregion_id":404227353,
+            "region_id":85681691
+        }
+    ],
+    "wof:id":1126009655,
+    "wof:lastmodified":1513899452,
+    "wof:name":"Ougr\u00e9e",
+    "wof:parent_id":102049941,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.5444,
+    50.60149,
+    5.5444,
+    50.60149
+],
+  "geometry": {"coordinates":[5.5444,50.60149],"type":"Point"}
+}

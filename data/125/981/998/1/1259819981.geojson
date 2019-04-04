@@ -1,0 +1,76 @@
+{
+  "id": 1259819981,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.88333,50.7,2.88333,50.7",
+    "geom:latitude":50.7,
+    "geom:longitude":2.88333,
+    "gn:admin1_code":"VLG",
+    "gn:admin2_code":"VWV",
+    "gn:asciiname":"Petite Flandre",
+    "gn:country_code":"BE",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2789107,
+    "gn:latitude":50.7,
+    "gn:longitude":2.88333,
+    "gn:modification_date":"2010-03-06",
+    "gn:name":"Petite Flandre",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85683445,
+        102191581,
+        85633147,
+        404406293,
+        404228283,
+        1108826399,
+        136253037,
+        102064615
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2789107
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"91a6274978b915553f29898ddcd6f2e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "county_id":102064615,
+            "empire_id":136253037,
+            "localadmin_id":404406293,
+            "locality_id":1259819981,
+            "macrocounty_id":404228283,
+            "macroregion_id":1108826399,
+            "region_id":85683445
+        }
+    ],
+    "wof:id":1259819981,
+    "wof:lastmodified":1536869584,
+    "wof:name":"Petite Flandre",
+    "wof:parent_id":404406293,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.88333,
+    50.7,
+    2.88333,
+    50.7
+],
+  "geometry": {"coordinates":[2.88333,50.7],"type":"Point"}
+}

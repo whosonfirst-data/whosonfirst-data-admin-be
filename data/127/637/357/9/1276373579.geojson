@@ -1,0 +1,74 @@
+{
+  "id": 1276373579,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.01667,51.26667,5.01667,51.26667",
+    "geom:latitude":51.26667,
+    "geom:longitude":5.01667,
+    "gn:admin1_code":"VLG",
+    "gn:admin2_code":"VAN",
+    "gn:admin3_code":"13.0",
+    "gn:admin4_code":"13017.0",
+    "gn:asciiname":"Straaleind",
+    "gn:country_code":"BE",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2785986,
+    "gn:latitude":51.26667,
+    "gn:longitude":5.01667,
+    "gn:modification_date":"2016-08-02",
+    "gn:name":"Straaleind",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681715,
+        102191581,
+        1108830677,
+        85632997,
+        404227357,
+        102050007
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2785986
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"a8614de1ee5450490b3ad886de876ae9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102050007,
+            "localadmin_id":1108830677,
+            "locality_id":1276373579,
+            "macroregion_id":404227357,
+            "region_id":85681715
+        }
+    ],
+    "wof:id":1276373579,
+    "wof:lastmodified":1536724926,
+    "wof:name":"Straaleind",
+    "wof:parent_id":1108830677,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.01667,
+    51.26667,
+    5.01667,
+    51.26667
+],
+  "geometry": {"coordinates":[5.01667,51.26667],"type":"Point"}
+}

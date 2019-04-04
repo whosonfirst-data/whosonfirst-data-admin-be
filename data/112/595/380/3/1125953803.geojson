@@ -1,0 +1,104 @@
+{
+  "id": 1125953803,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.87422,50.85568,4.87422,50.85568",
+    "geom:latitude":50.85568,
+    "geom:longitude":4.87422,
+    "gn:gn_country":"BE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"BE",
+    "lbl:latitude":50.85568,
+    "lbl:longitude":4.87422,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Kerkom"
+    ],
+    "name:eng_x_preferred":[
+        "Kerkom"
+    ],
+    "name:fre_x_preferred":[
+        "Kerkom"
+    ],
+    "name:hun_x_preferred":[
+        "Kerkom"
+    ],
+    "name:ltz_x_preferred":[
+        "Kerkom"
+    ],
+    "qs_pg:aaroncc":"BE",
+    "qs_pg:gn_country":"BE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2794540,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Kerkom",
+    "qs_pg:name_adm0":"Belgique",
+    "qs_pg:name_adm1":"Vlaams Brabant",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1289565,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424757,
+    "qs_pg:woe_id":971981,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424757,
+    "woe:name_adm0":"Belgique",
+    "woe:name_adm1":"Vlaams Brabant",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85681731,
+        102191581,
+        1108830471,
+        85632997,
+        404227357,
+        102049969
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2794540,
+        "gp:id":971981,
+        "qs_pg:id":1289565,
+        "wd:id":"Q1836414"
+    },
+    "wof:country":"BE",
+    "wof:created":1497297552,
+    "wof:geomhash":"8fb2602f3c5e4d68aece90d0ab58d3bf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049969,
+            "localadmin_id":1108830471,
+            "locality_id":1125953803,
+            "macroregion_id":404227357,
+            "region_id":85681731
+        }
+    ],
+    "wof:id":1125953803,
+    "wof:lastmodified":1513899337,
+    "wof:name":"Kerkom",
+    "wof:parent_id":1108830471,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.87422,
+    50.85568,
+    4.87422,
+    50.85568
+],
+  "geometry": {"coordinates":[4.87422,50.85568],"type":"Point"}
+}

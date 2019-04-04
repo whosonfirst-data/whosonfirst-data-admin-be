@@ -1,0 +1,110 @@
+{
+  "id": 85801955,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000231,
+    "geom:area_square_m":1805625.156067,
+    "geom:bbox":"4.41650390625,50.8128769458,4.44122314453,50.8267584824",
+    "geom:latitude":50.820056,
+    "geom:longitude":4.428313,
+    "gn:id":"",
+    "iso:country":"BE",
+    "lbl:latitude":50.818553,
+    "lbl:longitude":4.429784,
+    "mps:latitude":50.819817,
+    "mps:longitude":4.427312,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_locality":5,
+    "mz:tier_metro":30,
+    "name:fra_x_preferred":[
+        "Val Duchesse Hertoginnend"
+    ],
+    "name:nld_x_preferred":[
+        "Val Duchesse Hertoginnend"
+    ],
+    "name:unk_x_variant":[
+        "Val Duchesse Hertoginnend"
+    ],
+    "qs:gn_id":0,
+    "qs:gn_local":0,
+    "qs:local_max":62861,
+    "qs:local_sum":208570,
+    "qs:localhoods":75,
+    "qs:name":"Val Duchesse Hertoginnend",
+    "qs:name_adm0":"Belgique",
+    "qs:name_adm1":"R\u00e9gion de Bruxelles-Capitale",
+    "qs:name_adm2":"Brussel Hoofdstad",
+    "qs:name_lau":"Oudergem",
+    "qs:name_local":"Bruxelles",
+    "qs:photo_max":40,
+    "qs:photo_sum":155,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":14,
+    "qs:woe_adm0":23424757,
+    "qs:woe_adm1":55965974,
+    "qs:woe_adm2":12591762,
+    "qs:woe_lau":12602402,
+    "qs:woe_local":968019,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mz",
+    "wof:belongsto":[
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":978061,
+        "qs:id":1104170,
+        "qs_pg:id":1104170
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"c86a49e055c59ca411a33f19eece7de5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801955,
+            "region_id":85681713
+        }
+    ],
+    "wof:id":85801955,
+    "wof:lang":[
+        "dut"
+    ],
+    "wof:lastmodified":1527270450,
+    "wof:name":"Val Duchesse",
+    "wof:parent_id":101751573,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.41650390624994,
+    50.81287694582535,
+    4.44122314453256,
+    50.82675848239997
+],
+  "geometry": {"coordinates":[[[4.43298339844,50.8252376941213],[4.43298339844,50.82328850120008],[4.43847656250009,50.82328850120008],[4.43847656250009,50.82328843675039],[4.44066843618094,50.82328843675039],[4.44122314453256,50.82284937039104],[4.44122314453256,50.82084569949099],[4.43970845819166,50.8198181977004],[4.43847656250009,50.81786836762105],[4.43847656250009,50.81634776520009],[4.4375158513125,50.81634776520009],[4.43751581057762,50.81634770072544],[4.43298339844,50.81634770072544],[4.43298339844,50.8128770103],[4.43298339844,50.81287694582535],[4.42749023437835,50.81287694582535],[4.42295784260108,50.81287694582535],[4.42295782902235,50.8128770103],[4.42199707031011,50.8128770103],[4.42199706818647,50.81634775579606],[4.42090070578126,50.81808302980029],[4.42026033120788,50.81858981849139],[4.41925048828011,50.8183614729944],[4.41711983692744,50.81884325548641],[4.41650390625023,50.8198181977004],[4.41650390625023,50.81981826220012],[4.41650390625014,50.82307001652431],[4.41650390624994,50.82328850120008],[4.41719400311698,50.8232885012],[4.42073433533858,50.82440937042072],[4.4213814006298,50.82426303826988],[4.42199707031011,50.82523769411596],[4.42199707031011,50.82675848239997],[4.42295766608751,50.82675848239997],[4.42749023438012,50.82675848239997],[4.43298339844,50.82675848239997],[4.43298339844,50.8252376941213]]],"type":"Polygon"}
+}

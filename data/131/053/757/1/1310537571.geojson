@@ -1,0 +1,76 @@
+{
+  "id": 1310537571,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.08333,50.43333,6.08333,50.43333",
+    "geom:latitude":50.43333,
+    "geom:longitude":6.08333,
+    "gn:admin1_code":"WAL",
+    "gn:admin2_code":"WLG",
+    "gn:admin3_code":"63.0",
+    "gn:admin4_code":"63049.0",
+    "gn:asciiname":"Noirthier",
+    "gn:country_code":"BE",
+    "gn:dem":564,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2790066,
+    "gn:latitude":50.43333,
+    "gn:longitude":6.08333,
+    "gn:modification_date":"2017-03-25",
+    "gn:name":"Noirthier",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Noir Tier",
+        "Noirthier"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681691,
+        102191581,
+        85632997,
+        404227353,
+        102049935
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2790066
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"d3b63b64f94d9b60e59d62657930ca60",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049935,
+            "locality_id":1310537571,
+            "macroregion_id":404227353,
+            "region_id":85681691
+        }
+    ],
+    "wof:id":1310537571,
+    "wof:lastmodified":1537586954,
+    "wof:name":"Noirthier",
+    "wof:parent_id":102049935,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.08333,
+    50.43333,
+    6.08333,
+    50.43333
+],
+  "geometry": {"coordinates":[6.08333,50.43333],"type":"Point"}
+}

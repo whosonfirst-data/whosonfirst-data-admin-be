@@ -1,0 +1,91 @@
+{
+  "id": 1126050649,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.61735,50.62328,4.61735,50.62328",
+    "geom:latitude":50.62328,
+    "geom:longitude":4.61735,
+    "gn:gn_country":"BE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"BE",
+    "lbl:latitude":50.62328,
+    "lbl:longitude":4.61735,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:unk_x_variant":[
+        "Mont-Saint-Guibert (H\u00e9villers)"
+    ],
+    "qs_pg:aaroncc":"BE",
+    "qs_pg:gn_country":"BE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2795780,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"H\u00e9villers",
+    "qs_pg:name_adm0":"Belgique",
+    "qs_pg:name_adm1":"Brabant Wallon",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":6,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":341403,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424757,
+    "qs_pg:woe_id":971177,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424757,
+    "woe:name_adm0":"Belgique",
+    "woe:name_adm1":"Brabant Wallon",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85681693,
+        102191581,
+        85632997,
+        404227353,
+        102049945
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2795780,
+        "gp:id":971177,
+        "qs_pg:id":341403
+    },
+    "wof:country":"BE",
+    "wof:created":1497302715,
+    "wof:geomhash":"3ec3938e3e0e3a87e42faee6f2bc3417",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049945,
+            "locality_id":1126050649,
+            "macroregion_id":404227353,
+            "region_id":85681693
+        }
+    ],
+    "wof:id":1126050649,
+    "wof:lastmodified":1509409201,
+    "wof:name":"H\u00e9villers",
+    "wof:parent_id":102049945,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.61735,
+    50.62328,
+    4.61735,
+    50.62328
+],
+  "geometry": {"coordinates":[4.61735,50.62328],"type":"Point"}
+}

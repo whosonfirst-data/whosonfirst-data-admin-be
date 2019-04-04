@@ -1,0 +1,129 @@
+{
+  "id": 1326665041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.43333,50.81667,4.43333,50.81667",
+    "geom:latitude":50.81667,
+    "geom:longitude":4.43333,
+    "gn:admin1_code":"BRU",
+    "gn:admin2_code":"BRU",
+    "gn:admin3_code":"21.0",
+    "gn:admin4_code":"21002.0",
+    "gn:asciiname":"Auderghem",
+    "gn:cc2":"BE",
+    "gn:country_code":"BE",
+    "gn:dem":75,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2802960,
+    "gn:latitude":50.81667,
+    "gn:longitude":4.43333,
+    "gn:modification_date":"2011-01-25",
+    "gn:name":"Auderghem",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0410\u0443\u0434\u0435\u0440\u0433\u0435\u043c"
+    ],
+    "name:cat_x_preferred":[
+        "Auderghem"
+    ],
+    "name:deu_x_preferred":[
+        "Auderghem/Oudergem"
+    ],
+    "name:eng_x_preferred":[
+        "Auderghem"
+    ],
+    "name:epo_x_preferred":[
+        "Oudergem"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0648\u062f\u0631\u06af\u0645"
+    ],
+    "name:fra_x_preferred":[
+        "Bruxelles (Auderghem)"
+    ],
+    "name:ind_x_preferred":[
+        "Auderghem-Oudergem"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30aa\u30fc\u30c7\u30eb\u30b2\u30e0"
+    ],
+    "name:kor_x_preferred":[
+        "\uc624\ub370\ub974\uac9c"
+    ],
+    "name:lim_x_preferred":[
+        "Oudergem"
+    ],
+    "name:ltz_x_preferred":[
+        "Auderghem - Oudergem"
+    ],
+    "name:nld_x_preferred":[
+        "Brussel (Oudergem)"
+    ],
+    "name:rus_x_preferred":[
+        "\u041e\u0434\u0435\u0440\u0433\u0435\u043c"
+    ],
+    "name:spa_x_preferred":[
+        "Auderghem"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041e\u0434\u0435\u0440\u0433\u0435\u043c"
+    ],
+    "name:und_x_variant":[
+        "Anderghen",
+        "Oudergem"
+    ],
+    "name:zho_x_preferred":[
+        "\u5965\u5fb7\u5c14\u8d6b\u59c6"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681713,
+        102191581,
+        85632997,
+        404227355,
+        102049957
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2802960,
+        "wk:page":"Auderghem"
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"6e94a19b9b818f0709213c844196a4a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":1326665041,
+            "macroregion_id":404227355,
+            "region_id":85681713
+        }
+    ],
+    "wof:id":1326665041,
+    "wof:lastmodified":1537587083,
+    "wof:name":"Auderghem",
+    "wof:parent_id":102049957,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.43333,
+    50.81667,
+    4.43333,
+    50.81667
+],
+  "geometry": {"coordinates":[4.43333,50.81667],"type":"Point"}
+}

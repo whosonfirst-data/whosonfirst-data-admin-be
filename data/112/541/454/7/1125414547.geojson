@@ -1,0 +1,72 @@
+{
+  "id": 1125414547,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2017-05-19",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.7086,49.55818,5.7086,49.55818",
+    "geom:latitude":49.55818,
+    "geom:longitude":5.7086,
+    "gn:gn_country":"BE",
+    "gn:gn_fcode":"ADM4",
+    "gn:gn_pop":4422,
+    "gn:population":4422,
+    "iso:country":"BE",
+    "lbl:latitude":49.55818,
+    "lbl:longitude":5.7086,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"BE",
+    "qs_pg:gn_country":"BE",
+    "qs_pg:gn_fcode":"ADM4",
+    "qs_pg:gn_id":2790516,
+    "qs_pg:gn_pop":4422,
+    "qs_pg:name":"Musson",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":247583,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85632997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2790516,
+        "qs_pg:id":247583
+    },
+    "wof:country":"BE",
+    "wof:created":1497051052,
+    "wof:geomhash":"3ad820a2fc4a1f4c29f51d7272a85f6b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "localadmin_id":1125414547
+        }
+    ],
+    "wof:id":1125414547,
+    "wof:lastmodified":1505185641,
+    "wof:name":"Musson",
+    "wof:parent_id":-1,
+    "wof:placetype":"localadmin",
+    "wof:population":4422,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.7086,
+    49.55818,
+    5.7086,
+    49.55818
+],
+  "geometry": {"coordinates":[5.7086,49.55818],"type":"Point"}
+}

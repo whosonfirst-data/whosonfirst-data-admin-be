@@ -1,0 +1,74 @@
+{
+  "id": 1259519965,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.35524,50.92088,5.35524,50.92088",
+    "geom:latitude":50.92088,
+    "geom:longitude":5.35524,
+    "gn:admin1_code":"VLG",
+    "gn:admin2_code":"VLI",
+    "gn:admin3_code":"71.0",
+    "gn:admin4_code":"71022.0",
+    "gn:asciiname":"Singelbeek",
+    "gn:country_code":"BE",
+    "gn:dem":43,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2786759,
+    "gn:latitude":50.92088,
+    "gn:longitude":5.35524,
+    "gn:modification_date":"2016-08-02",
+    "gn:name":"Singelbeek",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681705,
+        102191581,
+        1108830649,
+        85632997,
+        404227357,
+        102049975
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2786759
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"ab5ef06ad267c629347be5bd58ab935a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049975,
+            "localadmin_id":1108830649,
+            "locality_id":1259519965,
+            "macroregion_id":404227357,
+            "region_id":85681705
+        }
+    ],
+    "wof:id":1259519965,
+    "wof:lastmodified":1536806084,
+    "wof:name":"Singelbeek",
+    "wof:parent_id":1108830649,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.35524,
+    50.92088,
+    5.35524,
+    50.92088
+],
+  "geometry": {"coordinates":[5.35524,50.92088],"type":"Point"}
+}

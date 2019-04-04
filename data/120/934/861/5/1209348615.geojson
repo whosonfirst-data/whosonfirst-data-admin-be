@@ -1,0 +1,64 @@
+{
+  "id": 1209348615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.66095,49.89142,5.66095,49.89142",
+    "geom:latitude":49.89142,
+    "geom:longitude":5.66095,
+    "gn:admin1_code":"WAL",
+    "gn:admin2_code":"WLX",
+    "gn:admin3_code":"82.0",
+    "gn:admin4_code":"82009.0",
+    "gn:asciiname":"Burnon",
+    "gn:country_code":"BE",
+    "gn:dem":426,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2800738,
+    "gn:latitude":49.89142,
+    "gn:longitude":5.66095,
+    "gn:modification_date":"2017-03-25",
+    "gn:name":"Burnon",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2800738
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"fe25111353c57830598b1c4d95f9bfd4",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "locality_id":1209348615
+        }
+    ],
+    "wof:id":1209348615,
+    "wof:lastmodified":1536289823,
+    "wof:name":"Burnon",
+    "wof:parent_id":85632997,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.66095,
+    49.89142,
+    5.66095,
+    49.89142
+],
+  "geometry": {"coordinates":[5.66095,49.89142],"type":"Point"}
+}

@@ -1,0 +1,117 @@
+{
+  "id": 1125987521,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.96448,51.0294,2.96448,51.0294",
+    "geom:latitude":51.0294,
+    "geom:longitude":2.96448,
+    "gn:gn_country":"BE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"BE",
+    "lbl:latitude":51.0294,
+    "lbl:longitude":2.96448,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Werken"
+    ],
+    "name:eng_x_preferred":[
+        "Werken"
+    ],
+    "name:fre_x_preferred":[
+        "Werken"
+    ],
+    "name:hun_x_preferred":[
+        "Werken"
+    ],
+    "name:por_x_preferred":[
+        "Werken"
+    ],
+    "name:swe_x_preferred":[
+        "Werken"
+    ],
+    "name:unk_x_variant":[
+        "Wercken"
+    ],
+    "name:vls_x_preferred":[
+        "Werkn"
+    ],
+    "qs_pg:aaroncc":"BE",
+    "qs_pg:gn_country":"BE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2783831,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Werken",
+    "qs_pg:name_adm0":"Belgique",
+    "qs_pg:name_adm1":"West-Vlaanderen",
+    "qs_pg:photos":159,
+    "qs_pg:photos_1k":32,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":4,
+    "qs_pg:photos_all":159,
+    "qs_pg:photos_sr":4,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":887949,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424757,
+    "qs_pg:woe_id":978795,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424757,
+    "woe:name_adm0":"Belgique",
+    "woe:name_adm1":"West-Vlaanderen",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85681709,
+        102191581,
+        1108830511,
+        85632997,
+        404227357,
+        102049987
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2783831,
+        "gp:id":978795,
+        "qs_pg:id":887949,
+        "wd:id":"Q2091146"
+    },
+    "wof:country":"BE",
+    "wof:created":1497298884,
+    "wof:geomhash":"81885a07d77630a7baf1a6006008d595",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049987,
+            "localadmin_id":1108830511,
+            "locality_id":1125987521,
+            "macroregion_id":404227357,
+            "region_id":85681709
+        }
+    ],
+    "wof:id":1125987521,
+    "wof:lastmodified":1513899578,
+    "wof:name":"Werken",
+    "wof:parent_id":1108830511,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.96448,
+    51.0294,
+    2.96448,
+    51.0294
+],
+  "geometry": {"coordinates":[2.96448,51.0294],"type":"Point"}
+}

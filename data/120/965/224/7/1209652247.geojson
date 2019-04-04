@@ -1,0 +1,64 @@
+{
+  "id": 1209652247,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.5,50.55,4.5,50.55",
+    "geom:latitude":50.55,
+    "geom:longitude":4.5,
+    "gn:admin1_code":"WAL",
+    "gn:admin2_code":"WBR",
+    "gn:admin3_code":"25.0",
+    "gn:admin4_code":"25107.0",
+    "gn:asciiname":"Rualette",
+    "gn:country_code":"BE",
+    "gn:dem":153,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2787581,
+    "gn:latitude":50.55,
+    "gn:longitude":4.5,
+    "gn:modification_date":"2017-03-25",
+    "gn:name":"Rualette",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2787581
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"385538681649992c919c7d55170b203e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "locality_id":1209652247
+        }
+    ],
+    "wof:id":1209652247,
+    "wof:lastmodified":1536280543,
+    "wof:name":"Rualette",
+    "wof:parent_id":85632997,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.5,
+    50.55,
+    4.5,
+    50.55
+],
+  "geometry": {"coordinates":[4.5,50.55],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1193046859,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.3677,50.68101,3.3677,50.68101",
+    "geom:latitude":50.68101,
+    "geom:longitude":3.3677,
+    "gn:admin1_code":"WAL",
+    "gn:admin2_code":"WHT",
+    "gn:admin3_code":"57.0",
+    "gn:admin4_code":"57062.0",
+    "gn:asciiname":"Leaucourt",
+    "gn:country_code":"BE",
+    "gn:dem":27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2793151,
+    "gn:latitude":50.68101,
+    "gn:longitude":3.3677,
+    "gn:modification_date":"2017-03-25",
+    "gn:name":"L\u00e9aucourt",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681723,
+        102191581,
+        85632997,
+        404227353,
+        102049951
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2793151
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"3d0b55d667e886517137560fb7ac6ba3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049951,
+            "locality_id":1193046859,
+            "macroregion_id":404227353,
+            "region_id":85681723
+        }
+    ],
+    "wof:id":1193046859,
+    "wof:lastmodified":1536369945,
+    "wof:name":"Leaucourt",
+    "wof:parent_id":102049951,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.3677,
+    50.68101,
+    3.3677,
+    50.68101
+],
+  "geometry": {"coordinates":[3.3677,50.68101],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1310532553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.12177,50.96791,4.12177,50.96791",
+    "geom:latitude":50.96791,
+    "geom:longitude":4.12177,
+    "gn:admin1_code":"VLG",
+    "gn:admin2_code":"VOV",
+    "gn:admin3_code":"41.0",
+    "gn:admin4_code":"41002.0",
+    "gn:asciiname":"Eerdegem",
+    "gn:country_code":"BE",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2798975,
+    "gn:latitude":50.96791,
+    "gn:longitude":4.12177,
+    "gn:modification_date":"2016-08-02",
+    "gn:name":"Eerdegem",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681733,
+        102191581,
+        1108830479,
+        85632997,
+        404227357,
+        102049979
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2798975
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"ee48d9c36959b6677aee94edd15d3087",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049979,
+            "localadmin_id":1108830479,
+            "locality_id":1310532553,
+            "macroregion_id":404227357,
+            "region_id":85681733
+        }
+    ],
+    "wof:id":1310532553,
+    "wof:lastmodified":1536877129,
+    "wof:name":"Eerdegem",
+    "wof:parent_id":1108830479,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.12177,
+    50.96791,
+    4.12177,
+    50.96791
+],
+  "geometry": {"coordinates":[4.12177,50.96791],"type":"Point"}
+}

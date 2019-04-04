@@ -1,0 +1,64 @@
+{
+  "id": 1209141985,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.31643,51.14452,3.31643,51.14452",
+    "geom:latitude":51.14452,
+    "geom:longitude":3.31643,
+    "gn:admin1_code":"VLG",
+    "gn:admin2_code":"VWV",
+    "gn:admin3_code":"31.0",
+    "gn:admin4_code":"31003.0",
+    "gn:asciiname":"Kasteelhoek",
+    "gn:country_code":"BE",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2794676,
+    "gn:latitude":51.14452,
+    "gn:longitude":3.31643,
+    "gn:modification_date":"2016-08-02",
+    "gn:name":"Kasteelhoek",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2794676
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"881c527ebbc2d87483936e3d31001b96",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "locality_id":1209141985
+        }
+    ],
+    "wof:id":1209141985,
+    "wof:lastmodified":1536296474,
+    "wof:name":"Kasteelhoek",
+    "wof:parent_id":85632997,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.3164300000000004,
+    51.14452,
+    3.3164300000000004,
+    51.14452
+],
+  "geometry": {"coordinates":[3.31643,51.14452],"type":"Point"}
+}

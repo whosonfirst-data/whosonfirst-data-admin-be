@@ -1,0 +1,74 @@
+{
+  "id": 1309936433,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.44314,50.93244,3.44314,50.93244",
+    "geom:latitude":50.93244,
+    "geom:longitude":3.44314,
+    "gn:admin1_code":"VLG",
+    "gn:admin2_code":"VWV",
+    "gn:admin3_code":"37.0",
+    "gn:admin4_code":"37002.0",
+    "gn:asciiname":"Neerhoek",
+    "gn:country_code":"BE",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2790379,
+    "gn:latitude":50.93244,
+    "gn:longitude":3.44314,
+    "gn:modification_date":"2016-08-02",
+    "gn:name":"Neerhoek",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681709,
+        102191581,
+        1108830197,
+        85632997,
+        404227357,
+        102049981
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2790379
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"c3b24f95530bbe2b7da335eb3cc4d204",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049981,
+            "localadmin_id":1108830197,
+            "locality_id":1309936433,
+            "macroregion_id":404227357,
+            "region_id":85681709
+        }
+    ],
+    "wof:id":1309936433,
+    "wof:lastmodified":1536742706,
+    "wof:name":"Neerhoek",
+    "wof:parent_id":1108830197,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.44314,
+    50.93244,
+    3.44314,
+    50.93244
+],
+  "geometry": {"coordinates":[3.44314,50.93244],"type":"Point"}
+}

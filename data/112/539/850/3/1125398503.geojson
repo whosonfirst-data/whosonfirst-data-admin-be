@@ -1,0 +1,81 @@
+{
+  "id": 1125398503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2017-05-19",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.95236,50.9976,3.95236,50.9976",
+    "geom:latitude":50.9976,
+    "geom:longitude":3.95236,
+    "gn:gn_country":"BE",
+    "gn:gn_fcode":"ADM4",
+    "gn:gn_pop":11290,
+    "gn:population":11290,
+    "iso:country":"BE",
+    "lbl:latitude":50.9976,
+    "lbl:longitude":3.95236,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bul_x_preferred":[
+        "\u0412\u0438\u0445\u0435\u043b\u0435\u043d"
+    ],
+    "name:fas_x_preferred":[
+        "\u0648\u06cc\u0634\u0648\u0644\u0627\u0646"
+    ],
+    "name:zho_x_preferred":[
+        "\u7ef4\u8d6b\u4f26"
+    ],
+    "qs_pg:aaroncc":"BE",
+    "qs_pg:gn_country":"BE",
+    "qs_pg:gn_fcode":"ADM4",
+    "qs_pg:gn_id":2783729,
+    "qs_pg:gn_pop":11290,
+    "qs_pg:name":"Wichelen",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":6,
+    "qs_pg:qs_id":1062701,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85632997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2783729,
+        "qs_pg:id":1062701
+    },
+    "wof:country":"BE",
+    "wof:created":1497049168,
+    "wof:geomhash":"c4ed14a5f1bd56fad033396806666640",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "localadmin_id":1125398503
+        }
+    ],
+    "wof:id":1125398503,
+    "wof:lastmodified":1505185639,
+    "wof:name":"Wichelen",
+    "wof:parent_id":-1,
+    "wof:placetype":"localadmin",
+    "wof:population":11290,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.95236,
+    50.9976,
+    3.95236,
+    50.9976
+],
+  "geometry": {"coordinates":[3.95236,50.9976],"type":"Point"}
+}

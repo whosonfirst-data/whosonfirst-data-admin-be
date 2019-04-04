@@ -1,0 +1,76 @@
+{
+  "id": 1260215257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.79028,50.5864,3.79028,50.5864",
+    "geom:latitude":50.5864,
+    "geom:longitude":3.79028,
+    "gn:admin1_code":"WAL",
+    "gn:admin2_code":"WHT",
+    "gn:admin3_code":"51.0",
+    "gn:admin4_code":"51014.0",
+    "gn:asciiname":"Tongre-Saint-Martin",
+    "gn:cc2":"BE",
+    "gn:country_code":"BE",
+    "gn:dem":50,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2785379,
+    "gn:latitude":50.5864,
+    "gn:longitude":3.79028,
+    "gn:modification_date":"2009-01-17",
+    "gn:name":"Tongre-Saint-Martin",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tongres-Saint-Martin"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681723,
+        102191581,
+        85632997,
+        404227353,
+        102049949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2785379
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"344f559d23176c2ae33eddce952283e9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049949,
+            "locality_id":1260215257,
+            "macroregion_id":404227353,
+            "region_id":85681723
+        }
+    ],
+    "wof:id":1260215257,
+    "wof:lastmodified":1537586900,
+    "wof:name":"Tongre-Saint-Martin",
+    "wof:parent_id":102049949,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.79028,
+    50.5864,
+    3.79028,
+    50.5864
+],
+  "geometry": {"coordinates":[3.79028,50.5864],"type":"Point"}
+}

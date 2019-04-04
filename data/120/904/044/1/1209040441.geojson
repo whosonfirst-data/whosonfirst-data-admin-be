@@ -1,0 +1,64 @@
+{
+  "id": 1209040441,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.93148,50.93658,4.93148,50.93658",
+    "geom:latitude":50.93658,
+    "geom:longitude":4.93148,
+    "gn:admin1_code":"VLG",
+    "gn:admin2_code":"VBR",
+    "gn:admin3_code":"24.0",
+    "gn:admin4_code":"24135.0",
+    "gn:asciiname":"Heuvel",
+    "gn:country_code":"BE",
+    "gn:dem":35,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2795792,
+    "gn:latitude":50.93658,
+    "gn:longitude":4.93148,
+    "gn:modification_date":"2016-08-02",
+    "gn:name":"Heuvel",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2795792
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"980cd59d7efcfceecaeba1252e69c091",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "locality_id":1209040441
+        }
+    ],
+    "wof:id":1209040441,
+    "wof:lastmodified":1536299563,
+    "wof:name":"Heuvel",
+    "wof:parent_id":85632997,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.9314800000000005,
+    50.93658,
+    4.9314800000000005,
+    50.93658
+],
+  "geometry": {"coordinates":[4.93148,50.93658],"type":"Point"}
+}

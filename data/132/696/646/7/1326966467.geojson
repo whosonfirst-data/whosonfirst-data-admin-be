@@ -1,0 +1,72 @@
+{
+  "id": 1326966467,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.62168,50.72071,3.62168,50.72071",
+    "geom:latitude":50.72071,
+    "geom:longitude":3.62168,
+    "gn:admin1_code":"WAL",
+    "gn:admin2_code":"WHT",
+    "gn:admin3_code":"51.0",
+    "gn:admin4_code":"51065.0",
+    "gn:asciiname":"Arabie",
+    "gn:country_code":"BE",
+    "gn:dem":51,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2803115,
+    "gn:latitude":50.72071,
+    "gn:longitude":3.62168,
+    "gn:modification_date":"2017-03-25",
+    "gn:name":"Arabie",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681723,
+        102191581,
+        85632997,
+        404227353,
+        102049949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2803115
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"bcab9b3a1b47fc675e4f296264550479",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049949,
+            "locality_id":1326966467,
+            "macroregion_id":404227353,
+            "region_id":85681723
+        }
+    ],
+    "wof:id":1326966467,
+    "wof:lastmodified":1536854303,
+    "wof:name":"Arabie",
+    "wof:parent_id":102049949,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.62168,
+    50.72071,
+    3.62168,
+    50.72071
+],
+  "geometry": {"coordinates":[3.62168,50.72071],"type":"Point"}
+}

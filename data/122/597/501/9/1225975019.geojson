@@ -1,0 +1,72 @@
+{
+  "id": 1225975019,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.30015,50.41555,5.30015,50.41555",
+    "geom:latitude":50.41555,
+    "geom:longitude":5.30015,
+    "gn:admin1_code":"WAL",
+    "gn:admin2_code":"WLG",
+    "gn:admin3_code":"61.0",
+    "gn:admin4_code":"61012.0",
+    "gn:asciiname":"Les Avins",
+    "gn:country_code":"BE",
+    "gn:dem":231,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2792771,
+    "gn:latitude":50.41555,
+    "gn:longitude":5.30015,
+    "gn:modification_date":"2012-02-02",
+    "gn:name":"Les Avins",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681691,
+        102191581,
+        85632997,
+        404227353,
+        102049925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2792771
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"07fe06c90b46a42d624109ba6bf19f78",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049925,
+            "locality_id":1225975019,
+            "macroregion_id":404227353,
+            "region_id":85681691
+        }
+    ],
+    "wof:id":1225975019,
+    "wof:lastmodified":1536826277,
+    "wof:name":"Les Avins",
+    "wof:parent_id":102049925,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.30015,
+    50.41555,
+    5.30015,
+    50.41555
+],
+  "geometry": {"coordinates":[5.30015,50.41555],"type":"Point"}
+}

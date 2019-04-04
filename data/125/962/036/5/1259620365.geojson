@@ -1,0 +1,76 @@
+{
+  "id": 1259620365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.72834,50.75515,3.72834,50.75515",
+    "geom:latitude":50.75515,
+    "geom:longitude":3.72834,
+    "gn:admin1_code":"WAL",
+    "gn:admin2_code":"WHT",
+    "gn:admin3_code":"51.0",
+    "gn:admin4_code":"51019.0",
+    "gn:asciiname":"Hurdumont",
+    "gn:country_code":"BE",
+    "gn:dem":90,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2795128,
+    "gn:latitude":50.75515,
+    "gn:longitude":3.72834,
+    "gn:modification_date":"2017-03-25",
+    "gn:name":"Hurdumont",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hardumont",
+        "Hurdumont"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681723,
+        102191581,
+        85632997,
+        404227353,
+        102049949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2795128
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"ca2c98a89780a638f9addd6687383bba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049949,
+            "locality_id":1259620365,
+            "macroregion_id":404227353,
+            "region_id":85681723
+        }
+    ],
+    "wof:id":1259620365,
+    "wof:lastmodified":1537587009,
+    "wof:name":"Hurdumont",
+    "wof:parent_id":102049949,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.72834,
+    50.75515,
+    3.72834,
+    50.75515
+],
+  "geometry": {"coordinates":[3.72834,50.75515],"type":"Point"}
+}

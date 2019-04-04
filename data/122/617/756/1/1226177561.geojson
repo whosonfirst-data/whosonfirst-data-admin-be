@@ -1,0 +1,72 @@
+{
+  "id": 1226177561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.90184,49.6382,5.90184,49.6382",
+    "geom:latitude":49.6382,
+    "geom:longitude":5.90184,
+    "gn:admin1_code":"WAL",
+    "gn:admin2_code":"WLX",
+    "gn:admin3_code":"81.0",
+    "gn:admin4_code":"81001.0",
+    "gn:asciiname":"Hinter dem Ewemt",
+    "gn:country_code":"BE",
+    "gn:dem":332,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2795736,
+    "gn:latitude":49.6382,
+    "gn:longitude":5.90184,
+    "gn:modification_date":"2017-03-25",
+    "gn:name":"Hinter dem Ewemt",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681727,
+        102191581,
+        85632997,
+        404227353,
+        102049909
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2795736
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"ba6a614516a379ff71aba5e383e028fd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049909,
+            "locality_id":1226177561,
+            "macroregion_id":404227353,
+            "region_id":85681727
+        }
+    ],
+    "wof:id":1226177561,
+    "wof:lastmodified":1537030495,
+    "wof:name":"Hinter dem Ewemt",
+    "wof:parent_id":102049909,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.90184,
+    49.6382,
+    5.90184,
+    49.6382
+],
+  "geometry": {"coordinates":[5.90184,49.6382],"type":"Point"}
+}

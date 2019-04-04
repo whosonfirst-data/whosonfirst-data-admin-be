@@ -1,0 +1,72 @@
+{
+  "id": 1310532593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.29992,49.9987,4.29992,49.9987",
+    "geom:latitude":49.9987,
+    "geom:longitude":4.29992,
+    "gn:admin1_code":"WAL",
+    "gn:admin2_code":"WHT",
+    "gn:admin3_code":"56.0",
+    "gn:admin4_code":"56016.0",
+    "gn:asciiname":"La Champagne",
+    "gn:country_code":"BE",
+    "gn:dem":306,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2793712,
+    "gn:latitude":49.9987,
+    "gn:longitude":4.29992,
+    "gn:modification_date":"2017-03-25",
+    "gn:name":"La Champagne",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681723,
+        102191581,
+        85632997,
+        404227353,
+        102049923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2793712
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"c2c13848fcbc617434ba4ca617ba35dd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049923,
+            "locality_id":1310532593,
+            "macroregion_id":404227353,
+            "region_id":85681723
+        }
+    ],
+    "wof:id":1310532593,
+    "wof:lastmodified":1536877068,
+    "wof:name":"La Champagne",
+    "wof:parent_id":102049923,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.29992,
+    49.9987,
+    4.29992,
+    49.9987
+],
+  "geometry": {"coordinates":[4.29992,49.9987],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1276906057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.55671,50.52439,4.55671,50.52439",
+    "geom:latitude":50.52439,
+    "geom:longitude":4.55671,
+    "gn:admin1_code":"WAL",
+    "gn:admin2_code":"WHT",
+    "gn:admin3_code":"52.0",
+    "gn:admin4_code":"52021.0",
+    "gn:asciiname":"Brye",
+    "gn:country_code":"BE",
+    "gn:dem":148,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2800832,
+    "gn:latitude":50.52439,
+    "gn:longitude":4.55671,
+    "gn:modification_date":"2012-02-02",
+    "gn:name":"Brye",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681723,
+        102191581,
+        85632997,
+        404227353,
+        102049927
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2800832
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"5dcaa2fa6917b33acd961b961924587f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049927,
+            "locality_id":1276906057,
+            "macroregion_id":404227353,
+            "region_id":85681723
+        }
+    ],
+    "wof:id":1276906057,
+    "wof:lastmodified":1537005512,
+    "wof:name":"Brye",
+    "wof:parent_id":102049927,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.55671,
+    50.52439,
+    4.55671,
+    50.52439
+],
+  "geometry": {"coordinates":[4.55671,50.52439],"type":"Point"}
+}

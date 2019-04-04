@@ -1,0 +1,104 @@
+{
+  "id": 1125796515,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.36226,50.41333,4.36226,50.41333",
+    "geom:latitude":50.41333,
+    "geom:longitude":4.36226,
+    "gn:gn_country":"BE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"BE",
+    "lbl:latitude":50.41333,
+    "lbl:longitude":4.36226,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Goutroux"
+    ],
+    "name:eng_x_preferred":[
+        "Goutroux"
+    ],
+    "name:fre_x_preferred":[
+        "Goutroux"
+    ],
+    "name:hun_x_preferred":[
+        "Goutroux"
+    ],
+    "name:unk_x_variant":[
+        "Charleroi (Goutroux)"
+    ],
+    "qs_pg:aaroncc":"BE",
+    "qs_pg:gn_country":"BE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2797349,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Goutroux",
+    "qs_pg:name_adm0":"Belgique",
+    "qs_pg:name_adm1":"Hainaut",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":1,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1163769,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424757,
+    "qs_pg:woe_id":970202,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424757,
+    "woe:name_adm0":"Belgique",
+    "woe:name_adm1":"Hainaut",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85681723,
+        102191581,
+        85632997,
+        404227353,
+        102049927
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2797349,
+        "gp:id":970202,
+        "qs_pg:id":1163769,
+        "wd:id":"Q725628"
+    },
+    "wof:country":"BE",
+    "wof:created":1497291075,
+    "wof:geomhash":"32ffa6ae8ff82bdd978652b5bbbb5816",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049927,
+            "locality_id":1125796515,
+            "macroregion_id":404227353,
+            "region_id":85681723
+        }
+    ],
+    "wof:id":1125796515,
+    "wof:lastmodified":1513899289,
+    "wof:name":"Goutroux",
+    "wof:parent_id":102049927,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.36226,
+    50.41333,
+    4.36226,
+    50.41333
+],
+  "geometry": {"coordinates":[4.36226,50.41333],"type":"Point"}
+}

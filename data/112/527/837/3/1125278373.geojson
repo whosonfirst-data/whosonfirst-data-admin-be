@@ -1,0 +1,99 @@
+{
+  "id": 1125278373,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2017-05-19",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.49324,51.15991,4.49324,51.15991",
+    "geom:latitude":51.15991,
+    "geom:longitude":4.49324,
+    "gn:gn_country":"BE",
+    "gn:gn_fcode":"ADM4",
+    "gn:gn_pop":12779,
+    "gn:population":12779,
+    "iso:country":"BE",
+    "lbl:latitude":51.15991,
+    "lbl:longitude":4.49324,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bul_x_preferred":[
+        "\u0411\u0443\u0445\u0430\u0443\u0442"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u0648\u0626\u0634\u0648"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0443\u0445\u0430\u0443\u0442"
+    ],
+    "name:unk_x_variant":[
+        "Bouchout"
+    ],
+    "name:zho_x_preferred":[
+        "\u5e03\u8c6a\u7279"
+    ],
+    "qs_pg:aaroncc":"BE",
+    "qs_pg:gn_country":"BE",
+    "qs_pg:gn_fcode":"ADM4",
+    "qs_pg:gn_id":2801744,
+    "qs_pg:gn_pop":12779,
+    "qs_pg:name":"Boechout",
+    "qs_pg:name_adm0":"Belgique",
+    "qs_pg:name_adm1":"Antwerpen",
+    "qs_pg:photos_9k":8,
+    "qs_pg:photos_9r":9,
+    "qs_pg:photos_all":1826,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":6,
+    "qs_pg:qs_id":1073072,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
+    "qs_pg:woe_adm0":23424757,
+    "qs_pg:woe_id":12602683,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424757,
+    "woe:name_adm0":"Belgique",
+    "woe:name_adm1":"Antwerpen",
+    "woe:placetype":"LocalAdmin",
+    "wof:belongsto":[
+        85632997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2801744,
+        "gp:id":12602683,
+        "qs_pg:id":1073072
+    },
+    "wof:country":"BE",
+    "wof:created":1497042408,
+    "wof:geomhash":"fa459ea2d90360a3206461631a9f0410",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "localadmin_id":1125278373
+        }
+    ],
+    "wof:id":1125278373,
+    "wof:lastmodified":1505185646,
+    "wof:name":"Boechout",
+    "wof:parent_id":-1,
+    "wof:placetype":"localadmin",
+    "wof:population":12779,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.49324,
+    51.15991,
+    4.49324,
+    51.15991
+],
+  "geometry": {"coordinates":[4.49324,51.15991],"type":"Point"}
+}

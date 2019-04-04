@@ -1,0 +1,76 @@
+{
+  "id": 1310532137,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.95042,50.66033,5.95042,50.66033",
+    "geom:latitude":50.66033,
+    "geom:longitude":5.95042,
+    "gn:admin1_code":"WAL",
+    "gn:admin2_code":"WLG",
+    "gn:admin3_code":"63.0",
+    "gn:admin4_code":"63084.0",
+    "gn:asciiname":"La Bruyere",
+    "gn:country_code":"BE",
+    "gn:dem":273,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2793728,
+    "gn:latitude":50.66033,
+    "gn:longitude":5.95042,
+    "gn:modification_date":"2017-03-25",
+    "gn:name":"La Bruy\u00e8re",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bruy\u00e8re",
+        "La Bruy\u00e8re"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681691,
+        102191581,
+        85632997,
+        404227353,
+        102049935
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2793728
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"c23058d17ea464e9b58398ec4596b967",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049935,
+            "locality_id":1310532137,
+            "macroregion_id":404227353,
+            "region_id":85681691
+        }
+    ],
+    "wof:id":1310532137,
+    "wof:lastmodified":1537586992,
+    "wof:name":"La Bruyere",
+    "wof:parent_id":102049935,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.95042,
+    50.66033,
+    5.95042,
+    50.66033
+],
+  "geometry": {"coordinates":[5.95042,50.66033],"type":"Point"}
+}

@@ -1,0 +1,92 @@
+{
+  "id": 1125359807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2017-05-19",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.95164,50.45384,3.95164,50.45384",
+    "geom:latitude":50.45384,
+    "geom:longitude":3.95164,
+    "gn:gn_country":"BE",
+    "gn:gn_fcode":"ADM4",
+    "gn:gn_pop":92044,
+    "gn:population":92044,
+    "iso:country":"BE",
+    "lbl:latitude":50.45384,
+    "lbl:longitude":3.95164,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:nld_x_preferred":[
+        "Bergen"
+    ],
+    "name:pcd_x_preferred":[
+        "Mont"
+    ],
+    "qs_pg:aaroncc":"BE",
+    "qs_pg:gn_country":"BE",
+    "qs_pg:gn_fcode":"ADM4",
+    "qs_pg:gn_id":2790871,
+    "qs_pg:gn_pop":92044,
+    "qs_pg:name":"Mons",
+    "qs_pg:name_adm0":"Belgique",
+    "qs_pg:name_adm1":"Hainaut",
+    "qs_pg:photos":190,
+    "qs_pg:photos_1k":39,
+    "qs_pg:photos_9k":25,
+    "qs_pg:photos_9r":14,
+    "qs_pg:photos_all":5617,
+    "qs_pg:photos_sr":4,
+    "qs_pg:pop_sr":8,
+    "qs_pg:qs_id":1163027,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
+    "qs_pg:woe_adm0":23424757,
+    "qs_pg:woe_id":12602630,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424757,
+    "woe:name_adm0":"Belgique",
+    "woe:name_adm1":"Hainaut",
+    "woe:placetype":"LocalAdmin",
+    "wof:belongsto":[
+        85632997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2790871,
+        "gp:id":12602630,
+        "qs_pg:id":1163027
+    },
+    "wof:country":"BE",
+    "wof:created":1497046706,
+    "wof:geomhash":"7a53ad0c4589fb25f24f7da06b446e34",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "localadmin_id":1125359807
+        }
+    ],
+    "wof:id":1125359807,
+    "wof:lastmodified":1505185641,
+    "wof:name":"Mons",
+    "wof:parent_id":-1,
+    "wof:placetype":"localadmin",
+    "wof:population":92044,
+    "wof:population_rank":8,
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.95164,
+    50.45384,
+    3.95164,
+    50.45384
+],
+  "geometry": {"coordinates":[3.95164,50.45384],"type":"Point"}
+}

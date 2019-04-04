@@ -1,0 +1,74 @@
+{
+  "id": 1243297383,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.70021,50.83052,2.70021,50.83052",
+    "geom:latitude":50.83052,
+    "geom:longitude":2.70021,
+    "gn:admin1_code":"VLG",
+    "gn:admin2_code":"VWV",
+    "gn:admin3_code":"33.0",
+    "gn:admin4_code":"33021.0",
+    "gn:asciiname":"Lijssenthoek",
+    "gn:country_code":"BE",
+    "gn:dem":23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2792364,
+    "gn:latitude":50.83052,
+    "gn:longitude":2.70021,
+    "gn:modification_date":"2016-08-02",
+    "gn:name":"Lijssenthoek",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681709,
+        102191581,
+        1108830029,
+        85632997,
+        404227357,
+        102049971
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2792364
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"cac39c4252277a90249f3e26064fa0b5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049971,
+            "localadmin_id":1108830029,
+            "locality_id":1243297383,
+            "macroregion_id":404227357,
+            "region_id":85681709
+        }
+    ],
+    "wof:id":1243297383,
+    "wof:lastmodified":1537019574,
+    "wof:name":"Lijssenthoek",
+    "wof:parent_id":1108830029,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.70021,
+    50.83052,
+    2.70021,
+    50.83052
+],
+  "geometry": {"coordinates":[2.70021,50.83052],"type":"Point"}
+}

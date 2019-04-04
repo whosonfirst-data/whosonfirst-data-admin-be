@@ -1,0 +1,76 @@
+{
+  "id": 1226577583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.93333,50.71667,3.93333,50.71667",
+    "geom:latitude":50.71667,
+    "geom:longitude":3.93333,
+    "gn:admin1_code":"WAL",
+    "gn:admin2_code":"WHT",
+    "gn:asciiname":"Eekhout",
+    "gn:country_code":"BE",
+    "gn:dem":44,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2798995,
+    "gn:latitude":50.71667,
+    "gn:longitude":3.93333,
+    "gn:modification_date":"2010-08-09",
+    "gn:name":"Eekhout",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Eeckhaute",
+        "Eekhout"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681731,
+        102191581,
+        1108830485,
+        85632997,
+        404227357,
+        102049973
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2798995
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"0aca665dd4040624ad77543cb2cb2d3d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049973,
+            "localadmin_id":1108830485,
+            "locality_id":1226577583,
+            "macroregion_id":404227357,
+            "region_id":85681731
+        }
+    ],
+    "wof:id":1226577583,
+    "wof:lastmodified":1537587045,
+    "wof:name":"Eekhout",
+    "wof:parent_id":1108830485,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.93333,
+    50.71667,
+    3.93333,
+    50.71667
+],
+  "geometry": {"coordinates":[3.93333,50.71667],"type":"Point"}
+}

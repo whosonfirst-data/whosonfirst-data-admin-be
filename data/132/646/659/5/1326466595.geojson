@@ -1,0 +1,72 @@
+{
+  "id": 1326466595,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.78443,50.52767,5.78443,50.52767",
+    "geom:latitude":50.52767,
+    "geom:longitude":5.78443,
+    "gn:admin1_code":"WAL",
+    "gn:admin2_code":"WLG",
+    "gn:admin3_code":"63.0",
+    "gn:admin4_code":"63076.0",
+    "gn:asciiname":"Hodbomont",
+    "gn:country_code":"BE",
+    "gn:dem":246,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2795719,
+    "gn:latitude":50.52767,
+    "gn:longitude":5.78443,
+    "gn:modification_date":"2017-03-25",
+    "gn:name":"Hodbomont",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681691,
+        102191581,
+        85632997,
+        404227353,
+        102049935
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2795719
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"87cd5dbcf98b2629b54ac1f00827a3ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049935,
+            "locality_id":1326466595,
+            "macroregion_id":404227353,
+            "region_id":85681691
+        }
+    ],
+    "wof:id":1326466595,
+    "wof:lastmodified":1537075401,
+    "wof:name":"Hodbomont",
+    "wof:parent_id":102049935,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.78443,
+    50.52767,
+    5.78443,
+    50.52767
+],
+  "geometry": {"coordinates":[5.78443,50.52767],"type":"Point"}
+}

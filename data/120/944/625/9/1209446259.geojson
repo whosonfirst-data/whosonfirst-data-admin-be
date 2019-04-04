@@ -1,0 +1,64 @@
+{
+  "id": 1209446259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.93333,51.06667,4.93333,51.06667",
+    "geom:latitude":51.06667,
+    "geom:longitude":4.93333,
+    "gn:admin1_code":"VLG",
+    "gn:admin2_code":"VAN",
+    "gn:admin3_code":"13.0",
+    "gn:admin4_code":"13053.0",
+    "gn:asciiname":"Groenheuvel",
+    "gn:country_code":"BE",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2797073,
+    "gn:latitude":51.06667,
+    "gn:longitude":4.93333,
+    "gn:modification_date":"2016-08-02",
+    "gn:name":"Groenheuvel",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2797073
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"d1cc77a15e5adbe34d26e52d4162a526",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "locality_id":1209446259
+        }
+    ],
+    "wof:id":1209446259,
+    "wof:lastmodified":1536286809,
+    "wof:name":"Groenheuvel",
+    "wof:parent_id":85632997,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.9333300000000015,
+    51.06667,
+    4.9333300000000015,
+    51.06667
+],
+  "geometry": {"coordinates":[4.93333,51.06667],"type":"Point"}
+}

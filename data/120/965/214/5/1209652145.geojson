@@ -1,0 +1,64 @@
+{
+  "id": 1209652145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.48458,51.11926,4.48458,51.11926",
+    "geom:latitude":51.11926,
+    "geom:longitude":4.48458,
+    "gn:admin1_code":"VLG",
+    "gn:admin2_code":"VAN",
+    "gn:admin3_code":"11.0",
+    "gn:admin4_code":"11025.0",
+    "gn:asciiname":"Duffelsenhoek",
+    "gn:country_code":"BE",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2799089,
+    "gn:latitude":51.11926,
+    "gn:longitude":4.48458,
+    "gn:modification_date":"2016-08-02",
+    "gn:name":"Duffelsenhoek",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2799089
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"6c6e5effab6a8d88bdc1f77ec600230b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "locality_id":1209652145
+        }
+    ],
+    "wof:id":1209652145,
+    "wof:lastmodified":1536280546,
+    "wof:name":"Duffelsenhoek",
+    "wof:parent_id":85632997,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.48458,
+    51.11926,
+    4.48458,
+    51.11926
+],
+  "geometry": {"coordinates":[4.48458,51.11926],"type":"Point"}
+}

@@ -1,0 +1,121 @@
+{
+  "id": 85801229,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":1920069.838484,
+    "geom:bbox":"5.539186,50.593723,5.539186,50.593723",
+    "geom:latitude":50.593723,
+    "geom:longitude":5.539186,
+    "iso:country":"BE",
+    "lbl:latitude":50.593723,
+    "lbl:longitude":5.539186,
+    "mps:latitude":50.589509,
+    "mps:longitude":5.542733,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":14.0,
+    "mz:tier_locality":1,
+    "name:eng_x_preferred":[
+        "Haut Pre"
+    ],
+    "name:eng_x_variant":[
+        "Haut Pre"
+    ],
+    "name:fra_x_colloquial":[
+        "Haute Pre"
+    ],
+    "name:fra_x_preferred":[
+        "Haute Pr\u00e9"
+    ],
+    "name:unk_x_variant":[
+        "Haute Pr\u00e9"
+    ],
+    "qs:gn_adm0_cc":"BE",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_local":2786825,
+    "qs:gn_nam_loc":"Seraing, Li\u00e8ge, Li\u00e8ge, BE",
+    "qs:gn_namadm1":"WAL",
+    "qs:gn_name":"Haute Pr\u00e9",
+    "qs:local_max":360,
+    "qs:local_sum":1228,
+    "qs:localhoods":6,
+    "qs:name":"Haute Pr\u00e9",
+    "qs:name_adm0":"Belgique",
+    "qs:name_adm1":"Li\u00e8ge",
+    "qs:name_adm2":"Li\u00e8ge",
+    "qs:name_en":"Haut Pre",
+    "qs:name_lau":"Seraing",
+    "qs:name_local":"Seraing",
+    "qs:photo_max":182,
+    "qs:photo_sum":248,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":5,
+    "qs:woe_adm0":23424757,
+    "qs:woe_adm1":7153300,
+    "qs:woe_adm2":12591793,
+    "qs:woe_lau":12602474,
+    "qs:woe_local":12602474,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        85681691,
+        102191581,
+        85632997,
+        404227353,
+        101748083,
+        102049941
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2796418,
+        "gp:id":970757,
+        "qs:id":186864,
+        "qs_pg:id":186864
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"1a6b97850d468ee3005011c461f5918c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049941,
+            "locality_id":101748083,
+            "macroregion_id":404227353,
+            "neighbourhood_id":85801229,
+            "region_id":85681691
+        }
+    ],
+    "wof:id":85801229,
+    "wof:lang":[
+        "fre"
+    ],
+    "wof:lastmodified":1531862070,
+    "wof:name":"Haute Pr\u00e9",
+    "wof:parent_id":101748083,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.539186,
+    50.593723,
+    5.539186,
+    50.593723
+],
+  "geometry": {"coordinates":[5.539186,50.593723],"type":"Point"}
+}

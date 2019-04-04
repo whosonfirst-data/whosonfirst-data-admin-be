@@ -1,0 +1,72 @@
+{
+  "id": 1309740857,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.27368,50.26614,4.27368,50.26614",
+    "geom:latitude":50.26614,
+    "geom:longitude":4.27368,
+    "gn:admin1_code":"WAL",
+    "gn:admin2_code":"WHT",
+    "gn:admin3_code":"56.0",
+    "gn:admin4_code":"56005.0",
+    "gn:asciiname":"Marzelle",
+    "gn:country_code":"BE",
+    "gn:dem":198,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2791623,
+    "gn:latitude":50.26614,
+    "gn:longitude":4.27368,
+    "gn:modification_date":"2017-03-25",
+    "gn:name":"Marzelle",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681723,
+        102191581,
+        85632997,
+        404227353,
+        102049923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2791623
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"f810a7e2a111720e70f0a59206a442a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049923,
+            "locality_id":1309740857,
+            "macroregion_id":404227353,
+            "region_id":85681723
+        }
+    ],
+    "wof:id":1309740857,
+    "wof:lastmodified":1537023778,
+    "wof:name":"Marzelle",
+    "wof:parent_id":102049923,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.27368,
+    50.26614,
+    4.27368,
+    50.26614
+],
+  "geometry": {"coordinates":[4.27368,50.26614],"type":"Point"}
+}

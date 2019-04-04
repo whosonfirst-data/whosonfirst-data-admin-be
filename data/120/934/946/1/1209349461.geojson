@@ -1,0 +1,64 @@
+{
+  "id": 1209349461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.0159,51.19838,5.0159,51.19838",
+    "geom:latitude":51.19838,
+    "geom:longitude":5.0159,
+    "gn:admin1_code":"VLG",
+    "gn:admin2_code":"VAN",
+    "gn:admin3_code":"13.0",
+    "gn:admin4_code":"13008.0",
+    "gn:asciiname":"Kasseman",
+    "gn:country_code":"BE",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2794690,
+    "gn:latitude":51.19838,
+    "gn:longitude":5.0159,
+    "gn:modification_date":"2016-08-02",
+    "gn:name":"Kasseman",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2794690
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"25fc545be8539d5c8ff9d209131caf80",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "locality_id":1209349461
+        }
+    ],
+    "wof:id":1209349461,
+    "wof:lastmodified":1536289795,
+    "wof:name":"Kasseman",
+    "wof:parent_id":85632997,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.0159,
+    51.19838,
+    5.0159,
+    51.19838
+],
+  "geometry": {"coordinates":[5.0159,51.19838],"type":"Point"}
+}

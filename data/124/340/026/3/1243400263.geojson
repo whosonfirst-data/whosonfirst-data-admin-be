@@ -1,0 +1,72 @@
+{
+  "id": 1243400263,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.18333,49.9,5.18333,49.9",
+    "geom:latitude":49.9,
+    "geom:longitude":5.18333,
+    "gn:admin1_code":"WAL",
+    "gn:admin2_code":"WLX",
+    "gn:admin3_code":"84.0",
+    "gn:admin4_code":"84009.0",
+    "gn:asciiname":"Boisbolle",
+    "gn:country_code":"BE",
+    "gn:dem":430,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2801667,
+    "gn:latitude":49.9,
+    "gn:longitude":5.18333,
+    "gn:modification_date":"2017-03-25",
+    "gn:name":"Boisbolle",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681727,
+        102191581,
+        85632997,
+        404227353,
+        102049913
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2801667
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"4b5367e0811f46efdb94f75906ca4777",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049913,
+            "locality_id":1243400263,
+            "macroregion_id":404227353,
+            "region_id":85681727
+        }
+    ],
+    "wof:id":1243400263,
+    "wof:lastmodified":1536871049,
+    "wof:name":"Boisbolle",
+    "wof:parent_id":102049913,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.18333,
+    49.9,
+    5.18333,
+    49.9
+],
+  "geometry": {"coordinates":[5.18333,49.9],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1125326689,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2017-05-19",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.36363,50.50529,4.36363,50.50529",
+    "geom:latitude":50.50529,
+    "geom:longitude":4.36363,
+    "gn:gn_country":"BE",
+    "gn:gn_fcode":"ADM4",
+    "gn:gn_pop":16804,
+    "gn:population":16804,
+    "iso:country":"BE",
+    "lbl:latitude":50.50529,
+    "lbl:longitude":4.36363,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"BE",
+    "qs_pg:gn_country":"BE",
+    "qs_pg:gn_fcode":"ADM4",
+    "qs_pg:gn_id":2788766,
+    "qs_pg:gn_pop":16804,
+    "qs_pg:name":"Pont-\u00e0-Celles",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":6,
+    "qs_pg:qs_id":92585,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85632997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2788766,
+        "qs_pg:id":92585
+    },
+    "wof:country":"BE",
+    "wof:created":1497044858,
+    "wof:geomhash":"ec6e0ef0207e3af92ecab3d549b3d951",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "localadmin_id":1125326689
+        }
+    ],
+    "wof:id":1125326689,
+    "wof:lastmodified":1505185641,
+    "wof:name":"Pont-\u00e0-Celles",
+    "wof:parent_id":-1,
+    "wof:placetype":"localadmin",
+    "wof:population":16804,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.36363,
+    50.50529,
+    4.36363,
+    50.50529
+],
+  "geometry": {"coordinates":[4.36363,50.50529],"type":"Point"}
+}

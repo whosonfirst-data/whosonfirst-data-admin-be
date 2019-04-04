@@ -1,0 +1,87 @@
+{
+  "id": 1125384961,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2017-05-19",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.9,50.63333,4.9,50.63333",
+    "geom:latitude":50.63333,
+    "geom:longitude":4.9,
+    "gn:gn_country":"BE",
+    "gn:gn_fcode":"ADM4",
+    "gn:gn_pop":6095,
+    "gn:population":6095,
+    "iso:country":"BE",
+    "lbl:latitude":50.63333,
+    "lbl:longitude":4.9,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bul_x_preferred":[
+        "\u0420\u0430\u043c\u0438\u0438"
+    ],
+    "name:fas_x_preferred":[
+        "\u0631\u0645\u06cc\u0626\u06cc"
+    ],
+    "name:rus_x_preferred":[
+        "\u0420\u0430\u043c\u0438\u0439\u0438"
+    ],
+    "name:wln_x_preferred":[
+        "Rami\u00eaye"
+    ],
+    "name:zho_x_preferred":[
+        "\u62c9\u7c73\u4f0a"
+    ],
+    "qs_pg:aaroncc":"BE",
+    "qs_pg:gn_country":"BE",
+    "qs_pg:gn_fcode":"ADM4",
+    "qs_pg:gn_id":2788382,
+    "qs_pg:gn_pop":6095,
+    "qs_pg:name":"Ramillies",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":5,
+    "qs_pg:qs_id":1029150,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85632997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2788382,
+        "qs_pg:id":1029150
+    },
+    "wof:country":"BE",
+    "wof:created":1497048306,
+    "wof:geomhash":"d0821ccfd25bedf5a79f545322beab54",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "localadmin_id":1125384961
+        }
+    ],
+    "wof:id":1125384961,
+    "wof:lastmodified":1505185640,
+    "wof:name":"Ramillies",
+    "wof:parent_id":-1,
+    "wof:placetype":"localadmin",
+    "wof:population":6095,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.9,
+    50.63333,
+    4.9,
+    50.63333
+],
+  "geometry": {"coordinates":[4.9,50.63333],"type":"Point"}
+}

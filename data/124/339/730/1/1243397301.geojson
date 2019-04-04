@@ -1,0 +1,76 @@
+{
+  "id": 1243397301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.35793,50.21428,5.35793,50.21428",
+    "geom:latitude":50.21428,
+    "geom:longitude":5.35793,
+    "gn:admin1_code":"WAL",
+    "gn:admin2_code":"WLX",
+    "gn:admin3_code":"83.0",
+    "gn:admin4_code":"83034.0",
+    "gn:asciiname":"Hollogne",
+    "gn:country_code":"BE",
+    "gn:dem":306,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2795520,
+    "gn:latitude":50.21428,
+    "gn:longitude":5.35793,
+    "gn:modification_date":"2017-03-25",
+    "gn:name":"Hollogne",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hologne",
+        "Hollogne"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681727,
+        102191581,
+        85632997,
+        404227353,
+        102049921
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2795520
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"5df0bbf7f03995f4e42dbf4cd2359c51",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049921,
+            "locality_id":1243397301,
+            "macroregion_id":404227353,
+            "region_id":85681727
+        }
+    ],
+    "wof:id":1243397301,
+    "wof:lastmodified":1537587013,
+    "wof:name":"Hollogne",
+    "wof:parent_id":102049921,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.35793,
+    50.21428,
+    5.35793,
+    50.21428
+],
+  "geometry": {"coordinates":[5.35793,50.21428],"type":"Point"}
+}

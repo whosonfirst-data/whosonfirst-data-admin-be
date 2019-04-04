@@ -1,0 +1,74 @@
+{
+  "id": 1225978291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.69711,51.08533,2.69711,51.08533",
+    "geom:latitude":51.08533,
+    "geom:longitude":2.69711,
+    "gn:admin1_code":"VLG",
+    "gn:admin2_code":"VWV",
+    "gn:admin3_code":"38.0",
+    "gn:admin4_code":"38014.0",
+    "gn:asciiname":"Wulpendamme",
+    "gn:country_code":"BE",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2783423,
+    "gn:latitude":51.08533,
+    "gn:longitude":2.69711,
+    "gn:modification_date":"2016-08-02",
+    "gn:name":"Wulpendamme",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681709,
+        102191581,
+        1108830673,
+        85632997,
+        404227357,
+        102049991
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2783423
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"84f4643a30aad5e64e39795eaca6f921",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049991,
+            "localadmin_id":1108830673,
+            "locality_id":1225978291,
+            "macroregion_id":404227357,
+            "region_id":85681709
+        }
+    ],
+    "wof:id":1225978291,
+    "wof:lastmodified":1536821535,
+    "wof:name":"Wulpendamme",
+    "wof:parent_id":1108830673,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.69711,
+    51.08533,
+    2.69711,
+    51.08533
+],
+  "geometry": {"coordinates":[2.69711,51.08533],"type":"Point"}
+}

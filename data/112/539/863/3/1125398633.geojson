@@ -1,0 +1,99 @@
+{
+  "id": 1125398633,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2017-05-19",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.14175,51.30123,3.14175,51.30123",
+    "geom:latitude":51.30123,
+    "geom:longitude":3.14175,
+    "gn:gn_country":"BE",
+    "gn:gn_fcode":"ADM4",
+    "gn:gn_pop":18971,
+    "gn:population":18971,
+    "iso:country":"BE",
+    "lbl:latitude":51.30123,
+    "lbl:longitude":3.14175,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bul_x_preferred":[
+        "\u0411\u043b\u0430\u043d\u043a\u0435\u043d\u0431\u0435\u0440\u0433\u0435"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u0644\u0627\u0646\u06a9\u0646\u0628\u0631\u0698"
+    ],
+    "name:hye_x_preferred":[
+        "\u0532\u056c\u0561\u0576\u056f\u0565\u0576\u0562\u0565\u0580\u0563\u0565"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d6\u30e9\u30f3\u30b1\u30f3\u30d9\u30eb\u30d8"
+    ],
+    "name:kor_x_preferred":[
+        "\ube14\ub791\ucf04\ubca0\ub974\ud5c8"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u043b\u0430\u043d\u043a\u0435\u043d\u0431\u0435\u0440\u0433\u0435"
+    ],
+    "name:unk_x_variant":[
+        "Blankenberghe"
+    ],
+    "name:vls_x_preferred":[
+        "Blanknberge"
+    ],
+    "name:zho_x_preferred":[
+        "\u5e03\u5170\u80af\u8d1d\u5c14\u8d6b"
+    ],
+    "qs_pg:aaroncc":"BE",
+    "qs_pg:gn_country":"BE",
+    "qs_pg:gn_fcode":"ADM4",
+    "qs_pg:gn_id":2801859,
+    "qs_pg:gn_pop":18971,
+    "qs_pg:name":"Blankenberge",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":6,
+    "qs_pg:qs_id":1062794,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85632997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2801859,
+        "qs_pg:id":1062794
+    },
+    "wof:country":"BE",
+    "wof:created":1497049176,
+    "wof:geomhash":"086abd9842ab97436c47478cdf5f0493",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "localadmin_id":1125398633
+        }
+    ],
+    "wof:id":1125398633,
+    "wof:lastmodified":1505185646,
+    "wof:name":"Blankenberge",
+    "wof:parent_id":-1,
+    "wof:placetype":"localadmin",
+    "wof:population":18971,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.14175,
+    51.30123,
+    3.14175,
+    51.30123
+],
+  "geometry": {"coordinates":[3.14175,51.30123],"type":"Point"}
+}

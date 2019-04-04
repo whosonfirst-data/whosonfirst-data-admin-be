@@ -1,0 +1,72 @@
+{
+  "id": 1242909539,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.25729,50.62464,5.25729,50.62464",
+    "geom:latitude":50.62464,
+    "geom:longitude":5.25729,
+    "gn:admin1_code":"WAL",
+    "gn:admin2_code":"WLG",
+    "gn:admin3_code":"64.0",
+    "gn:admin4_code":"64076.0",
+    "gn:asciiname":"Aineffe",
+    "gn:country_code":"BE",
+    "gn:dem":180,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2803328,
+    "gn:latitude":50.62464,
+    "gn:longitude":5.25729,
+    "gn:modification_date":"2012-02-02",
+    "gn:name":"Aineffe",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681691,
+        102191581,
+        85632997,
+        404227353,
+        102049937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2803328
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"9d6ce6b7cfc51232da5c4d700e802945",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049937,
+            "locality_id":1242909539,
+            "macroregion_id":404227353,
+            "region_id":85681691
+        }
+    ],
+    "wof:id":1242909539,
+    "wof:lastmodified":1537079405,
+    "wof:name":"Aineffe",
+    "wof:parent_id":102049937,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.25729,
+    50.62464,
+    5.25729,
+    50.62464
+],
+  "geometry": {"coordinates":[5.25729,50.62464],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1193167607,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.89332,50.54137,5.89332,50.54137",
+    "geom:latitude":50.54137,
+    "geom:longitude":5.89332,
+    "gn:admin1_code":"WAL",
+    "gn:admin2_code":"WLG",
+    "gn:admin3_code":"63.0",
+    "gn:admin4_code":"63038.0",
+    "gn:asciiname":"Neufmarteau",
+    "gn:country_code":"BE",
+    "gn:dem":233,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2790277,
+    "gn:latitude":50.54137,
+    "gn:longitude":5.89332,
+    "gn:modification_date":"2017-03-25",
+    "gn:name":"Neufmarteau",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681691,
+        102191581,
+        85632997,
+        404227353,
+        102049935
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2790277
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"7c3d4af3e9e0f4bdb3a13327bf09132e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049935,
+            "locality_id":1193167607,
+            "macroregion_id":404227353,
+            "region_id":85681691
+        }
+    ],
+    "wof:id":1193167607,
+    "wof:lastmodified":1536383980,
+    "wof:name":"Neufmarteau",
+    "wof:parent_id":102049935,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.89332,
+    50.54137,
+    5.89332,
+    50.54137
+],
+  "geometry": {"coordinates":[5.89332,50.54137],"type":"Point"}
+}

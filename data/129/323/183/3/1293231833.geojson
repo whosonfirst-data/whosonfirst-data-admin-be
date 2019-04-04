@@ -1,0 +1,72 @@
+{
+  "id": 1293231833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.60525,50.99565,4.60525,50.99565",
+    "geom:latitude":50.99565,
+    "geom:longitude":4.60525,
+    "gn:admin1_code":"WAL",
+    "gn:admin2_code":"WHT",
+    "gn:asciiname":"Zeept",
+    "gn:country_code":"BE",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2783302,
+    "gn:latitude":50.99565,
+    "gn:longitude":4.60525,
+    "gn:modification_date":"2010-03-06",
+    "gn:name":"Zeept",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681731,
+        102191581,
+        1108830055,
+        85632997,
+        404227357,
+        102049969
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2783302
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"170454cd7a5398415dc870bef1094b25",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049969,
+            "localadmin_id":1108830055,
+            "locality_id":1293231833,
+            "macroregion_id":404227357,
+            "region_id":85681731
+        }
+    ],
+    "wof:id":1293231833,
+    "wof:lastmodified":1536658805,
+    "wof:name":"Zeept",
+    "wof:parent_id":1108830055,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.60525,
+    50.99565,
+    4.60525,
+    50.99565
+],
+  "geometry": {"coordinates":[4.60525,50.99565],"type":"Point"}
+}

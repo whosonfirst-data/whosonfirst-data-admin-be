@@ -1,0 +1,72 @@
+{
+  "id": 1310436349,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.37654,50.07005,4.37654,50.07005",
+    "geom:latitude":50.07005,
+    "geom:longitude":4.37654,
+    "gn:admin1_code":"WAL",
+    "gn:admin2_code":"WHT",
+    "gn:admin3_code":"56.0",
+    "gn:admin4_code":"56016.0",
+    "gn:asciiname":"Les Quartiers",
+    "gn:country_code":"BE",
+    "gn:dem":222,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2792596,
+    "gn:latitude":50.07005,
+    "gn:longitude":4.37654,
+    "gn:modification_date":"2017-03-25",
+    "gn:name":"Les Quartiers",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681723,
+        102191581,
+        85632997,
+        404227353,
+        102049923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2792596
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"d092f3b9a6c10e92e7b26ef6c16e32bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049923,
+            "locality_id":1310436349,
+            "macroregion_id":404227353,
+            "region_id":85681723
+        }
+    ],
+    "wof:id":1310436349,
+    "wof:lastmodified":1537016106,
+    "wof:name":"Les Quartiers",
+    "wof:parent_id":102049923,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.37654,
+    50.07005,
+    4.37654,
+    50.07005
+],
+  "geometry": {"coordinates":[4.37654,50.07005],"type":"Point"}
+}

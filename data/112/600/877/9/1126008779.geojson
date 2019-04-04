@@ -1,0 +1,103 @@
+{
+  "id": 1126008779,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.29704,50.294,5.29704,50.294",
+    "geom:latitude":50.294,
+    "geom:longitude":5.29704,
+    "gn:gn_country":"BE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"BE",
+    "lbl:latitude":50.294,
+    "lbl:longitude":5.29704,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Heure-en-Famenne"
+    ],
+    "name:eng_x_preferred":[
+        "Heure"
+    ],
+    "name:fre_x_preferred":[
+        "Heure"
+    ],
+    "name:unk_x_variant":[
+        "Somme-Leuze (Heure)"
+    ],
+    "qs_pg:aaroncc":"BE",
+    "qs_pg:gn_country":"BE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2795813,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Heure",
+    "qs_pg:name_adm0":"Belgique",
+    "qs_pg:name_adm1":"Namur",
+    "qs_pg:photos":22,
+    "qs_pg:photos_1k":4,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":22,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1012768,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424757,
+    "qs_pg:woe_id":971158,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424757,
+    "woe:name_adm0":"Belgique",
+    "woe:name_adm1":"Namur",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85681699,
+        102191581,
+        85632997,
+        404227353,
+        102049919
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2795813,
+        "gp:id":971158,
+        "qs_pg:id":1012768,
+        "wd:id":"Q2457453"
+    },
+    "wof:country":"BE",
+    "wof:created":1497300140,
+    "wof:geomhash":"f427bfbe4fa78973be7ad548c2660c30",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049919,
+            "locality_id":1126008779,
+            "macroregion_id":404227353,
+            "region_id":85681699
+        }
+    ],
+    "wof:id":1126008779,
+    "wof:lastmodified":1513899312,
+    "wof:name":"Heure",
+    "wof:parent_id":102049919,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.29704,
+    50.294,
+    5.29704,
+    50.294
+],
+  "geometry": {"coordinates":[5.29704,50.294],"type":"Point"}
+}

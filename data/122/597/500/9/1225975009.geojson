@@ -1,0 +1,79 @@
+{
+  "id": 1225975009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.25325,51.04357,3.25325,51.04357",
+    "geom:latitude":51.04357,
+    "geom:longitude":3.25325,
+    "gn:admin1_code":"VLG",
+    "gn:admin2_code":"VWV",
+    "gn:admin3_code":"37.0",
+    "gn:admin4_code":"37018.0",
+    "gn:asciiname":"Boekhout",
+    "gn:country_code":"BE",
+    "gn:dem":31,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2801732,
+    "gn:latitude":51.04357,
+    "gn:longitude":3.25325,
+    "gn:modification_date":"2016-08-02",
+    "gn:name":"Boekhout",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Boukhout",
+        "Bouckhout",
+        "Boekhout"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681709,
+        102191581,
+        1108830065,
+        85632997,
+        404227357,
+        102049981
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2801732
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"1970a8436f67b68f74685fddf563546d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049981,
+            "localadmin_id":1108830065,
+            "locality_id":1225975009,
+            "macroregion_id":404227357,
+            "region_id":85681709
+        }
+    ],
+    "wof:id":1225975009,
+    "wof:lastmodified":1537587074,
+    "wof:name":"Boekhout",
+    "wof:parent_id":1108830065,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.25325,
+    51.04357,
+    3.25325,
+    51.04357
+],
+  "geometry": {"coordinates":[3.25325,51.04357],"type":"Point"}
+}

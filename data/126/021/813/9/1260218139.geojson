@@ -1,0 +1,79 @@
+{
+  "id": 1260218139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.68833,51.38689,4.68833,51.38689",
+    "geom:latitude":51.38689,
+    "geom:longitude":4.68833,
+    "gn:admin1_code":"VLG",
+    "gn:admin2_code":"VAN",
+    "gn:admin3_code":"11.0",
+    "gn:admin4_code":"11053.0",
+    "gn:asciiname":"Heibaart",
+    "gn:country_code":"BE",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2796277,
+    "gn:latitude":51.38689,
+    "gn:longitude":4.68833,
+    "gn:modification_date":"2016-08-02",
+    "gn:name":"Heibaart",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Heibaert",
+        "Heibaard",
+        "Heibaart"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681715,
+        102191581,
+        1108830509,
+        85632997,
+        404227357,
+        102050005
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2796277
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"e75ded7e0fee548c93cd9167a65f325a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102050005,
+            "localadmin_id":1108830509,
+            "locality_id":1260218139,
+            "macroregion_id":404227357,
+            "region_id":85681715
+        }
+    ],
+    "wof:id":1260218139,
+    "wof:lastmodified":1537587022,
+    "wof:name":"Heibaart",
+    "wof:parent_id":1108830509,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.68833,
+    51.38689,
+    4.68833,
+    51.38689
+],
+  "geometry": {"coordinates":[4.68833,51.38689],"type":"Point"}
+}

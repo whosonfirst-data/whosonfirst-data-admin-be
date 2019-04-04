@@ -1,0 +1,93 @@
+{
+  "id": 101911593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000039,
+    "geom:area_square_m":298924.950177,
+    "geom:bbox":"3.7473928862,51.1509187504,3.75964344853,51.1599463887",
+    "geom:latitude":51.155988,
+    "geom:longitude":3.753248,
+    "iso:country":"BE",
+    "lbl:latitude":51.158524,
+    "lbl:longitude":3.751809,
+    "mps:latitude":51.158524,
+    "mps:longitude":3.751809,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Gremyachiy Kolodez'"
+    ],
+    "name:und_x_preferred":[
+        "\u0413\u0440\u0435\u043c\u044f\u0447\u0438\u0438 \u041a\u043e\u043b\u043e\u0434\u0435\u0437\u044c"
+    ],
+    "name:und_x_variant":[
+        "\u0413\u0440\u0435\u043c\u044f\u0447\u0438\u0439 \u041a\u043e\u043b\u043e\u0434\u0435\u0437\u044c"
+    ],
+    "qs:a0":"Belgi\u00eb#Belgique#Belgien",
+    "qs:a1":"*Oost-Vlanderen",
+    "qs:a1r":"9Vlaams Gewest",
+    "qs:a2":"Gent",
+    "qs:adm0":"Belgi\u00eb#Belgique#Belgien",
+    "qs:id":0,
+    "qs:la":"Evergem",
+    "qs:la_lc":"*BE244019",
+    "qs:level":"locality",
+    "qs:loc":"Knippegroen",
+    "qs:pop":0,
+    "qs:source":"LCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural hamlet near local_admin match geoplanet",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        85681733,
+        102191581,
+        1108830413,
+        85632997,
+        404227357,
+        102049989
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":20098289,
+        "qs:id":215818,
+        "qs_pg:id":215818
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"970a53474162e0a4f710241dfb046b04",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049989,
+            "localadmin_id":1108830413,
+            "locality_id":101911593,
+            "macroregion_id":404227357,
+            "region_id":85681733
+        }
+    ],
+    "wof:id":101911593,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1497296508,
+    "wof:name":"Knippegroen",
+    "wof:parent_id":1108830413,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.74739288619981,
+    51.1509187503633,
+    3.75964344853287,
+    51.15994638870524
+],
+  "geometry": {"coordinates":[[[3.7530931696557,51.15994638870524],[3.7534577871329,51.15726112201111],[3.75488278674953,51.15733785357975],[3.75500428684376,51.1564427622688],[3.75642926343755,51.15651947466932],[3.75655073031271,51.15562438129746],[3.75940064180691,51.15577775030579],[3.75964344853287,51.15398755567253],[3.75536875208348,51.15375748622694],[3.75561169971172,51.15196730044119],[3.75418686435142,51.15189057913096],[3.75430835677872,51.15099548742],[3.75288355314524,51.1509187503633],[3.75276203334675,51.15181384036453],[3.75133720669828,51.15173708414181],[3.75121565368636,51.1526321720807],[3.75264050770676,51.15270893001372],[3.7525189762253,51.15360401931133],[3.75394386197638,51.15368076149758],[3.75357931460633,51.15636603241006],[3.75215434672594,51.15628928509312],[3.75203279187355,51.15718437298386],[3.74775783225004,51.15695402115188],[3.74739288619981,51.15963926731331],[3.7530931696557,51.15994638870524]]],"type":"Polygon"}
+}

@@ -1,0 +1,120 @@
+{
+  "id": 85801767,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00012,
+    "geom:area_square_m":934932.948803,
+    "geom:bbox":"4.29799819397,50.8510410652,4.31418840164,50.8629653448",
+    "geom:latitude":50.85732,
+    "geom:longitude":4.305999,
+    "gn:id":"",
+    "iso:country":"BE",
+    "lbl:latitude":50.852738,
+    "lbl:longitude":4.317932,
+    "mps:latitude":50.857168,
+    "mps:longitude":4.304225,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":1,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:note":"metro",
+    "mz:tier_locality":5,
+    "mz:tier_metro":30,
+    "name:fra_x_preferred":[
+        "Osseghem"
+    ],
+    "name:nld_x_preferred":[
+        "Osseghem"
+    ],
+    "name:nld_x_variant":[
+        "Ossegem"
+    ],
+    "name:unk_x_variant":[
+        "Osseghem"
+    ],
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":0,
+    "qs:gn_namadm1":"BRU",
+    "qs:gn_name":"Osseghem",
+    "qs:local_max":62861,
+    "qs:local_sum":208570,
+    "qs:localhoods":75,
+    "qs:name":"Osseghem",
+    "qs:name_adm0":"Belgique",
+    "qs:name_adm1":"R\u00e9gion de Bruxelles-Capitale",
+    "qs:name_adm2":"Brussel Hoofdstad",
+    "qs:name_lau":"St.-Jans-Molenbeek",
+    "qs:name_local":"Bruxelles",
+    "qs:photo_max":42,
+    "qs:photo_sum":126,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":9,
+    "qs:woe_adm0":23424757,
+    "qs:woe_adm1":55965974,
+    "qs:woe_adm2":12591762,
+    "qs:woe_lau":12602582,
+    "qs:woe_local":968019,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mz",
+    "wof:belongsto":[
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"036e03de-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2789606,
+        "gp:id":975243,
+        "qs:id":1103861,
+        "qs_pg:id":1103861,
+        "wd:id":"Q2753646",
+        "wk:page":"Osseghem/Ossegem metro station"
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"50ab579b3d221afec5fd82d75223fa1c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801767,
+            "region_id":85681713
+        }
+    ],
+    "wof:id":85801767,
+    "wof:lang":[
+        "dut"
+    ],
+    "wof:lastmodified":1497315868,
+    "wof:name":"Osseghem",
+    "wof:parent_id":101751573,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.29799819396567,
+    50.85104106522517,
+    4.31418840164417,
+    50.8629653447981
+],
+  "geometry": {"coordinates":[[[4.31213378906011,50.8629653447981],[4.31309397101475,50.8614441106],[4.31418824905165,50.85971042547511],[4.31418840164417,50.8597102804252],[4.31309407273579,50.85797670810005],[4.31213378906011,50.8564554824505],[4.31213378906011,50.85450904780008],[4.31213378906011,50.85450898335021],[4.30760090867591,50.85450898335021],[4.30664062500014,50.8529878707886],[4.30664062500014,50.85104112970011],[4.30664062500023,50.85104106522517],[4.3011474609381,50.85104106522517],[4.30114746093926,50.85104112970011],[4.30114746093872,50.852987870787],[4.30018713657498,50.85450904780025],[4.29799819396567,50.8579763858253],[4.29943889339688,50.85873718100983],[4.3011474609381,50.86144404612544],[4.30114746093926,50.86144411059992],[4.30568044304539,50.86144411059992],[4.30664062500023,50.8629653447981],[4.30938720703011,50.86151485773446],[4.31213378906011,50.8629653447981]]],"type":"Polygon"}
+}

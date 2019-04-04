@@ -1,0 +1,77 @@
+{
+  "id": 1209139581,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.63562,50.69211,3.63562,50.69211",
+    "geom:latitude":50.69211,
+    "geom:longitude":3.63562,
+    "gn:admin1_code":"WAL",
+    "gn:admin2_code":"WHT",
+    "gn:admin3_code":"51.0",
+    "gn:admin4_code":"51065.0",
+    "gn:asciiname":"Frasnes-lez-Anvaing",
+    "gn:country_code":"BE",
+    "gn:dem":53,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA4",
+    "gn:geonameid":6640087,
+    "gn:latitude":50.69211,
+    "gn:longitude":3.63562,
+    "gn:modification_date":"2011-07-31",
+    "gn:name":"Frasnes-lez-Anvaing",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0424\u0440\u0430\u043d \u043b\u0435\u0437 \u0410\u043d\u0432\u0435\u043d"
+    ],
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0627\u0632\u0646-\u0644\u0647-\u0622\u0646\u0648\u0646"
+    ],
+    "name:rus_x_preferred":[
+        "\u0424\u0440\u0430\u043d-\u043b\u0435\u0437-\u0410\u043d\u0432\u0435\u043d"
+    ],
+    "name:wln_x_preferred":[
+        "Fraine-dil\u00e9-Anvegn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6640087,
+        "wk:page":"Frasnes-lez-Anvaing"
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"0bbe59c88bad95ea741571c6d39dc689",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "locality_id":1209139581
+        }
+    ],
+    "wof:id":1209139581,
+    "wof:lastmodified":1537587087,
+    "wof:name":"Frasnes-lez-Anvaing",
+    "wof:parent_id":85632997,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.63562,
+    50.69211,
+    3.63562,
+    50.69211
+],
+  "geometry": {"coordinates":[3.63562,50.69211],"type":"Point"}
+}

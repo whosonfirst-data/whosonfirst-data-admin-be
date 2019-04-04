@@ -1,0 +1,72 @@
+{
+  "id": 1125385085,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2017-05-19",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.81667,50.21667,4.81667,50.21667",
+    "geom:latitude":50.21667,
+    "geom:longitude":4.81667,
+    "gn:gn_country":"BE",
+    "gn:gn_fcode":"ADM4",
+    "gn:gn_pop":5594,
+    "gn:population":5594,
+    "iso:country":"BE",
+    "lbl:latitude":50.21667,
+    "lbl:longitude":4.81667,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"BE",
+    "qs_pg:gn_country":"BE",
+    "qs_pg:gn_fcode":"ADM4",
+    "qs_pg:gn_id":2796483,
+    "qs_pg:gn_pop":5594,
+    "qs_pg:name":"Hasti\u00e8re",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":5,
+    "qs_pg:qs_id":1029241,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85632997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2796483,
+        "qs_pg:id":1029241
+    },
+    "wof:country":"BE",
+    "wof:created":1497048315,
+    "wof:geomhash":"80828c0c4df51a660527f180f782e1ae",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "localadmin_id":1125385085
+        }
+    ],
+    "wof:id":1125385085,
+    "wof:lastmodified":1505185644,
+    "wof:name":"Hasti\u00e8re",
+    "wof:parent_id":-1,
+    "wof:placetype":"localadmin",
+    "wof:population":5594,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.81667,
+    50.21667,
+    4.81667,
+    50.21667
+],
+  "geometry": {"coordinates":[4.81667,50.21667],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1225975847,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.86667,50.98333,3.86667,50.98333",
+    "geom:latitude":50.98333,
+    "geom:longitude":3.86667,
+    "gn:admin1_code":"VLG",
+    "gn:admin2_code":"VOV",
+    "gn:admin3_code":"42.0",
+    "gn:admin4_code":"42025.0",
+    "gn:asciiname":"Vurst",
+    "gn:country_code":"BE",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2784271,
+    "gn:latitude":50.98333,
+    "gn:longitude":3.86667,
+    "gn:modification_date":"2016-08-02",
+    "gn:name":"Vurst",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681733,
+        102191581,
+        1108830329,
+        85632997,
+        404227357,
+        102049979
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2784271
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"f217c3beeae9e97bf39d9fdb24cf40eb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049979,
+            "localadmin_id":1108830329,
+            "locality_id":1225975847,
+            "macroregion_id":404227357,
+            "region_id":85681733
+        }
+    ],
+    "wof:id":1225975847,
+    "wof:lastmodified":1536824981,
+    "wof:name":"Vurst",
+    "wof:parent_id":1108830329,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.86667,
+    50.98333,
+    3.86667,
+    50.98333
+],
+  "geometry": {"coordinates":[3.86667,50.98333],"type":"Point"}
+}

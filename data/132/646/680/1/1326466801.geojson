@@ -1,0 +1,78 @@
+{
+  "id": 1326466801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.46497,51.10545,3.46497,51.10545",
+    "geom:latitude":51.10545,
+    "geom:longitude":3.46497,
+    "gn:admin1_code":"VLG",
+    "gn:admin2_code":"VOV",
+    "gn:admin3_code":"44.0",
+    "gn:admin4_code":"44001.0",
+    "gn:asciiname":"Oostmolen",
+    "gn:country_code":"BE",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2789743,
+    "gn:latitude":51.10545,
+    "gn:longitude":3.46497,
+    "gn:modification_date":"2016-08-02",
+    "gn:name":"Oostmolen",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Oostmeulen",
+        "Oostmolen"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681733,
+        102191581,
+        1108830383,
+        85632997,
+        404227357,
+        102049989
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2789743
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"49827917edab6c56a53ba23a2080460f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049989,
+            "localadmin_id":1108830383,
+            "locality_id":1326466801,
+            "macroregion_id":404227357,
+            "region_id":85681733
+        }
+    ],
+    "wof:id":1326466801,
+    "wof:lastmodified":1537586952,
+    "wof:name":"Oostmolen",
+    "wof:parent_id":1108830383,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.46497,
+    51.10545,
+    3.46497,
+    51.10545
+],
+  "geometry": {"coordinates":[3.46497,51.10545],"type":"Point"}
+}

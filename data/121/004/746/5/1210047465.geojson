@@ -1,0 +1,74 @@
+{
+  "id": 1210047465,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.25919,51.04117,4.25919,51.04117",
+    "geom:latitude":51.04117,
+    "geom:longitude":4.25919,
+    "gn:admin1_code":"VLG",
+    "gn:admin2_code":"VAN",
+    "gn:admin3_code":"12.0",
+    "gn:admin4_code":"12034.0",
+    "gn:asciiname":"Kasteelheide",
+    "gn:country_code":"BE",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2794681,
+    "gn:latitude":51.04117,
+    "gn:longitude":4.25919,
+    "gn:modification_date":"2016-08-02",
+    "gn:name":"Kasteelheide",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681715,
+        102191581,
+        1108830145,
+        85632997,
+        404227357,
+        102049985
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2794681
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"8604719a95f84e6f4d95ab0e589bd8ff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049985,
+            "localadmin_id":1108830145,
+            "locality_id":1210047465,
+            "macroregion_id":404227357,
+            "region_id":85681715
+        }
+    ],
+    "wof:id":1210047465,
+    "wof:lastmodified":1536377373,
+    "wof:name":"Kasteelheide",
+    "wof:parent_id":1108830145,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.25919,
+    51.04117,
+    4.25919,
+    51.04117
+],
+  "geometry": {"coordinates":[4.25919,51.04117],"type":"Point"}
+}

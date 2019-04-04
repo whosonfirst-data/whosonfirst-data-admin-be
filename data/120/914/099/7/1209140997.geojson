@@ -1,0 +1,64 @@
+{
+  "id": 1209140997,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.78333,50.56667,5.78333,50.56667",
+    "geom:latitude":50.56667,
+    "geom:longitude":5.78333,
+    "gn:admin1_code":"WAL",
+    "gn:admin2_code":"WLG",
+    "gn:admin3_code":"63.0",
+    "gn:admin4_code":"63058.0",
+    "gn:asciiname":"Flere",
+    "gn:country_code":"BE",
+    "gn:dem":127,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2798304,
+    "gn:latitude":50.56667,
+    "gn:longitude":5.78333,
+    "gn:modification_date":"2017-03-25",
+    "gn:name":"Fl\u00e8re",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2798304
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"0a632bf38d5ca4bb57f24adbf010da10",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "locality_id":1209140997
+        }
+    ],
+    "wof:id":1209140997,
+    "wof:lastmodified":1536296506,
+    "wof:name":"Flere",
+    "wof:parent_id":85632997,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.78333,
+    50.56667,
+    5.78333,
+    50.56667
+],
+  "geometry": {"coordinates":[5.78333,50.56667],"type":"Point"}
+}

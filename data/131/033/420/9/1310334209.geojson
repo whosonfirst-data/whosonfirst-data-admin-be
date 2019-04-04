@@ -1,0 +1,72 @@
+{
+  "id": 1310334209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.361,50.42101,4.361,50.42101",
+    "geom:latitude":50.42101,
+    "geom:longitude":4.361,
+    "gn:admin1_code":"WAL",
+    "gn:admin2_code":"WHT",
+    "gn:admin3_code":"52.0",
+    "gn:admin4_code":"52011.0",
+    "gn:asciiname":"La Bretagne",
+    "gn:country_code":"BE",
+    "gn:dem":151,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2793741,
+    "gn:latitude":50.42101,
+    "gn:longitude":4.361,
+    "gn:modification_date":"2017-03-25",
+    "gn:name":"La Bretagne",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681723,
+        102191581,
+        85632997,
+        404227353,
+        102049927
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2793741
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"c427eb49218183ce7aa2ab95a3556c3c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049927,
+            "locality_id":1310334209,
+            "macroregion_id":404227353,
+            "region_id":85681723
+        }
+    ],
+    "wof:id":1310334209,
+    "wof:lastmodified":1536666722,
+    "wof:name":"La Bretagne",
+    "wof:parent_id":102049927,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.361,
+    50.42101,
+    4.361,
+    50.42101
+],
+  "geometry": {"coordinates":[4.361,50.42101],"type":"Point"}
+}

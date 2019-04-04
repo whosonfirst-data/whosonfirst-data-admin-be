@@ -1,0 +1,76 @@
+{
+  "id": 1260117033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.83333,50.7,5.83333,50.7",
+    "geom:latitude":50.7,
+    "geom:longitude":5.83333,
+    "gn:admin1_code":"WAL",
+    "gn:admin2_code":"WLG",
+    "gn:admin3_code":"63.0",
+    "gn:admin4_code":"63003.0",
+    "gn:asciiname":"Himmerich",
+    "gn:country_code":"BE",
+    "gn:dem":213,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2795746,
+    "gn:latitude":50.7,
+    "gn:longitude":5.83333,
+    "gn:modification_date":"2017-03-25",
+    "gn:name":"Himmerich",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Himmerig",
+        "Himmerich"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681691,
+        102191581,
+        85632997,
+        404227353,
+        102049935
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2795746
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"4360f65fba36aeb100a9bd9fd690917d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049935,
+            "locality_id":1260117033,
+            "macroregion_id":404227353,
+            "region_id":85681691
+        }
+    ],
+    "wof:id":1260117033,
+    "wof:lastmodified":1537587016,
+    "wof:name":"Himmerich",
+    "wof:parent_id":102049935,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.83333,
+    50.7,
+    5.83333,
+    50.7
+],
+  "geometry": {"coordinates":[5.83333,50.7],"type":"Point"}
+}

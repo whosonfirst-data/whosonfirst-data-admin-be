@@ -1,0 +1,79 @@
+{
+  "id": 1209951165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.15878,50.88412,3.15878,50.88412",
+    "geom:latitude":50.88412,
+    "geom:longitude":3.15878,
+    "gn:admin1_code":"VLG",
+    "gn:admin2_code":"VWV",
+    "gn:admin3_code":"36.0",
+    "gn:admin4_code":"36010.0",
+    "gn:asciiname":"Roodbaard",
+    "gn:country_code":"BE",
+    "gn:dem":24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2787760,
+    "gn:latitude":50.88412,
+    "gn:longitude":3.15878,
+    "gn:modification_date":"2016-08-02",
+    "gn:name":"Roodbaard",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Roobaert",
+        "Roodbaart",
+        "Roodbaard"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681709,
+        102191581,
+        1108830277,
+        85632997,
+        404227357,
+        102049977
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2787760
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"a0b4dde6641939864c886060fed89610",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049977,
+            "localadmin_id":1108830277,
+            "locality_id":1209951165,
+            "macroregion_id":404227357,
+            "region_id":85681709
+        }
+    ],
+    "wof:id":1209951165,
+    "wof:lastmodified":1537586931,
+    "wof:name":"Roodbaard",
+    "wof:parent_id":1108830277,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.15878,
+    50.88412,
+    3.15878,
+    50.88412
+],
+  "geometry": {"coordinates":[3.15878,50.88412],"type":"Point"}
+}

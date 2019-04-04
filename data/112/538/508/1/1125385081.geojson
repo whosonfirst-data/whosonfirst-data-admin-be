@@ -1,0 +1,75 @@
+{
+  "id": 1125385081,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2017-05-19",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.65006,50.89426,5.65006,50.89426",
+    "geom:latitude":50.89426,
+    "geom:longitude":5.65006,
+    "gn:gn_country":"BE",
+    "gn:gn_fcode":"ADM4",
+    "gn:gn_pop":25668,
+    "gn:population":25668,
+    "iso:country":"BE",
+    "lbl:latitude":50.89426,
+    "lbl:longitude":5.65006,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:unk_x_variant":[
+        "Lanaeken"
+    ],
+    "qs_pg:aaroncc":"BE",
+    "qs_pg:gn_country":"BE",
+    "qs_pg:gn_fcode":"ADM4",
+    "qs_pg:gn_id":2793447,
+    "qs_pg:gn_pop":25668,
+    "qs_pg:name":"Lanaken",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":7,
+    "qs_pg:qs_id":92648,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85632997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2793447,
+        "qs_pg:id":92648
+    },
+    "wof:country":"BE",
+    "wof:created":1497048315,
+    "wof:geomhash":"1ced4ed1c16d1ef94017883acf403171",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "localadmin_id":1125385081
+        }
+    ],
+    "wof:id":1125385081,
+    "wof:lastmodified":1505185642,
+    "wof:name":"Lanaken",
+    "wof:parent_id":-1,
+    "wof:placetype":"localadmin",
+    "wof:population":25668,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.65006,
+    50.89426,
+    5.65006,
+    50.89426
+],
+  "geometry": {"coordinates":[5.65006,50.89426],"type":"Point"}
+}

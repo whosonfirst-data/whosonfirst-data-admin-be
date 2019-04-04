@@ -1,0 +1,72 @@
+{
+  "id": 1259517297,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.18926,50.00914,4.18926,50.00914",
+    "geom:latitude":50.00914,
+    "geom:longitude":4.18926,
+    "gn:admin1_code":"WAL",
+    "gn:admin2_code":"WHT",
+    "gn:admin3_code":"56.0",
+    "gn:admin4_code":"56051.0",
+    "gn:asciiname":"Grande Thierache",
+    "gn:country_code":"BE",
+    "gn:dem":278,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2797262,
+    "gn:latitude":50.00914,
+    "gn:longitude":4.18926,
+    "gn:modification_date":"2017-03-25",
+    "gn:name":"Grande Thi\u00e9rache",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681723,
+        102191581,
+        85632997,
+        404227353,
+        102049923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2797262
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"a967c402ffb634ee91ae5039878f2eed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049923,
+            "locality_id":1259517297,
+            "macroregion_id":404227353,
+            "region_id":85681723
+        }
+    ],
+    "wof:id":1259517297,
+    "wof:lastmodified":1536809831,
+    "wof:name":"Grande Thierache",
+    "wof:parent_id":102049923,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.18926,
+    50.00914,
+    4.18926,
+    50.00914
+],
+  "geometry": {"coordinates":[4.18926,50.00914],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1344092945,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.3059,50.52457,4.3059,50.52457",
+    "geom:latitude":50.52457,
+    "geom:longitude":4.3059,
+    "gn:admin1_code":"WAL",
+    "gn:admin2_code":"WHT",
+    "gn:admin3_code":"52.0",
+    "gn:admin4_code":"52063.0",
+    "gn:asciiname":"Bois de Nauwe",
+    "gn:country_code":"BE",
+    "gn:dem":156,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2801652,
+    "gn:latitude":50.52457,
+    "gn:longitude":4.3059,
+    "gn:modification_date":"2017-03-25",
+    "gn:name":"Bois de Nauwe",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681723,
+        102191581,
+        85632997,
+        404227353,
+        102049927
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2801652
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"44d2b4ccaec8936c105257281af29106",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049927,
+            "locality_id":1344092945,
+            "macroregion_id":404227353,
+            "region_id":85681723
+        }
+    ],
+    "wof:id":1344092945,
+    "wof:lastmodified":1536827742,
+    "wof:name":"Bois de Nauwe",
+    "wof:parent_id":102049927,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.3059,
+    50.52457,
+    4.3059,
+    50.52457
+],
+  "geometry": {"coordinates":[4.3059,50.52457],"type":"Point"}
+}

@@ -1,0 +1,104 @@
+{
+  "id": 1126008951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.9593,50.40206,4.9593,50.40206",
+    "geom:latitude":50.40206,
+    "geom:longitude":4.9593,
+    "gn:gn_country":"BE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"BE",
+    "lbl:latitude":50.40206,
+    "lbl:longitude":4.9593,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Sart-Bernard"
+    ],
+    "name:eng_x_preferred":[
+        "Sart-Bernard"
+    ],
+    "name:fre_x_preferred":[
+        "Sart-Bernard"
+    ],
+    "name:hun_x_preferred":[
+        "Sart-Bernard"
+    ],
+    "name:unk_x_variant":[
+        "Assesse (Sart-Bernard)"
+    ],
+    "qs_pg:aaroncc":"BE",
+    "qs_pg:gn_country":"BE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2787242,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Sart-Bernard",
+    "qs_pg:name_adm0":"Belgique",
+    "qs_pg:name_adm1":"Namur",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":1,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":301905,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424757,
+    "qs_pg:woe_id":976646,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424757,
+    "woe:name_adm0":"Belgique",
+    "woe:name_adm1":"Namur",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85681699,
+        102191581,
+        85632997,
+        404227353,
+        102049931
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2787242,
+        "gp:id":976646,
+        "qs_pg:id":301905,
+        "wd:id":"Q1104902"
+    },
+    "wof:country":"BE",
+    "wof:created":1497300152,
+    "wof:geomhash":"509109254ca0439a9278bc1a9c6863c0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049931,
+            "locality_id":1126008951,
+            "macroregion_id":404227353,
+            "region_id":85681699
+        }
+    ],
+    "wof:id":1126008951,
+    "wof:lastmodified":1513899489,
+    "wof:name":"Sart-Bernard",
+    "wof:parent_id":102049931,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.9593,
+    50.40206,
+    4.9593,
+    50.40206
+],
+  "geometry": {"coordinates":[4.9593,50.40206],"type":"Point"}
+}

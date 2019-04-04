@@ -1,0 +1,72 @@
+{
+  "id": 1125386797,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2017-05-19",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.61745,49.73103,5.61745,49.73103",
+    "geom:latitude":49.73103,
+    "geom:longitude":5.61745,
+    "gn:gn_country":"BE",
+    "gn:gn_fcode":"ADM4",
+    "gn:gn_pop":8140,
+    "gn:population":8140,
+    "iso:country":"BE",
+    "lbl:latitude":49.73103,
+    "lbl:longitude":5.61745,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"BE",
+    "qs_pg:gn_country":"BE",
+    "qs_pg:gn_fcode":"ADM4",
+    "qs_pg:gn_id":2796810,
+    "qs_pg:gn_pop":8140,
+    "qs_pg:name":"Habay",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":5,
+    "qs_pg:qs_id":1032657,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85632997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2796810,
+        "qs_pg:id":1032657
+    },
+    "wof:country":"BE",
+    "wof:created":1497048437,
+    "wof:geomhash":"28f6ee578e4e378cbaa99bd4c4fbe0b7",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "localadmin_id":1125386797
+        }
+    ],
+    "wof:id":1125386797,
+    "wof:lastmodified":1505185644,
+    "wof:name":"Habay",
+    "wof:parent_id":-1,
+    "wof:placetype":"localadmin",
+    "wof:population":8140,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.61745,
+    49.73103,
+    5.61745,
+    49.73103
+],
+  "geometry": {"coordinates":[5.61745,49.73103],"type":"Point"}
+}

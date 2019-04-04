@@ -1,0 +1,74 @@
+{
+  "id": 1292940049,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.00708,51.01129,3.00708,51.01129",
+    "geom:latitude":51.01129,
+    "geom:longitude":3.00708,
+    "gn:admin1_code":"VLG",
+    "gn:admin2_code":"VWV",
+    "gn:admin3_code":"32.0",
+    "gn:admin4_code":"32011.0",
+    "gn:asciiname":"Kruisstraat",
+    "gn:country_code":"BE",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2793892,
+    "gn:latitude":51.01129,
+    "gn:longitude":3.00708,
+    "gn:modification_date":"2016-08-02",
+    "gn:name":"Kruisstraat",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681709,
+        102191581,
+        1108830511,
+        85632997,
+        404227357,
+        102049987
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2793892
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"5bdcaaf9f9a6ff8a918d06152dced9c1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049987,
+            "localadmin_id":1108830511,
+            "locality_id":1292940049,
+            "macroregion_id":404227357,
+            "region_id":85681709
+        }
+    ],
+    "wof:id":1292940049,
+    "wof:lastmodified":1537076198,
+    "wof:name":"Kruisstraat",
+    "wof:parent_id":1108830511,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.00708,
+    51.01129,
+    3.00708,
+    51.01129
+],
+  "geometry": {"coordinates":[3.00708,51.01129],"type":"Point"}
+}

@@ -1,0 +1,106 @@
+{
+  "id": 101838643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000144,
+    "geom:area_square_m":1128903.813484,
+    "geom:bbox":"5.62102394805,50.7602943171,5.64804467909,50.7719702867",
+    "geom:latitude":50.766915,
+    "geom:longitude":5.631904,
+    "iso:country":"BE",
+    "lbl:latitude":50.766861,
+    "lbl:longitude":5.631903,
+    "mps:latitude":50.766861,
+    "mps:longitude":5.631903,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Wonk"
+    ],
+    "name:eng_x_preferred":[
+        "Wonek"
+    ],
+    "name:fra_x_preferred":[
+        "Wonck"
+    ],
+    "name:fre_x_preferred":[
+        "Wonck"
+    ],
+    "name:hun_x_preferred":[
+        "Wonck"
+    ],
+    "name:lim_x_preferred":[
+        "Wonck"
+    ],
+    "name:unk_x_variant":[
+        "Wonek"
+    ],
+    "qs:a0":"Belgi\u00eb#Belgique#Belgien",
+    "qs:a1":"*Li\u00e8ge",
+    "qs:a1r":"0R\u00e9gion wallone",
+    "qs:a2":"Li\u00e8ge",
+    "qs:adm0":"Belgi\u00eb#Belgique#Belgien",
+    "qs:la":"Kortessem",
+    "qs:la_lc":"*BE273040",
+    "qs:level":"locality",
+    "qs:loc":"Wonck",
+    "qs:loc_alt":"Wonck",
+    "qs:pop":0,
+    "qs:source":"LCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-multi-in-poly-resolved",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        85681691,
+        102191581,
+        85632997,
+        404227353,
+        102049941
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"036cc744-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2783458,
+        "gp:id":979030,
+        "qs:id":1072819,
+        "qs_pg:id":1072819,
+        "wd:id":"Q2398607"
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"e9340f7ca9a54576c77d58f6952e83d0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049941,
+            "locality_id":101838643,
+            "macroregion_id":404227353,
+            "region_id":85681691
+        }
+    ],
+    "wof:id":101838643,
+    "wof:lang":[
+        "fre"
+    ],
+    "wof:lastmodified":1513899588,
+    "wof:name":"Wonck",
+    "wof:parent_id":102049941,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.62102394805288,
+    50.76029431707406,
+    5.64804467909164,
+    50.77197028674397
+],
+  "geometry": {"coordinates":[[[5.62289826583526,50.76201862234063],[5.62102394805288,50.76824954461227],[5.62556609172401,50.76842198156538],[5.62548199636416,50.76931908786469],[5.62689737082286,50.76937277733072],[5.62681329849312,50.77026988452968],[5.63247493438018,50.77048447361915],[5.63239096622493,50.77138158526844],[5.63663730562126,50.77154234844244],[5.63672119263384,50.77064523324538],[5.64238291204146,50.77085933648999],[5.64229913322271,50.77175645641182],[5.64796100846957,50.77197028674397],[5.64804467909164,50.77107316210396],[5.64379834933982,50.77091281892149],[5.64388209711194,50.77001569753577],[5.64246668686104,50.76996221628434],[5.64263422450364,50.76816797502033],[5.64121887132143,50.76811447877822],[5.64130266118877,50.76721735890027],[5.63988733802768,50.76716384648819],[5.63997115093753,50.76626672750643],[5.6371405676361,50.76615965299396],[5.6374759955832,50.76257118366976],[5.63606081655536,50.76251762511555],[5.6359769385358,50.76341474169215],[5.63031614409607,50.76320032926355],[5.63040013025881,50.76230321741701],[5.6261546468678,50.76214222948914],[5.62632276936722,50.76034801204344],[5.62490766827506,50.76029431707406],[5.62473949171033,50.76208853215087],[5.62289826583526,50.76201862234063]]],"type":"Polygon"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1293518375,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.36067,49.96659,4.36067,49.96659",
+    "geom:latitude":49.96659,
+    "geom:longitude":4.36067,
+    "gn:admin1_code":"WAL",
+    "gn:admin2_code":"WHT",
+    "gn:admin3_code":"56.0",
+    "gn:admin4_code":"56016.0",
+    "gn:asciiname":"La Bouverie",
+    "gn:country_code":"BE",
+    "gn:dem":333,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2793748,
+    "gn:latitude":49.96659,
+    "gn:longitude":4.36067,
+    "gn:modification_date":"2017-03-25",
+    "gn:name":"La Bouverie",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bouverie",
+        "La Bouverie"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681723,
+        102191581,
+        85632997,
+        404227353,
+        102049923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2793748
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"ffad7f9f6e8bdd24df5c635b6d9d1779",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049923,
+            "locality_id":1293518375,
+            "macroregion_id":404227353,
+            "region_id":85681723
+        }
+    ],
+    "wof:id":1293518375,
+    "wof:lastmodified":1537586992,
+    "wof:name":"La Bouverie",
+    "wof:parent_id":102049923,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.36067,
+    49.96659,
+    4.36067,
+    49.96659
+],
+  "geometry": {"coordinates":[4.36067,49.96659],"type":"Point"}
+}

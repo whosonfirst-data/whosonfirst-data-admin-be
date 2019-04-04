@@ -1,0 +1,104 @@
+{
+  "id": 101809265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000084,
+    "geom:area_square_m":657672.755018,
+    "geom:bbox":"2.94833210422,50.9135826728,2.96715454337,50.9233882814",
+    "geom:latitude":50.918748,
+    "geom:longitude":2.958574,
+    "iso:country":"BE",
+    "lbl:latitude":50.919026,
+    "lbl:longitude":2.958431,
+    "mps:latitude":50.919026,
+    "mps:longitude":2.958431,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bre_x_preferred":[
+        "Poelkapelle"
+    ],
+    "name:dut_x_preferred":[
+        "Poelkapelle"
+    ],
+    "name:eng_x_preferred":[
+        "Poelkapelle"
+    ],
+    "name:fre_x_preferred":[
+        "Poelkapelle"
+    ],
+    "name:hun_x_preferred":[
+        "Poelkapelle"
+    ],
+    "name:unk_x_variant":[
+        "Poelcappelle"
+    ],
+    "name:vls_x_preferred":[
+        "Poekapelle"
+    ],
+    "qs:a0":"Belgi\u00eb#Belgique#Belgien",
+    "qs:a1":"*West-Vlanderen",
+    "qs:a1r":"0Vlaams Gewest",
+    "qs:a2":"Ieper",
+    "qs:adm0":"Belgi\u00eb#Belgique#Belgien",
+    "qs:la":"Langemark-Poelkapelle",
+    "qs:la_lc":"*BE233040",
+    "qs:level":"locality",
+    "qs:loc":"Poelkapelle",
+    "qs:loc_alt":"Poelkapelle",
+    "qs:pop":0,
+    "qs:source":"LCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        85681709,
+        102191581,
+        1108830263,
+        85632997,
+        404227357,
+        102049971
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2788822,
+        "gp:id":975751,
+        "qs:id":1291605,
+        "qs_pg:id":1291605,
+        "wd:id":"Q2026781"
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"ecaa255aa09e10123dc089847d52f445",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049971,
+            "localadmin_id":1108830263,
+            "locality_id":101809265,
+            "macroregion_id":404227357,
+            "region_id":85681709
+        }
+    ],
+    "wof:id":101809265,
+    "wof:lastmodified":1513899462,
+    "wof:name":"Poelkapelle",
+    "wof:parent_id":1108830263,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.94833210421598,
+    50.91358267282499,
+    2.9671545433747,
+    50.92338828140805
+],
+  "geometry": {"coordinates":[[[2.96337073869199,50.92338828140805],[2.96377826900834,50.92070589490845],[2.96661147574565,50.92087857491242],[2.9671545433747,50.91730203855167],[2.96007210105677,50.91687024677299],[2.96020798631059,50.9159761211971],[2.95454222710191,50.91563038357634],[2.95467821349899,50.91473626522935],[2.95326181269542,50.91464978942611],[2.95339781950531,50.91375567257762],[2.95056508622395,50.91358267282499],[2.95029295848673,50.91537089846292],[2.95312579939133,50.91554390586191],[2.95271772051063,50.91822625269492],[2.94846822423449,50.91796669840255],[2.94833210421598,50.91886080745195],[2.95399821657713,50.91920685284106],[2.95372617234642,50.92099508499967],[2.95655936522229,50.92116801138849],[2.95628740267557,50.92295624954369],[2.95770406020551,50.92304269057047],[2.95784001780771,50.92214856978808],[2.9620899386631,50.92240778317682],[2.96195406181732,50.92330190968937],[2.96337073869199,50.92338828140805]]],"type":"Polygon"}
+}

@@ -1,0 +1,108 @@
+{
+  "id": 101755325,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000052,
+    "geom:area_square_m":409181.032798,
+    "geom:bbox":"3.34100678266,50.7147583885,3.36003576238,50.7242738",
+    "geom:latitude":50.719946,
+    "geom:longitude":3.351908,
+    "iso:country":"BE",
+    "lbl:latitude":50.719277,
+    "lbl:longitude":3.356016,
+    "mps:latitude":50.719277,
+    "mps:longitude":3.356016,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:cat_x_preferred":[
+        "Spiere"
+    ],
+    "name:dut_x_preferred":[
+        "Spiere"
+    ],
+    "name:eng_x_preferred":[
+        "Spiere"
+    ],
+    "name:fre_x_preferred":[
+        "Espierres"
+    ],
+    "name:hun_x_preferred":[
+        "Spiere"
+    ],
+    "name:por_x_preferred":[
+        "Spiere"
+    ],
+    "name:unk_x_variant":[
+        "Espierres"
+    ],
+    "name:vls_x_preferred":[
+        "Spiere"
+    ],
+    "qs:a0":"Belgi\u00eb#Belgique#Belgien",
+    "qs:a1":"*West-Vlanderen",
+    "qs:a1r":"0Vlaams Gewest",
+    "qs:a2":"Kortrijk",
+    "qs:adm0":"Belgi\u00eb#Belgique#Belgien",
+    "qs:id":0,
+    "qs:la":"Waregem",
+    "qs:la_lc":"*BE234040",
+    "qs:level":"locality",
+    "qs:loc":"Spiere",
+    "qs:loc_alt":"Spiere",
+    "qs:pop":0,
+    "qs:source":"LCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"suburbs point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        85681709,
+        102191581,
+        1108830369,
+        85632997,
+        404227357,
+        102049961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2786281,
+        "gp:id":977094,
+        "qs:id":249128,
+        "qs_pg:id":249128,
+        "wd:id":"Q2610272"
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"cf5b6f5c3c05529ecd24fd1e871f219b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049961,
+            "localadmin_id":1108830369,
+            "locality_id":101755325,
+            "macroregion_id":404227357,
+            "region_id":85681709
+        }
+    ],
+    "wof:id":101755325,
+    "wof:lastmodified":1513899511,
+    "wof:name":"Spiere",
+    "wof:parent_id":1108830369,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.34100678266424,
+    50.71475838851131,
+    3.36003576237602,
+    50.72427380002091
+],
+  "geometry": {"coordinates":[[[3.34100678266424,50.7211713481733],[3.34105440731798,50.72207621659453],[3.34669790091664,50.72240281482232],[3.34644259292872,50.72419218970134],[3.34785383924071,50.72427380002091],[3.34798146957439,50.72337911098674],[3.34939269370892,50.72346070225433],[3.34964788277773,50.72167131940233],[3.35105905804113,50.72175288982527],[3.35118661678052,50.72085819600778],[3.35824242734532,50.72126578029923],[3.35849725971031,50.71947637354936],[3.35990838197415,50.7195578350541],[3.36003576237602,50.71866312929075],[3.35862466680408,50.71858166957657],[3.35875206783868,50.71768696520536],[3.35734100346525,50.71760549002551],[3.35759584073458,50.71581608366819],[3.35618483424622,50.71573459481465],[3.3563122704781,50.71483989282876],[3.35490129518433,50.71475838851131],[3.35439140714783,50.71833718689606],[3.35298032961958,50.71825565815675],[3.3528528157666,50.71915035496369],[3.35144171606356,50.7190688071758],[3.35131416945472,50.71996350179126],[3.3470808173679,50.71971874951043],[3.34720844404529,50.71882406027464],[3.34579736240585,50.71874244346196],[3.34541438409332,50.72142650458926],[3.34100678266424,50.7211713481733]]],"type":"Polygon"}
+}

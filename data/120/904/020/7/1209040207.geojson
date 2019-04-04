@@ -1,0 +1,68 @@
+{
+  "id": 1209040207,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.01568,50.58181,5.01568,50.58181",
+    "geom:latitude":50.58181,
+    "geom:longitude":5.01568,
+    "gn:admin1_code":"WAL",
+    "gn:admin2_code":"WNA",
+    "gn:admin3_code":"92.0",
+    "gn:admin4_code":"92138.0",
+    "gn:asciiname":"Seressia",
+    "gn:country_code":"BE",
+    "gn:dem":163,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2786821,
+    "gn:latitude":50.58181,
+    "gn:longitude":5.01568,
+    "gn:modification_date":"2017-03-25",
+    "gn:name":"Seressia",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Serressia",
+        "Seressia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2786821
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"1311192d39cbcf5ccbc77fc4f3c0aab0",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "locality_id":1209040207
+        }
+    ],
+    "wof:id":1209040207,
+    "wof:lastmodified":1537586918,
+    "wof:name":"Seressia",
+    "wof:parent_id":85632997,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.01568,
+    50.58181,
+    5.01568,
+    50.58181
+],
+  "geometry": {"coordinates":[5.01568,50.58181],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1125368617,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2017-05-19",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.74722,50.59043,5.74722,50.59043",
+    "geom:latitude":50.59043,
+    "geom:longitude":5.74722,
+    "gn:gn_country":"BE",
+    "gn:gn_fcode":"ADM4",
+    "gn:gn_pop":3817,
+    "gn:population":3817,
+    "iso:country":"BE",
+    "lbl:latitude":50.59043,
+    "lbl:longitude":5.74722,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"BE",
+    "qs_pg:gn_country":"BE",
+    "qs_pg:gn_fcode":"ADM4",
+    "qs_pg:gn_id":2789870,
+    "qs_pg:gn_pop":3817,
+    "qs_pg:name":"Olne",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":92599,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85632997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2789870,
+        "qs_pg:id":92599
+    },
+    "wof:country":"BE",
+    "wof:created":1497047244,
+    "wof:geomhash":"73cd4178eef39f1e9c734d88305d81b0",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "localadmin_id":1125368617
+        }
+    ],
+    "wof:id":1125368617,
+    "wof:lastmodified":1505185641,
+    "wof:name":"Olne",
+    "wof:parent_id":-1,
+    "wof:placetype":"localadmin",
+    "wof:population":3817,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.74722,
+    50.59043,
+    5.74722,
+    50.59043
+],
+  "geometry": {"coordinates":[5.74722,50.59043],"type":"Point"}
+}

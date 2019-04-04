@@ -1,0 +1,74 @@
+{
+  "id": 1226579777,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.28333,50.96667,3.28333,50.96667",
+    "geom:latitude":50.96667,
+    "geom:longitude":3.28333,
+    "gn:admin1_code":"VLG",
+    "gn:admin2_code":"VWV",
+    "gn:admin3_code":"37.0",
+    "gn:admin4_code":"37007.0",
+    "gn:asciiname":"Steendam",
+    "gn:country_code":"BE",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2786156,
+    "gn:latitude":50.96667,
+    "gn:longitude":3.28333,
+    "gn:modification_date":"2016-08-02",
+    "gn:name":"Steendam",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681709,
+        102191581,
+        1108830089,
+        85632997,
+        404227357,
+        102049981
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2786156
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"186910fc168e22a8ad413070641bfcba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049981,
+            "localadmin_id":1108830089,
+            "locality_id":1226579777,
+            "macroregion_id":404227357,
+            "region_id":85681709
+        }
+    ],
+    "wof:id":1226579777,
+    "wof:lastmodified":1536951039,
+    "wof:name":"Steendam",
+    "wof:parent_id":1108830089,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.28333,
+    50.96667,
+    3.28333,
+    50.96667
+],
+  "geometry": {"coordinates":[3.28333,50.96667],"type":"Point"}
+}

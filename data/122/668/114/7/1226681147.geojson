@@ -1,0 +1,74 @@
+{
+  "id": 1226681147,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.9113,50.9403,4.9113,50.9403",
+    "geom:latitude":50.9403,
+    "geom:longitude":4.9113,
+    "gn:admin1_code":"VLG",
+    "gn:admin2_code":"VBR",
+    "gn:admin3_code":"24.0",
+    "gn:admin4_code":"24135.0",
+    "gn:asciiname":"Sporthal",
+    "gn:country_code":"BE",
+    "gn:dem":28,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8456274,
+    "gn:latitude":50.9403,
+    "gn:longitude":4.9113,
+    "gn:modification_date":"2016-08-02",
+    "gn:name":"Sporthal",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681731,
+        102191581,
+        1108830337,
+        85632997,
+        404227357,
+        102049969
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8456274
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"9055323557cd2494f3b57a124854b886",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049969,
+            "localadmin_id":1108830337,
+            "locality_id":1226681147,
+            "macroregion_id":404227357,
+            "region_id":85681731
+        }
+    ],
+    "wof:id":1226681147,
+    "wof:lastmodified":1536808190,
+    "wof:name":"Sporthal",
+    "wof:parent_id":1108830337,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.9113,
+    50.9403,
+    4.9113,
+    50.9403
+],
+  "geometry": {"coordinates":[4.9113,50.9403],"type":"Point"}
+}

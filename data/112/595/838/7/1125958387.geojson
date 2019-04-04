@@ -1,0 +1,112 @@
+{
+  "id": 1125958387,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.04931,50.51525,4.04931,50.51525",
+    "geom:latitude":50.51525,
+    "geom:longitude":4.04931,
+    "gn:gn_country":"BE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"BE",
+    "lbl:latitude":50.51525,
+    "lbl:longitude":4.04931,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bul_x_preferred":[
+        "\u0422\u0445\u0438\u0435\u0443\u0441\u0438\u0435\u0441"
+    ],
+    "name:dut_x_preferred":[
+        "Thieusies"
+    ],
+    "name:eng_x_preferred":[
+        "Thieusies"
+    ],
+    "name:fre_x_preferred":[
+        "Thieusies"
+    ],
+    "name:hun_x_preferred":[
+        "Thieusies"
+    ],
+    "name:swe_x_preferred":[
+        "Thieusies"
+    ],
+    "name:wln_x_preferred":[
+        "Tieuziye"
+    ],
+    "qs_pg:aaroncc":"BE",
+    "qs_pg:gn_country":"BE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2785567,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Thieusies",
+    "qs_pg:name_adm0":"Belgique",
+    "qs_pg:name_adm1":"Hainaut",
+    "qs_pg:photos":56,
+    "qs_pg:photos_1k":11,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":56,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":407046,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424757,
+    "qs_pg:woe_id":977756,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424757,
+    "woe:name_adm0":"Belgique",
+    "woe:name_adm1":"Hainaut",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85681723,
+        102191581,
+        85632997,
+        404227353,
+        102049943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2785567,
+        "gp:id":977756,
+        "qs_pg:id":407046,
+        "wd:id":"Q3155554"
+    },
+    "wof:country":"BE",
+    "wof:created":1497297699,
+    "wof:geomhash":"53496b33c17803f18d064dca253bb933",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049943,
+            "locality_id":1125958387,
+            "macroregion_id":404227353,
+            "region_id":85681723
+        }
+    ],
+    "wof:id":1125958387,
+    "wof:lastmodified":1513899525,
+    "wof:name":"Thieusies",
+    "wof:parent_id":102049943,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.04931,
+    50.51525,
+    4.04931,
+    50.51525
+],
+  "geometry": {"coordinates":[4.04931,50.51525],"type":"Point"}
+}

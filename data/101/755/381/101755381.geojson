@@ -1,0 +1,128 @@
+{
+  "id": 101755381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-22",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-22",
+    "geom:area":0.000208,
+    "geom:area_square_m":1614548.766297,
+    "geom:bbox":"4.70640557855,51.0029345447,4.7335689453,51.0166761632",
+    "geom:latitude":51.009851,
+    "geom:longitude":4.721063,
+    "iso:country":"BE",
+    "lbl:latitude":51.008838,
+    "lbl:longitude":4.717874,
+    "mps:latitude":51.008838,
+    "mps:longitude":4.717874,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:ces_x_preferred":[
+        "Vondelpark"
+    ],
+    "name:dan_x_preferred":[
+        "Vondelpark"
+    ],
+    "name:deu_x_preferred":[
+        "Vondelpark"
+    ],
+    "name:fin_x_preferred":[
+        "Vondelpark"
+    ],
+    "name:fra_x_preferred":[
+        "Vondelpark"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d5\u05e0\u05d3\u05dc\u05e4\u05d0\u05e8\u05e7"
+    ],
+    "name:ita_x_preferred":[
+        "Vondelpark"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d5\u30a9\u30f3\u30c7\u30eb\u516c\u5712"
+    ],
+    "name:nld_x_preferred":[
+        "Vondelpark"
+    ],
+    "name:nor_x_preferred":[
+        "Vondelpark"
+    ],
+    "name:pnb_x_preferred":[
+        "\u0648\u0648\u0646\u0688\u0644 \u067e\u0627\u0631\u06a9"
+    ],
+    "name:por_x_preferred":[
+        "Vondelpark"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u0430\u0440\u043a \u0412\u043e\u043d\u0434\u0435\u043b\u0430"
+    ],
+    "name:spa_x_preferred":[
+        "Vondelpark"
+    ],
+    "name:swe_x_preferred":[
+        "Vondelpark"
+    ],
+    "qs:a0":"Belgi\u00eb#Belgique#Belgien",
+    "qs:a1":"*Vlaams Brabant",
+    "qs:a1r":"0Vlaams Gewest",
+    "qs:a2":"Leuven",
+    "qs:adm0":"Belgi\u00eb#Belgique#Belgien",
+    "qs:la":"Kalmthout",
+    "qs:la_lc":"*BE211022",
+    "qs:level":"locality",
+    "qs:loc":"Vondelpark",
+    "qs:loc_alt":"Vondelpark",
+    "qs:pop":0,
+    "qs:source":"LCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"suburbs point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":1403,
+    "wof:belongsto":[
+        85681731,
+        102191581,
+        1108830035,
+        85632997,
+        404227357,
+        102049969
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":977895,
+        "qs:id":7
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"675af2ede6d9ca36cf0e5f8945ce12e8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049969,
+            "localadmin_id":1108830035,
+            "locality_id":101755381,
+            "macroregion_id":404227357,
+            "region_id":85681731
+        }
+    ],
+    "wof:id":101755381,
+    "wof:lastmodified":1534985845,
+    "wof:name":"Vondelpark",
+    "wof:parent_id":1108830035,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[
+        1175610551
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.70640557855018,
+    51.00293454466401,
+    4.73356894530127,
+    51.01667616318815
+],
+  "geometry": {"coordinates":[[[4.70640557855018,51.00358226630266],[4.70805460146448,51.00601240533456],[4.70984691377976,51.01239751795714],[4.71523639092987,51.01412621817536],[4.71544971936368,51.01225863685551],[4.72113689871407,51.01251812626128],[4.72073094158856,51.01607580504327],[4.72209175338389,51.01667616318815],[4.72214975842803,51.01616777489704],[4.72641551988943,51.01636217392848],[4.72661983802197,51.0145697559829],[4.7308854685474,51.01476398950621],[4.73078339383534,51.01566020294814],[4.7322053052801,51.01572491403226],[4.73271549338307,51.01124383654616],[4.73356894530127,51.01128265009049],[4.73323416504553,51.00676311663727],[4.7289606546434,51.00656860890945],[4.7290564401909,51.00572761974087],[4.72620275914051,51.00569007130611],[4.72601526340014,51.00733530396764],[4.72175033177876,51.00714089582669],[4.72199319242503,51.00501156559528],[4.71642247679881,51.00373998920264],[4.7162684642052,51.00508903989459],[4.71484689683791,51.00502413550271],[4.71474454362436,51.00592033476698],[4.71047978161806,51.00572551271108],[4.71058221668613,51.00482931777276],[4.70916066395745,51.0047643436784],[4.70926312139767,51.00386814987229],[4.70784159961454,51.00380315979532],[4.70794091873051,51.00293454466401],[4.70640557855018,51.00358226630266]]],"type":"Polygon"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1310041883,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.69607,50.95488,4.69607,50.95488",
+    "geom:latitude":50.95488,
+    "geom:longitude":4.69607,
+    "gn:admin1_code":"VLG",
+    "gn:admin2_code":"VBR",
+    "gn:admin3_code":"24.0",
+    "gn:admin4_code":"24094.0",
+    "gn:asciiname":"Achterheide",
+    "gn:country_code":"BE",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2803369,
+    "gn:latitude":50.95488,
+    "gn:longitude":4.69607,
+    "gn:modification_date":"2016-08-02",
+    "gn:name":"Achterheide",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681731,
+        102191581,
+        1108830325,
+        85632997,
+        404227357,
+        102049969
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2803369
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"d7211e743ce02837c892841d96d19076",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049969,
+            "localadmin_id":1108830325,
+            "locality_id":1310041883,
+            "macroregion_id":404227357,
+            "region_id":85681731
+        }
+    ],
+    "wof:id":1310041883,
+    "wof:lastmodified":1537084961,
+    "wof:name":"Achterheide",
+    "wof:parent_id":1108830325,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.69607,
+    50.95488,
+    4.69607,
+    50.95488
+],
+  "geometry": {"coordinates":[4.69607,50.95488],"type":"Point"}
+}

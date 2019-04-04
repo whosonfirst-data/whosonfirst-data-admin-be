@@ -1,0 +1,111 @@
+{
+  "id": 1125776149,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.59096,50.90059,3.59096,50.90059",
+    "geom:latitude":50.90059,
+    "geom:longitude":3.59096,
+    "gn:gn_country":"BE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"BE",
+    "lbl:latitude":50.90059,
+    "lbl:longitude":3.59096,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Huise"
+    ],
+    "name:eng_x_preferred":[
+        "Huise"
+    ],
+    "name:fre_x_preferred":[
+        "Huise"
+    ],
+    "name:hun_x_preferred":[
+        "Huise"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30cf\u30a4\u30bb"
+    ],
+    "name:unk_x_variant":[
+        "Huysse"
+    ],
+    "qs_pg:aaroncc":"BE",
+    "qs_pg:gn_country":"BE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2795199,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Huise",
+    "qs_pg:name_adm0":"Belgique",
+    "qs_pg:name_adm1":"Oost-Vlaanderen",
+    "qs_pg:photos":11,
+    "qs_pg:photos_1k":2,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":11,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1077670,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424757,
+    "qs_pg:woe_id":971584,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424757,
+    "woe:name_adm0":"Belgique",
+    "woe:name_adm1":"Oost-Vlaanderen",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85681733,
+        102191581,
+        1108830009,
+        85632997,
+        404227357,
+        102049963
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2795199,
+        "gp:id":971584,
+        "qs_pg:id":1077670,
+        "wd:id":"Q2290720"
+    },
+    "wof:country":"BE",
+    "wof:created":1497290265,
+    "wof:geomhash":"b4ce7dba60ddcbdcbc62be3d0067a3a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049963,
+            "localadmin_id":1108830009,
+            "locality_id":1125776149,
+            "macroregion_id":404227357,
+            "region_id":85681733
+        }
+    ],
+    "wof:id":1125776149,
+    "wof:lastmodified":1513899321,
+    "wof:name":"Huise",
+    "wof:parent_id":1108830009,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.59096,
+    50.90059,
+    3.59096,
+    50.90059
+],
+  "geometry": {"coordinates":[3.59096,50.90059],"type":"Point"}
+}

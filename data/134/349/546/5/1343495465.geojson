@@ -1,0 +1,76 @@
+{
+  "id": 1343495465,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.42313,50.33219,4.42313,50.33219",
+    "geom:latitude":50.33219,
+    "geom:longitude":4.42313,
+    "gn:admin1_code":"WAL",
+    "gn:admin2_code":"WHT",
+    "gn:admin3_code":"56.0",
+    "gn:admin4_code":"56086.0",
+    "gn:asciiname":"Cheneau",
+    "gn:country_code":"BE",
+    "gn:dem":193,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2800397,
+    "gn:latitude":50.33219,
+    "gn:longitude":4.42313,
+    "gn:modification_date":"2017-03-25",
+    "gn:name":"Ch\u00eaneau",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ch\u00eanau",
+        "Ch\u00eaneau"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681723,
+        102191581,
+        85632997,
+        404227353,
+        102049923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2800397
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"75565a8cc768af6e8d193417828ba4d4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049923,
+            "locality_id":1343495465,
+            "macroregion_id":404227353,
+            "region_id":85681723
+        }
+    ],
+    "wof:id":1343495465,
+    "wof:lastmodified":1537587061,
+    "wof:name":"Cheneau",
+    "wof:parent_id":102049923,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.42313,
+    50.33219,
+    4.42313,
+    50.33219
+],
+  "geometry": {"coordinates":[4.42313,50.33219],"type":"Point"}
+}

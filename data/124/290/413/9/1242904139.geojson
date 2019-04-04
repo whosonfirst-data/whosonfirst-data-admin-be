@@ -1,0 +1,72 @@
+{
+  "id": 1242904139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.77571,50.34402,4.77571,50.34402",
+    "geom:latitude":50.34402,
+    "geom:longitude":4.77571,
+    "gn:admin1_code":"WAL",
+    "gn:admin2_code":"WNA",
+    "gn:admin3_code":"92.0",
+    "gn:admin4_code":"92101.0",
+    "gn:asciiname":"Neffe",
+    "gn:country_code":"BE",
+    "gn:dem":206,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2790337,
+    "gn:latitude":50.34402,
+    "gn:longitude":4.77571,
+    "gn:modification_date":"2017-03-25",
+    "gn:name":"Neffe",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681699,
+        102191581,
+        85632997,
+        404227353,
+        102049931
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2790337
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"1ceeb889e2a797f2cb849055fda9a1f5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049931,
+            "locality_id":1242904139,
+            "macroregion_id":404227353,
+            "region_id":85681699
+        }
+    ],
+    "wof:id":1242904139,
+    "wof:lastmodified":1537087272,
+    "wof:name":"Neffe",
+    "wof:parent_id":102049931,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.77571,
+    50.34402,
+    4.77571,
+    50.34402
+],
+  "geometry": {"coordinates":[4.77571,50.34402],"type":"Point"}
+}

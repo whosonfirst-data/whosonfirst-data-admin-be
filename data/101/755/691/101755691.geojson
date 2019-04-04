@@ -1,0 +1,98 @@
+{
+  "id": 101755691,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000115,
+    "geom:area_square_m":892735.196676,
+    "geom:bbox":"3.72043966872,51.1446891735,3.74051120706,51.1609682032",
+    "geom:latitude":51.155413,
+    "geom:longitude":3.731267,
+    "iso:country":"BE",
+    "lbl:latitude":51.156994,
+    "lbl:longitude":3.731951,
+    "mps:latitude":51.156994,
+    "mps:longitude":3.731951,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Kluizen"
+    ],
+    "name:eng_x_preferred":[
+        "Kluizen"
+    ],
+    "name:fre_x_preferred":[
+        "Kluizen"
+    ],
+    "name:hun_x_preferred":[
+        "Kluizen"
+    ],
+    "name:unk_x_variant":[
+        "Cluysen"
+    ],
+    "qs:a0":"Belgi\u00eb#Belgique#Belgien",
+    "qs:a1":"*Oost-Vlanderen",
+    "qs:a1r":"0Vlaams Gewest",
+    "qs:a2":"Gent",
+    "qs:adm0":"Belgi\u00eb#Belgique#Belgien",
+    "qs:la":"Kalmthout",
+    "qs:la_lc":"*BE211022",
+    "qs:level":"locality",
+    "qs:loc":"Kluizen",
+    "qs:loc_alt":"Kluizen",
+    "qs:pop":0,
+    "qs:source":"LCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"suburbs point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        85681733,
+        102191581,
+        1108830413,
+        85632997,
+        404227357,
+        102049989
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2794227,
+        "gp:id":972174,
+        "qs:id":1162194,
+        "qs_pg:id":1162194,
+        "wd:id":"Q1855948"
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"9b515509e54bdc0e87a263ca8fd2520b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049989,
+            "localadmin_id":1108830413,
+            "locality_id":101755691,
+            "macroregion_id":404227357,
+            "region_id":85681733
+        }
+    ],
+    "wof:id":101755691,
+    "wof:lastmodified":1513899339,
+    "wof:name":"Kluizen",
+    "wof:parent_id":1108830413,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.72043966872161,
+    51.1446891734567,
+    3.74051120705627,
+    51.16096820323816
+],
+  "geometry": {"coordinates":[[[3.73353368625499,51.14545887905217],[3.72933329286207,51.1446891734567],[3.7291504402765,51.14603130270359],[3.73057506027323,51.14610832963206],[3.73020923993994,51.1487935205875],[3.73163394639335,51.14887053521011],[3.73114621335645,51.15245079173548],[3.72972139743575,51.15237377024903],[3.72935545399912,51.15505895378732],[3.72365590560463,51.15475067268056],[3.72353380323926,51.15564572628438],[3.72068400055815,51.15549147755559],[3.72043966872161,51.15728157682867],[3.72613951058997,51.15759001820584],[3.72577329731763,51.16027518508736],[3.73859893669947,51.16096820323816],[3.73896441071975,51.15828299002408],[3.74038942147467,51.15835989960181],[3.74051120705627,51.15746482611195],[3.73623627003093,51.15723405014654],[3.73635813188912,51.15633898144716],[3.73493318899477,51.15626202292441],[3.73529882154514,51.1535768198558],[3.73387396514164,51.15349984902133],[3.73460523629194,51.14812944364809],[3.73318054846254,51.14805246564885],[3.73353368625499,51.14545887905217]]],"type":"Polygon"}
+}

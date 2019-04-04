@@ -1,0 +1,76 @@
+{
+  "id": 1125334111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2017-05-19",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.486785,51.090801,3.486785,51.090801",
+    "geom:latitude":51.090801,
+    "geom:longitude":3.486785,
+    "gn:gn_country":null,
+    "iso:country":"BE",
+    "lbl:latitude":51.090801,
+    "lbl:longitude":3.486785,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"BE",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Aalter",
+    "qs_pg:name_adm0":"Belgique",
+    "qs_pg:name_adm1":"Oost-Vlaanderen",
+    "qs_pg:photos":184,
+    "qs_pg:photos_1k":37,
+    "qs_pg:photos_9k":5,
+    "qs_pg:photos_9r":7,
+    "qs_pg:photos_all":1121,
+    "qs_pg:photos_sr":4,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1119240,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
+    "qs_pg:woe_adm0":23424757,
+    "qs_pg:woe_id":12602290,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424757,
+    "woe:name_adm0":"Belgique",
+    "woe:name_adm1":"Oost-Vlaanderen",
+    "woe:placetype":"LocalAdmin",
+    "wof:belongsto":[
+        85632997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12602290,
+        "qs_pg:id":1119240
+    },
+    "wof:country":"BE",
+    "wof:created":1497045300,
+    "wof:geomhash":"0d7dfd9a424bb6120bde8a414b4d8411",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "localadmin_id":1125334111
+        }
+    ],
+    "wof:id":1125334111,
+    "wof:lastmodified":1505248064,
+    "wof:name":"Aalter",
+    "wof:parent_id":-1,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.486785,
+    51.090801,
+    3.486785,
+    51.090801
+],
+  "geometry": {"coordinates":[3.486785,51.090801],"type":"Point"}
+}

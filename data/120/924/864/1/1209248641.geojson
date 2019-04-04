@@ -1,0 +1,64 @@
+{
+  "id": 1209248641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.71819,50.58847,3.71819,50.58847",
+    "geom:latitude":50.58847,
+    "geom:longitude":3.71819,
+    "gn:admin1_code":"WAL",
+    "gn:admin2_code":"WHT",
+    "gn:admin3_code":"51.0",
+    "gn:admin4_code":"51004.0",
+    "gn:asciiname":"Autreppe",
+    "gn:country_code":"BE",
+    "gn:dem":54,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2802907,
+    "gn:latitude":50.58847,
+    "gn:longitude":3.71819,
+    "gn:modification_date":"2017-03-25",
+    "gn:name":"Autreppe",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2802907
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"bd118706804e45fb6eaf63998bd4ad72",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "locality_id":1209248641
+        }
+    ],
+    "wof:id":1209248641,
+    "wof:lastmodified":1536293078,
+    "wof:name":"Autreppe",
+    "wof:parent_id":85632997,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.71819,
+    50.58847,
+    3.71819,
+    50.58847
+],
+  "geometry": {"coordinates":[3.71819,50.58847],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1293525401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.0745,50.51135,6.0745,50.51135",
+    "geom:latitude":50.51135,
+    "geom:longitude":6.0745,
+    "gn:admin1_code":"WAL",
+    "gn:admin2_code":"WLG",
+    "gn:admin3_code":"63.0",
+    "gn:admin4_code":"63080.0",
+    "gn:asciiname":"Mont Rigi",
+    "gn:cc2":"BE",
+    "gn:country_code":"BE",
+    "gn:dem":675,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2790776,
+    "gn:latitude":50.51135,
+    "gn:longitude":6.0745,
+    "gn:modification_date":"2017-03-25",
+    "gn:name":"Mont Rigi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Monte-Rigi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681691,
+        102191581,
+        85632997,
+        404227353,
+        102049935
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2790776
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"d95748e38ba4910d0e674aa42f36f347",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049935,
+            "locality_id":1293525401,
+            "macroregion_id":404227353,
+            "region_id":85681691
+        }
+    ],
+    "wof:id":1293525401,
+    "wof:lastmodified":1537586961,
+    "wof:name":"Mont Rigi",
+    "wof:parent_id":102049935,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.0745,
+    50.51135,
+    6.0745,
+    50.51135
+],
+  "geometry": {"coordinates":[6.0745,50.51135],"type":"Point"}
+}

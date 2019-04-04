@@ -1,0 +1,72 @@
+{
+  "id": 1225879125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.73923,50.37257,5.73923,50.37257",
+    "geom:latitude":50.37257,
+    "geom:longitude":5.73923,
+    "gn:admin1_code":"WAL",
+    "gn:admin2_code":"WLG",
+    "gn:admin3_code":"63.0",
+    "gn:admin4_code":"63075.0",
+    "gn:asciiname":"Chauveheid",
+    "gn:country_code":"BE",
+    "gn:dem":310,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2800422,
+    "gn:latitude":50.37257,
+    "gn:longitude":5.73923,
+    "gn:modification_date":"2017-03-25",
+    "gn:name":"Chauveheid",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681691,
+        102191581,
+        85632997,
+        404227353,
+        102049935
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2800422
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"e8ded50cf260970a4c8f89cb8d4f5d90",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049935,
+            "locality_id":1225879125,
+            "macroregion_id":404227353,
+            "region_id":85681691
+        }
+    ],
+    "wof:id":1225879125,
+    "wof:lastmodified":1536965335,
+    "wof:name":"Chauveheid",
+    "wof:parent_id":102049935,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.73923,
+    50.37257,
+    5.73923,
+    50.37257
+],
+  "geometry": {"coordinates":[5.73923,50.37257],"type":"Point"}
+}

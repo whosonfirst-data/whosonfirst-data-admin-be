@@ -1,0 +1,72 @@
+{
+  "id": 1309840187,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.40402,50.53905,3.40402,50.53905",
+    "geom:latitude":50.53905,
+    "geom:longitude":3.40402,
+    "gn:admin1_code":"WAL",
+    "gn:admin2_code":"WHT",
+    "gn:admin3_code":"57.0",
+    "gn:admin4_code":"57018.0",
+    "gn:asciiname":"Jollain-Merlin",
+    "gn:country_code":"BE",
+    "gn:dem":26,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2794885,
+    "gn:latitude":50.53905,
+    "gn:longitude":3.40402,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Jollain-Merlin",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681723,
+        102191581,
+        85632997,
+        404227353,
+        102049951
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2794885
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"305ebf6a11fd75bf73230498c2e1d4d3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049951,
+            "locality_id":1309840187,
+            "macroregion_id":404227353,
+            "region_id":85681723
+        }
+    ],
+    "wof:id":1309840187,
+    "wof:lastmodified":1536880852,
+    "wof:name":"Jollain-Merlin",
+    "wof:parent_id":102049951,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.40402,
+    50.53905,
+    3.40402,
+    50.53905
+],
+  "geometry": {"coordinates":[3.40402,50.53905],"type":"Point"}
+}

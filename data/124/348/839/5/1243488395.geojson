@@ -1,0 +1,72 @@
+{
+  "id": 1243488395,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.22659,50.37623,6.22659,50.37623",
+    "geom:latitude":50.37623,
+    "geom:longitude":6.22659,
+    "gn:admin1_code":"WAL",
+    "gn:admin2_code":"WLG",
+    "gn:admin3_code":"63.0",
+    "gn:admin4_code":"63001.0",
+    "gn:asciiname":"Hepscheid",
+    "gn:country_code":"BE",
+    "gn:dem":526,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2796046,
+    "gn:latitude":50.37623,
+    "gn:longitude":6.22659,
+    "gn:modification_date":"2017-03-25",
+    "gn:name":"Hepscheid",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681691,
+        102191581,
+        85632997,
+        404227353,
+        102049935
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2796046
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"8345f1d2bcdf10f366a9037fbedca6f5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049935,
+            "locality_id":1243488395,
+            "macroregion_id":404227353,
+            "region_id":85681691
+        }
+    ],
+    "wof:id":1243488395,
+    "wof:lastmodified":1536744750,
+    "wof:name":"Hepscheid",
+    "wof:parent_id":102049935,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.22659,
+    50.37623,
+    6.22659,
+    50.37623
+],
+  "geometry": {"coordinates":[6.22659,50.37623],"type":"Point"}
+}

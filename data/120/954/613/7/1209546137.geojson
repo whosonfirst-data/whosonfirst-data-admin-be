@@ -1,0 +1,69 @@
+{
+  "id": 1209546137,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.8211,50.81646,3.8211,50.81646",
+    "geom:latitude":50.81646,
+    "geom:longitude":3.8211,
+    "gn:admin1_code":"VLG",
+    "gn:admin2_code":"VOV",
+    "gn:admin3_code":"45.0",
+    "gn:admin4_code":"45063.0",
+    "gn:asciiname":"Kaudenberg",
+    "gn:country_code":"BE",
+    "gn:dem":61,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2794636,
+    "gn:latitude":50.81646,
+    "gn:longitude":3.8211,
+    "gn:modification_date":"2016-08-02",
+    "gn:name":"Kaudenberg",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Caudenberg",
+        "Koudenberg",
+        "Kaudenberg"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2794636
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"08ef91cfdce58a0509a11f907afe7ed8",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "locality_id":1209546137
+        }
+    ],
+    "wof:id":1209546137,
+    "wof:lastmodified":1537587005,
+    "wof:name":"Kaudenberg",
+    "wof:parent_id":85632997,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.8211,
+    50.81646,
+    3.8211,
+    50.81646
+],
+  "geometry": {"coordinates":[3.8211,50.81646],"type":"Point"}
+}

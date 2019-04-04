@@ -1,0 +1,68 @@
+{
+  "id": 1209042979,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.00322,50.38287,5.00322,50.38287",
+    "geom:latitude":50.38287,
+    "geom:longitude":5.00322,
+    "gn:admin1_code":"WAL",
+    "gn:admin2_code":"WNA",
+    "gn:admin3_code":"92.0",
+    "gn:admin4_code":"92006.0",
+    "gn:asciiname":"Corioule",
+    "gn:country_code":"BE",
+    "gn:dem":280,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2800129,
+    "gn:latitude":50.38287,
+    "gn:longitude":5.00322,
+    "gn:modification_date":"2017-03-25",
+    "gn:name":"Corioule",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Corioulle",
+        "Corioule"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2800129
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"cf0d40b10419b007bda27d71f65418de",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "locality_id":1209042979
+        }
+    ],
+    "wof:id":1209042979,
+    "wof:lastmodified":1537587060,
+    "wof:name":"Corioule",
+    "wof:parent_id":85632997,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.00322,
+    50.38287,
+    5.00322,
+    50.38287
+],
+  "geometry": {"coordinates":[5.00322,50.38287],"type":"Point"}
+}

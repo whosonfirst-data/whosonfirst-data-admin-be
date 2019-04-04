@@ -1,0 +1,76 @@
+{
+  "id": 1259913693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.273,50.13135,5.273,50.13135",
+    "geom:latitude":50.13135,
+    "geom:longitude":5.273,
+    "gn:admin1_code":"WAL",
+    "gn:admin2_code":"WLX",
+    "gn:admin3_code":"83.0",
+    "gn:admin4_code":"83040.0",
+    "gn:asciiname":"Forrieres-Saint-Martin",
+    "gn:country_code":"BE",
+    "gn:dem":228,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2798115,
+    "gn:latitude":50.13135,
+    "gn:longitude":5.273,
+    "gn:modification_date":"2017-03-25",
+    "gn:name":"Forri\u00e8res-Saint-Martin",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Saint-Martin",
+        "Forri\u00e8res-Saint-Martin"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681727,
+        102191581,
+        85632997,
+        404227353,
+        102049921
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2798115
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"ee0141ea20f46f4f7777a2058f64e510",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049921,
+            "locality_id":1259913693,
+            "macroregion_id":404227353,
+            "region_id":85681727
+        }
+    ],
+    "wof:id":1259913693,
+    "wof:lastmodified":1537587039,
+    "wof:name":"Forrieres-Saint-Martin",
+    "wof:parent_id":102049921,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.273,
+    50.13135,
+    5.273,
+    50.13135
+],
+  "geometry": {"coordinates":[5.273,50.13135],"type":"Point"}
+}

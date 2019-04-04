@@ -1,0 +1,84 @@
+{
+  "id": 1125368761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2017-05-19",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.99092,50.88525,3.99092,50.88525",
+    "geom:latitude":50.88525,
+    "geom:longitude":3.99092,
+    "gn:gn_country":"BE",
+    "gn:gn_fcode":"ADM4",
+    "gn:gn_pop":17648,
+    "gn:population":17648,
+    "iso:country":"BE",
+    "lbl:latitude":50.88525,
+    "lbl:longitude":3.99092,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bul_x_preferred":[
+        "\u0425\u0430\u043b\u0442\u0435\u0440\u0442"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0644\u062a\u0631"
+    ],
+    "name:unk_x_variant":[
+        "Haeltert"
+    ],
+    "name:zho_x_preferred":[
+        "\u54c8\u5c14\u6cf0\u7279"
+    ],
+    "qs_pg:aaroncc":"BE",
+    "qs_pg:gn_country":"BE",
+    "qs_pg:gn_fcode":"ADM4",
+    "qs_pg:gn_id":2796834,
+    "qs_pg:gn_pop":17648,
+    "qs_pg:name":"Haaltert",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":6,
+    "qs_pg:qs_id":92695,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85632997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2796834,
+        "qs_pg:id":92695
+    },
+    "wof:country":"BE",
+    "wof:created":1497047250,
+    "wof:geomhash":"b1462d2a195f9a70fa50ede06a177cf3",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "localadmin_id":1125368761
+        }
+    ],
+    "wof:id":1125368761,
+    "wof:lastmodified":1505185644,
+    "wof:name":"Haaltert",
+    "wof:parent_id":-1,
+    "wof:placetype":"localadmin",
+    "wof:population":17648,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.99092,
+    50.88525,
+    3.99092,
+    50.88525
+],
+  "geometry": {"coordinates":[3.99092,50.88525],"type":"Point"}
+}

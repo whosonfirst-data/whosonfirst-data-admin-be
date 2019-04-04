@@ -1,0 +1,72 @@
+{
+  "id": 1293235727,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.64756,50.68025,4.64756,50.68025",
+    "geom:latitude":50.68025,
+    "geom:longitude":4.64756,
+    "gn:admin1_code":"WAL",
+    "gn:admin2_code":"WBR",
+    "gn:admin3_code":"25.0",
+    "gn:admin4_code":"25018.0",
+    "gn:asciiname":"Vieux Sart",
+    "gn:country_code":"BE",
+    "gn:dem":102,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2784733,
+    "gn:latitude":50.68025,
+    "gn:longitude":4.64756,
+    "gn:modification_date":"2017-03-25",
+    "gn:name":"Vieux Sart",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681693,
+        102191581,
+        85632997,
+        404227353,
+        102049945
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2784733
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"0df674a5ef9588e13510a89fac5cc120",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049945,
+            "locality_id":1293235727,
+            "macroregion_id":404227353,
+            "region_id":85681693
+        }
+    ],
+    "wof:id":1293235727,
+    "wof:lastmodified":1536652939,
+    "wof:name":"Vieux Sart",
+    "wof:parent_id":102049945,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.64756,
+    50.68025,
+    4.64756,
+    50.68025
+],
+  "geometry": {"coordinates":[4.64756,50.68025],"type":"Point"}
+}

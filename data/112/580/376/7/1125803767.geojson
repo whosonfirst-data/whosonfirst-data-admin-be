@@ -1,0 +1,89 @@
+{
+  "id": 1125803767,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.01107,50.71809,6.01107,50.71809",
+    "geom:latitude":50.71809,
+    "geom:longitude":6.01107,
+    "gn:gn_country":"BE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":10232,
+    "gn:population":10232,
+    "iso:country":"BE",
+    "lbl:latitude":50.71809,
+    "lbl:longitude":6.01107,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:deu_x_preferred":[
+        "Kelmis"
+    ],
+    "name:fra_x_preferred":[
+        "La Calamine"
+    ],
+    "name:wln_x_preferred":[
+        "Calm\u00e8ne"
+    ],
+    "qs_pg:aaroncc":"BE",
+    "qs_pg:gn_country":"BE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2793722,
+    "qs_pg:gn_pop":10232,
+    "qs_pg:name":"La Calamine",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":6,
+    "qs_pg:qs_id":1243812,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681691,
+        102191581,
+        85632997,
+        404227353,
+        102049935
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2793722,
+        "qs_pg:id":1243812
+    },
+    "wof:country":"BE",
+    "wof:created":1497291379,
+    "wof:geomhash":"25e4289226efcd62f00a31d702a4488f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049935,
+            "locality_id":1125803767,
+            "macroregion_id":404227353,
+            "region_id":85681691
+        }
+    ],
+    "wof:id":1125803767,
+    "wof:lastmodified":1509393168,
+    "wof:name":"La Calamine",
+    "wof:parent_id":102049935,
+    "wof:placetype":"locality",
+    "wof:population":10232,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.01107,
+    50.71809,
+    6.01107,
+    50.71809
+],
+  "geometry": {"coordinates":[6.01107,50.71809],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1343394985,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.19866,50.03915,4.19866,50.03915",
+    "geom:latitude":50.03915,
+    "geom:longitude":4.19866,
+    "gn:admin1_code":"WAL",
+    "gn:admin2_code":"WHT",
+    "gn:admin3_code":"56.0",
+    "gn:admin4_code":"56051.0",
+    "gn:asciiname":"Haies-de-Macon",
+    "gn:country_code":"BE",
+    "gn:dem":251,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2796749,
+    "gn:latitude":50.03915,
+    "gn:longitude":4.19866,
+    "gn:modification_date":"2017-03-25",
+    "gn:name":"Haies-de-Macon",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Les Haies",
+        "Haies-de-Macon"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681723,
+        102191581,
+        85632997,
+        404227353,
+        102049923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2796749
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"58f69aececce653f30e47b863f936360",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049923,
+            "locality_id":1343394985,
+            "macroregion_id":404227353,
+            "region_id":85681723
+        }
+    ],
+    "wof:id":1343394985,
+    "wof:lastmodified":1537587026,
+    "wof:name":"Haies-de-Macon",
+    "wof:parent_id":102049923,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.19866,
+    50.03915,
+    4.19866,
+    50.03915
+],
+  "geometry": {"coordinates":[4.19866,50.03915],"type":"Point"}
+}

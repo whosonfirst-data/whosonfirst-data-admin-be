@@ -1,0 +1,100 @@
+{
+  "id": 101810471,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000113,
+    "geom:area_square_m":886943.114887,
+    "geom:bbox":"5.56401455912,50.5005853179,5.59191004644,50.5110507917",
+    "geom:latitude":50.506268,
+    "geom:longitude":5.576147,
+    "iso:country":"BE",
+    "lbl:latitude":50.505352,
+    "lbl:longitude":5.574034,
+    "mps:latitude":50.505352,
+    "mps:longitude":5.574034,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Poulseur"
+    ],
+    "name:eng_x_preferred":[
+        "Poulseur"
+    ],
+    "name:fra_x_preferred":[
+        "Poulseur"
+    ],
+    "name:fre_x_preferred":[
+        "Poulseur"
+    ],
+    "name:hun_x_preferred":[
+        "Poulseur"
+    ],
+    "qs:a0":"Belgi\u00eb#Belgique#Belgien",
+    "qs:a1":"*Li\u00e8ge",
+    "qs:a1r":"0R\u00e9gion wallone",
+    "qs:a2":"Li\u00e8ge",
+    "qs:adm0":"Belgi\u00eb#Belgique#Belgien",
+    "qs:la":"Esneux",
+    "qs:la_lc":"*BE362032",
+    "qs:level":"locality",
+    "qs:loc":"Poulseur",
+    "qs:loc_alt":"Poulseur",
+    "qs:pop":0,
+    "qs:source":"LCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        85681691,
+        102191581,
+        85632997,
+        404227353,
+        102049941
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"036c0318-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2788666,
+        "gp:id":975857,
+        "qs:id":1169849,
+        "qs_pg:id":1169849,
+        "wd:id":"Q1850990"
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"e351da96f4f3a39f678d3d4688eec55d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049941,
+            "locality_id":101810471,
+            "macroregion_id":404227353,
+            "region_id":85681691
+        }
+    ],
+    "wof:id":101810471,
+    "wof:lang":[
+        "fre"
+    ],
+    "wof:lastmodified":1513899464,
+    "wof:name":"Poulseur",
+    "wof:parent_id":102049941,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.56401455911794,
+    50.50058531790489,
+    5.59191004644401,
+    50.51105079169128
+],
+  "geometry": {"coordinates":[[[5.58172074482894,50.51105079169128],[5.58180498774931,50.51015365867062],[5.5860276473569,50.51031614880128],[5.58611180626752,50.5094190119213],[5.59174195395923,50.50963541932532],[5.59191004644401,50.50784113518523],[5.58628011211107,50.50762473725592],[5.58636425904422,50.50672759947037],[5.58495680954843,50.50667345807483],[5.58487263594753,50.50757059467537],[5.57924276100107,50.50735385196128],[5.57932704126949,50.50645672010501],[5.57791960663064,50.50640249251603],[5.57825679437769,50.50281396681635],[5.57262751217746,50.5025969030803],[5.57271190575602,50.50169977564997],[5.56989733583237,50.50159114273845],[5.5699817787231,50.50069401738273],[5.56716727402909,50.50058531790489],[5.56708277782423,50.50148244088149],[5.56567550329032,50.50142806409877],[5.56559097641934,50.50232518558215],[5.56418367820908,50.50227079037279],[5.56401455911794,50.50406503004928],[5.56823662265259,50.50422817110939],[5.56798315389801,50.50691953906471],[5.56939059436189,50.50697388851216],[5.56930612342677,50.50787101174831],[5.57493602174145,50.50808824190693],[5.57485165346975,50.50898536959591],[5.57625916216068,50.50903963522558],[5.57609046695001,50.51083389207247],[5.58172074482894,50.51105079169128]]],"type":"Polygon"}
+}

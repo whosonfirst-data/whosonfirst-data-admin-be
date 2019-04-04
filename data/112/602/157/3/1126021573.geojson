@@ -1,0 +1,108 @@
+{
+  "id": 1126021573,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.04032,50.9741,5.04032,50.9741",
+    "geom:latitude":50.9741,
+    "geom:longitude":5.04032,
+    "gn:gn_country":"BE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"BE",
+    "lbl:latitude":50.9741,
+    "lbl:longitude":5.04032,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Webbekom"
+    ],
+    "name:eng_x_preferred":[
+        "Webbekom"
+    ],
+    "name:fre_x_preferred":[
+        "Webbekom"
+    ],
+    "name:hun_x_preferred":[
+        "Webbekom"
+    ],
+    "name:unk_x_variant":[
+        "Webbecon"
+    ],
+    "qs_pg:aaroncc":"BE",
+    "qs_pg:gn_country":"BE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2783926,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Webbekom",
+    "qs_pg:name_adm0":"Belgique",
+    "qs_pg:name_adm1":"Vlaams Brabant",
+    "qs_pg:photos":11,
+    "qs_pg:photos_1k":2,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":11,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":324765,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424757,
+    "qs_pg:woe_id":978744,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424757,
+    "woe:name_adm0":"Belgique",
+    "woe:name_adm1":"Vlaams Brabant",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85681731,
+        102191581,
+        1108830307,
+        85632997,
+        404227357,
+        102049969
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2783926,
+        "gp:id":978744,
+        "qs_pg:id":324765,
+        "wd:id":"Q2171339"
+    },
+    "wof:country":"BE",
+    "wof:created":1497300864,
+    "wof:geomhash":"b5d8932040004579e688a9b12571caea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049969,
+            "localadmin_id":1108830307,
+            "locality_id":1126021573,
+            "macroregion_id":404227357,
+            "region_id":85681731
+        }
+    ],
+    "wof:id":1126021573,
+    "wof:lastmodified":1513899575,
+    "wof:name":"Webbekom",
+    "wof:parent_id":1108830307,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.04032,
+    50.9741,
+    5.04032,
+    50.9741
+],
+  "geometry": {"coordinates":[5.04032,50.9741],"type":"Point"}
+}

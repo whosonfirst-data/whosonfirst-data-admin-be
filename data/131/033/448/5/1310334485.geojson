@@ -1,0 +1,78 @@
+{
+  "id": 1310334485,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.7279,50.89903,4.7279,50.89903",
+    "geom:latitude":50.89903,
+    "geom:longitude":4.7279,
+    "gn:admin1_code":"VLG",
+    "gn:admin2_code":"VBR",
+    "gn:admin3_code":"24.0",
+    "gn:admin4_code":"24062.0",
+    "gn:asciiname":"Beneden Kessel",
+    "gn:country_code":"BE",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2802266,
+    "gn:latitude":50.89903,
+    "gn:longitude":4.7279,
+    "gn:modification_date":"2016-08-02",
+    "gn:name":"Beneden Kessel",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kessel",
+        "Beneden Kessel"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681731,
+        102191581,
+        1108830125,
+        85632997,
+        404227357,
+        102049969
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2802266
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"312d7079ba29c710a55ce2309ed47d06",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049969,
+            "localadmin_id":1108830125,
+            "locality_id":1310334485,
+            "macroregion_id":404227357,
+            "region_id":85681731
+        }
+    ],
+    "wof:id":1310334485,
+    "wof:lastmodified":1537587078,
+    "wof:name":"Beneden Kessel",
+    "wof:parent_id":1108830125,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.7279,
+    50.89903,
+    4.7279,
+    50.89903
+],
+  "geometry": {"coordinates":[4.7279,50.89903],"type":"Point"}
+}

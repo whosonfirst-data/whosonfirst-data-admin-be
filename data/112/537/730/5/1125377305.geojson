@@ -1,0 +1,87 @@
+{
+  "id": 1125377305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2017-05-19",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.3651,50.84262,3.3651,50.84262",
+    "geom:latitude":50.84262,
+    "geom:longitude":3.3651,
+    "gn:gn_country":"BE",
+    "gn:gn_fcode":"ADM4",
+    "gn:gn_pop":11272,
+    "gn:population":11272,
+    "iso:country":"BE",
+    "lbl:latitude":50.84262,
+    "lbl:longitude":3.3651,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bul_x_preferred":[
+        "\u0414\u0435\u0440\u043b\u0435\u0439\u043a"
+    ],
+    "name:fas_x_preferred":[
+        "\u062f\u0626\u0631\u0644\u06cc\u0698\u06a9"
+    ],
+    "name:unk_x_variant":[
+        "Deerlyck"
+    ],
+    "name:vls_x_preferred":[
+        "Deirlyk"
+    ],
+    "name:zho_x_preferred":[
+        "\u4ee3\u5c14\u83b1\u514b"
+    ],
+    "qs_pg:aaroncc":"BE",
+    "qs_pg:gn_country":"BE",
+    "qs_pg:gn_fcode":"ADM4",
+    "qs_pg:gn_id":2799798,
+    "qs_pg:gn_pop":11272,
+    "qs_pg:name":"Deerlijk",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":6,
+    "qs_pg:qs_id":92723,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85632997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2799798,
+        "qs_pg:id":92723
+    },
+    "wof:country":"BE",
+    "wof:created":1497047831,
+    "wof:geomhash":"a65a856fe1915a14ba97453f3f4ce1ef",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "localadmin_id":1125377305
+        }
+    ],
+    "wof:id":1125377305,
+    "wof:lastmodified":1505185645,
+    "wof:name":"Deerlijk",
+    "wof:parent_id":-1,
+    "wof:placetype":"localadmin",
+    "wof:population":11272,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.3651,
+    50.84262,
+    3.3651,
+    50.84262
+],
+  "geometry": {"coordinates":[3.3651,50.84262],"type":"Point"}
+}

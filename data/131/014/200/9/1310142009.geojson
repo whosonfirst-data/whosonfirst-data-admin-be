@@ -1,0 +1,72 @@
+{
+  "id": 1310142009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.02244,51.24954,4.02244,51.24954",
+    "geom:latitude":51.24954,
+    "geom:longitude":4.02244,
+    "gn:admin1_code":"VLG",
+    "gn:admin2_code":"VOV",
+    "gn:asciiname":"Heikant",
+    "gn:country_code":"BE",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2796204,
+    "gn:latitude":51.24954,
+    "gn:longitude":4.02244,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Heikant",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hiekant",
+        "Heikant"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        404474307,
+        85633337,
+        85687037
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2796204
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"c6bedfd12eefad578f54ee4c48512422",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633337,
+            "localadmin_id":404474307,
+            "locality_id":1310142009,
+            "region_id":85687037
+        }
+    ],
+    "wof:id":1310142009,
+    "wof:lastmodified":1537587021,
+    "wof:name":"Heikant",
+    "wof:parent_id":404474307,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.02244,
+    51.24954,
+    4.02244,
+    51.24954
+],
+  "geometry": {"coordinates":[4.02244,51.24954],"type":"Point"}
+}

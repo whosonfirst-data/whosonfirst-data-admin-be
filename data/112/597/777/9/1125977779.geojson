@@ -1,0 +1,113 @@
+{
+  "id": 1125977779,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-15",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-15",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.81354,50.62426,4.81354,50.62426",
+    "geom:latitude":50.62426,
+    "geom:longitude":4.81354,
+    "gn:gn_country":"BE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":7340,
+    "gn:population":7340,
+    "iso:country":"BE",
+    "lbl:latitude":50.62426,
+    "lbl:longitude":4.81354,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:fas_x_preferred":[
+        "\u067e\u0631\u0648\u0626\u0647"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u0435\u0440\u0432\u0435"
+    ],
+    "name:unk_x_variant":[
+        "Perwijs"
+    ],
+    "name:wln_x_preferred":[
+        "Perw\u00e9"
+    ],
+    "name:zho_x_preferred":[
+        "\u4f69\u5c14\u97e6"
+    ],
+    "qs_pg:aaroncc":"BE",
+    "qs_pg:gn_country":"BE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2789156,
+    "qs_pg:gn_pop":7340,
+    "qs_pg:name":"Perwez",
+    "qs_pg:name_adm0":"Belgique",
+    "qs_pg:name_adm1":"Namur",
+    "qs_pg:photos":600,
+    "qs_pg:photos_1k":122,
+    "qs_pg:photos_9k":3,
+    "qs_pg:photos_9r":5,
+    "qs_pg:photos_all":600,
+    "qs_pg:photos_sr":8,
+    "qs_pg:pop_sr":5,
+    "qs_pg:qs_id":686496,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424757,
+    "qs_pg:woe_id":975525,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424757,
+    "woe:name_adm0":"Belgique",
+    "woe:name_adm1":"Namur",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85681693,
+        102191581,
+        85632997,
+        404227353,
+        102049945
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2789156,
+        "gp:id":975525,
+        "qs_pg:id":686496
+    },
+    "wof:country":"BE",
+    "wof:created":1497298417,
+    "wof:geomhash":"31583d966ddbff5e304e28d76e67e617",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049945,
+            "locality_id":1125977779,
+            "macroregion_id":404227353,
+            "region_id":85681693
+        }
+    ],
+    "wof:id":1125977779,
+    "wof:lastmodified":1534379234,
+    "wof:name":"Perwez",
+    "wof:parent_id":102049945,
+    "wof:placetype":"locality",
+    "wof:population":7340,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[
+        101811439
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.81354,
+    50.62426,
+    4.81354,
+    50.62426
+],
+  "geometry": {"coordinates":[4.81354,50.62426],"type":"Point"}
+}

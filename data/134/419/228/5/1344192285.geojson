@@ -1,0 +1,74 @@
+{
+  "id": 1344192285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.10662,51.20542,4.10662,51.20542",
+    "geom:latitude":51.20542,
+    "geom:longitude":4.10662,
+    "gn:admin1_code":"VLG",
+    "gn:admin2_code":"VOV",
+    "gn:admin3_code":"46.0",
+    "gn:admin4_code":"46020.0",
+    "gn:asciiname":"Grauwensteen",
+    "gn:country_code":"BE",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2797153,
+    "gn:latitude":51.20542,
+    "gn:longitude":4.10662,
+    "gn:modification_date":"2016-08-02",
+    "gn:name":"Grauwensteen",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681733,
+        102191581,
+        1108830193,
+        85632997,
+        404227357,
+        102049997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2797153
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"2fab3a979950a34ca90f104223618d8a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049997,
+            "localadmin_id":1108830193,
+            "locality_id":1344192285,
+            "macroregion_id":404227357,
+            "region_id":85681733
+        }
+    ],
+    "wof:id":1344192285,
+    "wof:lastmodified":1536685398,
+    "wof:name":"Grauwensteen",
+    "wof:parent_id":1108830193,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.10662,
+    51.20542,
+    4.10662,
+    51.20542
+],
+  "geometry": {"coordinates":[4.10662,51.20542],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1209549489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.96278,50.32194,5.96278,50.32194",
+    "geom:latitude":50.32194,
+    "geom:longitude":5.96278,
+    "gn:admin1_code":"WAL",
+    "gn:admin2_code":"WLX",
+    "gn:admin3_code":"82.0",
+    "gn:admin4_code":"82032.0",
+    "gn:asciiname":"Mon-le-Soie",
+    "gn:country_code":"BE",
+    "gn:dem":556,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2790785,
+    "gn:latitude":50.32194,
+    "gn:longitude":5.96278,
+    "gn:modification_date":"2017-03-25",
+    "gn:name":"Mon-le-Soie",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mont le Soie",
+        "Mon-le-Soie"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2790785
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"a17c72b8a3b783cedfa781095a9a313d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "locality_id":1209549489
+        }
+    ],
+    "wof:id":1209549489,
+    "wof:lastmodified":1537586961,
+    "wof:name":"Mon-le-Soie",
+    "wof:parent_id":85632997,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.96278,
+    50.32194000000001,
+    5.96278,
+    50.32194000000001
+],
+  "geometry": {"coordinates":[5.96278,50.32194000000001],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1209452127,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.12058,49.94309,5.12058,49.94309",
+    "geom:latitude":49.94309,
+    "geom:longitude":5.12058,
+    "gn:admin1_code":"WAL",
+    "gn:admin2_code":"WLX",
+    "gn:admin3_code":"84.0",
+    "gn:admin4_code":"84050.0",
+    "gn:asciiname":"Beth",
+    "gn:country_code":"BE",
+    "gn:dem":337,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2802086,
+    "gn:latitude":49.94309,
+    "gn:longitude":5.12058,
+    "gn:modification_date":"2017-03-25",
+    "gn:name":"Beth",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2802086
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"a0557ce58a4b8764266b536e494f53bf",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "locality_id":1209452127
+        }
+    ],
+    "wof:id":1209452127,
+    "wof:lastmodified":1536286640,
+    "wof:name":"Beth",
+    "wof:parent_id":85632997,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.12058,
+    49.94309000000001,
+    5.12058,
+    49.94309000000001
+],
+  "geometry": {"coordinates":[5.12058,49.94309000000001],"type":"Point"}
+}

@@ -1,0 +1,198 @@
+{
+  "id": 1125901795,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.12724,50.28146,6.12724,50.28146",
+    "geom:latitude":50.28146,
+    "geom:longitude":6.12724,
+    "gn:gn_country":"BE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":9135,
+    "gn:population":9135,
+    "iso:country":"BE",
+    "lbl:latitude":50.28146,
+    "lbl:longitude":6.12724,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:baq_x_preferred":[
+        "Sankt-Vith"
+    ],
+    "name:bre_x_preferred":[
+        "Sankt-Vith"
+    ],
+    "name:bul_x_preferred":[
+        "\u0421\u0430\u043d\u043a\u0442 \u0412\u0438\u0442"
+    ],
+    "name:cat_x_preferred":[
+        "Sankt-Vith"
+    ],
+    "name:chi_x_preferred":[
+        "\u5723\u7ef4\u7279"
+    ],
+    "name:cze_x_preferred":[
+        "Sankt Vith"
+    ],
+    "name:deu_x_preferred":[
+        "Sankt Vith"
+    ],
+    "name:dut_x_preferred":[
+        "Sankt Vith"
+    ],
+    "name:eng_x_preferred":[
+        "Sankt Vith"
+    ],
+    "name:epo_x_preferred":[
+        "Sankt-Vith"
+    ],
+    "name:fin_x_preferred":[
+        "Sankt Vith"
+    ],
+    "name:fra_x_preferred":[
+        "Saint-Vith"
+    ],
+    "name:fre_x_preferred":[
+        "Saint-Vith"
+    ],
+    "name:ger_x_preferred":[
+        "Sankt Vith"
+    ],
+    "name:hrv_x_preferred":[
+        "Sankt Vith"
+    ],
+    "name:hun_x_preferred":[
+        "Sankt Vith"
+    ],
+    "name:ita_x_preferred":[
+        "Sankt Vith"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b6\u30f3\u30af\u30c8\u30fb\u30d5\u30a3\u30fc\u30c8"
+    ],
+    "name:kor_x_preferred":[
+        "\uc7a5\ud06c\ud2b8\ud53c\ud2b8"
+    ],
+    "name:ksh_x_preferred":[
+        "Sankt Vith"
+    ],
+    "name:lim_x_preferred":[
+        "St. Vith"
+    ],
+    "name:ltz_x_preferred":[
+        "Sankt V\u00e4it"
+    ],
+    "name:nld_x_preferred":[
+        "Sankt Vith"
+    ],
+    "name:nob_x_preferred":[
+        "Sankt Vith"
+    ],
+    "name:oci_x_preferred":[
+        "Saint-Vith"
+    ],
+    "name:per_x_preferred":[
+        "\u0633\u0646 \u0648\u06cc\u062a"
+    ],
+    "name:pol_x_preferred":[
+        "St. Vith"
+    ],
+    "name:por_x_preferred":[
+        "Sankt Vith"
+    ],
+    "name:rum_x_preferred":[
+        "Sankt Vith"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0435\u043d-\u0412\u0438\u0442"
+    ],
+    "name:slo_x_preferred":[
+        "Sankt Vith"
+    ],
+    "name:slv_x_preferred":[
+        "St. Vith"
+    ],
+    "name:spa_x_preferred":[
+        "Sankt-Vith"
+    ],
+    "name:swe_x_preferred":[
+        "Saint-Vith"
+    ],
+    "name:unk_x_variant":[
+        "Sankt-Vith"
+    ],
+    "name:vie_x_preferred":[
+        "St. Vith"
+    ],
+    "name:vol_x_preferred":[
+        "Sankt Vith"
+    ],
+    "name:war_x_preferred":[
+        "St. Vith"
+    ],
+    "name:wln_x_preferred":[
+        "Sint-Vi"
+    ],
+    "qs_pg:aaroncc":"BE",
+    "qs_pg:gn_country":"BE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2787315,
+    "qs_pg:gn_pop":9135,
+    "qs_pg:name":"Saint-Vith",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":5,
+    "qs_pg:qs_id":279131,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681691,
+        102191581,
+        85632997,
+        404227353,
+        102049935
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2787315,
+        "qs_pg:id":279131,
+        "wd:id":"Q152748"
+    },
+    "wof:country":"BE",
+    "wof:created":1497295840,
+    "wof:geomhash":"0d64925e0af54308789985bd0b85d9ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049935,
+            "locality_id":1125901795,
+            "macroregion_id":404227353,
+            "region_id":85681691
+        }
+    ],
+    "wof:id":1125901795,
+    "wof:lastmodified":1513899487,
+    "wof:name":"Saint-Vith",
+    "wof:parent_id":102049935,
+    "wof:placetype":"locality",
+    "wof:population":9135,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.12724,
+    50.28146,
+    6.12724,
+    50.28146
+],
+  "geometry": {"coordinates":[6.12724,50.28146],"type":"Point"}
+}

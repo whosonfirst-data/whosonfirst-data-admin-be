@@ -1,0 +1,76 @@
+{
+  "id": 1243584529,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.38333,49.86667,5.38333,49.86667",
+    "geom:latitude":49.86667,
+    "geom:longitude":5.38333,
+    "gn:admin1_code":"WAL",
+    "gn:admin2_code":"WLX",
+    "gn:admin3_code":"84.0",
+    "gn:admin4_code":"84043.0",
+    "gn:asciiname":"Lohiepre",
+    "gn:country_code":"BE",
+    "gn:dem":410,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2792204,
+    "gn:latitude":49.86667,
+    "gn:longitude":5.38333,
+    "gn:modification_date":"2017-03-25",
+    "gn:name":"Lohi\u00e9pr\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lohier-Pr\u00e9",
+        "Lohi\u00e9pr\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681727,
+        102191581,
+        85632997,
+        404227353,
+        102049913
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2792204
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"af093aa1fd8f2fab966ad151f9cf0f51",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049913,
+            "locality_id":1243584529,
+            "macroregion_id":404227353,
+            "region_id":85681727
+        }
+    ],
+    "wof:id":1243584529,
+    "wof:lastmodified":1537586975,
+    "wof:name":"Lohiepre",
+    "wof:parent_id":102049913,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.38333,
+    49.86667,
+    5.38333,
+    49.86667
+],
+  "geometry": {"coordinates":[5.38333,49.86667],"type":"Point"}
+}

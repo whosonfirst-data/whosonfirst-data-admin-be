@@ -1,0 +1,64 @@
+{
+  "id": 1209035627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.65608,50.66479,3.65608,50.66479",
+    "geom:latitude":50.66479,
+    "geom:longitude":3.65608,
+    "gn:admin1_code":"WAL",
+    "gn:admin2_code":"WHT",
+    "gn:admin3_code":"51.0",
+    "gn:admin4_code":"51065.0",
+    "gn:asciiname":"Buissenal",
+    "gn:country_code":"BE",
+    "gn:dem":52,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2800805,
+    "gn:latitude":50.66479,
+    "gn:longitude":3.65608,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Buissenal",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2800805
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"e23833a8f6e7f6eb62387c761bd404fc",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "locality_id":1209035627
+        }
+    ],
+    "wof:id":1209035627,
+    "wof:lastmodified":1536299710,
+    "wof:name":"Buissenal",
+    "wof:parent_id":85632997,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.65608,
+    50.66479,
+    3.65608,
+    50.66479
+],
+  "geometry": {"coordinates":[3.65608,50.66479],"type":"Point"}
+}

@@ -1,0 +1,153 @@
+{
+  "id": 101837567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000586,
+    "geom:area_square_m":4542448.796309,
+    "geom:bbox":"4.23856786511,51.2033188003,4.26897732763,51.2314668919",
+    "geom:latitude":51.216315,
+    "geom:longitude":4.254576,
+    "gn:population":45179,
+    "iso:country":"BE",
+    "lbl:latitude":51.216049,
+    "lbl:longitude":4.254576,
+    "mps:latitude":51.216049,
+    "mps:longitude":4.254576,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0411\u0435\u0432\u0435\u0440\u0435\u043d"
+    ],
+    "name:cat_x_preferred":[
+        "Beveren"
+    ],
+    "name:deu_x_preferred":[
+        "Beveren"
+    ],
+    "name:dut_x_preferred":[
+        "Beveren"
+    ],
+    "name:eng_x_preferred":[
+        "Beveren"
+    ],
+    "name:epo_x_preferred":[
+        "Beveren"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u0648\u0648\u0631\u0627\u0646"
+    ],
+    "name:fra_x_preferred":[
+        "Beveren"
+    ],
+    "name:kor_x_preferred":[
+        "\ubca0\ubca0\ub7f0"
+    ],
+    "name:lit_x_preferred":[
+        "Beverenas"
+    ],
+    "name:nld_x_colloquial":[
+        "Beveren Waas"
+    ],
+    "name:nld_x_preferred":[
+        "Beveren"
+    ],
+    "name:nld_x_variant":[
+        "Beveren Waas"
+    ],
+    "name:nor_x_preferred":[
+        "Beveren"
+    ],
+    "name:pol_x_preferred":[
+        "Beveren"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0435\u0432\u0435\u0440\u0435\u043d"
+    ],
+    "name:spa_x_preferred":[
+        "Beveren"
+    ],
+    "name:srp_x_preferred":[
+        "\u0411\u0435\u0432\u0435\u0440\u0435\u043d"
+    ],
+    "name:unk_x_variant":[
+        "Beveren-Waes"
+    ],
+    "name:zho_x_preferred":[
+        "\u8d1d\u5f17\u4f26"
+    ],
+    "qs:a0":"Belgi\u00eb#Belgique#Belgien",
+    "qs:a1":"*Oost-Vlanderen",
+    "qs:a1r":"0Vlaams Gewest",
+    "qs:a2":"Sint-Niklaas",
+    "qs:adm0":"Belgi\u00eb#Belgique#Belgien",
+    "qs:la":"Beveren",
+    "qs:la_lc":"*BE246003",
+    "qs:level":"locality",
+    "qs:loc":"Beveren",
+    "qs:loc_alt":"Beveren",
+    "qs:pop":0,
+    "qs:source":"LCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-multi-in-poly-resolved",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":650,
+    "wof:belongsto":[
+        85681733,
+        102191581,
+        1108830621,
+        85632997,
+        404227357,
+        102049997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"0369675c-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2802031,
+        "gp:id":967272,
+        "qs:id":1086852,
+        "qs_pg:id":1086852,
+        "wd:id":"Q270644",
+        "wk:page":"Beveren"
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"70f9131b017e3bcd9ca6ca1782b40979",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049997,
+            "localadmin_id":1108830621,
+            "locality_id":101837567,
+            "macroregion_id":404227357,
+            "region_id":85681733
+        }
+    ],
+    "wof:id":101837567,
+    "wof:lang":[
+        "dut"
+    ],
+    "wof:lastmodified":1527715297,
+    "wof:name":"Beveren",
+    "wof:parent_id":1108830621,
+    "wof:placetype":"locality",
+    "wof:population":45179,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.23856786510964,
+    51.20331880034206,
+    4.26897732762944,
+    51.23146689188553
+],
+  "geometry": {"coordinates":[[[4.26892776027267,51.21630688938188],[4.26699120123152,51.21621138338281],[4.26743821684056,51.21262868712887],[4.26886561471622,51.21269912602764],[4.26897732762944,51.21180344958941],[4.26612259095788,51.2116625574381],[4.26645786259036,51.20897553563998],[4.26360330715602,51.20883458293162],[4.2642740353856,51.2034605495553],[4.26141982628792,51.20331954574488],[4.26130799667033,51.20421521562855],[4.25559951661796,51.20393299174731],[4.2552636652,51.20661998056312],[4.25098209970457,51.20640811474436],[4.25109413813237,51.20551245685857],[4.24823983630102,51.20537112864758],[4.24835192437126,51.20447547359572],[4.24407058438402,51.20426335478845],[4.24418274960726,51.20336770415105],[4.24319630454897,51.20331880034206],[4.23856786510964,51.21660745016254],[4.23964472666705,51.21666088562199],[4.23919548876665,51.22024345427496],[4.24062308552107,51.22031424148588],[4.24051079006051,51.22120988442651],[4.24193841839195,51.22128065571525],[4.24171386632634,51.22307194379414],[4.24456924526902,51.22321344018314],[4.24423254187923,51.22590037937624],[4.24566032004373,51.22597110605449],[4.245772532366,51.22507545839761],[4.25005580841099,51.22528752865799],[4.24994367873671,51.22618318105344],[4.25137147303053,51.22625383770765],[4.25148357515491,51.22535818373342],[4.25576689956011,51.22557004392445],[4.25543082494806,51.22825701908789],[4.25828656000147,51.2283981811479],[4.25806259349213,51.23018950263122],[4.26520227712399,51.23054211715993],[4.26509042356895,51.23143778530186],[4.26568028566999,51.23146689188553],[4.26892776027267,51.21630688938188]]],"type":"Polygon"}
+}

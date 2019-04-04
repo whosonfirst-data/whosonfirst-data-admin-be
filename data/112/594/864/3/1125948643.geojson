@@ -1,0 +1,110 @@
+{
+  "id": 1125948643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.01559,50.6914,4.01559,50.6914",
+    "geom:latitude":50.6914,
+    "geom:longitude":4.01559,
+    "gn:gn_country":"BE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"BE",
+    "lbl:latitude":50.6914,
+    "lbl:longitude":4.01559,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Mark"
+    ],
+    "name:eng_x_preferred":[
+        "Marcq"
+    ],
+    "name:fra_x_preferred":[
+        "Marcq"
+    ],
+    "name:fre_x_preferred":[
+        "Marcq"
+    ],
+    "name:hun_x_preferred":[
+        "Marcq"
+    ],
+    "name:unk_x_variant":[
+        "Mark"
+    ],
+    "name:wln_x_preferred":[
+        "Mark"
+    ],
+    "qs_pg:aaroncc":"BE",
+    "qs_pg:gn_country":"BE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2791719,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Marcq",
+    "qs_pg:name_adm0":"Belgique",
+    "qs_pg:name_adm1":"Hainaut",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":1,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1143020,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424757,
+    "qs_pg:woe_id":973966,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424757,
+    "woe:name_adm0":"Belgique",
+    "woe:name_adm1":"Hainaut",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85681723,
+        102191581,
+        85632997,
+        404227353,
+        102049943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2791719,
+        "gp:id":973966,
+        "qs_pg:id":1143020,
+        "wd:id":"Q727993"
+    },
+    "wof:country":"BE",
+    "wof:created":1497297377,
+    "wof:geomhash":"87f08323af7557150df2a9561467162d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049943,
+            "locality_id":1125948643,
+            "macroregion_id":404227353,
+            "region_id":85681723
+        }
+    ],
+    "wof:id":1125948643,
+    "wof:lastmodified":1513899391,
+    "wof:name":"Marcq",
+    "wof:parent_id":102049943,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.01559,
+    50.6914,
+    4.01559,
+    50.6914
+],
+  "geometry": {"coordinates":[4.01559,50.6914],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1209035443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.174,50.29791,4.174,50.29791",
+    "geom:latitude":50.29791,
+    "geom:longitude":4.174,
+    "gn:admin1_code":"WAL",
+    "gn:admin2_code":"WHT",
+    "gn:admin3_code":"56.0",
+    "gn:admin4_code":"56022.0",
+    "gn:asciiname":"Wiheries",
+    "gn:country_code":"BE",
+    "gn:dem":142,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2783701,
+    "gn:latitude":50.29791,
+    "gn:longitude":4.174,
+    "gn:modification_date":"2017-03-25",
+    "gn:name":"Wih\u00e9ries",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2783701
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"f6a6005d1cc12ff05e0dc15455c16209",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "locality_id":1209035443
+        }
+    ],
+    "wof:id":1209035443,
+    "wof:lastmodified":1536299716,
+    "wof:name":"Wiheries",
+    "wof:parent_id":85632997,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.174,
+    50.29791,
+    4.174,
+    50.29791
+],
+  "geometry": {"coordinates":[4.174,50.29791],"type":"Point"}
+}

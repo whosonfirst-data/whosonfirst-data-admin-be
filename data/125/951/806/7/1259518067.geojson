@@ -1,0 +1,77 @@
+{
+  "id": 1259518067,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.83333,50.71667,5.83333,50.71667",
+    "geom:latitude":50.71667,
+    "geom:longitude":5.83333,
+    "gn:admin1_code":"WAL",
+    "gn:admin2_code":"WLG",
+    "gn:asciiname":"Peerds",
+    "gn:country_code":"BE",
+    "gn:dem":255,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2789227,
+    "gn:latitude":50.71667,
+    "gn:longitude":5.83333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Peerds",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Peerds Rot",
+        "Peerts",
+        "Peerds"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681705,
+        102191581,
+        1108830021,
+        85632997,
+        404227357,
+        1108782563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2789227
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"8cbb3c2c2f40549191dd89c35abc3f06",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":1108782563,
+            "localadmin_id":1108830021,
+            "locality_id":1259518067,
+            "macroregion_id":404227357,
+            "region_id":85681705
+        }
+    ],
+    "wof:id":1259518067,
+    "wof:lastmodified":1537586947,
+    "wof:name":"Peerds",
+    "wof:parent_id":1108830021,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.83333,
+    50.71667,
+    5.83333,
+    50.71667
+],
+  "geometry": {"coordinates":[5.83333,50.71667],"type":"Point"}
+}

@@ -1,0 +1,107 @@
+{
+  "id": 85801633,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000096,
+    "geom:area_square_m":748129.548071,
+    "geom:bbox":"4.31951796715,50.8267584748,4.33685302734,50.8354322989",
+    "geom:latitude":50.830833,
+    "geom:longitude":4.328676,
+    "gn:id":"",
+    "iso:country":"BE",
+    "lbl:latitude":50.831915,
+    "lbl:longitude":4.331344,
+    "mps:latitude":50.831095,
+    "mps:longitude":4.328668,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":1,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":13.0,
+    "mz:tier_locality":5,
+    "mz:tier_metro":30,
+    "name:nld_x_preferred":[
+        "Midi Zuid"
+    ],
+    "name:unk_x_variant":[
+        "Midi Zuid"
+    ],
+    "qs:gn_id":0,
+    "qs:gn_local":0,
+    "qs:local_max":62861,
+    "qs:local_sum":208570,
+    "qs:localhoods":75,
+    "qs:name":"Midi Zuid",
+    "qs:name_adm0":"Belgique",
+    "qs:name_adm1":"R\u00e9gion de Bruxelles-Capitale",
+    "qs:name_adm2":"Brussel Hoofdstad",
+    "qs:name_lau":"Anderlecht",
+    "qs:name_local":"Bruxelles",
+    "qs:photo_max":755,
+    "qs:photo_sum":1067,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":15,
+    "qs:woe_adm0":23424757,
+    "qs:woe_adm1":55965974,
+    "qs:woe_adm2":12591762,
+    "qs:woe_lau":12602403,
+    "qs:woe_local":968019,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mz",
+    "wof:belongsto":[
+        102191581,
+        85632997,
+        404227355,
+        101751573,
+        102049957,
+        85681713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":974297,
+        "qs:id":1103686,
+        "qs_pg:id":1103686
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"a1f10ace05664cc35d0b2a2bc2aa2817",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049957,
+            "locality_id":101751573,
+            "macroregion_id":404227355,
+            "neighbourhood_id":85801633,
+            "region_id":85681713
+        }
+    ],
+    "wof:id":85801633,
+    "wof:lang":[
+        "dut"
+    ],
+    "wof:lastmodified":1527270404,
+    "wof:name":"Midi Zuid",
+    "wof:parent_id":101751573,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.31951796714964,
+    50.82675847478971,
+    4.33685302734261,
+    50.8354322989377
+],
+  "geometry": {"coordinates":[[[4.33135986327997,50.8354322989377],[4.33135986328006,50.83369766485724],[4.33362618083564,50.83369766717094],[4.33410644531006,50.83369767100005],[4.33410644531014,50.8329372333131],[4.33410644531023,50.83196296436687],[4.33685302734128,50.83196296119804],[4.33685302734156,50.83022820560002],[4.33685302734261,50.83015683177219],[4.33410644531094,50.82870736878574],[4.33410644531094,50.82827923042329],[4.33410644531006,50.82675848239997],[4.33135986328014,50.82675848032447],[4.32861328392386,50.82675847478971],[4.32586669922017,50.82675847624783],[4.32586669922017,50.82849336680856],[4.32252478956593,50.82849336010041],[4.32239967785284,50.82908756866142],[4.32023828915717,50.83022820560002],[4.31951796714964,50.83060834355997],[4.32037353515878,50.83196296191356],[4.32312011719,50.83196296436687],[4.32312011718975,50.83369767100005],[4.32312011718921,50.8352185161727],[4.32586669922017,50.83376889161026],[4.32789288290297,50.83483829554508],[4.32801792648547,50.83543229087543],[4.32861328125009,50.83543229567239],[4.33135986327997,50.8354322989377]]],"type":"Polygon"}
+}

@@ -1,0 +1,120 @@
+{
+  "id": 101912973,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000102,
+    "geom:area_square_m":801170.863278,
+    "geom:bbox":"5.81582584041,50.7218304447,5.83138306629,50.7455858294",
+    "geom:latitude":50.731619,
+    "geom:longitude":5.823614,
+    "gn:population":4235,
+    "iso:country":"BE",
+    "lbl:latitude":50.729816,
+    "lbl:longitude":5.825684,
+    "mps:latitude":50.729816,
+    "mps:longitude":5.825684,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:cat_x_preferred":[
+        "Sint-Pieters-Voeren"
+    ],
+    "name:dut_x_preferred":[
+        "Sint-Pieters-Voeren"
+    ],
+    "name:eng_x_preferred":[
+        "Sint-Pieters-Voeren"
+    ],
+    "name:fra_x_preferred":[
+        "Fouron-Saint-Pierre"
+    ],
+    "name:fra_x_variant":[
+        "Fourons (Fouron-Saint-Pierre)"
+    ],
+    "name:fre_x_preferred":[
+        "Fouron-Saint-Pierre"
+    ],
+    "name:ger_x_preferred":[
+        "Sint-Pieters-Voeren"
+    ],
+    "name:hun_x_preferred":[
+        "Sint-Pieters-Voeren"
+    ],
+    "name:lim_x_preferred":[
+        "S'n Pie\u00ebter"
+    ],
+    "name:nld_x_preferred":[
+        "Sint-Pieters-Voeren"
+    ],
+    "name:nld_x_variant":[
+        "Voeren (Sint-Pieters-Voeren)"
+    ],
+    "name:swe_x_preferred":[
+        "Sint-Pieters-Voeren"
+    ],
+    "qs:a0":"Belgi\u00eb#Belgique#Belgien",
+    "qs:a1":"*Limburg",
+    "qs:a1r":"9Vlaams Gewest",
+    "qs:a2":"Tongeren",
+    "qs:adm0":"Belgi\u00eb#Belgique#Belgien",
+    "qs:id":0,
+    "qs:la":"Voeren#Fourons",
+    "qs:la_lc":"*BE273109",
+    "qs:level":"locality",
+    "qs:loc":"Fouron-St.-Pierre",
+    "qs:pop":0,
+    "qs:source":"LCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural hamlet many local_admin match geoplanet",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85681705,
+        102191581,
+        1108830021,
+        85632997,
+        404227357,
+        1108782563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2798056,
+        "gp:id":969769,
+        "qs:id":475274,
+        "wd:id":"Q2124087"
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"4f63e74948b050c74187c56ad4f2c3dd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":1108782563,
+            "localadmin_id":1108830021,
+            "locality_id":101912973,
+            "macroregion_id":404227357,
+            "region_id":85681705
+        }
+    ],
+    "wof:id":101912973,
+    "wof:lastmodified":1513899271,
+    "wof:name":"Fouron-St.-Pierre",
+    "wof:parent_id":1108830021,
+    "wof:placetype":"locality",
+    "wof:population":4235,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.81582584041456,
+    50.72183044470688,
+    5.83138306628831,
+    50.745585829356
+],
+  "geometry": {"coordinates":[[[[5.82183209575868,50.74419391808243],[5.82360376886732,50.745585829356],[5.82372209907129,50.74426243340264],[5.82183209575868,50.74419391808243]]],[[[5.81582584041456,50.73947511612954],[5.81702713419935,50.74041891007988],[5.82121358625727,50.74057077641822],[5.82113332036624,50.74146805119022],[5.82254803754381,50.74151933625552],[5.82278874266433,50.73882750770986],[5.82420338162711,50.73887877204021],[5.82428358199274,50.73798149416973],[5.82569819678463,50.73803274002722],[5.82577836630634,50.73713546074754],[5.82719295692715,50.73718668813308],[5.8273532304645,50.73539212647739],[5.8259386938762,50.73534090135064],[5.82625930313054,50.73175177920524],[5.82767373166928,50.73180299981522],[5.8284747172018,50.72283016359091],[5.83130304273749,50.7229325302261],[5.83138306628831,50.72203524280894],[5.82572653457487,50.72183044470688],[5.82564640303775,50.7227277276109],[5.82423225022262,50.72267648361697],[5.82415208786659,50.72357376511172],[5.82556626767911,50.72362501023474],[5.82532583867157,50.72631685642688],[5.82108306477545,50.72616305887942],[5.82116329260322,50.7252657804849],[5.81974906733404,50.72521448109171],[5.81990956550811,50.72341992572376],[5.8184953970852,50.72336861125518],[5.81857566742809,50.72247133428175],[5.81716152885087,50.72242000360836],[5.81700093034283,50.72421455501268],[5.8184151229139,50.72426588794849],[5.81825456308536,50.72606044049451],[5.81966881250565,50.72611175835556],[5.81958855384977,50.72700903533911],[5.8210028331211,50.72706033699382],[5.82092259764022,50.7279576148282],[5.82375121873508,50.72806016838462],[5.82310962924049,50.73523839907307],[5.82169510119485,50.73518712192254],[5.8216148582764,50.73608439837017],[5.82020030606594,50.73603310274729],[5.82012003230301,50.73693037778469],[5.8172908824036,50.73682773225136],[5.8170498760266,50.73951954889759],[5.81582584041456,50.73947511612954]]]],"type":"MultiPolygon"}
+}

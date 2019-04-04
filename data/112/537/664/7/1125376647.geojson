@@ -1,0 +1,93 @@
+{
+  "id": 1125376647,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2017-05-19",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.04287,51.27201,3.04287,51.27201",
+    "geom:latitude":51.27201,
+    "geom:longitude":3.04287,
+    "gn:gn_country":"BE",
+    "gn:gn_fcode":"ADM4",
+    "gn:gn_pop":12484,
+    "gn:population":12484,
+    "iso:country":"BE",
+    "lbl:latitude":51.27201,
+    "lbl:longitude":3.04287,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bul_x_preferred":[
+        "\u0414\u0435 \u0425\u0430\u043d"
+    ],
+    "name:fas_x_preferred":[
+        "\u062f\u0648 \u0622\u0646"
+    ],
+    "name:fra_x_preferred":[
+        "Le Coq"
+    ],
+    "name:oci_x_preferred":[
+        "Le Coq"
+    ],
+    "name:unk_x_variant":[
+        "Wenduyne"
+    ],
+    "name:vls_x_preferred":[
+        "Dn Oane"
+    ],
+    "name:zho_x_preferred":[
+        "\u5fb7\u6c49"
+    ],
+    "qs_pg:aaroncc":"BE",
+    "qs_pg:gn_country":"BE",
+    "qs_pg:gn_fcode":"ADM4",
+    "qs_pg:gn_id":2783855,
+    "qs_pg:gn_pop":12484,
+    "qs_pg:name":"De Haan",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":6,
+    "qs_pg:qs_id":277088,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85632997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2783855,
+        "qs_pg:id":277088
+    },
+    "wof:country":"BE",
+    "wof:created":1497047787,
+    "wof:geomhash":"de386dbb6c7dafc6f68a75037554a086",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "localadmin_id":1125376647
+        }
+    ],
+    "wof:id":1125376647,
+    "wof:lastmodified":1505185639,
+    "wof:name":"De Haan",
+    "wof:parent_id":-1,
+    "wof:placetype":"localadmin",
+    "wof:population":12484,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.04287,
+    51.27201,
+    3.04287,
+    51.27201
+],
+  "geometry": {"coordinates":[3.04287,51.27201],"type":"Point"}
+}

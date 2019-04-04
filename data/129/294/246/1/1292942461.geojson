@@ -1,0 +1,72 @@
+{
+  "id": 1292942461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.51679,49.95824,5.51679,49.95824",
+    "geom:latitude":49.95824,
+    "geom:longitude":5.51679,
+    "gn:admin1_code":"WAL",
+    "gn:admin2_code":"WLX",
+    "gn:admin3_code":"84.0",
+    "gn:admin4_code":"84077.0",
+    "gn:asciiname":"Chenet",
+    "gn:country_code":"BE",
+    "gn:dem":478,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2800392,
+    "gn:latitude":49.95824,
+    "gn:longitude":5.51679,
+    "gn:modification_date":"2017-03-25",
+    "gn:name":"Ch\u00eanet",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681727,
+        102191581,
+        85632997,
+        404227353,
+        102049913
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2800392
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"867f38bebe269d3a429a9828e4b59663",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049913,
+            "locality_id":1292942461,
+            "macroregion_id":404227353,
+            "region_id":85681727
+        }
+    ],
+    "wof:id":1292942461,
+    "wof:lastmodified":1537072613,
+    "wof:name":"Chenet",
+    "wof:parent_id":102049913,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.51679,
+    49.95824,
+    5.51679,
+    49.95824
+],
+  "geometry": {"coordinates":[5.51679,49.95824],"type":"Point"}
+}

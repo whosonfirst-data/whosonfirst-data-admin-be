@@ -1,0 +1,78 @@
+{
+  "id": 1292935079,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.68014,51.182,3.68014,51.182",
+    "geom:latitude":51.182,
+    "geom:longitude":3.68014,
+    "gn:admin1_code":"VLG",
+    "gn:admin2_code":"VOV",
+    "gn:admin3_code":"43.0",
+    "gn:admin4_code":"43002.0",
+    "gn:asciiname":"Molenhoek",
+    "gn:country_code":"BE",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2790962,
+    "gn:latitude":51.182,
+    "gn:longitude":3.68014,
+    "gn:modification_date":"2016-08-02",
+    "gn:name":"Molenhoek",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Meulenhoek",
+        "Molenhoek"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681733,
+        102191581,
+        1108830271,
+        85632997,
+        404227357,
+        102049995
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2790962
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"89853e5db9dd0876a67e2cffdb473e0c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049995,
+            "localadmin_id":1108830271,
+            "locality_id":1292935079,
+            "macroregion_id":404227357,
+            "region_id":85681733
+        }
+    ],
+    "wof:id":1292935079,
+    "wof:lastmodified":1537586963,
+    "wof:name":"Molenhoek",
+    "wof:parent_id":1108830271,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.68014,
+    51.182,
+    3.68014,
+    51.182
+],
+  "geometry": {"coordinates":[3.68014,51.182],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1309746979,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.98402,50.73779,3.98402,50.73779",
+    "geom:latitude":50.73779,
+    "geom:longitude":3.98402,
+    "gn:admin1_code":"VLG",
+    "gn:admin2_code":"VBR",
+    "gn:admin3_code":"23.0",
+    "gn:admin4_code":"23023.0",
+    "gn:asciiname":"Muilebeek",
+    "gn:country_code":"BE",
+    "gn:dem":42,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2790571,
+    "gn:latitude":50.73779,
+    "gn:longitude":3.98402,
+    "gn:modification_date":"2016-08-02",
+    "gn:name":"Muilebeek",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681731,
+        102191581,
+        1108830579,
+        85632997,
+        404227357,
+        102049973
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2790571
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"0cd1e45a62153a1a7a724c48ef87383f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049973,
+            "localadmin_id":1108830579,
+            "locality_id":1309746979,
+            "macroregion_id":404227357,
+            "region_id":85681731
+        }
+    ],
+    "wof:id":1309746979,
+    "wof:lastmodified":1537015224,
+    "wof:name":"Muilebeek",
+    "wof:parent_id":1108830579,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.98402,
+    50.73779,
+    3.98402,
+    50.73779
+],
+  "geometry": {"coordinates":[3.98402,50.73779],"type":"Point"}
+}

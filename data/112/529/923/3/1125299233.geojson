@@ -1,0 +1,87 @@
+{
+  "id": 1125299233,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2017-05-19",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.19173,50.86524,5.19173,50.86524",
+    "geom:latitude":50.86524,
+    "geom:longitude":5.19173,
+    "gn:gn_country":"BE",
+    "gn:gn_fcode":"ADM4",
+    "gn:gn_pop":6701,
+    "gn:population":6701,
+    "iso:country":"BE",
+    "lbl:latitude":50.86524,
+    "lbl:longitude":5.19173,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bul_x_preferred":[
+        "\u041d\u044e\u0435\u0440\u043a\u0435\u0440\u043a\u0435\u043d"
+    ],
+    "name:fas_x_preferred":[
+        "\u0646\u06cc\u0648\u0631\u06a9\u0631\u06a9\u0627\u0646"
+    ],
+    "name:lim_x_preferred":[
+        "No\u00ebrekirke"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e19\u0e35\u0e27\u0e40\u0e27\u0e2d\u0e23\u0e4c\u0e41\u0e01\u0e23\u0e4c\u0e40\u0e01\u0e34\u0e19"
+    ],
+    "name:zho_x_preferred":[
+        "\u5c3c\u6c83\u51ef\u5c14\u80af"
+    ],
+    "qs_pg:aaroncc":"BE",
+    "qs_pg:gn_country":"BE",
+    "qs_pg:gn_fcode":"ADM4",
+    "qs_pg:gn_id":2790181,
+    "qs_pg:gn_pop":6701,
+    "qs_pg:name":"Nieuwerkerken",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":5,
+    "qs_pg:qs_id":1032563,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85632997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2790181,
+        "qs_pg:id":1032563
+    },
+    "wof:country":"BE",
+    "wof:created":1497043329,
+    "wof:geomhash":"cc9be3d9e0aa939efd0c35c0e862fde2",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "localadmin_id":1125299233
+        }
+    ],
+    "wof:id":1125299233,
+    "wof:lastmodified":1505185641,
+    "wof:name":"Nieuwerkerken",
+    "wof:parent_id":-1,
+    "wof:placetype":"localadmin",
+    "wof:population":6701,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.19173,
+    50.86524,
+    5.19173,
+    50.86524
+],
+  "geometry": {"coordinates":[5.19173,50.86524],"type":"Point"}
+}

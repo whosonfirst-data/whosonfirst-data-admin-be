@@ -1,0 +1,114 @@
+{
+  "id": 1125777791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.09926,51.27286,3.09926,51.27286",
+    "geom:latitude":51.27286,
+    "geom:longitude":3.09926,
+    "gn:gn_country":"BE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"BE",
+    "lbl:latitude":51.27286,
+    "lbl:longitude":3.09926,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Nieuwmunster"
+    ],
+    "name:dut_x_preferred":[
+        "Nieuwmunster"
+    ],
+    "name:eng_x_preferred":[
+        "Nieuwmunster"
+    ],
+    "name:fre_x_preferred":[
+        "Nieuwmunster"
+    ],
+    "name:hun_x_preferred":[
+        "Nieuwmunster"
+    ],
+    "name:por_x_preferred":[
+        "Nieuwmunster"
+    ],
+    "name:vls_x_preferred":[
+        "Nieuwmunster"
+    ],
+    "qs_pg:aaroncc":"BE",
+    "qs_pg:gn_country":"BE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2790154,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Nieuwmunster",
+    "qs_pg:name_adm0":"Belgique",
+    "qs_pg:name_adm1":"West-Vlaanderen",
+    "qs_pg:photos":287,
+    "qs_pg:photos_1k":58,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":4,
+    "qs_pg:photos_all":287,
+    "qs_pg:photos_sr":5,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":460447,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424757,
+    "qs_pg:woe_id":974912,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424757,
+    "woe:name_adm0":"Belgique",
+    "woe:name_adm1":"West-Vlaanderen",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85681709,
+        102191581,
+        1108830569,
+        85632997,
+        404227357,
+        102050003
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2790154,
+        "gp:id":974912,
+        "qs_pg:id":460447,
+        "wd:id":"Q2390642"
+    },
+    "wof:country":"BE",
+    "wof:created":1497290339,
+    "wof:geomhash":"6d579143745a1671304f30bd9b750f21",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102050003,
+            "localadmin_id":1108830569,
+            "locality_id":1125777791,
+            "macroregion_id":404227357,
+            "region_id":85681709
+        }
+    ],
+    "wof:id":1125777791,
+    "wof:lastmodified":1513899433,
+    "wof:name":"Nieuwmunster",
+    "wof:parent_id":1108830569,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.09926,
+    51.27286,
+    3.09926,
+    51.27286
+],
+  "geometry": {"coordinates":[3.09926,51.27286],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1243590087,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.58333,51.2,5.58333,51.2",
+    "geom:latitude":51.2,
+    "geom:longitude":5.58333,
+    "gn:admin1_code":"VLG",
+    "gn:admin2_code":"VLI",
+    "gn:admin3_code":"72.0",
+    "gn:admin4_code":"72003.0",
+    "gn:asciiname":"Het Heidjen",
+    "gn:country_code":"BE",
+    "gn:dem":37,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2795879,
+    "gn:latitude":51.2,
+    "gn:longitude":5.58333,
+    "gn:modification_date":"2016-08-02",
+    "gn:name":"Het Heidjen",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681705,
+        102191581,
+        1108830639,
+        85632997,
+        404227357,
+        102049993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2795879
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"b4f08e8ca4446d4b1165a26f7d48b177",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049993,
+            "localadmin_id":1108830639,
+            "locality_id":1243590087,
+            "macroregion_id":404227357,
+            "region_id":85681705
+        }
+    ],
+    "wof:id":1243590087,
+    "wof:lastmodified":1537092103,
+    "wof:name":"Het Heidjen",
+    "wof:parent_id":1108830639,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.58333,
+    51.2,
+    5.58333,
+    51.2
+],
+  "geometry": {"coordinates":[5.58333,51.2],"type":"Point"}
+}

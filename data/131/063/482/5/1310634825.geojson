@@ -1,0 +1,72 @@
+{
+  "id": 1310634825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.43333,49.63333,5.43333,49.63333",
+    "geom:latitude":49.63333,
+    "geom:longitude":5.43333,
+    "gn:admin1_code":"WAL",
+    "gn:admin2_code":"WLX",
+    "gn:admin3_code":"85.0",
+    "gn:admin4_code":"85024.0",
+    "gn:asciiname":"Le Pommerut",
+    "gn:country_code":"BE",
+    "gn:dem":294,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2792822,
+    "gn:latitude":49.63333,
+    "gn:longitude":5.43333,
+    "gn:modification_date":"2017-03-25",
+    "gn:name":"Le Pommerut",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681727,
+        102191581,
+        85632997,
+        404227353,
+        102049907
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2792822
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"f31390a19f476f770069bc478e5ca05b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049907,
+            "locality_id":1310634825,
+            "macroregion_id":404227353,
+            "region_id":85681727
+        }
+    ],
+    "wof:id":1310634825,
+    "wof:lastmodified":1536730713,
+    "wof:name":"Le Pommerut",
+    "wof:parent_id":102049907,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.43333,
+    49.63333,
+    5.43333,
+    49.63333
+],
+  "geometry": {"coordinates":[5.43333,49.63333],"type":"Point"}
+}

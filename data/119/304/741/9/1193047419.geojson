@@ -1,0 +1,78 @@
+{
+  "id": 1193047419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.47323,51.08878,3.47323,51.08878",
+    "geom:latitude":51.08878,
+    "geom:longitude":3.47323,
+    "gn:admin1_code":"VLG",
+    "gn:admin2_code":"VOV",
+    "gn:admin3_code":"44.0",
+    "gn:admin4_code":"44001.0",
+    "gn:asciiname":"Oostergem",
+    "gn:country_code":"BE",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2789781,
+    "gn:latitude":51.08878,
+    "gn:longitude":3.47323,
+    "gn:modification_date":"2016-08-02",
+    "gn:name":"Oostergem",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Oosterghem",
+        "Oostergem"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681733,
+        102191581,
+        1108830383,
+        85632997,
+        404227357,
+        102049989
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2789781
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"47aed6e469e66fd795bbd2cc492f9616",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049989,
+            "localadmin_id":1108830383,
+            "locality_id":1193047419,
+            "macroregion_id":404227357,
+            "region_id":85681733
+        }
+    ],
+    "wof:id":1193047419,
+    "wof:lastmodified":1537586952,
+    "wof:name":"Oostergem",
+    "wof:parent_id":1108830383,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.47323,
+    51.08878,
+    3.47323,
+    51.08878
+],
+  "geometry": {"coordinates":[3.47323,51.08878],"type":"Point"}
+}

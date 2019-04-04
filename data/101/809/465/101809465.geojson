@@ -1,0 +1,102 @@
+{
+  "id": 101809465,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000098,
+    "geom:area_square_m":757234.311925,
+    "geom:bbox":"4.78895567501,51.392604313,4.80616202441,51.4039989034",
+    "geom:latitude":51.398224,
+    "geom:longitude":4.797993,
+    "iso:country":"BE",
+    "lbl:latitude":51.397928,
+    "lbl:longitude":4.797993,
+    "mps:latitude":51.397928,
+    "mps:longitude":4.797993,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Wortel"
+    ],
+    "name:eng_x_preferred":[
+        "Wortel"
+    ],
+    "name:fra_x_preferred":[
+        "Wortel"
+    ],
+    "name:fre_x_preferred":[
+        "Wortel"
+    ],
+    "name:hun_x_preferred":[
+        "Wortel"
+    ],
+    "name:nld_x_preferred":[
+        "Wortel"
+    ],
+    "qs:a0":"Belgi\u00eb#Belgique#Belgien",
+    "qs:a1":"*Antwerpen",
+    "qs:a1r":"0Vlaams Gewest",
+    "qs:a2":"Turnhout",
+    "qs:adm0":"Belgi\u00eb#Belgique#Belgien",
+    "qs:la":"Hoogstraten",
+    "qs:la_lc":"*BE213014",
+    "qs:level":"locality",
+    "qs:loc":"Wortel",
+    "qs:loc_alt":"Wortel",
+    "qs:pop":0,
+    "qs:source":"LCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":42,
+    "wof:belongsto":[
+        85681715,
+        102191581,
+        1108830373,
+        85632997,
+        404227357,
+        102050007
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2783447,
+        "gp:id":979036,
+        "qs:id":1072821,
+        "qs_pg:id":1072821,
+        "wd:id":"Q2443734"
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"cffaa62e268023c230cb4f3959dd710e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102050007,
+            "localadmin_id":1108830373,
+            "locality_id":101809465,
+            "macroregion_id":404227357,
+            "region_id":85681715
+        }
+    ],
+    "wof:id":101809465,
+    "wof:lastmodified":1527715168,
+    "wof:name":"Wortel",
+    "wof:parent_id":1108830373,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.78895567501058,
+    51.39260431296316,
+    4.80616202440513,
+    51.40399890341212
+],
+  "geometry": {"coordinates":[[[4.79274656684106,51.40399890341212],[4.79305296910354,51.40131032331561],[4.79878862721114,51.40156632259215],[4.79868660959738,51.40246252199557],[4.80012056122899,51.40252647925035],[4.8002225509594,51.40163027840936],[4.80595828281014,51.40188592566932],[4.80616202440513,51.40009351164537],[4.80472814168019,51.40002962910364],[4.80483003295996,51.39913342310285],[4.80339618179789,51.39906952439713],[4.80349809602342,51.39817331954902],[4.80206427642327,51.39810940468004],[4.80237007312593,51.39542079274446],[4.80380380909958,51.39548470330453],[4.80390570359242,51.39458849732273],[4.80533941537567,51.39465238884844],[4.80544127706452,51.39375618114713],[4.80114023637793,51.39356445808482],[4.80124217674694,51.39266825440836],[4.79980853175471,51.39260431296316],[4.79970656351622,51.3935005152025],[4.79827289433979,51.39343655472311],[4.7981708932947,51.39433275524152],[4.7938698242757,51.39414076390585],[4.79346143623371,51.39772554588183],[4.79059385235138,51.39759745215684],[4.79049168723162,51.39849364406223],[4.78905787295315,51.3984295693615],[4.78895567501058,51.39932575954259],[4.79038951716615,51.39938983568339],[4.79028734215444,51.40028602702091],[4.79172121588192,51.40035008700204],[4.79131257789197,51.40393485527306],[4.79274656684106,51.40399890341212]]],"type":"Polygon"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1276696111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.03805,51.2895,5.03805,51.2895",
+    "geom:latitude":51.2895,
+    "geom:longitude":5.03805,
+    "gn:admin1_code":"VLG",
+    "gn:admin2_code":"VAN",
+    "gn:admin3_code":"13.0",
+    "gn:admin4_code":"13036.0",
+    "gn:asciiname":"Kinschot",
+    "gn:country_code":"BE",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2794444,
+    "gn:latitude":51.2895,
+    "gn:longitude":5.03805,
+    "gn:modification_date":"2016-08-02",
+    "gn:name":"Kinschot",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kindschot",
+        "Kinschot"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681715,
+        102191581,
+        1108830225,
+        85632997,
+        404227357,
+        102050007
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2794444
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"6318c40cda1e64427f44c7e2eb75c629",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102050007,
+            "localadmin_id":1108830225,
+            "locality_id":1276696111,
+            "macroregion_id":404227357,
+            "region_id":85681715
+        }
+    ],
+    "wof:id":1276696111,
+    "wof:lastmodified":1537587003,
+    "wof:name":"Kinschot",
+    "wof:parent_id":1108830225,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.03805,
+    51.2895,
+    5.03805,
+    51.2895
+],
+  "geometry": {"coordinates":[5.03805,51.2895],"type":"Point"}
+}

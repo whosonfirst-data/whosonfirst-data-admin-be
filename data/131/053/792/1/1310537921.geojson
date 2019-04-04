@@ -1,0 +1,78 @@
+{
+  "id": 1310537921,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.48333,51.0,5.48333,51.0",
+    "geom:latitude":51.0,
+    "geom:longitude":5.48333,
+    "gn:admin1_code":"VLG",
+    "gn:admin2_code":"VLI",
+    "gn:admin3_code":"71.0",
+    "gn:admin4_code":"71016.0",
+    "gn:asciiname":"Aan de Wolfsberg",
+    "gn:country_code":"BE",
+    "gn:dem":82,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2803437,
+    "gn:latitude":51.0,
+    "gn:longitude":5.48333,
+    "gn:modification_date":"2016-08-02",
+    "gn:name":"Aan de Wolfsberg",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Wolfsberg",
+        "Aan de Wolfsberg"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681705,
+        102191581,
+        1108830655,
+        85632997,
+        404227357,
+        102049975
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2803437
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"fe39152a436334baffccc6cd834135fb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049975,
+            "localadmin_id":1108830655,
+            "locality_id":1310537921,
+            "macroregion_id":404227357,
+            "region_id":85681705
+        }
+    ],
+    "wof:id":1310537921,
+    "wof:lastmodified":1537587087,
+    "wof:name":"Aan de Wolfsberg",
+    "wof:parent_id":1108830655,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.48333,
+    51.0,
+    5.48333,
+    51.0
+],
+  "geometry": {"coordinates":[5.48333,51.0],"type":"Point"}
+}

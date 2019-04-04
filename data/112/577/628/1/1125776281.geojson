@@ -1,0 +1,111 @@
+{
+  "id": 1125776281,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.27694,50.89908,4.27694,50.89908",
+    "geom:latitude":50.89908,
+    "geom:longitude":4.27694,
+    "gn:gn_country":"BE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"BE",
+    "lbl:latitude":50.89908,
+    "lbl:longitude":4.27694,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Relegem"
+    ],
+    "name:eng_x_preferred":[
+        "Relegem"
+    ],
+    "name:fre_x_preferred":[
+        "Releghem"
+    ],
+    "name:hun_x_preferred":[
+        "Relegem"
+    ],
+    "name:spa_x_preferred":[
+        "Relegem"
+    ],
+    "name:unk_x_variant":[
+        "Releghem"
+    ],
+    "qs_pg:aaroncc":"BE",
+    "qs_pg:gn_country":"BE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2788224,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Relegem",
+    "qs_pg:name_adm0":"Belgique",
+    "qs_pg:name_adm1":"Vlaams Brabant",
+    "qs_pg:photos":16,
+    "qs_pg:photos_1k":3,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":16,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1077696,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424757,
+    "qs_pg:woe_id":976138,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424757,
+    "woe:name_adm0":"Belgique",
+    "woe:name_adm1":"Vlaams Brabant",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85681731,
+        102191581,
+        1108830421,
+        85632997,
+        404227357,
+        102049973
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2788224,
+        "gp:id":976138,
+        "qs_pg:id":1077696,
+        "wd:id":"Q2126160"
+    },
+    "wof:country":"BE",
+    "wof:created":1497290271,
+    "wof:geomhash":"aa64cb1a9cd85ee50e133b1b08da2b5b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049973,
+            "localadmin_id":1108830421,
+            "locality_id":1125776281,
+            "macroregion_id":404227357,
+            "region_id":85681731
+        }
+    ],
+    "wof:id":1125776281,
+    "wof:lastmodified":1513899472,
+    "wof:name":"Relegem",
+    "wof:parent_id":1108830421,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.27694,
+    50.89908,
+    4.27694,
+    50.89908
+],
+  "geometry": {"coordinates":[4.27694,50.89908],"type":"Point"}
+}

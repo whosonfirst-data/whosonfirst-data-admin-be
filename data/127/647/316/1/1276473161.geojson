@@ -1,0 +1,76 @@
+{
+  "id": 1276473161,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.45374,50.55156,3.45374,50.55156",
+    "geom:latitude":50.55156,
+    "geom:longitude":3.45374,
+    "gn:admin1_code":"WAL",
+    "gn:admin2_code":"WHT",
+    "gn:admin3_code":"57.0",
+    "gn:admin4_code":"57003.0",
+    "gn:asciiname":"Peronnes",
+    "gn:cc2":"BE",
+    "gn:country_code":"BE",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2789171,
+    "gn:latitude":50.55156,
+    "gn:longitude":3.45374,
+    "gn:modification_date":"2017-03-25",
+    "gn:name":"P\u00e9ronnes",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Peronnez"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681723,
+        102191581,
+        85632997,
+        404227353,
+        102049951
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2789171
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"83fcc7232d57a5191c0429862131a8d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049951,
+            "locality_id":1276473161,
+            "macroregion_id":404227353,
+            "region_id":85681723
+        }
+    ],
+    "wof:id":1276473161,
+    "wof:lastmodified":1537586947,
+    "wof:name":"Peronnes",
+    "wof:parent_id":102049951,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.45374,
+    50.55156,
+    3.45374,
+    50.55156
+],
+  "geometry": {"coordinates":[3.45374,50.55156],"type":"Point"}
+}

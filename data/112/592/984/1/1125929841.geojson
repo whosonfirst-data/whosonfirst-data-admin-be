@@ -1,0 +1,106 @@
+{
+  "id": 1125929841,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.038,49.86721,5.038,49.86721",
+    "geom:latitude":49.86721,
+    "geom:longitude":5.038,
+    "gn:gn_country":"BE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"BE",
+    "lbl:latitude":49.86721,
+    "lbl:longitude":5.038,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Vivy"
+    ],
+    "name:eng_x_preferred":[
+        "Vivy"
+    ],
+    "name:fre_x_preferred":[
+        "Vivy"
+    ],
+    "name:hun_x_preferred":[
+        "Vivy"
+    ],
+    "name:wln_x_preferred":[
+        "Viv\u00ee"
+    ],
+    "qs_pg:aaroncc":"BE",
+    "qs_pg:gn_country":"BE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2784513,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Vivy",
+    "qs_pg:name_adm0":"Belgique",
+    "qs_pg:name_adm1":"Luxembourg",
+    "qs_pg:photos":21,
+    "qs_pg:photos_1k":4,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":21,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":489999,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424757,
+    "qs_pg:woe_id":978399,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424757,
+    "woe:name_adm0":"Belgique",
+    "woe:name_adm1":"Luxembourg",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85681727,
+        102191581,
+        85632997,
+        404227353,
+        102049913
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2784513,
+        "gp:id":978399,
+        "qs_pg:id":489999,
+        "wd:id":"Q2009765"
+    },
+    "wof:country":"BE",
+    "wof:created":1497296766,
+    "wof:geomhash":"61aded4aec0c4bf8e8bcf794769744d5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049913,
+            "locality_id":1125929841,
+            "macroregion_id":404227353,
+            "region_id":85681727
+        }
+    ],
+    "wof:id":1125929841,
+    "wof:lastmodified":1513899548,
+    "wof:name":"Vivy",
+    "wof:parent_id":102049913,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.038,
+    49.86721,
+    5.038,
+    49.86721
+],
+  "geometry": {"coordinates":[5.038,49.86721],"type":"Point"}
+}

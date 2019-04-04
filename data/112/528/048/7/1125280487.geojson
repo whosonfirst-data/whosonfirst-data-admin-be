@@ -1,0 +1,76 @@
+{
+  "id": 1125280487,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2017-05-19",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.467058,50.608133,4.467058,50.608133",
+    "geom:latitude":50.608133,
+    "geom:longitude":4.467058,
+    "gn:gn_country":null,
+    "iso:country":"BE",
+    "lbl:latitude":50.608133,
+    "lbl:longitude":4.467058,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"BE",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Genappe",
+    "qs_pg:name_adm0":"Belgique",
+    "qs_pg:name_adm1":"Brabant Wallon",
+    "qs_pg:photos":815,
+    "qs_pg:photos_1k":165,
+    "qs_pg:photos_9k":5,
+    "qs_pg:photos_9r":7,
+    "qs_pg:photos_all":1182,
+    "qs_pg:photos_sr":9,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1081070,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
+    "qs_pg:woe_adm0":23424757,
+    "qs_pg:woe_id":12602528,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424757,
+    "woe:name_adm0":"Belgique",
+    "woe:name_adm1":"Brabant Wallon",
+    "woe:placetype":"LocalAdmin",
+    "wof:belongsto":[
+        85632997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12602528,
+        "qs_pg:id":1081070
+    },
+    "wof:country":"BE",
+    "wof:created":1497042485,
+    "wof:geomhash":"6b3c5ee1fcd19d8cc20ab1898a53f002",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "localadmin_id":1125280487
+        }
+    ],
+    "wof:id":1125280487,
+    "wof:lastmodified":1505247965,
+    "wof:name":"Genappe",
+    "wof:parent_id":-1,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.467058,
+    50.608133,
+    4.467058,
+    50.608133
+],
+  "geometry": {"coordinates":[4.467058,50.608133],"type":"Point"}
+}

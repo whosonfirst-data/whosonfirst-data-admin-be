@@ -1,0 +1,72 @@
+{
+  "id": 1327462405,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.19819,50.59433,4.19819,50.59433",
+    "geom:latitude":50.59433,
+    "geom:longitude":4.19819,
+    "gn:admin1_code":"WAL",
+    "gn:admin2_code":"WHT",
+    "gn:admin3_code":"55.0",
+    "gn:admin4_code":"55050.0",
+    "gn:asciiname":"Gaudy",
+    "gn:country_code":"BE",
+    "gn:dem":81,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2797808,
+    "gn:latitude":50.59433,
+    "gn:longitude":4.19819,
+    "gn:modification_date":"2017-03-25",
+    "gn:name":"Gaudy",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681723,
+        102191581,
+        85632997,
+        404227353,
+        102049943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2797808
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"bb72a244c976bf178fe9924aa38939da",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049943,
+            "locality_id":1327462405,
+            "macroregion_id":404227353,
+            "region_id":85681723
+        }
+    ],
+    "wof:id":1327462405,
+    "wof:lastmodified":1536636386,
+    "wof:name":"Gaudy",
+    "wof:parent_id":102049943,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.19819,
+    50.59433,
+    4.19819,
+    50.59433
+],
+  "geometry": {"coordinates":[4.19819,50.59433],"type":"Point"}
+}

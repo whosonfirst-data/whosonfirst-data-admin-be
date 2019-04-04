@@ -1,0 +1,84 @@
+{
+  "id": 1125368905,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2017-05-19",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.32176,50.64674,5.32176,50.64674",
+    "geom:latitude":50.64674,
+    "geom:longitude":5.32176,
+    "gn:gn_country":"BE",
+    "gn:gn_fcode":"ADM4",
+    "gn:gn_pop":2940,
+    "gn:population":2940,
+    "iso:country":"BE",
+    "lbl:latitude":50.64674,
+    "lbl:longitude":5.32176,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bul_x_preferred":[
+        "\u0414\u043e\u043d\u0441\u0435\u043b"
+    ],
+    "name:fas_x_preferred":[
+        "\u062f\u0648\u0646\u0633\u0626\u0644"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u043e\u043d\u0441\u0435\u043b\u044c"
+    ],
+    "name:zho_x_preferred":[
+        "\u4e1c\u6cfd\u5c14"
+    ],
+    "qs_pg:aaroncc":"BE",
+    "qs_pg:gn_country":"BE",
+    "qs_pg:gn_fcode":"ADM4",
+    "qs_pg:gn_id":2799318,
+    "qs_pg:gn_pop":2940,
+    "qs_pg:name":"Donceel",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":92716,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85632997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2799318,
+        "qs_pg:id":92716
+    },
+    "wof:country":"BE",
+    "wof:created":1497047260,
+    "wof:geomhash":"931a4fddc0bd9a0097540159c60bbb3d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "localadmin_id":1125368905
+        }
+    ],
+    "wof:id":1125368905,
+    "wof:lastmodified":1505185645,
+    "wof:name":"Donceel",
+    "wof:parent_id":-1,
+    "wof:placetype":"localadmin",
+    "wof:population":2940,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.32176,
+    50.64674,
+    5.32176,
+    50.64674
+],
+  "geometry": {"coordinates":[5.32176,50.64674],"type":"Point"}
+}

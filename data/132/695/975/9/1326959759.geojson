@@ -1,0 +1,72 @@
+{
+  "id": 1326959759,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.03333,50.38333,6.03333,50.38333",
+    "geom:latitude":50.38333,
+    "geom:longitude":6.03333,
+    "gn:admin1_code":"WAL",
+    "gn:admin2_code":"WLG",
+    "gn:admin3_code":"63.0",
+    "gn:admin4_code":"63049.0",
+    "gn:asciiname":"Borgeuce",
+    "gn:country_code":"BE",
+    "gn:dem":422,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2801470,
+    "gn:latitude":50.38333,
+    "gn:longitude":6.03333,
+    "gn:modification_date":"2017-03-25",
+    "gn:name":"Borgeuc\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681691,
+        102191581,
+        85632997,
+        404227353,
+        102049935
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2801470
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"ffa3adcc9bab4c1ed6c460a961b36829",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049935,
+            "locality_id":1326959759,
+            "macroregion_id":404227353,
+            "region_id":85681691
+        }
+    ],
+    "wof:id":1326959759,
+    "wof:lastmodified":1536863901,
+    "wof:name":"Borgeuce",
+    "wof:parent_id":102049935,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.03333,
+    50.38333,
+    6.03333,
+    50.38333
+],
+  "geometry": {"coordinates":[6.03333,50.38333],"type":"Point"}
+}

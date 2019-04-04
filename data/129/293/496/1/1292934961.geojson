@@ -1,0 +1,76 @@
+{
+  "id": 1292934961,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.50778,50.09066,5.50778,50.09066",
+    "geom:latitude":50.09066,
+    "geom:longitude":5.50778,
+    "gn:admin1_code":"WAL",
+    "gn:admin2_code":"WLX",
+    "gn:admin3_code":"83.0",
+    "gn:admin4_code":"83049.0",
+    "gn:asciiname":"Tultay Ramont",
+    "gn:country_code":"BE",
+    "gn:dem":387,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2785163,
+    "gn:latitude":50.09066,
+    "gn:longitude":5.50778,
+    "gn:modification_date":"2017-03-25",
+    "gn:name":"Tultay Ramont",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ramont",
+        "Tultay Ramont"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681727,
+        102191581,
+        85632997,
+        404227353,
+        102049921
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2785163
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"6d65fd9bcc808a667e055d51fbb6ec07",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049921,
+            "locality_id":1292934961,
+            "macroregion_id":404227353,
+            "region_id":85681727
+        }
+    ],
+    "wof:id":1292934961,
+    "wof:lastmodified":1537586898,
+    "wof:name":"Tultay Ramont",
+    "wof:parent_id":102049921,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.50778,
+    50.09066,
+    5.50778,
+    50.09066
+],
+  "geometry": {"coordinates":[5.50778,50.09066],"type":"Point"}
+}

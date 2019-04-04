@@ -1,0 +1,97 @@
+{
+  "id": 101874045,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.660415,50.801865,4.660415,50.801865",
+    "geom:latitude":50.801865,
+    "geom:longitude":4.660415,
+    "iso:country":"BE",
+    "lbl:latitude":50.801865,
+    "lbl:longitude":4.660415,
+    "mps:latitude":50.801865,
+    "mps:longitude":4.660415,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Sint-Joris-Weert"
+    ],
+    "name:eng_x_preferred":[
+        "Sint-Joris-Weert"
+    ],
+    "name:fre_x_preferred":[
+        "Sint-Joris-Weert"
+    ],
+    "name:hun_x_preferred":[
+        "Sint-Joris-Weert"
+    ],
+    "name:unk_x_variant":[
+        "Weert-Saint-Georges"
+    ],
+    "qs:a0":"Belgi\u00eb#Belgique#Belgien",
+    "qs:a1":"*Vlaams Brabant",
+    "qs:a1r":"0Vlaams Gewest",
+    "qs:a2":"Leuven",
+    "qs:adm0":"Belgi\u00eb#Belgique#Belgien",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Sint-Joris-Weert",
+    "qs:loc_alt":"Sint-Joris-Weert",
+    "qs:pop":0,
+    "qs:source":"LCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        85681731,
+        102191581,
+        1108830043,
+        85632997,
+        404227357,
+        102049969
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2786651,
+        "gp:id":977213,
+        "qs:id":4784,
+        "wd:id":"Q2997099"
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"87bd8283f443a00976d1bccec7196e25",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049969,
+            "localadmin_id":1108830043,
+            "locality_id":101874045,
+            "macroregion_id":404227357,
+            "region_id":85681731
+        }
+    ],
+    "wof:id":101874045,
+    "wof:lastmodified":1544751604,
+    "wof:name":"Sint-Joris-Weert",
+    "wof:parent_id":1108830043,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.660415,
+    50.801865,
+    4.660415,
+    50.801865
+],
+  "geometry": {"coordinates":[4.660415,50.801865],"type":"Point"}
+}

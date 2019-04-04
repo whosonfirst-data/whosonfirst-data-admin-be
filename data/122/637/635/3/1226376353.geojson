@@ -1,0 +1,74 @@
+{
+  "id": 1226376353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.05,50.88333,4.05,50.88333",
+    "geom:latitude":50.88333,
+    "geom:longitude":4.05,
+    "gn:admin1_code":"VLG",
+    "gn:admin2_code":"VOV",
+    "gn:admin3_code":"41.0",
+    "gn:admin4_code":"41011.0",
+    "gn:asciiname":"Wildebeek",
+    "gn:country_code":"BE",
+    "gn:dem":31,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2783659,
+    "gn:latitude":50.88333,
+    "gn:longitude":4.05,
+    "gn:modification_date":"2016-08-02",
+    "gn:name":"Wildebeek",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681733,
+        102191581,
+        1108830457,
+        85632997,
+        404227357,
+        102049967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2783659
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"c0a6b9ec8308d36b8342b0d202199047",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049967,
+            "localadmin_id":1108830457,
+            "locality_id":1226376353,
+            "macroregion_id":404227357,
+            "region_id":85681733
+        }
+    ],
+    "wof:id":1226376353,
+    "wof:lastmodified":1536745204,
+    "wof:name":"Wildebeek",
+    "wof:parent_id":1108830457,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.05,
+    50.88333,
+    4.05,
+    50.88333
+],
+  "geometry": {"coordinates":[4.05,50.88333],"type":"Point"}
+}

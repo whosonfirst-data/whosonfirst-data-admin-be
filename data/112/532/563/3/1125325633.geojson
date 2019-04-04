@@ -1,0 +1,81 @@
+{
+  "id": 1125325633,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2017-05-19",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.76189,50.82882,4.76189,50.82882",
+    "geom:latitude":50.82882,
+    "geom:longitude":4.76189,
+    "gn:gn_country":"BE",
+    "gn:gn_fcode":"ADM4",
+    "gn:gn_pop":9507,
+    "gn:population":9507,
+    "iso:country":"BE",
+    "lbl:latitude":50.82882,
+    "lbl:longitude":4.76189,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bul_x_preferred":[
+        "\u0411\u0438\u0439\u0440\u0431\u0435\u043a"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u06cc\u0631\u0628\u0626\u06a9"
+    ],
+    "name:zho_x_preferred":[
+        "\u6bd4\u5c14\u8d1d\u514b"
+    ],
+    "qs_pg:aaroncc":"BE",
+    "qs_pg:gn_country":"BE",
+    "qs_pg:gn_fcode":"ADM4",
+    "qs_pg:gn_id":2801999,
+    "qs_pg:gn_pop":9507,
+    "qs_pg:name":"Bierbeek",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":5,
+    "qs_pg:qs_id":576261,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85632997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2801999,
+        "qs_pg:id":576261
+    },
+    "wof:country":"BE",
+    "wof:created":1497044794,
+    "wof:geomhash":"f6b668d8c695295bc0d8544c77ad7ceb",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "localadmin_id":1125325633
+        }
+    ],
+    "wof:id":1125325633,
+    "wof:lastmodified":1505185646,
+    "wof:name":"Bierbeek",
+    "wof:parent_id":-1,
+    "wof:placetype":"localadmin",
+    "wof:population":9507,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.76189,
+    50.82882,
+    4.76189,
+    50.82882
+],
+  "geometry": {"coordinates":[4.76189,50.82882],"type":"Point"}
+}

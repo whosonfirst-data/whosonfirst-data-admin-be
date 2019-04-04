@@ -1,0 +1,78 @@
+{
+  "id": 101913267,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000119,
+    "geom:area_square_m":930621.077196,
+    "geom:bbox":"4.51343369901,50.7274641828,4.53222716343,50.7384921652",
+    "geom:latitude":50.732746,
+    "geom:longitude":4.523471,
+    "iso:country":"BE",
+    "lbl:latitude":50.732712,
+    "lbl:longitude":4.524111,
+    "mps:latitude":50.732712,
+    "mps:longitude":4.524111,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:a0":"Belgi\u00eb#Belgique#Belgien",
+    "qs:a1":"*Vlaams Brabant",
+    "qs:a1r":"0Vlaams Gewest",
+    "qs:a2":"Halle-Vilvoorde",
+    "qs:adm0":"Belgi\u00eb#Belgique#Belgien",
+    "qs:la":"Kalmthout",
+    "qs:la_lc":"*BE211022",
+    "qs:level":"locality",
+    "qs:loc":"Grand Cortil",
+    "qs:loc_alt":"Grand Cortil",
+    "qs:pop":0,
+    "qs:source":"LCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"suburbs point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        85681731,
+        102191581,
+        1108830581,
+        85632997,
+        404227357,
+        102049973
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":29374923,
+        "qs:id":1
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"2a7fd1f72aeaee0a4e7ec169d28a4113",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049973,
+            "localadmin_id":1108830581,
+            "locality_id":101913267,
+            "macroregion_id":404227357,
+            "region_id":85681731
+        }
+    ],
+    "wof:id":101913267,
+    "wof:lastmodified":1499531280,
+    "wof:name":"Grand Cortil",
+    "wof:parent_id":1108830581,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.51343369901264,
+    50.7274641828277,
+    4.53222716343339,
+    50.73849216522893
+],
+  "geometry": {"coordinates":[[[4.53104196619472,50.73518342841089],[4.53222716343339,50.73363355509838],[4.53071909465615,50.73253677780576],[4.53195296911031,50.7315770976748],[4.52482391670856,50.7274641828277],[4.52290455644675,50.72842386295883],[4.52153358483105,50.72801257147421],[4.52016261321552,50.72897225160511],[4.51906583592273,50.72842386295883],[4.51742066998412,50.72979483457453],[4.51343369901264,50.73070614222519],[4.51563751651122,50.73354977770731],[4.51828221932885,50.73367572000586],[4.51817697756297,50.73457177939594],[4.51959010116155,50.73463903840815],[4.51927442639629,50.73732721900859],[4.52210084602939,50.73746169400431],[4.52199566483301,50.73835775649536],[4.52482215314149,50.73849216522893],[4.52492728058388,50.73759609977793],[4.52634050345523,50.7376632767058],[4.52644559901273,50.73676720944059],[4.52785879873602,50.73683436758421],[4.52796386241147,50.73593829850518],[4.52937703898669,50.73600543786466],[4.52948207078293,50.73510936697284],[4.53104196619472,50.73518342841089]]],"type":"Polygon"}
+}

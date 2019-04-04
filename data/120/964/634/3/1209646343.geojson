@@ -1,0 +1,64 @@
+{
+  "id": 1209646343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.15275,50.51342,5.15275,50.51342",
+    "geom:latitude":50.51342,
+    "geom:longitude":5.15275,
+    "gn:admin1_code":"WAL",
+    "gn:admin2_code":"WLG",
+    "gn:admin3_code":"61.0",
+    "gn:admin4_code":"61072.0",
+    "gn:asciiname":"Java",
+    "gn:country_code":"BE",
+    "gn:dem":75,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2794952,
+    "gn:latitude":50.51342,
+    "gn:longitude":5.15275,
+    "gn:modification_date":"2018-07-04",
+    "gn:name":"Java",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2794952
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"1f839db8c1210c7efde9e56436948e08",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "locality_id":1209646343
+        }
+    ],
+    "wof:id":1209646343,
+    "wof:lastmodified":1536280723,
+    "wof:name":"Java",
+    "wof:parent_id":85632997,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.15275,
+    50.51342,
+    5.15275,
+    50.51342
+],
+  "geometry": {"coordinates":[5.15275,50.51342],"type":"Point"}
+}

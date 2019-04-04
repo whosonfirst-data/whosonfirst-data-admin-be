@@ -1,0 +1,68 @@
+{
+  "id": 1209449611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.48557,50.00255,5.48557,50.00255",
+    "geom:latitude":50.00255,
+    "geom:longitude":5.48557,
+    "gn:admin1_code":"WAL",
+    "gn:admin2_code":"WLX",
+    "gn:admin3_code":"84.0",
+    "gn:admin4_code":"84077.0",
+    "gn:asciiname":"Pironpre",
+    "gn:country_code":"BE",
+    "gn:dem":434,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2788935,
+    "gn:latitude":50.00255,
+    "gn:longitude":5.48557,
+    "gn:modification_date":"2017-03-25",
+    "gn:name":"Pironpr\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pirompr\u00e9",
+        "Pironpr\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2788935
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"c15a3d2dd894af118f3b4849ea07baa5",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "locality_id":1209449611
+        }
+    ],
+    "wof:id":1209449611,
+    "wof:lastmodified":1537586944,
+    "wof:name":"Pironpre",
+    "wof:parent_id":85632997,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.48557,
+    50.00255,
+    5.48557,
+    50.00255
+],
+  "geometry": {"coordinates":[5.48557,50.00255],"type":"Point"}
+}

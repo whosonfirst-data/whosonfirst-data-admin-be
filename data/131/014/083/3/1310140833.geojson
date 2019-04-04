@@ -1,0 +1,72 @@
+{
+  "id": 1310140833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.45,50.48333,4.45,50.48333",
+    "geom:latitude":50.48333,
+    "geom:longitude":4.45,
+    "gn:admin1_code":"WAL",
+    "gn:admin2_code":"WHT",
+    "gn:admin3_code":"52.0",
+    "gn:admin4_code":"52011.0",
+    "gn:asciiname":"Malgre Tout",
+    "gn:country_code":"BE",
+    "gn:dem":150,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2791840,
+    "gn:latitude":50.48333,
+    "gn:longitude":4.45,
+    "gn:modification_date":"2017-03-25",
+    "gn:name":"Malgr\u00e9 Tout",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681723,
+        102191581,
+        85632997,
+        404227353,
+        102049927
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2791840
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"16d16b4bdd5ab02eda52cc1aa5da744e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049927,
+            "locality_id":1310140833,
+            "macroregion_id":404227353,
+            "region_id":85681723
+        }
+    ],
+    "wof:id":1310140833,
+    "wof:lastmodified":1536945951,
+    "wof:name":"Malgre Tout",
+    "wof:parent_id":102049927,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.45,
+    50.48333,
+    4.45,
+    50.48333
+],
+  "geometry": {"coordinates":[4.45,50.48333],"type":"Point"}
+}

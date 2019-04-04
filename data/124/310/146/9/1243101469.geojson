@@ -1,0 +1,76 @@
+{
+  "id": 1243101469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.76902,50.15348,5.76902,50.15348",
+    "geom:latitude":50.15348,
+    "geom:longitude":5.76902,
+    "gn:admin1_code":"WAL",
+    "gn:admin2_code":"WLX",
+    "gn:admin3_code":"82.0",
+    "gn:admin4_code":"82014.0",
+    "gn:asciiname":"Mont",
+    "gn:cc2":"BE",
+    "gn:country_code":"BE",
+    "gn:dem":444,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2790852,
+    "gn:latitude":50.15348,
+    "gn:longitude":5.76902,
+    "gn:modification_date":"2011-10-19",
+    "gn:name":"Mont",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Houffalize (Mont)"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681727,
+        102191581,
+        85632997,
+        404227353,
+        102049915
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2790852
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"464da19011f276c2ac6558a08869161f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049915,
+            "locality_id":1243101469,
+            "macroregion_id":404227353,
+            "region_id":85681727
+        }
+    ],
+    "wof:id":1243101469,
+    "wof:lastmodified":1537586962,
+    "wof:name":"Mont",
+    "wof:parent_id":102049915,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.76902,
+    50.15348,
+    5.76902,
+    50.15348
+],
+  "geometry": {"coordinates":[5.76902,50.15348],"type":"Point"}
+}

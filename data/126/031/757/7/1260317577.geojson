@@ -1,0 +1,79 @@
+{
+  "id": 1260317577,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.38545,51.04145,5.38545,51.04145",
+    "geom:latitude":51.04145,
+    "geom:longitude":5.38545,
+    "gn:admin1_code":"VLG",
+    "gn:admin2_code":"VLI",
+    "gn:admin3_code":"72.0",
+    "gn:admin4_code":"72039.0",
+    "gn:asciiname":"Laak",
+    "gn:country_code":"BE",
+    "gn:dem":68,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2793824,
+    "gn:latitude":51.04145,
+    "gn:longitude":5.38545,
+    "gn:modification_date":"2016-08-02",
+    "gn:name":"Laak",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Laek",
+        "Lauk",
+        "Laak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681705,
+        102191581,
+        1108830235,
+        85632997,
+        404227357,
+        102049993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2793824
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"003da300171aaa4a83bfaac3f199e41d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049993,
+            "localadmin_id":1108830235,
+            "locality_id":1260317577,
+            "macroregion_id":404227357,
+            "region_id":85681705
+        }
+    ],
+    "wof:id":1260317577,
+    "wof:lastmodified":1537586993,
+    "wof:name":"Laak",
+    "wof:parent_id":1108830235,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.38545,
+    51.04145,
+    5.38545,
+    51.04145
+],
+  "geometry": {"coordinates":[5.38545,51.04145],"type":"Point"}
+}

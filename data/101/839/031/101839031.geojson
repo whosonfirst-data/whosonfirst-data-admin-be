@@ -1,0 +1,122 @@
+{
+  "id": 101839031,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000069,
+    "geom:area_square_m":536684.671636,
+    "geom:bbox":"4.15647862848,51.2838480132,4.1685763749,51.2957770842",
+    "geom:latitude":51.290554,
+    "geom:longitude":4.163535,
+    "iso:country":"BE",
+    "lbl:latitude":51.291226,
+    "lbl:longitude":4.165139,
+    "mps:latitude":51.291226,
+    "mps:longitude":4.165139,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Nieuw-Namen"
+    ],
+    "name:dut_x_variant":[
+        "Nieuw Naman"
+    ],
+    "name:eng_x_preferred":[
+        "Nieuw-Namen"
+    ],
+    "name:fra_x_preferred":[
+        "Nieuw-Namen"
+    ],
+    "name:fre_x_preferred":[
+        "Nieuw-Namen"
+    ],
+    "name:fry_x_preferred":[
+        "Nij-Namen"
+    ],
+    "name:nan_x_preferred":[
+        "Nieuw-Namen"
+    ],
+    "name:nld_x_preferred":[
+        "Nieuw-Namen"
+    ],
+    "name:por_x_preferred":[
+        "Nieuw-Namen"
+    ],
+    "name:unk_x_variant":[
+        "Nieuw Naman"
+    ],
+    "name:zea_x_preferred":[
+        "Nieuw-Naomen"
+    ],
+    "name:zho_min_nan_x_preferred":[
+        "Nieuw-Namen"
+    ],
+    "qs:a0":"Nederland",
+    "qs:a1":"*Vlaams Gewest",
+    "qs:a1r":"0",
+    "qs:adm0":"Nederland",
+    "qs:la":"Hulst",
+    "qs:la_lc":"*NL290677",
+    "qs:level":"locality",
+    "qs:loc":"Nieuw-Namen",
+    "qs:loc_alt":"Nieuw-Namen",
+    "qs:pop":0,
+    "qs:source":"DCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-multi-in-poly-resolved",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":112,
+    "wof:belongsto":[
+        85681733,
+        102191581,
+        1108830193,
+        85632997,
+        404227357,
+        102049997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"01f1745a-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2750155,
+        "gp:id":731943,
+        "qs:id":6,
+        "tgn:id":7267784,
+        "wd:id":"Q586676",
+        "wk:page":"Nieuw-Namen"
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"9c2b9b6bfb7ef4a49970bb2fcde07bb2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049997,
+            "localadmin_id":1108830193,
+            "locality_id":101839031,
+            "macroregion_id":404227357,
+            "region_id":85681733
+        }
+    ],
+    "wof:id":101839031,
+    "wof:lang":[
+        "dut"
+    ],
+    "wof:lastmodified":1527715393,
+    "wof:name":"Nieuw-Namen",
+    "wof:parent_id":1108830193,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.15647862848238,
+    51.28384801319885,
+    4.16857637489625,
+    51.29577708419811
+],
+  "geometry": {"coordinates":[[[4.16857637489625,51.29422836337665],[4.16687936270063,51.28603203455566],[4.16476798346702,51.28592612574346],[4.16488198995734,51.28503058213585],[4.16202299055777,51.28488710147718],[4.16213704679814,51.2839915607592],[4.15927811907318,51.28384801319885],[4.15904989058907,51.28563908788686],[4.16190892881446,51.2857826418732],[4.1616807888181,51.28757372169952],[4.16311036934798,51.28764547561127],[4.16276820096795,51.29033209775594],[4.16133853754332,51.29026033902488],[4.16099623672312,51.2929469534547],[4.15670702238867,51.29273155761166],[4.15647862848238,51.29452262264499],[4.16076800864579,51.29473802813311],[4.16065388634661,51.29563356499006],[4.16351354895448,51.29577708419811],[4.16362761597168,51.29488154412775],[4.16505742579704,51.29495327582549],[4.16517145966969,51.29405773382797],[4.16857637489625,51.29422836337665]]],"type":"Polygon"}
+}

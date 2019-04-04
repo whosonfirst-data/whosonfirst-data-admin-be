@@ -1,0 +1,115 @@
+{
+  "id": 101809263,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000155,
+    "geom:area_square_m":1205741.233549,
+    "geom:bbox":"2.80692604119,50.8803432809,2.83026490271,50.892241202",
+    "geom:latitude":50.885146,
+    "geom:longitude":2.81766,
+    "iso:country":"BE",
+    "lbl:latitude":50.884556,
+    "lbl:longitude":2.81651,
+    "mps:latitude":50.884556,
+    "mps:longitude":2.81651,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bre_x_preferred":[
+        "Elverdinge"
+    ],
+    "name:dut_x_preferred":[
+        "Elverdinge"
+    ],
+    "name:eng_x_preferred":[
+        "Elverdinghe"
+    ],
+    "name:fra_x_preferred":[
+        "Elverdinge"
+    ],
+    "name:fre_x_preferred":[
+        "Elverdinge"
+    ],
+    "name:hun_x_preferred":[
+        "Elverdinge"
+    ],
+    "name:nld_x_preferred":[
+        "Elverdinge"
+    ],
+    "name:unk_x_variant":[
+        "Elverdinghe"
+    ],
+    "name:vls_x_preferred":[
+        "Elverdienge"
+    ],
+    "qs:a0":"Belgi\u00eb#Belgique#Belgien",
+    "qs:a1":"*West-Vlanderen",
+    "qs:a1r":"0Vlaams Gewest",
+    "qs:a2":"Ieper",
+    "qs:adm0":"Belgi\u00eb#Belgique#Belgien",
+    "qs:la":"Ieper",
+    "qs:la_lc":"*BE233011",
+    "qs:level":"locality",
+    "qs:loc":"Elverdinge",
+    "qs:loc_alt":"Elverdinge",
+    "qs:pop":0,
+    "qs:source":"LCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":78,
+    "wof:belongsto":[
+        85681709,
+        102191581,
+        1108830595,
+        85632997,
+        404227357,
+        102049971
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"036aa086-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2798798,
+        "gp:id":969360,
+        "qs:id":1072062,
+        "qs_pg:id":1072062,
+        "wd:id":"Q2575787"
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"65473ae0523069e0f7aa81cb799d4486",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049971,
+            "localadmin_id":1108830595,
+            "locality_id":101809263,
+            "macroregion_id":404227357,
+            "region_id":85681709
+        }
+    ],
+    "wof:id":101809263,
+    "wof:lang":[
+        "dut"
+    ],
+    "wof:lastmodified":1527715180,
+    "wof:name":"Elverdinge",
+    "wof:parent_id":1108830595,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.80692604119116,
+    50.88034328088065,
+    2.83026490271209,
+    50.89224120200936
+],
+  "geometry": {"coordinates":[[[2.80947956112408,50.89224120200936],[2.80961823803261,50.89134727766287],[2.81103370584208,50.89143550606224],[2.81131098611439,50.88964765220436],[2.81414182911885,50.88982404929152],[2.8144189755493,50.8880361859533],[2.81866511590704,50.88830064010517],[2.81880359866932,50.88740670196353],[2.8230497027821,50.88767099452309],[2.82291130055961,50.88856493850011],[2.82432670528249,50.88865300335203],[2.8244650806576,50.88775905743086],[2.83012664132627,50.88811113599695],[2.83026490271209,50.88721718188054],[2.8288495320196,50.88712919014165],[2.82898781365571,50.88623523754597],[2.82757247472341,50.88614723044378],[2.82826391817292,50.88167747084947],[2.82684871836437,50.88158945615669],[2.82698701410351,50.88069550491389],[2.82132637136834,50.88034328088065],[2.82118796828058,50.88123722434852],[2.81411214133368,50.88079654526206],[2.8139735974604,50.88169047857969],[2.81114324746125,50.88151408193005],[2.81100464330569,50.88240801093087],[2.80817425933316,50.8822315411735],[2.80748087097237,50.88670116034928],[2.80889619469389,50.88678941362008],[2.80848016281811,50.88947118589101],[2.8070647585626,50.88938292677472],[2.80692604119116,50.89027684807013],[2.80834147229342,50.89036510913508],[2.80806407139335,50.89215295435429],[2.80947956112408,50.89224120200936]]],"type":"Polygon"}
+}

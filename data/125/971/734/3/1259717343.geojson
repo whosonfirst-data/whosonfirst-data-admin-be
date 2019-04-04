@@ -1,0 +1,74 @@
+{
+  "id": 1259717343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.30734,51.2763,3.30734,51.2763",
+    "geom:latitude":51.2763,
+    "geom:longitude":3.30734,
+    "gn:admin1_code":"VLG",
+    "gn:admin2_code":"VWV",
+    "gn:admin3_code":"31.0",
+    "gn:admin4_code":"31006.0",
+    "gn:asciiname":"Monnikerede",
+    "gn:country_code":"BE",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":9796482,
+    "gn:latitude":51.2763,
+    "gn:longitude":3.30734,
+    "gn:modification_date":"2016-08-02",
+    "gn:name":"Monnikerede",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681709,
+        102191581,
+        1108830063,
+        85632997,
+        404227357,
+        102050003
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9796482
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"6afde85d9802ba92f5b2c7ca2df8fefc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102050003,
+            "localadmin_id":1108830063,
+            "locality_id":1259717343,
+            "macroregion_id":404227357,
+            "region_id":85681709
+        }
+    ],
+    "wof:id":1259717343,
+    "wof:lastmodified":1537017630,
+    "wof:name":"Monnikerede",
+    "wof:parent_id":1108830063,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.30734,
+    51.2763,
+    3.30734,
+    51.2763
+],
+  "geometry": {"coordinates":[3.30734,51.2763],"type":"Point"}
+}

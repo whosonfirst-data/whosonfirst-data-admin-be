@@ -1,0 +1,101 @@
+{
+  "id": 1125776705,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.4859,49.71791,5.4859,49.71791",
+    "geom:latitude":49.71791,
+    "geom:longitude":5.4859,
+    "gn:gn_country":"BE",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"BE",
+    "lbl:latitude":49.71791,
+    "lbl:longitude":5.4859,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Rossignol"
+    ],
+    "name:eng_x_preferred":[
+        "Rossignol"
+    ],
+    "name:fre_x_preferred":[
+        "Rossignol"
+    ],
+    "name:hun_x_preferred":[
+        "Rossignol"
+    ],
+    "qs_pg:aaroncc":"BE",
+    "qs_pg:gn_country":"BE",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2787686,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Rossignol",
+    "qs_pg:name_adm0":"Belgique",
+    "qs_pg:name_adm1":"Luxembourg",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":2,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1159752,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424757,
+    "qs_pg:woe_id":976456,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424757,
+    "woe:name_adm0":"Belgique",
+    "woe:name_adm1":"Luxembourg",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85681727,
+        102191581,
+        85632997,
+        404227353,
+        102049907
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2787686,
+        "gp:id":976456,
+        "qs_pg:id":1159752,
+        "wd:id":"Q3442836"
+    },
+    "wof:country":"BE",
+    "wof:created":1497290292,
+    "wof:geomhash":"d88eb07040d7d7b1295c050145e84469",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049907,
+            "locality_id":1125776705,
+            "macroregion_id":404227353,
+            "region_id":85681727
+        }
+    ],
+    "wof:id":1125776705,
+    "wof:lastmodified":1513899482,
+    "wof:name":"Rossignol",
+    "wof:parent_id":102049907,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.4859,
+    49.71791,
+    5.4859,
+    49.71791
+],
+  "geometry": {"coordinates":[5.4859,49.71791],"type":"Point"}
+}

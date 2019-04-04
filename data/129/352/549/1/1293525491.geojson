@@ -1,0 +1,72 @@
+{
+  "id": 1293525491,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.03685,50.66199,4.03685,50.66199",
+    "geom:latitude":50.66199,
+    "geom:longitude":4.03685,
+    "gn:admin1_code":"WAL",
+    "gn:admin2_code":"WHT",
+    "gn:admin3_code":"55.0",
+    "gn:admin4_code":"55039.0",
+    "gn:asciiname":"Maire Bois",
+    "gn:country_code":"BE",
+    "gn:dem":73,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2791904,
+    "gn:latitude":50.66199,
+    "gn:longitude":4.03685,
+    "gn:modification_date":"2017-03-25",
+    "gn:name":"Maire Bois",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681723,
+        102191581,
+        85632997,
+        404227353,
+        102049943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2791904
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"8b999e9aa430835c63da328be2536bd8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049943,
+            "locality_id":1293525491,
+            "macroregion_id":404227353,
+            "region_id":85681723
+        }
+    ],
+    "wof:id":1293525491,
+    "wof:lastmodified":1536732479,
+    "wof:name":"Maire Bois",
+    "wof:parent_id":102049943,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.03685,
+    50.66199,
+    4.03685,
+    50.66199
+],
+  "geometry": {"coordinates":[4.03685,50.66199],"type":"Point"}
+}

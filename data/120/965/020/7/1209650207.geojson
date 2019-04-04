@@ -1,0 +1,68 @@
+{
+  "id": 1209650207,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.73047,50.97645,3.73047,50.97645",
+    "geom:latitude":50.97645,
+    "geom:longitude":3.73047,
+    "gn:admin1_code":"VLG",
+    "gn:admin2_code":"VOV",
+    "gn:admin3_code":"44.0",
+    "gn:admin4_code":"44043.0",
+    "gn:asciiname":"Kwenenbos",
+    "gn:country_code":"BE",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2793830,
+    "gn:latitude":50.97645,
+    "gn:longitude":3.73047,
+    "gn:modification_date":"2016-08-02",
+    "gn:name":"Kwenenbos",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Quenenbosch",
+        "Kwenenbos"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2793830
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"c737f35c91c27eccc538f6cf44d81330",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "locality_id":1209650207
+        }
+    ],
+    "wof:id":1209650207,
+    "wof:lastmodified":1537586994,
+    "wof:name":"Kwenenbos",
+    "wof:parent_id":85632997,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.73047,
+    50.97645,
+    3.73047,
+    50.97645
+],
+  "geometry": {"coordinates":[3.73047,50.97645],"type":"Point"}
+}

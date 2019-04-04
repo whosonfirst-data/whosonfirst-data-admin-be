@@ -1,0 +1,72 @@
+{
+  "id": 1125398647,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2017-05-19",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.30029,50.76339,4.30029,50.76339",
+    "geom:latitude":50.76339,
+    "geom:longitude":4.30029,
+    "gn:gn_country":"BE",
+    "gn:gn_fcode":"ADM4",
+    "gn:gn_pop":24312,
+    "gn:population":24312,
+    "iso:country":"BE",
+    "lbl:latitude":50.76339,
+    "lbl:longitude":4.30029,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"BE",
+    "qs_pg:gn_country":"BE",
+    "qs_pg:gn_fcode":"ADM4",
+    "qs_pg:gn_id":2802434,
+    "qs_pg:gn_pop":24312,
+    "qs_pg:name":"Beersel",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":7,
+    "qs_pg:qs_id":1062798,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85632997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2802434,
+        "qs_pg:id":1062798
+    },
+    "wof:country":"BE",
+    "wof:created":1497049178,
+    "wof:geomhash":"4e162f17fe2d088ed7667c02c63eadd8",
+    "wof:hierarchy":[
+        {
+            "country_id":85632997,
+            "localadmin_id":1125398647
+        }
+    ],
+    "wof:id":1125398647,
+    "wof:lastmodified":1505185646,
+    "wof:name":"Beersel",
+    "wof:parent_id":-1,
+    "wof:placetype":"localadmin",
+    "wof:population":24312,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.30029,
+    50.76339,
+    4.30029,
+    50.76339
+],
+  "geometry": {"coordinates":[4.30029,50.76339],"type":"Point"}
+}

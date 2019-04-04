@@ -1,0 +1,74 @@
+{
+  "id": 1310436253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.95007,51.22447,4.95007,51.22447",
+    "geom:latitude":51.22447,
+    "geom:longitude":4.95007,
+    "gn:admin1_code":"VLG",
+    "gn:admin2_code":"VAN",
+    "gn:admin3_code":"13.0",
+    "gn:admin4_code":"13017.0",
+    "gn:asciiname":"Goor",
+    "gn:country_code":"BE",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2797412,
+    "gn:latitude":51.22447,
+    "gn:longitude":4.95007,
+    "gn:modification_date":"2016-08-02",
+    "gn:name":"Goor",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681715,
+        102191581,
+        1108830677,
+        85632997,
+        404227357,
+        102050007
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2797412
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"49ca7bc45317178770f8c245229ccbac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102050007,
+            "localadmin_id":1108830677,
+            "locality_id":1310436253,
+            "macroregion_id":404227357,
+            "region_id":85681715
+        }
+    ],
+    "wof:id":1310436253,
+    "wof:lastmodified":1537016250,
+    "wof:name":"Goor",
+    "wof:parent_id":1108830677,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.95007,
+    51.22447,
+    4.95007,
+    51.22447
+],
+  "geometry": {"coordinates":[4.95007,51.22447],"type":"Point"}
+}

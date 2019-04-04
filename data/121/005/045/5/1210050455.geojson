@@ -1,0 +1,76 @@
+{
+  "id": 1210050455,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.508,50.96572,4.508,50.96572",
+    "geom:latitude":50.96572,
+    "geom:longitude":4.508,
+    "gn:admin1_code":"WAL",
+    "gn:admin2_code":"WHT",
+    "gn:asciiname":"Wippendries",
+    "gn:country_code":"BE",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2783552,
+    "gn:latitude":50.96572,
+    "gn:longitude":4.508,
+    "gn:modification_date":"2011-02-07",
+    "gn:name":"Wippendries",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ouden Wippendries",
+        "Wippendries"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681731,
+        102191581,
+        1108830589,
+        85632997,
+        404227357,
+        102049973
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2783552
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"8c8c921adf68ccf32aede3bb5c55ea65",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049973,
+            "localadmin_id":1108830589,
+            "locality_id":1210050455,
+            "macroregion_id":404227357,
+            "region_id":85681731
+        }
+    ],
+    "wof:id":1210050455,
+    "wof:lastmodified":1537586881,
+    "wof:name":"Wippendries",
+    "wof:parent_id":1108830589,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.508,
+    50.96572000000001,
+    4.508,
+    50.96572000000001
+],
+  "geometry": {"coordinates":[4.508,50.96572000000001],"type":"Point"}
+}

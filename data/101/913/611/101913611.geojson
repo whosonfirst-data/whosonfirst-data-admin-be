@@ -1,0 +1,104 @@
+{
+  "id": 101913611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-22",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-22",
+    "geom:area":0.0,
+    "geom:area_square_m":352.129824,
+    "geom:bbox":"5.47800041016,50.7636289241,5.47829955042,50.7639405309",
+    "geom:latitude":50.763737,
+    "geom:longitude":5.47819,
+    "iso:country":"BE",
+    "lbl:latitude":50.763728,
+    "lbl:longitude":5.4782,
+    "mps:latitude":50.763728,
+    "mps:longitude":5.4782,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:dut_x_preferred":[
+        "Vreren"
+    ],
+    "name:eng_x_preferred":[
+        "Freeren"
+    ],
+    "name:eng_x_variant":[
+        "Vreeren",
+        "Vreren"
+    ],
+    "name:fre_x_preferred":[
+        "Fr\u00e8res"
+    ],
+    "name:hun_x_preferred":[
+        "Vreren"
+    ],
+    "name:unk_x_variant":[
+        "Freeren"
+    ],
+    "qs:a0":"Belgi\u00eb#Belgique#Belgien",
+    "qs:a1":"*Limburg",
+    "qs:a1r":"0Vlaams Gewest",
+    "qs:a2":"Tongeren",
+    "qs:adm0":"Belgi\u00eb#Belgique#Belgien",
+    "qs:la":"Kortessem",
+    "qs:la_lc":"*BE273040",
+    "qs:level":"locality",
+    "qs:loc":"Vreren",
+    "qs:loc_alt":"Vreren",
+    "qs:pop":0,
+    "qs:source":"LCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-multi-in-poly-resolved",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        85681705,
+        102191581,
+        1108830031,
+        85632997,
+        404227357,
+        1108782563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"036ca0ac-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":2784313,
+        "gp:id":978520,
+        "qs:id":9,
+        "wd:id":"Q2368007"
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"6a33f432ecda7793f16a5d95994280dd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":1108782563,
+            "localadmin_id":1108830031,
+            "locality_id":101913611,
+            "macroregion_id":404227357,
+            "region_id":85681705
+        }
+    ],
+    "wof:id":101913611,
+    "wof:lastmodified":1534985846,
+    "wof:name":"Vreren",
+    "wof:parent_id":1108830031,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[
+        1175610565
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.47800041015972,
+    50.763628924106,
+    5.47829955042124,
+    50.76394053092383
+],
+  "geometry": {"coordinates":[[[5.47800041015972,50.763628924106],[5.47827049503275,50.76394053092383],[5.47829955042124,50.76364065903016],[5.47800041015972,50.763628924106]]],"type":"Polygon"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1209746837,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.13512,50.07596,5.13512,50.07596",
+    "geom:latitude":50.07596,
+    "geom:longitude":5.13512,
+    "gn:admin1_code":"WAL",
+    "gn:admin2_code":"WLX",
+    "gn:admin3_code":"84.0",
+    "gn:admin4_code":"84075.0",
+    "gn:asciiname":"Halma",
+    "gn:country_code":"BE",
+    "gn:dem":239,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2796679,
+    "gn:latitude":50.07596,
+    "gn:longitude":5.13512,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Halma",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681727,
+        102191581,
+        85632997,
+        404227353,
+        102049913
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2796679
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"f65720d921950df35bc775dbd61a8530",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049913,
+            "locality_id":1209746837,
+            "macroregion_id":404227353,
+            "region_id":85681727
+        }
+    ],
+    "wof:id":1209746837,
+    "wof:lastmodified":1536394594,
+    "wof:name":"Halma",
+    "wof:parent_id":102049913,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.13512,
+    50.07596,
+    5.13512,
+    50.07596
+],
+  "geometry": {"coordinates":[5.13512,50.07596],"type":"Point"}
+}

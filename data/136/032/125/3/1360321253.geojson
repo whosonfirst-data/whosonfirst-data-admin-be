@@ -1,0 +1,80 @@
+{
+  "id": 1360321253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.78333,50.73333,2.78333,50.73333",
+    "geom:latitude":50.73333,
+    "geom:longitude":2.78333,
+    "gn:admin1_code":"VLG",
+    "gn:admin2_code":"VWV",
+    "gn:asciiname":"Bremersen",
+    "gn:country_code":"BE",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2801068,
+    "gn:latitude":50.73333,
+    "gn:longitude":2.78333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Bremersen",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Breemeersen",
+        "Bremersen"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85683445,
+        102191581,
+        404228245,
+        1159322339,
+        85633147,
+        1108826399,
+        136253037,
+        102071899
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2801068
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"3cd44191f255fc383e71ab7fb4be198c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "county_id":102071899,
+            "empire_id":136253037,
+            "localadmin_id":1159322339,
+            "locality_id":1360321253,
+            "macrocounty_id":404228245,
+            "macroregion_id":1108826399,
+            "region_id":85683445
+        }
+    ],
+    "wof:id":1360321253,
+    "wof:lastmodified":1537587066,
+    "wof:name":"Bremersen",
+    "wof:parent_id":1159322339,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.78333,
+    50.73333,
+    2.78333,
+    50.73333
+],
+  "geometry": {"coordinates":[2.78333,50.73333],"type":"Point"}
+}

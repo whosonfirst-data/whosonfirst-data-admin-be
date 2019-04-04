@@ -1,0 +1,122 @@
+{
+  "id": 101809237,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000115,
+    "geom:area_square_m":896854.978067,
+    "geom:bbox":"3.25067948972,50.7584743954,3.27033362083,50.7742461523",
+    "geom:latitude":50.7673,
+    "geom:longitude":3.260777,
+    "iso:country":"BE",
+    "lbl:latitude":50.768372,
+    "lbl:longitude":3.260628,
+    "mps:latitude":50.768372,
+    "mps:longitude":3.260628,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bul_x_preferred":[
+        "\u0420\u043e\u043b\u0435\u0433\u0435\u043c"
+    ],
+    "name:ceb_x_preferred":[
+        "Rollegem"
+    ],
+    "name:dut_x_preferred":[
+        "Rollegem"
+    ],
+    "name:eng_x_preferred":[
+        "Rollegem"
+    ],
+    "name:fra_x_preferred":[
+        "Rollegem"
+    ],
+    "name:fre_x_preferred":[
+        "Rollegem"
+    ],
+    "name:hun_x_preferred":[
+        "Rollegem"
+    ],
+    "name:nld_x_preferred":[
+        "Rollegem"
+    ],
+    "name:por_x_preferred":[
+        "Rollegem"
+    ],
+    "name:swe_x_preferred":[
+        "Rollegem"
+    ],
+    "name:unk_x_variant":[
+        "Rolleghem"
+    ],
+    "name:vls_x_preferred":[
+        "Rollegem"
+    ],
+    "qs:a0":"Belgi\u00eb#Belgique#Belgien",
+    "qs:a1":"*West-Vlanderen",
+    "qs:a1r":"0Vlaams Gewest",
+    "qs:a2":"Kortrijk",
+    "qs:adm0":"Belgi\u00eb#Belgique#Belgien",
+    "qs:id":0,
+    "qs:la":"Kortrijk",
+    "qs:la_lc":"*BE234022",
+    "qs:level":"locality",
+    "qs:loc":"Rollegem",
+    "qs:loc_alt":"Rollegem",
+    "qs:pop":0,
+    "qs:source":"LCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":28,
+    "wof:belongsto":[
+        85681709,
+        102191581,
+        1108830299,
+        85632997,
+        404227357,
+        102049961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2787837,
+        "gp:id":976368,
+        "qs:id":349013,
+        "qs_pg:id":349013,
+        "wd:id":"Q2512929",
+        "wk:page":"Rollegem"
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"355d55e8ce8349f92bd0e0c60d7d01fa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049961,
+            "localadmin_id":1108830299,
+            "locality_id":101809237,
+            "macroregion_id":404227357,
+            "region_id":85681709
+        }
+    ],
+    "wof:id":101809237,
+    "wof:lastmodified":1527715179,
+    "wof:name":"Rollegem",
+    "wof:parent_id":1108830299,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.25067948971775,
+    50.75847439543332,
+    3.27033362083324,
+    50.77424615231246
+],
+  "geometry": {"coordinates":[[[3.26094279275009,50.77424615231246],[3.26107229285054,50.77335158887757],[3.26248489215101,50.77343425730419],[3.26274382035251,50.77164512559119],[3.26415637073853,50.77172777310312],[3.2645446365708,50.76904406706564],[3.26595711129607,50.76912669184588],[3.26647460584496,50.76554840423552],[3.26506223809991,50.76546578672907],[3.26545037457561,50.76278207226028],[3.26968725089557,50.76302985660107],[3.27033362083324,50.75855696385668],[3.2689214578254,50.75847439543332],[3.26853357411659,50.76115812683361],[3.26288464709233,50.76082765862901],[3.26236695483294,50.76440593244848],[3.258129986862,50.76415787811993],[3.25800046817375,50.76505244011099],[3.25658812795547,50.76496971897063],[3.25645857636096,50.76586427873929],[3.25080915444562,50.76553321417276],[3.25067948971775,50.76642776625266],[3.25350424497128,50.76659333672416],[3.25337462755635,50.76748789204566],[3.2547870388172,50.76757065319418],[3.25439822978529,50.77025432221131],[3.25157325138599,50.77008877171005],[3.25144358254005,50.77098332360106],[3.25285609618953,50.77106610931094],[3.25272644791909,50.77196066262218],[3.25978921882734,50.77237434115949],[3.25953017128637,50.77416346478969],[3.26094279275009,50.77424615231246]]],"type":"Polygon"}
+}

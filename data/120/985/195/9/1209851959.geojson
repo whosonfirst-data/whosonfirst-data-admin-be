@@ -1,0 +1,72 @@
+{
+  "id": 1209851959,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.60274,50.56774,3.60274,50.56774",
+    "geom:latitude":50.56774,
+    "geom:longitude":3.60274,
+    "gn:admin1_code":"WAL",
+    "gn:admin2_code":"WHT",
+    "gn:admin3_code":"57.0",
+    "gn:admin4_code":"57094.0",
+    "gn:asciiname":"Willaupuis",
+    "gn:country_code":"BE",
+    "gn:dem":51,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2783636,
+    "gn:latitude":50.56774,
+    "gn:longitude":3.60274,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Willaupuis",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
+    "iso:country":"BE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681723,
+        102191581,
+        85632997,
+        404227353,
+        102049951
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2783636
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"a5e0a1010da0e31fa06f552ffd2131aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049951,
+            "locality_id":1209851959,
+            "macroregion_id":404227353,
+            "region_id":85681723
+        }
+    ],
+    "wof:id":1209851959,
+    "wof:lastmodified":1536388005,
+    "wof:name":"Willaupuis",
+    "wof:parent_id":102049951,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.60274,
+    50.56774,
+    3.60274,
+    50.56774
+],
+  "geometry": {"coordinates":[3.60274,50.56774],"type":"Point"}
+}
