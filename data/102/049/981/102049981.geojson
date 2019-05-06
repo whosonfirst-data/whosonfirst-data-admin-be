@@ -10,6 +10,12 @@
     "geom:latitude":50.999588,
     "geom:longitude":3.313019,
     "iso:country":"BE",
+    "label:eng_x_preferred_longname":[
+        "Tielt Arrondissement"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "arrondissement"
+    ],
     "lbl:latitude":51.006985,
     "lbl:longitude":3.331021,
     "mps:latitude":51.006985,
@@ -73,7 +79,7 @@
         }
     ],
     "wof:id":102049981,
-    "wof:lastmodified":1536614021,
+    "wof:lastmodified":1553716261,
     "wof:name":"Tielt",
     "wof:parent_id":85681709,
     "wof:placetype":"county",

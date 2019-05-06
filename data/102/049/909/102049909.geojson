@@ -10,6 +10,12 @@
     "geom:latitude":49.679351,
     "geom:longitude":5.779711,
     "iso:country":"BE",
+    "label:eng_x_preferred_longname":[
+        "Arlon Arrondissement"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "arrondissement"
+    ],
     "lbl:latitude":49.665444,
     "lbl:longitude":5.799128,
     "mps:latitude":49.665444,
@@ -73,7 +79,7 @@
         }
     ],
     "wof:id":102049909,
-    "wof:lastmodified":1536614019,
+    "wof:lastmodified":1553716272,
     "wof:name":"Arlon",
     "wof:parent_id":85681727,
     "wof:placetype":"county",

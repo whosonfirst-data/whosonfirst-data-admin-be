@@ -10,6 +10,12 @@
     "geom:latitude":50.230023,
     "geom:longitude":5.499247,
     "iso:country":"BE",
+    "label:eng_x_preferred_longname":[
+        "Marche-en-Famenne Arrondissement"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "arrondissement"
+    ],
     "lbl:latitude":50.218716,
     "lbl:longitude":5.517526,
     "mps:latitude":50.218716,
@@ -73,7 +79,7 @@
         }
     ],
     "wof:id":102049921,
-    "wof:lastmodified":1536614020,
+    "wof:lastmodified":1553716261,
     "wof:name":"Marche-en-Famenne",
     "wof:parent_id":85681727,
     "wof:placetype":"county",

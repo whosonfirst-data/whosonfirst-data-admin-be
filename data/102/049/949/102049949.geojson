@@ -10,6 +10,12 @@
     "geom:latitude":50.625735,
     "geom:longitude":3.712786,
     "iso:country":"BE",
+    "label:eng_x_preferred_longname":[
+        "Ath Arrondissement"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "arrondissement"
+    ],
     "lbl:latitude":50.620136,
     "lbl:longitude":3.769305,
     "mps:latitude":50.620136,
@@ -73,7 +79,7 @@
         }
     ],
     "wof:id":102049949,
-    "wof:lastmodified":1536614020,
+    "wof:lastmodified":1553716266,
     "wof:name":"Ath",
     "wof:parent_id":85681723,
     "wof:placetype":"county",

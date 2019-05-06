@@ -10,6 +10,12 @@
     "geom:latitude":50.49512,
     "geom:longitude":5.339128,
     "iso:country":"BE",
+    "label:eng_x_preferred_longname":[
+        "Huy Arrondissement"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "arrondissement"
+    ],
     "lbl:latitude":50.468051,
     "lbl:longitude":5.333788,
     "mps:latitude":50.468051,
@@ -73,7 +79,7 @@
         }
     ],
     "wof:id":102049925,
-    "wof:lastmodified":1536614020,
+    "wof:lastmodified":1553716262,
     "wof:name":"Huy",
     "wof:parent_id":85681691,
     "wof:placetype":"county",

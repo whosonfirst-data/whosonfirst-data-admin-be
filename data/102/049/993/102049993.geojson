@@ -10,6 +10,12 @@
     "geom:latitude":51.139446,
     "geom:longitude":5.51536,
     "iso:country":"BE",
+    "label:eng_x_preferred_longname":[
+        "Maaseik Arrondissement"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "arrondissement"
+    ],
     "lbl:latitude":51.144356,
     "lbl:longitude":5.457455,
     "mps:latitude":51.144356,
@@ -73,7 +79,7 @@
         }
     ],
     "wof:id":102049993,
-    "wof:lastmodified":1536614022,
+    "wof:lastmodified":1553716262,
     "wof:name":"Maaseik",
     "wof:parent_id":85681705,
     "wof:placetype":"county",

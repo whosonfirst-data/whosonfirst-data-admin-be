@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.129337,
-    "geom:area_square_m":1000358662.970413,
+    "geom:area_square_m":1000358662.970423,
     "geom:bbox":"4.2165135,51.071701,4.776551,51.48233",
     "geom:latitude":51.280653,
     "geom:longitude":4.505914,
     "iso:country":"BE",
+    "label:eng_x_preferred_longname":[
+        "Antwerpen Arrondissement"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "arrondissement"
+    ],
     "lbl:latitude":51.294746,
     "lbl:longitude":4.54825,
     "mps:latitude":51.294746,
@@ -285,7 +291,7 @@
         }
     ],
     "wof:id":102050005,
-    "wof:lastmodified":1553815732,
+    "wof:lastmodified":1555039013,
     "wof:name":"Antwerpen",
     "wof:parent_id":85681715,
     "wof:placetype":"county",

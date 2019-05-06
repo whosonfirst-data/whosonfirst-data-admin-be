@@ -10,6 +10,12 @@
     "geom:latitude":49.665582,
     "geom:longitude":5.488689,
     "iso:country":"BE",
+    "label:eng_x_preferred_longname":[
+        "Virton Arrondissement"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "arrondissement"
+    ],
     "lbl:latitude":49.630148,
     "lbl:longitude":5.538224,
     "mps:latitude":49.630148,
@@ -73,7 +79,7 @@
         }
     ],
     "wof:id":102049907,
-    "wof:lastmodified":1536614019,
+    "wof:lastmodified":1553716272,
     "wof:name":"Virton",
     "wof:parent_id":85681727,
     "wof:placetype":"county",

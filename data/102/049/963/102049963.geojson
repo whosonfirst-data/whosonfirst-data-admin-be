@@ -10,6 +10,12 @@
     "geom:latitude":50.832897,
     "geom:longitude":3.638065,
     "iso:country":"BE",
+    "label:eng_x_preferred_longname":[
+        "Oudenaarde Arrondissement"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "arrondissement"
+    ],
     "lbl:latitude":50.829772,
     "lbl:longitude":3.61691,
     "mps:latitude":50.829772,
@@ -73,7 +79,7 @@
         }
     ],
     "wof:id":102049963,
-    "wof:lastmodified":1536614021,
+    "wof:lastmodified":1553716261,
     "wof:name":"Oudenaarde",
     "wof:parent_id":85681733,
     "wof:placetype":"county",

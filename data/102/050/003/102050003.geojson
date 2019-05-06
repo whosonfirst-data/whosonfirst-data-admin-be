@@ -10,6 +10,12 @@
     "geom:latitude":51.202986,
     "geom:longitude":3.220392,
     "iso:country":"BE",
+    "label:eng_x_preferred_longname":[
+        "Brugge Arrondissement"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "arrondissement"
+    ],
     "lbl:latitude":51.212732,
     "lbl:longitude":3.220334,
     "mps:latitude":51.212732,
@@ -71,7 +77,7 @@
         }
     ],
     "wof:id":102050003,
-    "wof:lastmodified":1536614022,
+    "wof:lastmodified":1553716261,
     "wof:name":"Brugge",
     "wof:parent_id":85681709,
     "wof:placetype":"county",

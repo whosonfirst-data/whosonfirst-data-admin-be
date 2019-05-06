@@ -10,6 +10,12 @@
     "geom:latitude":50.148449,
     "geom:longitude":4.550609,
     "iso:country":"BE",
+    "label:eng_x_preferred_longname":[
+        "Philippeville Arrondissement"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "arrondissement"
+    ],
     "lbl:latitude":50.132213,
     "lbl:longitude":4.546598,
     "mps:latitude":50.132213,
@@ -73,7 +79,7 @@
         }
     ],
     "wof:id":102049917,
-    "wof:lastmodified":1536614020,
+    "wof:lastmodified":1553716273,
     "wof:name":"Philippeville",
     "wof:parent_id":85681699,
     "wof:placetype":"county",

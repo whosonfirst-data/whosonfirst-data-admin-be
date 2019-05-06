@@ -10,6 +10,12 @@
     "geom:latitude":51.047771,
     "geom:longitude":2.676518,
     "iso:country":"BE",
+    "label:eng_x_preferred_longname":[
+        "Veurne Arrondissement"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "arrondissement"
+    ],
     "lbl:latitude":51.057965,
     "lbl:longitude":2.674501,
     "mps:latitude":51.057965,
@@ -73,7 +79,7 @@
         }
     ],
     "wof:id":102049991,
-    "wof:lastmodified":1536614022,
+    "wof:lastmodified":1553716261,
     "wof:name":"Veurne",
     "wof:parent_id":85681709,
     "wof:placetype":"county",

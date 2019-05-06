@@ -10,6 +10,12 @@
     "geom:latitude":50.613523,
     "geom:longitude":5.607739,
     "iso:country":"BE",
+    "label:eng_x_preferred_longname":[
+        "Li\u00e8ge Arrondissement"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "arrondissement"
+    ],
     "lbl:latitude":50.638783,
     "lbl:longitude":5.584695,
     "mps:latitude":50.638783,
@@ -282,7 +288,7 @@
         }
     ],
     "wof:id":102049941,
-    "wof:lastmodified":1536614020,
+    "wof:lastmodified":1553716272,
     "wof:name":"Li\u00e8ge",
     "wof:parent_id":85681691,
     "wof:placetype":"county",

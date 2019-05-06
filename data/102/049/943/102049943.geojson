@@ -10,6 +10,12 @@
     "geom:latitude":50.597638,
     "geom:longitude":4.045229,
     "iso:country":"BE",
+    "label:eng_x_preferred_longname":[
+        "Soignies Arrondissement"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "arrondissement"
+    ],
     "lbl:latitude":50.582995,
     "lbl:longitude":4.048981,
     "mps:latitude":50.582995,
@@ -73,7 +79,7 @@
         }
     ],
     "wof:id":102049943,
-    "wof:lastmodified":1536614020,
+    "wof:lastmodified":1553716270,
     "wof:name":"Soignies",
     "wof:parent_id":85681723,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":50.940243,
     "geom:longitude":3.116675,
     "iso:country":"BE",
+    "label:eng_x_preferred_longname":[
+        "Roeselare Arrondissement"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "arrondissement"
+    ],
     "lbl:latitude":50.936035,
     "lbl:longitude":3.116718,
     "mps:latitude":50.936035,
@@ -73,7 +79,7 @@
         }
     ],
     "wof:id":102049977,
-    "wof:lastmodified":1536614021,
+    "wof:lastmodified":1553716261,
     "wof:name":"Roeselare",
     "wof:parent_id":85681709,
     "wof:placetype":"county",

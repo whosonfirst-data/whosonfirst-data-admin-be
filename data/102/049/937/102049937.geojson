@@ -10,6 +10,12 @@
     "geom:latitude":50.662789,
     "geom:longitude":5.206478,
     "iso:country":"BE",
+    "label:eng_x_preferred_longname":[
+        "Waremme Arrondissement"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "arrondissement"
+    ],
     "lbl:latitude":50.670332,
     "lbl:longitude":5.228913,
     "mps:latitude":50.670332,
@@ -73,7 +79,7 @@
         }
     ],
     "wof:id":102049937,
-    "wof:lastmodified":1536614020,
+    "wof:lastmodified":1553716263,
     "wof:name":"Waremme",
     "wof:parent_id":85681691,
     "wof:placetype":"county",

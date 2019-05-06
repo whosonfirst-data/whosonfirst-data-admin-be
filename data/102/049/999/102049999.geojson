@@ -10,6 +10,12 @@
     "geom:latitude":51.176689,
     "geom:longitude":2.952877,
     "iso:country":"BE",
+    "label:eng_x_preferred_longname":[
+        "Oostende Arrondissement"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "arrondissement"
+    ],
     "lbl:latitude":51.186798,
     "lbl:longitude":2.965394,
     "mps:latitude":51.186798,
@@ -73,7 +79,7 @@
         }
     ],
     "wof:id":102049999,
-    "wof:lastmodified":1536614022,
+    "wof:lastmodified":1553716261,
     "wof:name":"Oostende",
     "wof:parent_id":85681709,
     "wof:placetype":"county",

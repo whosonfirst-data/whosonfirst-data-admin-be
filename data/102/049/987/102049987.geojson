@@ -10,6 +10,12 @@
     "geom:latitude":51.021497,
     "geom:longitude":2.881249,
     "iso:country":"BE",
+    "label:eng_x_preferred_longname":[
+        "Diksmuide Arrondissement"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "arrondissement"
+    ],
     "lbl:latitude":51.023487,
     "lbl:longitude":2.884026,
     "mps:latitude":51.023487,
@@ -163,7 +169,7 @@
         }
     ],
     "wof:id":102049987,
-    "wof:lastmodified":1536614021,
+    "wof:lastmodified":1553716261,
     "wof:name":"Diksmuide",
     "wof:parent_id":85681709,
     "wof:placetype":"county",

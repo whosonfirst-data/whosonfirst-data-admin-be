@@ -10,6 +10,12 @@
     "geom:latitude":51.074724,
     "geom:longitude":4.526183,
     "iso:country":"BE",
+    "label:eng_x_preferred_longname":[
+        "Mechelen Arrondissement"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "arrondissement"
+    ],
     "lbl:latitude":51.083996,
     "lbl:longitude":4.607085,
     "mps:latitude":51.083996,
@@ -71,7 +77,7 @@
         }
     ],
     "wof:id":102049985,
-    "wof:lastmodified":1536614021,
+    "wof:lastmodified":1553716261,
     "wof:name":"Mechelen",
     "wof:parent_id":85681715,
     "wof:placetype":"county",

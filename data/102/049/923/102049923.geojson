@@ -10,6 +10,12 @@
     "geom:latitude":50.212366,
     "geom:longitude":4.258627,
     "iso:country":"BE",
+    "label:eng_x_preferred_longname":[
+        "Thuin Arrondissement"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "arrondissement"
+    ],
     "lbl:latitude":50.163982,
     "lbl:longitude":4.274083,
     "mps:latitude":50.163982,
@@ -73,7 +79,7 @@
         }
     ],
     "wof:id":102049923,
-    "wof:lastmodified":1536614020,
+    "wof:lastmodified":1553716261,
     "wof:name":"Thuin",
     "wof:parent_id":85681723,
     "wof:placetype":"county",

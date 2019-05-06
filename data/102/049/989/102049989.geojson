@@ -10,6 +10,12 @@
     "geom:latitude":51.060659,
     "geom:longitude":3.664104,
     "iso:country":"BE",
+    "label:eng_x_preferred_longname":[
+        "Gent Arrondissement"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "arrondissement"
+    ],
     "lbl:latitude":51.037848,
     "lbl:longitude":3.686783,
     "mps:latitude":51.037848,
@@ -87,7 +93,7 @@
         }
     ],
     "wof:id":102049989,
-    "wof:lastmodified":1536614021,
+    "wof:lastmodified":1553716261,
     "wof:name":"Gent",
     "wof:parent_id":85681733,
     "wof:placetype":"county",

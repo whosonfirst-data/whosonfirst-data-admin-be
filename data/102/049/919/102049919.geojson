@@ -10,6 +10,12 @@
     "geom:latitude":50.165649,
     "geom:longitude":5.025507,
     "iso:country":"BE",
+    "label:eng_x_preferred_longname":[
+        "Dinant Arrondissement"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "arrondissement"
+    ],
     "lbl:latitude":50.226999,
     "lbl:longitude":4.969267,
     "mps:latitude":50.226999,
@@ -73,7 +79,7 @@
         }
     ],
     "wof:id":102049919,
-    "wof:lastmodified":1536614020,
+    "wof:lastmodified":1553716273,
     "wof:name":"Dinant",
     "wof:parent_id":85681699,
     "wof:placetype":"county",

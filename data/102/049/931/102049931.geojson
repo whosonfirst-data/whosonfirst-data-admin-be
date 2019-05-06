@@ -10,6 +10,12 @@
     "geom:latitude":50.46098,
     "geom:longitude":4.850782,
     "iso:country":"BE",
+    "label:eng_x_preferred_longname":[
+        "Namur Arrondissement"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "arrondissement"
+    ],
     "lbl:latitude":50.490933,
     "lbl:longitude":4.884186,
     "mps:latitude":50.490933,
@@ -276,7 +282,7 @@
         }
     ],
     "wof:id":102049931,
-    "wof:lastmodified":1536614020,
+    "wof:lastmodified":1553716262,
     "wof:name":"Namur",
     "wof:parent_id":85681699,
     "wof:placetype":"county",
