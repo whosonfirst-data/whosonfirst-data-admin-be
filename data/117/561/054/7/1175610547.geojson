@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000311,
-    "geom:area_square_m":1521567.378764,
+    "geom:area_square_m":2431458.626634,
     "geom:bbox":"5.65220175956,50.7777266131,5.67910817048,50.8177860177",
     "geom:latitude":50.798842,
     "geom:longitude":5.667299,
@@ -74,7 +74,6 @@
         102191581,
         85632997,
         404227353,
-        101810467,
         102049941
     ],
     "wof:breaches":[],
@@ -93,13 +92,13 @@
             "continent_id":102191581,
             "country_id":85632997,
             "county_id":102049941,
-            "locality_id":101810467,
+            "locality_id":1175610547,
             "macroregion_id":404227353,
             "region_id":85681691
         }
     ],
     "wof:id":1175610547,
-    "wof:lastmodified":1534985844,
+    "wof:lastmodified":1559587839,
     "wof:name":"Kanne",
     "wof:parent_id":102049941,
     "wof:placetype":"locality",

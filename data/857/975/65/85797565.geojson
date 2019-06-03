@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":12632934.258449,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.058216,50.891282,6.058216,50.891282",
     "geom:latitude":50.891282,
     "geom:longitude":6.058216,
@@ -64,7 +64,8 @@
         102191581,
         404474489,
         85633337,
-        1158817899
+        1158817899,
+        136253051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -78,6 +79,7 @@
         {
             "continent_id":102191581,
             "country_id":85633337,
+            "empire_id":136253051,
             "localadmin_id":404474489,
             "locality_id":1158817899,
             "neighbourhood_id":85797565,
@@ -88,7 +90,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1531861890,
+    "wof:lastmodified":1559595824,
     "wof:name":"Geitberg",
     "wof:parent_id":1158817899,
     "wof:placetype":"neighbourhood",
