@@ -18,13 +18,10 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
-    "name:dut_x_preferred":[
-        "Woelingen"
-    ],
     "name:eng_x_preferred":[
         "Ollignies"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Ollignies"
     ],
     "name:hun_x_preferred":[
@@ -32,6 +29,9 @@
     ],
     "name:ita_x_preferred":[
         "Ollignies"
+    ],
+    "name:nld_x_preferred":[
+        "Woelingen"
     ],
     "name:unk_x_variant":[
         "Woelingen"
@@ -90,7 +90,7 @@
         }
     ],
     "wof:id":1125906727,
-    "wof:lastmodified":1513899440,
+    "wof:lastmodified":1561831462,
     "wof:name":"Ollignies",
     "wof:parent_id":102049943,
     "wof:placetype":"locality",

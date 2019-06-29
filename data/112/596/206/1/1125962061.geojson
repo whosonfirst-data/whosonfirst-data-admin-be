@@ -21,19 +21,19 @@
     "name:bre_x_preferred":[
         "Wulveringem"
     ],
-    "name:dut_x_preferred":[
-        "Wulveringem"
-    ],
     "name:eng_x_preferred":[
         "Wulveringem"
     ],
     "name:epo_x_preferred":[
         "Wulveringem"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Wulveringem"
     ],
     "name:hun_x_preferred":[
+        "Wulveringem"
+    ],
+    "name:nld_x_preferred":[
         "Wulveringem"
     ],
     "name:unk_x_variant":[
@@ -98,7 +98,7 @@
         }
     ],
     "wof:id":1125962061,
-    "wof:lastmodified":1513899588,
+    "wof:lastmodified":1561831466,
     "wof:name":"Wulveringem",
     "wof:parent_id":1108830165,
     "wof:placetype":"locality",

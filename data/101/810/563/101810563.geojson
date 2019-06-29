@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000223,
-    "geom:area_square_m":1743895.841561,
+    "geom:area_square_m":1743895.84156,
     "geom:bbox":"5.11878195754,50.7336208567,5.14828799937,50.7597438131",
     "geom:latitude":50.744246,
     "geom:longitude":5.133543,
@@ -20,9 +20,6 @@
     "name:afr_x_preferred":[
         "Gingelom"
     ],
-    "name:baq_x_preferred":[
-        "Gingelom"
-    ],
     "name:bre_x_preferred":[
         "Gingelom"
     ],
@@ -32,13 +29,7 @@
     "name:cat_x_preferred":[
         "Gingelom"
     ],
-    "name:chi_x_preferred":[
-        "\u6b23\u5384\u6d1b\u59c6"
-    ],
     "name:deu_x_preferred":[
-        "Gingelom"
-    ],
-    "name:dut_x_preferred":[
         "Gingelom"
     ],
     "name:eng_x_preferred":[
@@ -54,12 +45,6 @@
         "\u0698\u0646\u0698\u0648\u0644\u0648\u0645"
     ],
     "name:fra_x_preferred":[
-        "Gingelom"
-    ],
-    "name:fre_x_preferred":[
-        "Gingelom"
-    ],
-    "name:ger_x_preferred":[
         "Gingelom"
     ],
     "name:hun_x_preferred":[
@@ -83,22 +68,13 @@
     "name:oci_x_preferred":[
         "Gingelom"
     ],
-    "name:per_x_preferred":[
-        "\u0698\u0646\u0698\u0648\u0644\u0648\u0645"
-    ],
     "name:por_x_preferred":[
         "Gingelom"
     ],
     "name:ron_x_preferred":[
         "Gingelom"
     ],
-    "name:rum_x_preferred":[
-        "Gingelom"
-    ],
     "name:slk_x_preferred":[
-        "Gingelom"
-    ],
-    "name:slo_x_preferred":[
         "Gingelom"
     ],
     "name:spa_x_preferred":[
@@ -178,7 +154,7 @@
         }
     ],
     "wof:id":101810563,
-    "wof:lastmodified":1527642426,
+    "wof:lastmodified":1561831415,
     "wof:name":"Gingelom",
     "wof:parent_id":1108830599,
     "wof:placetype":"locality",

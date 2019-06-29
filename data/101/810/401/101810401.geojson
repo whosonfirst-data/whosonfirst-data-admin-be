@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000723,
-    "geom:area_square_m":5700483.154965,
+    "geom:area_square_m":5700483.154964,
     "geom:bbox":"5.03223896514,50.3904589575,5.09981741382,50.4390727313",
     "geom:latitude":50.410787,
     "geom:longitude":5.064699,
@@ -17,9 +17,6 @@
     "mps:longitude":5.065211,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:baq_x_preferred":[
-        "Gesves"
-    ],
     "name:bre_x_preferred":[
         "Gesves"
     ],
@@ -29,13 +26,7 @@
     "name:cat_x_preferred":[
         "Gesves"
     ],
-    "name:chi_x_preferred":[
-        "\u70ed\u5f17"
-    ],
     "name:deu_x_preferred":[
-        "Gesves"
-    ],
-    "name:dut_x_preferred":[
         "Gesves"
     ],
     "name:eng_x_preferred":[
@@ -51,12 +42,6 @@
         "\u0698\u0633\u0648"
     ],
     "name:fra_x_preferred":[
-        "Gesves"
-    ],
-    "name:fre_x_preferred":[
-        "Gesves"
-    ],
-    "name:ger_x_preferred":[
         "Gesves"
     ],
     "name:hun_x_preferred":[
@@ -80,25 +65,16 @@
     "name:oci_x_preferred":[
         "Gesves"
     ],
-    "name:per_x_preferred":[
-        "\u0698\u0633\u0648"
-    ],
     "name:por_x_preferred":[
         "Gesves"
     ],
     "name:ron_x_preferred":[
         "Gesves"
     ],
-    "name:rum_x_preferred":[
-        "Gesves"
-    ],
     "name:rus_x_preferred":[
         "\u0416\u0435\u0432"
     ],
     "name:slk_x_preferred":[
-        "Gesves"
-    ],
-    "name:slo_x_preferred":[
         "Gesves"
     ],
     "name:spa_x_preferred":[
@@ -171,7 +147,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1527642421,
+    "wof:lastmodified":1561831414,
     "wof:name":"Gesves",
     "wof:parent_id":102049931,
     "wof:placetype":"locality",

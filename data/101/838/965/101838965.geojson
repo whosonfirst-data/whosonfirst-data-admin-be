@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000569,
-    "geom:area_square_m":4419977.986516,
+    "geom:area_square_m":4419977.986515,
     "geom:bbox":"5.67291810807,51.0750546519,5.73657091641,51.1013757957",
     "geom:latitude":51.088103,
     "geom:longitude":5.702236,
@@ -16,13 +16,10 @@
     "mps:longitude":5.702237,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:dut_x_preferred":[
-        "Neeroeteren"
-    ],
     "name:eng_x_preferred":[
         "Neeroeteren"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Neeroeteren"
     ],
     "name:hun_x_preferred":[
@@ -30,6 +27,9 @@
     ],
     "name:lim_x_preferred":[
         "Nerotere"
+    ],
+    "name:nld_x_preferred":[
+        "Neeroeteren"
     ],
     "name:unk_x_variant":[
         "Maaseik (Neeroeteren)"
@@ -86,7 +86,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1513899426,
+    "wof:lastmodified":1561831423,
     "wof:name":"Neeroeteren",
     "wof:parent_id":1108830133,
     "wof:placetype":"locality",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000151,
-    "geom:area_square_m":1175804.830422,
+    "geom:area_square_m":1175804.830423,
     "geom:bbox":"2.94765079436,51.0067698824,2.97604192764,51.0222287456",
     "geom:latitude":51.015948,
     "geom:longitude":2.96202,
@@ -19,16 +19,16 @@
     "name:bul_x_preferred":[
         "\u0417\u0430\u0440\u0435\u043d"
     ],
-    "name:dut_x_preferred":[
-        "Zarren"
-    ],
     "name:eng_x_preferred":[
         "Zarren"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Zarren"
     ],
     "name:hun_x_preferred":[
+        "Zarren"
+    ],
+    "name:nld_x_preferred":[
         "Zarren"
     ],
     "name:pol_x_preferred":[
@@ -96,7 +96,7 @@
         }
     ],
     "wof:id":101809355,
-    "wof:lastmodified":1527715163,
+    "wof:lastmodified":1561831428,
     "wof:name":"Zarren",
     "wof:parent_id":1108830511,
     "wof:placetype":"locality",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00116,
-    "geom:area_square_m":9060817.888078,
+    "geom:area_square_m":9060817.888079,
     "geom:bbox":"4.24994873047,50.8024623598,4.3021081925,50.8352795172",
     "geom:latitude":50.818306,
     "geom:longitude":4.276984,
@@ -25,16 +25,13 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":5,
     "mz:tier_metro":30,
-    "name:dut_x_preferred":[
-        "Het Rad"
-    ],
     "name:eng_x_preferred":[
         "La Roue"
     ],
     "name:fra_x_preferred":[
         "Het Rad la Roue"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_variant":[
         "La Roue"
     ],
     "name:nld_x_preferred":[
@@ -104,7 +101,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1527269922,
+    "wof:lastmodified":1561831362,
     "wof:name":"La Roue",
     "wof:parent_id":101751573,
     "wof:placetype":"neighbourhood",

@@ -19,9 +19,6 @@
     "name:deu_x_preferred":[
         "Schlacht von Oth\u00e9e"
     ],
-    "name:dut_x_preferred":[
-        "Elch"
-    ],
     "name:eng_x_preferred":[
         "Oth\u00e9e"
     ],
@@ -29,9 +26,7 @@
         "Bataille d'Oth\u00e9e"
     ],
     "name:fra_x_variant":[
-        "Elch"
-    ],
-    "name:fre_x_preferred":[
+        "Elch",
         "Oth\u00e9e"
     ],
     "name:hun_x_preferred":[
@@ -39,6 +34,9 @@
     ],
     "name:nld_x_preferred":[
         "Slag bij Oth\u00e9e"
+    ],
+    "name:nld_x_variant":[
+        "Elch"
     ],
     "name:nor_x_preferred":[
         "Slaget ved Oth\u00e9e"
@@ -99,7 +97,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1513899449,
+    "wof:lastmodified":1561831433,
     "wof:name":"Oth\u00e9e",
     "wof:parent_id":102049941,
     "wof:placetype":"locality",

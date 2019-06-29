@@ -20,9 +20,6 @@
     "name:ara_x_preferred":[
         "\u062a\u0648\u0628\u064a\u0632"
     ],
-    "name:baq_x_preferred":[
-        "Tubize"
-    ],
     "name:bre_x_preferred":[
         "Tubize"
     ],
@@ -35,14 +32,11 @@
     "name:ceb_x_preferred":[
         "Tubize"
     ],
-    "name:chi_x_preferred":[
-        "\u8482\u6bd4\u5179"
-    ],
     "name:deu_x_preferred":[
         "Tubize"
     ],
-    "name:dut_x_preferred":[
-        "Tubeke"
+    "name:ell_x_preferred":[
+        "\u03a4\u03bf\u03c5\u03bc\u03c0\u03af\u03b6"
     ],
     "name:eng_x_preferred":[
         "Tubize"
@@ -61,15 +55,6 @@
     ],
     "name:fra_x_preferred":[
         "Tubize"
-    ],
-    "name:fre_x_preferred":[
-        "Tubize"
-    ],
-    "name:ger_x_preferred":[
-        "Tubize"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a4\u03bf\u03c5\u03bc\u03c0\u03af\u03b6"
     ],
     "name:hun_x_preferred":[
         "Tubize"
@@ -98,16 +83,10 @@
     "name:oci_x_preferred":[
         "Tubize"
     ],
-    "name:per_x_preferred":[
-        "\u062a\u0648\u0628\u06cc\u0632"
-    ],
     "name:por_x_preferred":[
         "Tubize"
     ],
     "name:ron_x_preferred":[
-        "Tubize"
-    ],
-    "name:rum_x_preferred":[
         "Tubize"
     ],
     "name:rus_x_preferred":[
@@ -117,9 +96,6 @@
         "Tubize"
     ],
     "name:slk_x_preferred":[
-        "Tubize"
-    ],
-    "name:slo_x_preferred":[
         "Tubize"
     ],
     "name:spa_x_preferred":[
@@ -195,7 +171,7 @@
         }
     ],
     "wof:id":101754283,
-    "wof:lastmodified":1527641863,
+    "wof:lastmodified":1561831410,
     "wof:name":"Tubize",
     "wof:parent_id":102049945,
     "wof:placetype":"locality",

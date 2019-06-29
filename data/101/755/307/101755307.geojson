@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000682,
-    "geom:area_square_m":5330825.796967,
+    "geom:area_square_m":5330825.796968,
     "geom:bbox":"3.21028376677,50.7791998595,3.26501740553,50.8182958705",
     "geom:latitude":50.799336,
     "geom:longitude":3.240753,
@@ -19,16 +19,10 @@
     "name:ceb_x_preferred":[
         "Marke"
     ],
-    "name:dut_x_preferred":[
-        "Marke"
-    ],
     "name:eng_x_preferred":[
         "Marke"
     ],
     "name:fra_x_preferred":[
-        "Marke"
-    ],
-    "name:fre_x_preferred":[
         "Marke"
     ],
     "name:hun_x_preferred":[
@@ -99,7 +93,7 @@
         }
     ],
     "wof:id":101755307,
-    "wof:lastmodified":1527641695,
+    "wof:lastmodified":1561831396,
     "wof:name":"Marke",
     "wof:parent_id":1108830299,
     "wof:placetype":"locality",

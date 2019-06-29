@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000046,
-    "geom:area_square_m":362224.895359,
+    "geom:area_square_m":362224.89536,
     "geom:bbox":"4.3505859375,50.7955193024,4.36218905201,50.8007271758",
     "geom:latitude":50.79768,
     "geom:longitude":4.355702,
@@ -25,22 +25,16 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":5,
     "mz:tier_metro":30,
-    "name:dut_x_preferred":[
-        "Diesdelle"
-    ],
     "name:eng_x_preferred":[
         "Vivier d'Oie / Diesdelle"
     ],
     "name:fra_x_preferred":[
         "Diesdelle"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_variant":[
         "Vivier d'Oie"
     ],
     "name:nld_x_preferred":[
-        "Diesdelle"
-    ],
-    "name:nld_x_variant":[
         "Diesdelle"
     ],
     "name:unk_x_variant":[
@@ -104,7 +98,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1527270440,
+    "wof:lastmodified":1561831366,
     "wof:name":"Vivier d'Oie\n",
     "wof:parent_id":101751573,
     "wof:placetype":"neighbourhood",

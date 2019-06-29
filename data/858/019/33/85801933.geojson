@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":5466556.713527,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.513702,50.859615,4.513702,50.859615",
     "geom:latitude":50.859615,
     "geom:longitude":4.513702,
@@ -24,9 +24,6 @@
     "mz:min_zoom":13.0,
     "mz:tier_locality":1,
     "mz:tier_metro":30,
-    "name:dut_x_preferred":[
-        "Sterrebeek"
-    ],
     "name:fra_x_preferred":[
         "Sterrebeek"
     ],
@@ -73,13 +70,13 @@
     "wd:longitude":4.512678,
     "wd:wordcount":75,
     "wof:belongsto":[
-        85681731,
         102191581,
         1108830453,
         85632997,
         404227357,
         101755517,
-        102049973
+        102049973,
+        85681731
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -108,7 +105,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1531862109,
+    "wof:lastmodified":1561831366,
     "wof:name":"Sterrebeek",
     "wof:parent_id":101755517,
     "wof:placetype":"neighbourhood",

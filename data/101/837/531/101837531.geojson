@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000886,
-    "geom:area_square_m":6878024.789088,
+    "geom:area_square_m":6878024.78909,
     "geom:bbox":"5.23513393767,51.1010160857,5.30286768163,51.1289585032",
     "geom:latitude":51.115,
     "geom:longitude":5.26584,
@@ -20,9 +20,6 @@
     "name:afr_x_preferred":[
         "Leopoldsburg"
     ],
-    "name:baq_x_preferred":[
-        "Leopoldsburg"
-    ],
     "name:bre_x_preferred":[
         "Leopoldsburg"
     ],
@@ -32,13 +29,7 @@
     "name:cat_x_preferred":[
         "Leopoldsburg"
     ],
-    "name:chi_x_preferred":[
-        "\u5229\u5965\u6ce2\u5fb7\u65af\u5e03\u5c14\u683c"
-    ],
     "name:deu_x_preferred":[
-        "Leopoldsburg"
-    ],
-    "name:dut_x_preferred":[
         "Leopoldsburg"
     ],
     "name:eng_x_preferred":[
@@ -47,14 +38,14 @@
     "name:epo_x_preferred":[
         "Leopoldsburg"
     ],
+    "name:eus_x_preferred":[
+        "Leopoldsburg"
+    ],
+    "name:fas_x_preferred":[
+        "\u0644\u0626\u0648\u067e\u0648\u0644\u062f\u0632\u0628\u0648\u0631\u06af"
+    ],
     "name:fra_x_preferred":[
         "Bourg-L\u00e9opold"
-    ],
-    "name:fre_x_preferred":[
-        "Bourg-L\u00e9opold"
-    ],
-    "name:ger_x_preferred":[
-        "Leopoldsburg"
     ],
     "name:hun_x_preferred":[
         "Leopoldsburg"
@@ -83,19 +74,16 @@
     "name:oci_x_preferred":[
         "Leopoldsburg"
     ],
-    "name:per_x_preferred":[
-        "\u0644\u0626\u0648\u067e\u0648\u0644\u062f\u0632\u0628\u0648\u0631\u06af"
-    ],
     "name:pol_x_preferred":[
         "Leopoldsburg"
     ],
     "name:por_x_preferred":[
         "Leopoldsburg"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Leopoldsburg"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Leopoldsburg"
     ],
     "name:spa_x_preferred":[
@@ -121,6 +109,9 @@
     ],
     "name:war_x_preferred":[
         "Leopoldsburg"
+    ],
+    "name:zho_x_preferred":[
+        "\u5229\u5965\u6ce2\u5fb7\u65af\u5e03\u5c14\u683c"
     ],
     "qs:a0":"Belgi\u00eb#Belgique#Belgien",
     "qs:a1":"*Limburg",
@@ -172,7 +163,7 @@
         }
     ],
     "wof:id":101837531,
-    "wof:lastmodified":1553815535,
+    "wof:lastmodified":1561831432,
     "wof:name":"Leopoldsburg",
     "wof:parent_id":1108830467,
     "wof:placetype":"locality",

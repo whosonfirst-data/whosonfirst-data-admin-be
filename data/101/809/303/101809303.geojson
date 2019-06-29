@@ -22,19 +22,10 @@
     "name:deu_x_preferred":[
         "Westrozebeke"
     ],
-    "name:dut_x_preferred":[
-        "Westrozebeke"
-    ],
     "name:eng_x_preferred":[
         "Westrozebeke"
     ],
     "name:fra_x_preferred":[
-        "Westrozebeke"
-    ],
-    "name:fre_x_preferred":[
-        "Westrozebeke"
-    ],
-    "name:ger_x_preferred":[
         "Westrozebeke"
     ],
     "name:hun_x_preferred":[
@@ -107,7 +98,7 @@
         }
     ],
     "wof:id":101809303,
-    "wof:lastmodified":1527715172,
+    "wof:lastmodified":1561831429,
     "wof:name":"Westrozebeke",
     "wof:parent_id":1108830315,
     "wof:placetype":"locality",

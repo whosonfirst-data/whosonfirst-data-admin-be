@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000344,
-    "geom:area_square_m":2715942.701177,
+    "geom:area_square_m":2715942.701178,
     "geom:bbox":"4.36234430501,50.3098245648,4.40865752431,50.3315481428",
     "geom:latitude":50.321314,
     "geom:longitude":4.384676,
@@ -16,16 +16,16 @@
     "mps:longitude":4.388175,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:dut_x_preferred":[
-        "Ham-sur-Heure"
-    ],
     "name:eng_x_preferred":[
         "Ham-sur-Heure"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Ham-sur-Heure"
     ],
     "name:hun_x_preferred":[
+        "Ham-sur-Heure"
+    ],
+    "name:nld_x_preferred":[
         "Ham-sur-Heure"
     ],
     "name:unk_x_variant":[
@@ -80,7 +80,7 @@
         }
     ],
     "wof:id":101755027,
-    "wof:lastmodified":1513899295,
+    "wof:lastmodified":1561831404,
     "wof:name":"Ham-sur-Heure",
     "wof:parent_id":102049923,
     "wof:placetype":"locality",

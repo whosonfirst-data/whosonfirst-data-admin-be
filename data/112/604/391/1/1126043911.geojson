@@ -24,16 +24,16 @@
     "name:bul_x_preferred":[
         "\u0411\u0435\u0440\u0441\u0442"
     ],
-    "name:dut_x_preferred":[
-        "Beerst"
-    ],
     "name:eng_x_preferred":[
         "Beerst"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Beerst"
     ],
     "name:hun_x_preferred":[
+        "Beerst"
+    ],
+    "name:nld_x_preferred":[
         "Beerst"
     ],
     "name:por_x_preferred":[
@@ -97,7 +97,7 @@
         }
     ],
     "wof:id":1126043911,
-    "wof:lastmodified":1513899169,
+    "wof:lastmodified":1561831448,
     "wof:name":"Beerst",
     "wof:parent_id":1108830401,
     "wof:placetype":"locality",

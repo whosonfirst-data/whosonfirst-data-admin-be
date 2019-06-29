@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000889,
-    "geom:area_square_m":6896698.027232,
+    "geom:area_square_m":6896698.027231,
     "geom:bbox":"4.52706622696,51.0998686135,4.60533376829,51.1450935094",
     "geom:latitude":51.126441,
     "geom:longitude":4.569385,
@@ -17,12 +17,6 @@
     "mps:longitude":4.566716,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:arm_x_preferred":[
-        "\u053c\u056b\u0580"
-    ],
-    "name:baq_x_preferred":[
-        "Lier"
-    ],
     "name:bre_x_preferred":[
         "Lier"
     ],
@@ -35,19 +29,13 @@
     "name:ceb_x_preferred":[
         "Lier"
     ],
-    "name:chi_x_preferred":[
-        "\u5229\u5c14"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Lier"
     ],
     "name:dan_x_preferred":[
         "Lier"
     ],
     "name:deu_x_preferred":[
-        "Lier"
-    ],
-    "name:dut_x_preferred":[
         "Lier"
     ],
     "name:eng_x_preferred":[
@@ -71,12 +59,6 @@
     "name:fra_x_preferred":[
         "Lierre"
     ],
-    "name:fre_x_preferred":[
-        "Lierre"
-    ],
-    "name:ger_x_preferred":[
-        "Lier"
-    ],
     "name:gle_x_preferred":[
         "Lier"
     ],
@@ -86,8 +68,8 @@
     "name:hun_x_preferred":[
         "Lier"
     ],
-    "name:ice_x_preferred":[
-        "Lier"
+    "name:hye_x_preferred":[
+        "\u053c\u056b\u0580"
     ],
     "name:isl_x_preferred":[
         "Lier"
@@ -104,7 +86,7 @@
     "name:lit_x_preferred":[
         "Lyras"
     ],
-    "name:mac_x_preferred":[
+    "name:mkd_x_preferred":[
         "\u041b\u0438\u0440"
     ],
     "name:nap_x_preferred":[
@@ -125,9 +107,6 @@
     "name:oci_x_preferred":[
         "Lierre"
     ],
-    "name:per_x_preferred":[
-        "\u0644\u06cc\u0631"
-    ],
     "name:pol_x_preferred":[
         "Lier"
     ],
@@ -137,9 +116,6 @@
     "name:ron_x_preferred":[
         "Lier"
     ],
-    "name:rum_x_preferred":[
-        "Lier"
-    ],
     "name:rus_x_preferred":[
         "\u041b\u0438\u0440"
     ],
@@ -147,9 +123,6 @@
         "\u041b\u044c\u0435\u0440"
     ],
     "name:slk_x_preferred":[
-        "Lier"
-    ],
-    "name:slo_x_preferred":[
         "Lier"
     ],
     "name:slv_x_preferred":[
@@ -238,7 +211,7 @@
         }
     ],
     "wof:id":101754363,
-    "wof:lastmodified":1527641852,
+    "wof:lastmodified":1561831408,
     "wof:name":"Lier",
     "wof:parent_id":1108830097,
     "wof:placetype":"locality",

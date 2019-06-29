@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000382,
-    "geom:area_square_m":2989520.622048,
+    "geom:area_square_m":2989520.622049,
     "geom:bbox":"3.26980661815,50.7606762377,3.31629560644,50.787207503",
     "geom:latitude":50.774476,
     "geom:longitude":3.2913,
@@ -22,16 +22,10 @@
     "name:ceb_x_preferred":[
         "Bellegem"
     ],
-    "name:dut_x_preferred":[
-        "Bellegem"
-    ],
     "name:eng_x_preferred":[
         "Bellegem"
     ],
     "name:fra_x_preferred":[
-        "Bellegem"
-    ],
-    "name:fre_x_preferred":[
         "Bellegem"
     ],
     "name:hun_x_preferred":[
@@ -105,7 +99,7 @@
         }
     ],
     "wof:id":101809229,
-    "wof:lastmodified":1527715163,
+    "wof:lastmodified":1561831428,
     "wof:name":"Bellegem",
     "wof:parent_id":1108830299,
     "wof:placetype":"locality",

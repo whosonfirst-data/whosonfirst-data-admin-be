@@ -7,7 +7,7 @@
     "edtf:inception":"uuuu",
     "edtf:superseded":"2018-08-22",
     "geom:area":0.001138,
-    "geom:area_square_m":8820881.394777,
+    "geom:area_square_m":8820881.394776,
     "geom:bbox":"3.52822049945,51.1667086011,3.59918018415,51.2050087703",
     "geom:latitude":51.18563,
     "geom:longitude":3.561904,
@@ -19,9 +19,6 @@
     "mps:longitude":3.567371,
     "mz:hierarchy_label":1,
     "mz:is_current":0,
-    "name:baq_x_preferred":[
-        "Eeklo"
-    ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u0406\u043a\u043b\u0430"
     ],
@@ -34,16 +31,13 @@
     "name:cat_x_preferred":[
         "Eeklo"
     ],
-    "name:chi_x_preferred":[
-        "\u57c3\u514b\u6d1b"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Eeklo"
     ],
     "name:dan_x_preferred":[
         "Eeklo"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Eeklo"
     ],
     "name:eng_x_preferred":[
@@ -59,10 +53,13 @@
     "name:est_x_preferred":[
         "Eeklo"
     ],
-    "name:fre_x_preferred":[
+    "name:eus_x_preferred":[
         "Eeklo"
     ],
-    "name:ger_x_preferred":[
+    "name:fas_x_preferred":[
+        "\u0627\u06a9\u0644\u0648"
+    ],
+    "name:fra_x_preferred":[
         "Eeklo"
     ],
     "name:hun_x_preferred":[
@@ -77,14 +74,14 @@
     "name:lit_x_preferred":[
         "\u0116klas"
     ],
+    "name:nld_x_preferred":[
+        "Eeklo"
+    ],
     "name:nob_x_preferred":[
         "Eeklo"
     ],
     "name:oci_x_preferred":[
         "Eeklo"
-    ],
-    "name:per_x_preferred":[
-        "\u0627\u06a9\u0644\u0648"
     ],
     "name:pol_x_preferred":[
         "Eeklo"
@@ -92,13 +89,13 @@
     "name:por_x_preferred":[
         "Eeklo"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Eeklo"
     ],
     "name:rus_x_preferred":[
         "\u042d\u043a\u043b\u043e"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Eeklo"
     ],
     "name:spa_x_preferred":[
@@ -124,6 +121,9 @@
     ],
     "name:war_x_preferred":[
         "Eeklo"
+    ],
+    "name:zho_x_preferred":[
+        "\u57c3\u514b\u6d1b"
     ],
     "qs:a0":"Belgi\u00eb#Belgique#Belgien",
     "qs:a1":"*Oost-Vlanderen",
@@ -179,7 +179,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1534985846,
+    "wof:lastmodified":1561831432,
     "wof:name":"Eeklo",
     "wof:parent_id":1108830365,
     "wof:placetype":"locality",

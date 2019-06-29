@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000172,
-    "geom:area_square_m":1335245.670827,
+    "geom:area_square_m":1335245.670826,
     "geom:bbox":"3.40799790858,50.983483728,3.43265935602,51.0026766883",
     "geom:latitude":50.995373,
     "geom:longitude":3.420784,
@@ -22,16 +22,10 @@
     "name:ceb_x_preferred":[
         "Aarsele"
     ],
-    "name:dut_x_preferred":[
-        "Aarsele"
-    ],
     "name:eng_x_preferred":[
         "Aerseele"
     ],
     "name:fra_x_preferred":[
-        "Aarsele"
-    ],
-    "name:fre_x_preferred":[
         "Aarsele"
     ],
     "name:hun_x_preferred":[
@@ -108,7 +102,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1527715180,
+    "wof:lastmodified":1561831431,
     "wof:name":"Aarsele",
     "wof:parent_id":1108830265,
     "wof:placetype":"locality",

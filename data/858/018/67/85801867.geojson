@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":4772047.309249,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.535771,50.605521,5.535771,50.605521",
     "geom:latitude":50.605521,
     "geom:longitude":5.535771,
@@ -23,19 +23,16 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":14.0,
     "mz:tier_locality":3,
-    "name:dut_x_preferred":[
-        "Sclessin"
-    ],
     "name:eng_x_preferred":[
         "Sclessin"
     ],
     "name:fra_x_preferred":[
         "Sclessin"
     ],
-    "name:fre_x_preferred":[
+    "name:ltz_x_preferred":[
         "Sclessin"
     ],
-    "name:ltz_x_preferred":[
+    "name:nld_x_preferred":[
         "Sclessin"
     ],
     "name:wln_x_preferred":[
@@ -48,12 +45,12 @@
     ],
     "src:lbl:centroid":"yerbashapes",
     "wof:belongsto":[
-        85681691,
         102191581,
         85632997,
         404227353,
         101748083,
-        102049941
+        102049941,
+        85681691
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -80,7 +77,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1531862104,
+    "wof:lastmodified":1561831364,
     "wof:name":"Sclessin",
     "wof:parent_id":101748083,
     "wof:placetype":"neighbourhood",

@@ -28,19 +28,10 @@
     "name:deu_x_preferred":[
         "Melsele"
     ],
-    "name:dut_x_preferred":[
-        "Melsele"
-    ],
     "name:eng_x_preferred":[
         "Melsele"
     ],
     "name:fra_x_preferred":[
-        "Melsele"
-    ],
-    "name:fre_x_preferred":[
-        "Melsele"
-    ],
-    "name:ger_x_preferred":[
         "Melsele"
     ],
     "name:hun_x_preferred":[
@@ -97,7 +88,7 @@
         }
     ],
     "wof:id":101838989,
-    "wof:lastmodified":1513899400,
+    "wof:lastmodified":1561831427,
     "wof:name":"Melsele",
     "wof:parent_id":1108830621,
     "wof:placetype":"locality",

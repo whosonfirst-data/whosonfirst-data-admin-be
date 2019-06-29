@@ -16,9 +16,6 @@
     "mps:longitude":4.368897,
     "mz:hierarchy_label":1,
     "mz:is_current":0,
-    "name:dut_x_preferred":[
-        "Brussel-Hoofstad"
-    ],
     "name:eng_x_preferred":[
         "Brussels"
     ],
@@ -78,7 +75,7 @@
         }
     ],
     "wof:id":102049957,
-    "wof:lastmodified":1537303671,
+    "wof:lastmodified":1561831356,
     "wof:name":"Brussel-Hoofstad",
     "wof:parent_id":85681713,
     "wof:placetype":"county",

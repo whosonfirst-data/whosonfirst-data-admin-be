@@ -21,7 +21,7 @@
     "name:bre_x_preferred":[
         "Steenkerke"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Steenkerke"
     ],
     "name:eng_x_preferred":[
@@ -30,13 +30,13 @@
     "name:est_x_preferred":[
         "Steenkerke"
     ],
-    "name:fre_x_preferred":[
-        "Steenkerke"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Steenkerke"
     ],
     "name:hun_x_preferred":[
+        "Steenkerke"
+    ],
+    "name:nld_x_preferred":[
         "Steenkerke"
     ],
     "name:vls_x_preferred":[
@@ -94,7 +94,7 @@
         }
     ],
     "wof:id":1125900273,
-    "wof:lastmodified":1513899518,
+    "wof:lastmodified":1561831463,
     "wof:name":"Steenkerke",
     "wof:parent_id":1108830165,
     "wof:placetype":"locality",

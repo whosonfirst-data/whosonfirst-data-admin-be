@@ -16,16 +16,10 @@
     "mps:longitude":4.716211,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:dut_x_preferred":[
-        "Vaalbeek"
-    ],
     "name:eng_x_preferred":[
         "Vaalbeek"
     ],
     "name:fra_x_preferred":[
-        "Vaalbeek"
-    ],
-    "name:fre_x_preferred":[
         "Vaalbeek"
     ],
     "name:hun_x_preferred":[
@@ -89,7 +83,7 @@
         }
     ],
     "wof:id":101755367,
-    "wof:lastmodified":1527641702,
+    "wof:lastmodified":1561831403,
     "wof:name":"Vaalbeek",
     "wof:parent_id":1108830043,
     "wof:placetype":"locality",

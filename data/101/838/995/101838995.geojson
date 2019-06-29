@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000471,
-    "geom:area_square_m":3646345.874103,
+    "geom:area_square_m":3646345.874102,
     "geom:bbox":"4.05823303294,51.1808849812,4.0956190456,51.23419189",
     "geom:latitude":51.210354,
     "geom:longitude":4.074655,
@@ -16,9 +16,6 @@
     "mps:longitude":4.074542,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:dut_x_preferred":[
-        "Kemzeke"
-    ],
     "name:eng_x_preferred":[
         "Kemzeke"
     ],
@@ -26,9 +23,6 @@
         "Kemzeke"
     ],
     "name:fra_x_preferred":[
-        "Kemzeke"
-    ],
-    "name:fre_x_preferred":[
         "Kemzeke"
     ],
     "name:hun_x_preferred":[
@@ -90,7 +84,7 @@
         }
     ],
     "wof:id":101838995,
-    "wof:lastmodified":1527715129,
+    "wof:lastmodified":1561831425,
     "wof:name":"Kemzeke",
     "wof:parent_id":1108830283,
     "wof:placetype":"locality",

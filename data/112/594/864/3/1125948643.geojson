@@ -18,20 +18,17 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
-    "name:dut_x_preferred":[
-        "Mark"
-    ],
     "name:eng_x_preferred":[
         "Marcq"
     ],
     "name:fra_x_preferred":[
         "Marcq"
     ],
-    "name:fre_x_preferred":[
-        "Marcq"
-    ],
     "name:hun_x_preferred":[
         "Marcq"
+    ],
+    "name:nld_x_preferred":[
+        "Mark"
     ],
     "name:unk_x_variant":[
         "Mark"
@@ -91,7 +88,7 @@
         }
     ],
     "wof:id":1125948643,
-    "wof:lastmodified":1513899391,
+    "wof:lastmodified":1561831440,
     "wof:name":"Marcq",
     "wof:parent_id":102049943,
     "wof:placetype":"locality",

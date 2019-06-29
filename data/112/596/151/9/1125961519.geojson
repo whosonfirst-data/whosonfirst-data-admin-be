@@ -21,13 +21,10 @@
     "name:bul_x_preferred":[
         "\u041e\u0441\u0442\u0430\u043a\u0435\u0440"
     ],
-    "name:dut_x_preferred":[
-        "Oostakker"
-    ],
     "name:eng_x_preferred":[
         "Oostakker"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Oostakker"
     ],
     "name:hun_x_preferred":[
@@ -35,6 +32,9 @@
     ],
     "name:jpn_x_preferred":[
         "\u30aa\u30fc\u30b9\u30c8\u30c3\u30b1\u30eb"
+    ],
+    "name:nld_x_preferred":[
+        "Oostakker"
     ],
     "name:sco_x_preferred":[
         "Oostakker"
@@ -101,7 +101,7 @@
         }
     ],
     "wof:id":1125961519,
-    "wof:lastmodified":1513899441,
+    "wof:lastmodified":1561831465,
     "wof:name":"Oostakker",
     "wof:parent_id":1108830083,
     "wof:placetype":"locality",

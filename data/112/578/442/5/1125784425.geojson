@@ -18,16 +18,16 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
-    "name:dut_x_preferred":[
-        "Grazen"
-    ],
     "name:eng_x_preferred":[
         "Grazen"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Grazen"
     ],
     "name:hun_x_preferred":[
+        "Grazen"
+    ],
+    "name:nld_x_preferred":[
         "Grazen"
     ],
     "name:unk_x_variant":[
@@ -87,7 +87,7 @@
         }
     ],
     "wof:id":1125784425,
-    "wof:lastmodified":1513899290,
+    "wof:lastmodified":1561831480,
     "wof:name":"Grazen",
     "wof:parent_id":1108830543,
     "wof:placetype":"locality",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00057,
-    "geom:area_square_m":4419697.857871,
+    "geom:area_square_m":4419697.857872,
     "geom:bbox":"5.1076926892,51.1722382059,5.14517041817,51.2075305118",
     "geom:latitude":51.192635,
     "geom:longitude":5.121836,
@@ -20,9 +20,6 @@
     "name:ara_x_preferred":[
         "\u0645\u0648\u0644\u060c \u0628\u0644\u062c\u064a\u0643\u0627"
     ],
-    "name:baq_x_preferred":[
-        "Mol"
-    ],
     "name:bre_x_preferred":[
         "Mol"
     ],
@@ -35,19 +32,16 @@
     "name:ceb_x_preferred":[
         "Mol"
     ],
-    "name:chi_x_preferred":[
-        "\u83ab\u5c14"
+    "name:ces_x_preferred":[
+        "Mol"
     ],
-    "name:cze_x_preferred":[
+    "name:cym_x_preferred":[
         "Mol"
     ],
     "name:dan_x_preferred":[
         "Mol"
     ],
     "name:deu_x_preferred":[
-        "Mol"
-    ],
-    "name:dut_x_preferred":[
         "Mol"
     ],
     "name:eng_x_preferred":[
@@ -68,12 +62,6 @@
     "name:fra_x_preferred":[
         "Mol"
     ],
-    "name:fre_x_preferred":[
-        "Mol"
-    ],
-    "name:ger_x_preferred":[
-        "Mol"
-    ],
     "name:heb_x_preferred":[
         "\u05de\u05d5\u05dc"
     ],
@@ -92,7 +80,7 @@
     "name:lit_x_preferred":[
         "Molas"
     ],
-    "name:mac_x_preferred":[
+    "name:mkd_x_preferred":[
         "\u041c\u043e\u043b"
     ],
     "name:nld_x_preferred":[
@@ -107,25 +95,16 @@
     "name:oci_x_preferred":[
         "Mol"
     ],
-    "name:per_x_preferred":[
-        "\u0645\u0648\u0644"
-    ],
     "name:por_x_preferred":[
         "Mol"
     ],
     "name:ron_x_preferred":[
         "Mol"
     ],
-    "name:rum_x_preferred":[
-        "Mol"
-    ],
     "name:rus_x_preferred":[
         "\u041c\u043e\u043b"
     ],
     "name:slk_x_preferred":[
-        "Mol"
-    ],
-    "name:slo_x_preferred":[
         "Mol"
     ],
     "name:slv_x_preferred":[
@@ -156,9 +135,6 @@
         "Mol"
     ],
     "name:war_x_preferred":[
-        "Mol"
-    ],
-    "name:wel_x_preferred":[
         "Mol"
     ],
     "name:zho_x_preferred":[
@@ -215,7 +191,7 @@
         }
     ],
     "wof:id":101837615,
-    "wof:lastmodified":1553815535,
+    "wof:lastmodified":1561831432,
     "wof:name":"Mol",
     "wof:parent_id":1108830147,
     "wof:placetype":"locality",

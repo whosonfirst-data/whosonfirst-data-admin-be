@@ -17,9 +17,6 @@
     "mps:longitude":2.960444,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:baq_x_preferred":[
-        "Gistel"
-    ],
     "name:bre_x_preferred":[
         "Gistel"
     ],
@@ -29,13 +26,7 @@
     "name:cat_x_preferred":[
         "Gistel"
     ],
-    "name:chi_x_preferred":[
-        "\u5e0c\u65af\u7279\u5c14"
-    ],
     "name:deu_x_preferred":[
-        "Gistel"
-    ],
-    "name:dut_x_preferred":[
         "Gistel"
     ],
     "name:eng_x_preferred":[
@@ -54,12 +45,6 @@
         "\u0698\u06cc\u0633\u062a\u0644"
     ],
     "name:fra_x_preferred":[
-        "Gistel"
-    ],
-    "name:fre_x_preferred":[
-        "Gistel"
-    ],
-    "name:ger_x_preferred":[
         "Gistel"
     ],
     "name:hun_x_preferred":[
@@ -89,9 +74,6 @@
     "name:oci_x_preferred":[
         "Gistel"
     ],
-    "name:per_x_preferred":[
-        "\u0698\u06cc\u0633\u062a\u0644"
-    ],
     "name:pol_x_preferred":[
         "Gistel"
     ],
@@ -101,16 +83,10 @@
     "name:ron_x_preferred":[
         "Gistel"
     ],
-    "name:rum_x_preferred":[
-        "Gistel"
-    ],
     "name:rus_x_preferred":[
         "\u0413\u0438\u0441\u0442\u0435\u043b"
     ],
     "name:slk_x_preferred":[
-        "Gistel"
-    ],
-    "name:slo_x_preferred":[
         "Gistel"
     ],
     "name:spa_x_preferred":[
@@ -188,7 +164,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1527715402,
+    "wof:lastmodified":1561831436,
     "wof:name":"Gistel",
     "wof:parent_id":1108830575,
     "wof:placetype":"locality",

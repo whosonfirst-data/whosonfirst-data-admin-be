@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000616,
-    "geom:area_square_m":4752675.176605,
+    "geom:area_square_m":4752675.176604,
     "geom:bbox":"4.97443445063,51.3574340866,5.03480665553,51.4017757589",
     "geom:latitude":51.375859,
     "geom:longitude":4.998994,
@@ -20,9 +20,6 @@
     "name:ara_x_preferred":[
         "\u0631\u0627\u0641\u064a\u0644\u0633"
     ],
-    "name:baq_x_preferred":[
-        "Ravels"
-    ],
     "name:bre_x_preferred":[
         "Ravels"
     ],
@@ -35,13 +32,7 @@
     "name:ceb_x_preferred":[
         "Ravels"
     ],
-    "name:chi_x_preferred":[
-        "\u62c9\u5f17\u5c14\u65af"
-    ],
     "name:deu_x_preferred":[
-        "Ravels"
-    ],
-    "name:dut_x_preferred":[
         "Ravels"
     ],
     "name:eng_x_preferred":[
@@ -60,12 +51,6 @@
         "Ravels"
     ],
     "name:fra_x_preferred":[
-        "Ravels"
-    ],
-    "name:fre_x_preferred":[
-        "Ravels"
-    ],
-    "name:ger_x_preferred":[
         "Ravels"
     ],
     "name:hun_x_preferred":[
@@ -89,22 +74,13 @@
     "name:oci_x_preferred":[
         "Ravels"
     ],
-    "name:per_x_preferred":[
-        "\u0631\u0648\u0644"
-    ],
     "name:por_x_preferred":[
         "Ravels"
     ],
     "name:ron_x_preferred":[
         "Ravels"
     ],
-    "name:rum_x_preferred":[
-        "Ravels"
-    ],
     "name:slk_x_preferred":[
-        "Ravels"
-    ],
-    "name:slo_x_preferred":[
         "Ravels"
     ],
     "name:spa_x_preferred":[
@@ -178,7 +154,7 @@
         }
     ],
     "wof:id":101809469,
-    "wof:lastmodified":1527715177,
+    "wof:lastmodified":1561831430,
     "wof:name":"Ravels",
     "wof:parent_id":1108830179,
     "wof:placetype":"locality",

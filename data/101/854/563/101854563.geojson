@@ -19,9 +19,6 @@
     "name:bre_x_preferred":[
         "Abele"
     ],
-    "name:dut_x_preferred":[
-        "Abele"
-    ],
     "name:eng_x_preferred":[
         "Abele"
     ],
@@ -65,9 +62,9 @@
         404227357,
         102049971,
         85683445,
-        85633147,
-        404411883,
         404228245,
+        404411883,
+        85633147,
         1108826399,
         136253037,
         102071769
@@ -106,7 +103,7 @@
         }
     ],
     "wof:id":101854563,
-    "wof:lastmodified":1544742772,
+    "wof:lastmodified":1561831431,
     "wof:name":"Abele",
     "wof:parent_id":-4,
     "wof:placetype":"locality",

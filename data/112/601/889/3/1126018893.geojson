@@ -18,9 +18,6 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
-    "name:baq_x_preferred":[
-        "La Bruy\u00e8re"
-    ],
     "name:bre_x_preferred":[
         "La Bruy\u00e8re"
     ],
@@ -30,10 +27,7 @@
     "name:cat_x_preferred":[
         "La Bruy\u00e8re"
     ],
-    "name:chi_x_preferred":[
-        "\u62c9\u5e03\u5415\u57c3"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "La Bruy\u00e8re"
     ],
     "name:eng_x_preferred":[
@@ -42,10 +36,13 @@
     "name:epo_x_preferred":[
         "La Bruy\u00e8re"
     ],
-    "name:fre_x_preferred":[
+    "name:eus_x_preferred":[
         "La Bruy\u00e8re"
     ],
-    "name:ger_x_preferred":[
+    "name:fas_x_preferred":[
+        "\u0644\u0628\u0631\u0648\u06cc\u0631"
+    ],
+    "name:fra_x_preferred":[
         "La Bruy\u00e8re"
     ],
     "name:hun_x_preferred":[
@@ -57,22 +54,22 @@
     "name:lim_x_preferred":[
         "La Bruy\u00e8re"
     ],
+    "name:nld_x_preferred":[
+        "La Bruy\u00e8re"
+    ],
     "name:nob_x_preferred":[
         "La Bruy\u00e8re"
     ],
     "name:oci_x_preferred":[
         "La Bruy\u00e8re"
     ],
-    "name:per_x_preferred":[
-        "\u0644\u0628\u0631\u0648\u06cc\u0631"
-    ],
     "name:por_x_preferred":[
         "La Bruy\u00e8re"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "La Bruy\u00e8re"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "La Bruy\u00e8re"
     ],
     "name:spa_x_preferred":[
@@ -92,6 +89,9 @@
     ],
     "name:wln_x_preferred":[
         "Les Brouhires"
+    ],
+    "name:zho_x_preferred":[
+        "\u62c9\u5e03\u5415\u57c3"
     ],
     "qs_pg:aaroncc":"BE",
     "qs_pg:gn_country":"BE",
@@ -147,7 +147,7 @@
         }
     ],
     "wof:id":1126018893,
-    "wof:lastmodified":1513899349,
+    "wof:lastmodified":1561831467,
     "wof:name":"La Bruyere",
     "wof:parent_id":102049931,
     "wof:placetype":"locality",

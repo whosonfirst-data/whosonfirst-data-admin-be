@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000455,
-    "geom:area_square_m":3597786.982707,
+    "geom:area_square_m":3597786.982706,
     "geom:bbox":"5.9003437061,50.2742187234,5.94656934022,50.2993478326",
     "geom:latitude":50.285338,
     "geom:longitude":5.916752,
@@ -17,9 +17,6 @@
     "mps:longitude":5.917021,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:baq_x_preferred":[
-        "Vielsalm"
-    ],
     "name:bre_x_preferred":[
         "Vielsalm"
     ],
@@ -29,13 +26,7 @@
     "name:cat_x_preferred":[
         "Vielsalm"
     ],
-    "name:chi_x_preferred":[
-        "\u7ef4\u5c14\u8428\u59c6"
-    ],
     "name:deu_x_preferred":[
-        "Vielsalm"
-    ],
-    "name:dut_x_preferred":[
         "Vielsalm"
     ],
     "name:eng_x_preferred":[
@@ -54,12 +45,6 @@
         "\u0648\u06cc\u0644\u0633\u0644\u0645"
     ],
     "name:fra_x_preferred":[
-        "Vielsalm"
-    ],
-    "name:fre_x_preferred":[
-        "Vielsalm"
-    ],
-    "name:ger_x_preferred":[
         "Vielsalm"
     ],
     "name:hun_x_preferred":[
@@ -89,9 +74,6 @@
     "name:oci_x_preferred":[
         "Vielsalm"
     ],
-    "name:per_x_preferred":[
-        "\u0648\u06cc\u0644\u0633\u0644\u0645"
-    ],
     "name:pol_x_preferred":[
         "Vielsalm"
     ],
@@ -101,16 +83,10 @@
     "name:ron_x_preferred":[
         "Vielsalm"
     ],
-    "name:rum_x_preferred":[
-        "Vielsalm"
-    ],
     "name:rus_x_preferred":[
         "\u0412\u044c\u0435\u043b\u044c\u0441\u0430\u043b\u044c\u043c"
     ],
     "name:slk_x_preferred":[
-        "Vielsalm"
-    ],
-    "name:slo_x_preferred":[
         "Vielsalm"
     ],
     "name:spa_x_preferred":[
@@ -180,7 +156,7 @@
         }
     ],
     "wof:id":101811515,
-    "wof:lastmodified":1527642309,
+    "wof:lastmodified":1561831413,
     "wof:name":"Vielsalm",
     "wof:parent_id":102049915,
     "wof:placetype":"locality",

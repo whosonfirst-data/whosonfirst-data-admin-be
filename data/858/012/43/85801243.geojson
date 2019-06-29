@@ -24,8 +24,8 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":5,
     "mz:tier_metro":30,
-    "name:dut_x_preferred":[
-        "Heizel"
+    "name:deu_x_preferred":[
+        "Heyselpark"
     ],
     "name:eng_x_preferred":[
         "Heizel"
@@ -40,12 +40,6 @@
     "name:fra_x_variant":[
         "Heysel"
     ],
-    "name:fre_x_preferred":[
-        "Heysel"
-    ],
-    "name:ger_x_preferred":[
-        "Heyselpark"
-    ],
     "name:heb_x_preferred":[
         "\u05e4\u05d0\u05e8\u05e7 \u05d4\u05d9\u05d9\u05d6\u05dc"
     ],
@@ -56,7 +50,7 @@
         "Heisel"
     ],
     "name:nld_x_variant":[
-        "Heisel"
+        "Heizel"
     ],
     "name:spa_x_preferred":[
         "Heysel"
@@ -131,7 +125,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1513899314,
+    "wof:lastmodified":1561831362,
     "wof:name":"Heysel",
     "wof:parent_id":101751573,
     "wof:placetype":"neighbourhood",

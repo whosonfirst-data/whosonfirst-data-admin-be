@@ -17,9 +17,6 @@
     "mps:longitude":4.597822,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:baq_x_preferred":[
-        "Sombreffe"
-    ],
     "name:bre_x_preferred":[
         "Sombreffe"
     ],
@@ -29,13 +26,7 @@
     "name:cat_x_preferred":[
         "Sombreffe"
     ],
-    "name:chi_x_preferred":[
-        "\u677e\u5e03\u96f7\u592b"
-    ],
     "name:deu_x_preferred":[
-        "Sombreffe"
-    ],
-    "name:dut_x_preferred":[
         "Sombreffe"
     ],
     "name:eng_x_preferred":[
@@ -54,12 +45,6 @@
         "\u0633\u0648\u0645\u0628\u0631\u0641"
     ],
     "name:fra_x_preferred":[
-        "Sombreffe"
-    ],
-    "name:fre_x_preferred":[
-        "Sombreffe"
-    ],
-    "name:ger_x_preferred":[
         "Sombreffe"
     ],
     "name:hun_x_preferred":[
@@ -83,9 +68,6 @@
     "name:oci_x_preferred":[
         "Sombreffe"
     ],
-    "name:per_x_preferred":[
-        "\u0633\u0648\u0645\u0628\u0631\u0641"
-    ],
     "name:pol_x_preferred":[
         "Sombreffe"
     ],
@@ -95,16 +77,10 @@
     "name:ron_x_preferred":[
         "Sombreffe"
     ],
-    "name:rum_x_preferred":[
-        "Sombreffe"
-    ],
     "name:rus_x_preferred":[
         "\u0421\u043e\u043c\u0431\u0440\u0435\u0444"
     ],
     "name:slk_x_preferred":[
-        "Sombreffe"
-    ],
-    "name:slo_x_preferred":[
         "Sombreffe"
     ],
     "name:spa_x_preferred":[
@@ -178,7 +154,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1535390525,
+    "wof:lastmodified":1561831435,
     "wof:name":"Sombreffe",
     "wof:parent_id":102049931,
     "wof:placetype":"locality",

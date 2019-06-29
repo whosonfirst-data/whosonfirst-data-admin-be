@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000826,
-    "geom:area_square_m":6499498.072636,
+    "geom:area_square_m":6499498.072634,
     "geom:bbox":"5.63580011427,50.4540548753,5.70402140889,50.4977653092",
     "geom:latitude":50.474715,
     "geom:longitude":5.672843,
@@ -17,9 +17,6 @@
     "mps:longitude":5.67336,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:baq_x_preferred":[
-        "Aywaille"
-    ],
     "name:bre_x_preferred":[
         "Aywaille"
     ],
@@ -29,13 +26,7 @@
     "name:cat_x_preferred":[
         "Aywaille"
     ],
-    "name:chi_x_preferred":[
-        "\u827e\u74e6\u8036"
-    ],
     "name:deu_x_preferred":[
-        "Aywaille"
-    ],
-    "name:dut_x_preferred":[
         "Aywaille"
     ],
     "name:eng_x_preferred":[
@@ -51,12 +42,6 @@
         "\u0627\u06cc\u0648\u0627\u06cc"
     ],
     "name:fra_x_preferred":[
-        "Aywaille"
-    ],
-    "name:fre_x_preferred":[
-        "Aywaille"
-    ],
-    "name:ger_x_preferred":[
         "Aywaille"
     ],
     "name:hun_x_preferred":[
@@ -86,25 +71,16 @@
     "name:oci_x_preferred":[
         "Aywaille"
     ],
-    "name:per_x_preferred":[
-        "\u0627\u06cc\u0648\u0627\u06cc"
-    ],
     "name:por_x_preferred":[
         "Aywaille"
     ],
     "name:ron_x_preferred":[
         "Aywaille"
     ],
-    "name:rum_x_preferred":[
-        "Aywaille"
-    ],
     "name:rus_x_preferred":[
         "\u042d\u0432\u0430\u0439"
     ],
     "name:slk_x_preferred":[
-        "Aywaille"
-    ],
-    "name:slo_x_preferred":[
         "Aywaille"
     ],
     "name:vie_x_preferred":[
@@ -175,7 +151,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1527641699,
+    "wof:lastmodified":1561831400,
     "wof:name":"Aywaille",
     "wof:parent_id":102049941,
     "wof:placetype":"locality",

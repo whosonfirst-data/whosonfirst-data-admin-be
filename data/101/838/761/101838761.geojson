@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000298,
-    "geom:area_square_m":2325828.479702,
+    "geom:area_square_m":2325828.479703,
     "geom:bbox":"2.84473039176,50.8747183129,2.88140835468,50.9038203864",
     "geom:latitude":50.890679,
     "geom:longitude":2.865836,
@@ -31,19 +31,10 @@
     "name:deu_x_preferred":[
         "Boezinge"
     ],
-    "name:dut_x_preferred":[
-        "Boezinge"
-    ],
     "name:eng_x_preferred":[
         "Boesinghe"
     ],
     "name:fra_x_preferred":[
-        "Boezinge"
-    ],
-    "name:fre_x_preferred":[
-        "Boezinge"
-    ],
-    "name:ger_x_preferred":[
         "Boezinge"
     ],
     "name:hun_x_preferred":[
@@ -120,7 +111,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1527715130,
+    "wof:lastmodified":1561831425,
     "wof:name":"Boezinge",
     "wof:parent_id":1108830595,
     "wof:placetype":"locality",

@@ -21,13 +21,10 @@
     "name:cat_x_preferred":[
         "Cheratte"
     ],
-    "name:dut_x_preferred":[
-        "Cheratte"
-    ],
     "name:eng_x_preferred":[
         "Cheratte"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Cheratte"
     ],
     "name:hun_x_preferred":[
@@ -37,6 +34,9 @@
         "\u30b7\u30e5\u30e9\u30c3\u30c8"
     ],
     "name:ltz_x_preferred":[
+        "Cheratte"
+    ],
+    "name:nld_x_preferred":[
         "Cheratte"
     ],
     "name:unk_x_variant":[
@@ -96,7 +96,7 @@
         }
     ],
     "wof:id":1125829479,
-    "wof:lastmodified":1513899215,
+    "wof:lastmodified":1561831474,
     "wof:name":"Cheratte",
     "wof:parent_id":102049941,
     "wof:placetype":"locality",

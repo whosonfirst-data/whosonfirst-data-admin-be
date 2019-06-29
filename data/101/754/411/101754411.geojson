@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001473,
-    "geom:area_square_m":11424475.107972,
+    "geom:area_square_m":11424475.107971,
     "geom:bbox":"4.86364239845,51.1151861552,4.96712486784,51.1579592143",
     "geom:latitude":51.140479,
     "geom:longitude":4.920198,
@@ -16,16 +16,16 @@
     "mps:longitude":4.91163,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:dut_x_preferred":[
-        "Oevel"
-    ],
     "name:eng_x_preferred":[
         "Oevel"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Oevel"
     ],
     "name:hun_x_preferred":[
+        "Oevel"
+    ],
+    "name:nld_x_preferred":[
         "Oevel"
     ],
     "name:unk_x_variant":[
@@ -79,7 +79,7 @@
         }
     ],
     "wof:id":101754411,
-    "wof:lastmodified":1513899438,
+    "wof:lastmodified":1561831410,
     "wof:name":"Oevel",
     "wof:parent_id":1108830077,
     "wof:placetype":"locality",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000326,
-    "geom:area_square_m":2539020.045057,
+    "geom:area_square_m":2539020.045058,
     "geom:bbox":"4.73194923014,50.908044889,4.77441647226,50.925404338",
     "geom:latitude":50.917137,
     "geom:longitude":4.752488,
@@ -17,9 +17,6 @@
     "mps:longitude":4.757475,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:baq_x_preferred":[
-        "Holsbeek"
-    ],
     "name:bar_x_preferred":[
         "Holsbeek"
     ],
@@ -35,13 +32,7 @@
     "name:ceb_x_preferred":[
         "Holsbeek"
     ],
-    "name:chi_x_preferred":[
-        "\u970d\u5c14\u65af\u8d1d\u514b"
-    ],
     "name:deu_x_preferred":[
-        "Holsbeek"
-    ],
-    "name:dut_x_preferred":[
         "Holsbeek"
     ],
     "name:eng_x_preferred":[
@@ -60,12 +51,6 @@
         "\u0627\u0648\u0644\u0632\u0628\u0626\u06a9"
     ],
     "name:fra_x_preferred":[
-        "Holsbeek"
-    ],
-    "name:fre_x_preferred":[
-        "Holsbeek"
-    ],
-    "name:ger_x_preferred":[
         "Holsbeek"
     ],
     "name:hun_x_preferred":[
@@ -89,22 +74,13 @@
     "name:oci_x_preferred":[
         "Holsbeek"
     ],
-    "name:per_x_preferred":[
-        "\u0627\u0648\u0644\u0632\u0628\u0626\u06a9"
-    ],
     "name:por_x_preferred":[
         "Holsbeek"
     ],
     "name:ron_x_preferred":[
         "Holsbeek"
     ],
-    "name:rum_x_preferred":[
-        "Holsbeek"
-    ],
     "name:slk_x_preferred":[
-        "Holsbeek"
-    ],
-    "name:slo_x_preferred":[
         "Holsbeek"
     ],
     "name:spa_x_preferred":[
@@ -175,7 +151,7 @@
         }
     ],
     "wof:id":101755407,
-    "wof:lastmodified":1527641699,
+    "wof:lastmodified":1561831400,
     "wof:name":"Holsbeek",
     "wof:parent_id":1108830435,
     "wof:placetype":"locality",

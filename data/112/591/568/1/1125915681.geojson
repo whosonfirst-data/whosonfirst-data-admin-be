@@ -24,19 +24,19 @@
     "name:bul_x_preferred":[
         "\u0414\u0440\u0430\u043d\u043e\u0443\u0442\u0435\u0440"
     ],
-    "name:dut_x_preferred":[
-        "Dranouter"
-    ],
     "name:eng_x_preferred":[
         "Dranouter"
     ],
     "name:est_x_preferred":[
         "Dranouter"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Dranouter"
     ],
     "name:hun_x_preferred":[
+        "Dranouter"
+    ],
+    "name:nld_x_preferred":[
         "Dranouter"
     ],
     "name:swe_x_preferred":[
@@ -104,7 +104,7 @@
         }
     ],
     "wof:id":1125915681,
-    "wof:lastmodified":1513899238,
+    "wof:lastmodified":1561831466,
     "wof:name":"Dranouter",
     "wof:parent_id":1108830671,
     "wof:placetype":"locality",

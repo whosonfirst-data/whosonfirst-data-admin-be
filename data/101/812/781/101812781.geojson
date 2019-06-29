@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000273,
-    "geom:area_square_m":2152628.819094,
+    "geom:area_square_m":2152628.819093,
     "geom:bbox":"6.21656010062,50.3995965924,6.27179223742,50.4165358168",
     "geom:latitude":50.407608,
     "geom:longitude":6.249162,
@@ -26,9 +26,6 @@
     "name:ast_x_preferred":[
         "B\u00fcllingen"
     ],
-    "name:baq_x_preferred":[
-        "B\u00fcllingen"
-    ],
     "name:bar_x_preferred":[
         "B\u00fcllingen"
     ],
@@ -41,22 +38,19 @@
     "name:cat_x_preferred":[
         "B\u00fcllingen"
     ],
-    "name:chi_x_preferred":[
-        "\u6bd4\u6797\u6839"
+    "name:ces_x_preferred":[
+        "B\u00fcllingen"
     ],
     "name:cos_x_preferred":[
         "B\u00fcllingen"
     ],
-    "name:cze_x_preferred":[
+    "name:cym_x_preferred":[
         "B\u00fcllingen"
     ],
     "name:dan_x_preferred":[
         "B\u00fcllingen"
     ],
     "name:deu_x_preferred":[
-        "B\u00fcllingen"
-    ],
-    "name:dut_x_preferred":[
         "B\u00fcllingen"
     ],
     "name:eng_x_preferred":[
@@ -80,16 +74,10 @@
     "name:fra_x_preferred":[
         "Bullange"
     ],
-    "name:fre_x_preferred":[
-        "Bullange"
-    ],
     "name:frp_x_preferred":[
         "B\u00fcllingen"
     ],
     "name:fur_x_preferred":[
-        "B\u00fcllingen"
-    ],
-    "name:ger_x_preferred":[
         "B\u00fcllingen"
     ],
     "name:gla_x_preferred":[
@@ -110,9 +98,6 @@
     "name:hun_x_preferred":[
         "B\u00fcllingen"
     ],
-    "name:ice_x_preferred":[
-        "B\u00fcllingen"
-    ],
     "name:ido_x_preferred":[
         "B\u00fcllingen"
     ],
@@ -123,6 +108,9 @@
         "B\u00fcllingen"
     ],
     "name:ind_x_preferred":[
+        "B\u00fcllingen"
+    ],
+    "name:isl_x_preferred":[
         "B\u00fcllingen"
     ],
     "name:ita_x_preferred":[
@@ -146,19 +134,22 @@
     "name:ltz_x_preferred":[
         "B\u00fcllingen"
     ],
-    "name:may_x_preferred":[
-        "B\u00fcllingen"
-    ],
     "name:min_x_preferred":[
         "B\u00fcllingen"
     ],
     "name:mlg_x_preferred":[
         "B\u00fcllingen"
     ],
+    "name:msa_x_preferred":[
+        "B\u00fcllingen"
+    ],
     "name:nap_x_preferred":[
         "B\u00fcllingen"
     ],
     "name:nds_x_preferred":[
+        "B\u00fcllingen"
+    ],
+    "name:nld_x_preferred":[
         "B\u00fcllingen"
     ],
     "name:nno_x_preferred":[
@@ -176,9 +167,6 @@
     "name:pcd_x_preferred":[
         "B\u00fcllingen"
     ],
-    "name:per_x_preferred":[
-        "\u0628\u0648\u0644\u0646\u0698\u0627\u0646"
-    ],
     "name:pms_x_preferred":[
         "B\u00fcllingen"
     ],
@@ -191,7 +179,7 @@
     "name:roh_x_preferred":[
         "B\u00fcllingen"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "B\u00fcllingen"
     ],
     "name:rus_x_preferred":[
@@ -203,7 +191,7 @@
     "name:sco_x_preferred":[
         "B\u00fcllingen"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "B\u00fcllingen"
     ],
     "name:slv_x_preferred":[
@@ -236,14 +224,14 @@
     "name:war_x_preferred":[
         "B\u00fcllingen"
     ],
-    "name:wel_x_preferred":[
-        "B\u00fcllingen"
-    ],
     "name:wln_x_preferred":[
         "Bolindje"
     ],
     "name:wol_x_preferred":[
         "B\u00fcllingen"
+    ],
+    "name:zho_x_preferred":[
+        "\u6bd4\u6797\u6839"
     ],
     "name:zul_x_preferred":[
         "B\u00fcllingen"
@@ -293,7 +281,7 @@
         }
     ],
     "wof:id":101812781,
-    "wof:lastmodified":1527714874,
+    "wof:lastmodified":1561831422,
     "wof:name":"B\u00fcllingen",
     "wof:parent_id":102049935,
     "wof:placetype":"locality",

@@ -16,16 +16,16 @@
     "mps:longitude":4.17769,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:dut_x_preferred":[
-        "Nieuwkerken-Waas"
-    ],
     "name:eng_x_preferred":[
         "Nieuwkerken-Waes"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Nieuwkerken-Waas"
     ],
     "name:hun_x_preferred":[
+        "Nieuwkerken-Waas"
+    ],
+    "name:nld_x_preferred":[
         "Nieuwkerken-Waas"
     ],
     "name:unk_x_variant":[
@@ -83,7 +83,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1513899433,
+    "wof:lastmodified":1561831435,
     "wof:name":"Nieuwkerken-Waas",
     "wof:parent_id":1108830559,
     "wof:placetype":"locality",

@@ -21,16 +21,16 @@
     "name:bre_x_preferred":[
         "Tourpes"
     ],
-    "name:dut_x_preferred":[
-        "Tourpes"
-    ],
     "name:eng_x_preferred":[
         "Tourpes"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Tourpes"
     ],
     "name:hun_x_preferred":[
+        "Tourpes"
+    ],
+    "name:nld_x_preferred":[
         "Tourpes"
     ],
     "qs_pg:aaroncc":"BE",
@@ -87,7 +87,7 @@
         }
     ],
     "wof:id":1126042971,
-    "wof:lastmodified":1513899534,
+    "wof:lastmodified":1561831450,
     "wof:name":"Tourpes",
     "wof:parent_id":102049951,
     "wof:placetype":"locality",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00029,
-    "geom:area_square_m":2272055.781435,
+    "geom:area_square_m":2272055.781434,
     "geom:bbox":"5.75189727961,50.7125892992,5.78621297385,50.741352776",
     "geom:latitude":50.727856,
     "geom:longitude":5.769725,
@@ -19,7 +19,7 @@
     "name:cat_x_preferred":[
         "Warsage"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Weerst"
     ],
     "name:eng_x_preferred":[
@@ -28,14 +28,11 @@
     "name:fra_x_preferred":[
         "Warsage"
     ],
-    "name:fre_x_preferred":[
-        "Warsage"
-    ],
-    "name:ger_x_preferred":[
-        "Weerst"
-    ],
     "name:hun_x_preferred":[
         "Warsage"
+    ],
+    "name:nld_x_preferred":[
+        "Weerst"
     ],
     "name:oci_x_preferred":[
         "Warsage"
@@ -93,7 +90,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1513899571,
+    "wof:lastmodified":1561831433,
     "wof:name":"Warsage",
     "wof:parent_id":102049941,
     "wof:placetype":"locality",

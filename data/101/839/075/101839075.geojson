@@ -20,9 +20,6 @@
     "name:ceb_x_preferred":[
         "Oostmalle"
     ],
-    "name:dut_x_preferred":[
-        "Oostmalle"
-    ],
     "name:eng_x_preferred":[
         "Malle"
     ],
@@ -87,7 +84,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1527715400,
+    "wof:lastmodified":1561831435,
     "wof:name":"Oostmalle",
     "wof:parent_id":1108830005,
     "wof:placetype":"locality",

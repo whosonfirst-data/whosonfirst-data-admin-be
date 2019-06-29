@@ -16,9 +16,6 @@
     "mps:longitude":5.541358,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:dut_x_preferred":[
-        "Glaaien"
-    ],
     "name:eng_x_preferred":[
         "Glaaien"
     ],
@@ -27,9 +24,6 @@
         "Glons"
     ],
     "name:fra_x_preferred":[
-        "Glons"
-    ],
-    "name:fre_x_preferred":[
         "Glons"
     ],
     "name:hun_x_preferred":[
@@ -98,7 +92,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1527688567,
+    "wof:lastmodified":1561831420,
     "wof:name":"Glons",
     "wof:parent_id":102049941,
     "wof:placetype":"locality",

@@ -19,16 +19,16 @@
     "name:cat_x_preferred":[
         "Steenhuffel"
     ],
-    "name:dut_x_preferred":[
-        "Steenhuffel"
-    ],
     "name:eng_x_preferred":[
         "Steenhuffel"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Steenhuffel"
     ],
     "name:ita_x_preferred":[
+        "Steenhuffel"
+    ],
+    "name:nld_x_preferred":[
         "Steenhuffel"
     ],
     "name:unk_x_variant":[
@@ -82,7 +82,7 @@
         }
     ],
     "wof:id":101809289,
-    "wof:lastmodified":1513899518,
+    "wof:lastmodified":1561831428,
     "wof:name":"Steenhuffel",
     "wof:parent_id":1108830053,
     "wof:placetype":"locality",

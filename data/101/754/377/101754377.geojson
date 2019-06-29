@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000716,
-    "geom:area_square_m":5568242.344354,
+    "geom:area_square_m":5568242.344355,
     "geom:bbox":"3.61361245118,51.0375500214,3.67595149937,51.07292712",
     "geom:latitude":51.054541,
     "geom:longitude":3.643523,
@@ -25,9 +25,6 @@
     "name:deu_x_preferred":[
         "Drongen"
     ],
-    "name:dut_x_preferred":[
-        "Drongen"
-    ],
     "name:eng_x_preferred":[
         "Drongen"
     ],
@@ -36,12 +33,6 @@
     ],
     "name:fra_x_preferred":[
         "Tronchiennes"
-    ],
-    "name:fre_x_preferred":[
-        "Tronchiennes"
-    ],
-    "name:ger_x_preferred":[
-        "Drongen"
     ],
     "name:hun_x_preferred":[
         "Drongen"
@@ -117,7 +108,7 @@
         }
     ],
     "wof:id":101754377,
-    "wof:lastmodified":1527641858,
+    "wof:lastmodified":1561831409,
     "wof:name":"Drongen",
     "wof:parent_id":1108830083,
     "wof:placetype":"locality",

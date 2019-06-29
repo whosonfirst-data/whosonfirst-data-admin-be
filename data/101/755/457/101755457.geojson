@@ -22,16 +22,10 @@
     "name:ceb_x_preferred":[
         "Schepdaal"
     ],
-    "name:dut_x_preferred":[
-        "Schepdaal"
-    ],
     "name:eng_x_preferred":[
         "Schepdaal"
     ],
     "name:fra_x_preferred":[
-        "Schepdaal"
-    ],
-    "name:fre_x_preferred":[
         "Schepdaal"
     ],
     "name:hun_x_preferred":[
@@ -96,7 +90,7 @@
         }
     ],
     "wof:id":101755457,
-    "wof:lastmodified":1527641704,
+    "wof:lastmodified":1561831406,
     "wof:name":"Schepdaal",
     "wof:parent_id":1108830207,
     "wof:placetype":"locality",

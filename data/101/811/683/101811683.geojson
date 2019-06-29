@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000485,
-    "geom:area_square_m":3847149.879033,
+    "geom:area_square_m":3847149.879032,
     "geom:bbox":"4.290673438,50.0399631638,4.35014334357,50.0702272875",
     "geom:latitude":50.052046,
     "geom:longitude":4.318805,
@@ -17,9 +17,6 @@
     "mps:longitude":4.31833,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:baq_x_preferred":[
-        "Chimay"
-    ],
     "name:bre_x_preferred":[
         "Chimay"
     ],
@@ -32,16 +29,10 @@
     "name:ceb_x_preferred":[
         "Chimay"
     ],
-    "name:chi_x_preferred":[
-        "\u5e0c\u8fc8"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Chimay"
     ],
     "name:deu_x_preferred":[
-        "Chimay"
-    ],
-    "name:dut_x_preferred":[
         "Chimay"
     ],
     "name:eng_x_preferred":[
@@ -57,12 +48,6 @@
         "\u0634\u06cc\u0645\u0647"
     ],
     "name:fra_x_preferred":[
-        "Chimay"
-    ],
-    "name:fre_x_preferred":[
-        "Chimay"
-    ],
-    "name:ger_x_preferred":[
         "Chimay"
     ],
     "name:heb_x_preferred":[
@@ -101,9 +86,6 @@
     "name:pcd_x_preferred":[
         "Chimai"
     ],
-    "name:per_x_preferred":[
-        "\u0634\u06cc\u0645\u0647"
-    ],
     "name:pol_x_preferred":[
         "Chimay"
     ],
@@ -113,16 +95,10 @@
     "name:ron_x_preferred":[
         "Chimay"
     ],
-    "name:rum_x_preferred":[
-        "Chimay"
-    ],
     "name:rus_x_preferred":[
         "\u0428\u0438\u043c\u0435"
     ],
     "name:slk_x_preferred":[
-        "Chimay"
-    ],
-    "name:slo_x_preferred":[
         "Chimay"
     ],
     "name:spa_x_preferred":[
@@ -199,7 +175,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1527642306,
+    "wof:lastmodified":1561831413,
     "wof:name":"Chimay",
     "wof:parent_id":102049923,
     "wof:placetype":"locality",

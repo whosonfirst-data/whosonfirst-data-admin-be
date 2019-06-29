@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000085,
-    "geom:area_square_m":667674.605595,
+    "geom:area_square_m":667674.605596,
     "geom:bbox":"4.90802659129,50.6294741956,4.92130607663,50.6475910606",
     "geom:latitude":50.638181,
     "geom:longitude":4.915662,
@@ -17,9 +17,6 @@
     "mps:longitude":4.916114,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:baq_x_preferred":[
-        "Ramillies"
-    ],
     "name:bre_x_preferred":[
         "Ramillies"
     ],
@@ -32,13 +29,10 @@
     "name:ceb_x_preferred":[
         "Ramillies"
     ],
-    "name:chi_x_preferred":[
-        "\u62c9\u7c73\u4f0a"
-    ],
-    "name:deu_x_preferred":[
+    "name:cym_x_preferred":[
         "Ramillies"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Ramillies"
     ],
     "name:eng_x_preferred":[
@@ -59,12 +53,6 @@
     "name:fra_x_preferred":[
         "Ramillies"
     ],
-    "name:fre_x_preferred":[
-        "Ramillies"
-    ],
-    "name:ger_x_preferred":[
-        "Ramillies"
-    ],
     "name:hun_x_preferred":[
         "Ramillies"
     ],
@@ -83,16 +71,10 @@
     "name:oci_x_preferred":[
         "Ramillies"
     ],
-    "name:per_x_preferred":[
-        "\u0631\u0645\u06cc\u0626\u06cc"
-    ],
     "name:por_x_preferred":[
         "Ramillies"
     ],
     "name:ron_x_preferred":[
-        "Ramillies"
-    ],
-    "name:rum_x_preferred":[
         "Ramillies"
     ],
     "name:rus_x_preferred":[
@@ -111,9 +93,6 @@
         "Ramillies"
     ],
     "name:war_x_preferred":[
-        "Ramillies"
-    ],
-    "name:wel_x_preferred":[
         "Ramillies"
     ],
     "name:wln_x_preferred":[
@@ -170,7 +149,7 @@
         }
     ],
     "wof:id":101810507,
-    "wof:lastmodified":1527642427,
+    "wof:lastmodified":1561831416,
     "wof:name":"Ramillies-Offus",
     "wof:parent_id":102049945,
     "wof:placetype":"locality",

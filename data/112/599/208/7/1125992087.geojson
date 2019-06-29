@@ -21,13 +21,13 @@
     "name:cat_x_preferred":[
         "Sart-Dames-Avelines"
     ],
-    "name:dut_x_preferred":[
-        "Sart-Dames-Avelines"
-    ],
     "name:eng_x_preferred":[
         "Sart-Dames-Avelines"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
+        "Sart-Dames-Avelines"
+    ],
+    "name:nld_x_preferred":[
         "Sart-Dames-Avelines"
     ],
     "name:unk_x_variant":[
@@ -86,7 +86,7 @@
         }
     ],
     "wof:id":1125992087,
-    "wof:lastmodified":1513899489,
+    "wof:lastmodified":1561831462,
     "wof:name":"Sart-Dames-Avelines",
     "wof:parent_id":102049945,
     "wof:placetype":"locality",

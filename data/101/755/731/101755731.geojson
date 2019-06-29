@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00038,
-    "geom:area_square_m":2945835.789659,
+    "geom:area_square_m":2945835.789658,
     "geom:bbox":"2.73255257546,51.1496739715,2.77866479148,51.1658478865",
     "geom:latitude":51.157397,
     "geom:longitude":2.759683,
@@ -19,25 +19,13 @@
     "name:bre_x_preferred":[
         "Westende"
     ],
-    "name:chi_x_preferred":[
-        "\u5a01\u65af\u7530\u5fb7"
-    ],
     "name:deu_x_preferred":[
-        "Westende"
-    ],
-    "name:dut_x_preferred":[
         "Westende"
     ],
     "name:eng_x_preferred":[
         "Westende"
     ],
     "name:fra_x_preferred":[
-        "Westende"
-    ],
-    "name:fre_x_preferred":[
-        "Westende"
-    ],
-    "name:ger_x_preferred":[
         "Westende"
     ],
     "name:hun_x_preferred":[
@@ -57,6 +45,9 @@
     ],
     "name:vls_x_preferred":[
         "Westende"
+    ],
+    "name:zho_x_preferred":[
+        "\u5a01\u65af\u7530\u5fb7"
     ],
     "qs:a0":"Belgi\u00eb#Belgique#Belgien",
     "qs:a1":"*West-Vlanderen",
@@ -109,7 +100,7 @@
         }
     ],
     "wof:id":101755731,
-    "wof:lastmodified":1527641696,
+    "wof:lastmodified":1561831397,
     "wof:name":"Westende",
     "wof:parent_id":1108830695,
     "wof:placetype":"locality",

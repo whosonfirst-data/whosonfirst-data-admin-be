@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000359,
-    "geom:area_square_m":2804017.943213,
+    "geom:area_square_m":2804017.94321,
     "geom:bbox":"3.375392532,50.7539510366,3.424851427,50.7939810598",
     "geom:latitude":50.772485,
     "geom:longitude":3.394185,
@@ -19,16 +19,10 @@
     "name:deu_x_preferred":[
         "Moen"
     ],
-    "name:dut_x_preferred":[
-        "Moen"
-    ],
     "name:eng_x_preferred":[
         "Moen"
     ],
     "name:fra_x_preferred":[
-        "Moen"
-    ],
-    "name:fre_x_preferred":[
         "Moen"
     ],
     "name:hun_x_preferred":[
@@ -101,7 +95,7 @@
         }
     ],
     "wof:id":101838707,
-    "wof:lastmodified":1527715123,
+    "wof:lastmodified":1561831423,
     "wof:name":"Moen",
     "wof:parent_id":1108830095,
     "wof:placetype":"locality",

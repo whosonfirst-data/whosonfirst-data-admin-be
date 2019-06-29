@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000477,
-    "geom:area_square_m":3724247.150143,
+    "geom:area_square_m":3724247.150142,
     "geom:bbox":"4.0564974977,50.828972488,4.11508995925,50.8530071634",
     "geom:latitude":50.843684,
     "geom:longitude":4.082515,
@@ -23,16 +23,10 @@
     "name:ceb_x_preferred":[
         "Ledeberg"
     ],
-    "name:dut_x_preferred":[
-        "Ledeberg"
-    ],
     "name:eng_x_preferred":[
         "Ledeberg"
     ],
     "name:fra_x_preferred":[
-        "Ledeberg"
-    ],
-    "name:fre_x_preferred":[
         "Ledeberg"
     ],
     "name:hun_x_preferred":[
@@ -99,7 +93,7 @@
         }
     ],
     "wof:id":101755495,
-    "wof:lastmodified":1527641705,
+    "wof:lastmodified":1561831406,
     "wof:name":"Ledeberg",
     "wof:parent_id":1108830261,
     "wof:placetype":"locality",

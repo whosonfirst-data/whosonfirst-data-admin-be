@@ -22,9 +22,6 @@
     "name:ara_x_preferred":[
         "\u0623\u0646"
     ],
-    "name:baq_x_preferred":[
-        "Ans"
-    ],
     "name:bre_x_preferred":[
         "Ans"
     ],
@@ -34,16 +31,10 @@
     "name:cat_x_preferred":[
         "Ans"
     ],
-    "name:chi_x_preferred":[
-        "\u6602\u65af"
-    ],
     "name:dan_x_preferred":[
         "Ans"
     ],
     "name:deu_x_preferred":[
-        "Ans"
-    ],
-    "name:dut_x_preferred":[
         "Ans"
     ],
     "name:eng_x_preferred":[
@@ -52,16 +43,13 @@
     "name:epo_x_preferred":[
         "Ans"
     ],
+    "name:eus_x_preferred":[
+        "Ans"
+    ],
     "name:fas_x_preferred":[
         "\u0622\u0646"
     ],
     "name:fra_x_preferred":[
-        "Ans"
-    ],
-    "name:fre_x_preferred":[
-        "Ans"
-    ],
-    "name:ger_x_preferred":[
         "Ans"
     ],
     "name:hun_x_preferred":[
@@ -85,7 +73,7 @@
     "name:ltz_x_preferred":[
         "Ans"
     ],
-    "name:mac_x_preferred":[
+    "name:mkd_x_preferred":[
         "\u0410\u043d\u0441"
     ],
     "name:nld_x_preferred":[
@@ -97,19 +85,16 @@
     "name:oci_x_preferred":[
         "Ans"
     ],
-    "name:per_x_preferred":[
-        "\u0622\u0646"
-    ],
     "name:por_x_preferred":[
         "Ans"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Ans"
     ],
     "name:rus_x_preferred":[
         "\u0410\u043d\u0441"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Ans"
     ],
     "name:spa_x_preferred":[
@@ -188,7 +173,7 @@
         }
     ],
     "wof:id":1126025949,
-    "wof:lastmodified":1513899148,
+    "wof:lastmodified":1561831445,
     "wof:name":"Ans",
     "wof:parent_id":102049941,
     "wof:placetype":"locality",

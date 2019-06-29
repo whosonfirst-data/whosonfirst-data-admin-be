@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000157,
-    "geom:area_square_m":1232330.050546,
+    "geom:area_square_m":1232330.050547,
     "geom:bbox":"5.35083813008,50.5928418365,5.37511494956,50.6087938908",
     "geom:latitude":50.600879,
     "geom:longitude":5.362483,
@@ -16,9 +16,6 @@
     "mps:longitude":5.361654,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:baq_x_preferred":[
-        "Saint-Georges-sur-Meuse"
-    ],
     "name:bre_x_preferred":[
         "Saint-Georges-sur-Meuse"
     ],
@@ -31,14 +28,11 @@
     "name:ceb_x_preferred":[
         "Saint-Georges-sur-Meuse"
     ],
-    "name:chi_x_preferred":[
-        "\u9ed8\u5179\u6cb3\u7554\u5723\u4e54\u6cbb"
-    ],
     "name:deu_x_preferred":[
         "Saint-Georges-sur-Meuse"
     ],
-    "name:dut_x_preferred":[
-        "Saint-Georges-sur-Meuse"
+    "name:ell_x_preferred":[
+        "\u03a3\u03b1\u03b9\u03bd-\u0396\u03bf\u03c1\u03b6-\u03c3\u03c5\u03c1-\u039c\u03b5\u03b6"
     ],
     "name:eng_x_preferred":[
         "Saint-Georges-sur-Meuse"
@@ -54,15 +48,6 @@
     ],
     "name:fra_x_preferred":[
         "Saint-Georges-sur-Meuse"
-    ],
-    "name:fre_x_preferred":[
-        "Saint-Georges-sur-Meuse"
-    ],
-    "name:ger_x_preferred":[
-        "Saint-Georges-sur-Meuse"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a3\u03b1\u03b9\u03bd-\u0396\u03bf\u03c1\u03b6-\u03c3\u03c5\u03c1-\u039c\u03b5\u03b6"
     ],
     "name:hun_x_preferred":[
         "Saint-Georges-sur-Meuse"
@@ -85,25 +70,16 @@
     "name:oci_x_preferred":[
         "Saint-Georges-sur-Meuse"
     ],
-    "name:per_x_preferred":[
-        "\u0633\u0646-\u0698\u0648\u0631\u0698-\u0633\u0648\u0631-\u0645\u0648\u0632"
-    ],
     "name:por_x_preferred":[
         "Saint-Georges-sur-Meuse"
     ],
     "name:ron_x_preferred":[
         "Saint-Georges-sur-Meuse"
     ],
-    "name:rum_x_preferred":[
-        "Saint-Georges-sur-Meuse"
-    ],
     "name:rus_x_preferred":[
         "\u0421\u0435\u043d-\u0416\u043e\u0440\u0436-\u0441\u044e\u0440-\u041c\u0451\u0437"
     ],
     "name:slk_x_preferred":[
-        "Saint-Georges-sur-Meuse"
-    ],
-    "name:slo_x_preferred":[
         "Saint-Georges-sur-Meuse"
     ],
     "name:swe_x_preferred":[
@@ -174,7 +150,7 @@
         }
     ],
     "wof:id":101755171,
-    "wof:lastmodified":1527641707,
+    "wof:lastmodified":1561831408,
     "wof:name":"Saint-Georges-sur-Meuse",
     "wof:parent_id":102049937,
     "wof:placetype":"locality",

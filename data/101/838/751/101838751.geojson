@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000446,
-    "geom:area_square_m":3489712.292282,
+    "geom:area_square_m":3489712.292281,
     "geom:bbox":"4.86233001706,50.7601710698,4.91978078263,50.7913439236",
     "geom:latitude":50.776372,
     "geom:longitude":4.894138,
@@ -17,9 +17,6 @@
     "mps:longitude":4.89411,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:baq_x_preferred":[
-        "Hoegaarden"
-    ],
     "name:bre_x_preferred":[
         "Hoegaarden"
     ],
@@ -35,16 +32,7 @@
     "name:ces_x_preferred":[
         "Hoegaarden"
     ],
-    "name:chi_x_preferred":[
-        "\u80e1\u54c8\u5c14\u767b"
-    ],
-    "name:cze_x_preferred":[
-        "Hoegaarden"
-    ],
     "name:deu_x_preferred":[
-        "Hoegaarden"
-    ],
-    "name:dut_x_preferred":[
         "Hoegaarden"
     ],
     "name:eng_x_preferred":[
@@ -63,12 +51,6 @@
         "Hoegaarden"
     ],
     "name:fra_x_preferred":[
-        "Hoegaarden"
-    ],
-    "name:fre_x_preferred":[
-        "Hoegaarden"
-    ],
-    "name:ger_x_preferred":[
         "Hoegaarden"
     ],
     "name:hun_x_preferred":[
@@ -95,22 +77,13 @@
     "name:oci_x_preferred":[
         "Hoegaarden"
     ],
-    "name:per_x_preferred":[
-        "\u0627\u0648\u06cc\u06af\u0631\u062f\u0627\u0646"
-    ],
     "name:por_x_preferred":[
         "Hoegaarden"
     ],
     "name:ron_x_preferred":[
         "Hoegaarden"
     ],
-    "name:rum_x_preferred":[
-        "Hoegaarden"
-    ],
     "name:slk_x_preferred":[
-        "Hoegaarden"
-    ],
-    "name:slo_x_preferred":[
         "Hoegaarden"
     ],
     "name:spa_x_preferred":[
@@ -187,7 +160,7 @@
         }
     ],
     "wof:id":101838751,
-    "wof:lastmodified":1527715130,
+    "wof:lastmodified":1561831425,
     "wof:name":"Hoegaarden",
     "wof:parent_id":1108830281,
     "wof:placetype":"locality",

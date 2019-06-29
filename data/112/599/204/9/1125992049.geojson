@@ -21,16 +21,16 @@
     "name:bul_x_preferred":[
         "\u041b\u0438\u043f\u0435\u043b\u043e"
     ],
-    "name:dut_x_preferred":[
-        "Lippelo"
-    ],
     "name:eng_x_preferred":[
         "Lippelo"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Lippelo"
     ],
     "name:hun_x_preferred":[
+        "Lippelo"
+    ],
+    "name:nld_x_preferred":[
         "Lippelo"
     ],
     "name:swe_x_preferred":[
@@ -91,7 +91,7 @@
         }
     ],
     "wof:id":1125992049,
-    "wof:lastmodified":1513899373,
+    "wof:lastmodified":1561831461,
     "wof:name":"Lippelo",
     "wof:parent_id":1108830145,
     "wof:placetype":"locality",

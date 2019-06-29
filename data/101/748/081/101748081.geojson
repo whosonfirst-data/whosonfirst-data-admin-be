@@ -17,12 +17,6 @@
     "mps:longitude":5.865258,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:arm_x_preferred":[
-        "\u054e\u0565\u0580\u057e\u056b\u0565"
-    ],
-    "name:baq_x_preferred":[
-        "Verviers"
-    ],
     "name:bel_x_variant":[
         "\u0412\u044d\u0440\u0432\u0456\u0435"
     ],
@@ -41,19 +35,10 @@
     "name:ces_x_preferred":[
         "Verviers"
     ],
-    "name:chi_x_preferred":[
-        "\u97e6\u5c14\u7ef4\u8036"
-    ],
-    "name:cze_x_preferred":[
-        "Verviers"
-    ],
     "name:dan_x_preferred":[
         "Verviers"
     ],
     "name:deu_x_preferred":[
-        "Verviers"
-    ],
-    "name:dut_x_preferred":[
         "Verviers"
     ],
     "name:eng_x_preferred":[
@@ -74,15 +59,6 @@
     "name:fra_x_preferred":[
         "Verviers"
     ],
-    "name:fre_x_preferred":[
-        "Verviers"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d5\u10d4\u10e0\u10d5\u10d8\u10d4"
-    ],
-    "name:ger_x_preferred":[
-        "Verviers"
-    ],
     "name:heb_x_preferred":[
         "\u05d5\u05e8\u05d5\u05d5\u05d9\u05d4"
     ],
@@ -91,6 +67,9 @@
     ],
     "name:hun_x_preferred":[
         "Verviers"
+    ],
+    "name:hye_x_preferred":[
+        "\u054e\u0565\u0580\u057e\u056b\u0565"
     ],
     "name:ita_x_preferred":[
         "Verviers"
@@ -119,7 +98,7 @@
     "name:ltz_x_preferred":[
         "Verviers"
     ],
-    "name:mac_x_preferred":[
+    "name:mkd_x_preferred":[
         "\u0412\u0435\u0440\u0432\u0458\u0435"
     ],
     "name:nld_x_preferred":[
@@ -134,9 +113,6 @@
     "name:oci_x_preferred":[
         "Verviers"
     ],
-    "name:per_x_preferred":[
-        "\u0648\u0631\u0648\u06cc\u0647"
-    ],
     "name:pol_x_preferred":[
         "Verviers"
     ],
@@ -146,9 +122,6 @@
     "name:ron_x_preferred":[
         "Verviers"
     ],
-    "name:rum_x_preferred":[
-        "Verviers"
-    ],
     "name:rus_x_preferred":[
         "\u0412\u0435\u0440\u0432\u044c\u0435"
     ],
@@ -156,9 +129,6 @@
         "Verviers"
     ],
     "name:slk_x_preferred":[
-        "Verviers"
-    ],
-    "name:slo_x_preferred":[
         "Verviers"
     ],
     "name:slv_x_preferred":[
@@ -253,7 +223,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1513899543,
+    "wof:lastmodified":1561831418,
     "wof:name":"Verviers",
     "wof:parent_id":102049935,
     "wof:placetype":"locality",

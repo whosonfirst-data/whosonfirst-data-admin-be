@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000105,
-    "geom:area_square_m":817057.843247,
+    "geom:area_square_m":817057.843246,
     "geom:bbox":"2.86755400869,51.1688880831,2.88593028371,51.1798779372",
     "geom:latitude":51.174578,
     "geom:longitude":2.877114,
@@ -19,16 +19,10 @@
     "name:bre_x_preferred":[
         "Leffinge"
     ],
-    "name:dut_x_preferred":[
-        "Leffinge"
-    ],
     "name:eng_x_preferred":[
         "Leffinge"
     ],
     "name:fra_x_preferred":[
-        "Leffinge"
-    ],
-    "name:fre_x_preferred":[
         "Leffinge"
     ],
     "name:hun_x_preferred":[
@@ -92,7 +86,7 @@
         }
     ],
     "wof:id":101808123,
-    "wof:lastmodified":1527715350,
+    "wof:lastmodified":1561831433,
     "wof:name":"Leffinge",
     "wof:parent_id":1108830695,
     "wof:placetype":"locality",

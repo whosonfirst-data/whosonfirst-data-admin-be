@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":17989399.900348,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.540024,50.832377,4.540024,50.832377",
     "geom:latitude":50.832377,
     "geom:longitude":4.540024,
@@ -25,7 +25,7 @@
     "mz:min_zoom":13.0,
     "mz:tier_locality":1,
     "mz:tier_metro":30,
-    "name:dut_x_preferred":[
+    "name:nld_x_preferred":[
         "Robselaerkouter"
     ],
     "name:unk_x_variant":[
@@ -59,13 +59,13 @@
     ],
     "src:lbl:centroid":"mz",
     "wof:belongsto":[
-        85681731,
         102191581,
         1108830631,
         85632997,
         404227357,
         101755411,
-        102049969
+        102049969,
+        85681731
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -91,7 +91,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1531862099,
+    "wof:lastmodified":1561831365,
     "wof:name":"Robselaerkouter",
     "wof:parent_id":101755411,
     "wof:placetype":"neighbourhood",

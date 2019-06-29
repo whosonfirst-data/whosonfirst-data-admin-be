@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000729,
-    "geom:area_square_m":5667673.732046,
+    "geom:area_square_m":5667673.732045,
     "geom:bbox":"5.36582854777,51.0379542357,5.41779719339,51.0832732819",
     "geom:latitude":51.058527,
     "geom:longitude":5.389089,
@@ -20,16 +20,16 @@
     "name:bul_x_preferred":[
         "\u0425\u0435\u043b\u0447\u0442\u0435\u0440\u0435\u043d"
     ],
-    "name:dut_x_preferred":[
-        "Helchteren"
-    ],
     "name:eng_x_preferred":[
         "Helchteren"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Helchteren"
     ],
     "name:hun_x_preferred":[
+        "Helchteren"
+    ],
+    "name:nld_x_preferred":[
         "Helchteren"
     ],
     "name:swe_x_preferred":[
@@ -87,7 +87,7 @@
         }
     ],
     "wof:id":101838967,
-    "wof:lastmodified":1513899302,
+    "wof:lastmodified":1561831425,
     "wof:name":"Helchteren",
     "wof:parent_id":1108830235,
     "wof:placetype":"locality",

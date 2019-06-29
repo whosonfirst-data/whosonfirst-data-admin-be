@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000995,
-    "geom:area_square_m":7827085.052674,
+    "geom:area_square_m":7827085.052675,
     "geom:bbox":"4.19942389278,50.4801202571,4.27035141851,50.5211751707",
     "geom:latitude":50.503398,
     "geom:longitude":4.242665,
@@ -17,9 +17,6 @@
     "mps:longitude":4.237126,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:baq_x_preferred":[
-        "Manage"
-    ],
     "name:bre_x_preferred":[
         "Manage"
     ],
@@ -35,9 +32,6 @@
     "name:deu_x_preferred":[
         "Manage"
     ],
-    "name:dut_x_preferred":[
-        "Manage"
-    ],
     "name:eng_x_preferred":[
         "Manage"
     ],
@@ -51,12 +45,6 @@
         "\u0645\u0646\u0698"
     ],
     "name:fra_x_preferred":[
-        "Manage"
-    ],
-    "name:fre_x_preferred":[
-        "Manage"
-    ],
-    "name:ger_x_preferred":[
         "Manage"
     ],
     "name:hun_x_preferred":[
@@ -80,25 +68,16 @@
     "name:oci_x_preferred":[
         "Manage"
     ],
-    "name:per_x_preferred":[
-        "\u0645\u0646\u0698"
-    ],
     "name:por_x_preferred":[
         "Manage"
     ],
     "name:ron_x_preferred":[
         "Manage"
     ],
-    "name:rum_x_preferred":[
-        "Manage"
-    ],
     "name:rus_x_preferred":[
         "\u041c\u0430\u043d\u0430\u0436"
     ],
     "name:slk_x_preferred":[
-        "Manage"
-    ],
-    "name:slo_x_preferred":[
         "Manage"
     ],
     "name:swe_x_preferred":[
@@ -169,7 +148,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1527641702,
+    "wof:lastmodified":1561831404,
     "wof:name":"Manage",
     "wof:parent_id":102049927,
     "wof:placetype":"locality",

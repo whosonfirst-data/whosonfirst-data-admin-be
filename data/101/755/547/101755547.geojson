@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000665,
-    "geom:area_square_m":5200920.239495,
+    "geom:area_square_m":5200920.239496,
     "geom:bbox":"4.23744592252,50.7482600418,4.28870174043,50.7779287223",
     "geom:latitude":50.761897,
     "geom:longitude":4.264807,
@@ -19,16 +19,10 @@
     "name:ceb_x_preferred":[
         "Lot"
     ],
-    "name:dut_x_preferred":[
-        "Lot"
-    ],
     "name:eng_x_preferred":[
         "Lot"
     ],
     "name:fra_x_preferred":[
-        "Lot"
-    ],
-    "name:fre_x_preferred":[
         "Lot"
     ],
     "name:hun_x_preferred":[
@@ -95,7 +89,7 @@
         }
     ],
     "wof:id":101755547,
-    "wof:lastmodified":1527641706,
+    "wof:lastmodified":1561831407,
     "wof:name":"Lot",
     "wof:parent_id":1108830253,
     "wof:placetype":"locality",

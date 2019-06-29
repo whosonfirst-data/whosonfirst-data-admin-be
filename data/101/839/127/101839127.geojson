@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000454,
-    "geom:area_square_m":3518984.267525,
+    "geom:area_square_m":3518984.267524,
     "geom:bbox":"5.12106594068,51.1938670919,5.16553559317,51.2302935072",
     "geom:latitude":51.207858,
     "geom:longitude":5.140888,
@@ -32,9 +32,6 @@
         "Sluis"
     ],
     "name:deu_x_preferred":[
-        "Sluis"
-    ],
-    "name:dut_x_preferred":[
         "Sluis"
     ],
     "name:eng_x_preferred":[
@@ -185,7 +182,7 @@
         }
     ],
     "wof:id":101839127,
-    "wof:lastmodified":1527715395,
+    "wof:lastmodified":1561831434,
     "wof:name":"Sluis",
     "wof:parent_id":1108830147,
     "wof:placetype":"locality",

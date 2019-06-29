@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000379,
-    "geom:area_square_m":2965804.162072,
+    "geom:area_square_m":2965804.162073,
     "geom:bbox":"3.32441784385,50.6727825845,3.36015307947,50.7105293159",
     "geom:latitude":50.69455,
     "geom:longitude":3.339362,
@@ -17,9 +17,6 @@
     "mps:longitude":3.336686,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:baq_x_preferred":[
-        "Pecq"
-    ],
     "name:bre_x_preferred":[
         "Pecq"
     ],
@@ -33,9 +30,6 @@
         "Pecq"
     ],
     "name:deu_x_preferred":[
-        "Pecq"
-    ],
-    "name:dut_x_preferred":[
         "Pecq"
     ],
     "name:eng_x_preferred":[
@@ -54,12 +48,6 @@
         "\u067e\u0648\u06a9"
     ],
     "name:fra_x_preferred":[
-        "Pecq"
-    ],
-    "name:fre_x_preferred":[
-        "Pecq"
-    ],
-    "name:ger_x_preferred":[
         "Pecq"
     ],
     "name:hun_x_preferred":[
@@ -86,9 +74,6 @@
     "name:pcd_x_preferred":[
         "P\u00e8cq"
     ],
-    "name:per_x_preferred":[
-        "\u067e\u0648\u06a9"
-    ],
     "name:pol_x_preferred":[
         "Pecq"
     ],
@@ -98,16 +83,10 @@
     "name:ron_x_preferred":[
         "Pecq"
     ],
-    "name:rum_x_preferred":[
-        "Pecq"
-    ],
     "name:rus_x_preferred":[
         "\u041f\u0435\u043a"
     ],
     "name:slk_x_preferred":[
-        "Pecq"
-    ],
-    "name:slo_x_preferred":[
         "Pecq"
     ],
     "name:spa_x_preferred":[
@@ -174,7 +153,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1527715125,
+    "wof:lastmodified":1561831424,
     "wof:name":"Pecq",
     "wof:parent_id":102049951,
     "wof:placetype":"locality",

@@ -18,13 +18,10 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
-    "name:dut_x_preferred":[
-        "Gelinden"
-    ],
     "name:eng_x_preferred":[
         "Gelinden"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Gelinden"
     ],
     "name:hun_x_preferred":[
@@ -32,6 +29,9 @@
     ],
     "name:lim_x_preferred":[
         "Gelenge"
+    ],
+    "name:nld_x_preferred":[
+        "Gelinden"
     ],
     "qs_pg:aaroncc":"BE",
     "qs_pg:gn_country":"BE",
@@ -87,7 +87,7 @@
         }
     ],
     "wof:id":1125997433,
-    "wof:lastmodified":1513899276,
+    "wof:lastmodified":1561831462,
     "wof:name":"Gelinden",
     "wof:parent_id":1108830223,
     "wof:placetype":"locality",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000466,
-    "geom:area_square_m":3626968.277382,
+    "geom:area_square_m":3626968.277381,
     "geom:bbox":"2.97317904043,50.9551487535,3.04057306837,50.987927037",
     "geom:latitude":50.971764,
     "geom:longitude":3.011235,
@@ -17,9 +17,6 @@
     "mps:longitude":3.013532,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:baq_x_preferred":[
-        "Staden"
-    ],
     "name:bre_x_preferred":[
         "Staden"
     ],
@@ -29,13 +26,7 @@
     "name:cat_x_preferred":[
         "Staden"
     ],
-    "name:chi_x_preferred":[
-        "\u65af\u5854\u767b"
-    ],
     "name:deu_x_preferred":[
-        "Staden"
-    ],
-    "name:dut_x_preferred":[
         "Staden"
     ],
     "name:eng_x_preferred":[
@@ -54,12 +45,6 @@
         "\u0633\u062a\u062f\u0627\u0646"
     ],
     "name:fra_x_preferred":[
-        "Staden"
-    ],
-    "name:fre_x_preferred":[
-        "Staden"
-    ],
-    "name:ger_x_preferred":[
         "Staden"
     ],
     "name:hun_x_preferred":[
@@ -89,22 +74,13 @@
     "name:oci_x_preferred":[
         "Staden"
     ],
-    "name:per_x_preferred":[
-        "\u0633\u062a\u062f\u0627\u0646"
-    ],
     "name:por_x_preferred":[
         "Staden"
     ],
     "name:ron_x_preferred":[
         "Staden"
     ],
-    "name:rum_x_preferred":[
-        "Staden"
-    ],
     "name:slk_x_preferred":[
-        "Staden"
-    ],
-    "name:slo_x_preferred":[
         "Staden"
     ],
     "name:spa_x_preferred":[
@@ -180,7 +156,7 @@
         }
     ],
     "wof:id":101809299,
-    "wof:lastmodified":1553815517,
+    "wof:lastmodified":1561831430,
     "wof:name":"Staden",
     "wof:parent_id":1108830315,
     "wof:placetype":"locality",

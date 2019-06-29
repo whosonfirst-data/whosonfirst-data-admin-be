@@ -16,16 +16,16 @@
     "mps:longitude":5.065394,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:dut_x_preferred":[
-        "Schaffen"
-    ],
     "name:eng_x_preferred":[
         "Schaffen"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Schaffen"
     ],
     "name:hun_x_preferred":[
+        "Schaffen"
+    ],
+    "name:nld_x_preferred":[
         "Schaffen"
     ],
     "name:unk_x_variant":[
@@ -79,7 +79,7 @@
         }
     ],
     "wof:id":101755387,
-    "wof:lastmodified":1513899489,
+    "wof:lastmodified":1561831407,
     "wof:name":"Schaffen",
     "wof:parent_id":1108830307,
     "wof:placetype":"locality",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000331,
-    "geom:area_square_m":2586108.841472,
+    "geom:area_square_m":2586108.841473,
     "geom:bbox":"4.81283013573,50.8250079052,4.8522135355,50.8540799421",
     "geom:latitude":50.83984,
     "geom:longitude":4.833602,
@@ -17,9 +17,6 @@
     "mps:longitude":4.830619,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:baq_x_preferred":[
-        "Boutersem"
-    ],
     "name:bre_x_preferred":[
         "Boutersem"
     ],
@@ -29,10 +26,7 @@
     "name:cat_x_preferred":[
         "Boutersem"
     ],
-    "name:chi_x_preferred":[
-        "\u9c8d\u7279\u5c14\u585e\u59c6"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Boutersem"
     ],
     "name:eng_x_preferred":[
@@ -41,10 +35,13 @@
     "name:epo_x_preferred":[
         "Boutersem"
     ],
-    "name:fre_x_preferred":[
+    "name:eus_x_preferred":[
         "Boutersem"
     ],
-    "name:ger_x_preferred":[
+    "name:fas_x_preferred":[
+        "\u0628\u0648\u062a\u0631\u0633\u0645"
+    ],
+    "name:fra_x_preferred":[
         "Boutersem"
     ],
     "name:hun_x_preferred":[
@@ -53,25 +50,25 @@
     "name:ita_x_preferred":[
         "Boutersem"
     ],
+    "name:nld_x_preferred":[
+        "Boutersem"
+    ],
     "name:nob_x_preferred":[
         "Boutersem"
     ],
     "name:oci_x_preferred":[
         "Boutersem"
     ],
-    "name:per_x_preferred":[
-        "\u0628\u0648\u062a\u0631\u0633\u0645"
-    ],
     "name:por_x_preferred":[
         "Boutersem"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Boutersem"
     ],
     "name:rus_x_preferred":[
         "\u0411\u0430\u0443\u0442\u0435\u0440\u0441\u0435\u043c"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Boutersem"
     ],
     "name:spa_x_preferred":[
@@ -91,6 +88,9 @@
     ],
     "name:war_x_preferred":[
         "Boutersem"
+    ],
+    "name:zho_x_preferred":[
+        "\u9c8d\u7279\u5c14\u585e\u59c6"
     ],
     "qs:a0":"Belgi\u00eb#Belgique#Belgien",
     "qs:a1":"*Vlaams Brabant",
@@ -142,7 +142,7 @@
         }
     ],
     "wof:id":101838743,
-    "wof:lastmodified":1553815536,
+    "wof:lastmodified":1561831427,
     "wof:name":"Boutersem",
     "wof:parent_id":1108830471,
     "wof:placetype":"locality",

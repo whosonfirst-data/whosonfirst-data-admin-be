@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000915,
-    "geom:area_square_m":7193969.72548,
+    "geom:area_square_m":7193969.725483,
     "geom:bbox":"3.64846613941,50.4840383766,3.70424102555,50.5671065827",
     "geom:latitude":50.516836,
     "geom:longitude":3.675192,
@@ -22,19 +22,10 @@
     "name:ceb_x_preferred":[
         "Blaton"
     ],
-    "name:chi_x_preferred":[
-        "\u5e03\u62c9\u9813"
-    ],
-    "name:dut_x_preferred":[
-        "Blaton"
-    ],
     "name:eng_x_preferred":[
         "Blaton"
     ],
     "name:fra_x_preferred":[
-        "Blaton"
-    ],
-    "name:fre_x_preferred":[
         "Blaton"
     ],
     "name:hun_x_preferred":[
@@ -45,6 +36,9 @@
     ],
     "name:swe_x_preferred":[
         "Blaton"
+    ],
+    "name:zho_x_preferred":[
+        "\u5e03\u62c9\u9813"
     ],
     "qs:a0":"Belgi\u00eb#Belgique#Belgien",
     "qs:a1":"*Hainaut",
@@ -94,7 +88,7 @@
         }
     ],
     "wof:id":101839791,
-    "wof:lastmodified":1527715389,
+    "wof:lastmodified":1561831433,
     "wof:name":"Blaton",
     "wof:parent_id":102049949,
     "wof:placetype":"locality",

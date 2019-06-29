@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000356,
-    "geom:area_square_m":2760796.770267,
+    "geom:area_square_m":2760796.770268,
     "geom:bbox":"4.38346248036,51.0947228005,4.43045163718,51.1166357259",
     "geom:latitude":51.104659,
     "geom:longitude":4.403609,
@@ -16,19 +16,19 @@
     "mps:longitude":4.403536,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:dut_x_preferred":[
-        "Reet"
-    ],
     "name:eng_x_preferred":[
         "Reeth"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Reet"
     ],
     "name:hun_x_preferred":[
         "Reet"
     ],
     "name:ita_x_preferred":[
+        "Reet"
+    ],
+    "name:nld_x_preferred":[
         "Reet"
     ],
     "name:spa_x_preferred":[
@@ -89,7 +89,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1513899471,
+    "wof:lastmodified":1561831396,
     "wof:name":"Reet",
     "wof:parent_id":1108830173,
     "wof:placetype":"locality",

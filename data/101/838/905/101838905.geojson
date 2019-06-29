@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000188,
-    "geom:area_square_m":1460548.876739,
+    "geom:area_square_m":1460548.87674,
     "geom:bbox":"3.45162218386,51.0420984792,3.47951130464,51.0662811546",
     "geom:latitude":51.050208,
     "geom:longitude":3.462557,
@@ -16,19 +16,19 @@
     "mps:longitude":3.462346,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:dut_x_preferred":[
-        "Lotenhulle"
-    ],
     "name:eng_x_preferred":[
         "Lotenhulle"
     ],
     "name:est_x_preferred":[
         "Lotenhulle"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Lotenhulle"
     ],
     "name:hun_x_preferred":[
+        "Lotenhulle"
+    ],
+    "name:nld_x_preferred":[
         "Lotenhulle"
     ],
     "name:spa_x_preferred":[
@@ -85,7 +85,7 @@
         }
     ],
     "wof:id":101838905,
-    "wof:lastmodified":1513899381,
+    "wof:lastmodified":1561831425,
     "wof:name":"Lotenhulle",
     "wof:parent_id":1108830383,
     "wof:placetype":"locality",

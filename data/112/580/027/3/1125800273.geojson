@@ -18,13 +18,13 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
-    "name:dut_x_preferred":[
-        "Noiseux"
-    ],
     "name:eng_x_preferred":[
         "Noiseux"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
+        "Noiseux"
+    ],
+    "name:nld_x_preferred":[
         "Noiseux"
     ],
     "name:unk_x_variant":[
@@ -84,7 +84,7 @@
         }
     ],
     "wof:id":1125800273,
-    "wof:lastmodified":1513899436,
+    "wof:lastmodified":1561831458,
     "wof:name":"Noiseux",
     "wof:parent_id":102049919,
     "wof:placetype":"locality",

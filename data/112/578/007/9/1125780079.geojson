@@ -18,13 +18,13 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
-    "name:dut_x_preferred":[
-        "Scry"
-    ],
     "name:eng_x_preferred":[
         "Scry"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
+        "Scry"
+    ],
+    "name:nld_x_preferred":[
         "Scry"
     ],
     "qs_pg:aaroncc":"BE",
@@ -77,7 +77,7 @@
         }
     ],
     "wof:id":1125780079,
-    "wof:lastmodified":1513899492,
+    "wof:lastmodified":1561831479,
     "wof:name":"Scry",
     "wof:parent_id":102049925,
     "wof:placetype":"locality",

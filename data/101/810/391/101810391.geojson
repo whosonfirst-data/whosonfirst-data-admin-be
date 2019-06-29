@@ -17,9 +17,6 @@
     "mps:longitude":5.124241,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:baq_x_preferred":[
-        "Ohey"
-    ],
     "name:bre_x_preferred":[
         "Ohey"
     ],
@@ -29,13 +26,7 @@
     "name:cat_x_preferred":[
         "Ohey"
     ],
-    "name:chi_x_preferred":[
-        "\u5965\u57c3"
-    ],
     "name:deu_x_preferred":[
-        "Ohey"
-    ],
-    "name:dut_x_preferred":[
         "Ohey"
     ],
     "name:eng_x_preferred":[
@@ -51,12 +42,6 @@
         "\u0627\u0648\u0626\u0647"
     ],
     "name:fra_x_preferred":[
-        "Ohey"
-    ],
-    "name:fre_x_preferred":[
-        "Ohey"
-    ],
-    "name:ger_x_preferred":[
         "Ohey"
     ],
     "name:hun_x_preferred":[
@@ -83,25 +68,16 @@
     "name:oci_x_preferred":[
         "Ohey"
     ],
-    "name:per_x_preferred":[
-        "\u0627\u0648\u0626\u0647"
-    ],
     "name:por_x_preferred":[
         "Ohey"
     ],
     "name:ron_x_preferred":[
         "Ohey"
     ],
-    "name:rum_x_preferred":[
-        "Ohey"
-    ],
     "name:rus_x_preferred":[
         "\u041e\u044d"
     ],
     "name:slk_x_preferred":[
-        "Ohey"
-    ],
-    "name:slo_x_preferred":[
         "Ohey"
     ],
     "name:spa_x_preferred":[
@@ -175,7 +151,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1535390430,
+    "wof:lastmodified":1561831413,
     "wof:name":"Ohey",
     "wof:parent_id":102049931,
     "wof:placetype":"locality",

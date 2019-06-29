@@ -16,16 +16,10 @@
     "mps:longitude":4.830674,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:dut_x_preferred":[
-        "Morkhoven"
-    ],
     "name:eng_x_preferred":[
         "Morkhoven"
     ],
     "name:fra_x_preferred":[
-        "Morkhoven"
-    ],
-    "name:fre_x_preferred":[
         "Morkhoven"
     ],
     "name:hun_x_preferred":[
@@ -95,7 +89,7 @@
         }
     ],
     "wof:id":101755833,
-    "wof:lastmodified":1527641699,
+    "wof:lastmodified":1561831400,
     "wof:name":"Morkhoven",
     "wof:parent_id":1108830061,
     "wof:placetype":"locality",

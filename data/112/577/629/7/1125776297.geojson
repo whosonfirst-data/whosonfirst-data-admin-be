@@ -18,16 +18,16 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
-    "name:dut_x_preferred":[
-        "Ronsele"
-    ],
     "name:eng_x_preferred":[
         "Ronsele"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Ronsele"
     ],
     "name:hun_x_preferred":[
+        "Ronsele"
+    ],
+    "name:nld_x_preferred":[
         "Ronsele"
     ],
     "qs_pg:aaroncc":"BE",
@@ -86,7 +86,7 @@
         }
     ],
     "wof:id":1125776297,
-    "wof:lastmodified":1513899481,
+    "wof:lastmodified":1561831485,
     "wof:name":"Ronsele",
     "wof:parent_id":1108830371,
     "wof:placetype":"locality",

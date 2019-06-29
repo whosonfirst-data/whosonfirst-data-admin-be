@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000845,
-    "geom:area_square_m":6604014.520597,
+    "geom:area_square_m":6604014.520596,
     "geom:bbox":"4.47499675056,50.809704756,4.52986108596,50.8387146465",
     "geom:latitude":50.8229,
     "geom:longitude":4.501813,
@@ -18,9 +18,6 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "name:afr_x_preferred":[
-        "Tervuren"
-    ],
-    "name:baq_x_preferred":[
         "Tervuren"
     ],
     "name:bel_x_preferred":[
@@ -41,19 +38,10 @@
     "name:ces_x_preferred":[
         "Tervuren"
     ],
-    "name:chi_x_preferred":[
-        "\u7279\u5c14\u83f2\u4f26"
-    ],
-    "name:cze_x_preferred":[
-        "Tervuren"
-    ],
     "name:dan_x_preferred":[
         "Tervuren"
     ],
     "name:deu_x_preferred":[
-        "Tervuren"
-    ],
-    "name:dut_x_preferred":[
         "Tervuren"
     ],
     "name:eng_x_preferred":[
@@ -72,12 +60,6 @@
         "Tervuren"
     ],
     "name:fra_x_preferred":[
-        "Tervuren"
-    ],
-    "name:fre_x_preferred":[
-        "Tervuren"
-    ],
-    "name:ger_x_preferred":[
         "Tervuren"
     ],
     "name:hun_x_preferred":[
@@ -113,9 +95,6 @@
     "name:oci_x_preferred":[
         "Tervuren"
     ],
-    "name:per_x_preferred":[
-        "\u062a\u0631\u0648\u0648\u0631\u0627\u0646"
-    ],
     "name:pol_x_preferred":[
         "Tervuren"
     ],
@@ -125,16 +104,10 @@
     "name:ron_x_preferred":[
         "Tervuren"
     ],
-    "name:rum_x_preferred":[
-        "Tervuren"
-    ],
     "name:rus_x_preferred":[
         "\u0422\u0435\u0440\u0432\u044e\u0440\u0435\u043d"
     ],
     "name:slk_x_preferred":[
-        "Tervuren"
-    ],
-    "name:slo_x_preferred":[
         "Tervuren"
     ],
     "name:slv_x_preferred":[
@@ -215,7 +188,7 @@
         }
     ],
     "wof:id":101754329,
-    "wof:lastmodified":1527641869,
+    "wof:lastmodified":1561831410,
     "wof:name":"Tervuren",
     "wof:parent_id":1108830631,
     "wof:placetype":"locality",

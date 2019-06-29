@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000751,
-    "geom:area_square_m":5819078.640575,
+    "geom:area_square_m":5819078.640577,
     "geom:bbox":"4.57188288037,51.1591264032,4.63195399318,51.19707384",
     "geom:latitude":51.180318,
     "geom:longitude":4.601095,
@@ -22,19 +22,10 @@
     "name:ceb_x_preferred":[
         "Broechem"
     ],
-    "name:chi_x_preferred":[
-        "\u5e03\u6d1b\u5207"
-    ],
-    "name:dut_x_preferred":[
-        "Broechem"
-    ],
     "name:eng_x_preferred":[
         "Broechem"
     ],
     "name:fra_x_preferred":[
-        "Broechem"
-    ],
-    "name:fre_x_preferred":[
         "Broechem"
     ],
     "name:hun_x_preferred":[
@@ -45,6 +36,9 @@
     ],
     "name:swe_x_preferred":[
         "Broechem"
+    ],
+    "name:zho_x_preferred":[
+        "\u5e03\u6d1b\u5207"
     ],
     "qs:a0":"Belgi\u00eb#Belgique#Belgien",
     "qs:a1":"*Antwerpen",
@@ -110,7 +104,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1527641701,
+    "wof:lastmodified":1561831402,
     "wof:name":"Broechem",
     "wof:parent_id":-4,
     "wof:placetype":"locality",

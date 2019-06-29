@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000216,
-    "geom:area_square_m":1673990.110591,
+    "geom:area_square_m":1673990.110592,
     "geom:bbox":"3.46694180624,51.114691738,3.51274890862,51.1406405144",
     "geom:latitude":51.126926,
     "geom:longitude":3.489851,
@@ -19,7 +19,7 @@
     "name:cat_x_preferred":[
         "Ursel"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Ursel"
     ],
     "name:eng_x_preferred":[
@@ -28,10 +28,7 @@
     "name:est_x_preferred":[
         "Ursel"
     ],
-    "name:fre_x_preferred":[
-        "Ursel"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Ursel"
     ],
     "name:hun_x_preferred":[
@@ -39,6 +36,9 @@
     ],
     "name:jpn_x_preferred":[
         "\u30a6\u30eb\u30bb\u30eb"
+    ],
+    "name:nld_x_preferred":[
+        "Ursel"
     ],
     "name:oci_x_preferred":[
         "Ursel"
@@ -91,7 +91,7 @@
         }
     ],
     "wof:id":101809363,
-    "wof:lastmodified":1513899539,
+    "wof:lastmodified":1561831428,
     "wof:name":"Ursel",
     "wof:parent_id":1108830533,
     "wof:placetype":"locality",

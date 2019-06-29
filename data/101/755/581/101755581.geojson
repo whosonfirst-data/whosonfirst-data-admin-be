@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000567,
-    "geom:area_square_m":4409589.987391,
+    "geom:area_square_m":4409589.987392,
     "geom:bbox":"4.17576249774,50.9949284514,4.22014575827,51.0220516505",
     "geom:latitude":51.009287,
     "geom:longitude":4.199588,
@@ -17,9 +17,6 @@
     "mps:longitude":4.205753,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:baq_x_preferred":[
-        "Buggenhout"
-    ],
     "name:bre_x_preferred":[
         "Buggenhout"
     ],
@@ -29,13 +26,7 @@
     "name:cat_x_preferred":[
         "Buggenhout"
     ],
-    "name:chi_x_preferred":[
-        "\u6bd4\u4ea8\u8c6a\u7279"
-    ],
     "name:deu_x_preferred":[
-        "Buggenhout"
-    ],
-    "name:dut_x_preferred":[
         "Buggenhout"
     ],
     "name:eng_x_preferred":[
@@ -54,12 +45,6 @@
         "\u0628\u0648\u06af\u0698\u0646\u0648"
     ],
     "name:fra_x_preferred":[
-        "Buggenhout"
-    ],
-    "name:fre_x_preferred":[
-        "Buggenhout"
-    ],
-    "name:ger_x_preferred":[
         "Buggenhout"
     ],
     "name:hun_x_preferred":[
@@ -83,16 +68,10 @@
     "name:oci_x_preferred":[
         "Buggenhout"
     ],
-    "name:per_x_preferred":[
-        "\u0628\u0648\u06af\u0698\u0646\u0648"
-    ],
     "name:por_x_preferred":[
         "Buggenhout"
     ],
     "name:ron_x_preferred":[
-        "Buggenhout"
-    ],
-    "name:rum_x_preferred":[
         "Buggenhout"
     ],
     "name:rus_x_preferred":[
@@ -102,9 +81,6 @@
         "Buggenhout"
     ],
     "name:slk_x_preferred":[
-        "Buggenhout"
-    ],
-    "name:slo_x_preferred":[
         "Buggenhout"
     ],
     "name:spa_x_preferred":[
@@ -176,7 +152,7 @@
         }
     ],
     "wof:id":101755581,
-    "wof:lastmodified":1553815478,
+    "wof:lastmodified":1561831401,
     "wof:name":"Buggenhout",
     "wof:parent_id":1108830107,
     "wof:placetype":"locality",

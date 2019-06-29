@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000499,
-    "geom:area_square_m":3926291.228201,
+    "geom:area_square_m":3926291.228203,
     "geom:bbox":"4.68672813097,50.4660745857,4.72668033776,50.4964197224",
     "geom:latitude":50.481523,
     "geom:longitude":4.70548,
@@ -16,16 +16,10 @@
     "mps:longitude":4.707492,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:dut_x_preferred":[
-        "Spy"
-    ],
     "name:eng_x_preferred":[
         "Spy"
     ],
     "name:fra_x_preferred":[
-        "Spy"
-    ],
-    "name:fre_x_preferred":[
         "Spy"
     ],
     "name:heb_x_preferred":[
@@ -98,7 +92,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1527641700,
+    "wof:lastmodified":1561831401,
     "wof:name":"Spy",
     "wof:parent_id":102049931,
     "wof:placetype":"locality",

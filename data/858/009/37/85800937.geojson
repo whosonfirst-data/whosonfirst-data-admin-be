@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":24652909.905193,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.489822,51.202069,4.489822,51.202069",
     "geom:latitude":51.202069,
     "geom:longitude":4.489822,
@@ -37,9 +37,6 @@
         "Borsbeek"
     ],
     "name:deu_x_preferred":[
-        "Borsbeek"
-    ],
-    "name:dut_x_preferred":[
         "Borsbeek"
     ],
     "name:epo_x_preferred":[
@@ -130,13 +127,13 @@
     "src:population":"geonames",
     "wd:wordcount":82,
     "wof:belongsto":[
-        85681715,
         102191581,
         1108830423,
         85632997,
         404227357,
         101748099,
-        102050005
+        102050005,
+        85681715
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -164,7 +161,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1531862050,
+    "wof:lastmodified":1561831364,
     "wof:name":"Borsbeek",
     "wof:parent_id":101748099,
     "wof:placetype":"neighbourhood",

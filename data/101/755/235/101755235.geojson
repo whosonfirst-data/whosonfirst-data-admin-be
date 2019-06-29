@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00039,
-    "geom:area_square_m":3058754.548954,
+    "geom:area_square_m":3058754.548955,
     "geom:bbox":"4.55758615788,50.6608779605,4.5956724821,50.6878166438",
     "geom:latitude":50.673159,
     "geom:longitude":4.577007,
@@ -16,16 +16,16 @@
     "mps:longitude":4.575708,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:dut_x_preferred":[
-        "Limelette"
-    ],
     "name:eng_x_preferred":[
         "Limelette"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Limelette"
     ],
     "name:hun_x_preferred":[
+        "Limelette"
+    ],
+    "name:nld_x_preferred":[
         "Limelette"
     ],
     "name:unk_x_variant":[
@@ -81,7 +81,7 @@
         }
     ],
     "wof:id":101755235,
-    "wof:lastmodified":1513899370,
+    "wof:lastmodified":1561831399,
     "wof:name":"Limelette",
     "wof:parent_id":102049945,
     "wof:placetype":"locality",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001161,
-    "geom:area_square_m":352.129824,
+    "geom:area_square_m":9080588.305701,
     "geom:bbox":"5.47557674711,50.7360004268,5.54030785545,50.8033956528",
     "geom:latitude":50.772053,
     "geom:longitude":5.508688,
@@ -16,9 +16,6 @@
     "mps:longitude":5.4782,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:dut_x_preferred":[
-        "Vreren"
-    ],
     "name:eng_x_preferred":[
         "Freeren"
     ],
@@ -26,10 +23,13 @@
         "Vreeren",
         "Vreren"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Fr\u00e8res"
     ],
     "name:hun_x_preferred":[
+        "Vreren"
+    ],
+    "name:nld_x_preferred":[
         "Vreren"
     ],
     "name:unk_x_variant":[
@@ -83,7 +83,7 @@
         }
     ],
     "wof:id":1175610565,
-    "wof:lastmodified":1534985846,
+    "wof:lastmodified":1561831393,
     "wof:name":"Vreren",
     "wof:parent_id":1108830031,
     "wof:placetype":"locality",

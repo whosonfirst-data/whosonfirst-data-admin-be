@@ -20,9 +20,6 @@
     "name:ceb_x_preferred":[
         "Spa-La Sauveni\u00e8re Airport"
     ],
-    "name:dut_x_preferred":[
-        "Sauveni\u00e8re"
-    ],
     "name:eng_x_preferred":[
         "Sauveni\u00e8re"
     ],
@@ -35,11 +32,14 @@
     "name:fra_x_preferred":[
         "A\u00e9rodrome de Spa-La Sauveni\u00e8re"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_variant":[
         "Sauveni\u00e8re"
     ],
     "name:nld_x_preferred":[
         "A\u00e9rodrome de Spa-La Sauveni\u00e8re"
+    ],
+    "name:nld_x_variant":[
+        "Sauveni\u00e8re"
     ],
     "name:pol_x_preferred":[
         "Port lotniczy Spa-La Sauveni\u00e8re"
@@ -96,7 +96,7 @@
         }
     ],
     "wof:id":101839759,
-    "wof:lastmodified":1513899489,
+    "wof:lastmodified":1561831435,
     "wof:name":"Sauveni\u00e8re",
     "wof:parent_id":102049931,
     "wof:placetype":"locality",

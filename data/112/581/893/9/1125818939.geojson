@@ -21,19 +21,19 @@
     "name:bre_x_preferred":[
         "Zevekote"
     ],
-    "name:dut_x_preferred":[
-        "Zevekote"
-    ],
     "name:eng_x_preferred":[
         "Zevekote"
     ],
     "name:est_x_preferred":[
         "Zevekote"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Zevekote"
     ],
     "name:hun_x_preferred":[
+        "Zevekote"
+    ],
+    "name:nld_x_preferred":[
         "Zevekote"
     ],
     "name:unk_x_variant":[
@@ -96,7 +96,7 @@
         }
     ],
     "wof:id":1125818939,
-    "wof:lastmodified":1513899594,
+    "wof:lastmodified":1561831453,
     "wof:name":"Zevekote",
     "wof:parent_id":1108830575,
     "wof:placetype":"locality",

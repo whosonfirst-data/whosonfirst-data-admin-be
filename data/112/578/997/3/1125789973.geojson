@@ -18,16 +18,16 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
-    "name:dut_x_preferred":[
-        "Harsin"
-    ],
     "name:eng_x_preferred":[
         "Harsin"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Harsin"
     ],
     "name:hun_x_preferred":[
+        "Harsin"
+    ],
+    "name:nld_x_preferred":[
         "Harsin"
     ],
     "name:wln_x_preferred":[
@@ -85,7 +85,7 @@
         }
     ],
     "wof:id":1125789973,
-    "wof:lastmodified":1513899298,
+    "wof:lastmodified":1561831478,
     "wof:name":"Harsin",
     "wof:parent_id":102049921,
     "wof:placetype":"locality",

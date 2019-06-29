@@ -18,13 +18,13 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
-    "name:dut_x_preferred":[
-        "Wegnez"
-    ],
     "name:eng_x_preferred":[
         "Wegnez"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
+        "Wegnez"
+    ],
+    "name:nld_x_preferred":[
         "Wegnez"
     ],
     "qs_pg:aaroncc":"BE",
@@ -79,7 +79,7 @@
         }
     ],
     "wof:id":1125792193,
-    "wof:lastmodified":1513899575,
+    "wof:lastmodified":1561831481,
     "wof:name":"Wegnez",
     "wof:parent_id":102049935,
     "wof:placetype":"locality",

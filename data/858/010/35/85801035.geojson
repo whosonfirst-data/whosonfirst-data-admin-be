@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":7208584.329166,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.304884,50.766611,4.304884,50.766611",
     "geom:latitude":50.766611,
     "geom:longitude":4.304884,
@@ -24,7 +24,7 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":13.0,
     "mz:tier_locality":1,
-    "name:dut_x_preferred":[
+    "name:nld_x_preferred":[
         "Dachelberg"
     ],
     "name:unk_x_variant":[
@@ -60,13 +60,13 @@
     ],
     "src:lbl:centroid":"yerbashapes",
     "wof:belongsto":[
-        85681731,
         102191581,
         1108830253,
         85632997,
         404227357,
         101755545,
-        102049973
+        102049973,
+        85681731
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -92,7 +92,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1531862056,
+    "wof:lastmodified":1561831366,
     "wof:name":"Dachelberg",
     "wof:parent_id":101755545,
     "wof:placetype":"neighbourhood",

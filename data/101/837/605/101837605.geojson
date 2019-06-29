@@ -16,16 +16,10 @@
     "mps:longitude":4.761404,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:dut_x_preferred":[
-        "Minderhout"
-    ],
     "name:eng_x_preferred":[
         "Minderhout"
     ],
     "name:fra_x_preferred":[
-        "Minderhout"
-    ],
-    "name:fre_x_preferred":[
         "Minderhout"
     ],
     "name:hun_x_preferred":[
@@ -86,7 +80,7 @@
         }
     ],
     "wof:id":101837605,
-    "wof:lastmodified":1527715303,
+    "wof:lastmodified":1561831431,
     "wof:name":"Minderhout",
     "wof:parent_id":1108830373,
     "wof:placetype":"locality",

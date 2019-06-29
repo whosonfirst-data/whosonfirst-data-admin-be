@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000339,
-    "geom:area_square_m":2642767.524662,
+    "geom:area_square_m":2642767.524663,
     "geom:bbox":"4.54048514959,50.8928296705,4.59464373683,50.9137492405",
     "geom:latitude":50.902579,
     "geom:longitude":4.562923,
@@ -22,19 +22,10 @@
     "name:deu_x_preferred":[
         "Erps-Kwerps"
     ],
-    "name:dut_x_preferred":[
-        "Erps-Kwerps"
-    ],
     "name:eng_x_preferred":[
         "Erps-Kwerps"
     ],
     "name:fra_x_preferred":[
-        "Erps-Kwerps"
-    ],
-    "name:fre_x_preferred":[
-        "Erps-Kwerps"
-    ],
-    "name:ger_x_preferred":[
         "Erps-Kwerps"
     ],
     "name:hun_x_preferred":[
@@ -101,7 +92,7 @@
         }
     ],
     "wof:id":101758525,
-    "wof:lastmodified":1527689313,
+    "wof:lastmodified":1561831421,
     "wof:name":"Erps-Kwerps",
     "wof:parent_id":1108830227,
     "wof:placetype":"locality",

@@ -18,10 +18,10 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
-    "name:dut_x_preferred":[
+    "name:eng_x_preferred":[
         "Terlanen"
     ],
-    "name:eng_x_preferred":[
+    "name:nld_x_preferred":[
         "Terlanen"
     ],
     "name:unk_x_variant":[
@@ -81,7 +81,7 @@
         }
     ],
     "wof:id":1126029191,
-    "wof:lastmodified":1513899522,
+    "wof:lastmodified":1561831446,
     "wof:name":"Terlanen",
     "wof:parent_id":1108830581,
     "wof:placetype":"locality",

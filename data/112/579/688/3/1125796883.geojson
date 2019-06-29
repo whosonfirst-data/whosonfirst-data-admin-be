@@ -21,13 +21,10 @@
     "name:cat_x_preferred":[
         "Berneau"
     ],
-    "name:dut_x_preferred":[
-        "Berneau"
-    ],
     "name:eng_x_preferred":[
         "Berneau"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Berneau"
     ],
     "name:hun_x_preferred":[
@@ -40,6 +37,9 @@
         "Bjen"
     ],
     "name:ltz_x_preferred":[
+        "Berneau"
+    ],
+    "name:nld_x_preferred":[
         "Berneau"
     ],
     "qs_pg:aaroncc":"BE",
@@ -96,7 +96,7 @@
         }
     ],
     "wof:id":1125796883,
-    "wof:lastmodified":1513899173,
+    "wof:lastmodified":1561831481,
     "wof:name":"Berneau",
     "wof:parent_id":102049941,
     "wof:placetype":"locality",

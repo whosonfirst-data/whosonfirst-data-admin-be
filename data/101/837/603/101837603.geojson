@@ -19,9 +19,6 @@
     "name:deu_x_preferred":[
         "Meer"
     ],
-    "name:dut_x_preferred":[
-        "Meer"
-    ],
     "name:eng_x_preferred":[
         "Meer"
     ],
@@ -31,7 +28,7 @@
     "name:fra_x_preferred":[
         "Hoogstraten#Meer"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_variant":[
         "Meer"
     ],
     "name:hun_x_preferred":[
@@ -95,7 +92,7 @@
         }
     ],
     "wof:id":101837603,
-    "wof:lastmodified":1527715304,
+    "wof:lastmodified":1561831431,
     "wof:name":"Meer",
     "wof:parent_id":1108830373,
     "wof:placetype":"locality",

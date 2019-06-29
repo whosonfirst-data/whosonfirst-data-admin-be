@@ -19,16 +19,10 @@
     "name:bre_x_preferred":[
         "Lombardsijde"
     ],
-    "name:dut_x_preferred":[
-        "Lombardsijde"
-    ],
     "name:eng_x_preferred":[
         "Lombardsijde"
     ],
     "name:fra_x_preferred":[
-        "Lombardsijde"
-    ],
-    "name:fre_x_preferred":[
         "Lombardsijde"
     ],
     "name:hun_x_preferred":[
@@ -93,7 +87,7 @@
         }
     ],
     "wof:id":101755733,
-    "wof:lastmodified":1527641701,
+    "wof:lastmodified":1561831402,
     "wof:name":"Lombardsijde",
     "wof:parent_id":1108830695,
     "wof:placetype":"locality",

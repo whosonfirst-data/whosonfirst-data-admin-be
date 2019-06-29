@@ -20,9 +20,6 @@
     "name:afr_x_preferred":[
         "De Haan"
     ],
-    "name:baq_x_preferred":[
-        "De Haan"
-    ],
     "name:bre_x_preferred":[
         "De Haan"
     ],
@@ -32,16 +29,10 @@
     "name:cat_x_preferred":[
         "De Haan"
     ],
-    "name:chi_x_preferred":[
-        "\u5fb7\u6c49"
-    ],
     "name:dan_x_preferred":[
         "De Haan"
     ],
     "name:deu_x_preferred":[
-        "De Haan"
-    ],
-    "name:dut_x_preferred":[
         "De Haan"
     ],
     "name:eng_x_preferred":[
@@ -57,14 +48,17 @@
     "name:est_x_preferred":[
         "De Haan"
     ],
+    "name:eus_x_preferred":[
+        "De Haan"
+    ],
+    "name:fas_x_preferred":[
+        "\u062f\u0648 \u0622\u0646"
+    ],
     "name:fra_x_preferred":[
         "De Haan"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_variant":[
         "Le Coq"
-    ],
-    "name:ger_x_preferred":[
-        "De Haan"
     ],
     "name:hun_x_preferred":[
         "De Haan"
@@ -96,16 +90,13 @@
     "name:oci_x_preferred":[
         "Le Coq"
     ],
-    "name:per_x_preferred":[
-        "\u062f\u0648 \u0622\u0646"
-    ],
     "name:por_x_preferred":[
         "De Haan"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "De Haan"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "De Haan"
     ],
     "name:spa_x_preferred":[
@@ -128,6 +119,9 @@
     ],
     "name:war_x_preferred":[
         "De Haan"
+    ],
+    "name:zho_x_preferred":[
+        "\u5fb7\u6c49"
     ],
     "qs:a0":"Belgi\u00eb#Belgique#Belgien",
     "qs:a1":"*West-Vlanderen",
@@ -183,7 +177,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1553815518,
+    "wof:lastmodified":1561831430,
     "wof:name":"De Haan",
     "wof:parent_id":1108830685,
     "wof:placetype":"locality",

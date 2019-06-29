@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000851,
-    "geom:area_square_m":6684212.096948,
+    "geom:area_square_m":6684212.09695,
     "geom:bbox":"5.77316502236,50.5527871335,5.82650433041,50.6029261523",
     "geom:latitude":50.576333,
     "geom:longitude":5.800737,
@@ -17,9 +17,6 @@
     "mps:longitude":5.805934,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:baq_x_preferred":[
-        "Pepinster"
-    ],
     "name:bre_x_preferred":[
         "Pepinster"
     ],
@@ -29,13 +26,7 @@
     "name:cat_x_preferred":[
         "Pepinster"
     ],
-    "name:chi_x_preferred":[
-        "\u73c0\u6f58\u65af\u7279\u5c14"
-    ],
     "name:deu_x_preferred":[
-        "Pepinster"
-    ],
-    "name:dut_x_preferred":[
         "Pepinster"
     ],
     "name:eng_x_preferred":[
@@ -51,12 +42,6 @@
         "\u067e\u0648\u067e\u0646\u0633\u062a\u0647"
     ],
     "name:fra_x_preferred":[
-        "Pepinster"
-    ],
-    "name:fre_x_preferred":[
-        "Pepinster"
-    ],
-    "name:ger_x_preferred":[
         "Pepinster"
     ],
     "name:hun_x_preferred":[
@@ -86,25 +71,16 @@
     "name:oci_x_preferred":[
         "Pepinster"
     ],
-    "name:per_x_preferred":[
-        "\u067e\u0648\u067e\u0646\u0633\u062a\u0647"
-    ],
     "name:por_x_preferred":[
         "Pepinster"
     ],
     "name:ron_x_preferred":[
         "Pepinster"
     ],
-    "name:rum_x_preferred":[
-        "Pepinster"
-    ],
     "name:rus_x_preferred":[
         "\u041f\u0435\u043f\u0435\u043d\u0441\u0442\u0435\u0440"
     ],
     "name:slk_x_preferred":[
-        "Pepinster"
-    ],
-    "name:slo_x_preferred":[
         "Pepinster"
     ],
     "name:vie_x_preferred":[
@@ -171,7 +147,7 @@
         }
     ],
     "wof:id":101755163,
-    "wof:lastmodified":1527641701,
+    "wof:lastmodified":1561831403,
     "wof:name":"Pepinster",
     "wof:parent_id":102049935,
     "wof:placetype":"locality",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":22912373.012237,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.351325,51.179155,4.351325,51.179155",
     "geom:latitude":51.179155,
     "geom:longitude":4.351325,
@@ -26,7 +26,7 @@
     "mz:min_zoom":13.0,
     "mz:tier_locality":3,
     "mz:tier_metro":30,
-    "name:dut_x_preferred":[
+    "name:nld_x_preferred":[
         "Hoboken"
     ],
     "name:unk_x_variant":[
@@ -66,13 +66,13 @@
     "src:population":"geonames",
     "wd:wordcount":235,
     "wof:belongsto":[
-        85681715,
         102191581,
         1108830423,
         85632997,
         404227357,
         101748099,
-        102050005
+        102050005,
+        85681715
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -102,7 +102,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1531862072,
+    "wof:lastmodified":1561831362,
     "wof:name":"Hoboken",
     "wof:parent_id":101748099,
     "wof:placetype":"neighbourhood",

@@ -16,16 +16,10 @@
     "mps:longitude":4.085629,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:dut_x_preferred":[
-        "Boussoit"
-    ],
     "name:eng_x_preferred":[
         "Boussoit"
     ],
     "name:fra_x_preferred":[
-        "Boussoit"
-    ],
-    "name:fre_x_preferred":[
         "Boussoit"
     ],
     "name:hun_x_preferred":[
@@ -84,7 +78,7 @@
         }
     ],
     "wof:id":101755209,
-    "wof:lastmodified":1527641704,
+    "wof:lastmodified":1561831405,
     "wof:name":"Boussoit",
     "wof:parent_id":102049943,
     "wof:placetype":"locality",

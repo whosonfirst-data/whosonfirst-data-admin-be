@@ -20,9 +20,6 @@
     "name:afr_x_preferred":[
         "Geel"
     ],
-    "name:baq_x_preferred":[
-        "Geel"
-    ],
     "name:bre_x_preferred":[
         "Geel"
     ],
@@ -32,10 +29,7 @@
     "name:cat_x_preferred":[
         "Geel"
     ],
-    "name:chi_x_preferred":[
-        "\u8d6b\u5c14"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Geel"
     ],
     "name:dan_x_preferred":[
@@ -44,13 +38,16 @@
     "name:deu_x_preferred":[
         "Geel"
     ],
-    "name:dut_x_preferred":[
-        "Geel"
+    "name:ell_x_preferred":[
+        "\u0393\u03ba\u03ad\u03b5\u03bb"
     ],
     "name:eng_x_preferred":[
         "Geel"
     ],
     "name:epo_x_preferred":[
+        "Geel"
+    ],
+    "name:eus_x_preferred":[
         "Geel"
     ],
     "name:fas_x_preferred":[
@@ -59,17 +56,8 @@
     "name:fra_x_preferred":[
         "Geel"
     ],
-    "name:fre_x_preferred":[
-        "Geel"
-    ],
-    "name:ger_x_preferred":[
-        "Geel"
-    ],
     "name:gle_x_preferred":[
         "Geel"
-    ],
-    "name:gre_x_preferred":[
-        "\u0393\u03ba\u03ad\u03b5\u03bb"
     ],
     "name:heb_x_preferred":[
         "\u05d2\u05d9\u05dc"
@@ -101,22 +89,19 @@
     "name:oci_x_preferred":[
         "Geel"
     ],
-    "name:per_x_preferred":[
-        "\u0698\u0644"
-    ],
     "name:pol_x_preferred":[
         "Geel"
     ],
     "name:por_x_preferred":[
         "Geel"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Geel"
     ],
     "name:rus_x_preferred":[
         "\u0413\u0435\u0435\u043b"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Geel"
     ],
     "name:spa_x_preferred":[
@@ -197,7 +182,7 @@
         }
     ],
     "wof:id":101755823,
-    "wof:lastmodified":1527641703,
+    "wof:lastmodified":1561831404,
     "wof:name":"Geel",
     "wof:parent_id":1108830531,
     "wof:placetype":"locality",

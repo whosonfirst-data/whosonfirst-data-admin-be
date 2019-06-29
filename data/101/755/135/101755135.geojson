@@ -17,9 +17,6 @@
     "mps:longitude":5.980893,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:baq_x_preferred":[
-        "Welkenraedt"
-    ],
     "name:bre_x_preferred":[
         "Welkenraedt"
     ],
@@ -29,13 +26,7 @@
     "name:cat_x_preferred":[
         "Welkenraedt"
     ],
-    "name:chi_x_preferred":[
-        "\u97e6\u5c14\u80af\u62c9\u7279"
-    ],
     "name:deu_x_preferred":[
-        "Welkenraedt"
-    ],
-    "name:dut_x_preferred":[
         "Welkenraedt"
     ],
     "name:eng_x_preferred":[
@@ -51,12 +42,6 @@
         "\u0627\u0648\u0626\u0644\u06a9\u0648\u0646\u0631\u0626\u062a"
     ],
     "name:fra_x_preferred":[
-        "Welkenraedt"
-    ],
-    "name:fre_x_preferred":[
-        "Welkenraedt"
-    ],
-    "name:ger_x_preferred":[
         "Welkenraedt"
     ],
     "name:hun_x_preferred":[
@@ -89,25 +74,16 @@
     "name:oci_x_preferred":[
         "Welkenraedt"
     ],
-    "name:per_x_preferred":[
-        "\u0627\u0648\u0626\u0644\u06a9\u0648\u0646\u0631\u0626\u062a"
-    ],
     "name:por_x_preferred":[
         "Welkenraedt"
     ],
     "name:ron_x_preferred":[
         "Welkenraedt"
     ],
-    "name:rum_x_preferred":[
-        "Welkenraedt"
-    ],
     "name:rus_x_preferred":[
         "\u0412\u0435\u043b\u043a\u0435\u043d\u0440\u0430\u0434\u0442"
     ],
     "name:slk_x_preferred":[
-        "Welkenraedt"
-    ],
-    "name:slo_x_preferred":[
         "Welkenraedt"
     ],
     "name:spa_x_preferred":[
@@ -180,7 +156,7 @@
         }
     ],
     "wof:id":101755135,
-    "wof:lastmodified":1527641695,
+    "wof:lastmodified":1561831396,
     "wof:name":"Welkenraedt",
     "wof:parent_id":102049935,
     "wof:placetype":"locality",

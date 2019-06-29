@@ -18,16 +18,16 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
-    "name:dut_x_preferred":[
-        "Houdeng-Aimeries"
-    ],
     "name:eng_x_preferred":[
         "Houdeng-Aimeries"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Houdeng-Aimeries"
     ],
     "name:hun_x_preferred":[
+        "Houdeng-Aimeries"
+    ],
+    "name:nld_x_preferred":[
         "Houdeng-Aimeries"
     ],
     "qs_pg:aaroncc":"BE",
@@ -82,7 +82,7 @@
         }
     ],
     "wof:id":1126000879,
-    "wof:lastmodified":1513899318,
+    "wof:lastmodified":1561831472,
     "wof:name":"Houdeng-Aimeries",
     "wof:parent_id":102049943,
     "wof:placetype":"locality",

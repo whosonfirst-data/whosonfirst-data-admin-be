@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000239,
-    "geom:area_square_m":1853348.172957,
+    "geom:area_square_m":1853348.172956,
     "geom:bbox":"3.0781900807,51.1080655572,3.10270427835,51.1348931231",
     "geom:latitude":51.121457,
     "geom:longitude":3.089852,
@@ -16,19 +16,19 @@
     "mps:longitude":3.08883,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:dut_x_preferred":[
-        "Aartrijke"
+    "name:ell_x_preferred":[
+        "\u0391\u03b1\u03c1\u03c4\u03c1\u03ac\u03b9\u03ba\u03b5"
     ],
     "name:eng_x_preferred":[
         "Aartrijke"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Aartrijke"
     ],
-    "name:gre_x_preferred":[
-        "\u0391\u03b1\u03c1\u03c4\u03c1\u03ac\u03b9\u03ba\u03b5"
-    ],
     "name:hun_x_preferred":[
+        "Aartrijke"
+    ],
+    "name:nld_x_preferred":[
         "Aartrijke"
     ],
     "name:por_x_preferred":[
@@ -85,7 +85,7 @@
         }
     ],
     "wof:id":101809447,
-    "wof:lastmodified":1513899141,
+    "wof:lastmodified":1561831428,
     "wof:name":"Aartrijke",
     "wof:parent_id":1108830317,
     "wof:placetype":"locality",

@@ -19,16 +19,10 @@
     "name:deu_x_preferred":[
         "Dendermonde#Grembergen"
     ],
-    "name:dut_x_preferred":[
-        "Grembergen"
-    ],
     "name:eng_x_preferred":[
         "Grembergen"
     ],
     "name:fra_x_preferred":[
-        "Grembergen"
-    ],
-    "name:fre_x_preferred":[
         "Grembergen"
     ],
     "name:hun_x_preferred":[
@@ -90,7 +84,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1527641859,
+    "wof:lastmodified":1561831409,
     "wof:name":"Grembergen",
     "wof:parent_id":1108830417,
     "wof:placetype":"locality",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000616,
-    "geom:area_square_m":4801132.859435,
+    "geom:area_square_m":4801132.859434,
     "geom:bbox":"4.29826933634,50.8909066061,4.3505859375,50.9119894342",
     "geom:latitude":50.900567,
     "geom:longitude":4.323561,
@@ -25,7 +25,7 @@
     "mz:min_zoom":12.0,
     "mz:tier_locality":5,
     "mz:tier_metro":30,
-    "name:dut_x_preferred":[
+    "name:nld_x_preferred":[
         "Eeuwfeestwijk"
     ],
     "name:unk_x_variant":[
@@ -88,7 +88,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1527270401,
+    "wof:lastmodified":1561831365,
     "wof:name":"Eeuwfeestwijk",
     "wof:parent_id":101751573,
     "wof:placetype":"neighbourhood",

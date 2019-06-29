@@ -16,16 +16,10 @@
     "mps:longitude":4.394071,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:dut_x_preferred":[
-        "Luttre"
-    ],
     "name:eng_x_preferred":[
         "Luttre"
     ],
     "name:fra_x_preferred":[
-        "Luttre"
-    ],
-    "name:fre_x_preferred":[
         "Luttre"
     ],
     "name:hun_x_preferred":[
@@ -84,7 +78,7 @@
         }
     ],
     "wof:id":101839755,
-    "wof:lastmodified":1527715388,
+    "wof:lastmodified":1561831433,
     "wof:name":"Luttre",
     "wof:parent_id":102049927,
     "wof:placetype":"locality",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000354,
-    "geom:area_square_m":2759766.147757,
+    "geom:area_square_m":2759766.147758,
     "geom:bbox":"3.20895485856,50.8752382369,3.26414100153,50.9045162075",
     "geom:latitude":50.888361,
     "geom:longitude":3.238582,
@@ -17,9 +17,6 @@
     "mps:longitude":3.240881,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:baq_x_preferred":[
-        "Lendelede"
-    ],
     "name:bre_x_preferred":[
         "Lendelede"
     ],
@@ -32,13 +29,7 @@
     "name:ceb_x_preferred":[
         "Lendelede"
     ],
-    "name:chi_x_preferred":[
-        "\u4f26\u5fb7\u83b1\u5fb7"
-    ],
     "name:deu_x_preferred":[
-        "Lendelede"
-    ],
-    "name:dut_x_preferred":[
         "Lendelede"
     ],
     "name:eng_x_preferred":[
@@ -57,12 +48,6 @@
         "\u0644\u0627\u0646\u062f\u0648\u0644\u0648\u062f"
     ],
     "name:fra_x_preferred":[
-        "Lendelede"
-    ],
-    "name:fre_x_preferred":[
-        "Lendelede"
-    ],
-    "name:ger_x_preferred":[
         "Lendelede"
     ],
     "name:hun_x_preferred":[
@@ -86,22 +71,13 @@
     "name:oci_x_preferred":[
         "Lendelede"
     ],
-    "name:per_x_preferred":[
-        "\u0644\u0627\u0646\u062f\u0648\u0644\u0648\u062f"
-    ],
     "name:por_x_preferred":[
         "Lendelede"
     ],
     "name:ron_x_preferred":[
         "Lendelede"
     ],
-    "name:rum_x_preferred":[
-        "Lendelede"
-    ],
     "name:slk_x_preferred":[
-        "Lendelede"
-    ],
-    "name:slo_x_preferred":[
         "Lendelede"
     ],
     "name:spa_x_preferred":[
@@ -173,7 +149,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1527641705,
+    "wof:lastmodified":1561831406,
     "wof:name":"Lendelede",
     "wof:parent_id":1108830239,
     "wof:placetype":"locality",

@@ -21,16 +21,16 @@
     "name:bre_x_preferred":[
         "Sint-Joris"
     ],
-    "name:dut_x_preferred":[
-        "Sint-Joris"
-    ],
     "name:eng_x_preferred":[
         "Sint-Joris"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Sint-Joris"
     ],
     "name:hun_x_preferred":[
+        "Sint-Joris"
+    ],
+    "name:nld_x_preferred":[
         "Sint-Joris"
     ],
     "name:por_x_preferred":[
@@ -101,7 +101,7 @@
         }
     ],
     "wof:id":1125824035,
-    "wof:lastmodified":1513899514,
+    "wof:lastmodified":1561831475,
     "wof:name":"St.-Joris",
     "wof:parent_id":1108830289,
     "wof:placetype":"locality",

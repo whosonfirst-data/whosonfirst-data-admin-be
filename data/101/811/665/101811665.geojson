@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00015,
-    "geom:area_square_m":1185962.044425,
+    "geom:area_square_m":1185962.044424,
     "geom:bbox":"4.15052471515,50.3189775572,4.17529043677,50.3325917925",
     "geom:latitude":50.325593,
     "geom:longitude":4.162978,
@@ -17,9 +17,6 @@
     "mps:longitude":4.163822,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:baq_x_preferred":[
-        "Merbes-le-Ch\u00e2teau"
-    ],
     "name:bre_x_preferred":[
         "Merbes-le-Ch\u00e2teau"
     ],
@@ -30,9 +27,6 @@
         "Merbes-le-Ch\u00e2teau"
     ],
     "name:deu_x_preferred":[
-        "Merbes-le-Ch\u00e2teau"
-    ],
-    "name:dut_x_preferred":[
         "Merbes-le-Ch\u00e2teau"
     ],
     "name:eng_x_preferred":[
@@ -56,12 +50,6 @@
     "name:fra_x_preferred":[
         "Merbes-le-Ch\u00e2teau"
     ],
-    "name:fre_x_preferred":[
-        "Merbes-le-Ch\u00e2teau"
-    ],
-    "name:ger_x_preferred":[
-        "Merbes-le-Ch\u00e2teau"
-    ],
     "name:hun_x_preferred":[
         "Merbes-le-Ch\u00e2teau"
     ],
@@ -71,14 +59,14 @@
     "name:lim_x_preferred":[
         "Merbes-le-Ch\u00e2teau"
     ],
+    "name:nld_x_preferred":[
+        "Merbes-le-Ch\u00e2teau"
+    ],
     "name:nob_x_preferred":[
         "Merbes-le-Ch\u00e2teau"
     ],
     "name:oci_x_preferred":[
         "Merbes-le-Ch\u00e2teau"
-    ],
-    "name:per_x_preferred":[
-        "\u0645\u0631\u0628\u0648\u0644-\u0634\u062a\u0648"
     ],
     "name:pol_x_preferred":[
         "Merbes-le-Ch\u00e2teau"
@@ -86,10 +74,10 @@
     "name:por_x_preferred":[
         "Merbes-le-Ch\u00e2teau"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Merbes-le-Ch\u00e2teau"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Merbes-le-Ch\u00e2teau"
     ],
     "name:swe_x_preferred":[
@@ -157,7 +145,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1553815519,
+    "wof:lastmodified":1561831413,
     "wof:name":"Merbes-le-Ch\u00e2teau",
     "wof:parent_id":102049923,
     "wof:placetype":"locality",

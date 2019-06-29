@@ -22,16 +22,10 @@
     "name:ceb_x_preferred":[
         "Athus"
     ],
-    "name:dut_x_preferred":[
-        "Athus"
-    ],
     "name:eng_x_preferred":[
         "Athus"
     ],
     "name:fra_x_preferred":[
-        "Athus"
-    ],
-    "name:fre_x_preferred":[
         "Athus"
     ],
     "name:heb_x_preferred":[
@@ -103,7 +97,7 @@
         }
     ],
     "wof:id":101838631,
-    "wof:lastmodified":1527715134,
+    "wof:lastmodified":1561831427,
     "wof:name":"Athus",
     "wof:parent_id":102049909,
     "wof:placetype":"locality",

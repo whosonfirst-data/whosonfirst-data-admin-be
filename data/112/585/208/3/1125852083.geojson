@@ -21,19 +21,19 @@
     "name:cat_x_preferred":[
         "Houdeng-Goegnies"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Houdeng-G\u0153gnies"
     ],
     "name:eng_x_preferred":[
         "Houdeng-G\u0153gnies"
     ],
-    "name:fre_x_preferred":[
-        "Houdeng-G\u0153gnies"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Houdeng-G\u0153gnies"
     ],
     "name:hun_x_preferred":[
+        "Houdeng-G\u0153gnies"
+    ],
+    "name:nld_x_preferred":[
         "Houdeng-G\u0153gnies"
     ],
     "qs_pg:aaroncc":"BE",
@@ -90,7 +90,7 @@
         }
     ],
     "wof:id":1125852083,
-    "wof:lastmodified":1513899319,
+    "wof:lastmodified":1561831478,
     "wof:name":"Houdeng-Goegnies",
     "wof:parent_id":102049943,
     "wof:placetype":"locality",

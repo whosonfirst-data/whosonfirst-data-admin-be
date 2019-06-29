@@ -20,9 +20,6 @@
     "name:afr_x_preferred":[
         "Herstappe"
     ],
-    "name:baq_x_preferred":[
-        "Herstappe"
-    ],
     "name:bre_x_preferred":[
         "Herstappe"
     ],
@@ -35,13 +32,7 @@
     "name:ceb_x_preferred":[
         "Herstappe"
     ],
-    "name:chi_x_preferred":[
-        "\u57c3\u5c14\u65af\u5854\u666e"
-    ],
     "name:deu_x_preferred":[
-        "Herstappe"
-    ],
-    "name:dut_x_preferred":[
         "Herstappe"
     ],
     "name:eng_x_preferred":[
@@ -57,12 +48,6 @@
         "\u0627\u0631\u0633\u062a\u067e"
     ],
     "name:fra_x_preferred":[
-        "Herstappe"
-    ],
-    "name:fre_x_preferred":[
-        "Herstappe"
-    ],
-    "name:ger_x_preferred":[
         "Herstappe"
     ],
     "name:hun_x_preferred":[
@@ -86,9 +71,6 @@
     "name:oci_x_preferred":[
         "Herstappe"
     ],
-    "name:per_x_preferred":[
-        "\u0627\u0631\u0633\u062a\u067e"
-    ],
     "name:pol_x_preferred":[
         "Herstappe"
     ],
@@ -98,16 +80,10 @@
     "name:ron_x_preferred":[
         "Herstappe"
     ],
-    "name:rum_x_preferred":[
-        "Herstappe"
-    ],
     "name:rus_x_preferred":[
         "\u0425\u0435\u0440\u0441\u0442\u0430\u043f\u043f\u0435"
     ],
     "name:slk_x_preferred":[
-        "Herstappe"
-    ],
-    "name:slo_x_preferred":[
         "Herstappe"
     ],
     "name:spa_x_preferred":[
@@ -186,7 +162,7 @@
         }
     ],
     "wof:id":101854561,
-    "wof:lastmodified":1544742771,
+    "wof:lastmodified":1561831431,
     "wof:name":"Herstappe",
     "wof:parent_id":1108830081,
     "wof:placetype":"locality",

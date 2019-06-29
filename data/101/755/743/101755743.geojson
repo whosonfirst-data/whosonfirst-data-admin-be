@@ -22,9 +22,6 @@
     "name:cat_x_preferred":[
         "Varsenare"
     ],
-    "name:dut_x_preferred":[
-        "Varsenare"
-    ],
     "name:eng_x_preferred":[
         "Varsenare"
     ],
@@ -32,9 +29,6 @@
         "Varsenare"
     ],
     "name:fra_x_preferred":[
-        "Varsenare"
-    ],
-    "name:fre_x_preferred":[
         "Varsenare"
     ],
     "name:hun_x_preferred":[
@@ -102,7 +96,7 @@
         }
     ],
     "wof:id":101755743,
-    "wof:lastmodified":1527641705,
+    "wof:lastmodified":1561831406,
     "wof:name":"Varsenare",
     "wof:parent_id":1108830157,
     "wof:placetype":"locality",

@@ -24,7 +24,7 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":13.0,
     "mz:tier_locality":4,
-    "name:dut_x_preferred":[
+    "name:nld_x_preferred":[
         "St-gillis"
     ],
     "name:unk_x_variant":[
@@ -92,7 +92,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1527269941,
+    "wof:lastmodified":1561831362,
     "wof:name":"St-gillis",
     "wof:parent_id":101748097,
     "wof:placetype":"neighbourhood",

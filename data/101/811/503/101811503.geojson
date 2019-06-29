@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000695,
-    "geom:area_square_m":5531696.721653,
+    "geom:area_square_m":5531696.721654,
     "geom:bbox":"5.3440553588,49.9034223619,5.40225674421,49.9309481963",
     "geom:latitude":49.918144,
     "geom:longitude":5.371649,
@@ -16,13 +16,13 @@
     "mps:longitude":5.376336,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:dut_x_preferred":[
-        "Libramont"
-    ],
     "name:eng_x_preferred":[
         "Libramont"
     ],
     "name:fry_x_preferred":[
+        "Libramont"
+    ],
+    "name:nld_x_preferred":[
         "Libramont"
     ],
     "name:nob_x_preferred":[
@@ -74,7 +74,7 @@
         }
     ],
     "wof:id":101811503,
-    "wof:lastmodified":1513899366,
+    "wof:lastmodified":1561831411,
     "wof:name":"Libramont",
     "wof:parent_id":102049913,
     "wof:placetype":"locality",

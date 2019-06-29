@@ -17,9 +17,6 @@
     "mps:longitude":5.343421,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:baq_x_preferred":[
-        "Nassogne"
-    ],
     "name:bre_x_preferred":[
         "Nassogne"
     ],
@@ -29,13 +26,7 @@
     "name:cat_x_preferred":[
         "Nassogne"
     ],
-    "name:chi_x_preferred":[
-        "\u7eb3\u7d22\u6d85"
-    ],
     "name:deu_x_preferred":[
-        "Nassogne"
-    ],
-    "name:dut_x_preferred":[
         "Nassogne"
     ],
     "name:eng_x_preferred":[
@@ -54,12 +45,6 @@
         "\u0646\u0633\u0648\u0646\u06cc"
     ],
     "name:fra_x_preferred":[
-        "Nassogne"
-    ],
-    "name:fre_x_preferred":[
-        "Nassogne"
-    ],
-    "name:ger_x_preferred":[
         "Nassogne"
     ],
     "name:hun_x_preferred":[
@@ -86,25 +71,16 @@
     "name:oci_x_preferred":[
         "Nassogne"
     ],
-    "name:per_x_preferred":[
-        "\u0646\u0633\u0648\u0646\u06cc"
-    ],
     "name:por_x_preferred":[
         "Nassogne"
     ],
     "name:ron_x_preferred":[
         "Nassogne"
     ],
-    "name:rum_x_preferred":[
-        "Nassogne"
-    ],
     "name:rus_x_preferred":[
         "\u041d\u0430\u0441\u043e\u043d\u044c"
     ],
     "name:slk_x_preferred":[
-        "Nassogne"
-    ],
-    "name:slo_x_preferred":[
         "Nassogne"
     ],
     "name:vie_x_preferred":[
@@ -171,7 +147,7 @@
         }
     ],
     "wof:id":101811643,
-    "wof:lastmodified":1527642299,
+    "wof:lastmodified":1561831411,
     "wof:name":"Nassogne",
     "wof:parent_id":102049921,
     "wof:placetype":"locality",

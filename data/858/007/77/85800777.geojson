@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003523,
-    "geom:area_square_m":27305874.306948,
+    "geom:area_square_m":27305874.306946,
     "geom:bbox":"3.21723388672,51.1503993622,3.32512451172,51.2245160342",
     "geom:latitude":51.187769,
     "geom:longitude":3.269827,
@@ -30,9 +30,6 @@
         "Assebroek"
     ],
     "name:deu_x_preferred":[
-        "Assebroek"
-    ],
-    "name:dut_x_preferred":[
         "Assebroek"
     ],
     "name:epo_x_preferred":[
@@ -123,7 +120,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1497314714,
+    "wof:lastmodified":1561831363,
     "wof:name":"Assebroek",
     "wof:parent_id":101748097,
     "wof:placetype":"neighbourhood",

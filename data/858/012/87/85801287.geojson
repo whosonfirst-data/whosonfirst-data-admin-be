@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":793241.009764,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.468566,50.886565,4.468566,50.886565",
     "geom:latitude":50.886565,
     "geom:longitude":4.468566,
@@ -25,9 +25,6 @@
     "mz:tier_locality":1,
     "mz:tier_metro":30,
     "name:deu_x_preferred":[
-        "Hoek"
-    ],
-    "name:dut_x_preferred":[
         "Hoek"
     ],
     "name:eus_x_preferred":[
@@ -79,13 +76,13 @@
     "src:lbl:centroid":"mz",
     "wd:wordcount":21,
     "wof:belongsto":[
-        85681731,
         102191581,
         1108830477,
         85632997,
         404227357,
         101913231,
-        102049973
+        102049973,
+        85681731
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -112,7 +109,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1531862073,
+    "wof:lastmodified":1561831362,
     "wof:name":"Hoek",
     "wof:parent_id":101913231,
     "wof:placetype":"neighbourhood",

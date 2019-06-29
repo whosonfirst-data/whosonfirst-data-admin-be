@@ -25,9 +25,6 @@
     "name:ast_x_preferred":[
         "Ruitzhof"
     ],
-    "name:baq_x_preferred":[
-        "Ruitzhof"
-    ],
     "name:bar_x_preferred":[
         "Ruitzhof"
     ],
@@ -37,16 +34,19 @@
     "name:cat_x_preferred":[
         "Ruitzhof"
     ],
+    "name:ces_x_preferred":[
+        "Ruitzhof"
+    ],
     "name:cos_x_preferred":[
         "Ruitzhof"
     ],
-    "name:cze_x_preferred":[
+    "name:cym_x_preferred":[
         "Ruitzhof"
     ],
     "name:dan_x_preferred":[
         "Ruitzhof"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Ruitzhof"
     ],
     "name:eng_x_preferred":[
@@ -58,19 +58,19 @@
     "name:est_x_preferred":[
         "Ruitzhof"
     ],
+    "name:eus_x_preferred":[
+        "Ruitzhof"
+    ],
     "name:fin_x_preferred":[
         "Ruitzhof"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Ruitzhof"
     ],
     "name:frp_x_preferred":[
         "Ruitzhof"
     ],
     "name:fur_x_preferred":[
-        "Ruitzhof"
-    ],
-    "name:ger_x_preferred":[
         "Ruitzhof"
     ],
     "name:gla_x_preferred":[
@@ -91,9 +91,6 @@
     "name:hun_x_preferred":[
         "Ruitzhof"
     ],
-    "name:ice_x_preferred":[
-        "Ruitzhof"
-    ],
     "name:ido_x_preferred":[
         "Ruitzhof"
     ],
@@ -104,6 +101,9 @@
         "Ruitzhof"
     ],
     "name:ind_x_preferred":[
+        "Ruitzhof"
+    ],
+    "name:isl_x_preferred":[
         "Ruitzhof"
     ],
     "name:ita_x_preferred":[
@@ -121,19 +121,22 @@
     "name:ltz_x_preferred":[
         "Ruitzhof"
     ],
-    "name:may_x_preferred":[
-        "Ruitzhof"
-    ],
     "name:min_x_preferred":[
         "Ruitzhof"
     ],
     "name:mlg_x_preferred":[
         "Ruitzhof"
     ],
+    "name:msa_x_preferred":[
+        "Ruitzhof"
+    ],
     "name:nap_x_preferred":[
         "Ruitzhof"
     ],
     "name:nds_x_preferred":[
+        "Ruitzhof"
+    ],
+    "name:nld_x_preferred":[
         "Ruitzhof"
     ],
     "name:nno_x_preferred":[
@@ -163,7 +166,7 @@
     "name:roh_x_preferred":[
         "Ruitzhof"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Ruitzhof"
     ],
     "name:scn_x_preferred":[
@@ -172,7 +175,7 @@
     "name:sco_x_preferred":[
         "Ruitzhof"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Ruitzhof"
     ],
     "name:slv_x_preferred":[
@@ -200,9 +203,6 @@
         "Ruitzhof"
     ],
     "name:vol_x_preferred":[
-        "Ruitzhof"
-    ],
-    "name:wel_x_preferred":[
         "Ruitzhof"
     ],
     "name:wln_x_preferred":[
@@ -264,7 +264,7 @@
         }
     ],
     "wof:id":1125993459,
-    "wof:lastmodified":1513899484,
+    "wof:lastmodified":1561831462,
     "wof:name":"Ruitzhof",
     "wof:parent_id":102049935,
     "wof:placetype":"locality",

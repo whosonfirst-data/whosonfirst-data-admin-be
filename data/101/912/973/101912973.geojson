@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000102,
-    "geom:area_square_m":801170.863278,
+    "geom:area_square_m":801170.863277,
     "geom:bbox":"5.81582584041,50.7218304447,5.83138306629,50.7455858294",
     "geom:latitude":50.731619,
     "geom:longitude":5.823614,
@@ -20,7 +20,7 @@
     "name:cat_x_preferred":[
         "Sint-Pieters-Voeren"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Sint-Pieters-Voeren"
     ],
     "name:eng_x_preferred":[
@@ -31,12 +31,6 @@
     ],
     "name:fra_x_variant":[
         "Fourons (Fouron-Saint-Pierre)"
-    ],
-    "name:fre_x_preferred":[
-        "Fouron-Saint-Pierre"
-    ],
-    "name:ger_x_preferred":[
-        "Sint-Pieters-Voeren"
     ],
     "name:hun_x_preferred":[
         "Sint-Pieters-Voeren"
@@ -99,7 +93,7 @@
         }
     ],
     "wof:id":101912973,
-    "wof:lastmodified":1513899271,
+    "wof:lastmodified":1561831417,
     "wof:name":"Fouron-St.-Pierre",
     "wof:parent_id":1108830021,
     "wof:placetype":"locality",

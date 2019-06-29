@@ -26,9 +26,6 @@
     "name:ast_x_preferred":[
         "Bernissart"
     ],
-    "name:baq_x_preferred":[
-        "Bernissart"
-    ],
     "name:bar_x_preferred":[
         "Bernissart"
     ],
@@ -44,22 +41,16 @@
     "name:ces_x_preferred":[
         "Bernissart"
     ],
-    "name:chi_x_preferred":[
-        "\u67cf\u5c3c\u6c99\u8d6b"
-    ],
     "name:cos_x_preferred":[
         "Bernissart"
     ],
-    "name:cze_x_preferred":[
+    "name:cym_x_preferred":[
         "Bernissart"
     ],
     "name:dan_x_preferred":[
         "Bernissart"
     ],
     "name:deu_x_preferred":[
-        "Bernissart"
-    ],
-    "name:dut_x_preferred":[
         "Bernissart"
     ],
     "name:eng_x_preferred":[
@@ -83,16 +74,10 @@
     "name:fra_x_preferred":[
         "Bernissart"
     ],
-    "name:fre_x_preferred":[
-        "Bernissart"
-    ],
     "name:frp_x_preferred":[
         "Bernissart"
     ],
     "name:fur_x_preferred":[
-        "Bernissart"
-    ],
-    "name:ger_x_preferred":[
         "Bernissart"
     ],
     "name:gla_x_preferred":[
@@ -113,9 +98,6 @@
     "name:hun_x_preferred":[
         "Bernissart"
     ],
-    "name:ice_x_preferred":[
-        "Bernissart"
-    ],
     "name:ido_x_preferred":[
         "Bernissart"
     ],
@@ -126,6 +108,9 @@
         "Bernissart"
     ],
     "name:ind_x_preferred":[
+        "Bernissart"
+    ],
+    "name:isl_x_preferred":[
         "Bernissart"
     ],
     "name:ita_x_preferred":[
@@ -143,13 +128,13 @@
     "name:ltz_x_preferred":[
         "Bernissart"
     ],
-    "name:may_x_preferred":[
-        "Bernissart"
-    ],
     "name:min_x_preferred":[
         "Bernissart"
     ],
     "name:mlg_x_preferred":[
+        "Bernissart"
+    ],
+    "name:msa_x_preferred":[
         "Bernissart"
     ],
     "name:nap_x_preferred":[
@@ -179,9 +164,6 @@
     "name:pcd_x_preferred":[
         "Bernissart"
     ],
-    "name:per_x_preferred":[
-        "\u0628\u0631\u0646\u06cc\u0633\u0631"
-    ],
     "name:pms_x_preferred":[
         "Bernissart"
     ],
@@ -197,9 +179,6 @@
     "name:ron_x_preferred":[
         "Bernissart"
     ],
-    "name:rum_x_preferred":[
-        "Bernissart"
-    ],
     "name:rus_x_preferred":[
         "\u0411\u0435\u0440\u043d\u0438\u0441\u0441\u0430\u0440"
     ],
@@ -210,9 +189,6 @@
         "Bernissart"
     ],
     "name:slk_x_preferred":[
-        "Bernissart"
-    ],
-    "name:slo_x_preferred":[
         "Bernissart"
     ],
     "name:slv_x_preferred":[
@@ -243,9 +219,6 @@
         "Bernissart"
     ],
     "name:war_x_preferred":[
-        "Bernissart"
-    ],
-    "name:wel_x_preferred":[
         "Bernissart"
     ],
     "name:wln_x_preferred":[
@@ -314,7 +287,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1527715405,
+    "wof:lastmodified":1561831436,
     "wof:name":"Bernissart",
     "wof:parent_id":102049949,
     "wof:placetype":"locality",

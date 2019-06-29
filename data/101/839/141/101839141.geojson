@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000464,
-    "geom:area_square_m":3600521.434895,
+    "geom:area_square_m":3600521.434896,
     "geom:bbox":"4.71745302222,51.1572694466,4.75637715695,51.1843760248",
     "geom:latitude":51.171587,
     "geom:longitude":4.737254,
@@ -16,16 +16,10 @@
     "mps:longitude":4.743447,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:dut_x_preferred":[
-        "Bouwel"
-    ],
     "name:eng_x_preferred":[
         "Bouwel"
     ],
     "name:fra_x_preferred":[
-        "Bouwel"
-    ],
-    "name:fre_x_preferred":[
         "Bouwel"
     ],
     "name:hun_x_preferred":[
@@ -88,7 +82,7 @@
         }
     ],
     "wof:id":101839141,
-    "wof:lastmodified":1527715405,
+    "wof:lastmodified":1561831436,
     "wof:name":"Bouwel",
     "wof:parent_id":1108830319,
     "wof:placetype":"locality",

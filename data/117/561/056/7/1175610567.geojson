@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001074,
-    "geom:area_square_m":6164259.004213,
+    "geom:area_square_m":8326554.025969,
     "geom:bbox":"5.15152286504,51.1528775648,5.20006871677,51.2116909842",
     "geom:latitude":51.176745,
     "geom:longitude":5.173193,
@@ -20,9 +20,6 @@
     "name:afr_x_preferred":[
         "Balen"
     ],
-    "name:baq_x_preferred":[
-        "Balen"
-    ],
     "name:bre_x_preferred":[
         "Balen"
     ],
@@ -35,13 +32,7 @@
     "name:ceb_x_preferred":[
         "Balen"
     ],
-    "name:chi_x_preferred":[
-        "\u5df4\u4f26"
-    ],
     "name:deu_x_preferred":[
-        "Balen"
-    ],
-    "name:dut_x_preferred":[
         "Balen"
     ],
     "name:eng_x_preferred":[
@@ -57,12 +48,6 @@
         "\u0628\u0644\u0627\u0646"
     ],
     "name:fra_x_preferred":[
-        "Balen"
-    ],
-    "name:fre_x_preferred":[
-        "Balen"
-    ],
-    "name:ger_x_preferred":[
         "Balen"
     ],
     "name:hun_x_preferred":[
@@ -86,25 +71,16 @@
     "name:oci_x_preferred":[
         "Balen"
     ],
-    "name:per_x_preferred":[
-        "\u0628\u0644\u0627\u0646"
-    ],
     "name:por_x_preferred":[
         "Balen"
     ],
     "name:ron_x_preferred":[
         "Balen"
     ],
-    "name:rum_x_preferred":[
-        "Balen"
-    ],
     "name:rus_x_preferred":[
         "\u0411\u0430\u043b\u0435\u043d"
     ],
     "name:slk_x_preferred":[
-        "Balen"
-    ],
-    "name:slo_x_preferred":[
         "Balen"
     ],
     "name:spa_x_preferred":[
@@ -180,7 +156,7 @@
         }
     ],
     "wof:id":1175610567,
-    "wof:lastmodified":1534985846,
+    "wof:lastmodified":1561831393,
     "wof:name":"Balen",
     "wof:parent_id":1108830443,
     "wof:placetype":"locality",

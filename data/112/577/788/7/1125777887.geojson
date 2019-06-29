@@ -18,10 +18,10 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
-    "name:dut_x_preferred":[
+    "name:eng_x_preferred":[
         "Grasheide"
     ],
-    "name:eng_x_preferred":[
+    "name:nld_x_preferred":[
         "Grasheide"
     ],
     "qs_pg:aaroncc":"BE",
@@ -76,7 +76,7 @@
         }
     ],
     "wof:id":1125777887,
-    "wof:lastmodified":1513899290,
+    "wof:lastmodified":1561831488,
     "wof:name":"Grasheide",
     "wof:parent_id":1108830381,
     "wof:placetype":"locality",

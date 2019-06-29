@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000204,
-    "geom:area_square_m":1604503.919572,
+    "geom:area_square_m":1604503.919574,
     "geom:bbox":"5.33964221887,50.4076951377,5.37749020253,50.4342187506",
     "geom:latitude":50.422155,
     "geom:longitude":5.360663,
@@ -17,9 +17,6 @@
     "mps:longitude":5.366684,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:baq_x_preferred":[
-        "Clavier"
-    ],
     "name:bre_x_preferred":[
         "Clavier"
     ],
@@ -29,13 +26,7 @@
     "name:cat_x_preferred":[
         "Clavier"
     ],
-    "name:chi_x_preferred":[
-        "\u514b\u62c9\u7ef4\u8036"
-    ],
     "name:deu_x_preferred":[
-        "Clavier"
-    ],
-    "name:dut_x_preferred":[
         "Clavier"
     ],
     "name:eng_x_preferred":[
@@ -44,16 +35,16 @@
     "name:epo_x_preferred":[
         "Clavier"
     ],
+    "name:eus_x_preferred":[
+        "Clavier"
+    ],
+    "name:fas_x_preferred":[
+        "\u06a9\u0644\u0648\u06cc\u0647\u060c \u0644\u06cc\u0626\u0698"
+    ],
     "name:fin_x_preferred":[
         "Klaveeri"
     ],
     "name:fra_x_preferred":[
-        "Clavier"
-    ],
-    "name:fre_x_preferred":[
-        "Clavier"
-    ],
-    "name:ger_x_preferred":[
         "Clavier"
     ],
     "name:heb_x_preferred":[
@@ -74,22 +65,22 @@
     "name:nld_x_preferred":[
         "Klavier"
     ],
+    "name:nld_x_variant":[
+        "Clavier"
+    ],
     "name:nob_x_preferred":[
         "Clavier"
     ],
     "name:oci_x_preferred":[
         "Clavier"
     ],
-    "name:per_x_preferred":[
-        "\u06a9\u0644\u0648\u06cc\u0647\u060c \u0644\u06cc\u0626\u0698"
-    ],
     "name:por_x_preferred":[
         "Clavier"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Clavier"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Clavier"
     ],
     "name:swe_x_preferred":[
@@ -106,6 +97,9 @@
     ],
     "name:war_x_preferred":[
         "Clavier"
+    ],
+    "name:zho_x_preferred":[
+        "\u514b\u62c9\u7ef4\u8036"
     ],
     "qs:a0":"Belgi\u00eb#Belgique#Belgien",
     "qs:a1":"*Li\u00e8ge",
@@ -155,7 +149,7 @@
         }
     ],
     "wof:id":101810379,
-    "wof:lastmodified":1553815518,
+    "wof:lastmodified":1561831415,
     "wof:name":"Clavier",
     "wof:parent_id":102049925,
     "wof:placetype":"locality",

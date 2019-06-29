@@ -21,16 +21,16 @@
     "name:cat_x_preferred":[
         "Str\u00e9py-Bracquegnies"
     ],
-    "name:dut_x_preferred":[
-        "Str\u00e9py-Bracquegnies"
-    ],
     "name:eng_x_preferred":[
         "Str\u00e9py-Bracquegnies"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Str\u00e9py-Bracquegnies"
     ],
     "name:hun_x_preferred":[
+        "Str\u00e9py-Bracquegnies"
+    ],
+    "name:nld_x_preferred":[
         "Str\u00e9py-Bracquegnies"
     ],
     "name:unk_x_variant":[
@@ -90,7 +90,7 @@
         }
     ],
     "wof:id":1125779563,
-    "wof:lastmodified":1513899520,
+    "wof:lastmodified":1561831486,
     "wof:name":"Str\u00e9py-Bracquegnies",
     "wof:parent_id":102049943,
     "wof:placetype":"locality",

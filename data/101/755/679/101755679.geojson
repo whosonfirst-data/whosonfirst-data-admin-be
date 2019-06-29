@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000289,
-    "geom:area_square_m":2252084.061502,
+    "geom:area_square_m":2252084.061501,
     "geom:bbox":"3.59287049868,50.9869990515,3.61649166314,51.0186256367",
     "geom:latitude":51.00533,
     "geom:longitude":3.60603,
@@ -16,16 +16,10 @@
     "mps:longitude":3.607999,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:dut_x_preferred":[
-        "Deurle"
-    ],
     "name:eng_x_preferred":[
         "Deurle"
     ],
     "name:fra_x_preferred":[
-        "Deurle"
-    ],
-    "name:fre_x_preferred":[
         "Deurle"
     ],
     "name:hun_x_preferred":[
@@ -84,7 +78,7 @@
         }
     ],
     "wof:id":101755679,
-    "wof:lastmodified":1527641703,
+    "wof:lastmodified":1561831404,
     "wof:name":"Deurle",
     "wof:parent_id":1108830439,
     "wof:placetype":"locality",

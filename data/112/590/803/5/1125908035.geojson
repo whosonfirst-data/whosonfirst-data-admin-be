@@ -21,13 +21,10 @@
     "name:cat_x_preferred":[
         "Brustem"
     ],
-    "name:dut_x_preferred":[
-        "Brustem"
-    ],
     "name:eng_x_preferred":[
         "Brustem"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Brustem"
     ],
     "name:heb_x_preferred":[
@@ -38,6 +35,9 @@
     ],
     "name:jpn_x_preferred":[
         "\u30d6\u30eb\u30b9\u30c6\u30e0"
+    ],
+    "name:nld_x_preferred":[
+        "Brustem"
     ],
     "name:unk_x_variant":[
         "Brusthem"
@@ -98,7 +98,7 @@
         }
     ],
     "wof:id":1125908035,
-    "wof:lastmodified":1513899204,
+    "wof:lastmodified":1561831463,
     "wof:name":"Brustem",
     "wof:parent_id":1108830223,
     "wof:placetype":"locality",

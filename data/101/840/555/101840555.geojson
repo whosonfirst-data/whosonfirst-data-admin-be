@@ -17,9 +17,6 @@
     "mps:longitude":4.120075,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:baq_x_preferred":[
-        "Erquelinnes"
-    ],
     "name:bre_x_preferred":[
         "Erquelinnes"
     ],
@@ -29,7 +26,7 @@
     "name:cat_x_preferred":[
         "Erquelinnes"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Erquelinnes"
     ],
     "name:eng_x_preferred":[
@@ -38,16 +35,13 @@
     "name:epo_x_preferred":[
         "Erquelinnes"
     ],
+    "name:eus_x_preferred":[
+        "Erquelinnes"
+    ],
     "name:fas_x_preferred":[
         "\u0627\u0631\u06a9\u0648\u0644\u06cc\u0646"
     ],
     "name:fra_x_preferred":[
-        "Erquelinnes"
-    ],
-    "name:fre_x_preferred":[
-        "Erquelinnes"
-    ],
-    "name:ger_x_preferred":[
         "Erquelinnes"
     ],
     "name:hun_x_preferred":[
@@ -62,14 +56,14 @@
     "name:lim_x_preferred":[
         "Erquelinnes"
     ],
+    "name:nld_x_preferred":[
+        "Erquelinnes"
+    ],
     "name:nob_x_preferred":[
         "Erquelinnes"
     ],
     "name:oci_x_preferred":[
         "Erquelinnes"
-    ],
-    "name:per_x_preferred":[
-        "\u0627\u0631\u06a9\u0648\u0644\u06cc\u0646"
     ],
     "name:pol_x_preferred":[
         "Erquelinnes"
@@ -77,13 +71,13 @@
     "name:por_x_preferred":[
         "Erquelinnes"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Erquelinnes"
     ],
     "name:rus_x_preferred":[
         "\u042d\u0440\u043a\u0435\u043b\u0438\u043d"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Erquelinnes"
     ],
     "name:swe_x_preferred":[
@@ -151,7 +145,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1553815537,
+    "wof:lastmodified":1561831422,
     "wof:name":"Erquelinnes",
     "wof:parent_id":102049923,
     "wof:placetype":"locality",

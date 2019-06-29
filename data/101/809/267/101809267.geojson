@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000224,
-    "geom:area_square_m":1743825.977524,
+    "geom:area_square_m":1743825.977523,
     "geom:bbox":"2.90327995518,50.9055903299,2.93457631022,50.9215098593",
     "geom:latitude":50.913212,
     "geom:longitude":2.92054,
@@ -25,25 +25,13 @@
     "name:ceb_x_preferred":[
         "Langemark"
     ],
-    "name:chi_x_preferred":[
-        "\u862d\u5091\u99ac\u514b"
-    ],
     "name:deu_x_preferred":[
-        "Langemark"
-    ],
-    "name:dut_x_preferred":[
         "Langemark"
     ],
     "name:eng_x_preferred":[
         "Langemark"
     ],
     "name:fra_x_preferred":[
-        "Langemark"
-    ],
-    "name:fre_x_preferred":[
-        "Langemark"
-    ],
-    "name:ger_x_preferred":[
         "Langemark"
     ],
     "name:hun_x_preferred":[
@@ -75,6 +63,9 @@
     ],
     "name:vls_x_preferred":[
         "Langemark"
+    ],
+    "name:zho_x_preferred":[
+        "\u862d\u5091\u99ac\u514b"
     ],
     "qs:a0":"Belgi\u00eb#Belgique#Belgien",
     "qs:a1":"*West-Vlanderen",
@@ -128,7 +119,7 @@
         }
     ],
     "wof:id":101809267,
-    "wof:lastmodified":1527715167,
+    "wof:lastmodified":1561831429,
     "wof:name":"Langemark",
     "wof:parent_id":1108830263,
     "wof:placetype":"locality",

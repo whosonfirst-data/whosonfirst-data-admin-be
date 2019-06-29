@@ -18,19 +18,19 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
-    "name:dut_x_preferred":[
-        "Anlier"
-    ],
     "name:eng_x_preferred":[
         "Anlier"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Anlier"
     ],
     "name:hun_x_preferred":[
         "Anlier"
     ],
     "name:ltz_x_preferred":[
+        "Anlier"
+    ],
+    "name:nld_x_preferred":[
         "Anlier"
     ],
     "qs_pg:aaroncc":"BE",
@@ -87,7 +87,7 @@
         }
     ],
     "wof:id":1125832159,
-    "wof:lastmodified":1513899148,
+    "wof:lastmodified":1561831489,
     "wof:name":"Anlier",
     "wof:parent_id":102049907,
     "wof:placetype":"locality",

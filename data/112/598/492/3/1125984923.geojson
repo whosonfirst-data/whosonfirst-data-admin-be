@@ -22,9 +22,6 @@
     "name:ara_x_preferred":[
         "\u0647\u0627\u0631\u064a\u0644 \u0628\u064a\u0643"
     ],
-    "name:baq_x_preferred":[
-        "Harelbeke"
-    ],
     "name:bre_x_preferred":[
         "Harelbeke"
     ],
@@ -34,17 +31,17 @@
     "name:cat_x_preferred":[
         "Harelbeke"
     ],
-    "name:chi_x_preferred":[
-        "\u54c8\u52d2\u5c14\u8d1d\u514b"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Harelbeke"
     ],
     "name:dan_x_preferred":[
         "Harelbeke"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Harelbeke"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a7\u03b1\u03c1\u03b5\u03bb\u03bc\u03c0\u03ad\u03ba\u03b5"
     ],
     "name:eng_x_preferred":[
         "Harelbeke"
@@ -55,17 +52,14 @@
     "name:est_x_preferred":[
         "Harelbeke vald"
     ],
+    "name:eus_x_preferred":[
+        "Harelbeke"
+    ],
     "name:fas_x_preferred":[
         "\u0627\u0631\u0644\u200c\u0628\u06a9"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Harelbeke"
-    ],
-    "name:ger_x_preferred":[
-        "Harelbeke"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a7\u03b1\u03c1\u03b5\u03bb\u03bc\u03c0\u03ad\u03ba\u03b5"
     ],
     "name:hun_x_preferred":[
         "Harelbeke"
@@ -85,11 +79,11 @@
     "name:lit_x_preferred":[
         "Harelbek\u0117"
     ],
-    "name:mac_x_preferred":[
-        "\u0425\u0430\u0440\u0435\u043b\u0431\u0435\u043a\u0435"
-    ],
     "name:mkd_x_preferred":[
         "\u0425\u0430\u0440\u0435\u043b\u0431\u0435\u043a\u0435"
+    ],
+    "name:nld_x_preferred":[
+        "Harelbeke"
     ],
     "name:nob_x_preferred":[
         "Harelbeke"
@@ -97,22 +91,19 @@
     "name:oci_x_preferred":[
         "Harelbeke"
     ],
-    "name:per_x_preferred":[
-        "\u0627\u0631\u0644\u200c\u0628\u06a9"
-    ],
     "name:pol_x_preferred":[
         "Harelbeke"
     ],
     "name:por_x_preferred":[
         "Harelbeke"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Harelbeke"
     ],
     "name:rus_x_preferred":[
         "\u0425\u0430\u0440\u0435\u043b\u0431\u0435\u043a\u0435"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Harelbeke"
     ],
     "name:spa_x_preferred":[
@@ -193,7 +184,7 @@
         }
     ],
     "wof:id":1125984923,
-    "wof:lastmodified":1513899297,
+    "wof:lastmodified":1561831467,
     "wof:name":"Harelbeke",
     "wof:parent_id":1108830099,
     "wof:placetype":"locality",

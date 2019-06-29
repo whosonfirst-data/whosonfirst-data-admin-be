@@ -27,9 +27,6 @@
     "name:deu_x_preferred":[
         "Quatre-Bras"
     ],
-    "name:dut_x_preferred":[
-        "Vier Armen"
-    ],
     "name:dut_x_variant":[
         "Quatre Bras"
     ],
@@ -50,6 +47,9 @@
     ],
     "name:nld_x_preferred":[
         "Quatre Bras"
+    ],
+    "name:nld_x_variant":[
+        "Vier Armen"
     ],
     "name:pol_x_preferred":[
         "Quatre Bras"
@@ -122,7 +122,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1536864472,
+    "wof:lastmodified":1561831364,
     "wof:name":"Quatre Bras",
     "wof:parent_id":101913235,
     "wof:placetype":"neighbourhood",

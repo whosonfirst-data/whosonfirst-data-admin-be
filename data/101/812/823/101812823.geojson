@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000116,
-    "geom:area_square_m":927016.407609,
+    "geom:area_square_m":927016.40761,
     "geom:bbox":"5.56157424047,49.5789212185,5.59340845912,49.5913224333",
     "geom:latitude":49.582607,
     "geom:longitude":5.575785,
@@ -16,9 +16,6 @@
     "mps:longitude":5.572047,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:dut_x_preferred":[
-        "Ethe"
-    ],
     "name:eng_x_preferred":[
         "Ethe"
     ],
@@ -28,10 +25,13 @@
     "name:fra_x_preferred":[
         "\u00c9the"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_variant":[
         "Ethe"
     ],
     "name:hun_x_preferred":[
+        "Ethe"
+    ],
+    "name:nld_x_preferred":[
         "Ethe"
     ],
     "name:unk_x_variant":[
@@ -87,7 +87,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1513899601,
+    "wof:lastmodified":1561831422,
     "wof:name":"\u00c8the",
     "wof:parent_id":102049907,
     "wof:placetype":"locality",

@@ -22,16 +22,10 @@
     "name:ceb_x_preferred":[
         "Moerzeke"
     ],
-    "name:dut_x_preferred":[
-        "Moerzeke"
-    ],
     "name:eng_x_preferred":[
         "Moerzeke"
     ],
     "name:fra_x_preferred":[
-        "Moerzeke"
-    ],
-    "name:fre_x_preferred":[
         "Moerzeke"
     ],
     "name:hun_x_preferred":[
@@ -98,7 +92,7 @@
         }
     ],
     "wof:id":101809313,
-    "wof:lastmodified":1527715170,
+    "wof:lastmodified":1561831429,
     "wof:name":"Moerzeke",
     "wof:parent_id":1108830161,
     "wof:placetype":"locality",

@@ -21,16 +21,16 @@
     "name:cat_x_preferred":[
         "Meetkerke"
     ],
-    "name:dut_x_preferred":[
-        "Meetkerke"
-    ],
     "name:eng_x_preferred":[
         "Meetkerke"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Meetkerke"
     ],
     "name:hun_x_preferred":[
+        "Meetkerke"
+    ],
+    "name:nld_x_preferred":[
         "Meetkerke"
     ],
     "name:por_x_preferred":[
@@ -95,7 +95,7 @@
         }
     ],
     "wof:id":1126029805,
-    "wof:lastmodified":1513899398,
+    "wof:lastmodified":1561831446,
     "wof:name":"Meetkerke",
     "wof:parent_id":1108830569,
     "wof:placetype":"locality",

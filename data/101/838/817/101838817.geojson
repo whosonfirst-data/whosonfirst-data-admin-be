@@ -18,16 +18,16 @@
     "mps:longitude":5.173769,
     "mz:hierarchy_label":1,
     "mz:is_current":0,
-    "name:dut_x_preferred":[
-        "Oostham"
-    ],
     "name:eng_x_preferred":[
         "Oostham"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Oostham"
     ],
     "name:hun_x_preferred":[
+        "Oostham"
+    ],
+    "name:nld_x_preferred":[
         "Oostham"
     ],
     "qs:a0":"Belgi\u00eb#Belgique#Belgien",
@@ -78,7 +78,7 @@
         }
     ],
     "wof:id":101838817,
-    "wof:lastmodified":1535390519,
+    "wof:lastmodified":1561831423,
     "wof:name":"Oostham",
     "wof:parent_id":1108830379,
     "wof:placetype":"locality",

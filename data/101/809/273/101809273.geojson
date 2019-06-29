@@ -19,16 +19,16 @@
     "name:bre_x_preferred":[
         "Vlamertinge"
     ],
-    "name:dut_x_preferred":[
-        "Vlamertinge"
-    ],
     "name:eng_x_preferred":[
         "Vlamertinghe"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Vlamertinge"
     ],
     "name:hun_x_preferred":[
+        "Vlamertinge"
+    ],
+    "name:nld_x_preferred":[
         "Vlamertinge"
     ],
     "name:unk_x_variant":[
@@ -89,7 +89,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1513899549,
+    "wof:lastmodified":1561831428,
     "wof:name":"Vlamertinge",
     "wof:parent_id":1108830595,
     "wof:placetype":"locality",

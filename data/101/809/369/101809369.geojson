@@ -32,9 +32,6 @@
     "name:deu_x_preferred":[
         "Moerbeke"
     ],
-    "name:dut_x_preferred":[
-        "Moerbeke"
-    ],
     "name:epo_x_preferred":[
         "Moerbeke"
     ],
@@ -141,7 +138,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1527715172,
+    "wof:lastmodified":1561831429,
     "wof:name":"Moerbeke",
     "wof:parent_id":1108830603,
     "wof:placetype":"locality",

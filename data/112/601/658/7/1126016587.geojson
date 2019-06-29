@@ -22,12 +22,6 @@
     "name:afr_x_preferred":[
         "Saint-Ghislain"
     ],
-    "name:arm_x_preferred":[
-        "\u054d\u0565\u0576 \u0533\u056b\u057d\u056c\u0565\u0576"
-    ],
-    "name:baq_x_preferred":[
-        "Saint-Ghislain"
-    ],
     "name:bel_x_preferred":[
         "\u0421\u0435\u043d-\u0413\u0456\u0441\u043b\u0435\u043d"
     ],
@@ -40,11 +34,11 @@
     "name:cat_x_preferred":[
         "Saint-Ghislain"
     ],
-    "name:chi_x_preferred":[
-        "\u8056\u5409\u65af\u862d"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Saint-Ghislain"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a3\u03b1\u03b9\u03bd-\u0393\u03ba\u03b9\u03c3\u03bb\u03b1\u03af\u03bd"
     ],
     "name:eng_x_preferred":[
         "Saint-Ghislain"
@@ -55,20 +49,20 @@
     "name:est_x_preferred":[
         "Saint-Ghislain"
     ],
+    "name:eus_x_preferred":[
+        "Saint-Ghislain"
+    ],
     "name:fas_x_preferred":[
         "\u0633\u0646-\u06af\u06cc\u0632\u0644\u0646"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Saint-Ghislain"
-    ],
-    "name:ger_x_preferred":[
-        "Saint-Ghislain"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a3\u03b1\u03b9\u03bd-\u0393\u03ba\u03b9\u03c3\u03bb\u03b1\u03af\u03bd"
     ],
     "name:hun_x_preferred":[
         "Saint-Ghislain"
+    ],
+    "name:hye_x_preferred":[
+        "\u054d\u0565\u0576 \u0533\u056b\u057d\u056c\u0565\u0576"
     ],
     "name:ita_x_preferred":[
         "Saint-Ghislain"
@@ -82,6 +76,9 @@
     "name:lit_x_preferred":[
         "Sen Gislenas"
     ],
+    "name:nld_x_preferred":[
+        "Saint-Ghislain"
+    ],
     "name:nob_x_preferred":[
         "Saint-Ghislain"
     ],
@@ -91,13 +88,10 @@
     "name:pcd_x_preferred":[
         "Saint-Guilagne"
     ],
-    "name:per_x_preferred":[
-        "\u0633\u0646-\u06af\u06cc\u0632\u0644\u0646"
-    ],
     "name:por_x_preferred":[
         "Saint-Ghislain"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Saint-Ghislain"
     ],
     "name:rus_x_preferred":[
@@ -107,7 +101,7 @@
         "\u0421\u0435\u043d-\u0413\u0438\u043b\u0435\u043d",
         "\u0421\u0435\u043d-\u0413\u0438\u0441\u043b\u0435\u043d"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Saint-Ghislain"
     ],
     "name:slv_x_preferred":[
@@ -189,7 +183,7 @@
         }
     ],
     "wof:id":1126016587,
-    "wof:lastmodified":1513899513,
+    "wof:lastmodified":1561831468,
     "wof:name":"St.-Ghislain",
     "wof:parent_id":102049933,
     "wof:placetype":"locality",

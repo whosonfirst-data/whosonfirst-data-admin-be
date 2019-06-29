@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.025201,
-    "geom:area_square_m":197623548.774112,
+    "geom:area_square_m":197623548.774114,
     "geom:bbox":"5.40160645055,50.5752296493,5.7346924423,50.7353897292",
     "geom:latitude":50.639965,
     "geom:longitude":5.571522,
@@ -62,9 +62,6 @@
     ],
     "name:cos_x_preferred":[
         "Liegi"
-    ],
-    "name:cze_x_preferred":[
-        "Lutych"
     ],
     "name:dan_x_preferred":[
         "Li\u00e8ge"
@@ -365,7 +362,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1527688462,
+    "wof:lastmodified":1561831417,
     "wof:name":"Li\u00e8ge",
     "wof:parent_id":102049941,
     "wof:placetype":"locality",

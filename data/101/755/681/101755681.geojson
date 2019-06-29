@@ -25,19 +25,10 @@
     "name:deu_x_preferred":[
         "Zwijnaarde"
     ],
-    "name:dut_x_preferred":[
-        "Zwijnaarde"
-    ],
     "name:eng_x_preferred":[
         "Zwijnaarde"
     ],
     "name:fra_x_preferred":[
-        "Zwijnaarde"
-    ],
-    "name:fre_x_preferred":[
-        "Zwijnaarde"
-    ],
-    "name:ger_x_preferred":[
         "Zwijnaarde"
     ],
     "name:hun_x_preferred":[
@@ -113,7 +104,7 @@
         }
     ],
     "wof:id":101755681,
-    "wof:lastmodified":1527641697,
+    "wof:lastmodified":1561831398,
     "wof:name":"Zwijnaarde",
     "wof:parent_id":1108830083,
     "wof:placetype":"locality",

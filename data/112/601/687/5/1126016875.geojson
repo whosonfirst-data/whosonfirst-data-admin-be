@@ -21,16 +21,16 @@
     "name:bul_x_preferred":[
         "\u041b\u0438\u0435\u0440\u043d\u0443"
     ],
-    "name:dut_x_preferred":[
-        "Liernu"
-    ],
     "name:eng_x_preferred":[
         "Liernu"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Liernu"
     ],
     "name:hun_x_preferred":[
+        "Liernu"
+    ],
+    "name:nld_x_preferred":[
         "Liernu"
     ],
     "name:swe_x_preferred":[
@@ -91,7 +91,7 @@
         }
     ],
     "wof:id":1126016875,
-    "wof:lastmodified":1513899369,
+    "wof:lastmodified":1561831467,
     "wof:name":"Liernu",
     "wof:parent_id":102049931,
     "wof:placetype":"locality",

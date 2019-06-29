@@ -17,9 +17,6 @@
     "mps:longitude":3.596019,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:baq_x_preferred":[
-        "P\u00e9ruwelz"
-    ],
     "name:bre_x_preferred":[
         "P\u00e9ruwelz"
     ],
@@ -32,16 +29,13 @@
     "name:ceb_x_preferred":[
         "P\u00e9ruwelz"
     ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "P\u00e9ruwelz"
     ],
     "name:dan_x_preferred":[
         "P\u00e9ruwelz"
     ],
     "name:deu_x_preferred":[
-        "P\u00e9ruwelz"
-    ],
-    "name:dut_x_preferred":[
         "P\u00e9ruwelz"
     ],
     "name:eng_x_preferred":[
@@ -65,12 +59,6 @@
     "name:fra_x_preferred":[
         "P\u00e9ruwelz"
     ],
-    "name:fre_x_preferred":[
-        "P\u00e9ruwelz"
-    ],
-    "name:ger_x_preferred":[
-        "P\u00e9ruwelz"
-    ],
     "name:hun_x_preferred":[
         "P\u00e9ruwelz"
     ],
@@ -78,6 +66,9 @@
         "P\u00e9ruwelz"
     ],
     "name:lim_x_preferred":[
+        "P\u00e9ruwelz"
+    ],
+    "name:nld_x_preferred":[
         "P\u00e9ruwelz"
     ],
     "name:nob_x_preferred":[
@@ -89,22 +80,19 @@
     "name:pcd_x_preferred":[
         "Pi\u00e9rw\u00e9"
     ],
-    "name:per_x_preferred":[
-        "\u067e\u0631\u0648\u0648\u0644\u0632"
-    ],
     "name:pol_x_preferred":[
         "P\u00e9ruwelz"
     ],
     "name:por_x_preferred":[
         "P\u00e9ruwelz"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "P\u00e9ruwelz"
     ],
     "name:rus_x_preferred":[
         "\u041f\u0435\u0440\u044e\u0432\u0435\u043b\u044c\u0437"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "P\u00e9ruwelz"
     ],
     "name:spa_x_preferred":[
@@ -178,7 +166,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1553815536,
+    "wof:lastmodified":1561831423,
     "wof:name":"P\u00e9ruwelz",
     "wof:parent_id":102049951,
     "wof:placetype":"locality",

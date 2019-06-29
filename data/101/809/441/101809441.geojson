@@ -22,16 +22,10 @@
     "name:ceb_x_preferred":[
         "Moerkerke"
     ],
-    "name:dut_x_preferred":[
-        "Moerkerke"
-    ],
     "name:eng_x_preferred":[
         "Moerkerke"
     ],
     "name:fra_x_preferred":[
-        "Moerkerke"
-    ],
-    "name:fre_x_preferred":[
         "Moerkerke"
     ],
     "name:hun_x_preferred":[
@@ -99,7 +93,7 @@
         }
     ],
     "wof:id":101809441,
-    "wof:lastmodified":1527715165,
+    "wof:lastmodified":1561831428,
     "wof:name":"Moerkerke",
     "wof:parent_id":1108830063,
     "wof:placetype":"locality",

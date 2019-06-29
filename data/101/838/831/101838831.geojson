@@ -19,19 +19,19 @@
     "name:cat_x_preferred":[
         "Beverlo"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Beverlo"
     ],
     "name:eng_x_preferred":[
         "Beverlo"
     ],
-    "name:fre_x_preferred":[
-        "Beverlo"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Beverlo"
     ],
     "name:hun_x_preferred":[
+        "Beverlo"
+    ],
+    "name:nld_x_preferred":[
         "Beverlo"
     ],
     "name:unk_x_variant":[
@@ -85,7 +85,7 @@
         }
     ],
     "wof:id":101838831,
-    "wof:lastmodified":1513899177,
+    "wof:lastmodified":1561831426,
     "wof:name":"Beverlo",
     "wof:parent_id":1108830613,
     "wof:placetype":"locality",

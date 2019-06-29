@@ -16,16 +16,16 @@
     "mps:longitude":4.047365,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:dut_x_preferred":[
-        "Gijzegem"
-    ],
     "name:eng_x_preferred":[
         "Gysegem"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Gijzegem"
     ],
     "name:hun_x_preferred":[
+        "Gijzegem"
+    ],
+    "name:nld_x_preferred":[
         "Gijzegem"
     ],
     "name:unk_x_variant":[
@@ -83,7 +83,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1513899285,
+    "wof:lastmodified":1561831403,
     "wof:name":"Gijzegem",
     "wof:parent_id":1108830515,
     "wof:placetype":"locality",

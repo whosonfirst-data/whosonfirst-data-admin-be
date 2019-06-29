@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000656,
-    "geom:area_square_m":5119089.027631,
+    "geom:area_square_m":5119089.027632,
     "geom:bbox":"2.70047783125,50.8398999146,2.75307098505,50.8691294505",
     "geom:latitude":50.852925,
     "geom:longitude":2.729516,
@@ -17,9 +17,6 @@
     "mps:longitude":2.729118,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:baq_x_preferred":[
-        "Poperinge"
-    ],
     "name:bre_x_preferred":[
         "Poperinge"
     ],
@@ -35,20 +32,14 @@
     "name:ces_x_preferred":[
         "Poperinge"
     ],
-    "name:chi_x_preferred":[
-        "\u6ce2\u73c0\u7075\u5384"
-    ],
-    "name:cze_x_preferred":[
-        "Poperinge"
-    ],
     "name:dan_x_preferred":[
         "Poperinge"
     ],
     "name:deu_x_preferred":[
         "Poperinge"
     ],
-    "name:dut_x_preferred":[
-        "Poperinge"
+    "name:ell_x_preferred":[
+        "\u03a0\u03bf\u03c0\u03b5\u03c1\u03af\u03bd\u03b3\u03ba\u03b5"
     ],
     "name:eng_x_preferred":[
         "Poperinge"
@@ -64,15 +55,6 @@
     ],
     "name:fra_x_preferred":[
         "Poperinge"
-    ],
-    "name:fre_x_preferred":[
-        "Poperinge"
-    ],
-    "name:ger_x_preferred":[
-        "Poperinge"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a0\u03bf\u03c0\u03b5\u03c1\u03af\u03bd\u03b3\u03ba\u03b5"
     ],
     "name:hun_x_preferred":[
         "Poperinge"
@@ -104,9 +86,6 @@
     "name:oci_x_preferred":[
         "Poperinge"
     ],
-    "name:per_x_preferred":[
-        "\u067e\u067e\u0631\u0646\u0698"
-    ],
     "name:pol_x_preferred":[
         "Poperinge"
     ],
@@ -116,16 +95,10 @@
     "name:ron_x_preferred":[
         "Poperinge"
     ],
-    "name:rum_x_preferred":[
-        "Poperinge"
-    ],
     "name:rus_x_preferred":[
         "\u041f\u043e\u043f\u0435\u0440\u0438\u043d\u0433\u0435"
     ],
     "name:slk_x_preferred":[
-        "Poperinge"
-    ],
-    "name:slo_x_preferred":[
         "Poperinge"
     ],
     "name:spa_x_preferred":[
@@ -207,7 +180,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1527715131,
+    "wof:lastmodified":1561831425,
     "wof:name":"Poperinge",
     "wof:parent_id":1108830029,
     "wof:placetype":"locality",

@@ -23,19 +23,10 @@
     "name:deu_x_preferred":[
         "Mere"
     ],
-    "name:dut_x_preferred":[
-        "Mere"
-    ],
     "name:eng_x_preferred":[
         "Mere"
     ],
     "name:fra_x_preferred":[
-        "Mere"
-    ],
-    "name:fre_x_preferred":[
-        "Mere"
-    ],
-    "name:ger_x_preferred":[
         "Mere"
     ],
     "name:hun_x_preferred":[
@@ -103,7 +94,7 @@
         }
     ],
     "wof:id":101755339,
-    "wof:lastmodified":1527641696,
+    "wof:lastmodified":1561831397,
     "wof:name":"Mere",
     "wof:parent_id":1108830215,
     "wof:placetype":"locality",

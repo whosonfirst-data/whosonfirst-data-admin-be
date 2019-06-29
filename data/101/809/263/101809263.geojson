@@ -19,16 +19,10 @@
     "name:bre_x_preferred":[
         "Elverdinge"
     ],
-    "name:dut_x_preferred":[
-        "Elverdinge"
-    ],
     "name:eng_x_preferred":[
         "Elverdinghe"
     ],
     "name:fra_x_preferred":[
-        "Elverdinge"
-    ],
-    "name:fre_x_preferred":[
         "Elverdinge"
     ],
     "name:hun_x_preferred":[
@@ -96,7 +90,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1527715180,
+    "wof:lastmodified":1561831430,
     "wof:name":"Elverdinge",
     "wof:parent_id":1108830595,
     "wof:placetype":"locality",

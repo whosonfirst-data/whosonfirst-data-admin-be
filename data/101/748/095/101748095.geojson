@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003346,
-    "geom:area_square_m":25916023.00766,
+    "geom:area_square_m":25916023.007662,
     "geom:bbox":"2.84935154303,51.192820771,3.00163479249,51.2430085832",
     "geom:latitude":51.215296,
     "geom:longitude":2.925799,
@@ -22,12 +22,6 @@
     ],
     "name:ara_x_preferred":[
         "\u0623\u0648\u0633\u062a\u0646\u062f"
-    ],
-    "name:arm_x_preferred":[
-        "\u0555\u057d\u057f\u0565\u0576\u0564\u0565"
-    ],
-    "name:baq_x_preferred":[
-        "Ostende"
     ],
     "name:bel_x_preferred":[
         "\u0410\u0441\u0442\u044d\u043d\u0434\u044d"
@@ -53,14 +47,8 @@
     "name:che_x_preferred":[
         "\u041e\u0441\u0442\u0435\u043d\u0434\u0435"
     ],
-    "name:chi_x_preferred":[
-        "\u5965\u65af\u5766\u5fb7"
-    ],
     "name:cym_x_preferred":[
         "Oostende"
-    ],
-    "name:cze_x_preferred":[
-        "Ostende"
     ],
     "name:dan_x_preferred":[
         "Oostende"
@@ -73,9 +61,6 @@
     ],
     "name:dut_x_colloquial":[
         "Ostend"
-    ],
-    "name:dut_x_preferred":[
-        "Oostende"
     ],
     "name:ell_x_preferred":[
         "\u039f\u03c3\u03c4\u03ad\u03bd\u03b4\u03b7"
@@ -101,20 +86,11 @@
     "name:fra_x_preferred":[
         "Ostende"
     ],
-    "name:fre_x_preferred":[
-        "Ostende"
-    ],
     "name:fry_x_preferred":[
         "Oostende"
     ],
-    "name:ger_x_preferred":[
-        "Ostende"
-    ],
     "name:gle_x_preferred":[
         "Oostende"
-    ],
-    "name:gre_x_preferred":[
-        "\u039f\u03c3\u03c4\u03ad\u03bd\u03b4\u03b7"
     ],
     "name:heb_x_preferred":[
         "\u05d0\u05d5\u05e1\u05d8\u05e0\u05d3\u05d4"
@@ -124,9 +100,6 @@
     ],
     "name:hye_x_preferred":[
         "\u0555\u057d\u057f\u0565\u0576\u0564\u0565"
-    ],
-    "name:ice_x_preferred":[
-        "Oostende"
     ],
     "name:ind_x_preferred":[
         "Oostende"
@@ -159,11 +132,8 @@
     "name:ltz_x_preferred":[
         "Oostende"
     ],
-    "name:mac_x_preferred":[
+    "name:mkd_x_preferred":[
         "\u041e\u0441\u0442\u0435\u043d\u0434\u0435"
-    ],
-    "name:may_x_preferred":[
-        "Oostende"
     ],
     "name:msa_x_preferred":[
         "Oostende"
@@ -183,9 +153,6 @@
     "name:oci_x_preferred":[
         "Ostende"
     ],
-    "name:per_x_preferred":[
-        "\u0627\u0648\u0633\u062a\u0646\u062f\u0647"
-    ],
     "name:pol_x_preferred":[
         "Ostenda"
     ],
@@ -194,9 +161,6 @@
         "Oostende"
     ],
     "name:ron_x_preferred":[
-        "Oostende"
-    ],
-    "name:rum_x_preferred":[
         "Oostende"
     ],
     "name:rup_x_preferred":[
@@ -209,9 +173,6 @@
         "Ostend"
     ],
     "name:slk_x_preferred":[
-        "Ostende"
-    ],
-    "name:slo_x_preferred":[
         "Ostende"
     ],
     "name:slv_x_preferred":[
@@ -256,14 +217,14 @@
     "name:war_x_preferred":[
         "Ostend"
     ],
-    "name:wel_x_preferred":[
-        "Oostende"
-    ],
     "name:wln_x_preferred":[
         "Ostinde"
     ],
     "name:zho_x_preferred":[
         "\u5965\u65af\u6ed5\u5fb7"
+    ],
+    "name:zho_x_variant":[
+        "\u5965\u65af\u5766\u5fb7"
     ],
     "qs:a0":"Belgi\u00eb#Belgique#Belgien",
     "qs:a1":"*West-Vlanderen",
@@ -320,7 +281,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1513899443,
+    "wof:lastmodified":1561831418,
     "wof:name":"Oostende",
     "wof:parent_id":1108830687,
     "wof:placetype":"locality",

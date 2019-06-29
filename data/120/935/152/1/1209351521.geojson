@@ -31,7 +31,7 @@
     "name:dut_x_colloquial":[
         "Boven 't Klooster"
     ],
-    "name:dut_x_preferred":[
+    "name:nld_x_preferred":[
         "Boven 't Klooster"
     ],
     "src:geom":"geonames",
@@ -51,7 +51,7 @@
         }
     ],
     "wof:id":1209351521,
-    "wof:lastmodified":1537587088,
+    "wof:lastmodified":1561831380,
     "wof:name":"Hoogkouter",
     "wof:parent_id":85632997,
     "wof:placetype":"locality",

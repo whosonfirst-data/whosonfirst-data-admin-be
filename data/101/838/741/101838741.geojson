@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000758,
-    "geom:area_square_m":5893801.990375,
+    "geom:area_square_m":5893801.990376,
     "geom:bbox":"5.05864100517,51.048695749,5.10728064763,51.0808472497",
     "geom:latitude":51.06504,
     "geom:longitude":5.08709,
@@ -20,9 +20,6 @@
     "name:afr_x_preferred":[
         "Tessenderlo"
     ],
-    "name:baq_x_preferred":[
-        "Tessenderlo"
-    ],
     "name:bre_x_preferred":[
         "Tessenderlo"
     ],
@@ -32,10 +29,7 @@
     "name:cat_x_preferred":[
         "Tessenderlo"
     ],
-    "name:chi_x_preferred":[
-        "\u6cf0\u68ee\u5fb7\u6d1b"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Tessenderlo"
     ],
     "name:eng_x_preferred":[
@@ -44,10 +38,13 @@
     "name:epo_x_preferred":[
         "Tessenderlo"
     ],
-    "name:fre_x_preferred":[
+    "name:eus_x_preferred":[
         "Tessenderlo"
     ],
-    "name:ger_x_preferred":[
+    "name:fas_x_preferred":[
+        "\u062a\u0633\u0627\u0646\u062f\u0631\u0644\u0648"
+    ],
+    "name:fra_x_preferred":[
         "Tessenderlo"
     ],
     "name:hun_x_preferred":[
@@ -65,14 +62,14 @@
     "name:lit_x_preferred":[
         "Tesenderlas"
     ],
+    "name:nld_x_preferred":[
+        "Tessenderlo"
+    ],
     "name:nob_x_preferred":[
         "Tessenderlo"
     ],
     "name:oci_x_preferred":[
         "Tessenderlo"
-    ],
-    "name:per_x_preferred":[
-        "\u062a\u0633\u0627\u0646\u062f\u0631\u0644\u0648"
     ],
     "name:pol_x_preferred":[
         "Tessenderlo"
@@ -80,13 +77,13 @@
     "name:por_x_preferred":[
         "Tessenderlo"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Tessenderlo"
     ],
     "name:rus_x_preferred":[
         "\u0422\u0435\u0441\u0441\u0435\u043d\u0434\u0435\u0440\u043b\u043e"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Tessenderlo"
     ],
     "name:slv_x_preferred":[
@@ -106,6 +103,9 @@
     ],
     "name:war_x_preferred":[
         "Tessenderlo"
+    ],
+    "name:zho_x_preferred":[
+        "\u6cf0\u68ee\u5fb7\u6d1b"
     ],
     "qs:a0":"Belgi\u00eb#Belgique#Belgien",
     "qs:a1":"*Limburg",
@@ -160,7 +160,7 @@
         }
     ],
     "wof:id":101838741,
-    "wof:lastmodified":1553815536,
+    "wof:lastmodified":1561831425,
     "wof:name":"Tessenderlo",
     "wof:parent_id":1108830641,
     "wof:placetype":"locality",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000487,
-    "geom:area_square_m":3807606.028639,
+    "geom:area_square_m":3807606.028638,
     "geom:bbox":"4.12785357887,50.7890449395,4.17438546014,50.8210419146",
     "geom:latitude":50.805122,
     "geom:longitude":4.152562,
@@ -19,19 +19,19 @@
     "name:cat_x_preferred":[
         "Sint-Kwintens-Lennik"
     ],
-    "name:dut_x_preferred":[
-        "Sint-Kwintens-Lennik"
-    ],
     "name:eng_x_preferred":[
         "Sint-Kwintens-Lennik"
     ],
     "name:fra_x_preferred":[
         "Lennick-Saint-Quentin"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_variant":[
         "Sint-Kwintens-Lennik"
     ],
     "name:hun_x_preferred":[
+        "Sint-Kwintens-Lennik"
+    ],
+    "name:nld_x_preferred":[
         "Sint-Kwintens-Lennik"
     ],
     "name:unk_x_variant":[
@@ -82,7 +82,7 @@
         }
     ],
     "wof:id":101755489,
-    "wof:lastmodified":1513899498,
+    "wof:lastmodified":1561831404,
     "wof:name":"Sint-Kwintens-Lennik",
     "wof:parent_id":1108830469,
     "wof:placetype":"locality",

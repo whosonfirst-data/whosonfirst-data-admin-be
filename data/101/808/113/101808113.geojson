@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000669,
-    "geom:area_square_m":5201453.253951,
+    "geom:area_square_m":5201453.25395,
     "geom:bbox":"2.83007994808,51.0172329247,2.92228638341,51.0415270073",
     "geom:latitude":51.028952,
     "geom:longitude":2.868805,
@@ -26,9 +26,6 @@
     "name:ast_x_preferred":[
         "Diksmuide"
     ],
-    "name:baq_x_preferred":[
-        "Diksmuide"
-    ],
     "name:bar_x_preferred":[
         "Diksmuide"
     ],
@@ -41,22 +38,19 @@
     "name:cat_x_preferred":[
         "Diksmuide"
     ],
-    "name:chi_x_preferred":[
-        "\u8fea\u514b\u65af\u6885\u5fb7"
+    "name:ces_x_preferred":[
+        "Diksmuide"
     ],
     "name:cos_x_preferred":[
         "Diksmuide"
     ],
-    "name:cze_x_preferred":[
+    "name:cym_x_preferred":[
         "Diksmuide"
     ],
     "name:dan_x_preferred":[
         "Diksmuide"
     ],
     "name:deu_x_preferred":[
-        "Diksmuide"
-    ],
-    "name:dut_x_preferred":[
         "Diksmuide"
     ],
     "name:eng_x_preferred":[
@@ -72,13 +66,16 @@
     "name:est_x_preferred":[
         "Diksmuide"
     ],
+    "name:eus_x_preferred":[
+        "Diksmuide"
+    ],
+    "name:fas_x_preferred":[
+        "\u062f\u06cc\u06a9\u0633\u0645\u0648\u06cc\u06cc\u062f"
+    ],
     "name:fin_x_preferred":[
         "Diksmuide"
     ],
     "name:fra_x_preferred":[
-        "Dixmude"
-    ],
-    "name:fre_x_preferred":[
         "Dixmude"
     ],
     "name:frp_x_preferred":[
@@ -88,9 +85,6 @@
         "Diksmuide"
     ],
     "name:fur_x_preferred":[
-        "Diksmuide"
-    ],
-    "name:ger_x_preferred":[
         "Diksmuide"
     ],
     "name:gla_x_preferred":[
@@ -111,9 +105,6 @@
     "name:hun_x_preferred":[
         "Diksmuide"
     ],
-    "name:ice_x_preferred":[
-        "Diksmuide"
-    ],
     "name:ido_x_preferred":[
         "Diksmuide"
     ],
@@ -124,6 +115,9 @@
         "Diksmuide"
     ],
     "name:ind_x_preferred":[
+        "Diksmuide"
+    ],
+    "name:isl_x_preferred":[
         "Diksmuide"
     ],
     "name:ita_x_preferred":[
@@ -147,13 +141,13 @@
     "name:ltz_x_preferred":[
         "Diksmuide"
     ],
-    "name:may_x_preferred":[
-        "Diksmuide"
-    ],
     "name:min_x_preferred":[
         "Diksmuide"
     ],
     "name:mlg_x_preferred":[
+        "Diksmuide"
+    ],
+    "name:msa_x_preferred":[
         "Diksmuide"
     ],
     "name:nap_x_preferred":[
@@ -183,9 +177,6 @@
     "name:pcd_x_preferred":[
         "Diksmuide"
     ],
-    "name:per_x_preferred":[
-        "\u062f\u06cc\u06a9\u0633\u0645\u0648\u06cc\u06cc\u062f"
-    ],
     "name:pms_x_preferred":[
         "Diksmuide"
     ],
@@ -198,7 +189,7 @@
     "name:roh_x_preferred":[
         "Diksmuide"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Diksmuide"
     ],
     "name:rus_x_preferred":[
@@ -210,7 +201,7 @@
     "name:sco_x_preferred":[
         "Diksmuide"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Diksmuide"
     ],
     "name:slv_x_preferred":[
@@ -246,9 +237,6 @@
     "name:war_x_preferred":[
         "Diksmuide"
     ],
-    "name:wel_x_preferred":[
-        "Diksmuide"
-    ],
     "name:wln_x_preferred":[
         "Diksmuide"
     ],
@@ -257,6 +245,9 @@
     ],
     "name:zea_x_preferred":[
         "Diksmuje"
+    ],
+    "name:zho_x_preferred":[
+        "\u8fea\u514b\u65af\u6885\u5fb7"
     ],
     "name:zul_x_preferred":[
         "Diksmuide"
@@ -314,7 +305,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1513899234,
+    "wof:lastmodified":1561831433,
     "wof:name":"Diksmuide",
     "wof:parent_id":1108830401,
     "wof:placetype":"locality",

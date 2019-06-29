@@ -24,19 +24,19 @@
     "name:cat_x_preferred":[
         "Ronqui\u00e8res"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Ronqui\u00e8res"
     ],
     "name:eng_x_preferred":[
         "Ronqui\u00e8res"
     ],
-    "name:fre_x_preferred":[
-        "Ronqui\u00e8res"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Ronqui\u00e8res"
     ],
     "name:hun_x_preferred":[
+        "Ronqui\u00e8res"
+    ],
+    "name:nld_x_preferred":[
         "Ronqui\u00e8res"
     ],
     "name:swe_x_preferred":[
@@ -96,7 +96,7 @@
         }
     ],
     "wof:id":1125830081,
-    "wof:lastmodified":1513899479,
+    "wof:lastmodified":1561831489,
     "wof:name":"Ronqui\u00e8res",
     "wof:parent_id":102049943,
     "wof:placetype":"locality",

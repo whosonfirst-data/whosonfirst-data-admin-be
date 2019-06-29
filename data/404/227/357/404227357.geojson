@@ -15,9 +15,6 @@
     "name:ara_x_preferred":[
         "\u0627\u0644\u0625\u0642\u0644\u064a\u0645 \u0627\u0644\u0641\u0644\u0627\u0645\u0646\u062f\u064a"
     ],
-    "name:arm_x_preferred":[
-        "\u0556\u056c\u0561\u0576\u0564\u0580\u056b\u0561"
-    ],
     "name:bel_x_preferred":[
         "\u0424\u043b\u0430\u043c\u0430\u043d\u0434\u0441\u043a\u0456 \u0440\u044d\u0433\u0456\u0451\u043d"
     ],
@@ -27,14 +24,14 @@
     "name:cat_x_preferred":[
         "regi\u00f3 Flamenca"
     ],
-    "name:chi_x_preferred":[
-        "\u5f17\u62c9\u8292\u5927\u5340"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Vl\u00e1msk\u00fd region"
     ],
-    "name:dut_x_preferred":[
-        "Vlaams Gewest"
+    "name:deu_x_preferred":[
+        "Fl\u00e4mische Region"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a6\u03bb\u03b1\u03bc\u03b1\u03bd\u03b4\u03b9\u03ba\u03ae \u03a0\u03b5\u03c1\u03b9\u03bf\u03c7\u03ae"
     ],
     "name:eng_x_preferred":[
         "Flemish Region"
@@ -45,26 +42,23 @@
     "name:est_x_preferred":[
         "Flandria"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "R\u00e9gion flamande"
-    ],
-    "name:geo_x_preferred":[
-        "\u10e4\u10da\u10d0\u10dc\u10d3\u10e0\u10d8\u10d0"
-    ],
-    "name:ger_x_preferred":[
-        "Fl\u00e4mische Region"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a6\u03bb\u03b1\u03bc\u03b1\u03bd\u03b4\u03b9\u03ba\u03ae \u03a0\u03b5\u03c1\u03b9\u03bf\u03c7\u03ae"
     ],
     "name:hin_x_preferred":[
         "\u092b\u094d\u0932\u0947\u092e\u093f\u0936 \u0915\u094d\u0937\u0947\u0924\u094d\u0930"
+    ],
+    "name:hye_x_preferred":[
+        "\u0556\u056c\u0561\u0576\u0564\u0580\u056b\u0561"
     ],
     "name:ita_x_preferred":[
         "Regione fiamminga"
     ],
     "name:jpn_x_preferred":[
         "\u30d5\u30e9\u30f3\u30c7\u30ec\u30f3\u5730\u57df"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e4\u10da\u10d0\u10dc\u10d3\u10e0\u10d8\u10d0"
     ],
     "name:kor_x_preferred":[
         "\ud50c\ub77c\ub9dd \uc9c0\uc5ed"
@@ -78,7 +72,7 @@
     "name:ltz_x_preferred":[
         "Fl\u00e4mesch Regioun"
     ],
-    "name:mac_x_preferred":[
+    "name:mkd_x_preferred":[
         "\u0424\u043b\u0430\u043c\u0430\u043d\u0441\u043a\u0438 \u0440\u0435\u0433\u0438\u043e\u043d"
     ],
     "name:mlt_x_preferred":[
@@ -105,7 +99,7 @@
     "name:sco_x_preferred":[
         "Flemish Region"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Fl\u00e1msky regi\u00f3n"
     ],
     "name:spa_x_preferred":[
@@ -134,6 +128,9 @@
     ],
     "name:xmf_x_preferred":[
         "\u10e4\u10da\u10d0\u10dc\u10d3\u10e0\u10d8\u10d0"
+    ],
+    "name:zho_x_preferred":[
+        "\u5f17\u62c9\u8292\u5927\u5340"
     ],
     "qs:a0":"Belgi\u00eb#Belgique#Belgien",
     "qs:a0_lc":"BE000000",
@@ -174,7 +171,7 @@
         "fra",
         "deu"
     ],
-    "wof:lastmodified":1541533500,
+    "wof:lastmodified":1561831438,
     "wof:name":"Flemish Region",
     "wof:parent_id":85632997,
     "wof:placetype":"macroregion",

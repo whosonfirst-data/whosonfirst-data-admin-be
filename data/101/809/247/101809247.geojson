@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000121,
-    "geom:area_square_m":946677.193285,
+    "geom:area_square_m":946677.193284,
     "geom:bbox":"3.82790352886,50.7804259041,3.8474592943,50.7940819187",
     "geom:latitude":50.786369,
     "geom:longitude":3.837509,
@@ -16,16 +16,10 @@
     "mps:longitude":3.838991,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:dut_x_preferred":[
-        "Deftinge"
-    ],
     "name:eng_x_preferred":[
         "Deftinge"
     ],
     "name:fra_x_preferred":[
-        "Deftinge"
-    ],
-    "name:fre_x_preferred":[
         "Deftinge"
     ],
     "name:hun_x_preferred":[
@@ -84,7 +78,7 @@
         }
     ],
     "wof:id":101809247,
-    "wof:lastmodified":1527715176,
+    "wof:lastmodified":1561831430,
     "wof:name":"Deftinge",
     "wof:parent_id":1108830669,
     "wof:placetype":"locality",

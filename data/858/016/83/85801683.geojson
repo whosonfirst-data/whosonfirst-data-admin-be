@@ -24,7 +24,7 @@
     "mz:min_zoom":13.0,
     "mz:tier_locality":5,
     "mz:tier_metro":30,
-    "name:dut_x_preferred":[
+    "name:nld_x_preferred":[
         "Neerstalle"
     ],
     "name:unk_x_variant":[
@@ -90,7 +90,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1497313868,
+    "wof:lastmodified":1561831365,
     "wof:name":"Neerstalle",
     "wof:parent_id":101751573,
     "wof:placetype":"neighbourhood",

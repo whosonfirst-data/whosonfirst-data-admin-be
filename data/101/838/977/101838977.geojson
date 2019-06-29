@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000381,
-    "geom:area_square_m":2954058.934049,
+    "geom:area_square_m":2954058.93405,
     "geom:bbox":"3.60338859205,51.178652943,3.64406314999,51.2052981839",
     "geom:latitude":51.190676,
     "geom:longitude":3.626825,
@@ -19,16 +19,13 @@
     "name:cat_x_preferred":[
         "Lembeke"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Lembeke"
     ],
     "name:eng_x_preferred":[
         "Lembeke"
     ],
-    "name:fre_x_preferred":[
-        "Lembeke"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Lembeke"
     ],
     "name:hun_x_preferred":[
@@ -39,6 +36,9 @@
     ],
     "name:jpn_x_preferred":[
         "\u30ec\u30f3\u30d9\u30fc\u30b1"
+    ],
+    "name:nld_x_preferred":[
+        "Lembeke"
     ],
     "name:oci_x_preferred":[
         "Lembeke"
@@ -95,7 +95,7 @@
         }
     ],
     "wof:id":101838977,
-    "wof:lastmodified":1513899360,
+    "wof:lastmodified":1561831424,
     "wof:name":"Lembeke",
     "wof:parent_id":1108830287,
     "wof:placetype":"locality",

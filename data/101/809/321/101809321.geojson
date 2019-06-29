@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000478,
-    "geom:area_square_m":3716736.684833,
+    "geom:area_square_m":3716736.684832,
     "geom:bbox":"3.18190239301,51.027763601,3.23717836747,51.0659359473",
     "geom:latitude":51.04333,
     "geom:longitude":3.21996,
@@ -16,22 +16,22 @@
     "mps:longitude":3.228754,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Zwevezele"
     ],
     "name:eng_x_preferred":[
         "Zwevezele"
     ],
-    "name:fre_x_preferred":[
-        "Zwevezele"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Zwevezele"
     ],
     "name:hun_x_preferred":[
         "Zwevezele"
     ],
     "name:ita_x_preferred":[
+        "Zwevezele"
+    ],
+    "name:nld_x_preferred":[
         "Zwevezele"
     ],
     "name:spa_x_preferred":[
@@ -91,7 +91,7 @@
         }
     ],
     "wof:id":101809321,
-    "wof:lastmodified":1513899600,
+    "wof:lastmodified":1561831431,
     "wof:name":"Zwevezele",
     "wof:parent_id":1108830065,
     "wof:placetype":"locality",

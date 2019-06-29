@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00038,
-    "geom:area_square_m":2966915.51579,
+    "geom:area_square_m":2966915.515791,
     "geom:bbox":"4.74322552144,50.8446710359,4.7810797177,50.8710518917",
     "geom:latitude":50.861052,
     "geom:longitude":4.758894,
@@ -19,16 +19,10 @@
     "name:ceb_x_preferred":[
         "Korbeek-Lo"
     ],
-    "name:dut_x_preferred":[
-        "Korbeek-Lo"
-    ],
     "name:eng_x_preferred":[
         "Korbeek-Lo"
     ],
     "name:fra_x_preferred":[
-        "Korbeek-Lo"
-    ],
-    "name:fre_x_preferred":[
         "Korbeek-Lo"
     ],
     "name:hun_x_preferred":[
@@ -94,7 +88,7 @@
         }
     ],
     "wof:id":101755433,
-    "wof:lastmodified":1527641704,
+    "wof:lastmodified":1561831405,
     "wof:name":"Korbeek-Lo",
     "wof:parent_id":1108830409,
     "wof:placetype":"locality",

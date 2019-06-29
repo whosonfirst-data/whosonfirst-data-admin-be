@@ -21,16 +21,16 @@
     "name:bul_x_preferred":[
         "\u0410\u043b\u0441\u0435\u043c\u0431\u0435\u0440\u0433"
     ],
-    "name:dut_x_preferred":[
-        "Alsemberg"
-    ],
     "name:eng_x_preferred":[
         "Alsemberg"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Alsemberg"
     ],
     "name:hun_x_preferred":[
+        "Alsemberg"
+    ],
+    "name:nld_x_preferred":[
         "Alsemberg"
     ],
     "name:swe_x_preferred":[
@@ -95,7 +95,7 @@
         }
     ],
     "wof:id":1126034339,
-    "wof:lastmodified":1513899144,
+    "wof:lastmodified":1561831451,
     "wof:name":"Alsemberg",
     "wof:parent_id":1108830253,
     "wof:placetype":"locality",

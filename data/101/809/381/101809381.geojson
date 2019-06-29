@@ -16,22 +16,22 @@
     "mps:longitude":3.489094,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:dut_x_preferred":[
-        "Bellem"
-    ],
     "name:eng_x_preferred":[
         "Bellem"
     ],
     "name:est_x_preferred":[
         "Bellem"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Bellem"
     ],
     "name:hun_x_preferred":[
         "Bellem"
     ],
     "name:ita_x_preferred":[
+        "Bellem"
+    ],
+    "name:nld_x_preferred":[
         "Bellem"
     ],
     "qs:a0":"Belgi\u00eb#Belgique#Belgien",
@@ -82,7 +82,7 @@
         }
     ],
     "wof:id":101809381,
-    "wof:lastmodified":1513899171,
+    "wof:lastmodified":1561831431,
     "wof:name":"Bellem",
     "wof:parent_id":1108830383,
     "wof:placetype":"locality",

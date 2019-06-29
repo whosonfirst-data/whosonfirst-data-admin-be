@@ -19,9 +19,6 @@
     "name:bre_x_preferred":[
         "Dikkebus"
     ],
-    "name:dut_x_preferred":[
-        "Dikkebus"
-    ],
     "name:eng_x_preferred":[
         "Dickebusch"
     ],
@@ -29,10 +26,13 @@
         "Dikkebusch",
         "Dikkebus"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Dikkebus"
     ],
     "name:hun_x_preferred":[
+        "Dikkebus"
+    ],
+    "name:nld_x_preferred":[
         "Dikkebus"
     ],
     "name:unk_x_variant":[
@@ -94,7 +94,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1513899232,
+    "wof:lastmodified":1561831428,
     "wof:name":"Dikkebus",
     "wof:parent_id":1108830595,
     "wof:placetype":"locality",

@@ -16,9 +16,6 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
-    "name:baq_x_preferred":[
-        "Laakdal"
-    ],
     "name:bre_x_preferred":[
         "Laakdal"
     ],
@@ -28,10 +25,7 @@
     "name:cat_x_preferred":[
         "Laakdal"
     ],
-    "name:chi_x_preferred":[
-        "\u62c9\u514b\u8fbe\u5c14"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Laakdal"
     ],
     "name:eng_x_preferred":[
@@ -40,10 +34,13 @@
     "name:epo_x_preferred":[
         "Laakdal"
     ],
-    "name:fre_x_preferred":[
+    "name:eus_x_preferred":[
         "Laakdal"
     ],
-    "name:ger_x_preferred":[
+    "name:fas_x_preferred":[
+        "\u0644\u06a9\u062f\u0644"
+    ],
+    "name:fra_x_preferred":[
         "Laakdal"
     ],
     "name:hun_x_preferred":[
@@ -52,14 +49,14 @@
     "name:ita_x_preferred":[
         "Laakdal"
     ],
+    "name:nld_x_preferred":[
+        "Laakdal"
+    ],
     "name:nob_x_preferred":[
         "Laakdal"
     ],
     "name:oci_x_preferred":[
         "Laakdal"
-    ],
-    "name:per_x_preferred":[
-        "\u0644\u06a9\u062f\u0644"
     ],
     "name:pol_x_preferred":[
         "Laakdal"
@@ -67,10 +64,10 @@
     "name:por_x_preferred":[
         "Laakdal"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Laakdal"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Laakdal"
     ],
     "name:spa_x_preferred":[
@@ -87,6 +84,9 @@
     ],
     "name:war_x_preferred":[
         "Laakdal"
+    ],
+    "name:zho_x_preferred":[
+        "\u62c9\u514b\u8fbe\u5c14"
     ],
     "qs_pg:aaroncc":"BE",
     "qs_pg:gn_country":null,
@@ -140,7 +140,7 @@
         }
     ],
     "wof:id":1125765851,
-    "wof:lastmodified":1513899352,
+    "wof:lastmodified":1561831477,
     "wof:name":"Laakdal",
     "wof:parent_id":1108830163,
     "wof:placetype":"locality",

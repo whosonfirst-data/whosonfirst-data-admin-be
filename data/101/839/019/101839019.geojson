@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000358,
-    "geom:area_square_m":2777218.854061,
+    "geom:area_square_m":2777218.85406,
     "geom:bbox":"4.00048932718,51.1379406716,4.07038329615,51.175243788",
     "geom:latitude":51.158051,
     "geom:longitude":4.040554,
@@ -16,16 +16,16 @@
     "mps:longitude":4.044121,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:dut_x_preferred":[
-        "Sinaai"
-    ],
     "name:eng_x_preferred":[
         "Sinaai"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Sinaai"
     ],
     "name:hun_x_preferred":[
+        "Sinaai"
+    ],
+    "name:nld_x_preferred":[
         "Sinaai"
     ],
     "name:por_x_preferred":[
@@ -82,7 +82,7 @@
         }
     ],
     "wof:id":101839019,
-    "wof:lastmodified":1513899494,
+    "wof:lastmodified":1561831435,
     "wof:name":"Sinaai",
     "wof:parent_id":1108830559,
     "wof:placetype":"locality",

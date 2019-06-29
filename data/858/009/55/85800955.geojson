@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":28453562.208829,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.484226,51.164889,4.484226,51.164889",
     "geom:latitude":51.164889,
     "geom:longitude":4.484226,
@@ -25,7 +25,7 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":13.0,
     "mz:tier_locality":3,
-    "name:dut_x_preferred":[
+    "name:nld_x_preferred":[
         "Bouchout"
     ],
     "name:unk_x_variant":[
@@ -65,13 +65,13 @@
     "src:lbl:centroid":"yerbashapes",
     "src:population":"geonames",
     "wof:belongsto":[
-        85681715,
         102191581,
         1108830423,
         85632997,
         404227357,
         101748099,
-        102050005
+        102050005,
+        85681715
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -99,7 +99,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1531862051,
+    "wof:lastmodified":1561831364,
     "wof:name":"Bouchout",
     "wof:parent_id":101748099,
     "wof:placetype":"neighbourhood",

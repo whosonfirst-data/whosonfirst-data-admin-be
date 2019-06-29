@@ -21,8 +21,8 @@
     "name:cat_x_preferred":[
         "Henri-Chapelle"
     ],
-    "name:dut_x_preferred":[
-        "Hendrik-Kapelle"
+    "name:deu_x_preferred":[
+        "Henri-Chapelle"
     ],
     "name:eng_x_preferred":[
         "Henri-Chapelle"
@@ -30,10 +30,7 @@
     "name:fin_x_preferred":[
         "Henri-Chapelle"
     ],
-    "name:fre_x_preferred":[
-        "Henri-Chapelle"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Henri-Chapelle"
     ],
     "name:hun_x_preferred":[
@@ -41,6 +38,9 @@
     ],
     "name:lim_x_preferred":[
         "Kapel"
+    ],
+    "name:nld_x_preferred":[
+        "Hendrik-Kapelle"
     ],
     "name:unk_x_variant":[
         "Hendrik-Kapelle"
@@ -99,7 +99,7 @@
         }
     ],
     "wof:id":1125842829,
-    "wof:lastmodified":1513899303,
+    "wof:lastmodified":1561831483,
     "wof:name":"Henri-Chapelle",
     "wof:parent_id":102049935,
     "wof:placetype":"locality",

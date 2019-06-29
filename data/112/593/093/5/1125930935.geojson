@@ -21,16 +21,16 @@
     "name:bre_x_preferred":[
         "Brielen"
     ],
-    "name:dut_x_preferred":[
-        "Brielen"
-    ],
     "name:eng_x_preferred":[
         "Brielen"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Brielen"
     ],
     "name:hun_x_preferred":[
+        "Brielen"
+    ],
+    "name:nld_x_preferred":[
         "Brielen"
     ],
     "name:vls_x_preferred":[
@@ -90,7 +90,7 @@
         }
     ],
     "wof:id":1125930935,
-    "wof:lastmodified":1513899194,
+    "wof:lastmodified":1561831441,
     "wof:name":"Brielen",
     "wof:parent_id":1108830595,
     "wof:placetype":"locality",

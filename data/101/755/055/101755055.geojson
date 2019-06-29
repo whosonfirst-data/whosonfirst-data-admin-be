@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000508,
-    "geom:area_square_m":3996640.747951,
+    "geom:area_square_m":3996640.747952,
     "geom:bbox":"4.33631082455,50.4263174253,4.386278,50.4547759577",
     "geom:latitude":50.442494,
     "geom:longitude":4.355287,
@@ -19,19 +19,19 @@
     "name:bre_x_preferred":[
         "Souvret"
     ],
-    "name:dut_x_preferred":[
-        "Souvret"
-    ],
     "name:eng_x_preferred":[
         "Souvret"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Souvret"
     ],
     "name:hun_x_preferred":[
         "Souvret"
     ],
     "name:ltz_x_preferred":[
+        "Souvret"
+    ],
+    "name:nld_x_preferred":[
         "Souvret"
     ],
     "name:unk_x_variant":[
@@ -86,7 +86,7 @@
         }
     ],
     "wof:id":101755055,
-    "wof:lastmodified":1513899509,
+    "wof:lastmodified":1561831400,
     "wof:name":"Souvret",
     "wof:parent_id":102049927,
     "wof:placetype":"locality",

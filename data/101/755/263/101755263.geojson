@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000578,
-    "geom:area_square_m":4524240.475678,
+    "geom:area_square_m":4524240.475677,
     "geom:bbox":"4.39024066805,50.673586091,4.42695792488,50.7090984382",
     "geom:latitude":50.696012,
     "geom:longitude":4.408362,
@@ -31,9 +31,6 @@
     "name:deu_x_preferred":[
         "Mont-Saint-Jean"
     ],
-    "name:dut_x_preferred":[
-        "Mont-Saint-Jean"
-    ],
     "name:eng_x_preferred":[
         "Mont-Saint-Jean"
     ],
@@ -41,12 +38,6 @@
         "Mont-Saint-Jean"
     ],
     "name:fra_x_preferred":[
-        "Mont-Saint-Jean"
-    ],
-    "name:fre_x_preferred":[
-        "Mont-Saint-Jean"
-    ],
-    "name:ger_x_preferred":[
         "Mont-Saint-Jean"
     ],
     "name:ita_x_preferred":[
@@ -73,7 +64,7 @@
     "name:por_x_preferred":[
         "Mont-Saint-Jean"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Mont Saint-Jean"
     ],
     "name:rus_x_preferred":[
@@ -138,7 +129,7 @@
         }
     ],
     "wof:id":101755263,
-    "wof:lastmodified":1553815478,
+    "wof:lastmodified":1561831406,
     "wof:name":"Mont-Saint-Jean",
     "wof:parent_id":102049945,
     "wof:placetype":"locality",

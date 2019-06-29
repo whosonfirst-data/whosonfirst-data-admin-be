@@ -27,9 +27,6 @@
     "name:ast_x_preferred":[
         "Quevaucamps"
     ],
-    "name:baq_x_preferred":[
-        "Quevaucamps"
-    ],
     "name:bar_x_preferred":[
         "Quevaucamps"
     ],
@@ -39,16 +36,19 @@
     "name:cat_x_preferred":[
         "Quevaucamps"
     ],
+    "name:ces_x_preferred":[
+        "Quevaucamps"
+    ],
     "name:cos_x_preferred":[
         "Quevaucamps"
     ],
-    "name:cze_x_preferred":[
+    "name:cym_x_preferred":[
         "Quevaucamps"
     ],
     "name:dan_x_preferred":[
         "Quevaucamps"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Quevaucamps"
     ],
     "name:eng_x_preferred":[
@@ -60,19 +60,19 @@
     "name:est_x_preferred":[
         "Quevaucamps"
     ],
+    "name:eus_x_preferred":[
+        "Quevaucamps"
+    ],
     "name:fin_x_preferred":[
         "Quevaucamps"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Quevaucamps"
     ],
     "name:frp_x_preferred":[
         "Quevaucamps"
     ],
     "name:fur_x_preferred":[
-        "Quevaucamps"
-    ],
-    "name:ger_x_preferred":[
         "Quevaucamps"
     ],
     "name:gla_x_preferred":[
@@ -93,9 +93,6 @@
     "name:hun_x_preferred":[
         "Quevaucamps"
     ],
-    "name:ice_x_preferred":[
-        "Quevaucamps"
-    ],
     "name:ido_x_preferred":[
         "Quevaucamps"
     ],
@@ -106,6 +103,9 @@
         "Quevaucamps"
     ],
     "name:ind_x_preferred":[
+        "Quevaucamps"
+    ],
+    "name:isl_x_preferred":[
         "Quevaucamps"
     ],
     "name:ita_x_preferred":[
@@ -123,19 +123,22 @@
     "name:ltz_x_preferred":[
         "Quevaucamps"
     ],
-    "name:may_x_preferred":[
-        "Quevaucamps"
-    ],
     "name:min_x_preferred":[
         "Quevaucamps"
     ],
     "name:mlg_x_preferred":[
         "Quevaucamps"
     ],
+    "name:msa_x_preferred":[
+        "Quevaucamps"
+    ],
     "name:nap_x_preferred":[
         "Quevaucamps"
     ],
     "name:nds_x_preferred":[
+        "Quevaucamps"
+    ],
+    "name:nld_x_preferred":[
         "Quevaucamps"
     ],
     "name:nno_x_preferred":[
@@ -165,7 +168,7 @@
     "name:roh_x_preferred":[
         "Quevaucamps"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Quevaucamps"
     ],
     "name:scn_x_preferred":[
@@ -174,7 +177,7 @@
     "name:sco_x_preferred":[
         "Quevaucamps"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Quevaucamps"
     ],
     "name:slv_x_preferred":[
@@ -202,9 +205,6 @@
         "Quevaucamps"
     ],
     "name:vol_x_preferred":[
-        "Quevaucamps"
-    ],
-    "name:wel_x_preferred":[
         "Quevaucamps"
     ],
     "name:wln_x_preferred":[
@@ -268,7 +268,7 @@
         }
     ],
     "wof:id":1125779745,
-    "wof:lastmodified":1513899467,
+    "wof:lastmodified":1561831488,
     "wof:name":"Quevaucamps",
     "wof:parent_id":102049949,
     "wof:placetype":"locality",

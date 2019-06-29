@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00123,
-    "geom:area_square_m":9537932.861186,
+    "geom:area_square_m":9537932.861185,
     "geom:bbox":"4.11137549256,51.1391973966,4.16075534746,51.1807672574",
     "geom:latitude":51.160284,
     "geom:longitude":4.137208,
@@ -20,15 +20,6 @@
     "name:afr_x_preferred":[
         "Sint-Niklaas"
     ],
-    "name:alb_x_preferred":[
-        "Sint-Niklaas"
-    ],
-    "name:arm_x_preferred":[
-        "\u054d\u056b\u0576\u057f \u0546\u056b\u056f\u056c\u0561\u057d"
-    ],
-    "name:baq_x_preferred":[
-        "Sint-Niklaas"
-    ],
     "name:bel_x_preferred":[
         "\u0421\u0456\u043d\u0442-\u041d\u0456\u043a\u043b\u0430\u0441"
     ],
@@ -41,10 +32,7 @@
     "name:cat_x_preferred":[
         "Sint-Niklaas"
     ],
-    "name:chi_x_preferred":[
-        "\u5723\u5c3c\u53e4\u62c9"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Sint-Niklaas"
     ],
     "name:dan_x_preferred":[
@@ -52,9 +40,6 @@
     ],
     "name:deu_x_preferred":[
         "Sint-Niklaas"
-    ],
-    "name:dut_x_preferred":[
-        "St.-Niklaas"
     ],
     "name:dut_x_variant":[
         "Sint-Niklaas",
@@ -75,20 +60,17 @@
     "name:est_x_preferred":[
         "Sint-Niklaas"
     ],
+    "name:eus_x_preferred":[
+        "Sint-Niklaas"
+    ],
+    "name:fas_x_preferred":[
+        "\u0633\u0646\u200c\u0646\u06cc\u06a9\u0644\u0627"
+    ],
     "name:fin_x_preferred":[
         "Sint-Niklaas"
     ],
     "name:fra_x_preferred":[
         "Saint-Nicolas"
-    ],
-    "name:fre_x_preferred":[
-        "Saint-Nicolas"
-    ],
-    "name:geo_x_preferred":[
-        "\u10e1\u10d8\u10dc\u10e2-\u10dc\u10d8\u10d9\u10da\u10d0\u10e1\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Sint-Niklaas"
     ],
     "name:gle_x_preferred":[
         "Sint-Niklaas"
@@ -99,7 +81,10 @@
     "name:hun_x_preferred":[
         "Sint-Niklaas"
     ],
-    "name:ice_x_preferred":[
+    "name:hye_x_preferred":[
+        "\u054d\u056b\u0576\u057f \u0546\u056b\u056f\u056c\u0561\u057d"
+    ],
+    "name:isl_x_preferred":[
         "Sint-Niklaas"
     ],
     "name:ita_x_preferred":[
@@ -108,17 +93,23 @@
     "name:jpn_x_preferred":[
         "\u30b7\u30f3\u30c8\uff1d\u30cb\u30af\u30e9\u30fc\u30b9"
     ],
+    "name:kat_x_preferred":[
+        "\u10e1\u10d8\u10dc\u10e2-\u10dc\u10d8\u10d9\u10da\u10d0\u10e1\u10d8"
+    ],
     "name:kor_x_preferred":[
         "\uc2e0\ud2b8\ub2c8\ud074\ub77c\uc2a4"
     ],
     "name:lit_x_preferred":[
         "Sint Niklasas"
     ],
-    "name:mac_x_preferred":[
+    "name:mkd_x_preferred":[
         "\u0421\u0438\u043d\u0442 \u041d\u0438\u043a\u043b\u0430\u0441"
     ],
     "name:nld_x_preferred":[
         "Sint-Niklaas"
+    ],
+    "name:nld_x_variant":[
+        "St.-Niklaas"
     ],
     "name:nob_x_preferred":[
         "Sint-Niklaas"
@@ -129,16 +120,13 @@
     "name:oci_x_preferred":[
         "Sint-Niklaas"
     ],
-    "name:per_x_preferred":[
-        "\u0633\u0646\u200c\u0646\u06cc\u06a9\u0644\u0627"
-    ],
     "name:pol_x_preferred":[
         "Sint-Niklaas"
     ],
     "name:por_x_preferred":[
         "Sint-Niklaas"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Sint-Niklaas"
     ],
     "name:rus_x_preferred":[
@@ -147,7 +135,7 @@
     "name:sco_x_preferred":[
         "Sint-Niklaas"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Sint-Niklaas"
     ],
     "name:slv_x_preferred":[
@@ -155,6 +143,9 @@
     ],
     "name:spa_x_preferred":[
         "San Nicol\u00e1s de Flandes"
+    ],
+    "name:sqi_x_preferred":[
+        "Sint-Niklaas"
     ],
     "name:srp_x_preferred":[
         "\u0421\u0438\u043d \u041d\u0438\u043a\u043b\u0430\u0441"
@@ -182,6 +173,9 @@
     ],
     "name:zea_x_preferred":[
         "Sinterklaos"
+    ],
+    "name:zho_x_preferred":[
+        "\u5723\u5c3c\u53e4\u62c9"
     ],
     "qs:a0":"Belgi\u00eb#Belgique#Belgien",
     "qs:a1":"*Oost-Vlanderen",
@@ -241,7 +235,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1527715297,
+    "wof:lastmodified":1561831431,
     "wof:name":"Sint-Niklaas",
     "wof:parent_id":1108830559,
     "wof:placetype":"locality",

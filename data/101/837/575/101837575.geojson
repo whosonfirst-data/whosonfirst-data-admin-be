@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001211,
-    "geom:area_square_m":9350993.147278,
+    "geom:area_square_m":9350993.147281,
     "geom:bbox":"3.2315532887,51.3221023087,3.32787702005,51.3608442591",
     "geom:latitude":51.343618,
     "geom:longitude":3.283274,
@@ -37,9 +37,6 @@
     ],
     "name:deu_x_preferred":[
         "Knokke-Heist"
-    ],
-    "name:dut_x_preferred":[
-        "Knokke"
     ],
     "name:dut_x_variant":[
         "Knokke-aan-Zee"
@@ -80,6 +77,9 @@
     ],
     "name:nld_x_preferred":[
         "Knokke-Heist"
+    ],
+    "name:nld_x_variant":[
+        "Knokke"
     ],
     "name:nor_x_preferred":[
         "Knokke-Heist"
@@ -190,7 +190,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1527715305,
+    "wof:lastmodified":1561831432,
     "wof:name":"Knokke-Heist",
     "wof:parent_id":1108830675,
     "wof:placetype":"locality",

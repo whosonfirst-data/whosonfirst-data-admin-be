@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002491,
-    "geom:area_square_m":19414393.624117,
+    "geom:area_square_m":19414393.624115,
     "geom:bbox":"5.29490685056,50.8886405421,5.3765192789,50.9601673874",
     "geom:latitude":50.929843,
     "geom:longitude":5.333768,
@@ -27,12 +27,6 @@
     "name:arg_x_preferred":[
         "Hasselt"
     ],
-    "name:arm_x_preferred":[
-        "\u0540\u0561\u057d\u0565\u056c\u057f"
-    ],
-    "name:baq_x_preferred":[
-        "Hasselt"
-    ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u0425\u0430\u0441\u0435\u043b\u0442"
     ],
@@ -48,19 +42,13 @@
     "name:ces_x_preferred":[
         "Hasselt"
     ],
-    "name:chi_x_preferred":[
-        "\u54c8\u745f\u5c14\u7279"
-    ],
-    "name:cze_x_preferred":[
+    "name:cym_x_preferred":[
         "Hasselt"
     ],
     "name:dan_x_preferred":[
         "Hasselt"
     ],
     "name:deu_x_preferred":[
-        "Hasselt"
-    ],
-    "name:dut_x_preferred":[
         "Hasselt"
     ],
     "name:ell_x_preferred":[
@@ -78,6 +66,9 @@
     "name:est_x_preferred":[
         "Hasselt"
     ],
+    "name:eus_x_preferred":[
+        "Hasselt"
+    ],
     "name:fas_x_preferred":[
         "\u0627\u0633\u0644\u062a"
     ],
@@ -87,16 +78,7 @@
     "name:fra_x_preferred":[
         "Hasselt"
     ],
-    "name:fre_x_preferred":[
-        "Hasselt"
-    ],
     "name:fry_x_preferred":[
-        "Hasselt"
-    ],
-    "name:geo_x_preferred":[
-        "\u10f0\u10d0\u10e1\u10d4\u10da\u10e2\u10d8"
-    ],
-    "name:ger_x_preferred":[
         "Hasselt"
     ],
     "name:gle_x_preferred":[
@@ -104,9 +86,6 @@
     ],
     "name:glv_x_preferred":[
         "Hasselt"
-    ],
-    "name:gre_x_preferred":[
-        "\u0386\u03c3\u03c3\u03b5\u03bb\u03c4"
     ],
     "name:heb_x_preferred":[
         "\u05d4\u05d0\u05e1\u05dc\u05d8"
@@ -117,10 +96,10 @@
     "name:hye_x_preferred":[
         "\u0540\u0561\u057d\u0565\u056c\u057f"
     ],
-    "name:ice_x_preferred":[
+    "name:ind_x_preferred":[
         "Hasselt"
     ],
-    "name:ind_x_preferred":[
+    "name:isl_x_preferred":[
         "Hasselt"
     ],
     "name:ita_x_preferred":[
@@ -128,6 +107,9 @@
     ],
     "name:jpn_x_preferred":[
         "\u30cf\u30c3\u30bb\u30eb\u30c8"
+    ],
+    "name:kat_x_preferred":[
+        "\u10f0\u10d0\u10e1\u10d4\u10da\u10e2\u10d8"
     ],
     "name:kor_x_preferred":[
         "\ud558\uc140\ud2b8"
@@ -147,7 +129,7 @@
     "name:ltz_x_preferred":[
         "Hasselt"
     ],
-    "name:mac_x_preferred":[
+    "name:mkd_x_preferred":[
         "\u0425\u0430\u0441\u0435\u043b\u0442"
     ],
     "name:nld_x_preferred":[
@@ -165,16 +147,13 @@
     "name:oss_x_preferred":[
         "\u0425\u0430\u0441\u0441\u0435\u043b\u0442"
     ],
-    "name:per_x_preferred":[
-        "\u0627\u0633\u0644\u062a"
-    ],
     "name:pol_x_preferred":[
         "Hasselt"
     ],
     "name:por_x_preferred":[
         "Hasselt"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Hasselt"
     ],
     "name:rus_x_preferred":[
@@ -183,7 +162,7 @@
     "name:sco_x_preferred":[
         "Hasselt"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Hasselt"
     ],
     "name:slv_x_preferred":[
@@ -226,9 +205,6 @@
         "Hasselt"
     ],
     "name:war_x_preferred":[
-        "Hasselt"
-    ],
-    "name:wel_x_preferred":[
         "Hasselt"
     ],
     "name:zho_x_preferred":[
@@ -383,7 +359,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1527715300,
+    "wof:lastmodified":1561831431,
     "wof:name":"Hasselt",
     "wof:parent_id":1108830649,
     "wof:placetype":"locality",

@@ -22,9 +22,6 @@
     "name:ara_x_preferred":[
         "\u0633\u064a\u0631\u0627\u064a\u0646"
     ],
-    "name:baq_x_preferred":[
-        "Seraing"
-    ],
     "name:bre_x_preferred":[
         "Seraing"
     ],
@@ -34,10 +31,7 @@
     "name:cat_x_preferred":[
         "Seraing"
     ],
-    "name:chi_x_preferred":[
-        "\u745f\u5170"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Seraing"
     ],
     "name:dan_x_preferred":[
@@ -46,13 +40,16 @@
     "name:deu_x_preferred":[
         "Seraing"
     ],
-    "name:dut_x_preferred":[
-        "Seraing"
+    "name:ell_x_preferred":[
+        "\u03a3\u03b5\u03c1\u03b5\u03c3\u03b9\u03ad\u03bd"
     ],
     "name:eng_x_preferred":[
         "Seraing"
     ],
     "name:epo_x_preferred":[
+        "Seraing"
+    ],
+    "name:eus_x_preferred":[
         "Seraing"
     ],
     "name:fas_x_preferred":[
@@ -63,15 +60,6 @@
     ],
     "name:fra_x_preferred":[
         "Seraing"
-    ],
-    "name:fre_x_preferred":[
-        "Seraing"
-    ],
-    "name:ger_x_preferred":[
-        "Seraing"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a3\u03b5\u03c1\u03b5\u03c3\u03b9\u03ad\u03bd"
     ],
     "name:hun_x_preferred":[
         "Seraing"
@@ -112,16 +100,13 @@
     "name:oci_x_preferred":[
         "Seraing"
     ],
-    "name:per_x_preferred":[
-        "\u0633\u0631\u0646"
-    ],
     "name:pol_x_preferred":[
         "Seraing"
     ],
     "name:por_x_preferred":[
         "Seraing"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Seraing"
     ],
     "name:rup_x_preferred":[
@@ -130,7 +115,7 @@
     "name:rus_x_preferred":[
         "\u0421\u0435\u0440\u0435\u043d"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Seraing"
     ],
     "name:slv_x_preferred":[
@@ -224,7 +209,7 @@
         }
     ],
     "wof:id":1125875013,
-    "wof:lastmodified":1513899493,
+    "wof:lastmodified":1561831458,
     "wof:name":"Seraing",
     "wof:parent_id":102049941,
     "wof:placetype":"locality",

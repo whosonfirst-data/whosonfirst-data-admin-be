@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000507,
-    "geom:area_square_m":3966586.117758,
+    "geom:area_square_m":3966586.117757,
     "geom:bbox":"5.05618408371,50.7338502435,5.09465296126,50.7713875905",
     "geom:latitude":50.750677,
     "geom:longitude":5.077071,
@@ -17,9 +17,6 @@
     "mps:longitude":5.078958,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:baq_x_preferred":[
-        "Landen"
-    ],
     "name:bre_x_preferred":[
         "Landen"
     ],
@@ -29,13 +26,10 @@
     "name:cat_x_preferred":[
         "Landen"
     ],
-    "name:chi_x_preferred":[
-        "\u5170\u767b"
-    ],
     "name:dan_x_preferred":[
         "Landen"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Landen"
     ],
     "name:eng_x_preferred":[
@@ -44,10 +38,13 @@
     "name:epo_x_preferred":[
         "Landen"
     ],
-    "name:fre_x_preferred":[
+    "name:eus_x_preferred":[
         "Landen"
     ],
-    "name:ger_x_preferred":[
+    "name:fas_x_preferred":[
+        "\u0644\u0627\u0646\u062f\u0627\u0646"
+    ],
+    "name:fra_x_preferred":[
         "Landen"
     ],
     "name:hun_x_preferred":[
@@ -62,19 +59,19 @@
     "name:ltz_x_preferred":[
         "Landen"
     ],
+    "name:nld_x_preferred":[
+        "Landen"
+    ],
     "name:nob_x_preferred":[
         "Landen"
     ],
     "name:oci_x_preferred":[
         "Landen"
     ],
-    "name:per_x_preferred":[
-        "\u0644\u0627\u0646\u062f\u0627\u0646"
-    ],
     "name:por_x_preferred":[
         "Landen"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Landen"
     ],
     "name:rus_x_preferred":[
@@ -97,6 +94,9 @@
     ],
     "name:war_x_preferred":[
         "Landen"
+    ],
+    "name:zho_x_preferred":[
+        "\u5170\u767b"
     ],
     "qs:a0":"Belgi\u00eb#Belgique#Belgien",
     "qs:a1":"*Vlaams Brabant",
@@ -149,7 +149,7 @@
         }
     ],
     "wof:id":101838737,
-    "wof:lastmodified":1527715122,
+    "wof:lastmodified":1561831423,
     "wof:name":"Landen",
     "wof:parent_id":1108830259,
     "wof:placetype":"locality",

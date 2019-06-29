@@ -17,23 +17,14 @@
     "mps:longitude":5.032825,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:baq_x_preferred":[
-        "Lincent"
-    ],
     "name:bre_x_preferred":[
         "Lincent"
     ],
     "name:cat_x_preferred":[
         "Lincent"
     ],
-    "name:chi_x_preferred":[
-        "\u5170\u6851"
-    ],
     "name:deu_x_preferred":[
         "Lincent"
-    ],
-    "name:dut_x_preferred":[
-        "Lijsem"
     ],
     "name:eng_x_preferred":[
         "Lincent"
@@ -48,12 +39,6 @@
         "\u0644\u0646\u0633\u0627\u0646"
     ],
     "name:fra_x_preferred":[
-        "Lincent"
-    ],
-    "name:fre_x_preferred":[
-        "Lincent"
-    ],
-    "name:ger_x_preferred":[
         "Lincent"
     ],
     "name:hun_x_preferred":[
@@ -80,25 +65,16 @@
     "name:oci_x_preferred":[
         "Lincent"
     ],
-    "name:per_x_preferred":[
-        "\u0644\u0646\u0633\u0627\u0646"
-    ],
     "name:por_x_preferred":[
         "Lincent"
     ],
     "name:ron_x_preferred":[
         "Lincent"
     ],
-    "name:rum_x_preferred":[
-        "Lincent"
-    ],
     "name:rus_x_preferred":[
         "\u041b\u0435\u043d\u0441\u0430\u043d"
     ],
     "name:slk_x_preferred":[
-        "Lincent"
-    ],
-    "name:slo_x_preferred":[
         "Lincent"
     ],
     "name:swe_x_preferred":[
@@ -171,7 +147,7 @@
         }
     ],
     "wof:id":101810455,
-    "wof:lastmodified":1527642422,
+    "wof:lastmodified":1561831415,
     "wof:name":"Lincent",
     "wof:parent_id":102049937,
     "wof:placetype":"locality",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000301,
-    "geom:area_square_m":2335336.973341,
+    "geom:area_square_m":2335336.97334,
     "geom:bbox":"4.27070724265,51.0508401193,4.29265647759,51.0833227681",
     "geom:latitude":51.070406,
     "geom:longitude":4.279947,
@@ -17,9 +17,6 @@
     "mps:longitude":4.278285,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:baq_x_preferred":[
-        "Puurs"
-    ],
     "name:bre_x_preferred":[
         "Puurs"
     ],
@@ -29,16 +26,10 @@
     "name:cat_x_preferred":[
         "Puurs"
     ],
-    "name:chi_x_preferred":[
-        "\u76ae\u5c14\u65af"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Puurs"
     ],
     "name:deu_x_preferred":[
-        "Puurs"
-    ],
-    "name:dut_x_preferred":[
         "Puurs"
     ],
     "name:eng_x_preferred":[
@@ -54,12 +45,6 @@
         "\u067e\u0648\u0631"
     ],
     "name:fra_x_preferred":[
-        "Puurs"
-    ],
-    "name:fre_x_preferred":[
-        "Puurs"
-    ],
-    "name:ger_x_preferred":[
         "Puurs"
     ],
     "name:hun_x_preferred":[
@@ -83,9 +68,6 @@
     "name:oci_x_preferred":[
         "Puurs"
     ],
-    "name:per_x_preferred":[
-        "\u067e\u0648\u0631"
-    ],
     "name:pol_x_preferred":[
         "Puurs"
     ],
@@ -95,13 +77,7 @@
     "name:ron_x_preferred":[
         "Puurs"
     ],
-    "name:rum_x_preferred":[
-        "Puurs"
-    ],
     "name:slk_x_preferred":[
-        "Puurs"
-    ],
-    "name:slo_x_preferred":[
         "Puurs"
     ],
     "name:slv_x_preferred":[
@@ -176,7 +152,7 @@
         }
     ],
     "wof:id":101758541,
-    "wof:lastmodified":1527689313,
+    "wof:lastmodified":1561831421,
     "wof:name":"Puurs",
     "wof:parent_id":1108830309,
     "wof:placetype":"locality",

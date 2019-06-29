@@ -21,16 +21,16 @@
     "name:bre_x_preferred":[
         "Leke"
     ],
-    "name:dut_x_preferred":[
-        "Leke"
-    ],
     "name:eng_x_preferred":[
         "Leke"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Leke"
     ],
     "name:hun_x_preferred":[
+        "Leke"
+    ],
+    "name:nld_x_preferred":[
         "Leke"
     ],
     "name:por_x_preferred":[
@@ -94,7 +94,7 @@
         }
     ],
     "wof:id":1125778705,
-    "wof:lastmodified":1553816528,
+    "wof:lastmodified":1561831487,
     "wof:name":"Leke",
     "wof:parent_id":1108830401,
     "wof:placetype":"locality",

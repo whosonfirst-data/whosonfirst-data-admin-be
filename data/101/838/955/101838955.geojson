@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000887,
-    "geom:area_square_m":6898710.456861,
+    "geom:area_square_m":6898710.45686,
     "geom:bbox":"5.34080886628,51.0107575448,5.38925581247,51.0493947216",
     "geom:latitude":51.029427,
     "geom:longitude":5.366345,
@@ -20,13 +20,10 @@
     "name:bul_x_preferred":[
         "\u0425\u043e\u0443\u0442\u0445\u0430\u043b\u0435\u043d"
     ],
-    "name:dut_x_preferred":[
-        "Houthalen"
-    ],
     "name:eng_x_preferred":[
         "Houthalen"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Houthalen"
     ],
     "name:hun_x_preferred":[
@@ -34,6 +31,9 @@
     ],
     "name:lit_x_preferred":[
         "Choutchalen Chelckterenas"
+    ],
+    "name:nld_x_preferred":[
+        "Houthalen"
     ],
     "name:swe_x_preferred":[
         "Houthalen"
@@ -90,7 +90,7 @@
         }
     ],
     "wof:id":101838955,
-    "wof:lastmodified":1513899320,
+    "wof:lastmodified":1561831423,
     "wof:name":"Houthalen",
     "wof:parent_id":1108830235,
     "wof:placetype":"locality",

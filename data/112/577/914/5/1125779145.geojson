@@ -21,7 +21,7 @@
     "name:dan_x_preferred":[
         "Meensel-Kiezegem"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Meensel-Kiezegem"
     ],
     "name:eng_x_preferred":[
@@ -30,10 +30,7 @@
     "name:fao_x_preferred":[
         "Meensel-Kiezegem"
     ],
-    "name:fre_x_preferred":[
-        "Meensel-Kiezegem"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Meensel-Kiezegem"
     ],
     "name:heb_x_preferred":[
@@ -43,6 +40,9 @@
         "Meensel-Kiezegem"
     ],
     "name:kal_x_preferred":[
+        "Meensel-Kiezegem"
+    ],
+    "name:nld_x_preferred":[
         "Meensel-Kiezegem"
     ],
     "name:nno_x_preferred":[
@@ -112,7 +112,7 @@
         }
     ],
     "wof:id":1125779145,
-    "wof:lastmodified":1513899397,
+    "wof:lastmodified":1561831486,
     "wof:name":"Meensel-Kiezegem",
     "wof:parent_id":1108830337,
     "wof:placetype":"locality",

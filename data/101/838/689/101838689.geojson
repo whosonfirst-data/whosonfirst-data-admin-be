@@ -16,13 +16,10 @@
     "mps:longitude":5.558814,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:dut_x_preferred":[
-        "Herderen"
-    ],
     "name:eng_x_preferred":[
         "Herderen"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Herderen"
     ],
     "name:hun_x_preferred":[
@@ -30,6 +27,9 @@
     ],
     "name:lim_x_preferred":[
         "Joddere"
+    ],
+    "name:nld_x_preferred":[
+        "Herderen"
     ],
     "name:unk_x_variant":[
         "Riemst (Herderen)"
@@ -82,7 +82,7 @@
         }
     ],
     "wof:id":101838689,
-    "wof:lastmodified":1513899304,
+    "wof:lastmodified":1561831423,
     "wof:name":"Herderen",
     "wof:parent_id":1108830103,
     "wof:placetype":"locality",

@@ -21,16 +21,16 @@
     "name:dan_x_preferred":[
         "Haine-Saint-Pierre"
     ],
-    "name:dut_x_preferred":[
-        "Haine-Saint-Pierre"
-    ],
     "name:eng_x_preferred":[
         "Haine-Saint-Pierre"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Haine-Saint-Pierre"
     ],
     "name:hun_x_preferred":[
+        "Haine-Saint-Pierre"
+    ],
+    "name:nld_x_preferred":[
         "Haine-Saint-Pierre"
     ],
     "name:unk_x_variant":[
@@ -88,7 +88,7 @@
         }
     ],
     "wof:id":1126020345,
-    "wof:lastmodified":1513899293,
+    "wof:lastmodified":1561831445,
     "wof:name":"Haine-St.-Pierre",
     "wof:parent_id":102049943,
     "wof:placetype":"locality",

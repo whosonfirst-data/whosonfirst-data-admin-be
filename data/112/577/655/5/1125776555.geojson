@@ -18,16 +18,16 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
-    "name:dut_x_preferred":[
-        "Mechelen-Bovelingen"
-    ],
     "name:eng_x_preferred":[
         "Mechelen-Bovelingen"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Marlinne"
     ],
     "name:hun_x_preferred":[
+        "Mechelen-Bovelingen"
+    ],
+    "name:nld_x_preferred":[
         "Mechelen-Bovelingen"
     ],
     "name:unk_x_variant":[
@@ -87,7 +87,7 @@
         }
     ],
     "wof:id":1125776555,
-    "wof:lastmodified":1513899397,
+    "wof:lastmodified":1561831487,
     "wof:name":"Mechelen-Bovelingen",
     "wof:parent_id":1108830275,
     "wof:placetype":"locality",

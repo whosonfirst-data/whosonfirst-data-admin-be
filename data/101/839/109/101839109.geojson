@@ -19,16 +19,10 @@
     "name:ceb_x_preferred":[
         "Wechelderzande"
     ],
-    "name:dut_x_preferred":[
-        "Wechelderzande"
-    ],
     "name:eng_x_preferred":[
         "Wechelderzande"
     ],
     "name:fra_x_preferred":[
-        "Wechelderzande"
-    ],
-    "name:fre_x_preferred":[
         "Wechelderzande"
     ],
     "name:hun_x_preferred":[
@@ -93,7 +87,7 @@
         }
     ],
     "wof:id":101839109,
-    "wof:lastmodified":1527715397,
+    "wof:lastmodified":1561831435,
     "wof:name":"Wechelderzande",
     "wof:parent_id":1108830113,
     "wof:placetype":"locality",

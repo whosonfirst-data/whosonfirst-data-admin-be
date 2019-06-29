@@ -17,9 +17,6 @@
     "mps:longitude":4.513468,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:baq_x_preferred":[
-        "Steenokkerzeel"
-    ],
     "name:bre_x_preferred":[
         "Steenokkerzeel"
     ],
@@ -29,10 +26,7 @@
     "name:cat_x_preferred":[
         "Steenokkerzeel"
     ],
-    "name:chi_x_preferred":[
-        "\u65af\u6ed5\u5965\u514b\u5c14\u6cfd\u5c14"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Steenokkerzeel"
     ],
     "name:eng_x_preferred":[
@@ -41,10 +35,10 @@
     "name:epo_x_preferred":[
         "Steenokkerzeel"
     ],
-    "name:fre_x_preferred":[
+    "name:eus_x_preferred":[
         "Steenokkerzeel"
     ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Steenokkerzeel"
     ],
     "name:hun_x_preferred":[
@@ -59,6 +53,9 @@
     "name:lit_x_preferred":[
         "Stenkerzelis"
     ],
+    "name:nld_x_preferred":[
+        "Steenokkerzeel"
+    ],
     "name:nob_x_preferred":[
         "Steenokkerzeel"
     ],
@@ -68,10 +65,10 @@
     "name:por_x_preferred":[
         "Steenokkerzeel"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Steenokkerzeel"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Steenokkerzeel"
     ],
     "name:spa_x_preferred":[
@@ -145,7 +142,7 @@
         }
     ],
     "wof:id":101758531,
-    "wof:lastmodified":1527689308,
+    "wof:lastmodified":1561831421,
     "wof:name":"Steenokkerzeel",
     "wof:parent_id":1108830137,
     "wof:placetype":"locality",

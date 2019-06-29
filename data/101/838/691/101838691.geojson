@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000595,
-    "geom:area_square_m":4647499.191762,
+    "geom:area_square_m":4647499.191764,
     "geom:bbox":"5.31491586735,50.7834855931,5.4022463516,50.8256857667",
     "geom:latitude":50.803444,
     "geom:longitude":5.35905,
@@ -20,9 +20,6 @@
     "name:afr_x_preferred":[
         "Borgloon"
     ],
-    "name:baq_x_preferred":[
-        "Borgloon"
-    ],
     "name:bre_x_preferred":[
         "Borgloon"
     ],
@@ -32,13 +29,7 @@
     "name:cat_x_preferred":[
         "Borgloon"
     ],
-    "name:chi_x_preferred":[
-        "\u535a\u5c14\u8d6b\u9686"
-    ],
     "name:deu_x_preferred":[
-        "Borgloon"
-    ],
-    "name:dut_x_preferred":[
         "Borgloon"
     ],
     "name:eng_x_preferred":[
@@ -47,14 +38,14 @@
     "name:epo_x_preferred":[
         "Borgloon"
     ],
+    "name:eus_x_preferred":[
+        "Borgloon"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u0648\u0631\u06af\u0644\u0648\u0646"
+    ],
     "name:fra_x_preferred":[
         "Looz"
-    ],
-    "name:fre_x_preferred":[
-        "Looz"
-    ],
-    "name:ger_x_preferred":[
-        "Borgloon"
     ],
     "name:hun_x_preferred":[
         "Borgloon"
@@ -83,22 +74,19 @@
     "name:oci_x_preferred":[
         "Borgloon"
     ],
-    "name:per_x_preferred":[
-        "\u0628\u0648\u0631\u06af\u0644\u0648\u0646"
-    ],
     "name:pol_x_preferred":[
         "Borgloon"
     ],
     "name:por_x_preferred":[
         "Borgloon"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Borgloon"
     ],
     "name:rus_x_preferred":[
         "\u0411\u043e\u0440\u0433\u043b\u043e\u043e\u043d"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Borgloon"
     ],
     "name:slv_x_preferred":[
@@ -127,6 +115,9 @@
     ],
     "name:wln_x_preferred":[
         "L\u00f4"
+    ],
+    "name:zho_x_preferred":[
+        "\u535a\u5c14\u8d6b\u9686"
     ],
     "qs:a0":"Belgi\u00eb#Belgique#Belgien",
     "qs:a1":"*Limburg",
@@ -178,7 +169,7 @@
         }
     ],
     "wof:id":101838691,
-    "wof:lastmodified":1553815536,
+    "wof:lastmodified":1561831426,
     "wof:name":"Borgloon",
     "wof:parent_id":1108830359,
     "wof:placetype":"locality",

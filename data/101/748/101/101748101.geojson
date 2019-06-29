@@ -16,16 +16,13 @@
     "mps:longitude":4.429981,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:arm_x_preferred":[
-        "\u0537\u0584\u0565\u0580\u0565\u0576"
-    ],
     "name:ben_x_preferred":[
         "\u098f\u0995\u09c7\u09b0\u09c7\u09a8"
     ],
     "name:ceb_x_preferred":[
         "Ekeren"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Ekeren"
     ],
     "name:dut_x_variant":[
@@ -40,14 +37,11 @@
     "name:fra_x_preferred":[
         "Ekeren"
     ],
-    "name:fre_x_preferred":[
-        "Ekeren"
-    ],
-    "name:ger_x_preferred":[
-        "Ekeren"
-    ],
     "name:hun_x_preferred":[
         "Ekeren"
+    ],
+    "name:hye_x_preferred":[
+        "\u0537\u0584\u0565\u0580\u0565\u0576"
     ],
     "name:nld_x_preferred":[
         "Ekeren"
@@ -118,7 +112,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1527688475,
+    "wof:lastmodified":1561831418,
     "wof:name":"Ekeren",
     "wof:parent_id":1108830423,
     "wof:placetype":"locality",

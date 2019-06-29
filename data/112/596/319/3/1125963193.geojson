@@ -19,20 +19,20 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Ottignies"
     ],
     "name:eng_x_preferred":[
         "Ottignies"
     ],
-    "name:fre_x_preferred":[
-        "Ottignies"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Ottignies"
     ],
     "name:lit_x_preferred":[
         "Otinji Luven la Njuvas"
+    ],
+    "name:nld_x_preferred":[
+        "Ottignies"
     ],
     "name:rus_x_preferred":[
         "\u041e\u0442\u0442\u0438\u043d\u044c\u0438"
@@ -101,7 +101,7 @@
         }
     ],
     "wof:id":1125963193,
-    "wof:lastmodified":1513899449,
+    "wof:lastmodified":1561831466,
     "wof:name":"Ottignies",
     "wof:parent_id":102049945,
     "wof:placetype":"locality",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005381,
-    "geom:area_square_m":41681550.788811,
+    "geom:area_square_m":41681550.788809,
     "geom:bbox":"3.166845,51.1670664199,3.2734405,51.27805906",
     "geom:latitude":51.210922,
     "geom:longitude":3.216869,
@@ -27,17 +27,11 @@
     "name:ara_x_preferred":[
         "\u0628\u0631\u0648\u062c"
     ],
-    "name:arm_x_preferred":[
-        "\u0532\u057c\u0575\u0578\u0582\u0563\u0565"
-    ],
     "name:arz_x_preferred":[
         "\u0628\u0631\u0648\u062c"
     ],
     "name:aze_x_preferred":[
         "Br\u00fcgge"
-    ],
-    "name:baq_x_preferred":[
-        "Brujas"
     ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u0411\u0440\u0443\u0433\u044d"
@@ -63,20 +57,14 @@
     "name:ces_x_preferred":[
         "Bruggy"
     ],
-    "name:chi_x_preferred":[
-        "\u5e03\u9c81\u65e5"
-    ],
-    "name:cze_x_preferred":[
-        "Bruggy"
+    "name:cym_x_preferred":[
+        "Brugge"
     ],
     "name:dan_x_preferred":[
         "Br\u00fcgge"
     ],
     "name:deu_x_preferred":[
         "Br\u00fcgge"
-    ],
-    "name:dut_x_preferred":[
-        "Brugge"
     ],
     "name:ell_x_preferred":[
         "\u039c\u03c0\u03c1\u03c5\u03b6"
@@ -108,32 +96,20 @@
     "name:fra_x_preferred":[
         "Bruges"
     ],
-    "name:fre_x_preferred":[
-        "Bruges"
-    ],
     "name:frr_x_preferred":[
         "Br\u00fcgge"
     ],
     "name:fry_x_preferred":[
         "Brugge"
     ],
-    "name:geo_x_preferred":[
-        "\u10d1\u10e0\u10d8\u10e3\u10d2\u10d4"
-    ],
     "name:ger_x_colloquial":[
         "Bruegge"
-    ],
-    "name:ger_x_preferred":[
-        "Br\u00fcgge"
     ],
     "name:gle_x_preferred":[
         "Brugge"
     ],
     "name:glg_x_preferred":[
         "Bruxas"
-    ],
-    "name:gre_x_preferred":[
-        "\u039c\u03c0\u03c1\u03c5\u03b6"
     ],
     "name:guj_x_preferred":[
         "\u0aac\u0acd\u0ab0\u0ac1\u0a97\u0ac7\u0ab8"
@@ -153,8 +129,8 @@
     "name:hye_x_preferred":[
         "\u0532\u0580\u0575\u0578\u0582\u0563\u0563\u0565"
     ],
-    "name:ice_x_preferred":[
-        "Brugge"
+    "name:hye_x_variant":[
+        "\u0532\u057c\u0575\u0578\u0582\u0563\u0565"
     ],
     "name:ido_x_preferred":[
         "Brugge"
@@ -163,6 +139,9 @@
         "Brugge"
     ],
     "name:ind_x_preferred":[
+        "Brugge"
+    ],
+    "name:isl_x_preferred":[
         "Brugge"
     ],
     "name:ita_x_preferred":[
@@ -204,13 +183,13 @@
     "name:ltz_x_preferred":[
         "Bruges"
     ],
-    "name:mac_x_preferred":[
-        "\u0411\u0440\u0438\u0433\u0435"
-    ],
     "name:mar_x_preferred":[
         "\u092c\u094d\u0930\u0942\u091c"
     ],
-    "name:may_x_preferred":[
+    "name:mkd_x_preferred":[
+        "\u0411\u0440\u0438\u0433\u0435"
+    ],
+    "name:msa_x_preferred":[
         "Brugge"
     ],
     "name:nds_x_preferred":[
@@ -237,9 +216,6 @@
     "name:pcd_x_preferred":[
         "Brudje"
     ],
-    "name:per_x_preferred":[
-        "\u0628\u0631\u0648\u062e\u0647"
-    ],
     "name:pnb_x_preferred":[
         "\u0628\u0631\u0648\u06cc\u0632"
     ],
@@ -255,9 +231,6 @@
     "name:ron_x_preferred":[
         "Bruges"
     ],
-    "name:rum_x_preferred":[
-        "Bruges"
-    ],
     "name:rus_x_preferred":[
         "\u0411\u0440\u044e\u0433\u0433\u0435"
     ],
@@ -268,9 +241,6 @@
         "\u0db6\u0dca\u0dbb\u0dd4\u0d9c\u0dc3\u0dca"
     ],
     "name:slk_x_preferred":[
-        "Bruggy"
-    ],
-    "name:slo_x_preferred":[
         "Bruggy"
     ],
     "name:slv_x_preferred":[
@@ -333,9 +303,6 @@
     "name:war_x_preferred":[
         "Bruges"
     ],
-    "name:wel_x_preferred":[
-        "Brugge"
-    ],
     "name:wln_x_preferred":[
         "Brudje"
     ],
@@ -347,6 +314,9 @@
     ],
     "name:zho_x_preferred":[
         "\u5e03\u5415\u8d6b"
+    ],
+    "name:zho_x_variant":[
+        "\u5e03\u9c81\u65e5"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Belgium",
@@ -503,7 +473,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1527688470,
+    "wof:lastmodified":1561831418,
     "wof:name":"Brugge",
     "wof:parent_id":1108830689,
     "wof:placetype":"locality",

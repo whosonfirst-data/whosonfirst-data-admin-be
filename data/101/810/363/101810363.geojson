@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000538,
-    "geom:area_square_m":4235465.932763,
+    "geom:area_square_m":4235465.932761,
     "geom:bbox":"5.25785257313,50.4331518163,5.31538172939,50.4685342823",
     "geom:latitude":50.447763,
     "geom:longitude":5.291113,
@@ -17,9 +17,6 @@
     "mps:longitude":5.295429,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:baq_x_preferred":[
-        "Modave"
-    ],
     "name:bre_x_preferred":[
         "Modave"
     ],
@@ -32,13 +29,7 @@
     "name:ceb_x_preferred":[
         "Modave"
     ],
-    "name:chi_x_preferred":[
-        "\u83ab\u8fbe\u6c83"
-    ],
     "name:deu_x_preferred":[
-        "Modave"
-    ],
-    "name:dut_x_preferred":[
         "Modave"
     ],
     "name:eng_x_preferred":[
@@ -54,12 +45,6 @@
         "\u0645\u0648\u062f\u0648"
     ],
     "name:fra_x_preferred":[
-        "Modave"
-    ],
-    "name:fre_x_preferred":[
-        "Modave"
-    ],
-    "name:ger_x_preferred":[
         "Modave"
     ],
     "name:hun_x_preferred":[
@@ -83,25 +68,16 @@
     "name:oci_x_preferred":[
         "Modave"
     ],
-    "name:per_x_preferred":[
-        "\u0645\u0648\u062f\u0648"
-    ],
     "name:por_x_preferred":[
         "Modave"
     ],
     "name:ron_x_preferred":[
         "Modave"
     ],
-    "name:rum_x_preferred":[
-        "Modave"
-    ],
     "name:rus_x_preferred":[
         "\u041c\u043e\u0434\u0430\u0432"
     ],
     "name:slk_x_preferred":[
-        "Modave"
-    ],
-    "name:slo_x_preferred":[
         "Modave"
     ],
     "name:swe_x_preferred":[
@@ -167,7 +143,7 @@
         }
     ],
     "wof:id":101810363,
-    "wof:lastmodified":1527642419,
+    "wof:lastmodified":1561831414,
     "wof:name":"Modave",
     "wof:parent_id":102049925,
     "wof:placetype":"locality",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000579,
-    "geom:area_square_m":4555339.853239,
+    "geom:area_square_m":4555339.85324,
     "geom:bbox":"4.25278389433,50.4549981752,4.29978810609,50.4836645179",
     "geom:latitude":50.470397,
     "geom:longitude":4.276725,
@@ -17,9 +17,6 @@
     "mps:longitude":4.278685,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:baq_x_preferred":[
-        "Chapelle-lez-Herlaimont"
-    ],
     "name:bre_x_preferred":[
         "Chapelle-lez-Herlaimont"
     ],
@@ -29,7 +26,7 @@
     "name:cat_x_preferred":[
         "Chapelle-lez-Herlaimont"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Chapelle-lez-Herlaimont"
     ],
     "name:eng_x_preferred":[
@@ -38,16 +35,13 @@
     "name:epo_x_preferred":[
         "Chapelle-lez-Herlaimont"
     ],
+    "name:eus_x_preferred":[
+        "Chapelle-lez-Herlaimont"
+    ],
     "name:fas_x_preferred":[
         "\u0634\u067e\u0644-\u0644\u0647-\u0627\u0631\u0644\u0645\u0648\u0646"
     ],
     "name:fra_x_preferred":[
-        "Chapelle-lez-Herlaimont"
-    ],
-    "name:fre_x_preferred":[
-        "Chapelle-lez-Herlaimont"
-    ],
-    "name:ger_x_preferred":[
         "Chapelle-lez-Herlaimont"
     ],
     "name:hun_x_preferred":[
@@ -59,25 +53,25 @@
     "name:lim_x_preferred":[
         "Chapelle-lez-Herlaimont"
     ],
+    "name:nld_x_preferred":[
+        "Chapelle-lez-Herlaimont"
+    ],
     "name:nob_x_preferred":[
         "Chapelle-lez-Herlaimont"
     ],
     "name:oci_x_preferred":[
         "Chapelle-lez-Herlaimont"
     ],
-    "name:per_x_preferred":[
-        "\u0634\u067e\u0644-\u0644\u0647-\u0627\u0631\u0644\u0645\u0648\u0646"
-    ],
     "name:por_x_preferred":[
         "Chapelle-lez-Herlaimont"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Chapelle-lez-Herlaimont"
     ],
     "name:rus_x_preferred":[
         "\u0428\u0430\u043f\u0435\u043b\u044c-\u043b\u0435\u0437-\u042d\u0440\u043b\u0435\u043c\u043e\u043d"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Chapelle-lez-Herlaimont"
     ],
     "name:spa_x_preferred":[
@@ -149,7 +143,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1553815477,
+    "wof:lastmodified":1561831410,
     "wof:name":"Chapelle-lez-Herlaimont",
     "wof:parent_id":102049927,
     "wof:placetype":"locality",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000329,
-    "geom:area_square_m":2590327.217647,
+    "geom:area_square_m":2590327.217646,
     "geom:bbox":"4.30851491963,50.4219215166,4.34656352316,50.4446928941",
     "geom:latitude":50.432577,
     "geom:longitude":4.326024,
@@ -16,16 +16,16 @@
     "mps:longitude":4.325433,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:dut_x_preferred":[
-        "Forchies-la-Marche"
-    ],
     "name:eng_x_preferred":[
         "Forchies-la-Marche"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Forchies-la-Marche"
     ],
     "name:hun_x_preferred":[
+        "Forchies-la-Marche"
+    ],
+    "name:nld_x_preferred":[
         "Forchies-la-Marche"
     ],
     "name:unk_x_variant":[
@@ -77,7 +77,7 @@
         }
     ],
     "wof:id":101755057,
-    "wof:lastmodified":1513899269,
+    "wof:lastmodified":1561831405,
     "wof:name":"Forchies-la-Marche",
     "wof:parent_id":102049927,
     "wof:placetype":"locality",

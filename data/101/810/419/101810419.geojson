@@ -17,9 +17,6 @@
     "mps:longitude":6.008678,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:baq_x_preferred":[
-        "Lontzen"
-    ],
     "name:bre_x_preferred":[
         "Lontzen"
     ],
@@ -32,13 +29,7 @@
     "name:ceb_x_preferred":[
         "Lontzen"
     ],
-    "name:chi_x_preferred":[
-        "\u9686\u7279\u5c91"
-    ],
     "name:deu_x_preferred":[
-        "Lontzen"
-    ],
-    "name:dut_x_preferred":[
         "Lontzen"
     ],
     "name:eng_x_preferred":[
@@ -57,12 +48,6 @@
         "Lontzen"
     ],
     "name:fra_x_preferred":[
-        "Lontzen"
-    ],
-    "name:fre_x_preferred":[
-        "Lontzen"
-    ],
-    "name:ger_x_preferred":[
         "Lontzen"
     ],
     "name:hun_x_preferred":[
@@ -92,25 +77,16 @@
     "name:oci_x_preferred":[
         "Lontzen"
     ],
-    "name:per_x_preferred":[
-        "\u0644\u0648\u0646\u062a\u0632\u0627\u0646"
-    ],
     "name:por_x_preferred":[
         "Lontzen"
     ],
     "name:ron_x_preferred":[
         "Lontzen"
     ],
-    "name:rum_x_preferred":[
-        "Lontzen"
-    ],
     "name:rus_x_preferred":[
         "\u041b\u043e\u043d\u0446\u0435\u043d"
     ],
     "name:slk_x_preferred":[
-        "Lontzen"
-    ],
-    "name:slo_x_preferred":[
         "Lontzen"
     ],
     "name:swe_x_preferred":[
@@ -179,7 +155,7 @@
         }
     ],
     "wof:id":101810419,
-    "wof:lastmodified":1527642427,
+    "wof:lastmodified":1561831416,
     "wof:name":"Lontzen",
     "wof:parent_id":102049935,
     "wof:placetype":"locality",

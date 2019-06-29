@@ -22,16 +22,10 @@
     "name:ceb_x_preferred":[
         "Lichtaart"
     ],
-    "name:dut_x_preferred":[
-        "Lichtaart"
-    ],
     "name:eng_x_preferred":[
         "Lichtaart"
     ],
     "name:fra_x_preferred":[
-        "Lichtaert"
-    ],
-    "name:fre_x_preferred":[
         "Lichtaert"
     ],
     "name:hun_x_preferred":[
@@ -98,7 +92,7 @@
         }
     ],
     "wof:id":101839123,
-    "wof:lastmodified":1527715404,
+    "wof:lastmodified":1561831436,
     "wof:name":"Lichtaart",
     "wof:parent_id":1108830677,
     "wof:placetype":"locality",

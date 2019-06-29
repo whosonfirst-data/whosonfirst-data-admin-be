@@ -18,13 +18,10 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
-    "name:dut_x_preferred":[
-        "Chassepierre"
-    ],
     "name:eng_x_preferred":[
         "Chassepierre"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Chassepierre"
     ],
     "name:hun_x_preferred":[
@@ -37,6 +34,9 @@
         "\u30b7\u30e3\u30b9\u30d4\u30a8\u30fc\u30eb"
     ],
     "name:ltz_x_preferred":[
+        "Chassepierre"
+    ],
+    "name:nld_x_preferred":[
         "Chassepierre"
     ],
     "name:vls_x_preferred":[
@@ -99,7 +99,7 @@
         }
     ],
     "wof:id":1125998749,
-    "wof:lastmodified":1513899214,
+    "wof:lastmodified":1561831460,
     "wof:name":"Chassepierre",
     "wof:parent_id":102049907,
     "wof:placetype":"locality",

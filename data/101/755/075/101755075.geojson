@@ -16,16 +16,16 @@
     "mps:longitude":4.289702,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:dut_x_preferred":[
-        "Godarville"
-    ],
     "name:eng_x_preferred":[
         "Godarville"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Godarville"
     ],
     "name:hun_x_preferred":[
+        "Godarville"
+    ],
+    "name:nld_x_preferred":[
         "Godarville"
     ],
     "qs:a0":"Belgi\u00eb#Belgique#Belgien",
@@ -74,7 +74,7 @@
         }
     ],
     "wof:id":101755075,
-    "wof:lastmodified":1513899287,
+    "wof:lastmodified":1561831404,
     "wof:name":"Godarville",
     "wof:parent_id":102049927,
     "wof:placetype":"locality",

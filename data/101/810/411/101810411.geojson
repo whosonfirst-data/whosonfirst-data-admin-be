@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000136,
-    "geom:area_square_m":1066313.724541,
+    "geom:area_square_m":1066313.72454,
     "geom:bbox":"3.88869886383,50.5459324066,3.91108357025,50.5657811156",
     "geom:latitude":50.556403,
     "geom:longitude":3.901042,
@@ -17,9 +17,6 @@
     "mps:longitude":3.900279,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:baq_x_preferred":[
-        "Lens"
-    ],
     "name:bre_x_preferred":[
         "Lens"
     ],
@@ -29,7 +26,7 @@
     "name:cat_x_preferred":[
         "Lens"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Lens"
     ],
     "name:eng_x_preferred":[
@@ -38,13 +35,13 @@
     "name:epo_x_preferred":[
         "Lens"
     ],
+    "name:eus_x_preferred":[
+        "Lens"
+    ],
+    "name:fas_x_preferred":[
+        "\u0644\u0627\u0646"
+    ],
     "name:fra_x_preferred":[
-        "Lens"
-    ],
-    "name:fre_x_preferred":[
-        "Lens"
-    ],
-    "name:ger_x_preferred":[
         "Lens"
     ],
     "name:hun_x_preferred":[
@@ -59,25 +56,25 @@
     "name:lim_x_preferred":[
         "Lens"
     ],
+    "name:nld_x_preferred":[
+        "Lens"
+    ],
     "name:nob_x_preferred":[
         "Lens"
     ],
     "name:oci_x_preferred":[
         "Lens"
     ],
-    "name:per_x_preferred":[
-        "\u0644\u0627\u0646"
-    ],
     "name:por_x_preferred":[
         "Lens"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Lens"
     ],
     "name:rus_x_preferred":[
         "\u041b\u0430\u043d\u0441"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Lens"
     ],
     "name:swe_x_preferred":[
@@ -143,7 +140,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1513899361,
+    "wof:lastmodified":1561831416,
     "wof:name":"Lens",
     "wof:parent_id":102049933,
     "wof:placetype":"locality",

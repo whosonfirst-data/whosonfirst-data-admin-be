@@ -22,16 +22,10 @@
     "name:ceb_x_preferred":[
         "Velm"
     ],
-    "name:dut_x_preferred":[
-        "Velm"
-    ],
     "name:eng_x_preferred":[
         "Velm"
     ],
     "name:fra_x_preferred":[
-        "Velm"
-    ],
-    "name:fre_x_preferred":[
         "Velm"
     ],
     "name:hun_x_preferred":[
@@ -104,7 +98,7 @@
         }
     ],
     "wof:id":101810561,
-    "wof:lastmodified":1527642418,
+    "wof:lastmodified":1561831414,
     "wof:name":"Velm",
     "wof:parent_id":1108830223,
     "wof:placetype":"locality",

@@ -26,9 +26,6 @@
     "name:ast_x_preferred":[
         "Huldenberg"
     ],
-    "name:baq_x_preferred":[
-        "Huldenberg"
-    ],
     "name:bar_x_preferred":[
         "Huldenberg"
     ],
@@ -47,22 +44,16 @@
     "name:ces_x_preferred":[
         "Huldenberg"
     ],
-    "name:chi_x_preferred":[
-        "\u8bb8\u5c14\u767b\u8d1d\u5c14\u8d6b"
-    ],
     "name:cos_x_preferred":[
         "Huldenberg"
     ],
-    "name:cze_x_preferred":[
+    "name:cym_x_preferred":[
         "Huldenberg"
     ],
     "name:dan_x_preferred":[
         "Huldenberg"
     ],
     "name:deu_x_preferred":[
-        "Huldenberg"
-    ],
-    "name:dut_x_preferred":[
         "Huldenberg"
     ],
     "name:eng_x_preferred":[
@@ -86,16 +77,10 @@
     "name:fra_x_preferred":[
         "Huldenberg"
     ],
-    "name:fre_x_preferred":[
-        "Huldenberg"
-    ],
     "name:frp_x_preferred":[
         "Huldenberg"
     ],
     "name:fur_x_preferred":[
-        "Huldenberg"
-    ],
-    "name:ger_x_preferred":[
         "Huldenberg"
     ],
     "name:gla_x_preferred":[
@@ -116,9 +101,6 @@
     "name:hun_x_preferred":[
         "Huldenberg"
     ],
-    "name:ice_x_preferred":[
-        "Huldenberg"
-    ],
     "name:ido_x_preferred":[
         "Huldenberg"
     ],
@@ -129,6 +111,9 @@
         "Huldenberg"
     ],
     "name:ind_x_preferred":[
+        "Huldenberg"
+    ],
+    "name:isl_x_preferred":[
         "Huldenberg"
     ],
     "name:ita_x_preferred":[
@@ -146,13 +131,13 @@
     "name:ltz_x_preferred":[
         "Huldenberg"
     ],
-    "name:may_x_preferred":[
-        "Huldenberg"
-    ],
     "name:min_x_preferred":[
         "Huldenberg"
     ],
     "name:mlg_x_preferred":[
+        "Huldenberg"
+    ],
+    "name:msa_x_preferred":[
         "Huldenberg"
     ],
     "name:nap_x_preferred":[
@@ -182,9 +167,6 @@
     "name:pcd_x_preferred":[
         "Huldenberg"
     ],
-    "name:per_x_preferred":[
-        "\u0627\u0648\u0644\u062f\u0627\u0646\u0628\u0631\u06af"
-    ],
     "name:pms_x_preferred":[
         "Huldenberg"
     ],
@@ -200,9 +182,6 @@
     "name:ron_x_preferred":[
         "Huldenberg"
     ],
-    "name:rum_x_preferred":[
-        "Huldenberg"
-    ],
     "name:scn_x_preferred":[
         "Huldenberg"
     ],
@@ -210,9 +189,6 @@
         "Huldenberg"
     ],
     "name:slk_x_preferred":[
-        "Huldenberg"
-    ],
-    "name:slo_x_preferred":[
         "Huldenberg"
     ],
     "name:slv_x_preferred":[
@@ -243,9 +219,6 @@
         "Huldenberg"
     ],
     "name:war_x_preferred":[
-        "Huldenberg"
-    ],
-    "name:wel_x_preferred":[
         "Huldenberg"
     ],
     "name:wln_x_preferred":[
@@ -310,7 +283,7 @@
         }
     ],
     "wof:id":101755369,
-    "wof:lastmodified":1527641701,
+    "wof:lastmodified":1561831402,
     "wof:name":"Huldenberg",
     "wof:parent_id":1108830025,
     "wof:placetype":"locality",

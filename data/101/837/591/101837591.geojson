@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000398,
-    "geom:area_square_m":3066592.255475,
+    "geom:area_square_m":3066592.255476,
     "geom:bbox":"4.45040190209,51.4497107826,4.48554093676,51.4770055539",
     "geom:latitude":51.465175,
     "geom:longitude":4.467314,
@@ -20,9 +20,6 @@
     "name:ara_x_preferred":[
         "\u0625\u064a\u0633\u0646\u060c \u0628\u0644\u062c\u064a\u0643\u0627"
     ],
-    "name:baq_x_preferred":[
-        "Essen"
-    ],
     "name:bre_x_preferred":[
         "Essen"
     ],
@@ -32,10 +29,7 @@
     "name:cat_x_preferred":[
         "Essen"
     ],
-    "name:chi_x_preferred":[
-        "\u57c3\u68ee"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Essen"
     ],
     "name:eng_x_preferred":[
@@ -44,10 +38,13 @@
     "name:epo_x_preferred":[
         "Essen"
     ],
-    "name:fre_x_preferred":[
+    "name:eus_x_preferred":[
         "Essen"
     ],
-    "name:ger_x_preferred":[
+    "name:fas_x_preferred":[
+        "\u0627\u0633\u0627\u0646"
+    ],
+    "name:fra_x_preferred":[
         "Essen"
     ],
     "name:hun_x_preferred":[
@@ -68,8 +65,11 @@
     "name:lit_x_preferred":[
         "Esenas"
     ],
-    "name:mac_x_preferred":[
+    "name:mkd_x_preferred":[
         "\u0415\u0441\u0435\u043d"
+    ],
+    "name:nld_x_preferred":[
+        "Essen"
     ],
     "name:nob_x_preferred":[
         "Essen"
@@ -77,19 +77,16 @@
     "name:oci_x_preferred":[
         "Essen"
     ],
-    "name:per_x_preferred":[
-        "\u0627\u0633\u0627\u0646"
-    ],
     "name:por_x_preferred":[
         "Essen"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Essen"
     ],
     "name:rus_x_preferred":[
         "\u042d\u0441\u0441\u0435\u043d"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Essen"
     ],
     "name:spa_x_preferred":[
@@ -112,6 +109,9 @@
     ],
     "name:war_x_preferred":[
         "Essen"
+    ],
+    "name:zho_x_preferred":[
+        "\u57c3\u68ee"
     ],
     "qs:a0":"Belgi\u00eb#Belgique#Belgien",
     "qs:a1":"*Antwerpen",
@@ -166,7 +166,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1513899252,
+    "wof:lastmodified":1561831432,
     "wof:name":"Essen",
     "wof:parent_id":1108830513,
     "wof:placetype":"locality",

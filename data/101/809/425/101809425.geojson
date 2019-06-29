@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000198,
-    "geom:area_square_m":1534443.487077,
+    "geom:area_square_m":1534443.487076,
     "geom:bbox":"4.16759341349,51.2098373423,4.21338661974,51.2261720313",
     "geom:latitude":51.219022,
     "geom:longitude":4.193736,
@@ -16,16 +16,16 @@
     "mps:longitude":4.191828,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:dut_x_preferred":[
-        "Vrasene"
-    ],
     "name:eng_x_preferred":[
         "Vrasene"
     ],
     "name:epo_x_preferred":[
         "Vrasene"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
+        "Vrasene"
+    ],
+    "name:nld_x_preferred":[
         "Vrasene"
     ],
     "name:unk_x_variant":[
@@ -79,7 +79,7 @@
         }
     ],
     "wof:id":101809425,
-    "wof:lastmodified":1513899551,
+    "wof:lastmodified":1561831428,
     "wof:name":"Vrasene",
     "wof:parent_id":1108830621,
     "wof:placetype":"locality",

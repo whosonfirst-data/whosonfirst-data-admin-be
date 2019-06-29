@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000244,
-    "geom:area_square_m":1923387.862188,
+    "geom:area_square_m":1923387.862187,
     "geom:bbox":"4.30583312173,50.4812254998,4.34162301976,50.5000397894",
     "geom:latitude":50.491285,
     "geom:longitude":4.326902,
@@ -19,16 +19,10 @@
     "name:bre_x_preferred":[
         "Gouy-lez-Pi\u00e9ton"
     ],
-    "name:dut_x_preferred":[
-        "Gouy-lez-Pi\u00e9ton"
-    ],
     "name:eng_x_preferred":[
         "Gouy-lez-Pi\u00e9ton"
     ],
     "name:fra_x_preferred":[
-        "Gouy-lez-Pi\u00e9ton"
-    ],
-    "name:fre_x_preferred":[
         "Gouy-lez-Pi\u00e9ton"
     ],
     "name:hun_x_preferred":[
@@ -88,7 +82,7 @@
         }
     ],
     "wof:id":101810383,
-    "wof:lastmodified":1527642423,
+    "wof:lastmodified":1561831415,
     "wof:name":"Gouy-lez-Pi\u00e9ton",
     "wof:parent_id":102049927,
     "wof:placetype":"locality",

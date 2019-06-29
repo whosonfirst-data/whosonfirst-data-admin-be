@@ -17,9 +17,6 @@
     "mps:longitude":3.458625,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:baq_x_preferred":[
-        "Celles"
-    ],
     "name:bre_x_preferred":[
         "Celles"
     ],
@@ -38,9 +35,6 @@
     "name:deu_x_preferred":[
         "Celles"
     ],
-    "name:dut_x_preferred":[
-        "Celles"
-    ],
     "name:eng_x_preferred":[
         "Celles"
     ],
@@ -50,13 +44,13 @@
     "name:est_x_preferred":[
         "Celles"
     ],
+    "name:eus_x_preferred":[
+        "Celles"
+    ],
+    "name:fas_x_preferred":[
+        "\u0633\u0644\u060c \u0627\u0646\u0648"
+    ],
     "name:fra_x_preferred":[
-        "Celles"
-    ],
-    "name:fre_x_preferred":[
-        "Celles"
-    ],
-    "name:ger_x_preferred":[
         "Celles"
     ],
     "name:hun_x_preferred":[
@@ -77,9 +71,6 @@
     "name:oci_x_preferred":[
         "Celles"
     ],
-    "name:per_x_preferred":[
-        "\u0633\u0644\u060c \u0627\u0646\u0648"
-    ],
     "name:pms_x_preferred":[
         "Celles"
     ],
@@ -89,7 +80,7 @@
     "name:por_x_preferred":[
         "Celles"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Celles"
     ],
     "name:rus_x_preferred":[
@@ -99,9 +90,6 @@
         "Celles"
     ],
     "name:slk_x_preferred":[
-        "Celles"
-    ],
-    "name:slo_x_preferred":[
         "Celles"
     ],
     "name:spa_x_preferred":[
@@ -174,7 +162,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1527642425,
+    "wof:lastmodified":1561831415,
     "wof:name":"Celles",
     "wof:parent_id":102049951,
     "wof:placetype":"locality",

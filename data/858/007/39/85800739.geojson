@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":8839219.311531,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.664864,51.03212,3.664864,51.03212",
     "geom:latitude":51.03212,
     "geom:longitude":3.664864,
@@ -27,7 +27,7 @@
     "name:dut_x_colloquial":[
         "Afsne"
     ],
-    "name:dut_x_preferred":[
+    "name:nld_x_preferred":[
         "Afsn\u00e9"
     ],
     "name:unk_x_variant":[
@@ -65,13 +65,13 @@
     ],
     "src:lbl:centroid":"yerbashapes",
     "wof:belongsto":[
-        85681733,
         102191581,
         1108830083,
         85632997,
         404227357,
         101755699,
-        102049989
+        102049989,
+        85681733
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -97,7 +97,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1531862041,
+    "wof:lastmodified":1561831363,
     "wof:name":"Afsn\u00e9",
     "wof:parent_id":101755699,
     "wof:placetype":"neighbourhood",

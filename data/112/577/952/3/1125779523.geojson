@@ -18,16 +18,16 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
-    "name:dut_x_preferred":[
-        "Opgrimbie"
-    ],
     "name:eng_x_preferred":[
         "Opgrimbie"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Opgrimbie"
     ],
     "name:hun_x_preferred":[
+        "Opgrimbie"
+    ],
+    "name:nld_x_preferred":[
         "Opgrimbie"
     ],
     "name:unk_x_variant":[
@@ -85,7 +85,7 @@
         }
     ],
     "wof:id":1125779523,
-    "wof:lastmodified":1513899446,
+    "wof:lastmodified":1561831484,
     "wof:name":"Opgrimbie",
     "wof:parent_id":1108830295,
     "wof:placetype":"locality",
