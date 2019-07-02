@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001766,
-    "geom:area_square_m":13661491.111348,
+    "geom:area_square_m":13661491.111345,
     "geom:bbox":"3.21723388672,51.2361265062,3.31413818359,51.2873805605",
     "geom:latitude":51.266396,
     "geom:longitude":3.267435,
@@ -24,9 +24,6 @@
     "mz:min_zoom":0.0,
     "mz:tier_locality":4,
     "name:ceb_x_preferred":[
-        "Koolkerke"
-    ],
-    "name:dut_x_preferred":[
         "Koolkerke"
     ],
     "name:epo_x_preferred":[
@@ -112,7 +109,7 @@
         }
     ],
     "wof:id":85801391,
-    "wof:lastmodified":1497311978,
+    "wof:lastmodified":1561831363,
     "wof:name":"Koolkerke",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

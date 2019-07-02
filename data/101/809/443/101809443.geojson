@@ -25,19 +25,10 @@
     "name:deu_x_preferred":[
         "Oedelem"
     ],
-    "name:dut_x_preferred":[
-        "Oedelem"
-    ],
     "name:eng_x_preferred":[
         "Oedelem"
     ],
     "name:fra_x_preferred":[
-        "Oedelem"
-    ],
-    "name:fre_x_preferred":[
-        "Oedelem"
-    ],
-    "name:ger_x_preferred":[
         "Oedelem"
     ],
     "name:hun_x_preferred":[
@@ -107,7 +98,7 @@
         }
     ],
     "wof:id":101809443,
-    "wof:lastmodified":1527715175,
+    "wof:lastmodified":1561831430,
     "wof:name":"Oedelem",
     "wof:parent_id":1108830289,
     "wof:placetype":"locality",

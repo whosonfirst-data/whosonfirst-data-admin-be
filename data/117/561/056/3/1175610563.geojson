@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000377,
-    "geom:area_square_m":2198917.837848,
+    "geom:area_square_m":2949691.992597,
     "geom:bbox":"5.20106585567,50.6936553289,5.22585492011,50.7428004487",
     "geom:latitude":50.711103,
     "geom:longitude":5.212627,
@@ -17,9 +17,6 @@
     "mps:longitude":5.211995,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:baq_x_preferred":[
-        "Berloz"
-    ],
     "name:bre_x_preferred":[
         "Berloz"
     ],
@@ -29,13 +26,7 @@
     "name:cat_x_preferred":[
         "Berloz"
     ],
-    "name:chi_x_preferred":[
-        "\u8d1d\u5c14\u6d1b"
-    ],
     "name:deu_x_preferred":[
-        "Berloz"
-    ],
-    "name:dut_x_preferred":[
         "Berloz"
     ],
     "name:eng_x_preferred":[
@@ -51,12 +42,6 @@
         "\u0628\u0631\u0644\u0648\u0632"
     ],
     "name:fra_x_preferred":[
-        "Berloz"
-    ],
-    "name:fre_x_preferred":[
-        "Berloz"
-    ],
-    "name:ger_x_preferred":[
         "Berloz"
     ],
     "name:hun_x_preferred":[
@@ -80,25 +65,16 @@
     "name:oci_x_preferred":[
         "Berloz"
     ],
-    "name:per_x_preferred":[
-        "\u0628\u0631\u0644\u0648\u0632"
-    ],
     "name:por_x_preferred":[
         "Berloz"
     ],
     "name:ron_x_preferred":[
         "Berloz"
     ],
-    "name:rum_x_preferred":[
-        "Berloz"
-    ],
     "name:rus_x_preferred":[
         "\u0411\u0435\u0440\u043b\u043e"
     ],
     "name:slk_x_preferred":[
-        "Berloz"
-    ],
-    "name:slo_x_preferred":[
         "Berloz"
     ],
     "name:swe_x_preferred":[
@@ -172,7 +148,7 @@
         }
     ],
     "wof:id":1175610563,
-    "wof:lastmodified":1534985846,
+    "wof:lastmodified":1561831393,
     "wof:name":"Berloz",
     "wof:parent_id":102049937,
     "wof:placetype":"locality",

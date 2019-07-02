@@ -32,10 +32,7 @@
     "name:cat_x_preferred":[
         "Lummen"
     ],
-    "name:chi_x_preferred":[
-        "\u5415\u95e8"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Lummen"
     ],
     "name:eng_x_preferred":[
@@ -44,13 +41,13 @@
     "name:epo_x_preferred":[
         "Lummen"
     ],
+    "name:fas_x_preferred":[
+        "\u0644\u0648\u0645\u0627\u0646"
+    ],
     "name:fin_x_preferred":[
         "Lummen"
     ],
-    "name:fre_x_preferred":[
-        "Lummen"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Lummen"
     ],
     "name:hun_x_preferred":[
@@ -68,25 +65,25 @@
     "name:ltz_x_preferred":[
         "Lummen"
     ],
+    "name:nld_x_preferred":[
+        "Lummen"
+    ],
     "name:nob_x_preferred":[
         "Lummen"
     ],
     "name:oci_x_preferred":[
         "Lummen"
     ],
-    "name:per_x_preferred":[
-        "\u0644\u0648\u0645\u0627\u0646"
-    ],
     "name:por_x_preferred":[
         "Lummen"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Lummen"
     ],
     "name:rus_x_preferred":[
         "\u041b\u044e\u043c\u043c\u0435\u043d"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Lummen"
     ],
     "name:spa_x_preferred":[
@@ -106,6 +103,9 @@
     ],
     "name:war_x_preferred":[
         "Lummen"
+    ],
+    "name:zho_x_preferred":[
+        "\u5415\u95e8"
     ],
     "qs:a0":"Belgi\u00eb#Belgique#Belgien",
     "qs:a1":"*Limburg",
@@ -158,7 +158,7 @@
         }
     ],
     "wof:id":101838783,
-    "wof:lastmodified":1535390520,
+    "wof:lastmodified":1561831425,
     "wof:name":"Lummen",
     "wof:parent_id":1108830255,
     "wof:placetype":"locality",

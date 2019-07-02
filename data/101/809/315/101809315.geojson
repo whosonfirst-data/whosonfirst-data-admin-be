@@ -25,13 +25,13 @@
     "name:deu_x_preferred":[
         "Kastel"
     ],
-    "name:dut_x_preferred":[
-        "Kastel"
-    ],
     "name:eng_x_preferred":[
         "Kastel"
     ],
     "name:glg_x_preferred":[
+        "Kastel"
+    ],
+    "name:nld_x_preferred":[
         "Kastel"
     ],
     "name:pol_x_preferred":[
@@ -92,7 +92,7 @@
         }
     ],
     "wof:id":101809315,
-    "wof:lastmodified":1527715169,
+    "wof:lastmodified":1561831429,
     "wof:name":"Kastel",
     "wof:parent_id":1108830161,
     "wof:placetype":"locality",

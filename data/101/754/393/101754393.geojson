@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000068,
-    "geom:area_square_m":525312.802779,
+    "geom:area_square_m":525312.802778,
     "geom:bbox":"2.96787864561,51.2290064792,2.97954734316,51.2399307697",
     "geom:latitude":51.234577,
     "geom:longitude":2.974038,
@@ -20,9 +20,6 @@
     "name:als_x_preferred":[
         "Bredene"
     ],
-    "name:baq_x_preferred":[
-        "Bredene"
-    ],
     "name:bre_x_preferred":[
         "Bredene"
     ],
@@ -35,13 +32,7 @@
     "name:ceb_x_preferred":[
         "Bredene"
     ],
-    "name:chi_x_preferred":[
-        "\u5e03\u96f7\u5fb7\u5185"
-    ],
     "name:deu_x_preferred":[
-        "Bredene"
-    ],
-    "name:dut_x_preferred":[
         "Bredene"
     ],
     "name:eng_x_preferred":[
@@ -60,12 +51,6 @@
         "\u0628\u0631\u0648\u062f\u0646"
     ],
     "name:fra_x_preferred":[
-        "Bredene"
-    ],
-    "name:fre_x_preferred":[
-        "Bredene"
-    ],
-    "name:ger_x_preferred":[
         "Bredene"
     ],
     "name:gsw_x_preferred":[
@@ -95,22 +80,13 @@
     "name:oci_x_preferred":[
         "Bredene"
     ],
-    "name:per_x_preferred":[
-        "\u0628\u0631\u0648\u062f\u0646"
-    ],
     "name:por_x_preferred":[
         "Bredene"
     ],
     "name:ron_x_preferred":[
         "Bredene"
     ],
-    "name:rum_x_preferred":[
-        "Bredene"
-    ],
     "name:slk_x_preferred":[
-        "Bredene"
-    ],
-    "name:slo_x_preferred":[
         "Bredene"
     ],
     "name:spa_x_preferred":[
@@ -192,7 +168,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1527641862,
+    "wof:lastmodified":1561831410,
     "wof:name":"Bredene",
     "wof:parent_id":1108830683,
     "wof:placetype":"locality",

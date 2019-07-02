@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000553,
-    "geom:area_square_m":4354922.05363,
+    "geom:area_square_m":4354922.053629,
     "geom:bbox":"4.61121764785,50.4284407515,4.65772005865,50.4557735246",
     "geom:latitude":50.442482,
     "geom:longitude":4.631244,
@@ -19,16 +19,10 @@
     "name:dan_x_preferred":[
         "Auvelais"
     ],
-    "name:dut_x_preferred":[
-        "Auvelais"
-    ],
     "name:eng_x_preferred":[
         "Auvelais"
     ],
     "name:fra_x_preferred":[
-        "Auvelais"
-    ],
-    "name:fre_x_preferred":[
         "Auvelais"
     ],
     "name:hun_x_preferred":[
@@ -97,7 +91,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1527641697,
+    "wof:lastmodified":1561831399,
     "wof:name":"Auvelais",
     "wof:parent_id":102049931,
     "wof:placetype":"locality",

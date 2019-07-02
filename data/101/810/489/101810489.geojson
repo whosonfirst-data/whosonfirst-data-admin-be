@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000379,
-    "geom:area_square_m":2969635.52536,
+    "geom:area_square_m":2969635.525359,
     "geom:bbox":"4.77690141221,50.6666878987,4.82764524085,50.7065045672",
     "geom:latitude":50.688726,
     "geom:longitude":4.802891,
@@ -17,9 +17,6 @@
     "mps:longitude":4.79907,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:baq_x_preferred":[
-        "Incourt"
-    ],
     "name:bre_x_preferred":[
         "Incourt"
     ],
@@ -32,13 +29,10 @@
     "name:ceb_x_preferred":[
         "Incourt"
     ],
-    "name:chi_x_preferred":[
-        "\u5b89\u5e93\u5c14"
-    ],
     "name:dan_x_preferred":[
         "Incourt"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Incourt"
     ],
     "name:eng_x_preferred":[
@@ -47,13 +41,13 @@
     "name:epo_x_preferred":[
         "Incourt"
     ],
+    "name:eus_x_preferred":[
+        "Incourt"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0646\u06a9\u0648\u0631"
+    ],
     "name:fra_x_preferred":[
-        "Incourt"
-    ],
-    "name:fre_x_preferred":[
-        "Incourt"
-    ],
-    "name:ger_x_preferred":[
         "Incourt"
     ],
     "name:hun_x_preferred":[
@@ -71,22 +65,16 @@
     "name:oci_x_preferred":[
         "Incourt"
     ],
-    "name:per_x_preferred":[
-        "\u0627\u0646\u06a9\u0648\u0631"
-    ],
     "name:por_x_preferred":[
         "Incourt"
     ],
     "name:ron_x_preferred":[
         "Incourt"
     ],
-    "name:rum_x_preferred":[
-        "Incourt"
-    ],
     "name:rus_x_preferred":[
         "\u042d\u043d\u043a\u0443\u0440"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Incourt"
     ],
     "name:swe_x_preferred":[
@@ -103,6 +91,9 @@
     ],
     "name:wln_x_preferred":[
         "Inco\u00fb"
+    ],
+    "name:zho_x_preferred":[
+        "\u5b89\u5e93\u5c14"
     ],
     "qs:a0":"Belgi\u00eb#Belgique#Belgien",
     "qs:a1":"*Brabant wallon",
@@ -152,7 +143,7 @@
         }
     ],
     "wof:id":101810489,
-    "wof:lastmodified":1527642429,
+    "wof:lastmodified":1561831416,
     "wof:name":"Incourt",
     "wof:parent_id":102049945,
     "wof:placetype":"locality",

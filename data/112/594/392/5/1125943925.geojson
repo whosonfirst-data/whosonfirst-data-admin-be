@@ -19,12 +19,6 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
-    "name:arm_x_preferred":[
-        "\u0544\u0578\u0580\u057f\u057d\u0565\u056c"
-    ],
-    "name:baq_x_preferred":[
-        "Mortsel"
-    ],
     "name:bel_x_preferred":[
         "\u041c\u0430\u0440\u0442\u0441\u0435\u043b"
     ],
@@ -37,13 +31,10 @@
     "name:cat_x_preferred":[
         "Mortsel"
     ],
-    "name:chi_x_preferred":[
-        "\u83ab\u7b56\u5c14"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Mortsel"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Mortsel"
     ],
     "name:eng_x_preferred":[
@@ -52,17 +43,20 @@
     "name:epo_x_preferred":[
         "Mortsel"
     ],
+    "name:eus_x_preferred":[
+        "Mortsel"
+    ],
     "name:fas_x_preferred":[
         "\u0645\u0631\u062a\u0632\u0644"
     ],
-    "name:fre_x_preferred":[
-        "Mortsel"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Mortsel"
     ],
     "name:hun_x_preferred":[
         "Mortsel"
+    ],
+    "name:hye_x_preferred":[
+        "\u0544\u0578\u0580\u057f\u057d\u0565\u056c"
     ],
     "name:ita_x_preferred":[
         "Mortsel"
@@ -76,14 +70,14 @@
     "name:lit_x_preferred":[
         "Mortselis"
     ],
+    "name:nld_x_preferred":[
+        "Mortsel"
+    ],
     "name:nob_x_preferred":[
         "Mortsel"
     ],
     "name:oci_x_preferred":[
         "Mortsel"
-    ],
-    "name:per_x_preferred":[
-        "\u0645\u0631\u062a\u0632\u0644"
     ],
     "name:pol_x_preferred":[
         "Mortsel"
@@ -91,13 +85,13 @@
     "name:por_x_preferred":[
         "Mortsel"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Mortsel"
     ],
     "name:rus_x_preferred":[
         "\u041c\u043e\u0440\u0442\u0441\u0435\u043b"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Mortsel"
     ],
     "name:slv_x_preferred":[
@@ -178,7 +172,7 @@
         }
     ],
     "wof:id":1125943925,
-    "wof:lastmodified":1513899418,
+    "wof:lastmodified":1561831439,
     "wof:name":"Mortsel",
     "wof:parent_id":1108830135,
     "wof:placetype":"locality",

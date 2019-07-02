@@ -22,19 +22,10 @@
     "name:deu_x_preferred":[
         "Erpe"
     ],
-    "name:dut_x_preferred":[
-        "Erpe"
-    ],
     "name:eng_x_preferred":[
         "Erpe"
     ],
     "name:fra_x_preferred":[
-        "Erpe"
-    ],
-    "name:fre_x_preferred":[
-        "Erpe"
-    ],
-    "name:ger_x_preferred":[
         "Erpe"
     ],
     "name:hun_x_preferred":[
@@ -102,7 +93,7 @@
         }
     ],
     "wof:id":101755335,
-    "wof:lastmodified":1527641701,
+    "wof:lastmodified":1561831402,
     "wof:name":"Erpe",
     "wof:parent_id":1108830215,
     "wof:placetype":"locality",

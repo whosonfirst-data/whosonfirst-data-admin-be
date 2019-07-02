@@ -17,9 +17,6 @@
     "mps:longitude":3.56014,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:baq_x_preferred":[
-        "Zomergem"
-    ],
     "name:bre_x_preferred":[
         "Zomergem"
     ],
@@ -29,10 +26,7 @@
     "name:cat_x_preferred":[
         "Zomergem"
     ],
-    "name:chi_x_preferred":[
-        "\u4f50\u9ed8\u6d77\u59c6"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Zomergem"
     ],
     "name:eng_x_preferred":[
@@ -48,10 +42,13 @@
     "name:est_x_preferred":[
         "Zomergem"
     ],
-    "name:fre_x_preferred":[
+    "name:eus_x_preferred":[
         "Zomergem"
     ],
-    "name:ger_x_preferred":[
+    "name:fas_x_preferred":[
+        "\u0632\u0648\u0645\u0631\u0698\u0645"
+    ],
+    "name:fra_x_preferred":[
         "Zomergem"
     ],
     "name:hun_x_preferred":[
@@ -60,25 +57,25 @@
     "name:ita_x_preferred":[
         "Zomergem"
     ],
+    "name:nld_x_preferred":[
+        "Zomergem"
+    ],
     "name:nob_x_preferred":[
         "Zomergem"
     ],
     "name:oci_x_preferred":[
         "Zomergem"
     ],
-    "name:per_x_preferred":[
-        "\u0632\u0648\u0645\u0631\u0698\u0645"
-    ],
     "name:por_x_preferred":[
         "Zomergem"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Zomergem"
     ],
     "name:rus_x_preferred":[
         "\u0417\u043e\u043c\u0435\u0440\u0433\u0435\u043c"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Zomergem"
     ],
     "name:spa_x_preferred":[
@@ -98,6 +95,9 @@
     ],
     "name:war_x_preferred":[
         "Zomergem"
+    ],
+    "name:zho_x_preferred":[
+        "\u4f50\u9ed8\u6d77\u59c6"
     ],
     "qs:a0":"Belgi\u00eb#Belgique#Belgien",
     "qs:a1":"*Oost-Vlanderen",
@@ -154,7 +154,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1553815518,
+    "wof:lastmodified":1561831431,
     "wof:name":"Zomergem",
     "wof:parent_id":1108830371,
     "wof:placetype":"locality",

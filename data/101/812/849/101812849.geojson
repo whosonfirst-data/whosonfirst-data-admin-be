@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000063,
-    "geom:area_square_m":498357.026059,
+    "geom:area_square_m":498357.026058,
     "geom:bbox":"5.65197222613,49.8478313483,5.67320304347,49.8555888983",
     "geom:latitude":49.851939,
     "geom:longitude":5.663861,
@@ -17,9 +17,6 @@
     "mps:longitude":5.664585,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:baq_x_preferred":[
-        "Fauvillers"
-    ],
     "name:bre_x_preferred":[
         "Fauvillers"
     ],
@@ -29,13 +26,7 @@
     "name:cat_x_preferred":[
         "Fauvillers"
     ],
-    "name:chi_x_preferred":[
-        "\u798f\u7ef4\u83b1\u5c14"
-    ],
     "name:deu_x_preferred":[
-        "Fauvillers"
-    ],
-    "name:dut_x_preferred":[
         "Fauvillers"
     ],
     "name:eng_x_preferred":[
@@ -54,12 +45,6 @@
         "\u0641\u0648\u0648\u06cc\u0647"
     ],
     "name:fra_x_preferred":[
-        "Fauvillers"
-    ],
-    "name:fre_x_preferred":[
-        "Fauvillers"
-    ],
-    "name:ger_x_preferred":[
         "Fauvillers"
     ],
     "name:hun_x_preferred":[
@@ -86,25 +71,16 @@
     "name:oci_x_preferred":[
         "Fauvillers"
     ],
-    "name:per_x_preferred":[
-        "\u0641\u0648\u0648\u06cc\u0647"
-    ],
     "name:por_x_preferred":[
         "Fauvillers"
     ],
     "name:ron_x_preferred":[
         "Fauvillers"
     ],
-    "name:rum_x_preferred":[
-        "Fauvillers"
-    ],
     "name:rus_x_preferred":[
         "\u0424\u043e\u0432\u0438\u043b\u043b\u0435"
     ],
     "name:slk_x_preferred":[
-        "Fauvillers"
-    ],
-    "name:slo_x_preferred":[
         "Fauvillers"
     ],
     "name:vie_x_preferred":[
@@ -171,7 +147,7 @@
         }
     ],
     "wof:id":101812849,
-    "wof:lastmodified":1527714870,
+    "wof:lastmodified":1561831422,
     "wof:name":"Fauvillers",
     "wof:parent_id":102049915,
     "wof:placetype":"locality",

@@ -21,16 +21,16 @@
     "name:cat_x_preferred":[
         "Meux"
     ],
-    "name:dut_x_preferred":[
-        "Meux"
-    ],
     "name:eng_x_preferred":[
         "Meux"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Meux"
     ],
     "name:ita_x_preferred":[
+        "Meux"
+    ],
+    "name:nld_x_preferred":[
         "Meux"
     ],
     "name:spa_x_preferred":[
@@ -94,7 +94,7 @@
         }
     ],
     "wof:id":1126031495,
-    "wof:lastmodified":1513899406,
+    "wof:lastmodified":1561831451,
     "wof:name":"Meux",
     "wof:parent_id":102049931,
     "wof:placetype":"locality",

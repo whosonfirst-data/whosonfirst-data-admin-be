@@ -17,9 +17,6 @@
     "mps:longitude":3.550132,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:baq_x_preferred":[
-        "Nevele"
-    ],
     "name:bre_x_preferred":[
         "Nevele"
     ],
@@ -29,13 +26,10 @@
     "name:cat_x_preferred":[
         "Nevele"
     ],
-    "name:chi_x_preferred":[
-        "\u5185\u5f17\u52d2"
-    ],
     "name:dan_x_preferred":[
         "Nevele"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Nevele"
     ],
     "name:eng_x_preferred":[
@@ -47,13 +41,16 @@
     "name:est_x_preferred":[
         "Nevele"
     ],
+    "name:eus_x_preferred":[
+        "Nevele"
+    ],
     "name:fao_x_preferred":[
         "Nevele"
     ],
-    "name:fre_x_preferred":[
-        "Nevele"
+    "name:fas_x_preferred":[
+        "\u0646\u0648\u0644"
     ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Nevele"
     ],
     "name:hun_x_preferred":[
@@ -68,6 +65,9 @@
     "name:lit_x_preferred":[
         "Nevel\u0117"
     ],
+    "name:nld_x_preferred":[
+        "Nevele"
+    ],
     "name:nno_x_preferred":[
         "Nevele"
     ],
@@ -77,19 +77,16 @@
     "name:oci_x_preferred":[
         "Nevele"
     ],
-    "name:per_x_preferred":[
-        "\u0646\u0648\u0644"
-    ],
     "name:por_x_preferred":[
         "Nevele"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Nevele"
     ],
     "name:sco_x_preferred":[
         "Nevele"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Nevele"
     ],
     "name:spa_x_preferred":[
@@ -106,6 +103,9 @@
     ],
     "name:war_x_preferred":[
         "Nevele"
+    ],
+    "name:zho_x_preferred":[
+        "\u5185\u5f17\u52d2"
     ],
     "qs:a0":"Belgi\u00eb#Belgique#Belgien",
     "qs:a1":"*Oost-Vlanderen",
@@ -161,7 +161,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1553815518,
+    "wof:lastmodified":1561831431,
     "wof:name":"Nevele",
     "wof:parent_id":1108830463,
     "wof:placetype":"locality",

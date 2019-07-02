@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000167,
-    "geom:area_square_m":1303742.236491,
+    "geom:area_square_m":1303742.23649,
     "geom:bbox":"4.306640625,50.833697671,4.33135986328,50.8441045198",
     "geom:latitude":50.839521,
     "geom:longitude":4.318819,
@@ -24,13 +24,10 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":5,
     "mz:tier_metro":30,
-    "name:dut_x_preferred":[
-        "Kuregem"
-    ],
     "name:eng_x_preferred":[
         "Cureghem / Kuregem"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Cureghem"
     ],
     "name:fre_x_variant":[
@@ -107,7 +104,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1513899221,
+    "wof:lastmodified":1561831366,
     "wof:name":"Cureghem",
     "wof:parent_id":101751573,
     "wof:placetype":"neighbourhood",

@@ -17,9 +17,6 @@
     "mps:longitude":4.789339,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:baq_x_preferred":[
-        "Hulshout"
-    ],
     "name:bre_x_preferred":[
         "Hulshout"
     ],
@@ -29,10 +26,7 @@
     "name:cat_x_preferred":[
         "Hulshout"
     ],
-    "name:chi_x_preferred":[
-        "\u8bb8\u5c14\u65af\u8c6a\u7279"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Hulshout"
     ],
     "name:eng_x_preferred":[
@@ -41,10 +35,13 @@
     "name:epo_x_preferred":[
         "Hulshout"
     ],
-    "name:fre_x_preferred":[
+    "name:eus_x_preferred":[
         "Hulshout"
     ],
-    "name:ger_x_preferred":[
+    "name:fas_x_preferred":[
+        "\u0627\u0648\u0644\u0634\u0648"
+    ],
+    "name:fra_x_preferred":[
         "Hulshout"
     ],
     "name:hun_x_preferred":[
@@ -53,22 +50,22 @@
     "name:ita_x_preferred":[
         "Hulshout"
     ],
+    "name:nld_x_preferred":[
+        "Hulshout"
+    ],
     "name:nob_x_preferred":[
         "Hulshout"
     ],
     "name:oci_x_preferred":[
         "Hulshout"
     ],
-    "name:per_x_preferred":[
-        "\u0627\u0648\u0644\u0634\u0648"
-    ],
     "name:por_x_preferred":[
         "Hulshout"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Hulshout"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Hulshout"
     ],
     "name:spa_x_preferred":[
@@ -85,6 +82,9 @@
     ],
     "name:war_x_preferred":[
         "Hulshout"
+    ],
+    "name:zho_x_preferred":[
+        "\u8bb8\u5c14\u65af\u8c6a\u7279"
     ],
     "qs:a0":"Belgi\u00eb#Belgique#Belgien",
     "qs:a1":"*Antwerpen",
@@ -136,7 +136,7 @@
         }
     ],
     "wof:id":101755811,
-    "wof:lastmodified":1553815478,
+    "wof:lastmodified":1561831398,
     "wof:name":"Hulshout",
     "wof:parent_id":1108830503,
     "wof:placetype":"locality",

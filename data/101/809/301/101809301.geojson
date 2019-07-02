@@ -22,16 +22,10 @@
     "name:ceb_x_preferred":[
         "Oostnieuwkerke"
     ],
-    "name:dut_x_preferred":[
-        "Oostnieuwkerke"
-    ],
     "name:eng_x_preferred":[
         "Oostnieuwkerke"
     ],
     "name:fra_x_preferred":[
-        "Oostnieuwkerke"
-    ],
-    "name:fre_x_preferred":[
         "Oostnieuwkerke"
     ],
     "name:hun_x_preferred":[
@@ -98,7 +92,7 @@
         }
     ],
     "wof:id":101809301,
-    "wof:lastmodified":1527715162,
+    "wof:lastmodified":1561831427,
     "wof:name":"Oostnieuwkerke",
     "wof:parent_id":1108830315,
     "wof:placetype":"locality",

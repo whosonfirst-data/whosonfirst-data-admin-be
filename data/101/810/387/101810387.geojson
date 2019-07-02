@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000285,
-    "geom:area_square_m":2242250.924772,
+    "geom:area_square_m":2242250.924771,
     "geom:bbox":"4.43450946247,50.5243544983,4.46297228434,50.554819913",
     "geom:latitude":50.53831,
     "geom:longitude":4.450116,
@@ -16,16 +16,10 @@
     "mps:longitude":4.448714,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:dut_x_preferred":[
-        "Frasnes-lez-Gosselies"
-    ],
     "name:eng_x_preferred":[
         "Frasnes-lez-Gosselies"
     ],
     "name:fra_x_preferred":[
-        "Frasnes-lez-Gosselies"
-    ],
-    "name:fre_x_preferred":[
         "Frasnes-lez-Gosselies"
     ],
     "name:hun_x_preferred":[
@@ -84,7 +78,7 @@
         }
     ],
     "wof:id":101810387,
-    "wof:lastmodified":1527642432,
+    "wof:lastmodified":1561831417,
     "wof:name":"Frasnes-lez-Gosselies",
     "wof:parent_id":102049927,
     "wof:placetype":"locality",

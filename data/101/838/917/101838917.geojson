@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000333,
-    "geom:area_square_m":2581593.017316,
+    "geom:area_square_m":2581593.017317,
     "geom:bbox":"2.60043653068,51.0927892195,2.62968095965,51.1169238471",
     "geom:latitude":51.104418,
     "geom:longitude":2.617169,
@@ -19,9 +19,6 @@
     "name:ceb_x_preferred":[
         "Sint-Idesbald"
     ],
-    "name:dut_x_preferred":[
-        "Sint-Idesbald"
-    ],
     "name:eng_x_preferred":[
         "Saint-Idesbald"
     ],
@@ -29,9 +26,6 @@
         "Sint-Idesbald"
     ],
     "name:fra_x_preferred":[
-        "Saint-Idesbald"
-    ],
-    "name:fre_x_preferred":[
         "Saint-Idesbald"
     ],
     "name:nld_x_preferred":[
@@ -96,7 +90,7 @@
         }
     ],
     "wof:id":101838917,
-    "wof:lastmodified":1527715136,
+    "wof:lastmodified":1561831427,
     "wof:name":"Sint-Idesbald",
     "wof:parent_id":1108830673,
     "wof:placetype":"locality",

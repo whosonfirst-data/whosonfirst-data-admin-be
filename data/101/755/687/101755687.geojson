@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000788,
-    "geom:area_square_m":6144423.847834,
+    "geom:area_square_m":6144423.847835,
     "geom:bbox":"3.42946665862,50.8994271755,3.48860847101,50.9301481969",
     "geom:latitude":50.914622,
     "geom:longitude":3.456561,
@@ -17,9 +17,6 @@
     "mps:longitude":3.452081,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:baq_x_preferred":[
-        "Zulte"
-    ],
     "name:bre_x_preferred":[
         "Zulte"
     ],
@@ -29,10 +26,7 @@
     "name:cat_x_preferred":[
         "Zulte"
     ],
-    "name:chi_x_preferred":[
-        "\u805a\u5c14\u7279"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Zulte"
     ],
     "name:eng_x_preferred":[
@@ -44,10 +38,13 @@
     "name:est_x_preferred":[
         "Zulte"
     ],
-    "name:fre_x_preferred":[
+    "name:eus_x_preferred":[
         "Zulte"
     ],
-    "name:ger_x_preferred":[
+    "name:fas_x_preferred":[
+        "\u0632\u0648\u0644\u062a"
+    ],
+    "name:fra_x_preferred":[
         "Zulte"
     ],
     "name:hun_x_preferred":[
@@ -62,25 +59,25 @@
     "name:lit_x_preferred":[
         "Ziult\u0117"
     ],
+    "name:nld_x_preferred":[
+        "Zulte"
+    ],
     "name:nob_x_preferred":[
         "Zulte"
     ],
     "name:oci_x_preferred":[
         "Zulte"
     ],
-    "name:per_x_preferred":[
-        "\u0632\u0648\u0644\u062a"
-    ],
     "name:por_x_preferred":[
         "Zulte"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Zulte"
     ],
     "name:rus_x_preferred":[
         "\u0417\u044e\u043b\u0442\u0435"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Zulte"
     ],
     "name:spa_x_preferred":[
@@ -100,6 +97,9 @@
     ],
     "name:war_x_preferred":[
         "Zulte"
+    ],
+    "name:zho_x_preferred":[
+        "\u805a\u5c14\u7279"
     ],
     "qs:a0":"Belgi\u00eb#Belgique#Belgien",
     "qs:a1":"*Oost-Vlanderen",
@@ -155,7 +155,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1553815478,
+    "wof:lastmodified":1561831398,
     "wof:name":"Zulte",
     "wof:parent_id":1108830563,
     "wof:placetype":"locality",

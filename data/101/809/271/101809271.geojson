@@ -22,19 +22,10 @@
     "name:deu_x_preferred":[
         "Geluwe"
     ],
-    "name:dut_x_preferred":[
-        "Geluwe"
-    ],
     "name:eng_x_preferred":[
         "Geluwe"
     ],
     "name:fra_x_preferred":[
-        "Geluwe"
-    ],
-    "name:fre_x_preferred":[
-        "Geluwe"
-    ],
-    "name:ger_x_preferred":[
         "Geluwe"
     ],
     "name:hun_x_preferred":[
@@ -100,7 +91,7 @@
         }
     ],
     "wof:id":101809271,
-    "wof:lastmodified":1527715176,
+    "wof:lastmodified":1561831430,
     "wof:name":"Geluwe",
     "wof:parent_id":1108830187,
     "wof:placetype":"locality",

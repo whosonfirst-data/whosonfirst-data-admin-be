@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00067,
-    "geom:area_square_m":5261095.46905,
+    "geom:area_square_m":5261095.469051,
     "geom:bbox":"5.65513823407,50.5443567812,5.69943283649,50.5771858802",
     "geom:latitude":50.559404,
     "geom:longitude":5.67698,
@@ -17,9 +17,6 @@
     "mps:longitude":5.673837,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:baq_x_preferred":[
-        "Trooz"
-    ],
     "name:bre_x_preferred":[
         "Trooz"
     ],
@@ -29,13 +26,7 @@
     "name:cat_x_preferred":[
         "Trooz"
     ],
-    "name:chi_x_preferred":[
-        "\u7279\u7f85"
-    ],
     "name:deu_x_preferred":[
-        "Trooz"
-    ],
-    "name:dut_x_preferred":[
         "Trooz"
     ],
     "name:eng_x_preferred":[
@@ -51,12 +42,6 @@
         "\u062a\u0631\u0648\u0632"
     ],
     "name:fra_x_preferred":[
-        "Trooz"
-    ],
-    "name:fre_x_preferred":[
-        "Trooz"
-    ],
-    "name:ger_x_preferred":[
         "Trooz"
     ],
     "name:hun_x_preferred":[
@@ -83,25 +68,16 @@
     "name:oci_x_preferred":[
         "Trooz"
     ],
-    "name:per_x_preferred":[
-        "\u062a\u0631\u0648\u0632"
-    ],
     "name:por_x_preferred":[
         "Trooz"
     ],
     "name:ron_x_preferred":[
         "Trooz"
     ],
-    "name:rum_x_preferred":[
-        "Trooz"
-    ],
     "name:rus_x_preferred":[
         "\u0422\u0440\u043e\u043e"
     ],
     "name:slk_x_preferred":[
-        "Trooz"
-    ],
-    "name:slo_x_preferred":[
         "Trooz"
     ],
     "name:vie_x_preferred":[
@@ -172,7 +148,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1527641696,
+    "wof:lastmodified":1561831397,
     "wof:name":"Trooz",
     "wof:parent_id":102049941,
     "wof:placetype":"locality",

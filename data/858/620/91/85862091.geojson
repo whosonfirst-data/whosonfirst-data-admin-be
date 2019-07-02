@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":2190014.814059,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.724284,51.054592,3.724284,51.054592",
     "geom:latitude":51.054592,
     "geom:longitude":3.724284,
@@ -23,13 +23,13 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":13.0,
     "mz:tier_locality":3,
-    "name:dut_x_preferred":[
-        "Patershol"
-    ],
     "name:eng_x_preferred":[
         "Patershol"
     ],
     "name:epo_x_preferred":[
+        "Patershol"
+    ],
+    "name:nld_x_preferred":[
         "Patershol"
     ],
     "name:rus_x_preferred":[
@@ -42,13 +42,13 @@
     ],
     "src:lbl:centroid":"yerbashapes",
     "wof:belongsto":[
-        85681733,
         102191581,
         1108830083,
         85632997,
         404227357,
         101748093,
-        102049989
+        102049989,
+        85681733
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -76,7 +76,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1531870541,
+    "wof:lastmodified":1561831363,
     "wof:name":"Patershol",
     "wof:parent_id":101748093,
     "wof:placetype":"neighbourhood",

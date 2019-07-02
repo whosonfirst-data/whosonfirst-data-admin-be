@@ -23,9 +23,6 @@
     "name:ara_x_preferred":[
         "\u062c\u064a\u0646\u0643"
     ],
-    "name:baq_x_preferred":[
-        "Genk"
-    ],
     "name:bel_x_variant":[
         "\u0413\u0435\u043d\u043a"
     ],
@@ -44,17 +41,11 @@
     "name:ces_x_preferred":[
         "Genk"
     ],
-    "name:chi_x_preferred":[
-        "\u4ea8\u514b"
-    ],
-    "name:cze_x_preferred":[
-        "Genk"
-    ],
     "name:deu_x_preferred":[
         "Genk"
     ],
-    "name:dut_x_preferred":[
-        "Genk"
+    "name:ell_x_preferred":[
+        "\u0393\u03ba\u03b5\u03bd\u03ba"
     ],
     "name:eng_x_preferred":[
         "Genk"
@@ -68,28 +59,16 @@
     "name:fas_x_preferred":[
         "\u062e\u0646\u06a9"
     ],
+    "name:fas_x_variant":[
+        "\u0698\u0627\u0646\u06a9"
+    ],
     "name:fin_x_preferred":[
         "Genk"
     ],
     "name:fra_x_preferred":[
         "Genk"
     ],
-    "name:fre_x_preferred":[
-        "Genk"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d2\u10d4\u10dc\u10d9\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Genk"
-    ],
-    "name:gre_x_preferred":[
-        "\u0393\u03ba\u03b5\u03bd\u03ba"
-    ],
     "name:hun_x_preferred":[
-        "Genk"
-    ],
-    "name:ice_x_preferred":[
         "Genk"
     ],
     "name:ind_x_preferred":[
@@ -116,9 +95,6 @@
     "name:lit_x_preferred":[
         "Genkas"
     ],
-    "name:may_x_preferred":[
-        "Genk"
-    ],
     "name:msa_x_preferred":[
         "Genk"
     ],
@@ -134,9 +110,6 @@
     "name:oci_x_preferred":[
         "Genk"
     ],
-    "name:per_x_preferred":[
-        "\u0698\u0627\u0646\u06a9"
-    ],
     "name:pol_x_preferred":[
         "Genk"
     ],
@@ -146,16 +119,10 @@
     "name:ron_x_preferred":[
         "Genk"
     ],
-    "name:rum_x_preferred":[
-        "Genk"
-    ],
     "name:rus_x_preferred":[
         "\u0413\u0435\u043d\u043a"
     ],
     "name:slk_x_preferred":[
-        "Genk"
-    ],
-    "name:slo_x_preferred":[
         "Genk"
     ],
     "name:spa_x_preferred":[
@@ -248,7 +215,7 @@
         }
     ],
     "wof:id":101854565,
-    "wof:lastmodified":1544742773,
+    "wof:lastmodified":1561831431,
     "wof:name":"Genk",
     "wof:parent_id":1108830655,
     "wof:placetype":"locality",

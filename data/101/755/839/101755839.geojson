@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000281,
-    "geom:area_square_m":2181583.908031,
+    "geom:area_square_m":2181583.908029,
     "geom:bbox":"4.80820338039,51.0456137276,4.86507228858,51.0720511892",
     "geom:latitude":51.061319,
     "geom:longitude":4.837222,
@@ -16,16 +16,16 @@
     "mps:longitude":4.839161,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:dut_x_preferred":[
-        "Westmeerbeek"
-    ],
     "name:eng_x_preferred":[
         "Westmeerbeek"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Westmeerbeek"
     ],
     "name:hun_x_preferred":[
+        "Westmeerbeek"
+    ],
+    "name:nld_x_preferred":[
         "Westmeerbeek"
     ],
     "qs:a0":"Belgi\u00eb#Belgique#Belgien",
@@ -76,7 +76,7 @@
         }
     ],
     "wof:id":101755839,
-    "wof:lastmodified":1513899580,
+    "wof:lastmodified":1561831406,
     "wof:name":"Westmeerbeek",
     "wof:parent_id":1108830503,
     "wof:placetype":"locality",

@@ -21,13 +21,13 @@
     "name:cat_x_preferred":[
         "Mons-lez-Li\u00e8ge"
     ],
-    "name:dut_x_preferred":[
-        "Mons-lez-Li\u00e8ge"
-    ],
     "name:eng_x_preferred":[
         "Mons-lez-Li\u00e8ge"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
+        "Mons-lez-Li\u00e8ge"
+    ],
+    "name:nld_x_preferred":[
         "Mons-lez-Li\u00e8ge"
     ],
     "name:swe_x_preferred":[
@@ -90,7 +90,7 @@
         }
     ],
     "wof:id":1125882615,
-    "wof:lastmodified":1553816599,
+    "wof:lastmodified":1561831454,
     "wof:name":"Mons-lez-Liege",
     "wof:parent_id":102049941,
     "wof:placetype":"locality",

@@ -21,20 +21,20 @@
     "name:bre_x_preferred":[
         "Heist-aan-Zee"
     ],
-    "name:dut_x_preferred":[
-        "Heist"
+    "name:deu_x_preferred":[
+        "Heist-aan-Zee"
     ],
     "name:eng_x_preferred":[
         "Heist-aan-Zee"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Heist"
-    ],
-    "name:ger_x_preferred":[
-        "Heist-aan-Zee"
     ],
     "name:hun_x_preferred":[
         "Heist-aan-Zee"
+    ],
+    "name:nld_x_preferred":[
+        "Heist"
     ],
     "name:por_x_preferred":[
         "Heist-aan-Zee"
@@ -104,7 +104,7 @@
         }
     ],
     "wof:id":1125953875,
-    "wof:lastmodified":1553816653,
+    "wof:lastmodified":1561831443,
     "wof:name":"Heist",
     "wof:parent_id":1108830675,
     "wof:placetype":"locality",

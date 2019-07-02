@@ -21,9 +21,6 @@
     "name:cat_x_preferred":[
         "Moelingen"
     ],
-    "name:dut_x_preferred":[
-        "Moelingen"
-    ],
     "name:eng_x_preferred":[
         "Moelingen"
     ],
@@ -32,9 +29,6 @@
     ],
     "name:fra_x_variant":[
         "Fourons (Mouland)"
-    ],
-    "name:fre_x_preferred":[
-        "Mouland"
     ],
     "name:hun_x_preferred":[
         "Moelingen"
@@ -104,7 +98,7 @@
         }
     ],
     "wof:id":1125781699,
-    "wof:lastmodified":1513899418,
+    "wof:lastmodified":1561831478,
     "wof:name":"Mouland",
     "wof:parent_id":1108830021,
     "wof:placetype":"locality",

@@ -16,16 +16,10 @@
     "mps:longitude":4.019055,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:dut_x_preferred":[
-        "Denderhoutem"
-    ],
     "name:eng_x_preferred":[
         "Denderhoutem"
     ],
     "name:fra_x_preferred":[
-        "Denderhautem"
-    ],
-    "name:fre_x_preferred":[
         "Denderhautem"
     ],
     "name:hun_x_preferred":[
@@ -89,7 +83,7 @@
         }
     ],
     "wof:id":101755327,
-    "wof:lastmodified":1535390420,
+    "wof:lastmodified":1561831406,
     "wof:name":"Denderhoutem",
     "wof:parent_id":1108830593,
     "wof:placetype":"locality",

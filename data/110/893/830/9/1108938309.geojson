@@ -21,9 +21,6 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
     "mz:tier_metro":30,
-    "name:dut_x_preferred":[
-        "Leopoldswijk"
-    ],
     "name:eng_x_preferred":[
         "Leopold Quarter"
     ],
@@ -33,7 +30,7 @@
     "name:fra_x_preferred":[
         "Quartier L\u00e9opold"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_variant":[
         "quartier L\u00e9opold"
     ],
     "name:nld_x_preferred":[
@@ -67,7 +64,7 @@
         }
     ],
     "wof:id":1108938309,
-    "wof:lastmodified":1513899466,
+    "wof:lastmodified":1561831384,
     "wof:name":"Quartier Leopold",
     "wof:parent_id":101751573,
     "wof:placetype":"neighbourhood",

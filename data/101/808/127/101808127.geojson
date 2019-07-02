@@ -19,16 +19,10 @@
     "name:ceb_x_preferred":[
         "Sijsele"
     ],
-    "name:dut_x_preferred":[
-        "Sijsele"
-    ],
     "name:eng_x_preferred":[
         "Sijsele"
     ],
     "name:fra_x_preferred":[
-        "Sijsele"
-    ],
-    "name:fre_x_preferred":[
         "Sijsele"
     ],
     "name:hun_x_preferred":[
@@ -99,7 +93,7 @@
         }
     ],
     "wof:id":101808127,
-    "wof:lastmodified":1527715335,
+    "wof:lastmodified":1561831433,
     "wof:name":"Sijsele",
     "wof:parent_id":1108830063,
     "wof:placetype":"locality",

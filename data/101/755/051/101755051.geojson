@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001102,
-    "geom:area_square_m":8673022.450921,
+    "geom:area_square_m":8673022.450922,
     "geom:bbox":"4.43358158006,50.434258,4.5062373147,50.4935867587",
     "geom:latitude":50.459322,
     "geom:longitude":4.482499,
@@ -19,16 +19,13 @@
     "name:ara_x_preferred":[
         "\u0631\u0627\u0646\u0633\u0627\u0631\u062a"
     ],
-    "name:dut_x_preferred":[
+    "name:cym_x_preferred":[
         "Ransart"
     ],
     "name:eng_x_preferred":[
         "Ransart"
     ],
     "name:fra_x_preferred":[
-        "Ransart"
-    ],
-    "name:fre_x_preferred":[
         "Ransart"
     ],
     "name:hun_x_preferred":[
@@ -42,9 +39,6 @@
     ],
     "name:unk_x_variant":[
         "Charleroi (Ransart)"
-    ],
-    "name:wel_x_preferred":[
-        "Ransart"
     ],
     "name:wln_x_preferred":[
         "El Rons\u00e5t"
@@ -100,7 +94,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1527641705,
+    "wof:lastmodified":1561831406,
     "wof:name":"Ransart",
     "wof:parent_id":102049927,
     "wof:placetype":"locality",

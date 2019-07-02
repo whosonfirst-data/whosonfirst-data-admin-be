@@ -20,9 +20,6 @@
     "name:ara_x_preferred":[
         "\u0647\u0648\u062e\u0633\u062a\u0631\u0627\u062a\u0646"
     ],
-    "name:baq_x_preferred":[
-        "Hoogstraten"
-    ],
     "name:bre_x_preferred":[
         "Hoogstraten"
     ],
@@ -35,16 +32,10 @@
     "name:ceb_x_preferred":[
         "Hoogstraten"
     ],
-    "name:chi_x_preferred":[
-        "\u970d\u8d6b\u65af\u7279\u62c9\u6ed5"
-    ],
     "name:dan_x_preferred":[
         "Hoogstraten"
     ],
     "name:deu_x_preferred":[
-        "Hoogstraten"
-    ],
-    "name:dut_x_preferred":[
         "Hoogstraten"
     ],
     "name:eng_x_preferred":[
@@ -65,12 +56,6 @@
     "name:fra_x_preferred":[
         "Hoogstraten"
     ],
-    "name:fre_x_preferred":[
-        "Hoogstraten"
-    ],
-    "name:ger_x_preferred":[
-        "Hoogstraten"
-    ],
     "name:ita_x_preferred":[
         "Hoogstraten"
     ],
@@ -89,9 +74,6 @@
     "name:oci_x_preferred":[
         "Hoogstraten"
     ],
-    "name:per_x_preferred":[
-        "\u0627\u0648\u06af\u0633\u062a\u0631\u062a\u0627\u0646"
-    ],
     "name:pol_x_preferred":[
         "Hoogstraten"
     ],
@@ -101,16 +83,10 @@
     "name:ron_x_preferred":[
         "Hoogstraten"
     ],
-    "name:rum_x_preferred":[
-        "Hoogstraten"
-    ],
     "name:rus_x_preferred":[
         "\u0425\u043e\u0433\u0441\u0442\u0440\u0430\u0442\u0435\u043d"
     ],
     "name:slk_x_preferred":[
-        "Hoogstraten"
-    ],
-    "name:slo_x_preferred":[
         "Hoogstraten"
     ],
     "name:spa_x_preferred":[
@@ -187,7 +163,7 @@
         }
     ],
     "wof:id":101837607,
-    "wof:lastmodified":1527715315,
+    "wof:lastmodified":1561831432,
     "wof:name":"Hoogstraten",
     "wof:parent_id":1108830373,
     "wof:placetype":"locality",

@@ -7,7 +7,7 @@
     "edtf:inception":"uuuu",
     "edtf:superseded":"2018-08-22",
     "geom:area":0.000279,
-    "geom:area_square_m":2162295.021755,
+    "geom:area_square_m":2162295.021756,
     "geom:bbox":"5.15537469194,51.1844962845,5.18963691929,51.2116909842",
     "geom:latitude":51.197589,
     "geom:longitude":5.174263,
@@ -22,9 +22,6 @@
     "name:afr_x_preferred":[
         "Balen"
     ],
-    "name:baq_x_preferred":[
-        "Balen"
-    ],
     "name:bre_x_preferred":[
         "Balen"
     ],
@@ -34,10 +31,7 @@
     "name:cat_x_preferred":[
         "Balen"
     ],
-    "name:chi_x_preferred":[
-        "\u5df4\u4f26"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Balen"
     ],
     "name:eng_x_preferred":[
@@ -46,10 +40,13 @@
     "name:epo_x_preferred":[
         "Balen"
     ],
-    "name:fre_x_preferred":[
+    "name:eus_x_preferred":[
         "Balen"
     ],
-    "name:ger_x_preferred":[
+    "name:fas_x_preferred":[
+        "\u0628\u0644\u0627\u0646"
+    ],
+    "name:fra_x_preferred":[
         "Balen"
     ],
     "name:hun_x_preferred":[
@@ -61,25 +58,25 @@
     "name:jpn_x_preferred":[
         "\u30d0\u30fc\u30ec\u30f3"
     ],
+    "name:nld_x_preferred":[
+        "Balen"
+    ],
     "name:nob_x_preferred":[
         "Balen"
     ],
     "name:oci_x_preferred":[
         "Balen"
     ],
-    "name:per_x_preferred":[
-        "\u0628\u0644\u0627\u0646"
-    ],
     "name:por_x_preferred":[
         "Balen"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Balen"
     ],
     "name:rus_x_preferred":[
         "\u0411\u0430\u043b\u0435\u043d"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Balen"
     ],
     "name:spa_x_preferred":[
@@ -96,6 +93,9 @@
     ],
     "name:war_x_preferred":[
         "Balen"
+    ],
+    "name:zho_x_preferred":[
+        "\u5df4\u4f26"
     ],
     "qs:a0":"Belgi\u00eb#Belgique#Belgien",
     "qs:a1":"*Antwerpen",
@@ -145,7 +145,7 @@
         }
     ],
     "wof:id":101913547,
-    "wof:lastmodified":1553815582,
+    "wof:lastmodified":1561831421,
     "wof:name":"Balen",
     "wof:parent_id":1108830147,
     "wof:placetype":"locality",

@@ -34,22 +34,13 @@
     "name:deu_x_preferred":[
         "Passendale"
     ],
-    "name:dut_x_preferred":[
-        "Passendale"
-    ],
     "name:eng_x_preferred":[
         "Passendale"
     ],
     "name:fra_x_preferred":[
         "Passendale"
     ],
-    "name:fre_x_preferred":[
-        "Passendale"
-    ],
     "name:fry_x_preferred":[
-        "Passendale"
-    ],
-    "name:ger_x_preferred":[
         "Passendale"
     ],
     "name:hun_x_preferred":[
@@ -71,9 +62,6 @@
         "Passendale"
     ],
     "name:ron_x_preferred":[
-        "Passendale"
-    ],
-    "name:rum_x_preferred":[
         "Passendale"
     ],
     "name:spa_x_preferred":[
@@ -143,7 +131,7 @@
         }
     ],
     "wof:id":101838759,
-    "wof:lastmodified":1527715130,
+    "wof:lastmodified":1561831425,
     "wof:name":"Passendale",
     "wof:parent_id":1108830101,
     "wof:placetype":"locality",

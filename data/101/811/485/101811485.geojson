@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000276,
-    "geom:area_square_m":2192658.585422,
+    "geom:area_square_m":2192658.585423,
     "geom:bbox":"5.10088244293,50.0633866942,5.14353747841,50.0913694317",
     "geom:latitude":50.08014,
     "geom:longitude":5.121029,
@@ -17,9 +17,6 @@
     "mps:longitude":5.117151,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:baq_x_preferred":[
-        "Wellin"
-    ],
     "name:bre_x_preferred":[
         "Wellin"
     ],
@@ -29,13 +26,7 @@
     "name:cat_x_preferred":[
         "Wellin"
     ],
-    "name:chi_x_preferred":[
-        "\u97e6\u5170"
-    ],
     "name:deu_x_preferred":[
-        "Wellin"
-    ],
-    "name:dut_x_preferred":[
         "Wellin"
     ],
     "name:eng_x_preferred":[
@@ -54,12 +45,6 @@
         "\u0648\u0648\u0644\u0646"
     ],
     "name:fra_x_preferred":[
-        "Wellin"
-    ],
-    "name:fre_x_preferred":[
-        "Wellin"
-    ],
-    "name:ger_x_preferred":[
         "Wellin"
     ],
     "name:hun_x_preferred":[
@@ -86,25 +71,16 @@
     "name:oci_x_preferred":[
         "Wellin"
     ],
-    "name:per_x_preferred":[
-        "\u0648\u0648\u0644\u0646"
-    ],
     "name:por_x_preferred":[
         "Wellin"
     ],
     "name:ron_x_preferred":[
         "Wellin"
     ],
-    "name:rum_x_preferred":[
-        "Wellin"
-    ],
     "name:rus_x_preferred":[
         "\u0412\u0435\u043b\u043b\u0435\u043d"
     ],
     "name:slk_x_preferred":[
-        "Wellin"
-    ],
-    "name:slo_x_preferred":[
         "Wellin"
     ],
     "name:vie_x_preferred":[
@@ -172,7 +148,7 @@
         }
     ],
     "wof:id":101811485,
-    "wof:lastmodified":1527642299,
+    "wof:lastmodified":1561831411,
     "wof:name":"Wellin",
     "wof:parent_id":102049913,
     "wof:placetype":"locality",

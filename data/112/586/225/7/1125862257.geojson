@@ -22,7 +22,7 @@
     "name:cat_x_preferred":[
         "Sint-Pieters-Voeren"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Sint-Pieters-Voeren"
     ],
     "name:eng_x_preferred":[
@@ -33,12 +33,6 @@
     ],
     "name:fra_x_variant":[
         "Fourons (Fouron-Saint-Pierre)"
-    ],
-    "name:fre_x_preferred":[
-        "Fouron-Saint-Pierre"
-    ],
-    "name:ger_x_preferred":[
-        "Sint-Pieters-Voeren"
     ],
     "name:hun_x_preferred":[
         "Sint-Pieters-Voeren"
@@ -98,7 +92,7 @@
         }
     ],
     "wof:id":1125862257,
-    "wof:lastmodified":1513899501,
+    "wof:lastmodified":1561831452,
     "wof:name":"Sint-Pieters-Voeren",
     "wof:parent_id":1108830021,
     "wof:placetype":"locality",

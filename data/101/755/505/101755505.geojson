@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000702,
-    "geom:area_square_m":5473111.364749,
+    "geom:area_square_m":5473111.36475,
     "geom:bbox":"4.23686339056,50.878948,4.29226338664,50.9142977219",
     "geom:latitude":50.893761,
     "geom:longitude":4.264828,
@@ -22,16 +22,10 @@
     "name:ceb_x_preferred":[
         "Zellik"
     ],
-    "name:dut_x_preferred":[
-        "Zellik"
-    ],
     "name:eng_x_preferred":[
         "Zellik"
     ],
     "name:fra_x_preferred":[
-        "Zellik"
-    ],
-    "name:fre_x_preferred":[
         "Zellik"
     ],
     "name:heb_x_preferred":[
@@ -100,7 +94,7 @@
         }
     ],
     "wof:id":101755505,
-    "wof:lastmodified":1527641696,
+    "wof:lastmodified":1561831397,
     "wof:name":"Zellik",
     "wof:parent_id":1108830421,
     "wof:placetype":"locality",

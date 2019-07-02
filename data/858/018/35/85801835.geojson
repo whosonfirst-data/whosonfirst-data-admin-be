@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":3283731.72157,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.294607,50.788575,4.294607,50.788575",
     "geom:latitude":50.788575,
     "geom:longitude":4.294607,
@@ -27,9 +27,6 @@
         "Ruisbroek"
     ],
     "name:ceb_x_preferred":[
-        "Ruisbroek"
-    ],
-    "name:dut_x_preferred":[
         "Ruisbroek"
     ],
     "name:fra_x_preferred":[
@@ -78,13 +75,13 @@
     "wd:longitude":4.2975,
     "wd:wordcount":158,
     "wof:belongsto":[
-        85681731,
         102191581,
         1108830529,
         85632997,
         404227357,
         101913243,
-        102049973
+        102049973,
+        85681731
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -113,7 +110,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1531862099,
+    "wof:lastmodified":1561831364,
     "wof:name":"Ruisbroek",
     "wof:parent_id":101913243,
     "wof:placetype":"neighbourhood",

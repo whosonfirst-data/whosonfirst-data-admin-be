@@ -18,16 +18,16 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
-    "name:dut_x_preferred":[
-        "Loonbeek"
-    ],
     "name:eng_x_preferred":[
         "Loonbeek"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Loonbeek"
     ],
     "name:hun_x_preferred":[
+        "Loonbeek"
+    ],
+    "name:nld_x_preferred":[
         "Loonbeek"
     ],
     "name:unk_x_variant":[
@@ -89,7 +89,7 @@
         }
     ],
     "wof:id":1125822913,
-    "wof:lastmodified":1513899381,
+    "wof:lastmodified":1561831475,
     "wof:name":"Loonbeek",
     "wof:parent_id":1108830025,
     "wof:placetype":"locality",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000371,
-    "geom:area_square_m":2899857.691974,
+    "geom:area_square_m":2899857.691975,
     "geom:bbox":"3.34903172139,50.7263905993,3.39149432073,50.7613655999",
     "geom:latitude":50.744378,
     "geom:longitude":3.371801,
@@ -16,16 +16,16 @@
     "mps:longitude":3.368262,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:dut_x_preferred":[
-        "Sint-Denijs"
-    ],
     "name:eng_x_preferred":[
         "Sint-Denijs"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Sint-Denijs"
     ],
     "name:hun_x_preferred":[
+        "Sint-Denijs"
+    ],
+    "name:nld_x_preferred":[
         "Sint-Denijs"
     ],
     "name:unk_x_variant":[
@@ -79,7 +79,7 @@
         }
     ],
     "wof:id":101810543,
-    "wof:lastmodified":1513899495,
+    "wof:lastmodified":1561831415,
     "wof:name":"Sint-Denijs",
     "wof:parent_id":1108830095,
     "wof:placetype":"locality",

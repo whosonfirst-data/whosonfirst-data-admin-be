@@ -26,9 +26,6 @@
     "name:deu_x_preferred":[
         "Beveren"
     ],
-    "name:dut_x_preferred":[
-        "Beveren"
-    ],
     "name:eng_x_preferred":[
         "Beveren"
     ],
@@ -132,7 +129,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1527715297,
+    "wof:lastmodified":1561831431,
     "wof:name":"Beveren",
     "wof:parent_id":1108830621,
     "wof:placetype":"locality",

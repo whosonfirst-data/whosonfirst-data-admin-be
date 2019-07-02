@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000424,
-    "geom:area_square_m":3318377.930814,
+    "geom:area_square_m":3318377.930815,
     "geom:bbox":"3.70705834368,50.7315849544,3.78121662234,50.753913802",
     "geom:latitude":50.739925,
     "geom:longitude":3.742072,
@@ -26,9 +26,6 @@
     "name:ast_x_preferred":[
         "Flobecq"
     ],
-    "name:baq_x_preferred":[
-        "Flobecq"
-    ],
     "name:bar_x_preferred":[
         "Flobecq"
     ],
@@ -41,10 +38,13 @@
     "name:cat_x_preferred":[
         "Flobecq"
     ],
+    "name:ces_x_preferred":[
+        "Flobecq"
+    ],
     "name:cos_x_preferred":[
         "Flobecq"
     ],
-    "name:cze_x_preferred":[
+    "name:cym_x_preferred":[
         "Flobecq"
     ],
     "name:dan_x_preferred":[
@@ -52,9 +52,6 @@
     ],
     "name:deu_x_preferred":[
         "Flobecq"
-    ],
-    "name:dut_x_preferred":[
-        "Vloesberg"
     ],
     "name:eng_x_preferred":[
         "Flobecq"
@@ -77,16 +74,10 @@
     "name:fra_x_preferred":[
         "Flobecq"
     ],
-    "name:fre_x_preferred":[
-        "Flobecq"
-    ],
     "name:frp_x_preferred":[
         "Flobecq"
     ],
     "name:fur_x_preferred":[
-        "Flobecq"
-    ],
-    "name:ger_x_preferred":[
         "Flobecq"
     ],
     "name:gla_x_preferred":[
@@ -107,9 +98,6 @@
     "name:hun_x_preferred":[
         "Flobecq"
     ],
-    "name:ice_x_preferred":[
-        "Flobecq"
-    ],
     "name:ido_x_preferred":[
         "Flobecq"
     ],
@@ -120,6 +108,9 @@
         "Flobecq"
     ],
     "name:ind_x_preferred":[
+        "Flobecq"
+    ],
+    "name:isl_x_preferred":[
         "Flobecq"
     ],
     "name:ita_x_preferred":[
@@ -137,13 +128,13 @@
     "name:ltz_x_preferred":[
         "Flobecq"
     ],
-    "name:may_x_preferred":[
-        "Flobecq"
-    ],
     "name:min_x_preferred":[
         "Flobecq"
     ],
     "name:mlg_x_preferred":[
+        "Flobecq"
+    ],
+    "name:msa_x_preferred":[
         "Flobecq"
     ],
     "name:nap_x_preferred":[
@@ -173,9 +164,6 @@
     "name:pcd_x_preferred":[
         "Flobecq"
     ],
-    "name:per_x_preferred":[
-        "\u0641\u0644\u0648\u0628\u0648\u06a9"
-    ],
     "name:pms_x_preferred":[
         "Flobecq"
     ],
@@ -191,9 +179,6 @@
     "name:ron_x_preferred":[
         "Flobecq"
     ],
-    "name:rum_x_preferred":[
-        "Flobecq"
-    ],
     "name:rus_x_preferred":[
         "\u0424\u043b\u043e\u0431\u0435\u043a"
     ],
@@ -204,9 +189,6 @@
         "Flobecq"
     ],
     "name:slk_x_preferred":[
-        "Flobecq"
-    ],
-    "name:slo_x_preferred":[
         "Flobecq"
     ],
     "name:slv_x_preferred":[
@@ -240,9 +222,6 @@
         "Flobecq"
     ],
     "name:war_x_preferred":[
-        "Flobecq"
-    ],
-    "name:wel_x_preferred":[
         "Flobecq"
     ],
     "name:wln_x_preferred":[
@@ -307,7 +286,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1527642424,
+    "wof:lastmodified":1561831415,
     "wof:name":"Flobecq",
     "wof:parent_id":102049949,
     "wof:placetype":"locality",

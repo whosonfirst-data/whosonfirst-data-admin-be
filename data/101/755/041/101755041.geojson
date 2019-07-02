@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000641,
-    "geom:area_square_m":5035502.003518,
+    "geom:area_square_m":5035502.003519,
     "geom:bbox":"5.20627824861,50.542134587,5.26552663625,50.5690608271",
     "geom:latitude":50.55581,
     "geom:longitude":5.238674,
@@ -16,16 +16,16 @@
     "mps:longitude":5.250463,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:dut_x_preferred":[
-        "Antheit"
-    ],
     "name:eng_x_preferred":[
         "Antheit"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Antheit"
     ],
     "name:hun_x_preferred":[
+        "Antheit"
+    ],
+    "name:nld_x_preferred":[
         "Antheit"
     ],
     "name:por_x_preferred":[
@@ -83,7 +83,7 @@
         }
     ],
     "wof:id":101755041,
-    "wof:lastmodified":1513899148,
+    "wof:lastmodified":1561831398,
     "wof:name":"Antheit",
     "wof:parent_id":102049925,
     "wof:placetype":"locality",

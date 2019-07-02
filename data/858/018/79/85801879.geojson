@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":20331952.368438,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.665007,51.014333,3.665007,51.014333",
     "geom:latitude":51.014333,
     "geom:longitude":3.665007,
@@ -23,15 +23,15 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":14.0,
     "mz:tier_locality":3,
-    "name:dut_x_preferred":[
-        "St. Denis-Westrem"
-    ],
     "name:dut_x_variant":[
         "Saint Denis-Westrem",
         "Sint-Denijs-Westrem",
         "St Denis-Westrem",
         "St-Denijs-Westrem",
         "St.-Denijs-Westrem"
+    ],
+    "name:nld_x_preferred":[
+        "St. Denis-Westrem"
     ],
     "name:unk_x_variant":[
         "Saint Denis-Westrem",
@@ -69,13 +69,13 @@
     ],
     "src:lbl:centroid":"yerbashapes",
     "wof:belongsto":[
-        85681733,
         102191581,
         1108830083,
         85632997,
         404227357,
         101755699,
-        102049989
+        102049989,
+        85681733
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -104,7 +104,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1531862105,
+    "wof:lastmodified":1561831365,
     "wof:name":"St. Denis-Westrem",
     "wof:parent_id":101755699,
     "wof:placetype":"neighbourhood",

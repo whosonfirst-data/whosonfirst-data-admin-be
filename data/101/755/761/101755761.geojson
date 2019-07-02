@@ -19,9 +19,6 @@
     "name:bre_x_preferred":[
         "Westmalle"
     ],
-    "name:dut_x_preferred":[
-        "Westmalle"
-    ],
     "name:eng_x_preferred":[
         "Westmalle"
     ],
@@ -29,9 +26,6 @@
         "Westmalle"
     ],
     "name:fra_x_preferred":[
-        "Westmalle"
-    ],
-    "name:fre_x_preferred":[
         "Westmalle"
     ],
     "name:hun_x_preferred":[
@@ -104,7 +98,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1535390420,
+    "wof:lastmodified":1561831403,
     "wof:name":"Westmalle",
     "wof:parent_id":1108830005,
     "wof:placetype":"locality",

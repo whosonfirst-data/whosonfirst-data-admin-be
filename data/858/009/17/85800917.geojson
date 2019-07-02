@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001148,
-    "geom:area_square_m":8967887.745097,
+    "geom:area_square_m":8967887.745096,
     "geom:bbox":"4.21698974609,50.818493344,4.27719357125,50.8493069128",
     "geom:latitude":50.833943,
     "geom:longitude":4.245274,
@@ -24,11 +24,11 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":5,
     "mz:tier_metro":30,
-    "name:dut_x_preferred":[
-        "Bon Air"
-    ],
     "name:dut_x_variant":[
         "Goede Lucht"
+    ],
+    "name:nld_x_preferred":[
+        "Bon Air"
     ],
     "name:unk_x_variant":[
         "Bon Air"
@@ -94,7 +94,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1527640603,
+    "wof:lastmodified":1561831364,
     "wof:name":"Bon Air",
     "wof:parent_id":101751573,
     "wof:placetype":"neighbourhood",

@@ -21,13 +21,10 @@
     "name:cat_x_preferred":[
         "Lixhe"
     ],
-    "name:dut_x_preferred":[
-        "Lieze"
-    ],
     "name:eng_x_preferred":[
         "Lixhe"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Lixhe"
     ],
     "name:hun_x_preferred":[
@@ -35,6 +32,9 @@
     ],
     "name:lim_x_preferred":[
         "Lixhe"
+    ],
+    "name:nld_x_preferred":[
+        "Lieze"
     ],
     "name:unk_x_variant":[
         "Lieze"
@@ -94,7 +94,7 @@
         }
     ],
     "wof:id":1126016869,
-    "wof:lastmodified":1513899373,
+    "wof:lastmodified":1561831467,
     "wof:name":"Lixhe",
     "wof:parent_id":102049941,
     "wof:placetype":"locality",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000729,
-    "geom:area_square_m":5642364.229335,
+    "geom:area_square_m":5642364.229336,
     "geom:bbox":"3.21336287143,51.2172064858,3.25852363886,51.2504260155",
     "geom:latitude":51.233182,
     "geom:longitude":3.234993,
@@ -27,9 +27,6 @@
     "name:deu_x_preferred":[
         "J\u00f3zef Bilczewski"
     ],
-    "name:dut_x_preferred":[
-        "St.-jozef"
-    ],
     "name:dut_x_variant":[
         "Sint-jozef",
         "St-jozef"
@@ -48,6 +45,9 @@
     ],
     "name:nld_x_preferred":[
         "J\u00f3zef Bilczewski"
+    ],
+    "name:nld_x_variant":[
+        "St.-jozef"
     ],
     "name:pol_x_preferred":[
         "J\u00f3zef Bilczewski"
@@ -126,7 +126,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1527269941,
+    "wof:lastmodified":1561831362,
     "wof:name":"St.-jozef",
     "wof:parent_id":101748097,
     "wof:placetype":"neighbourhood",

@@ -20,16 +20,10 @@
     "name:ceb_x_preferred":[
         "Wenduine"
     ],
-    "name:dut_x_preferred":[
-        "Wenduine"
-    ],
     "name:eng_x_preferred":[
         "Wenduine"
     ],
     "name:fra_x_preferred":[
-        "Wenduine"
-    ],
-    "name:fre_x_preferred":[
         "Wenduine"
     ],
     "name:hun_x_preferred":[
@@ -107,7 +101,7 @@
         }
     ],
     "wof:id":101808121,
-    "wof:lastmodified":1527715337,
+    "wof:lastmodified":1561831433,
     "wof:name":"Wenduine",
     "wof:parent_id":1108830685,
     "wof:placetype":"locality",

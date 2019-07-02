@@ -35,9 +35,6 @@
     "name:deu_x_preferred":[
         "Sint-Laureins"
     ],
-    "name:dut_x_preferred":[
-        "St.-Laureins"
-    ],
     "name:dut_x_variant":[
         "Sint-Laureins",
         "St-Laureins"
@@ -69,6 +66,9 @@
     ],
     "name:nld_x_preferred":[
         "Sint-Laureins"
+    ],
+    "name:nld_x_variant":[
+        "St.-Laureins"
     ],
     "name:nor_x_preferred":[
         "Sint-Laureins"
@@ -163,7 +163,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1527715174,
+    "wof:lastmodified":1561831429,
     "wof:name":"Sint-Laureins",
     "wof:parent_id":1108830091,
     "wof:placetype":"locality",

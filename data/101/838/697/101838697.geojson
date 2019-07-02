@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000955,
-    "geom:area_square_m":7458564.457489,
+    "geom:area_square_m":7458564.457487,
     "geom:bbox":"5.45099653303,50.8184965009,5.52806888088,50.8758545969",
     "geom:latitude":50.848956,
     "geom:longitude":5.488793,
@@ -20,9 +20,6 @@
     "name:afr_x_preferred":[
         "Hoeselt"
     ],
-    "name:baq_x_preferred":[
-        "Hoeselt"
-    ],
     "name:bre_x_preferred":[
         "Hoeselt"
     ],
@@ -35,13 +32,7 @@
     "name:ceb_x_preferred":[
         "Hoeselt"
     ],
-    "name:chi_x_preferred":[
-        "\u80e1\u745f\u5c14\u7279"
-    ],
     "name:deu_x_preferred":[
-        "Hoeselt"
-    ],
-    "name:dut_x_preferred":[
         "Hoeselt"
     ],
     "name:eng_x_preferred":[
@@ -57,12 +48,6 @@
         "\u0627\u0648\u06cc\u0632\u0644\u062a"
     ],
     "name:fra_x_preferred":[
-        "Hoeselt"
-    ],
-    "name:fre_x_preferred":[
-        "Hoeselt"
-    ],
-    "name:ger_x_preferred":[
         "Hoeselt"
     ],
     "name:hun_x_preferred":[
@@ -86,22 +71,13 @@
     "name:oci_x_preferred":[
         "Hoeselt"
     ],
-    "name:per_x_preferred":[
-        "\u0627\u0648\u06cc\u0632\u0644\u062a"
-    ],
     "name:por_x_preferred":[
         "Hoeselt"
     ],
     "name:ron_x_preferred":[
         "Hoeselt"
     ],
-    "name:rum_x_preferred":[
-        "Hoeselt"
-    ],
     "name:slk_x_preferred":[
-        "Hoeselt"
-    ],
-    "name:slo_x_preferred":[
         "Hoeselt"
     ],
     "name:swe_x_preferred":[
@@ -175,7 +151,7 @@
         }
     ],
     "wof:id":101838697,
-    "wof:lastmodified":1527715133,
+    "wof:lastmodified":1561831426,
     "wof:name":"Hoeselt",
     "wof:parent_id":1108830661,
     "wof:placetype":"locality",

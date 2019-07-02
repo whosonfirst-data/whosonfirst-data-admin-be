@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000114,
-    "geom:area_square_m":886854.041204,
+    "geom:area_square_m":886854.041205,
     "geom:bbox":"4.20773389758,50.9259889654,4.23154916702,50.9366664583",
     "geom:latitude":50.932136,
     "geom:longitude":4.220503,
@@ -22,16 +22,10 @@
     "name:ceb_x_preferred":[
         "Mollem"
     ],
-    "name:dut_x_preferred":[
-        "Mollem"
-    ],
     "name:eng_x_preferred":[
         "Mollem"
     ],
     "name:fra_x_preferred":[
-        "Mollem"
-    ],
-    "name:fre_x_preferred":[
         "Mollem"
     ],
     "name:hun_x_preferred":[
@@ -98,7 +92,7 @@
         }
     ],
     "wof:id":101809285,
-    "wof:lastmodified":1527715176,
+    "wof:lastmodified":1561831430,
     "wof:name":"Mollem",
     "wof:parent_id":1108830421,
     "wof:placetype":"locality",

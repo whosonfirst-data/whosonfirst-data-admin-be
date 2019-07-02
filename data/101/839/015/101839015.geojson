@@ -22,9 +22,6 @@
     "name:ceb_x_preferred":[
         "Bazel"
     ],
-    "name:dut_x_preferred":[
-        "Bazel"
-    ],
     "name:eng_x_preferred":[
         "Bazel"
     ],
@@ -32,9 +29,6 @@
         "Bazel"
     ],
     "name:fra_x_preferred":[
-        "Bazel"
-    ],
-    "name:fre_x_preferred":[
         "Bazel"
     ],
     "name:hun_x_preferred":[
@@ -101,7 +95,7 @@
         }
     ],
     "wof:id":101839015,
-    "wof:lastmodified":1527715390,
+    "wof:lastmodified":1561831433,
     "wof:name":"Bazel",
     "wof:parent_id":1108830395,
     "wof:placetype":"locality",

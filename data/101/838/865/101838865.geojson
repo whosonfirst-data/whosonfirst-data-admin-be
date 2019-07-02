@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000388,
-    "geom:area_square_m":3012509.493678,
+    "geom:area_square_m":3012509.493677,
     "geom:bbox":"4.05508102037,51.0897870225,4.10877286041,51.1269843894",
     "geom:latitude":51.107315,
     "geom:longitude":4.081988,
@@ -17,9 +17,6 @@
     "mps:longitude":4.087259,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:baq_x_preferred":[
-        "Waasmunster"
-    ],
     "name:bre_x_preferred":[
         "Waasmunster"
     ],
@@ -29,13 +26,7 @@
     "name:cat_x_preferred":[
         "Waasmunster"
     ],
-    "name:chi_x_preferred":[
-        "\u74e6\u65af\u660e\u65af\u7279\u5c14"
-    ],
     "name:deu_x_preferred":[
-        "Waasmunster"
-    ],
-    "name:dut_x_preferred":[
         "Waasmunster"
     ],
     "name:eng_x_preferred":[
@@ -56,12 +47,6 @@
     "name:fra_x_preferred":[
         "Waasmunster"
     ],
-    "name:fre_x_preferred":[
-        "Waasmunster"
-    ],
-    "name:ger_x_preferred":[
-        "Waasmunster"
-    ],
     "name:hun_x_preferred":[
         "Waasmunster"
     ],
@@ -80,16 +65,10 @@
     "name:oci_x_preferred":[
         "Waasmunster"
     ],
-    "name:per_x_preferred":[
-        "\u0627\u0648\u0626\u0632\u0645\u0627\u0646\u0633\u062a\u0647"
-    ],
     "name:por_x_preferred":[
         "Waasmunster"
     ],
     "name:ron_x_preferred":[
-        "Waasmunster"
-    ],
-    "name:rum_x_preferred":[
         "Waasmunster"
     ],
     "name:rus_x_preferred":[
@@ -99,9 +78,6 @@
         "Waasmunster"
     ],
     "name:slk_x_preferred":[
-        "Waasmunster"
-    ],
-    "name:slo_x_preferred":[
         "Waasmunster"
     ],
     "name:spa_x_preferred":[
@@ -172,7 +148,7 @@
         }
     ],
     "wof:id":101838865,
-    "wof:lastmodified":1527715133,
+    "wof:lastmodified":1561831426,
     "wof:name":"Waasmunster",
     "wof:parent_id":1108830461,
     "wof:placetype":"locality",

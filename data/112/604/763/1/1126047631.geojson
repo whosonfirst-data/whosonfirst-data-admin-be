@@ -18,17 +18,17 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
-    "name:dut_x_preferred":[
-        "Sint-Idesbald"
-    ],
     "name:eng_x_preferred":[
         "Saint-Idesbald"
     ],
     "name:est_x_preferred":[
         "Sint-Idesbald"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Saint-Idesbald"
+    ],
+    "name:nld_x_preferred":[
+        "Sint-Idesbald"
     ],
     "name:swe_x_preferred":[
         "Sint-Idesbald"
@@ -98,7 +98,7 @@
         }
     ],
     "wof:id":1126047631,
-    "wof:lastmodified":1513899513,
+    "wof:lastmodified":1561831448,
     "wof:name":"St.-Idesbald",
     "wof:parent_id":1108830673,
     "wof:placetype":"locality",

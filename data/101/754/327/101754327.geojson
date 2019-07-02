@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000802,
-    "geom:area_square_m":6254307.282022,
+    "geom:area_square_m":6254307.282023,
     "geom:bbox":"4.49331957903,50.8670075083,4.57162384846,50.8989453014",
     "geom:latitude":50.88253,
     "geom:longitude":4.535583,
@@ -17,9 +17,6 @@
     "mps:longitude":4.536299,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:baq_x_preferred":[
-        "Kortenberg"
-    ],
     "name:bre_x_preferred":[
         "Kortenberg"
     ],
@@ -29,13 +26,7 @@
     "name:cat_x_preferred":[
         "Kortenberg"
     ],
-    "name:chi_x_preferred":[
-        "\u79d1\u6ed5\u8d1d\u8d6b"
-    ],
     "name:deu_x_preferred":[
-        "Kortenberg"
-    ],
-    "name:dut_x_preferred":[
         "Kortenberg"
     ],
     "name:eng_x_preferred":[
@@ -51,12 +42,6 @@
         "\u06a9\u0648\u0631\u062a\u0627\u0646\u0628\u0631\u06af"
     ],
     "name:fra_x_preferred":[
-        "Kortenberg"
-    ],
-    "name:fre_x_preferred":[
-        "Kortenberg"
-    ],
-    "name:ger_x_preferred":[
         "Kortenberg"
     ],
     "name:hun_x_preferred":[
@@ -80,22 +65,13 @@
     "name:oci_x_preferred":[
         "Kortenberg"
     ],
-    "name:per_x_preferred":[
-        "\u06a9\u0648\u0631\u062a\u0627\u0646\u0628\u0631\u06af"
-    ],
     "name:por_x_preferred":[
         "Kortenberg"
     ],
     "name:ron_x_preferred":[
         "Kortenberg"
     ],
-    "name:rum_x_preferred":[
-        "Kortenberg"
-    ],
     "name:slk_x_preferred":[
-        "Kortenberg"
-    ],
-    "name:slo_x_preferred":[
         "Kortenberg"
     ],
     "name:spa_x_preferred":[
@@ -167,7 +143,7 @@
         }
     ],
     "wof:id":101754327,
-    "wof:lastmodified":1527641868,
+    "wof:lastmodified":1561831410,
     "wof:name":"Kortenberg",
     "wof:parent_id":1108830227,
     "wof:placetype":"locality",

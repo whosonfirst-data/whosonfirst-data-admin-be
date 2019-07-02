@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000576,
-    "geom:area_square_m":4491996.75719,
+    "geom:area_square_m":4491996.757191,
     "geom:bbox":"4.17893076132,50.8913576157,4.22496332195,50.9197689772",
     "geom:latitude":50.905059,
     "geom:longitude":4.201242,
@@ -22,9 +22,6 @@
     ],
     "name:aze_x_preferred":[
         "Sent-Etyen AS"
-    ],
-    "name:baq_x_preferred":[
-        "Asse"
     ],
     "name:bel_x_preferred":[
         "\u0424\u041a \u0421\u0435\u043d\u0442-\u042d\u0446\u044c\u0435\u043d"
@@ -47,16 +44,13 @@
     "name:ces_x_preferred":[
         "AS Saint-\u00c9tienne"
     ],
-    "name:chi_x_preferred":[
-        "\u963f\u745f"
-    ],
     "name:dan_x_preferred":[
         "AS Saint-\u00c9tienne"
     ],
     "name:deu_x_preferred":[
         "AS Saint-\u00c9tienne"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_variant":[
         "Asse"
     ],
     "name:eng_x_preferred":[
@@ -65,16 +59,16 @@
     "name:epo_x_preferred":[
         "Asse"
     ],
+    "name:eus_x_preferred":[
+        "Asse"
+    ],
     "name:fao_x_preferred":[
         "Asse"
     ],
     "name:fas_x_preferred":[
         "\u0627\u0633"
     ],
-    "name:fre_x_preferred":[
-        "Asse"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Asse"
     ],
     "name:hun_x_preferred":[
@@ -95,8 +89,11 @@
     "name:lit_x_preferred":[
         "As\u0117"
     ],
-    "name:mac_x_preferred":[
+    "name:mkd_x_preferred":[
         "\u0410\u0441\u0435"
+    ],
+    "name:nld_x_preferred":[
+        "Asse"
     ],
     "name:nno_x_preferred":[
         "Asse"
@@ -107,13 +104,10 @@
     "name:oci_x_preferred":[
         "Asse"
     ],
-    "name:per_x_preferred":[
-        "\u0627\u0633"
-    ],
     "name:por_x_preferred":[
         "Asse"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Asse"
     ],
     "name:rus_x_preferred":[
@@ -122,7 +116,7 @@
     "name:rus_x_variant":[
         "\u0410\u0441\u0441\u0435"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Asse"
     ],
     "name:spa_x_preferred":[
@@ -196,7 +190,7 @@
         }
     ],
     "wof:id":101755501,
-    "wof:lastmodified":1553815478,
+    "wof:lastmodified":1561831402,
     "wof:name":"Asse",
     "wof:parent_id":1108830421,
     "wof:placetype":"locality",

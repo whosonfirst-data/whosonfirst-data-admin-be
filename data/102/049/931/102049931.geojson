@@ -31,12 +31,6 @@
     "name:arg_x_preferred":[
         "Provincia de Nameur"
     ],
-    "name:arm_x_preferred":[
-        "\u0546\u0561\u0574\u0575\u0578\u0582\u0580"
-    ],
-    "name:baq_x_preferred":[
-        "Namurreko probintzia"
-    ],
     "name:bar_x_preferred":[
         "Provinz Namur"
     ],
@@ -55,17 +49,20 @@
     "name:cat_x_preferred":[
         "Prov\u00edncia de Namur"
     ],
-    "name:chi_x_preferred":[
-        "\u90a3\u6155\u723e\u7701"
+    "name:ces_x_preferred":[
+        "Namur"
     ],
-    "name:cze_x_preferred":[
+    "name:cym_x_preferred":[
         "Namur"
     ],
     "name:dan_x_preferred":[
         "Namur"
     ],
-    "name:dut_x_preferred":[
-        "Provincie Namen"
+    "name:deu_x_preferred":[
+        "Provinz Namur"
+    ],
+    "name:ell_x_preferred":[
+        "\u039d\u03b1\u03bc\u03cd\u03c1"
     ],
     "name:eng_x_preferred":[
         "Namur"
@@ -76,26 +73,23 @@
     "name:est_x_preferred":[
         "Namuri provints"
     ],
+    "name:eus_x_preferred":[
+        "Namurreko probintzia"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0633\u062a\u0627\u0646 \u0646\u0645\u0648\u0631"
+    ],
     "name:fin_x_preferred":[
         "Namurin l\u00e4\u00e4ni"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "province de Namur"
     ],
     "name:fry_x_preferred":[
         "Namen"
     ],
-    "name:geo_x_preferred":[
-        "\u10dc\u10d0\u10db\u10d8\u10e3\u10e0\u10d8\u10e1 \u10de\u10e0\u10dd\u10d5\u10d8\u10dc\u10ea\u10d8\u10d0"
-    ],
-    "name:ger_x_preferred":[
-        "Provinz Namur"
-    ],
     "name:glg_x_preferred":[
         "Provincia de Namur"
-    ],
-    "name:gre_x_preferred":[
-        "\u039d\u03b1\u03bc\u03cd\u03c1"
     ],
     "name:guj_x_preferred":[
         "\u0aa8\u0abe\u0aae\u0ac1\u0ab0"
@@ -109,6 +103,9 @@
     "name:hun_x_preferred":[
         "Namur"
     ],
+    "name:hye_x_preferred":[
+        "\u0546\u0561\u0574\u0575\u0578\u0582\u0580"
+    ],
     "name:ind_x_preferred":[
         "Namur"
     ],
@@ -120,6 +117,9 @@
     ],
     "name:kan_x_preferred":[
         "\u0ca8\u0cbe\u0cae\u0cc1\u0cb0\u0ccd"
+    ],
+    "name:kat_x_preferred":[
+        "\u10dc\u10d0\u10db\u10d8\u10e3\u10e0\u10d8\u10e1 \u10de\u10e0\u10dd\u10d5\u10d8\u10dc\u10ea\u10d8\u10d0"
     ],
     "name:kor_x_preferred":[
         "\ub098\ubb34\ub974 \uc8fc"
@@ -145,20 +145,20 @@
     "name:mar_x_preferred":[
         "\u0928\u093e\u092e\u0941\u0930"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Namur"
     ],
     "name:nan_x_preferred":[
         "Namur S\u00e9ng"
+    ],
+    "name:nld_x_preferred":[
+        "Provincie Namen"
     ],
     "name:nob_x_preferred":[
         "Namur"
     ],
     "name:oci_x_preferred":[
         "Prov\u00edncia de Namur"
-    ],
-    "name:per_x_preferred":[
-        "\u0627\u0633\u062a\u0627\u0646 \u0646\u0645\u0648\u0631"
     ],
     "name:pnb_x_preferred":[
         "\u0635\u0648\u0628\u06c1 \u0646\u0627\u0645\u0648\u0631"
@@ -169,7 +169,7 @@
     "name:por_x_preferred":[
         "Namur"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Namur"
     ],
     "name:rus_x_preferred":[
@@ -181,7 +181,7 @@
     "name:sin_x_preferred":[
         "\u0db1\u0db8\u0dd4\u0dbb\u0dca"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Namursko"
     ],
     "name:spa_x_preferred":[
@@ -223,11 +223,11 @@
     "name:war_x_preferred":[
         "Namur"
     ],
-    "name:wel_x_preferred":[
-        "Namur"
-    ],
     "name:wln_x_preferred":[
         "Province di Nameur"
+    ],
+    "name:zho_x_preferred":[
+        "\u90a3\u6155\u723e\u7701"
     ],
     "qs:a0":"Belgi\u00c3\u00ab#Belgique#Belgien",
     "qs:a0_lc":"BE000000",
@@ -282,7 +282,7 @@
         }
     ],
     "wof:id":102049931,
-    "wof:lastmodified":1553716262,
+    "wof:lastmodified":1561831355,
     "wof:name":"Namur",
     "wof:parent_id":85681699,
     "wof:placetype":"county",

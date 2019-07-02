@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000323,
-    "geom:area_square_m":2521490.443987,
+    "geom:area_square_m":2521490.443986,
     "geom:bbox":"5.25343855167,50.801087903,5.31525507775,50.8200678439",
     "geom:latitude":50.809268,
     "geom:longitude":5.283921,
@@ -16,16 +16,16 @@
     "mps:longitude":5.288604,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:dut_x_preferred":[
-        "Hoepertingen"
-    ],
     "name:eng_x_preferred":[
         "Hoepertingen"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Hoepertingen"
     ],
     "name:hun_x_preferred":[
+        "Hoepertingen"
+    ],
+    "name:nld_x_preferred":[
         "Hoepertingen"
     ],
     "name:unk_x_variant":[
@@ -79,7 +79,7 @@
         }
     ],
     "wof:id":101838685,
-    "wof:lastmodified":1513899315,
+    "wof:lastmodified":1561831426,
     "wof:name":"Hoepertingen",
     "wof:parent_id":1108830359,
     "wof:placetype":"locality",

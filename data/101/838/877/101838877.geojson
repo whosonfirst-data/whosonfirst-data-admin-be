@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000322,
-    "geom:area_square_m":2499222.202006,
+    "geom:area_square_m":2499222.202005,
     "geom:bbox":"3.72618173229,51.1682825957,3.75666131189,51.1915813484",
     "geom:latitude":51.179454,
     "geom:longitude":3.743597,
@@ -22,16 +22,10 @@
     "name:ceb_x_preferred":[
         "Ertvelde"
     ],
-    "name:dut_x_preferred":[
-        "Ertvelde"
-    ],
     "name:eng_x_preferred":[
         "Ertvelde"
     ],
     "name:fra_x_preferred":[
-        "Ertvelde"
-    ],
-    "name:fre_x_preferred":[
         "Ertvelde"
     ],
     "name:hun_x_preferred":[
@@ -93,7 +87,7 @@
         }
     ],
     "wof:id":101838877,
-    "wof:lastmodified":1527715131,
+    "wof:lastmodified":1561831425,
     "wof:name":"Ertvelde",
     "wof:parent_id":1108830413,
     "wof:placetype":"locality",

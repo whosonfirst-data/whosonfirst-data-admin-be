@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000394,
-    "geom:area_square_m":3103441.675312,
+    "geom:area_square_m":3103441.675313,
     "geom:bbox":"4.5968573508,50.4269760965,4.62194266384,50.4561819987",
     "geom:latitude":50.43988,
     "geom:longitude":4.607684,
@@ -19,19 +19,16 @@
     "name:bre_x_preferred":[
         "Tamines"
     ],
-    "name:dut_x_preferred":[
-        "Tamines"
-    ],
     "name:eng_x_preferred":[
         "Tamines"
     ],
     "name:fra_x_preferred":[
         "Tamines"
     ],
-    "name:fre_x_preferred":[
+    "name:hun_x_preferred":[
         "Tamines"
     ],
-    "name:hun_x_preferred":[
+    "name:nld_x_preferred":[
         "Tamines"
     ],
     "name:unk_x_variant":[
@@ -90,7 +87,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1513899520,
+    "wof:lastmodified":1561831404,
     "wof:name":"Tamines",
     "wof:parent_id":102049931,
     "wof:placetype":"locality",

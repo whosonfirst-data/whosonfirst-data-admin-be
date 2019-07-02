@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000461,
-    "geom:area_square_m":3575241.546386,
+    "geom:area_square_m":3575241.546385,
     "geom:bbox":"4.06889320079,51.1353387872,4.11826003518,51.1736123403",
     "geom:latitude":51.150728,
     "geom:longitude":4.091014,
@@ -22,16 +22,10 @@
     "name:ceb_x_preferred":[
         "Belsele"
     ],
-    "name:dut_x_preferred":[
-        "Belsele"
-    ],
     "name:eng_x_preferred":[
         "Belsele"
     ],
     "name:fra_x_preferred":[
-        "Belsele"
-    ],
-    "name:fre_x_preferred":[
         "Belsele"
     ],
     "name:hun_x_preferred":[
@@ -99,7 +93,7 @@
         }
     ],
     "wof:id":101839017,
-    "wof:lastmodified":1527715401,
+    "wof:lastmodified":1561831435,
     "wof:name":"Belsele",
     "wof:parent_id":1108830559,
     "wof:placetype":"locality",

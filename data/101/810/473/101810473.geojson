@@ -17,9 +17,6 @@
     "mps:longitude":4.134699,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:baq_x_preferred":[
-        "Braine-le-Comte"
-    ],
     "name:bar_x_preferred":[
         "Braine-le-Comte"
     ],
@@ -38,9 +35,6 @@
     "name:deu_x_preferred":[
         "Braine-le-Comte"
     ],
-    "name:dut_x_preferred":[
-        "'s-Gravenbrakel"
-    ],
     "name:eng_x_preferred":[
         "Braine-le-Comte"
     ],
@@ -57,12 +51,6 @@
         "\u0628\u0631\u0646\u200c\u0644\u0648\u06a9\u0645\u062a"
     ],
     "name:fra_x_preferred":[
-        "Braine-le-Comte"
-    ],
-    "name:fre_x_preferred":[
-        "Braine-le-Comte"
-    ],
-    "name:ger_x_preferred":[
         "Braine-le-Comte"
     ],
     "name:hun_x_preferred":[
@@ -95,16 +83,10 @@
     "name:pcd_x_preferred":[
         "Brinne-in-H\u00e9nau"
     ],
-    "name:per_x_preferred":[
-        "\u0628\u0631\u0646\u200c\u0644\u0648\u06a9\u0645\u062a"
-    ],
     "name:por_x_preferred":[
         "Braine-le-Comte"
     ],
     "name:ron_x_preferred":[
-        "Braine-le-Comte"
-    ],
-    "name:rum_x_preferred":[
         "Braine-le-Comte"
     ],
     "name:rus_x_preferred":[
@@ -114,9 +96,6 @@
         "\u0411\u0440\u0435\u043c-\u043b\u0435-\u041a\u043e\u043d\u0442"
     ],
     "name:slk_x_preferred":[
-        "Braine-le-Comte"
-    ],
-    "name:slo_x_preferred":[
         "Braine-le-Comte"
     ],
     "name:spa_x_preferred":[
@@ -193,7 +172,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1535390431,
+    "wof:lastmodified":1561831416,
     "wof:name":"Braine-le-Comte",
     "wof:parent_id":102049943,
     "wof:placetype":"locality",

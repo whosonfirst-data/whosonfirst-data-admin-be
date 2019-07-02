@@ -22,16 +22,16 @@
     "name:bul_x_preferred":[
         "\u0413\u0430\u0441\u0431\u0435\u043a"
     ],
-    "name:dut_x_preferred":[
-        "Gaasbeek"
-    ],
     "name:eng_x_preferred":[
         "Gaasbeek"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Gaasbeek"
     ],
     "name:hun_x_preferred":[
+        "Gaasbeek"
+    ],
+    "name:nld_x_preferred":[
         "Gaasbeek"
     ],
     "name:rus_x_preferred":[
@@ -100,7 +100,7 @@
         }
     ],
     "wof:id":1125829833,
-    "wof:lastmodified":1513899272,
+    "wof:lastmodified":1561831474,
     "wof:name":"Gaasbeek",
     "wof:parent_id":1108830469,
     "wof:placetype":"locality",

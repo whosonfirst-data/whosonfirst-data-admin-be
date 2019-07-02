@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000776,
-    "geom:area_square_m":6035930.655586,
+    "geom:area_square_m":6035930.655584,
     "geom:bbox":"5.35420006436,50.9679539783,5.39048947608,51.0122090112",
     "geom:latitude":50.991932,
     "geom:longitude":5.373507,
@@ -20,9 +20,6 @@
     "name:afr_x_preferred":[
         "Zonhoven"
     ],
-    "name:baq_x_preferred":[
-        "Zonhoven"
-    ],
     "name:bre_x_preferred":[
         "Zonhoven"
     ],
@@ -32,10 +29,7 @@
     "name:cat_x_preferred":[
         "Zonhoven"
     ],
-    "name:chi_x_preferred":[
-        "\u5b97\u970d\u82ac"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Zonhoven"
     ],
     "name:eng_x_preferred":[
@@ -44,16 +38,13 @@
     "name:epo_x_preferred":[
         "Zonhoven"
     ],
+    "name:eus_x_preferred":[
+        "Zonhoven"
+    ],
     "name:fas_x_preferred":[
         "\u0632\u0648\u0646\u0648\u0648\u0627\u0646"
     ],
     "name:fra_x_preferred":[
-        "Zonhoven"
-    ],
-    "name:fre_x_preferred":[
-        "Zonhoven"
-    ],
-    "name:ger_x_preferred":[
         "Zonhoven"
     ],
     "name:hun_x_preferred":[
@@ -86,19 +77,16 @@
     "name:oci_x_preferred":[
         "Zonhoven"
     ],
-    "name:per_x_preferred":[
-        "\u0632\u0648\u0646\u0648\u0648\u0627\u0646"
-    ],
     "name:por_x_preferred":[
         "Zonhoven"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Zonhoven"
     ],
     "name:rus_x_preferred":[
         "\u0417\u043e\u043d\u0445\u043e\u0432\u0435\u043d"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Zonhoven"
     ],
     "name:spa_x_preferred":[
@@ -173,7 +161,7 @@
         }
     ],
     "wof:id":101838775,
-    "wof:lastmodified":1527715135,
+    "wof:lastmodified":1561831427,
     "wof:name":"Zonhoven",
     "wof:parent_id":1108830153,
     "wof:placetype":"locality",

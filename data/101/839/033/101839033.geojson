@@ -19,16 +19,10 @@
     "name:bre_x_preferred":[
         "Westkerke"
     ],
-    "name:dut_x_preferred":[
-        "Westkerke"
-    ],
     "name:eng_x_preferred":[
         "Westkerke"
     ],
     "name:fra_x_preferred":[
-        "Westkerke"
-    ],
-    "name:fre_x_preferred":[
         "Westkerke"
     ],
     "name:hun_x_preferred":[
@@ -89,7 +83,7 @@
         }
     ],
     "wof:id":101839033,
-    "wof:lastmodified":1527715402,
+    "wof:lastmodified":1561831436,
     "wof:name":"Westkerke",
     "wof:parent_id":1108830363,
     "wof:placetype":"locality",

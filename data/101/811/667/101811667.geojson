@@ -22,9 +22,6 @@
     "name:ceb_x_preferred":[
         "Sivry"
     ],
-    "name:dut_x_preferred":[
-        "Sivry"
-    ],
     "name:eng_x_preferred":[
         "Sivry"
     ],
@@ -32,9 +29,6 @@
         "Sivry"
     ],
     "name:fra_x_preferred":[
-        "Sivry"
-    ],
-    "name:fre_x_preferred":[
         "Sivry"
     ],
     "name:hun_x_preferred":[
@@ -156,7 +150,7 @@
         }
     ],
     "wof:id":101811667,
-    "wof:lastmodified":1527642301,
+    "wof:lastmodified":1561831412,
     "wof:name":"Sivry",
     "wof:parent_id":102049923,
     "wof:placetype":"locality",

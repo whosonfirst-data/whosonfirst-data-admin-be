@@ -20,12 +20,6 @@
     "name:ara_x_preferred":[
         "\u062f\u064a\u0646\u0627\u0646\u062a"
     ],
-    "name:arm_x_preferred":[
-        "\u0534\u056b\u0576\u0561\u0576\u057f"
-    ],
-    "name:baq_x_preferred":[
-        "Dinant"
-    ],
     "name:bel_x_preferred":[
         "\u0414\u044b\u043d\u0430\u043d"
     ],
@@ -41,25 +35,22 @@
     "name:ces_x_preferred":[
         "Dinant"
     ],
-    "name:chi_x_preferred":[
-        "\u8fea\u5357"
-    ],
-    "name:cze_x_preferred":[
-        "Dinant"
-    ],
     "name:dan_x_preferred":[
         "Dinant"
     ],
     "name:deu_x_preferred":[
         "Dinant"
     ],
-    "name:dut_x_preferred":[
-        "Dinant"
+    "name:ell_x_preferred":[
+        "\u039d\u03c4\u03b9\u03bd\u03ac\u03bd"
     ],
     "name:eng_x_preferred":[
         "Dinant"
     ],
     "name:epo_x_preferred":[
+        "Dinant"
+    ],
+    "name:eus_x_preferred":[
         "Dinant"
     ],
     "name:fas_x_preferred":[
@@ -71,20 +62,14 @@
     "name:fra_x_preferred":[
         "Dinant"
     ],
-    "name:fre_x_preferred":[
-        "Dinant"
-    ],
-    "name:ger_x_preferred":[
-        "Dinant"
-    ],
-    "name:gre_x_preferred":[
-        "\u039d\u03c4\u03b9\u03bd\u03ac\u03bd"
-    ],
     "name:heb_x_preferred":[
         "\u05d3\u05d9\u05e0\u05d0\u05df"
     ],
     "name:hun_x_preferred":[
         "Dinant"
+    ],
+    "name:hye_x_preferred":[
+        "\u0534\u056b\u0576\u0561\u0576\u057f"
     ],
     "name:ita_x_preferred":[
         "Dinant"
@@ -119,9 +104,6 @@
     "name:oci_x_preferred":[
         "Dinant"
     ],
-    "name:per_x_preferred":[
-        "\u062f\u06cc\u0646\u0627\u0646"
-    ],
     "name:pol_x_preferred":[
         "Dinant"
     ],
@@ -131,13 +113,10 @@
     "name:ron_x_preferred":[
         "Dinant"
     ],
-    "name:rum_x_preferred":[
-        "Dinant"
-    ],
     "name:rus_x_preferred":[
         "\u0414\u0438\u043d\u0430\u043d"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Dinant"
     ],
     "name:slv_x_preferred":[
@@ -222,7 +201,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1513899236,
+    "wof:lastmodified":1561831412,
     "wof:name":"Dinant",
     "wof:parent_id":102049919,
     "wof:placetype":"locality",

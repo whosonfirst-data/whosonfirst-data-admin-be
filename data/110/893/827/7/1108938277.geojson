@@ -21,13 +21,10 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":13.0,
     "mz:tier_metro":30,
-    "name:dut_x_preferred":[
-        "Vijfhoek"
-    ],
     "name:eng_x_preferred":[
         "Pentagon"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Pentagone"
     ],
     "name:heb_x_preferred":[
@@ -35,6 +32,9 @@
     ],
     "name:ita_x_preferred":[
         "Pentagono"
+    ],
+    "name:nld_x_preferred":[
+        "Vijfhoek"
     ],
     "src:lbl:centroid":"mz",
     "wof:belongsto":[
@@ -64,7 +64,7 @@
         }
     ],
     "wof:id":1108938277,
-    "wof:lastmodified":1513899458,
+    "wof:lastmodified":1561831384,
     "wof:name":"Pentagone",
     "wof:parent_id":101751573,
     "wof:placetype":"neighbourhood",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000835,
-    "geom:area_square_m":6486754.1891,
+    "geom:area_square_m":6486754.189098,
     "geom:bbox":"5.74227117378,51.087899184,5.81523528354,51.1169703121",
     "geom:latitude":51.101646,
     "geom:longitude":5.782631,
@@ -23,12 +23,6 @@
     "name:ara_x_preferred":[
         "\u0645\u0627\u0633\u0627\u064a\u0643"
     ],
-    "name:arm_x_preferred":[
-        "\u0544\u0561\u0561\u057d\u0565\u0575\u056f"
-    ],
-    "name:baq_x_preferred":[
-        "Maaseik"
-    ],
     "name:bel_x_preferred":[
         "\u041c\u0430\u0430\u0441\u0435\u0439\u043a"
     ],
@@ -41,10 +35,7 @@
     "name:cat_x_preferred":[
         "Maaseik"
     ],
-    "name:chi_x_preferred":[
-        "\u9a6c\u585e\u514b"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Maaseik"
     ],
     "name:dan_x_preferred":[
@@ -53,8 +44,8 @@
     "name:deu_x_preferred":[
         "Maaseik"
     ],
-    "name:dut_x_preferred":[
-        "Maaseik"
+    "name:ell_x_preferred":[
+        "\u039c\u03ac\u03b1\u03c3\u03b5\u03ca\u03ba"
     ],
     "name:eng_x_preferred":[
         "Maeseyck"
@@ -65,26 +56,26 @@
     "name:epo_x_preferred":[
         "Maaseik"
     ],
+    "name:eus_x_preferred":[
+        "Maaseik"
+    ],
     "name:fas_x_preferred":[
         "\u0645\u0627\u0632\u06a9"
     ],
+    "name:fas_x_variant":[
+        "\u0645\u0632\u06a9"
+    ],
     "name:fra_x_preferred":[
         "Maaseik"
-    ],
-    "name:fre_x_preferred":[
-        "Maaseik"
-    ],
-    "name:ger_x_preferred":[
-        "Maaseik"
-    ],
-    "name:gre_x_preferred":[
-        "\u039c\u03ac\u03b1\u03c3\u03b5\u03ca\u03ba"
     ],
     "name:heb_x_preferred":[
         "\u05de\u05e1\u05d9\u05e7"
     ],
     "name:hun_x_preferred":[
         "Maaseik"
+    ],
+    "name:hye_x_preferred":[
+        "\u0544\u0561\u0561\u057d\u0565\u0575\u056f"
     ],
     "name:ita_x_preferred":[
         "Maaseik"
@@ -119,22 +110,19 @@
     "name:oci_x_preferred":[
         "Maaseik"
     ],
-    "name:per_x_preferred":[
-        "\u0645\u0632\u06a9"
-    ],
     "name:pol_x_preferred":[
         "Maaseik"
     ],
     "name:por_x_preferred":[
         "Maaseik"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Maaseik"
     ],
     "name:rus_x_preferred":[
         "\u041c\u0430\u0430\u0441\u0435\u0439\u043a"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Maaseik"
     ],
     "name:slv_x_preferred":[
@@ -224,7 +212,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1513899385,
+    "wof:lastmodified":1561831429,
     "wof:name":"Maaseik",
     "wof:parent_id":1108830133,
     "wof:placetype":"locality",

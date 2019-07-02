@@ -19,22 +19,13 @@
     "name:ceb_x_preferred":[
         "Tielen"
     ],
-    "name:chi_x_preferred":[
-        "\u8482\u4f26"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Tielen"
     ],
     "name:eng_x_preferred":[
         "Tielen"
     ],
     "name:fra_x_preferred":[
-        "Tielen"
-    ],
-    "name:fre_x_preferred":[
-        "Tielen"
-    ],
-    "name:ger_x_preferred":[
         "Tielen"
     ],
     "name:hun_x_preferred":[
@@ -110,7 +101,7 @@
         }
     ],
     "wof:id":101809475,
-    "wof:lastmodified":1535390523,
+    "wof:lastmodified":1561831430,
     "wof:name":"Tielen",
     "wof:parent_id":1108830677,
     "wof:placetype":"locality",

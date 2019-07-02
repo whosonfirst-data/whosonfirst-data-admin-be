@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00104,
-    "geom:area_square_m":8171557.345989,
+    "geom:area_square_m":8171557.34599,
     "geom:bbox":"5.53779311688,50.5085506239,5.60132485872,50.5535608509",
     "geom:latitude":50.531796,
     "geom:longitude":5.570872,
@@ -17,9 +17,6 @@
     "mps:longitude":5.574361,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:baq_x_preferred":[
-        "Esneux"
-    ],
     "name:bre_x_preferred":[
         "Esneux"
     ],
@@ -29,10 +26,7 @@
     "name:cat_x_preferred":[
         "Esneux"
     ],
-    "name:chi_x_preferred":[
-        "\u57c3\u65af\u8bb7"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Esneux"
     ],
     "name:eng_x_preferred":[
@@ -44,16 +38,13 @@
     "name:est_x_preferred":[
         "Esneux vald"
     ],
+    "name:eus_x_preferred":[
+        "Esneux"
+    ],
     "name:fas_x_preferred":[
         "\u0627\u0633\u0646\u0648"
     ],
     "name:fra_x_preferred":[
-        "Esneux"
-    ],
-    "name:fre_x_preferred":[
-        "Esneux"
-    ],
-    "name:ger_x_preferred":[
         "Esneux"
     ],
     "name:hun_x_preferred":[
@@ -68,14 +59,14 @@
     "name:lim_x_preferred":[
         "Esneux"
     ],
+    "name:nld_x_preferred":[
+        "Esneux"
+    ],
     "name:nob_x_preferred":[
         "Esneux"
     ],
     "name:oci_x_preferred":[
         "Esneux"
-    ],
-    "name:per_x_preferred":[
-        "\u0627\u0633\u0646\u0648"
     ],
     "name:pol_x_preferred":[
         "Esneux"
@@ -83,13 +74,13 @@
     "name:por_x_preferred":[
         "Esneux"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Esneux"
     ],
     "name:rus_x_preferred":[
         "\u042d\u043d\u0451"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Esneux"
     ],
     "name:vie_x_preferred":[
@@ -160,7 +151,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1527641707,
+    "wof:lastmodified":1561831408,
     "wof:name":"Esneux",
     "wof:parent_id":102049941,
     "wof:placetype":"locality",

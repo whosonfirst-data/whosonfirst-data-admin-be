@@ -24,7 +24,7 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":16.0,
     "mz:tier_locality":4,
-    "name:dut_x_preferred":[
+    "name:nld_x_preferred":[
         "Kristus-koning"
     ],
     "name:unk_x_variant":[
@@ -92,7 +92,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1527269994,
+    "wof:lastmodified":1561831363,
     "wof:name":"Kristus-koning",
     "wof:parent_id":101748097,
     "wof:placetype":"neighbourhood",

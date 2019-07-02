@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":26747751.549975,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.494573,51.312451,4.494573,51.312451",
     "geom:latitude":51.312451,
     "geom:longitude":4.494573,
@@ -23,9 +23,6 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":14.0,
     "mz:tier_locality":1,
-    "name:dut_x_preferred":[
-        "Lage Kaart"
-    ],
     "name:eng_x_preferred":[
         "Leege Kaart"
     ],
@@ -45,7 +42,8 @@
     "name:nld_x_variant":[
         "Caert",
         "Leeghe Caert",
-        "Kaart"
+        "Kaart",
+        "Lage Kaart"
     ],
     "name:unk_x_variant":[
         "Lege-Kaart",
@@ -84,13 +82,13 @@
     ],
     "src:lbl:centroid":"yerbashapes",
     "wof:belongsto":[
-        85681715,
         102191581,
         1108830619,
         85632997,
         404227357,
         101755759,
-        102050005
+        102050005,
+        85681715
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -117,7 +115,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1531862083,
+    "wof:lastmodified":1561831362,
     "wof:name":"Lage Kaart",
     "wof:parent_id":101755759,
     "wof:placetype":"neighbourhood",

@@ -17,9 +17,6 @@
     "mps:longitude":3.258644,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:baq_x_preferred":[
-        "Pittem"
-    ],
     "name:bre_x_preferred":[
         "Pittem"
     ],
@@ -29,16 +26,10 @@
     "name:cat_x_preferred":[
         "Pittem"
     ],
-    "name:chi_x_preferred":[
-        "\u76ae\u7279\u59c6"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Pittem"
     ],
     "name:deu_x_preferred":[
-        "Pittem"
-    ],
-    "name:dut_x_preferred":[
         "Pittem"
     ],
     "name:eng_x_preferred":[
@@ -57,12 +48,6 @@
         "\u067e\u06cc\u062a\u0645"
     ],
     "name:fra_x_preferred":[
-        "Pittem"
-    ],
-    "name:fre_x_preferred":[
-        "Pittem"
-    ],
-    "name:ger_x_preferred":[
         "Pittem"
     ],
     "name:hun_x_preferred":[
@@ -86,9 +71,6 @@
     "name:oci_x_preferred":[
         "Pittem"
     ],
-    "name:per_x_preferred":[
-        "\u067e\u06cc\u062a\u0645"
-    ],
     "name:pol_x_preferred":[
         "Pittem"
     ],
@@ -98,16 +80,10 @@
     "name:ron_x_preferred":[
         "Pittem"
     ],
-    "name:rum_x_preferred":[
-        "Pittem"
-    ],
     "name:rus_x_preferred":[
         "\u041f\u0438\u0442\u0442\u0435\u043c"
     ],
     "name:slk_x_preferred":[
-        "Pittem"
-    ],
-    "name:slo_x_preferred":[
         "Pittem"
     ],
     "name:ukr_x_preferred":[
@@ -186,7 +162,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1527715181,
+    "wof:lastmodified":1561831431,
     "wof:name":"Pittem",
     "wof:parent_id":1108830635,
     "wof:placetype":"locality",

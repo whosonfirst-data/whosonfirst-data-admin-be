@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000169,
-    "geom:area_square_m":1313791.041794,
+    "geom:area_square_m":1313791.041795,
     "geom:bbox":"4.46009918241,50.9684468953,4.48279527789,50.9839495574",
     "geom:latitude":50.974755,
     "geom:longitude":4.47219,
@@ -16,16 +16,10 @@
     "mps:longitude":4.472964,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:dut_x_preferred":[
-        "Weerde"
-    ],
     "name:eng_x_preferred":[
         "Weerde"
     ],
     "name:fra_x_preferred":[
-        "Weerde"
-    ],
-    "name:fre_x_preferred":[
         "Weerde"
     ],
     "name:hun_x_preferred":[
@@ -35,9 +29,6 @@
         "Weerde"
     ],
     "name:ron_x_preferred":[
-        "Weerde"
-    ],
-    "name:rum_x_preferred":[
         "Weerde"
     ],
     "name:unk_x_variant":[
@@ -95,7 +86,7 @@
         }
     ],
     "wof:id":101758535,
-    "wof:lastmodified":1527689302,
+    "wof:lastmodified":1561831421,
     "wof:name":"Weerde",
     "wof:parent_id":1108830589,
     "wof:placetype":"locality",

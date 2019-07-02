@@ -21,7 +21,7 @@
     "name:eng_x_preferred":[
         "Lausprelle"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Lausprelle"
     ],
     "qs_pg:aaroncc":"BE",
@@ -74,7 +74,7 @@
         }
     ],
     "wof:id":1125991983,
-    "wof:lastmodified":1513899357,
+    "wof:lastmodified":1561831461,
     "wof:name":"Lausprelle",
     "wof:parent_id":102049927,
     "wof:placetype":"locality",

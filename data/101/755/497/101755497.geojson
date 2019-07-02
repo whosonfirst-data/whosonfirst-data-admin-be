@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000559,
-    "geom:area_square_m":4353530.990615,
+    "geom:area_square_m":4353530.990614,
     "geom:bbox":"4.48752079233,50.9473339099,4.52699482142,50.9790255881",
     "geom:latitude":50.967158,
     "geom:longitude":4.504743,
@@ -19,20 +19,14 @@
     "name:ceb_x_preferred":[
         "Elewijt"
     ],
-    "name:dut_x_preferred":[
-        "Elewijt"
+    "name:ell_x_preferred":[
+        "\u0388\u03bb\u03b5\u03b2\u03b1\u03ca\u03c4"
     ],
     "name:eng_x_preferred":[
         "Elewijt"
     ],
     "name:fra_x_preferred":[
         "Elewijt"
-    ],
-    "name:fre_x_preferred":[
-        "Elewijt"
-    ],
-    "name:gre_x_preferred":[
-        "\u0388\u03bb\u03b5\u03b2\u03b1\u03ca\u03c4"
     ],
     "name:hun_x_preferred":[
         "Elewijt"
@@ -41,9 +35,6 @@
         "Elewijt"
     ],
     "name:ron_x_preferred":[
-        "Elewijt"
-    ],
-    "name:rum_x_preferred":[
         "Elewijt"
     ],
     "name:swe_x_preferred":[
@@ -104,7 +95,7 @@
         }
     ],
     "wof:id":101755497,
-    "wof:lastmodified":1527641698,
+    "wof:lastmodified":1561831399,
     "wof:name":"Elewijt",
     "wof:parent_id":1108830589,
     "wof:placetype":"locality",

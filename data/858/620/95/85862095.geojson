@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003497,
-    "geom:area_square_m":27103784.337907,
+    "geom:area_square_m":27103784.337909,
     "geom:bbox":"3.13483642578,51.146954238,3.22401580463,51.2120448439",
     "geom:latitude":51.182603,
     "geom:longitude":3.185037,
@@ -24,12 +24,12 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":13.0,
     "mz:tier_locality":4,
-    "name:dut_x_preferred":[
-        "St.-baafs"
-    ],
     "name:dut_x_variant":[
         "Sint-baafs",
         "St-baafs"
+    ],
+    "name:nld_x_preferred":[
+        "St.-baafs"
     ],
     "name:unk_x_variant":[
         "St.-baafs"
@@ -96,7 +96,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1527269994,
+    "wof:lastmodified":1561831363,
     "wof:name":"St.-baafs",
     "wof:parent_id":101748097,
     "wof:placetype":"neighbourhood",

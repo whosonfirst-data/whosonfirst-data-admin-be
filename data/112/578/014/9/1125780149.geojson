@@ -18,22 +18,22 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Soiron"
     ],
     "name:eng_x_preferred":[
         "Soiron"
     ],
-    "name:fre_x_preferred":[
-        "Soiron"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Soiron"
     ],
     "name:lim_x_preferred":[
         "Soiron"
     ],
     "name:ltz_x_preferred":[
+        "Soiron"
+    ],
+    "name:nld_x_preferred":[
         "Soiron"
     ],
     "name:wln_x_preferred":[
@@ -91,7 +91,7 @@
         }
     ],
     "wof:id":1125780149,
-    "wof:lastmodified":1513899507,
+    "wof:lastmodified":1561831479,
     "wof:name":"Soiron",
     "wof:parent_id":102049935,
     "wof:placetype":"locality",

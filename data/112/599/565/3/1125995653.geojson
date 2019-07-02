@@ -24,13 +24,7 @@
     "name:arg_x_preferred":[
         "Wilrijk"
     ],
-    "name:arm_x_preferred":[
-        "\u054e\u056b\u056c\u0580\u0565\u0575\u0584"
-    ],
     "name:ast_x_preferred":[
-        "Wilrijk"
-    ],
-    "name:baq_x_preferred":[
         "Wilrijk"
     ],
     "name:bar_x_preferred":[
@@ -45,16 +39,19 @@
     "name:cat_x_preferred":[
         "Wilrijk"
     ],
+    "name:ces_x_preferred":[
+        "Wilrijk"
+    ],
     "name:cos_x_preferred":[
         "Wilrijk"
     ],
-    "name:cze_x_preferred":[
+    "name:cym_x_preferred":[
         "Wilrijk"
     ],
     "name:dan_x_preferred":[
         "Wilrijk"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Wilrijk"
     ],
     "name:eng_x_preferred":[
@@ -66,19 +63,19 @@
     "name:est_x_preferred":[
         "Wilrijk"
     ],
+    "name:eus_x_preferred":[
+        "Wilrijk"
+    ],
     "name:fin_x_preferred":[
         "Wilrijk"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Wilrijk"
     ],
     "name:frp_x_preferred":[
         "Wilrijk"
     ],
     "name:fur_x_preferred":[
-        "Wilrijk"
-    ],
-    "name:ger_x_preferred":[
         "Wilrijk"
     ],
     "name:gla_x_preferred":[
@@ -99,8 +96,8 @@
     "name:hun_x_preferred":[
         "Wilrijk"
     ],
-    "name:ice_x_preferred":[
-        "Wilrijk"
+    "name:hye_x_preferred":[
+        "\u054e\u056b\u056c\u0580\u0565\u0575\u0584"
     ],
     "name:ido_x_preferred":[
         "Wilrijk"
@@ -112,6 +109,9 @@
         "Wilrijk"
     ],
     "name:ind_x_preferred":[
+        "Wilrijk"
+    ],
+    "name:isl_x_preferred":[
         "Wilrijk"
     ],
     "name:ita_x_preferred":[
@@ -132,19 +132,22 @@
     "name:ltz_x_preferred":[
         "Wilrijk"
     ],
-    "name:may_x_preferred":[
-        "Wilrijk"
-    ],
     "name:min_x_preferred":[
         "Wilrijk"
     ],
     "name:mlg_x_preferred":[
         "Wilrijk"
     ],
+    "name:msa_x_preferred":[
+        "Wilrijk"
+    ],
     "name:nap_x_preferred":[
         "Wilrijk"
     ],
     "name:nds_x_preferred":[
+        "Wilrijk"
+    ],
+    "name:nld_x_preferred":[
         "Wilrijk"
     ],
     "name:nno_x_preferred":[
@@ -174,7 +177,7 @@
     "name:roh_x_preferred":[
         "Wilrijk"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Wilrijk"
     ],
     "name:rus_x_preferred":[
@@ -186,7 +189,7 @@
     "name:sco_x_preferred":[
         "Wilrijk"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Wilrijk"
     ],
     "name:slv_x_preferred":[
@@ -217,9 +220,6 @@
         "Wilrijk"
     ],
     "name:vol_x_preferred":[
-        "Wilrijk"
-    ],
-    "name:wel_x_preferred":[
         "Wilrijk"
     ],
     "name:wln_x_preferred":[
@@ -290,7 +290,7 @@
         }
     ],
     "wof:id":1125995653,
-    "wof:lastmodified":1513899585,
+    "wof:lastmodified":1561831461,
     "wof:name":"Wilrijk",
     "wof:parent_id":1108830423,
     "wof:placetype":"locality",

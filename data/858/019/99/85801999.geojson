@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":4358099.682693,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.494585,50.841194,4.494585,50.841194",
     "geom:latitude":50.841194,
     "geom:longitude":4.494585,
@@ -35,9 +35,6 @@
         "Wezembeek-Oppem"
     ],
     "name:deu_x_preferred":[
-        "Wezembeek-Oppem"
-    ],
-    "name:dut_x_preferred":[
         "Wezembeek-Oppem"
     ],
     "name:epo_x_preferred":[
@@ -127,13 +124,13 @@
     "src:population":"geonames",
     "wd:wordcount":440,
     "wof:belongsto":[
-        85681731,
         102191581,
         1108830453,
         85632997,
         404227357,
         101755517,
-        102049973
+        102049973,
+        85681731
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -162,7 +159,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1531862114,
+    "wof:lastmodified":1561831367,
     "wof:name":"Wezembeek-Oppem",
     "wof:parent_id":101755517,
     "wof:placetype":"neighbourhood",

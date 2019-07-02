@@ -18,16 +18,16 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
-    "name:dut_x_preferred":[
-        "Gijzenzele"
-    ],
     "name:eng_x_preferred":[
         "Gijzenzele"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Gijzenzele"
     ],
     "name:hun_x_preferred":[
+        "Gijzenzele"
+    ],
+    "name:nld_x_preferred":[
         "Gijzenzele"
     ],
     "name:unk_x_variant":[
@@ -85,7 +85,7 @@
         }
     ],
     "wof:id":1125777783,
-    "wof:lastmodified":1513899285,
+    "wof:lastmodified":1561831485,
     "wof:name":"Gijzenzele",
     "wof:parent_id":1108830191,
     "wof:placetype":"locality",

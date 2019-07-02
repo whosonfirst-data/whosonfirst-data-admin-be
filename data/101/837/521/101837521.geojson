@@ -20,9 +20,6 @@
     "name:afr_x_preferred":[
         "Tienen"
     ],
-    "name:baq_x_preferred":[
-        "Tienen"
-    ],
     "name:bre_x_preferred":[
         "Tienen"
     ],
@@ -32,17 +29,17 @@
     "name:cat_x_preferred":[
         "Tienen"
     ],
-    "name:chi_x_preferred":[
-        "\u8482\u5ae9"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Tienen"
     ],
     "name:dan_x_preferred":[
         "Tienen"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Tienen"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a4\u03af\u03bd\u03b5\u03bd"
     ],
     "name:eng_x_preferred":[
         "Tienen"
@@ -51,6 +48,9 @@
         "Tienen"
     ],
     "name:est_x_preferred":[
+        "Tienen"
+    ],
+    "name:eus_x_preferred":[
         "Tienen"
     ],
     "name:fao_x_preferred":[
@@ -62,17 +62,11 @@
     "name:fin_x_preferred":[
         "Tienen"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Tirlemont"
-    ],
-    "name:ger_x_preferred":[
-        "Tienen"
     ],
     "name:gle_x_preferred":[
         "Tienen"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a4\u03af\u03bd\u03b5\u03bd"
     ],
     "name:hun_x_preferred":[
         "Tienen"
@@ -98,6 +92,9 @@
     "name:lit_x_preferred":[
         "Tynenas"
     ],
+    "name:nld_x_preferred":[
+        "Tienen"
+    ],
     "name:nno_x_preferred":[
         "Tienen"
     ],
@@ -107,22 +104,19 @@
     "name:oci_x_preferred":[
         "Tienen"
     ],
-    "name:per_x_preferred":[
-        "\u062a\u06cc\u0626\u0646\u0627\u0646"
-    ],
     "name:pol_x_preferred":[
         "Tienen"
     ],
     "name:por_x_preferred":[
         "Tienen"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Tienen"
     ],
     "name:rus_x_preferred":[
         "\u0422\u0438\u043d\u0435\u043d"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Tienen"
     ],
     "name:slv_x_preferred":[
@@ -205,7 +199,7 @@
         }
     ],
     "wof:id":101837521,
-    "wof:lastmodified":1535390523,
+    "wof:lastmodified":1561831432,
     "wof:name":"Tienen",
     "wof:parent_id":1108830017,
     "wof:placetype":"locality",

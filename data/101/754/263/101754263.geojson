@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001058,
-    "geom:area_square_m":8327607.579061,
+    "geom:area_square_m":8327607.57906,
     "geom:bbox":"4.41220572949,50.4541267601,4.48186020986,50.4891365543",
     "geom:latitude":50.4708,
     "geom:longitude":4.44225,
@@ -16,22 +16,16 @@
     "mps:longitude":4.435914,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:baq_x_preferred":[
-        "Gosselies"
-    ],
     "name:cat_x_preferred":[
-        "Gosselies"
-    ],
-    "name:dut_x_preferred":[
         "Gosselies"
     ],
     "name:eng_x_preferred":[
         "Cosselies"
     ],
-    "name:fra_x_preferred":[
+    "name:eus_x_preferred":[
         "Gosselies"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Gosselies"
     ],
     "name:hun_x_preferred":[
@@ -106,7 +100,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1527641867,
+    "wof:lastmodified":1561831410,
     "wof:name":"Gosselies",
     "wof:parent_id":102049927,
     "wof:placetype":"locality",

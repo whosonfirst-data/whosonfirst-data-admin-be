@@ -18,16 +18,16 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
-    "name:dut_x_preferred":[
-        "Ch\u00e2telineau"
-    ],
     "name:eng_x_preferred":[
         "Ch\u00e2telineau"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Ch\u00e2telineau"
     ],
     "name:hun_x_preferred":[
+        "Ch\u00e2telineau"
+    ],
+    "name:nld_x_preferred":[
         "Ch\u00e2telineau"
     ],
     "name:swe_x_preferred":[
@@ -88,7 +88,7 @@
         }
     ],
     "wof:id":1125986903,
-    "wof:lastmodified":1513899217,
+    "wof:lastmodified":1561831467,
     "wof:name":"Ch\u00e2telineau",
     "wof:parent_id":102049927,
     "wof:placetype":"locality",

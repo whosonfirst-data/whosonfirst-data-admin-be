@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000325,
-    "geom:area_square_m":2541112.168672,
+    "geom:area_square_m":2541112.168673,
     "geom:bbox":"5.05874684086,50.7106585217,5.10803457218,50.7360565633",
     "geom:latitude":50.724549,
     "geom:longitude":5.083962,
@@ -16,19 +16,16 @@
     "mps:longitude":5.085642,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:dut_x_preferred":[
-        "Walshoutem"
-    ],
     "name:eng_x_preferred":[
         "Walshoutem"
     ],
     "name:fra_x_preferred":[
         "Houtain-l'\u00c9v\u00eaque"
     ],
-    "name:fre_x_preferred":[
-        "Houtain-l'\u00c9v\u00eaque"
-    ],
     "name:hun_x_preferred":[
+        "Walshoutem"
+    ],
+    "name:nld_x_preferred":[
         "Walshoutem"
     ],
     "name:unk_x_variant":[
@@ -79,7 +76,7 @@
         }
     ],
     "wof:id":101810553,
-    "wof:lastmodified":1513899569,
+    "wof:lastmodified":1561831416,
     "wof:name":"Walshoutem",
     "wof:parent_id":1108830259,
     "wof:placetype":"locality",

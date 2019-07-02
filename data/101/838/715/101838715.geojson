@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000928,
-    "geom:area_square_m":7245779.019865,
+    "geom:area_square_m":7245779.019864,
     "geom:bbox":"3.76216745036,50.7801850769,3.85076734441,50.8583629234",
     "geom:latitude":50.821214,
     "geom:longitude":3.811914,
@@ -19,16 +19,10 @@
     "name:ceb_x_preferred":[
         "Sint-Maria-Oudenhove"
     ],
-    "name:dut_x_preferred":[
-        "Sint-Maria-Oudenhove"
-    ],
     "name:eng_x_preferred":[
         "Sint-Maria-Oudenhove"
     ],
     "name:fra_x_preferred":[
-        "Audenhove-Sainte-Marie"
-    ],
-    "name:fre_x_preferred":[
         "Audenhove-Sainte-Marie"
     ],
     "name:hun_x_preferred":[
@@ -92,7 +86,7 @@
         }
     ],
     "wof:id":101838715,
-    "wof:lastmodified":1527715128,
+    "wof:lastmodified":1561831425,
     "wof:name":"Sint-Maria-Oudenhove",
     "wof:parent_id":1108830669,
     "wof:placetype":"locality",

@@ -16,16 +16,16 @@
     "mps:longitude":3.804931,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:dut_x_preferred":[
-        "Maffle"
-    ],
     "name:eng_x_preferred":[
         "Maffle"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Maffle"
     ],
     "name:hun_x_preferred":[
+        "Maffle"
+    ],
+    "name:nld_x_preferred":[
         "Maffle"
     ],
     "qs:a0":"Belgi\u00eb#Belgique#Belgien",
@@ -74,7 +74,7 @@
         }
     ],
     "wof:id":101839785,
-    "wof:lastmodified":1513899385,
+    "wof:lastmodified":1561831434,
     "wof:name":"Maffle",
     "wof:parent_id":102049949,
     "wof:placetype":"locality",

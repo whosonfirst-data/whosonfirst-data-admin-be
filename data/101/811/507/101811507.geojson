@@ -17,9 +17,6 @@
     "mps:longitude":5.124071,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:baq_x_preferred":[
-        "Paliseul"
-    ],
     "name:bre_x_preferred":[
         "Paliseul"
     ],
@@ -29,16 +26,10 @@
     "name:cat_x_preferred":[
         "Paliseul"
     ],
-    "name:chi_x_preferred":[
-        "\u5df4\u5229\u745f\u5c14"
-    ],
     "name:dan_x_preferred":[
         "Paliseul"
     ],
     "name:deu_x_preferred":[
-        "Paliseul"
-    ],
-    "name:dut_x_preferred":[
         "Paliseul"
     ],
     "name:eng_x_preferred":[
@@ -57,12 +48,6 @@
         "\u067e\u0644\u06cc\u0632\u0648"
     ],
     "name:fra_x_preferred":[
-        "Paliseul"
-    ],
-    "name:fre_x_preferred":[
-        "Paliseul"
-    ],
-    "name:ger_x_preferred":[
         "Paliseul"
     ],
     "name:hun_x_preferred":[
@@ -89,25 +74,16 @@
     "name:oci_x_preferred":[
         "Paliseul"
     ],
-    "name:per_x_preferred":[
-        "\u067e\u0644\u06cc\u0632\u0648"
-    ],
     "name:por_x_preferred":[
         "Paliseul"
     ],
     "name:ron_x_preferred":[
         "Paliseul"
     ],
-    "name:rum_x_preferred":[
-        "Paliseul"
-    ],
     "name:rus_x_preferred":[
         "\u041f\u0430\u043b\u0438\u0437\u0451\u043b\u044c"
     ],
     "name:slk_x_preferred":[
-        "Paliseul"
-    ],
-    "name:slo_x_preferred":[
         "Paliseul"
     ],
     "name:vie_x_preferred":[
@@ -174,7 +150,7 @@
         }
     ],
     "wof:id":101811507,
-    "wof:lastmodified":1527642304,
+    "wof:lastmodified":1561831412,
     "wof:name":"Paliseul",
     "wof:parent_id":102049913,
     "wof:placetype":"locality",

@@ -21,16 +21,16 @@
     "name:bre_x_preferred":[
         "Nieuwkapelle"
     ],
-    "name:dut_x_preferred":[
-        "Nieuwkapelle"
-    ],
     "name:eng_x_preferred":[
         "Nieuwkapelle"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Nieuwkapelle"
     ],
     "name:hun_x_preferred":[
+        "Nieuwkapelle"
+    ],
+    "name:nld_x_preferred":[
         "Nieuwkapelle"
     ],
     "name:por_x_preferred":[
@@ -99,7 +99,7 @@
         }
     ],
     "wof:id":1125857977,
-    "wof:lastmodified":1513899433,
+    "wof:lastmodified":1561831477,
     "wof:name":"Nieuwkapelle",
     "wof:parent_id":1108830401,
     "wof:placetype":"locality",

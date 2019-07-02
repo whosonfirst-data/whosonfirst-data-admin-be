@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000422,
-    "geom:area_square_m":3288357.109505,
+    "geom:area_square_m":3288357.109504,
     "geom:bbox":"3.49011608649,50.8949804008,3.54230045356,50.9399406227",
     "geom:latitude":50.909385,
     "geom:longitude":3.523541,
@@ -17,9 +17,6 @@
     "mps:longitude":3.526111,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:baq_x_preferred":[
-        "Kruishoutem"
-    ],
     "name:bre_x_preferred":[
         "Kruishoutem"
     ],
@@ -32,16 +29,10 @@
     "name:ceb_x_preferred":[
         "Kruishoutem"
     ],
-    "name:chi_x_preferred":[
-        "\u514b\u96f7\u65af\u8c6a\u7279\u59c6"
-    ],
     "name:dan_x_preferred":[
         "Kruishoutem"
     ],
     "name:deu_x_preferred":[
-        "Kruishoutem"
-    ],
-    "name:dut_x_preferred":[
         "Kruishoutem"
     ],
     "name:eng_x_preferred":[
@@ -60,12 +51,6 @@
         "\u06a9\u0631\u0648\u0626\u06cc\u0634\u0648\u062a\u0645"
     ],
     "name:fra_x_preferred":[
-        "Kruishoutem"
-    ],
-    "name:fre_x_preferred":[
-        "Kruishoutem"
-    ],
-    "name:ger_x_preferred":[
         "Kruishoutem"
     ],
     "name:hun_x_preferred":[
@@ -89,25 +74,16 @@
     "name:oci_x_preferred":[
         "Kruishoutem"
     ],
-    "name:per_x_preferred":[
-        "\u06a9\u0631\u0648\u0626\u06cc\u0634\u0648\u062a\u0645"
-    ],
     "name:por_x_preferred":[
         "Kruishoutem"
     ],
     "name:ron_x_preferred":[
         "Kruishoutem"
     ],
-    "name:rum_x_preferred":[
-        "Kruishoutem"
-    ],
     "name:rus_x_preferred":[
         "\u041a\u0440\u0451\u0439\u0441\u0445\u0430\u0443\u0442\u0435\u043c"
     ],
     "name:slk_x_preferred":[
-        "Kruishoutem"
-    ],
-    "name:slo_x_preferred":[
         "Kruishoutem"
     ],
     "name:spa_x_preferred":[
@@ -185,7 +161,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1527715179,
+    "wof:lastmodified":1561831430,
     "wof:name":"Kruishoutem",
     "wof:parent_id":1108830549,
     "wof:placetype":"locality",

@@ -18,19 +18,19 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
-    "name:dut_x_preferred":[
-        "Kerkom"
-    ],
     "name:eng_x_preferred":[
         "Kerkom"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Kerkom"
     ],
     "name:hun_x_preferred":[
         "Kerkom"
     ],
     "name:ltz_x_preferred":[
+        "Kerkom"
+    ],
+    "name:nld_x_preferred":[
         "Kerkom"
     ],
     "qs_pg:aaroncc":"BE",
@@ -85,7 +85,7 @@
         }
     ],
     "wof:id":1125953803,
-    "wof:lastmodified":1513899337,
+    "wof:lastmodified":1561831443,
     "wof:name":"Kerkom",
     "wof:parent_id":1108830471,
     "wof:placetype":"locality",

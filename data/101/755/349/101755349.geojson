@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000268,
-    "geom:area_square_m":2087173.825488,
+    "geom:area_square_m":2087173.825489,
     "geom:bbox":"4.03655853491,50.8873188538,4.06200518887,50.9062508778",
     "geom:latitude":50.897885,
     "geom:longitude":4.050157,
@@ -22,9 +22,6 @@
     "name:deu_x_preferred":[
         "Welle"
     ],
-    "name:dut_x_preferred":[
-        "Welle"
-    ],
     "name:eng_x_preferred":[
         "Welle"
     ],
@@ -32,9 +29,6 @@
         "Welle"
     ],
     "name:fra_x_preferred":[
-        "Welle"
-    ],
-    "name:fre_x_preferred":[
         "Welle"
     ],
     "name:hun_x_preferred":[
@@ -101,7 +95,7 @@
         }
     ],
     "wof:id":101755349,
-    "wof:lastmodified":1527641700,
+    "wof:lastmodified":1561831401,
     "wof:name":"Welle",
     "wof:parent_id":1108830457,
     "wof:placetype":"locality",

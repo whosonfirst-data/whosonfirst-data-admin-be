@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000446,
-    "geom:area_square_m":3504669.564387,
+    "geom:area_square_m":3504669.564386,
     "geom:bbox":"4.67078822221,50.5398427561,4.72814270594,50.5696087461",
     "geom:latitude":50.556428,
     "geom:longitude":4.696383,
@@ -20,9 +20,6 @@
     "name:afr_x_preferred":[
         "Gembloers"
     ],
-    "name:baq_x_preferred":[
-        "Gembloux"
-    ],
     "name:bre_x_preferred":[
         "Gembloux"
     ],
@@ -35,17 +32,11 @@
     "name:ceb_x_preferred":[
         "Gembloux"
     ],
-    "name:chi_x_preferred":[
-        "\u8ba9\u5e03\u5362"
-    ],
     "name:dan_x_preferred":[
         "Gembloux"
     ],
     "name:deu_x_preferred":[
         "Gembloux"
-    ],
-    "name:dut_x_preferred":[
-        "Gembloers"
     ],
     "name:eng_x_preferred":[
         "Jembloux"
@@ -66,12 +57,6 @@
         "\u0698\u0627\u0645\u0628\u0644\u0648"
     ],
     "name:fra_x_preferred":[
-        "Gembloux"
-    ],
-    "name:fre_x_preferred":[
-        "Gembloux"
-    ],
-    "name:ger_x_preferred":[
         "Gembloux"
     ],
     "name:hun_x_preferred":[
@@ -110,9 +95,6 @@
     "name:oci_x_preferred":[
         "Gembloux"
     ],
-    "name:per_x_preferred":[
-        "\u0698\u0627\u0645\u0628\u0644\u0648"
-    ],
     "name:pol_x_preferred":[
         "Gembloux"
     ],
@@ -122,9 +104,6 @@
     "name:ron_x_preferred":[
         "Gembloux"
     ],
-    "name:rum_x_preferred":[
-        "Gembloux"
-    ],
     "name:rus_x_preferred":[
         "\u0416\u0430\u043c\u0431\u043b\u0443"
     ],
@@ -132,9 +111,6 @@
         "\u0413\u0435\u043c\u0431\u043b\u0443\u0430"
     ],
     "name:slk_x_preferred":[
-        "Gembloux"
-    ],
-    "name:slo_x_preferred":[
         "Gembloux"
     ],
     "name:spa_x_preferred":[
@@ -214,7 +190,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1527715126,
+    "wof:lastmodified":1561831424,
     "wof:name":"Gembloux",
     "wof:parent_id":102049931,
     "wof:placetype":"locality",

@@ -22,16 +22,10 @@
     "name:ceb_x_preferred":[
         "Falisolle"
     ],
-    "name:dut_x_preferred":[
-        "Falisolle"
-    ],
     "name:eng_x_preferred":[
         "Falisolle"
     ],
     "name:fra_x_preferred":[
-        "Falisolle"
-    ],
-    "name:fre_x_preferred":[
         "Falisolle"
     ],
     "name:hun_x_preferred":[
@@ -104,7 +98,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1527641696,
+    "wof:lastmodified":1561831397,
     "wof:name":"Falisolle",
     "wof:parent_id":102049931,
     "wof:placetype":"locality",

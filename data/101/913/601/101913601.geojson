@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000423,
-    "geom:area_square_m":3297886.310858,
+    "geom:area_square_m":3297886.310857,
     "geom:bbox":"5.14347644928,50.9075004199,5.18499212138,50.9500071854",
     "geom:latitude":50.932754,
     "geom:longitude":5.1647,
@@ -20,9 +20,6 @@
     "name:afr_x_preferred":[
         "Herk-de-Stad"
     ],
-    "name:baq_x_preferred":[
-        "Herk-de-Stad"
-    ],
     "name:bre_x_preferred":[
         "Herk-de-Stad"
     ],
@@ -32,13 +29,10 @@
     "name:cat_x_preferred":[
         "Herk-de-Stad"
     ],
-    "name:chi_x_preferred":[
-        "\u8d6b\u5c14\u514b\u5fb7\u65af\u5854\u5fb7"
-    ],
     "name:dan_x_preferred":[
         "Herk-de-Stad"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Herk-de-Stad"
     ],
     "name:eng_x_preferred":[
@@ -47,17 +41,17 @@
     "name:epo_x_preferred":[
         "Herk-de-Stad"
     ],
+    "name:eus_x_preferred":[
+        "Herk-de-Stad"
+    ],
     "name:fao_x_preferred":[
         "Herk-de-Stad"
     ],
+    "name:fas_x_preferred":[
+        "\u0627\u0631\u062f\u0633\u062a\u062f"
+    ],
     "name:fra_x_preferred":[
         "Herck-la-Ville"
-    ],
-    "name:fre_x_preferred":[
-        "Herck-la-Ville"
-    ],
-    "name:ger_x_preferred":[
-        "Herk-de-Stad"
     ],
     "name:hun_x_preferred":[
         "Herk-de-Stad"
@@ -86,19 +80,16 @@
     "name:oci_x_preferred":[
         "Herk-de-Stad"
     ],
-    "name:per_x_preferred":[
-        "\u0627\u0631\u062f\u0633\u062a\u062f"
-    ],
     "name:por_x_preferred":[
         "Herk-de-Stad"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Herk-de-Stad"
     ],
     "name:rus_x_preferred":[
         "\u0425\u0435\u0440\u043a-\u0434\u0435-\u0421\u0442\u0430\u0434"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Herk-de-Stad"
     ],
     "name:slv_x_preferred":[
@@ -127,6 +118,9 @@
     ],
     "name:war_x_preferred":[
         "Herk-de-Stad"
+    ],
+    "name:zho_x_preferred":[
+        "\u8d6b\u5c14\u514b\u5fb7\u65af\u5854\u5fb7"
     ],
     "qs:a0":"Belgi\u00eb#Belgique#Belgien",
     "qs:a1":"*Limburg",
@@ -178,7 +172,7 @@
         }
     ],
     "wof:id":101913601,
-    "wof:lastmodified":1553815582,
+    "wof:lastmodified":1561831420,
     "wof:name":"Herk-de-Stad",
     "wof:parent_id":1108830495,
     "wof:placetype":"locality",

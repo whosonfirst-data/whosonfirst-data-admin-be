@@ -21,7 +21,7 @@
     "name:dan_x_preferred":[
         "Outrijve"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Outrijve"
     ],
     "name:eng_x_preferred":[
@@ -33,16 +33,16 @@
     "name:fao_x_preferred":[
         "Outrijve"
     ],
-    "name:fre_x_preferred":[
-        "Outrijve"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Outrijve"
     ],
     "name:hun_x_preferred":[
         "Outrijve"
     ],
     "name:kal_x_preferred":[
+        "Outrijve"
+    ],
+    "name:nld_x_preferred":[
         "Outrijve"
     ],
     "name:nno_x_preferred":[
@@ -119,7 +119,7 @@
         }
     ],
     "wof:id":1125879729,
-    "wof:lastmodified":1513899454,
+    "wof:lastmodified":1561831459,
     "wof:name":"Outrijve",
     "wof:parent_id":1108830525,
     "wof:placetype":"locality",

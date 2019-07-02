@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000169,
-    "geom:area_square_m":1331280.787372,
+    "geom:area_square_m":1331280.787373,
     "geom:bbox":"4.14006778053,50.4311611578,4.16928757829,50.4417977037",
     "geom:latitude":50.4369,
     "geom:longitude":4.15258,
@@ -16,16 +16,10 @@
     "mps:longitude":4.149148,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:dut_x_preferred":[
-        "P\u00e9ronnes-lez-Binche"
-    ],
     "name:eng_x_preferred":[
         "P\u00e9ronnes-lez-Binche"
     ],
     "name:fra_x_preferred":[
-        "P\u00e9ronnes-lez-Binche"
-    ],
-    "name:fre_x_preferred":[
         "P\u00e9ronnes-lez-Binche"
     ],
     "name:hun_x_preferred":[
@@ -87,7 +81,7 @@
         }
     ],
     "wof:id":101755015,
-    "wof:lastmodified":1513899465,
+    "wof:lastmodified":1561831398,
     "wof:name":"P\u00e9ronnes",
     "wof:parent_id":102049923,
     "wof:placetype":"locality",

@@ -17,9 +17,6 @@
     "mps:longitude":3.305493,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:baq_x_preferred":[
-        "Rumes"
-    ],
     "name:bre_x_preferred":[
         "Rumes"
     ],
@@ -30,9 +27,6 @@
         "Rumes"
     ],
     "name:deu_x_preferred":[
-        "Rumes"
-    ],
-    "name:dut_x_preferred":[
         "Rumes"
     ],
     "name:eng_x_preferred":[
@@ -51,12 +45,6 @@
         "\u0631\u0648\u0645"
     ],
     "name:fra_x_preferred":[
-        "Rumes"
-    ],
-    "name:fre_x_preferred":[
-        "Rumes"
-    ],
-    "name:ger_x_preferred":[
         "Rumes"
     ],
     "name:hun_x_preferred":[
@@ -80,25 +68,16 @@
     "name:oci_x_preferred":[
         "Rumes"
     ],
-    "name:per_x_preferred":[
-        "\u0631\u0648\u0645"
-    ],
     "name:por_x_preferred":[
         "Rumes"
     ],
     "name:ron_x_preferred":[
         "Rumes"
     ],
-    "name:rum_x_preferred":[
-        "Rumes"
-    ],
     "name:rus_x_preferred":[
         "\u0420\u044e\u043c"
     ],
     "name:slk_x_preferred":[
-        "Rumes"
-    ],
-    "name:slo_x_preferred":[
         "Rumes"
     ],
     "name:vie_x_preferred":[
@@ -163,7 +142,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1527642419,
+    "wof:lastmodified":1561831414,
     "wof:name":"Rumes",
     "wof:parent_id":102049951,
     "wof:placetype":"locality",

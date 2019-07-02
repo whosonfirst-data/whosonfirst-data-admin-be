@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000784,
-    "geom:area_square_m":6061384.400612,
+    "geom:area_square_m":6061384.400611,
     "geom:bbox":"4.91510959046,51.3051064461,4.9641067209,51.3573061449",
     "geom:latitude":51.325592,
     "geom:longitude":4.94503,
@@ -19,12 +19,6 @@
     "mz:is_current":1,
     "name:ara_x_preferred":[
         "\u062a\u0648\u0631\u0646\u0647\u0627\u0648\u062a"
-    ],
-    "name:arm_x_preferred":[
-        "\u054f\u0575\u0578\u0582\u0580\u0576\u0570\u0561\u0578\u0582\u057f"
-    ],
-    "name:baq_x_preferred":[
-        "Turnhout"
     ],
     "name:bre_x_preferred":[
         "Turnhout"
@@ -41,20 +35,14 @@
     "name:ces_x_preferred":[
         "Turnhout"
     ],
-    "name:chi_x_preferred":[
-        "\u8482\u4f26\u8c6a\u7279"
-    ],
-    "name:cze_x_preferred":[
-        "Turnhout"
-    ],
     "name:dan_x_preferred":[
         "Turnhout"
     ],
     "name:deu_x_preferred":[
         "Turnhout"
     ],
-    "name:dut_x_preferred":[
-        "Turnhout"
+    "name:ell_x_preferred":[
+        "\u03a4\u03b5\u03c1\u03bd\u03c7\u03ac\u03bf\u03c5\u03c4"
     ],
     "name:eng_x_preferred":[
         "Turnhout"
@@ -77,20 +65,14 @@
     "name:fra_x_preferred":[
         "Turnhout"
     ],
-    "name:fre_x_preferred":[
-        "Turnhout"
-    ],
-    "name:ger_x_preferred":[
-        "Turnhout"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a4\u03b5\u03c1\u03bd\u03c7\u03ac\u03bf\u03c5\u03c4"
-    ],
     "name:heb_x_preferred":[
         "\u05d8\u05d5\u05e8\u05e0\u05d4\u05d0\u05d5\u05d8"
     ],
     "name:hun_x_preferred":[
         "Turnhout"
+    ],
+    "name:hye_x_preferred":[
+        "\u054f\u0575\u0578\u0582\u0580\u0576\u0570\u0561\u0578\u0582\u057f"
     ],
     "name:ita_x_preferred":[
         "Turnhout"
@@ -122,9 +104,6 @@
     "name:oci_x_preferred":[
         "Turnhout"
     ],
-    "name:per_x_preferred":[
-        "\u062a\u0648\u0631\u0646\u0648"
-    ],
     "name:pol_x_preferred":[
         "Turnhout"
     ],
@@ -134,9 +113,6 @@
     "name:ron_x_preferred":[
         "Turnhout"
     ],
-    "name:rum_x_preferred":[
-        "Turnhout"
-    ],
     "name:rus_x_preferred":[
         "\u0422\u044e\u0440\u043d\u0445\u0430\u0443\u0442"
     ],
@@ -144,9 +120,6 @@
         "\u0422\u0443\u0440\u043d\u0445\u043e\u0443\u0442"
     ],
     "name:slk_x_preferred":[
-        "Turnhout"
-    ],
-    "name:slo_x_preferred":[
         "Turnhout"
     ],
     "name:spa_x_preferred":[
@@ -227,7 +200,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1513899539,
+    "wof:lastmodified":1561831432,
     "wof:name":"Turnhout",
     "wof:parent_id":1108830691,
     "wof:placetype":"locality",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001282,
-    "geom:area_square_m":9935284.049921,
+    "geom:area_square_m":9935284.049922,
     "geom:bbox":"5.38611604864,51.174538315,5.45270690705,51.2324051164",
     "geom:latitude":51.204336,
     "geom:longitude":5.415705,
@@ -20,9 +20,6 @@
     "name:afr_x_preferred":[
         "Overpelt"
     ],
-    "name:baq_x_preferred":[
-        "Overpelt"
-    ],
     "name:bre_x_preferred":[
         "Overpelt"
     ],
@@ -32,13 +29,7 @@
     "name:cat_x_preferred":[
         "Overpelt"
     ],
-    "name:chi_x_preferred":[
-        "\u5965\u5f17\u4f69\u5c14\u7279"
-    ],
     "name:deu_x_preferred":[
-        "Overpelt"
-    ],
-    "name:dut_x_preferred":[
         "Overpelt"
     ],
     "name:eng_x_preferred":[
@@ -54,12 +45,6 @@
         "\u0627\u0648\u0631\u067e\u0644\u062a"
     ],
     "name:fra_x_preferred":[
-        "Overpelt"
-    ],
-    "name:fre_x_preferred":[
-        "Overpelt"
-    ],
-    "name:ger_x_preferred":[
         "Overpelt"
     ],
     "name:hun_x_preferred":[
@@ -86,22 +71,13 @@
     "name:oci_x_preferred":[
         "Overpelt"
     ],
-    "name:per_x_preferred":[
-        "\u0627\u0648\u0631\u067e\u0644\u062a"
-    ],
     "name:por_x_preferred":[
         "Overpelt"
     ],
     "name:ron_x_preferred":[
         "Overpelt"
     ],
-    "name:rum_x_preferred":[
-        "Overpelt"
-    ],
     "name:slk_x_preferred":[
-        "Overpelt"
-    ],
-    "name:slo_x_preferred":[
         "Overpelt"
     ],
     "name:spa_x_preferred":[
@@ -173,7 +149,7 @@
         }
     ],
     "wof:id":101838941,
-    "wof:lastmodified":1527715128,
+    "wof:lastmodified":1561831424,
     "wof:name":"Overpelt",
     "wof:parent_id":1108830665,
     "wof:placetype":"locality",

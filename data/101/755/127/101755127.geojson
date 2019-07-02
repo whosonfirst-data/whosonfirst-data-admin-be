@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000329,
-    "geom:area_square_m":2589087.038808,
+    "geom:area_square_m":2589087.038807,
     "geom:bbox":"3.97959218527,50.4674042313,4.02602720791,50.4847046931",
     "geom:latitude":50.474995,
     "geom:longitude":4.003006,
@@ -22,19 +22,13 @@
     "name:ceb_x_preferred":[
         "Obourg"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Obourg"
     ],
     "name:eng_x_preferred":[
         "Obourg"
     ],
     "name:fra_x_preferred":[
-        "Obourg"
-    ],
-    "name:fre_x_preferred":[
-        "Obourg"
-    ],
-    "name:ger_x_preferred":[
         "Obourg"
     ],
     "name:hun_x_preferred":[
@@ -102,7 +96,7 @@
         }
     ],
     "wof:id":101755127,
-    "wof:lastmodified":1527641700,
+    "wof:lastmodified":1561831401,
     "wof:name":"Obourg",
     "wof:parent_id":102049933,
     "wof:placetype":"locality",

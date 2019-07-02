@@ -17,9 +17,6 @@
     "mps:longitude":3.813662,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:baq_x_preferred":[
-        "Oosterzele"
-    ],
     "name:bre_x_preferred":[
         "Oosterzele"
     ],
@@ -29,10 +26,7 @@
     "name:cat_x_preferred":[
         "Oosterzele"
     ],
-    "name:chi_x_preferred":[
-        "\u5965\u65af\u7279\u5c14\u6cfd\u83b1"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Oosterzele"
     ],
     "name:eng_x_preferred":[
@@ -44,13 +38,13 @@
     "name:est_x_preferred":[
         "Oosterzele"
     ],
+    "name:eus_x_preferred":[
+        "Oosterzele"
+    ],
     "name:fas_x_preferred":[
         "\u0627\u0648\u0632\u062a\u0631\u0632\u0644"
     ],
-    "name:fre_x_preferred":[
-        "Oosterzele"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Oosterzele"
     ],
     "name:hun_x_preferred":[
@@ -59,25 +53,25 @@
     "name:ita_x_preferred":[
         "Oosterzele"
     ],
+    "name:nld_x_preferred":[
+        "Oosterzele"
+    ],
     "name:nob_x_preferred":[
         "Oosterzele"
     ],
     "name:oci_x_preferred":[
         "Oosterzele"
     ],
-    "name:per_x_preferred":[
-        "\u0627\u0648\u0632\u062a\u0631\u0632\u0644"
-    ],
     "name:por_x_preferred":[
         "Oosterzele"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Oosterzele"
     ],
     "name:sco_x_preferred":[
         "Oosterzele"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Oosterzele"
     ],
     "name:slv_x_preferred":[
@@ -158,7 +152,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1553815536,
+    "wof:lastmodified":1561831422,
     "wof:name":"Oosterzele",
     "wof:parent_id":1108830191,
     "wof:placetype":"locality",

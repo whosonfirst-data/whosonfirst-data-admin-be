@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000501,
-    "geom:area_square_m":3894598.846229,
+    "geom:area_square_m":3894598.846228,
     "geom:bbox":"3.84117083117,51.0217271219,3.8878651142,51.0529199857",
     "geom:latitude":51.035881,
     "geom:longitude":3.862043,
@@ -17,9 +17,6 @@
     "mps:longitude":3.854842,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:baq_x_preferred":[
-        "Laarne"
-    ],
     "name:bre_x_preferred":[
         "Laarne"
     ],
@@ -32,16 +29,10 @@
     "name:ceb_x_preferred":[
         "Laarne"
     ],
-    "name:chi_x_preferred":[
-        "\u62c9\u5c14\u8bb7"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Laarne"
     ],
     "name:deu_x_preferred":[
-        "Laarne"
-    ],
-    "name:dut_x_preferred":[
         "Laarne"
     ],
     "name:eng_x_preferred":[
@@ -62,11 +53,8 @@
     "name:fra_x_preferred":[
         "Laarne"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_variant":[
         "Laerne"
-    ],
-    "name:ger_x_preferred":[
-        "Laarne"
     ],
     "name:hun_x_preferred":[
         "Laarne"
@@ -86,25 +74,16 @@
     "name:oci_x_preferred":[
         "Laarne"
     ],
-    "name:per_x_preferred":[
-        "\u0644\u0631\u0646"
-    ],
     "name:por_x_preferred":[
         "Laarne"
     ],
     "name:ron_x_preferred":[
         "Laarne"
     ],
-    "name:rum_x_preferred":[
-        "Laarne"
-    ],
     "name:sco_x_preferred":[
         "Laarne"
     ],
     "name:slk_x_preferred":[
-        "Laarne"
-    ],
-    "name:slo_x_preferred":[
         "Laarne"
     ],
     "name:spa_x_preferred":[
@@ -178,7 +157,7 @@
         }
     ],
     "wof:id":101755599,
-    "wof:lastmodified":1527641701,
+    "wof:lastmodified":1561831402,
     "wof:name":"Laarne",
     "wof:parent_id":1108830027,
     "wof:placetype":"locality",

@@ -20,9 +20,6 @@
     "name:afr_x_preferred":[
         "Diepenbeek"
     ],
-    "name:baq_x_preferred":[
-        "Diepenbeek"
-    ],
     "name:bre_x_preferred":[
         "Diepenbeek"
     ],
@@ -32,10 +29,7 @@
     "name:cat_x_preferred":[
         "Diepenbeek"
     ],
-    "name:chi_x_preferred":[
-        "\u8fea\u5f6d\u8d1d\u514b"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Diepenbeek"
     ],
     "name:eng_x_preferred":[
@@ -44,10 +38,13 @@
     "name:epo_x_preferred":[
         "Diepenbeek"
     ],
-    "name:fre_x_preferred":[
+    "name:eus_x_preferred":[
         "Diepenbeek"
     ],
-    "name:ger_x_preferred":[
+    "name:fas_x_preferred":[
+        "\u062f\u06cc\u0648\u067e\u0627\u0646\u0628\u0626\u06a9"
+    ],
+    "name:fra_x_preferred":[
         "Diepenbeek"
     ],
     "name:hun_x_preferred":[
@@ -65,14 +62,14 @@
     "name:lit_x_preferred":[
         "Dipenbekas"
     ],
+    "name:nld_x_preferred":[
+        "Diepenbeek"
+    ],
     "name:nob_x_preferred":[
         "Diepenbeek"
     ],
     "name:oci_x_preferred":[
         "Diepenbeek"
-    ],
-    "name:per_x_preferred":[
-        "\u062f\u06cc\u0648\u067e\u0627\u0646\u0628\u0626\u06a9"
     ],
     "name:pol_x_preferred":[
         "Diepenbeek"
@@ -80,13 +77,13 @@
     "name:por_x_preferred":[
         "Diepenbeek"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Diepenbeek"
     ],
     "name:rus_x_preferred":[
         "\u0414\u0438\u043f\u0435\u043d\u0431\u0435\u043a"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Diepenbeek"
     ],
     "name:spa_x_preferred":[
@@ -109,6 +106,9 @@
     ],
     "name:war_x_preferred":[
         "Diepenbeek"
+    ],
+    "name:zho_x_preferred":[
+        "\u8fea\u5f6d\u8d1d\u514b"
     ],
     "qs:a0":"Belgi\u00eb#Belgique#Belgien",
     "qs:a1":"*Limburg",
@@ -160,7 +160,7 @@
         }
     ],
     "wof:id":101838809,
-    "wof:lastmodified":1553815536,
+    "wof:lastmodified":1561831426,
     "wof:name":"Diepenbeek",
     "wof:parent_id":1108830257,
     "wof:placetype":"locality",

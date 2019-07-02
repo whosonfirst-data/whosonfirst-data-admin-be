@@ -17,9 +17,6 @@
     "mps:longitude":5.219856,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:baq_x_preferred":[
-        "Tellin"
-    ],
     "name:bre_x_preferred":[
         "Tellin"
     ],
@@ -29,13 +26,7 @@
     "name:cat_x_preferred":[
         "Tellin"
     ],
-    "name:chi_x_preferred":[
-        "\u6cf0\u5170"
-    ],
     "name:deu_x_preferred":[
-        "Tellin"
-    ],
-    "name:dut_x_preferred":[
         "Tellin"
     ],
     "name:eng_x_preferred":[
@@ -54,12 +45,6 @@
         "\u062a\u0644\u0646"
     ],
     "name:fra_x_preferred":[
-        "Tellin"
-    ],
-    "name:fre_x_preferred":[
-        "Tellin"
-    ],
-    "name:ger_x_preferred":[
         "Tellin"
     ],
     "name:hun_x_preferred":[
@@ -86,25 +71,16 @@
     "name:oci_x_preferred":[
         "Tellin"
     ],
-    "name:per_x_preferred":[
-        "\u062a\u0644\u0646"
-    ],
     "name:por_x_preferred":[
         "Tellin"
     ],
     "name:ron_x_preferred":[
         "Tellin"
     ],
-    "name:rum_x_preferred":[
-        "Tellin"
-    ],
     "name:rus_x_preferred":[
         "\u0422\u0435\u043b\u043b\u0435\u043d"
     ],
     "name:slk_x_preferred":[
-        "Tellin"
-    ],
-    "name:slo_x_preferred":[
         "Tellin"
     ],
     "name:vie_x_preferred":[
@@ -171,7 +147,7 @@
         }
     ],
     "wof:id":101811489,
-    "wof:lastmodified":1527642306,
+    "wof:lastmodified":1561831412,
     "wof:name":"Tellin",
     "wof:parent_id":102049913,
     "wof:placetype":"locality",

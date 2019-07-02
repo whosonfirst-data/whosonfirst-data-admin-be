@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00042,
-    "geom:area_square_m":3298569.053393,
+    "geom:area_square_m":3298569.053392,
     "geom:bbox":"5.29122631487,50.5917528792,5.33937928263,50.6260641711",
     "geom:latitude":50.609241,
     "geom:longitude":5.314723,
@@ -20,9 +20,6 @@
     "name:ara_x_preferred":[
         "\u0641\u064a\u0631\u0644\u064a\u0646"
     ],
-    "name:baq_x_preferred":[
-        "Verlaine"
-    ],
     "name:bre_x_preferred":[
         "Verlaine"
     ],
@@ -35,13 +32,7 @@
     "name:ceb_x_preferred":[
         "Verlaine"
     ],
-    "name:chi_x_preferred":[
-        "\u97e6\u5c14\u83b1\u8bb7"
-    ],
     "name:deu_x_preferred":[
-        "Verlaine"
-    ],
-    "name:dut_x_preferred":[
         "Verlaine"
     ],
     "name:eng_x_preferred":[
@@ -57,12 +48,6 @@
         "\u0648\u0631\u0644\u0646"
     ],
     "name:fra_x_preferred":[
-        "Verlaine"
-    ],
-    "name:fre_x_preferred":[
-        "Verlaine"
-    ],
-    "name:ger_x_preferred":[
         "Verlaine"
     ],
     "name:hun_x_preferred":[
@@ -86,25 +71,16 @@
     "name:oci_x_preferred":[
         "Verlaine"
     ],
-    "name:per_x_preferred":[
-        "\u0648\u0631\u0644\u0646"
-    ],
     "name:por_x_preferred":[
         "Verlaine"
     ],
     "name:ron_x_preferred":[
         "Verlaine"
     ],
-    "name:rum_x_preferred":[
-        "Verlaine"
-    ],
     "name:rus_x_preferred":[
         "\u0412\u0435\u0440\u043b\u0435\u043d"
     ],
     "name:slk_x_preferred":[
-        "Verlaine"
-    ],
-    "name:slo_x_preferred":[
         "Verlaine"
     ],
     "name:swe_x_preferred":[
@@ -170,7 +146,7 @@
         }
     ],
     "wof:id":101810371,
-    "wof:lastmodified":1527642424,
+    "wof:lastmodified":1561831415,
     "wof:name":"Verlaine",
     "wof:parent_id":102049925,
     "wof:placetype":"locality",

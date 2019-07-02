@@ -17,9 +17,6 @@
     "mps:longitude":4.279012,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:baq_x_preferred":[
-        "Braine-le-Ch\u00e2teau"
-    ],
     "name:bre_x_preferred":[
         "Braine-le-Ch\u00e2teau"
     ],
@@ -32,14 +29,8 @@
     "name:ceb_x_preferred":[
         "Braine-le-Ch\u00e2teau"
     ],
-    "name:chi_x_preferred":[
-        "\u5e03\u8d56\u6069\u52d2\u6c99\u6258"
-    ],
     "name:deu_x_preferred":[
         "Braine-le-Ch\u00e2teau"
-    ],
-    "name:dut_x_preferred":[
-        "Kasteelbrakel"
     ],
     "name:eng_x_preferred":[
         "Braine-le-Ch\u00e2teau"
@@ -56,10 +47,7 @@
     "name:fin_x_preferred":[
         "Braine-le-Ch\u00e2teau"
     ],
-    "name:fre_x_preferred":[
-        "Braine-le-Ch\u00e2teau"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Braine-le-Ch\u00e2teau"
     ],
     "name:hun_x_preferred":[
@@ -71,14 +59,14 @@
     "name:jpn_x_preferred":[
         "\u30d6\u30ec\u30f3\u30fb\u30eb\u30fb\u30b7\u30e3\u30c8\u30fc"
     ],
+    "name:nld_x_preferred":[
+        "Kasteelbrakel"
+    ],
     "name:nob_x_preferred":[
         "Braine-le-Ch\u00e2teau"
     ],
     "name:oci_x_preferred":[
         "Braine-le-Ch\u00e2teau"
-    ],
-    "name:per_x_preferred":[
-        "\u0628\u0631\u0646-\u0644\u0648-\u0634\u062a\u0648"
     ],
     "name:pol_x_preferred":[
         "Braine-le-Ch\u00e2teau"
@@ -86,13 +74,13 @@
     "name:por_x_preferred":[
         "Braine-le-Ch\u00e2teau"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Braine-le-Ch\u00e2teau"
     ],
     "name:rus_x_preferred":[
         "\u0411\u0440\u0435\u043d-\u043b\u0435-\u0428\u0430\u0442\u043e"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Braine-le-Ch\u00e2teau"
     ],
     "name:spa_x_preferred":[
@@ -115,6 +103,9 @@
     ],
     "name:wln_x_preferred":[
         "Brinne-Tchestea"
+    ],
+    "name:zho_x_preferred":[
+        "\u5e03\u8d56\u6069\u52d2\u6c99\u6258"
     ],
     "qs:a0":"Belgi\u00eb#Belgique#Belgien",
     "qs:a1":"*Brabant wallon",
@@ -164,7 +155,7 @@
         }
     ],
     "wof:id":101755231,
-    "wof:lastmodified":1535390420,
+    "wof:lastmodified":1561831405,
     "wof:name":"Braine-le-Ch\u00e2teau",
     "wof:parent_id":102049945,
     "wof:placetype":"locality",

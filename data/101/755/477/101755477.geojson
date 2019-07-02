@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000303,
-    "geom:area_square_m":2358605.921692,
+    "geom:area_square_m":2358605.92169,
     "geom:bbox":"4.30511107519,50.9145150485,4.3383828674,50.92840982",
     "geom:latitude":50.921298,
     "geom:longitude":4.320565,
@@ -16,9 +16,6 @@
     "mps:longitude":4.319218,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:baq_x_preferred":[
-        "Boechout"
-    ],
     "name:bre_x_preferred":[
         "Boechout"
     ],
@@ -31,13 +28,7 @@
     "name:ceb_x_preferred":[
         "Boechout"
     ],
-    "name:chi_x_preferred":[
-        "\u5e03\u8c6a\u7279"
-    ],
     "name:deu_x_preferred":[
-        "Boechout"
-    ],
-    "name:dut_x_preferred":[
         "Boechout"
     ],
     "name:eng_x_preferred":[
@@ -53,12 +44,6 @@
         "\u0628\u0648\u0626\u0634\u0648"
     ],
     "name:fra_x_preferred":[
-        "Boechout"
-    ],
-    "name:fre_x_preferred":[
-        "Boechout"
-    ],
-    "name:ger_x_preferred":[
         "Boechout"
     ],
     "name:hun_x_preferred":[
@@ -82,25 +67,16 @@
     "name:oci_x_preferred":[
         "Boechout"
     ],
-    "name:per_x_preferred":[
-        "\u0628\u0648\u0626\u0634\u0648"
-    ],
     "name:por_x_preferred":[
         "Boechout"
     ],
     "name:ron_x_preferred":[
         "Boechout"
     ],
-    "name:rum_x_preferred":[
-        "Boechout"
-    ],
     "name:rus_x_preferred":[
         "\u0411\u0443\u0445\u0430\u0443\u0442"
     ],
     "name:slk_x_preferred":[
-        "Boechout"
-    ],
-    "name:slo_x_preferred":[
         "Boechout"
     ],
     "name:spa_x_preferred":[
@@ -169,7 +145,7 @@
         }
     ],
     "wof:id":101755477,
-    "wof:lastmodified":1513899182,
+    "wof:lastmodified":1561831398,
     "wof:name":"Boechout",
     "wof:parent_id":1108830553,
     "wof:placetype":"locality",

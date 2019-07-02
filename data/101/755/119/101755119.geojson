@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000237,
-    "geom:area_square_m":1867865.520301,
+    "geom:area_square_m":1867865.5203,
     "geom:bbox":"3.72771149934,50.4147791488,3.75824179578,50.4373907457",
     "geom:latitude":50.427212,
     "geom:longitude":3.742742,
@@ -19,19 +19,16 @@
     "name:deu_x_preferred":[
         "Thulin"
     ],
-    "name:dut_x_preferred":[
-        "Thulin"
-    ],
     "name:eng_x_preferred":[
         "Thulin"
     ],
     "name:fra_x_preferred":[
         "Thulin"
     ],
-    "name:fre_x_preferred":[
+    "name:hun_x_preferred":[
         "Thulin"
     ],
-    "name:hun_x_preferred":[
+    "name:nld_x_preferred":[
         "Thulin"
     ],
     "name:swe_x_preferred":[
@@ -84,7 +81,7 @@
         }
     ],
     "wof:id":101755119,
-    "wof:lastmodified":1527641700,
+    "wof:lastmodified":1561831401,
     "wof:name":"Thulin",
     "wof:parent_id":102049933,
     "wof:placetype":"locality",

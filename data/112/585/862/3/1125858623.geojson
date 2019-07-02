@@ -21,19 +21,19 @@
     "name:bre_x_preferred":[
         "Wulvergem"
     ],
-    "name:dut_x_preferred":[
-        "Wulvergem"
-    ],
     "name:eng_x_preferred":[
         "Wulvergem"
     ],
     "name:est_x_preferred":[
         "Wulvergem"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Wulvergem"
     ],
     "name:hun_x_preferred":[
+        "Wulvergem"
+    ],
+    "name:nld_x_preferred":[
         "Wulvergem"
     ],
     "name:unk_x_variant":[
@@ -98,7 +98,7 @@
         }
     ],
     "wof:id":1125858623,
-    "wof:lastmodified":1513899588,
+    "wof:lastmodified":1561831478,
     "wof:name":"Wulvergem",
     "wof:parent_id":1108830671,
     "wof:placetype":"locality",

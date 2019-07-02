@@ -21,13 +21,10 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":13.0,
     "mz:tier_metro":30,
-    "name:dut_x_preferred":[
-        "Noordruimte"
-    ],
     "name:eng_x_preferred":[
         "Northern Quarter"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "quartier Nord"
     ],
     "name:ind_x_preferred":[
@@ -70,7 +67,7 @@
         }
     ],
     "wof:id":1108938311,
-    "wof:lastmodified":1513899252,
+    "wof:lastmodified":1561831384,
     "wof:name":"Espace Nord",
     "wof:parent_id":101751573,
     "wof:placetype":"neighbourhood",

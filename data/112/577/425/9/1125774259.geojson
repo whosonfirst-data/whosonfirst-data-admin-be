@@ -30,9 +30,6 @@
     "name:ast_x_preferred":[
         "Heusden-Zolder"
     ],
-    "name:baq_x_preferred":[
-        "Heusden-Zolder"
-    ],
     "name:bar_x_preferred":[
         "Heusden-Zolder"
     ],
@@ -45,19 +42,19 @@
     "name:cat_x_preferred":[
         "Heusden-Zolder"
     ],
-    "name:chi_x_preferred":[
-        "\u8d6b\u65af\u767b\uff0d\u4f50\u5c14\u5fb7\u5c14"
+    "name:ces_x_preferred":[
+        "Heusden-Zolder"
     ],
     "name:cos_x_preferred":[
         "Heusden-Zolder"
     ],
-    "name:cze_x_preferred":[
+    "name:cym_x_preferred":[
         "Heusden-Zolder"
     ],
     "name:dan_x_preferred":[
         "Heusden-Zolder"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Heusden-Zolder"
     ],
     "name:eng_x_preferred":[
@@ -69,22 +66,22 @@
     "name:est_x_preferred":[
         "Heusden-Zolder"
     ],
+    "name:eus_x_preferred":[
+        "Heusden-Zolder"
+    ],
     "name:fas_x_preferred":[
         "\u0627\u0648\u0633\u062f\u0627\u0646-\u0632\u0648\u0644\u062f\u0647"
     ],
     "name:fin_x_preferred":[
         "Heusden-Zolder"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Heusden-Zolder"
     ],
     "name:frp_x_preferred":[
         "Heusden-Zolder"
     ],
     "name:fur_x_preferred":[
-        "Heusden-Zolder"
-    ],
-    "name:ger_x_preferred":[
         "Heusden-Zolder"
     ],
     "name:gla_x_preferred":[
@@ -105,9 +102,6 @@
     "name:hun_x_preferred":[
         "Heusden-Zolder"
     ],
-    "name:ice_x_preferred":[
-        "Heusden-Zolder"
-    ],
     "name:ido_x_preferred":[
         "Heusden-Zolder"
     ],
@@ -118,6 +112,9 @@
         "Heusden-Zolder"
     ],
     "name:ind_x_preferred":[
+        "Heusden-Zolder"
+    ],
+    "name:isl_x_preferred":[
         "Heusden-Zolder"
     ],
     "name:ita_x_preferred":[
@@ -138,19 +135,22 @@
     "name:ltz_x_preferred":[
         "Heusden-Zolder"
     ],
-    "name:may_x_preferred":[
-        "Heusden-Zolder"
-    ],
     "name:min_x_preferred":[
         "Heusden-Zolder"
     ],
     "name:mlg_x_preferred":[
         "Heusden-Zolder"
     ],
+    "name:msa_x_preferred":[
+        "Heusden-Zolder"
+    ],
     "name:nap_x_preferred":[
         "Heusden-Zolder"
     ],
     "name:nds_x_preferred":[
+        "Heusden-Zolder"
+    ],
+    "name:nld_x_preferred":[
         "Heusden-Zolder"
     ],
     "name:nno_x_preferred":[
@@ -168,9 +168,6 @@
     "name:pcd_x_preferred":[
         "Heusden-Zolder"
     ],
-    "name:per_x_preferred":[
-        "\u0627\u0648\u0633\u062f\u0627\u0646-\u0632\u0648\u0644\u062f\u0647"
-    ],
     "name:pms_x_preferred":[
         "Heusden-Zolder"
     ],
@@ -183,7 +180,7 @@
     "name:roh_x_preferred":[
         "Heusden-Zolder"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Heusden-Zolder"
     ],
     "name:scn_x_preferred":[
@@ -192,7 +189,7 @@
     "name:sco_x_preferred":[
         "Heusden-Zolder"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Heusden-Zolder"
     ],
     "name:slv_x_preferred":[
@@ -238,9 +235,6 @@
         "Heusden-Zolder"
     ],
     "name:war_x_preferred":[
-        "Heusden-Zolder"
-    ],
-    "name:wel_x_preferred":[
         "Heusden-Zolder"
     ],
     "name:wln_x_preferred":[
@@ -311,7 +305,7 @@
         }
     ],
     "wof:id":1125774259,
-    "wof:lastmodified":1513899313,
+    "wof:lastmodified":1561831484,
     "wof:name":"Heusden-zolder",
     "wof:parent_id":1108830323,
     "wof:placetype":"locality",

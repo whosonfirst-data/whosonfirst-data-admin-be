@@ -17,9 +17,6 @@
     "mps:longitude":3.622567,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:baq_x_preferred":[
-        "Sint-Martens-Latem"
-    ],
     "name:bre_x_preferred":[
         "Sint-Martens-Latem"
     ],
@@ -32,14 +29,8 @@
     "name:ceb_x_preferred":[
         "Sint-Martens-Latem"
     ],
-    "name:chi_x_preferred":[
-        "\u5723\u9a6c\u5c14\u6ed5\u65af-\u62c9\u7279\u59c6"
-    ],
     "name:deu_x_preferred":[
         "Sint-Martens-Latem"
-    ],
-    "name:dut_x_preferred":[
-        "St.-Martens-Latem"
     ],
     "name:dut_x_variant":[
         "Sint-Martens-Latem",
@@ -63,12 +54,6 @@
     "name:fra_x_preferred":[
         "Laethem-Saint-Martin"
     ],
-    "name:fre_x_preferred":[
-        "Laethem-Saint-Martin"
-    ],
-    "name:ger_x_preferred":[
-        "Sint-Martens-Latem"
-    ],
     "name:hun_x_preferred":[
         "Sint-Martens-Latem"
     ],
@@ -81,6 +66,9 @@
     "name:nld_x_preferred":[
         "Sint-Martens-Latem"
     ],
+    "name:nld_x_variant":[
+        "St.-Martens-Latem"
+    ],
     "name:nob_x_preferred":[
         "Sint-Martens-Latem"
     ],
@@ -90,16 +78,10 @@
     "name:oci_x_preferred":[
         "Sint-Martens-Latem"
     ],
-    "name:per_x_preferred":[
-        "\u0633\u0646-\u0645\u0631\u062a\u0627\u0646-\u0644\u062a\u0645"
-    ],
     "name:por_x_preferred":[
         "Sint-Martens-Latem"
     ],
     "name:ron_x_preferred":[
-        "Sint-Martens-Latem"
-    ],
-    "name:rum_x_preferred":[
         "Sint-Martens-Latem"
     ],
     "name:rus_x_preferred":[
@@ -109,9 +91,6 @@
         "Sint-Martens-Latem"
     ],
     "name:slk_x_preferred":[
-        "Sint-Martens-Latem"
-    ],
-    "name:slo_x_preferred":[
         "Sint-Martens-Latem"
     ],
     "name:spa_x_preferred":[
@@ -189,7 +168,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1527641702,
+    "wof:lastmodified":1561831403,
     "wof:name":"Sint-Martens-Latem",
     "wof:parent_id":1108830439,
     "wof:placetype":"locality",

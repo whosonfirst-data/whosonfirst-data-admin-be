@@ -21,17 +21,17 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
     "mz:tier_metro":30,
-    "name:dut_x_preferred":[
-        "Wijk van de Squares"
-    ],
     "name:dut_x_variant":[
         "wijk van de Squares"
     ],
     "name:eng_x_preferred":[
         "Quartier des Squares"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Quartier des Squares"
+    ],
+    "name:nld_x_preferred":[
+        "Wijk van de Squares"
     ],
     "src:lbl:centroid":"mz",
     "wof:belongsto":[
@@ -61,7 +61,7 @@
         }
     ],
     "wof:id":1108938305,
-    "wof:lastmodified":1513899466,
+    "wof:lastmodified":1561831384,
     "wof:name":"Quartier des Squares",
     "wof:parent_id":101751573,
     "wof:placetype":"neighbourhood",

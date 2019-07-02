@@ -17,9 +17,6 @@
     "mps:longitude":3.414501,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:baq_x_preferred":[
-        "Knesselare"
-    ],
     "name:bre_x_preferred":[
         "Knesselare"
     ],
@@ -32,13 +29,7 @@
     "name:ceb_x_preferred":[
         "Knesselare"
     ],
-    "name:chi_x_preferred":[
-        "\u514b\u5185\u745f\u62c9\u52d2"
-    ],
     "name:deu_x_preferred":[
-        "Knesselare"
-    ],
-    "name:dut_x_preferred":[
         "Knesselare"
     ],
     "name:eng_x_preferred":[
@@ -59,12 +50,6 @@
     "name:fra_x_preferred":[
         "Knesselare"
     ],
-    "name:fre_x_preferred":[
-        "Knesselare"
-    ],
-    "name:ger_x_preferred":[
-        "Knesselare"
-    ],
     "name:hun_x_preferred":[
         "Knesselare"
     ],
@@ -83,22 +68,13 @@
     "name:oci_x_preferred":[
         "Knesselare"
     ],
-    "name:per_x_preferred":[
-        "\u06a9\u0646\u0633\u0648\u0644\u0631"
-    ],
     "name:por_x_preferred":[
         "Knesselare"
     ],
     "name:ron_x_preferred":[
         "Knesselare"
     ],
-    "name:rum_x_preferred":[
-        "Knesselare"
-    ],
     "name:slk_x_preferred":[
-        "Knesselare"
-    ],
-    "name:slo_x_preferred":[
         "Knesselare"
     ],
     "name:spa_x_preferred":[
@@ -176,7 +152,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1527715171,
+    "wof:lastmodified":1561831429,
     "wof:name":"Knesselare",
     "wof:parent_id":1108830533,
     "wof:placetype":"locality",

@@ -28,9 +28,6 @@
     "name:ast_x_preferred":[
         "Aartselaar"
     ],
-    "name:baq_x_preferred":[
-        "Aartselaar"
-    ],
     "name:bar_x_preferred":[
         "Aartselaar"
     ],
@@ -43,20 +40,23 @@
     "name:cat_x_preferred":[
         "Aartselaar"
     ],
-    "name:chi_x_preferred":[
-        "\u963f\u5c14\u7279\u65af\u62c9\u5c14"
+    "name:ces_x_preferred":[
+        "Aartselaar"
     ],
     "name:cos_x_preferred":[
         "Aartselaar"
     ],
-    "name:cze_x_preferred":[
+    "name:cym_x_preferred":[
         "Aartselaar"
     ],
     "name:dan_x_preferred":[
         "Aartselaar"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Aartselaar"
+    ],
+    "name:ell_x_preferred":[
+        "\u0386\u03b1\u03c1\u03c4\u03c3\u03b5\u03bb\u03b1\u03b1\u03c1"
     ],
     "name:eng_x_preferred":[
         "Aartselaar"
@@ -67,19 +67,22 @@
     "name:est_x_preferred":[
         "Aartselaar"
     ],
+    "name:eus_x_preferred":[
+        "Aartselaar"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0631\u062a\u0633\u0648\u0644\u0631"
+    ],
     "name:fin_x_preferred":[
         "Aartselaar"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Aartselaar"
     ],
     "name:frp_x_preferred":[
         "Aartselaar"
     ],
     "name:fur_x_preferred":[
-        "Aartselaar"
-    ],
-    "name:ger_x_preferred":[
         "Aartselaar"
     ],
     "name:gla_x_preferred":[
@@ -91,9 +94,6 @@
     "name:glg_x_preferred":[
         "Aartselaar"
     ],
-    "name:gre_x_preferred":[
-        "\u0386\u03b1\u03c1\u03c4\u03c3\u03b5\u03bb\u03b1\u03b1\u03c1"
-    ],
     "name:gsw_x_preferred":[
         "Aartselaar"
     ],
@@ -101,9 +101,6 @@
         "Aartselaar"
     ],
     "name:hun_x_preferred":[
-        "Aartselaar"
-    ],
-    "name:ice_x_preferred":[
         "Aartselaar"
     ],
     "name:ido_x_preferred":[
@@ -116,6 +113,9 @@
         "Aartselaar"
     ],
     "name:ind_x_preferred":[
+        "Aartselaar"
+    ],
+    "name:isl_x_preferred":[
         "Aartselaar"
     ],
     "name:ita_x_preferred":[
@@ -136,19 +136,22 @@
     "name:ltz_x_preferred":[
         "Aartselaar"
     ],
-    "name:may_x_preferred":[
-        "Aartselaar"
-    ],
     "name:min_x_preferred":[
         "Aartselaar"
     ],
     "name:mlg_x_preferred":[
         "Aartselaar"
     ],
+    "name:msa_x_preferred":[
+        "Aartselaar"
+    ],
     "name:nap_x_preferred":[
         "Aartselaar"
     ],
     "name:nds_x_preferred":[
+        "Aartselaar"
+    ],
+    "name:nld_x_preferred":[
         "Aartselaar"
     ],
     "name:nno_x_preferred":[
@@ -166,9 +169,6 @@
     "name:pcd_x_preferred":[
         "Aartselaar"
     ],
-    "name:per_x_preferred":[
-        "\u0627\u0631\u062a\u0633\u0648\u0644\u0631"
-    ],
     "name:pms_x_preferred":[
         "Aartselaar"
     ],
@@ -181,7 +181,7 @@
     "name:roh_x_preferred":[
         "Aartselaar"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Aartselaar"
     ],
     "name:rus_x_preferred":[
@@ -193,7 +193,7 @@
     "name:sco_x_preferred":[
         "Aartselaar"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Aartselaar"
     ],
     "name:slv_x_preferred":[
@@ -232,14 +232,14 @@
     "name:war_x_preferred":[
         "Aartselaar"
     ],
-    "name:wel_x_preferred":[
-        "Aartselaar"
-    ],
     "name:wln_x_preferred":[
         "Aartselaar"
     ],
     "name:wol_x_preferred":[
         "Aartselaar"
+    ],
+    "name:zho_x_preferred":[
+        "\u963f\u5c14\u7279\u65af\u62c9\u5c14"
     ],
     "name:zul_x_preferred":[
         "Aartselaar"
@@ -301,7 +301,7 @@
         }
     ],
     "wof:id":1126040613,
-    "wof:lastmodified":1553816720,
+    "wof:lastmodified":1561831449,
     "wof:name":"Aartselaar",
     "wof:parent_id":1108830013,
     "wof:placetype":"locality",

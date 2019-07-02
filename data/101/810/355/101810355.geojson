@@ -17,9 +17,6 @@
     "mps:longitude":5.534378,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:baq_x_preferred":[
-        "Hamoir"
-    ],
     "name:bre_x_preferred":[
         "Hamoir"
     ],
@@ -29,13 +26,7 @@
     "name:cat_x_preferred":[
         "Hamoir"
     ],
-    "name:chi_x_preferred":[
-        "\u963f\u7a46\u74e6\u5c14"
-    ],
     "name:deu_x_preferred":[
-        "Hamoir"
-    ],
-    "name:dut_x_preferred":[
         "Hamoir"
     ],
     "name:eng_x_preferred":[
@@ -51,12 +42,6 @@
         "\u0627\u0645\u0648\u0622\u0631"
     ],
     "name:fra_x_preferred":[
-        "Hamoir"
-    ],
-    "name:fre_x_preferred":[
-        "Hamoir"
-    ],
-    "name:ger_x_preferred":[
         "Hamoir"
     ],
     "name:hun_x_preferred":[
@@ -86,25 +71,16 @@
     "name:oci_x_preferred":[
         "Hamoir"
     ],
-    "name:per_x_preferred":[
-        "\u0627\u0645\u0648\u0622\u0631"
-    ],
     "name:por_x_preferred":[
         "Hamoir"
     ],
     "name:ron_x_preferred":[
         "Hamoir"
     ],
-    "name:rum_x_preferred":[
-        "Hamoir"
-    ],
     "name:rus_x_preferred":[
         "\u0410\u043c\u0443\u0430\u0440"
     ],
     "name:slk_x_preferred":[
-        "Hamoir"
-    ],
-    "name:slo_x_preferred":[
         "Hamoir"
     ],
     "name:vie_x_preferred":[
@@ -171,7 +147,7 @@
         }
     ],
     "wof:id":101810355,
-    "wof:lastmodified":1527642419,
+    "wof:lastmodified":1561831414,
     "wof:name":"Hamoir",
     "wof:parent_id":102049925,
     "wof:placetype":"locality",

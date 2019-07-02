@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000441,
-    "geom:area_square_m":3437811.74491,
+    "geom:area_square_m":3437811.744909,
     "geom:bbox":"3.38327556856,50.9234621942,3.44840473334,50.9510157292",
     "geom:latitude":50.934236,
     "geom:longitude":3.414691,
@@ -19,9 +19,6 @@
     "name:ceb_x_preferred":[
         "Wakken"
     ],
-    "name:dut_x_preferred":[
-        "Wakken"
-    ],
     "name:eng_x_preferred":[
         "Wakken"
     ],
@@ -29,9 +26,6 @@
         "Wakken"
     ],
     "name:fra_x_preferred":[
-        "Wakken"
-    ],
-    "name:fre_x_preferred":[
         "Wakken"
     ],
     "name:hun_x_preferred":[
@@ -101,7 +95,7 @@
         }
     ],
     "wof:id":101809333,
-    "wof:lastmodified":1527715173,
+    "wof:lastmodified":1561831429,
     "wof:name":"Wakken",
     "wof:parent_id":1108830197,
     "wof:placetype":"locality",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000321,
-    "geom:area_square_m":2494233.125425,
+    "geom:area_square_m":2494233.125426,
     "geom:bbox":"3.55877452814,51.0506747742,3.58861581308,51.0845986577",
     "geom:latitude":51.064758,
     "geom:longitude":3.575696,
@@ -16,16 +16,16 @@
     "mps:longitude":3.577956,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:dut_x_preferred":[
-        "Landegem"
-    ],
     "name:eng_x_preferred":[
         "Landegem"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Landegem"
     ],
     "name:hun_x_preferred":[
+        "Landegem"
+    ],
+    "name:nld_x_preferred":[
         "Landegem"
     ],
     "qs:a0":"Belgi\u00eb#Belgique#Belgien",
@@ -76,7 +76,7 @@
         }
     ],
     "wof:id":101755717,
-    "wof:lastmodified":1513899354,
+    "wof:lastmodified":1561831407,
     "wof:name":"Landegem",
     "wof:parent_id":1108830463,
     "wof:placetype":"locality",

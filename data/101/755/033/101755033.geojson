@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000538,
-    "geom:area_square_m":4238376.244073,
+    "geom:area_square_m":4238376.244075,
     "geom:bbox":"4.24024161447,50.3991552885,4.3005064533,50.426400366",
     "geom:latitude":50.410971,
     "geom:longitude":4.270751,
@@ -17,9 +17,6 @@
     "mps:longitude":4.277624,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:baq_x_preferred":[
-        "Anderlues"
-    ],
     "name:bre_x_preferred":[
         "Anderlues"
     ],
@@ -33,9 +30,6 @@
         "Anderlues"
     ],
     "name:deu_x_preferred":[
-        "Anderlues"
-    ],
-    "name:dut_x_preferred":[
         "Anderlues"
     ],
     "name:eng_x_preferred":[
@@ -54,12 +48,6 @@
         "\u0622\u0646\u062f\u0631\u0644\u0648"
     ],
     "name:fra_x_preferred":[
-        "Anderlues"
-    ],
-    "name:fre_x_preferred":[
-        "Anderlues"
-    ],
-    "name:ger_x_preferred":[
         "Anderlues"
     ],
     "name:hun_x_preferred":[
@@ -86,9 +74,6 @@
     "name:pcd_x_preferred":[
         "And\u00e9rluve"
     ],
-    "name:per_x_preferred":[
-        "\u0622\u0646\u062f\u0631\u0644\u0648"
-    ],
     "name:pol_x_preferred":[
         "Anderlues"
     ],
@@ -98,16 +83,10 @@
     "name:ron_x_preferred":[
         "Anderlues"
     ],
-    "name:rum_x_preferred":[
-        "Anderlues"
-    ],
     "name:rus_x_preferred":[
         "\u0410\u043d\u0434\u0435\u0440\u043b\u044e"
     ],
     "name:slk_x_preferred":[
-        "Anderlues"
-    ],
-    "name:slo_x_preferred":[
         "Anderlues"
     ],
     "name:spa_x_preferred":[
@@ -178,7 +157,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1527641704,
+    "wof:lastmodified":1561831406,
     "wof:name":"Anderlues",
     "wof:parent_id":102049923,
     "wof:placetype":"locality",

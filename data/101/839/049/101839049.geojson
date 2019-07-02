@@ -17,9 +17,6 @@
     "mps:longitude":3.069532,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:dut_x_preferred":[
-        "Wijnendale"
-    ],
     "name:eng_x_preferred":[
         "Wijnendale"
     ],
@@ -90,7 +87,7 @@
         }
     ],
     "wof:id":101839049,
-    "wof:lastmodified":1527715392,
+    "wof:lastmodified":1561831434,
     "wof:name":"Wijnendale",
     "wof:parent_id":1108830333,
     "wof:placetype":"locality",

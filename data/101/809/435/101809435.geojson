@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000144,
-    "geom:area_square_m":1115957.157907,
+    "geom:area_square_m":1115957.157906,
     "geom:bbox":"3.18009520768,51.2902858596,3.20816505257,51.3024723152",
     "geom:latitude":51.295104,
     "geom:longitude":3.194248,
@@ -22,7 +22,7 @@
     "name:ceb_x_preferred":[
         "Lissewege"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Lissewege"
     ],
     "name:eng_x_preferred":[
@@ -32,12 +32,6 @@
         "Lissewege"
     ],
     "name:fra_x_preferred":[
-        "Lissewege"
-    ],
-    "name:fre_x_preferred":[
-        "Lissewege"
-    ],
-    "name:ger_x_preferred":[
         "Lissewege"
     ],
     "name:hun_x_preferred":[
@@ -108,7 +102,7 @@
         }
     ],
     "wof:id":101809435,
-    "wof:lastmodified":1527715179,
+    "wof:lastmodified":1561831430,
     "wof:name":"Lissewege",
     "wof:parent_id":1108830689,
     "wof:placetype":"locality",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":3418584.776479,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.661513,51.035891,3.661513,51.035891",
     "geom:latitude":51.035891,
     "geom:longitude":3.661513,
@@ -24,9 +24,6 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":3,
     "name:ceb_x_preferred":[
-        "Afsnee"
-    ],
-    "name:dut_x_preferred":[
         "Afsnee"
     ],
     "name:fra_x_preferred":[
@@ -78,12 +75,12 @@
     "src:lbl:centroid":"yerbashapes",
     "wd:wordcount":39,
     "wof:belongsto":[
-        85681733,
         102191581,
         1108830083,
         85632997,
         404227357,
-        102049989
+        102049989,
+        85681733
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -112,7 +109,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1531862041,
+    "wof:lastmodified":1561831363,
     "wof:name":"Afsnee",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

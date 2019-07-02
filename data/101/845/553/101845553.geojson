@@ -20,9 +20,6 @@
     "name:afr_x_preferred":[
         "Bouillon"
     ],
-    "name:baq_x_preferred":[
-        "Bouillon"
-    ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u0411\u0443\u0451\u043d"
     ],
@@ -41,22 +38,13 @@
     "name:ces_x_preferred":[
         "Bouillon"
     ],
-    "name:chi_x_preferred":[
-        "\u5e03\u6c38"
-    ],
     "name:cym_x_preferred":[
-        "Bouillon"
-    ],
-    "name:cze_x_preferred":[
         "Bouillon"
     ],
     "name:dan_x_preferred":[
         "Bouillon"
     ],
     "name:deu_x_preferred":[
-        "Bouillon"
-    ],
-    "name:dut_x_preferred":[
         "Bouillon"
     ],
     "name:eng_x_preferred":[
@@ -77,13 +65,7 @@
     "name:fra_x_preferred":[
         "Bouillon"
     ],
-    "name:fre_x_preferred":[
-        "Bouillon"
-    ],
     "name:fry_x_preferred":[
-        "Bouillon"
-    ],
-    "name:ger_x_preferred":[
         "Bouillon"
     ],
     "name:hun_x_preferred":[
@@ -119,9 +101,6 @@
     "name:oci_x_preferred":[
         "Bouillon"
     ],
-    "name:per_x_preferred":[
-        "\u0628\u0648\u06cc\u0646"
-    ],
     "name:pol_x_preferred":[
         "Bouillon"
     ],
@@ -131,16 +110,10 @@
     "name:ron_x_preferred":[
         "Bouillon"
     ],
-    "name:rum_x_preferred":[
-        "Bouillon"
-    ],
     "name:rus_x_preferred":[
         "\u0411\u0443\u0439\u043e\u043d"
     ],
     "name:slk_x_preferred":[
-        "Bouillon"
-    ],
-    "name:slo_x_preferred":[
         "Bouillon"
     ],
     "name:slv_x_preferred":[
@@ -162,9 +135,6 @@
         "Bouillon"
     ],
     "name:war_x_preferred":[
-        "Bouillon"
-    ],
-    "name:wel_x_preferred":[
         "Bouillon"
     ],
     "name:wln_x_preferred":[
@@ -224,7 +194,7 @@
         }
     ],
     "wof:id":101845553,
-    "wof:lastmodified":1527642316,
+    "wof:lastmodified":1561831413,
     "wof:name":"Bouillon",
     "wof:parent_id":102049913,
     "wof:placetype":"locality",

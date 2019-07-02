@@ -16,13 +16,13 @@
     "mps:longitude":4.207276,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:dut_x_preferred":[
-        "Branst"
-    ],
     "name:eng_x_preferred":[
         "Branst"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
+        "Branst"
+    ],
+    "name:nld_x_preferred":[
         "Branst"
     ],
     "qs:a0":"Belgi\u00eb#Belgique#Belgien",
@@ -70,7 +70,7 @@
         }
     ],
     "wof:id":101755659,
-    "wof:lastmodified":1513899192,
+    "wof:lastmodified":1561831400,
     "wof:name":"Branst",
     "wof:parent_id":1108830535,
     "wof:placetype":"locality",

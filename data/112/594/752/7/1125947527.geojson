@@ -21,19 +21,19 @@
     "name:bul_x_preferred":[
         "\u0414\u043e\u0435\u043b"
     ],
-    "name:dut_x_preferred":[
-        "Doel"
-    ],
     "name:eng_x_preferred":[
         "Doel"
     ],
     "name:epo_x_preferred":[
         "Doel"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Doel"
     ],
     "name:hun_x_preferred":[
+        "Doel"
+    ],
+    "name:nld_x_preferred":[
         "Doel"
     ],
     "name:swe_x_preferred":[
@@ -95,7 +95,7 @@
         }
     ],
     "wof:id":1125947527,
-    "wof:lastmodified":1513899236,
+    "wof:lastmodified":1561831439,
     "wof:name":"Doel",
     "wof:parent_id":1108830621,
     "wof:placetype":"locality",

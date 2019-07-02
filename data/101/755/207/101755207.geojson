@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000717,
-    "geom:area_square_m":5638676.759767,
+    "geom:area_square_m":5638676.759766,
     "geom:bbox":"5.62254167809,50.4976360035,5.69180646932,50.5496795575",
     "geom:latitude":50.517923,
     "geom:longitude":5.656774,
@@ -17,9 +17,6 @@
     "mps:longitude":5.6564,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:baq_x_preferred":[
-        "Sprimont"
-    ],
     "name:bre_x_preferred":[
         "Sprimont"
     ],
@@ -29,13 +26,7 @@
     "name:cat_x_preferred":[
         "Sprimont"
     ],
-    "name:chi_x_preferred":[
-        "\u65af\u666e\u91cc\u8499"
-    ],
     "name:deu_x_preferred":[
-        "Sprimont"
-    ],
-    "name:dut_x_preferred":[
         "Sprimont"
     ],
     "name:eng_x_preferred":[
@@ -51,12 +42,6 @@
         "\u0633\u067e\u06cc\u0631\u0645\u0648\u0646"
     ],
     "name:fra_x_preferred":[
-        "Sprimont"
-    ],
-    "name:fre_x_preferred":[
-        "Sprimont"
-    ],
-    "name:ger_x_preferred":[
         "Sprimont"
     ],
     "name:hun_x_preferred":[
@@ -83,9 +68,6 @@
     "name:oci_x_preferred":[
         "Sprimont"
     ],
-    "name:per_x_preferred":[
-        "\u0633\u067e\u06cc\u0631\u0645\u0648\u0646"
-    ],
     "name:pol_x_preferred":[
         "Sprimont"
     ],
@@ -95,16 +77,10 @@
     "name:ron_x_preferred":[
         "Sprimont"
     ],
-    "name:rum_x_preferred":[
-        "Sprimont"
-    ],
     "name:rus_x_preferred":[
         "\u0421\u043f\u0440\u0438\u043c\u043e\u043d"
     ],
     "name:slk_x_preferred":[
-        "Sprimont"
-    ],
-    "name:slo_x_preferred":[
         "Sprimont"
     ],
     "name:spa_x_preferred":[
@@ -181,7 +157,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1527641704,
+    "wof:lastmodified":1561831405,
     "wof:name":"Sprimont",
     "wof:parent_id":102049941,
     "wof:placetype":"locality",

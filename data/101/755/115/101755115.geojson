@@ -19,19 +19,16 @@
     "name:deu_x_preferred":[
         "Tertre"
     ],
-    "name:dut_x_preferred":[
-        "Tertre"
-    ],
     "name:eng_x_preferred":[
         "Tertre"
     ],
     "name:fra_x_preferred":[
         "Tertre"
     ],
-    "name:fre_x_preferred":[
+    "name:hun_x_preferred":[
         "Tertre"
     ],
-    "name:hun_x_preferred":[
+    "name:nld_x_preferred":[
         "Tertre"
     ],
     "name:unk_x_variant":[
@@ -84,7 +81,7 @@
         }
     ],
     "wof:id":101755115,
-    "wof:lastmodified":1535390420,
+    "wof:lastmodified":1561831406,
     "wof:name":"Tertre",
     "wof:parent_id":102049933,
     "wof:placetype":"locality",

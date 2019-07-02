@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000136,
-    "geom:area_square_m":1076382.125284,
+    "geom:area_square_m":1076382.125283,
     "geom:bbox":"5.77684739583,50.1253957341,5.79811213726,50.1397026106",
     "geom:latitude":50.131739,
     "geom:longitude":5.788687,
@@ -17,9 +17,6 @@
     "mps:longitude":5.789734,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:baq_x_preferred":[
-        "Houffalize"
-    ],
     "name:bre_x_preferred":[
         "Houffalize"
     ],
@@ -35,16 +32,7 @@
     "name:ces_x_preferred":[
         "Houffalize"
     ],
-    "name:chi_x_preferred":[
-        "\u80e1\u6cd5\u5229\u5179"
-    ],
-    "name:cze_x_preferred":[
-        "Houffalize"
-    ],
     "name:deu_x_preferred":[
-        "Houffalize"
-    ],
-    "name:dut_x_preferred":[
         "Houffalize"
     ],
     "name:eng_x_preferred":[
@@ -68,12 +56,6 @@
     "name:fra_x_preferred":[
         "Houffalize"
     ],
-    "name:fre_x_preferred":[
-        "Houffalize"
-    ],
-    "name:ger_x_preferred":[
-        "Houffalize"
-    ],
     "name:hun_x_preferred":[
         "Houffalize"
     ],
@@ -89,7 +71,7 @@
     "name:ltz_x_preferred":[
         "Houffalize"
     ],
-    "name:mac_x_preferred":[
+    "name:mkd_x_preferred":[
         "\u0423\u0444\u0430\u043b\u0438\u0437"
     ],
     "name:nld_x_preferred":[
@@ -104,9 +86,6 @@
     "name:oci_x_preferred":[
         "Houffalize"
     ],
-    "name:per_x_preferred":[
-        "\u0627\u0648\u0641\u0644\u06cc\u0632"
-    ],
     "name:pol_x_preferred":[
         "Houffalize"
     ],
@@ -116,9 +95,6 @@
     "name:ron_x_preferred":[
         "Houffalize"
     ],
-    "name:rum_x_preferred":[
-        "Houffalize"
-    ],
     "name:rus_x_preferred":[
         "\u0423\u0444\u0444\u0430\u043b\u0438\u0437"
     ],
@@ -126,9 +102,6 @@
         "Houffalize"
     ],
     "name:slk_x_preferred":[
-        "Houffalize"
-    ],
-    "name:slo_x_preferred":[
         "Houffalize"
     ],
     "name:swe_x_preferred":[
@@ -198,7 +171,7 @@
         }
     ],
     "wof:id":101811521,
-    "wof:lastmodified":1527642302,
+    "wof:lastmodified":1561831412,
     "wof:name":"Houffalize",
     "wof:parent_id":102049915,
     "wof:placetype":"locality",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000403,
-    "geom:area_square_m":3138843.707939,
+    "geom:area_square_m":3138843.70794,
     "geom:bbox":"2.91467533892,50.9649204656,2.96426199514,50.9907926304",
     "geom:latitude":50.977735,
     "geom:longitude":2.942284,
@@ -17,9 +17,6 @@
     "mps:longitude":2.940219,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:baq_x_preferred":[
-        "Houthulst"
-    ],
     "name:bre_x_preferred":[
         "Houthulst"
     ],
@@ -29,13 +26,7 @@
     "name:cat_x_preferred":[
         "Houthulst"
     ],
-    "name:chi_x_preferred":[
-        "\u8c6a\u7279\u8bb8\u5c14\u65af\u7279"
-    ],
     "name:deu_x_preferred":[
-        "Houthulst"
-    ],
-    "name:dut_x_preferred":[
         "Houthulst"
     ],
     "name:eng_x_preferred":[
@@ -54,12 +45,6 @@
         "\u0627\u0648\u062a\u0648\u0644\u0633\u062a"
     ],
     "name:fra_x_preferred":[
-        "Houthulst"
-    ],
-    "name:fre_x_preferred":[
-        "Houthulst"
-    ],
-    "name:ger_x_preferred":[
         "Houthulst"
     ],
     "name:hun_x_preferred":[
@@ -83,22 +68,13 @@
     "name:oci_x_preferred":[
         "Houthulst"
     ],
-    "name:per_x_preferred":[
-        "\u0627\u0648\u062a\u0648\u0644\u0633\u062a"
-    ],
     "name:por_x_preferred":[
         "Houthulst"
     ],
     "name:ron_x_preferred":[
         "Houthulst"
     ],
-    "name:rum_x_preferred":[
-        "Houthulst"
-    ],
     "name:slk_x_preferred":[
-        "Houthulst"
-    ],
-    "name:slo_x_preferred":[
         "Houthulst"
     ],
     "name:spa_x_preferred":[
@@ -177,7 +153,7 @@
         }
     ],
     "wof:id":101809353,
-    "wof:lastmodified":1527715162,
+    "wof:lastmodified":1561831427,
     "wof:name":"Houthulst",
     "wof:parent_id":1108830335,
     "wof:placetype":"locality",

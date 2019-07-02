@@ -19,9 +19,6 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
-    "name:baq_x_preferred":[
-        "Dison"
-    ],
     "name:bre_x_preferred":[
         "Dison"
     ],
@@ -31,10 +28,7 @@
     "name:cat_x_preferred":[
         "Dison"
     ],
-    "name:chi_x_preferred":[
-        "\u8fea\u677e"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Dison"
     ],
     "name:eng_x_preferred":[
@@ -43,10 +37,13 @@
     "name:epo_x_preferred":[
         "Dison"
     ],
-    "name:fre_x_preferred":[
+    "name:eus_x_preferred":[
         "Dison"
     ],
-    "name:ger_x_preferred":[
+    "name:fas_x_preferred":[
+        "\u062f\u06cc\u0632\u0648\u0646"
+    ],
+    "name:fra_x_preferred":[
         "Dison"
     ],
     "name:hun_x_preferred":[
@@ -61,25 +58,25 @@
     "name:ltz_x_preferred":[
         "Dison"
     ],
+    "name:nld_x_preferred":[
+        "Dison"
+    ],
     "name:nob_x_preferred":[
         "Dison"
     ],
     "name:oci_x_preferred":[
         "Dison"
     ],
-    "name:per_x_preferred":[
-        "\u062f\u06cc\u0632\u0648\u0646"
-    ],
     "name:por_x_preferred":[
         "Dison"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Dison"
     ],
     "name:rus_x_preferred":[
         "\u0414\u0438\u0437\u043e\u043d"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Dison"
     ],
     "name:spa_x_preferred":[
@@ -99,6 +96,9 @@
     ],
     "name:wln_x_preferred":[
         "Dizon"
+    ],
+    "name:zho_x_preferred":[
+        "\u8fea\u677e"
     ],
     "qs_pg:aaroncc":"BE",
     "qs_pg:gn_country":"BE",
@@ -141,7 +141,7 @@
         }
     ],
     "wof:id":1125862265,
-    "wof:lastmodified":1553816581,
+    "wof:lastmodified":1561831451,
     "wof:name":"Dison",
     "wof:parent_id":102049935,
     "wof:placetype":"locality",

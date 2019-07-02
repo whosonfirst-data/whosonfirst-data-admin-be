@@ -19,9 +19,6 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
-    "name:baq_x_preferred":[
-        "Daverdisse"
-    ],
     "name:bre_x_preferred":[
         "Daverdisse"
     ],
@@ -31,10 +28,7 @@
     "name:cat_x_preferred":[
         "Daverdisse"
     ],
-    "name:chi_x_preferred":[
-        "\u8fbe\u5f17\u5c14\u8fea\u65af"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Daverdisse"
     ],
     "name:eng_x_preferred":[
@@ -46,13 +40,13 @@
     "name:est_x_preferred":[
         "Daverdisse"
     ],
+    "name:eus_x_preferred":[
+        "Daverdisse"
+    ],
     "name:fas_x_preferred":[
         "\u062f\u0648\u0631\u062f\u06cc\u0633"
     ],
-    "name:fre_x_preferred":[
-        "Daverdisse"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Daverdisse"
     ],
     "name:hun_x_preferred":[
@@ -67,25 +61,25 @@
     "name:ltz_x_preferred":[
         "Daverdisse"
     ],
+    "name:nld_x_preferred":[
+        "Daverdisse"
+    ],
     "name:nob_x_preferred":[
         "Daverdisse"
     ],
     "name:oci_x_preferred":[
         "Daverdisse"
     ],
-    "name:per_x_preferred":[
-        "\u062f\u0648\u0631\u062f\u06cc\u0633"
-    ],
     "name:por_x_preferred":[
         "Daverdisse"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Daverdisse"
     ],
     "name:rus_x_preferred":[
         "\u0414\u0430\u0432\u0435\u0440\u0434\u0438\u0441"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Daverdisse"
     ],
     "name:vie_x_preferred":[
@@ -158,7 +152,7 @@
         }
     ],
     "wof:id":1126036329,
-    "wof:lastmodified":1513899224,
+    "wof:lastmodified":1561831450,
     "wof:name":"Daverdisse",
     "wof:parent_id":102049913,
     "wof:placetype":"locality",

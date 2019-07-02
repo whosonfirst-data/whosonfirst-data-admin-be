@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000163,
-    "geom:area_square_m":1285643.089796,
+    "geom:area_square_m":1285643.089795,
     "geom:bbox":"4.47963642131,50.2515341373,4.52937435815,50.2648027436",
     "geom:latitude":50.259023,
     "geom:longitude":4.507274,
@@ -16,13 +16,13 @@
     "mps:longitude":4.50897,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:dut_x_preferred":[
-        "Fraire"
-    ],
     "name:eng_x_preferred":[
         "Fraire"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
+        "Fraire"
+    ],
+    "name:nld_x_preferred":[
         "Fraire"
     ],
     "name:spa_x_preferred":[
@@ -74,7 +74,7 @@
         }
     ],
     "wof:id":101811559,
-    "wof:lastmodified":1513899271,
+    "wof:lastmodified":1561831411,
     "wof:name":"Fraire",
     "wof:parent_id":102049917,
     "wof:placetype":"locality",

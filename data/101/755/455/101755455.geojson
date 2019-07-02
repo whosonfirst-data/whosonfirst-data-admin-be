@@ -16,19 +16,10 @@
     "mps:longitude":4.257009,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u683c\u9b6f\u7279-\u62dc\u5609\u767b"
-    ],
-    "name:dut_x_preferred":[
-        "Groot-Bijgaarden"
-    ],
     "name:eng_x_preferred":[
         "Groot-Bijgaarden"
     ],
     "name:fra_x_preferred":[
-        "Grand-Bigard"
-    ],
-    "name:fre_x_preferred":[
         "Grand-Bigard"
     ],
     "name:hun_x_preferred":[
@@ -39,6 +30,9 @@
     ],
     "name:unk_x_variant":[
         "Dilbeek (Groot-Bijgaarden)"
+    ],
+    "name:zho_x_preferred":[
+        "\u683c\u9b6f\u7279-\u62dc\u5609\u767b"
     ],
     "qs:a0":"Belgi\u00eb#Belgique#Belgien",
     "qs:a1":"*Vlaams Brabant",
@@ -91,7 +85,7 @@
         }
     ],
     "wof:id":101755455,
-    "wof:lastmodified":1527641698,
+    "wof:lastmodified":1561831400,
     "wof:name":"Groot-Bijgaarden",
     "wof:parent_id":1108830207,
     "wof:placetype":"locality",

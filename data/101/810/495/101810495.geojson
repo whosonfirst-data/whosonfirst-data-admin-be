@@ -19,19 +19,10 @@
     "name:deu_x_preferred":[
         "Plancenoit"
     ],
-    "name:dut_x_preferred":[
-        "Plancenoit"
-    ],
     "name:eng_x_preferred":[
         "Plancenoit"
     ],
     "name:fra_x_preferred":[
-        "Plancenoit"
-    ],
-    "name:fre_x_preferred":[
-        "Plancenoit"
-    ],
-    "name:ger_x_preferred":[
         "Plancenoit"
     ],
     "name:jpn_x_preferred":[
@@ -108,7 +99,7 @@
         }
     ],
     "wof:id":101810495,
-    "wof:lastmodified":1527642430,
+    "wof:lastmodified":1561831417,
     "wof:name":"Plancenoit",
     "wof:parent_id":102049945,
     "wof:placetype":"locality",

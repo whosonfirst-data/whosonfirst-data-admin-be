@@ -20,9 +20,6 @@
     "name:afr_x_preferred":[
         "Wellen"
     ],
-    "name:baq_x_preferred":[
-        "Wellen"
-    ],
     "name:bre_x_preferred":[
         "Wellen"
     ],
@@ -35,13 +32,7 @@
     "name:ceb_x_preferred":[
         "Wellen"
     ],
-    "name:chi_x_preferred":[
-        "\u97e6\u4f26"
-    ],
     "name:deu_x_preferred":[
-        "Wellen"
-    ],
-    "name:dut_x_preferred":[
         "Wellen"
     ],
     "name:eng_x_preferred":[
@@ -57,12 +48,6 @@
         "\u0648\u0648\u0644\u0627\u0646"
     ],
     "name:fra_x_preferred":[
-        "Wellen"
-    ],
-    "name:fre_x_preferred":[
-        "Wellen"
-    ],
-    "name:ger_x_preferred":[
         "Wellen"
     ],
     "name:hun_x_preferred":[
@@ -86,9 +71,6 @@
     "name:oci_x_preferred":[
         "Wellen"
     ],
-    "name:per_x_preferred":[
-        "\u0648\u0648\u0644\u0627\u0646"
-    ],
     "name:pol_x_preferred":[
         "Wellen"
     ],
@@ -98,13 +80,7 @@
     "name:ron_x_preferred":[
         "Wellen"
     ],
-    "name:rum_x_preferred":[
-        "Wellen"
-    ],
     "name:slk_x_preferred":[
-        "Wellen"
-    ],
-    "name:slo_x_preferred":[
         "Wellen"
     ],
     "name:swe_x_preferred":[
@@ -175,7 +151,7 @@
         }
     ],
     "wof:id":101838701,
-    "wof:lastmodified":1535390519,
+    "wof:lastmodified":1561831423,
     "wof:name":"Wellen",
     "wof:parent_id":1108830011,
     "wof:placetype":"locality",

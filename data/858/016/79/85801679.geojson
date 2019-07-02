@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":32486644.412479,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.390179,51.164457,4.390179,51.164457",
     "geom:latitude":51.164457,
     "geom:longitude":4.390179,
@@ -24,11 +24,11 @@
     "mz:min_zoom":13.0,
     "mz:tier_locality":3,
     "mz:tier_metro":30,
-    "name:dut_x_preferred":[
-        "Neerland"
-    ],
     "name:ita_x_preferred":[
         "\u00d8ystein Neerland"
+    ],
+    "name:nld_x_preferred":[
+        "Neerland"
     ],
     "name:nor_x_preferred":[
         "\u00d8ystein Neerland"
@@ -68,13 +68,13 @@
     ],
     "src:lbl:centroid":"mz",
     "wof:belongsto":[
-        85681715,
         102191581,
         1108830423,
         85632997,
         404227357,
         101748099,
-        102050005
+        102050005,
+        85681715
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -101,7 +101,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1531862092,
+    "wof:lastmodified":1561831365,
     "wof:name":"Neerland",
     "wof:parent_id":101748099,
     "wof:placetype":"neighbourhood",

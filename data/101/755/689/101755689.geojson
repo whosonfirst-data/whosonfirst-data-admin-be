@@ -22,16 +22,10 @@
     "name:ceb_x_preferred":[
         "Bottelare"
     ],
-    "name:dut_x_preferred":[
-        "Bottelare"
-    ],
     "name:eng_x_preferred":[
         "Bottelare"
     ],
     "name:fra_x_preferred":[
-        "Bottelare"
-    ],
-    "name:fre_x_preferred":[
         "Bottelare"
     ],
     "name:hun_x_preferred":[
@@ -96,7 +90,7 @@
         }
     ],
     "wof:id":101755689,
-    "wof:lastmodified":1527641697,
+    "wof:lastmodified":1561831398,
     "wof:name":"Bottelare",
     "wof:parent_id":1108830115,
     "wof:placetype":"locality",

@@ -18,16 +18,16 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
-    "name:dut_x_preferred":[
-        "Letterhoutem"
-    ],
     "name:eng_x_preferred":[
         "Letterhoutem"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Letterhoutem"
     ],
     "name:hun_x_preferred":[
+        "Letterhoutem"
+    ],
+    "name:nld_x_preferred":[
         "Letterhoutem"
     ],
     "name:unk_x_variant":[
@@ -87,7 +87,7 @@
         }
     ],
     "wof:id":1126000985,
-    "wof:lastmodified":1513899363,
+    "wof:lastmodified":1561831470,
     "wof:name":"Letterhoutem",
     "wof:parent_id":1108830121,
     "wof:placetype":"locality",

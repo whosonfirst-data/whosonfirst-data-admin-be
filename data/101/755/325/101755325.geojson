@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000052,
-    "geom:area_square_m":409181.032798,
+    "geom:area_square_m":409181.032797,
     "geom:bbox":"3.34100678266,50.7147583885,3.36003576238,50.7242738",
     "geom:latitude":50.719946,
     "geom:longitude":3.351908,
@@ -19,16 +19,16 @@
     "name:cat_x_preferred":[
         "Spiere"
     ],
-    "name:dut_x_preferred":[
-        "Spiere"
-    ],
     "name:eng_x_preferred":[
         "Spiere"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Espierres"
     ],
     "name:hun_x_preferred":[
+        "Spiere"
+    ],
+    "name:nld_x_preferred":[
         "Spiere"
     ],
     "name:por_x_preferred":[
@@ -89,7 +89,7 @@
         }
     ],
     "wof:id":101755325,
-    "wof:lastmodified":1513899511,
+    "wof:lastmodified":1561831402,
     "wof:name":"Spiere",
     "wof:parent_id":1108830369,
     "wof:placetype":"locality",

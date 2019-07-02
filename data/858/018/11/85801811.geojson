@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":13572008.561563,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.493065,50.816462,4.493065,50.816462",
     "geom:latitude":50.816462,
     "geom:longitude":4.493065,
@@ -29,9 +29,6 @@
         "Ravenstein"
     ],
     "name:deu_x_preferred":[
-        "Ravenstein"
-    ],
-    "name:dut_x_preferred":[
         "Ravenstein"
     ],
     "name:epo_x_preferred":[
@@ -78,13 +75,13 @@
     "src:lbl:centroid":"mz",
     "wd:wordcount":52,
     "wof:belongsto":[
-        85681731,
         102191581,
         1108830631,
         85632997,
         404227357,
         101754329,
-        102049969
+        102049969,
+        85681731
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -110,7 +107,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1531862097,
+    "wof:lastmodified":1561831365,
     "wof:name":"Ravenstein",
     "wof:parent_id":101754329,
     "wof:placetype":"neighbourhood",

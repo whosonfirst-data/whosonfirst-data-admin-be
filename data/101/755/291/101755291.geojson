@@ -16,19 +16,13 @@
     "mps:longitude":3.164189,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Rekkem"
     ],
     "name:eng_x_preferred":[
         "Rekkem"
     ],
     "name:fra_x_preferred":[
-        "Rekkem"
-    ],
-    "name:fre_x_preferred":[
-        "Rekkem"
-    ],
-    "name:ger_x_preferred":[
         "Rekkem"
     ],
     "name:hun_x_preferred":[
@@ -95,7 +89,7 @@
         }
     ],
     "wof:id":101755291,
-    "wof:lastmodified":1527641704,
+    "wof:lastmodified":1561831405,
     "wof:name":"Rekkem",
     "wof:parent_id":1108830067,
     "wof:placetype":"locality",

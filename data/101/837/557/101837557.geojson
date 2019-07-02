@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000757,
-    "geom:area_square_m":5881529.897475,
+    "geom:area_square_m":5881529.897474,
     "geom:bbox":"2.64084538026,51.0579756668,2.6982162883,51.0905016261",
     "geom:latitude":51.072603,
     "geom:longitude":2.669916,
@@ -17,9 +17,6 @@
     "mps:longitude":2.671872,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:baq_x_preferred":[
-        "Veurne"
-    ],
     "name:bre_x_preferred":[
         "Veurne"
     ],
@@ -32,16 +29,10 @@
     "name:ceb_x_preferred":[
         "Veurne"
     ],
-    "name:chi_x_preferred":[
-        "\u5f17\u5c14\u5185"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Veurne"
     ],
     "name:deu_x_preferred":[
-        "Veurne"
-    ],
-    "name:dut_x_preferred":[
         "Veurne"
     ],
     "name:eng_x_preferred":[
@@ -61,12 +52,6 @@
     ],
     "name:fra_x_preferred":[
         "Furnes"
-    ],
-    "name:fre_x_preferred":[
-        "Furnes"
-    ],
-    "name:ger_x_preferred":[
-        "Veurne"
     ],
     "name:hun_x_preferred":[
         "Veurne"
@@ -101,9 +86,6 @@
     "name:oci_x_preferred":[
         "Furnes"
     ],
-    "name:per_x_preferred":[
-        "\u0648\u0631\u0646"
-    ],
     "name:pol_x_preferred":[
         "Veurne"
     ],
@@ -113,16 +95,10 @@
     "name:ron_x_preferred":[
         "Veurne"
     ],
-    "name:rum_x_preferred":[
-        "Veurne"
-    ],
     "name:rus_x_preferred":[
         "\u0412\u0451\u0440\u043d\u0435"
     ],
     "name:slk_x_preferred":[
-        "Veurne"
-    ],
-    "name:slo_x_preferred":[
         "Veurne"
     ],
     "name:spa_x_preferred":[
@@ -203,7 +179,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1513899544,
+    "wof:lastmodified":1561831431,
     "wof:name":"Veurne",
     "wof:parent_id":1108830165,
     "wof:placetype":"locality",

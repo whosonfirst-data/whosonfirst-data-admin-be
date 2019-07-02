@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001111,
-    "geom:area_square_m":8695170.077963,
+    "geom:area_square_m":8695170.077964,
     "geom:bbox":"4.44979111036,50.7050400876,4.50459552089,50.7533844582",
     "geom:latitude":50.732285,
     "geom:longitude":4.476241,
@@ -17,9 +17,6 @@
     "mps:longitude":4.478055,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:baq_x_preferred":[
-        "La Hulpe"
-    ],
     "name:bre_x_preferred":[
         "La Hulpe"
     ],
@@ -32,14 +29,8 @@
     "name:ceb_x_preferred":[
         "La Hulpe"
     ],
-    "name:chi_x_preferred":[
-        "\u62c9\u4e8e\u5c14\u666e"
-    ],
     "name:deu_x_preferred":[
         "La Hulpe"
-    ],
-    "name:dut_x_preferred":[
-        "Terhulpen"
     ],
     "name:eng_x_preferred":[
         "La Hulpe"
@@ -57,12 +48,6 @@
         "\u0644\u0626\u0648\u0644\u067e"
     ],
     "name:fra_x_preferred":[
-        "La Hulpe"
-    ],
-    "name:fre_x_preferred":[
-        "La Hulpe"
-    ],
-    "name:ger_x_preferred":[
         "La Hulpe"
     ],
     "name:hun_x_preferred":[
@@ -89,25 +74,16 @@
     "name:oci_x_preferred":[
         "La Hulpe"
     ],
-    "name:per_x_preferred":[
-        "\u0644\u0626\u0648\u0644\u067e"
-    ],
     "name:por_x_preferred":[
         "La Hulpe"
     ],
     "name:ron_x_preferred":[
         "La Hulpe"
     ],
-    "name:rum_x_preferred":[
-        "La Hulpe"
-    ],
     "name:rus_x_preferred":[
         "\u041b\u0430-\u042e\u043b\u044c\u043f"
     ],
     "name:slk_x_preferred":[
-        "La Hulpe"
-    ],
-    "name:slo_x_preferred":[
         "La Hulpe"
     ],
     "name:spa_x_preferred":[
@@ -186,7 +162,7 @@
         }
     ],
     "wof:id":101755249,
-    "wof:lastmodified":1527641703,
+    "wof:lastmodified":1561831404,
     "wof:name":"La Hulpe",
     "wof:parent_id":102049945,
     "wof:placetype":"locality",

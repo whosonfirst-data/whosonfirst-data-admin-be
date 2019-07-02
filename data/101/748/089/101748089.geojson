@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004457,
-    "geom:area_square_m":34775372.072678,
+    "geom:area_square_m":34775372.07268,
     "geom:bbox":"4.64572116407,50.8465085,4.7732024757,50.9186703106",
     "geom:latitude":50.880897,
     "geom:longitude":4.711175,
@@ -23,14 +23,8 @@
     "name:ara_x_preferred":[
         "\u0644\u0648\u0641\u0627\u0646"
     ],
-    "name:arm_x_preferred":[
-        "\u053c\u0575\u0578\u0582\u057e\u0565\u0576"
-    ],
     "name:aze_x_preferred":[
         "Leuven"
-    ],
-    "name:baq_x_preferred":[
-        "Lovaina"
     ],
     "name:bel_x_preferred":[
         "\u041b\u0451\u0432\u0435\u043d"
@@ -50,20 +44,14 @@
     "name:ces_x_preferred":[
         "Lova\u0148"
     ],
-    "name:chi_x_preferred":[
-        "\u65b0\u9c81\u6c76"
-    ],
-    "name:cze_x_preferred":[
-        "Lova\u0148"
+    "name:cym_x_preferred":[
+        "Leuven"
     ],
     "name:dan_x_preferred":[
         "Leuven"
     ],
     "name:deu_x_preferred":[
         "L\u00f6wen"
-    ],
-    "name:dut_x_preferred":[
-        "Leuven"
     ],
     "name:dut_x_variant":[
         "ZGK"
@@ -80,26 +68,23 @@
     "name:est_x_preferred":[
         "Leuven"
     ],
+    "name:eus_x_preferred":[
+        "Lovaina"
+    ],
+    "name:fas_x_preferred":[
+        "\u0644\u0648\u0646"
+    ],
     "name:fin_x_preferred":[
         "Leuven"
     ],
     "name:fra_x_preferred":[
         "Louvain"
     ],
-    "name:fre_x_preferred":[
-        "Louvain"
-    ],
     "name:fry_x_preferred":[
         "Leuven"
     ],
-    "name:ger_x_preferred":[
-        "L\u00f6wen"
-    ],
     "name:gle_x_preferred":[
         "Leuven"
-    ],
-    "name:gre_x_preferred":[
-        "\u039b\u03ad\u03bf\u03c5\u03b2\u03b5\u03bd"
     ],
     "name:guj_x_preferred":[
         "\u0ab2\u0acd\u0aaf\u0ac1\u0ab5\u0ac7\u0aa8"
@@ -113,10 +98,13 @@
     "name:hun_x_preferred":[
         "Leuven"
     ],
-    "name:ice_x_preferred":[
-        "Leuven"
+    "name:hye_x_preferred":[
+        "\u053c\u0575\u0578\u0582\u057e\u0565\u0576"
     ],
     "name:ind_x_preferred":[
+        "Leuven"
+    ],
+    "name:isl_x_preferred":[
         "Leuven"
     ],
     "name:ita_x_preferred":[
@@ -150,13 +138,13 @@
     "name:ltz_x_preferred":[
         "L\u00e9iwen"
     ],
-    "name:mac_x_preferred":[
-        "\u041b\u0435\u0432\u0435\u043d"
-    ],
     "name:mar_x_preferred":[
         "\u0932\u094d\u092f\u0942\u0935\u094d\u0939\u0947\u0928"
     ],
-    "name:may_x_preferred":[
+    "name:mkd_x_preferred":[
+        "\u041b\u0435\u0432\u0435\u043d"
+    ],
+    "name:msa_x_preferred":[
         "Leuven"
     ],
     "name:nah_x_preferred":[
@@ -174,9 +162,6 @@
     "name:oci_x_preferred":[
         "Lovaina"
     ],
-    "name:per_x_preferred":[
-        "\u0644\u0648\u0646"
-    ],
     "name:pol_x_preferred":[
         "Leuven"
     ],
@@ -184,9 +169,6 @@
         "Lovaina"
     ],
     "name:ron_x_preferred":[
-        "Louvain"
-    ],
-    "name:rum_x_preferred":[
         "Louvain"
     ],
     "name:rus_x_preferred":[
@@ -198,7 +180,7 @@
     "name:sin_x_preferred":[
         "\u0dbd\u0dd2\u0dba\u0dd4\u0dc0\u0dd9\u0db1\u0dca"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Leuven"
     ],
     "name:slv_x_preferred":[
@@ -255,14 +237,14 @@
     "name:war_x_preferred":[
         "Leuven"
     ],
-    "name:wel_x_preferred":[
-        "Leuven"
-    ],
     "name:wln_x_preferred":[
         "Lov\u00e9n"
     ],
     "name:zho_x_preferred":[
         "\u9c81\u6c76"
+    ],
+    "name:zho_x_variant":[
+        "\u65b0\u9c81\u6c76"
     ],
     "qs:a0":"Belgi\u00eb#Belgique#Belgien",
     "qs:a1":"*Vlaams Brabant",
@@ -323,7 +305,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1527688476,
+    "wof:lastmodified":1561831418,
     "wof:name":"Leuven",
     "wof:parent_id":1108830125,
     "wof:placetype":"locality",

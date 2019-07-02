@@ -78,9 +78,6 @@
     "name:cym_x_preferred":[
         "Antwerp"
     ],
-    "name:cze_x_preferred":[
-        "Antverpy"
-    ],
     "name:dan_x_preferred":[
         "Antwerpen"
     ],
@@ -515,7 +512,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1535390494,
+    "wof:lastmodified":1561831418,
     "wof:megacity":1,
     "wof:name":"Antwerpen",
     "wof:parent_id":1108830423,

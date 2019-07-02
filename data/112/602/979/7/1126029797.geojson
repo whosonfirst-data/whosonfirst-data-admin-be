@@ -21,16 +21,16 @@
     "name:bre_x_preferred":[
         "Ettelgem"
     ],
-    "name:dut_x_preferred":[
-        "Ettelgem"
-    ],
     "name:eng_x_preferred":[
         "Ettelgem"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Ettelgem"
     ],
     "name:hun_x_preferred":[
+        "Ettelgem"
+    ],
+    "name:nld_x_preferred":[
         "Ettelgem"
     ],
     "name:unk_x_variant":[
@@ -93,7 +93,7 @@
         }
     ],
     "wof:id":1126029797,
-    "wof:lastmodified":1513899255,
+    "wof:lastmodified":1561831445,
     "wof:name":"Ettelgem",
     "wof:parent_id":1108830363,
     "wof:placetype":"locality",

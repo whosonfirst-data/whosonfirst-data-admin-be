@@ -17,9 +17,6 @@
     "mps:longitude":3.338685,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:baq_x_preferred":[
-        "Zwevegem"
-    ],
     "name:bre_x_preferred":[
         "Zwevegem"
     ],
@@ -29,13 +26,7 @@
     "name:cat_x_preferred":[
         "Zwevegem"
     ],
-    "name:chi_x_preferred":[
-        "\u5179\u97e6\u5f17\u6d77\u59c6"
-    ],
     "name:deu_x_preferred":[
-        "Zwevegem"
-    ],
-    "name:dut_x_preferred":[
         "Zwevegem"
     ],
     "name:eng_x_preferred":[
@@ -50,16 +41,13 @@
     "name:est_x_preferred":[
         "Zwevegem"
     ],
+    "name:eus_x_preferred":[
+        "Zwevegem"
+    ],
     "name:fas_x_preferred":[
         "\u0632\u0648\u0626\u0648\u0648\u0698\u0645"
     ],
     "name:fra_x_preferred":[
-        "Zwevegem"
-    ],
-    "name:fre_x_preferred":[
-        "Zwevegem"
-    ],
-    "name:ger_x_preferred":[
         "Zwevegem"
     ],
     "name:hun_x_preferred":[
@@ -86,19 +74,16 @@
     "name:oci_x_preferred":[
         "Zwevegem"
     ],
-    "name:per_x_preferred":[
-        "\u0632\u0648\u0626\u0648\u0648\u0698\u0645"
-    ],
     "name:por_x_preferred":[
         "Zwevegem"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Zwevegem"
     ],
     "name:rus_x_preferred":[
         "\u0417\u0432\u0435\u0432\u0435\u0433\u0435\u043c"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Zwevegem"
     ],
     "name:spa_x_preferred":[
@@ -180,7 +165,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1527641861,
+    "wof:lastmodified":1561831410,
     "wof:name":"Zwevegem",
     "wof:parent_id":1108830095,
     "wof:placetype":"locality",

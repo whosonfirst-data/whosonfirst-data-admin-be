@@ -16,9 +16,6 @@
     "mps:longitude":4.694407,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:baq_x_preferred":[
-        "Walhain"
-    ],
     "name:bre_x_preferred":[
         "Walhain"
     ],
@@ -31,13 +28,7 @@
     "name:ceb_x_preferred":[
         "Walhain"
     ],
-    "name:chi_x_preferred":[
-        "\u74e6\u5170"
-    ],
     "name:deu_x_preferred":[
-        "Walhain"
-    ],
-    "name:dut_x_preferred":[
         "Walhain"
     ],
     "name:eng_x_preferred":[
@@ -58,12 +49,6 @@
     "name:fra_x_preferred":[
         "Walhain"
     ],
-    "name:fre_x_preferred":[
-        "Walhain"
-    ],
-    "name:ger_x_preferred":[
-        "Walhain"
-    ],
     "name:hun_x_preferred":[
         "Walhain"
     ],
@@ -82,25 +67,16 @@
     "name:oci_x_preferred":[
         "Walhain"
     ],
-    "name:per_x_preferred":[
-        "\u0648\u0644\u0646"
-    ],
     "name:por_x_preferred":[
         "Walhain"
     ],
     "name:ron_x_preferred":[
         "Walhain"
     ],
-    "name:rum_x_preferred":[
-        "Walhain"
-    ],
     "name:rus_x_preferred":[
         "\u0412\u0430\u043b\u0435\u043d"
     ],
     "name:slk_x_preferred":[
-        "Walhain"
-    ],
-    "name:slo_x_preferred":[
         "Walhain"
     ],
     "name:spa_x_preferred":[
@@ -170,7 +146,7 @@
         }
     ],
     "wof:id":101810513,
-    "wof:lastmodified":1527642432,
+    "wof:lastmodified":1561831417,
     "wof:name":"Walhain",
     "wof:parent_id":102049945,
     "wof:placetype":"locality",

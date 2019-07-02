@@ -39,9 +39,6 @@
     "name:deu_x_preferred":[
         "Namur"
     ],
-    "name:dut_x_preferred":[
-        "Namen"
-    ],
     "name:ell_x_preferred":[
         "\u039d\u03b1\u03bc\u03cd\u03c1"
     ],
@@ -287,7 +284,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1535390461,
+    "wof:lastmodified":1561831417,
     "wof:name":"Namur",
     "wof:parent_id":102049931,
     "wof:placetype":"locality",

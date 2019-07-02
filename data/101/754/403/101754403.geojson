@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001164,
-    "geom:area_square_m":9029753.253013,
+    "geom:area_square_m":9029753.253012,
     "geom:bbox":"4.40544064573,51.0909169832,4.46913749163,51.146939",
     "geom:latitude":51.125907,
     "geom:longitude":4.444795,
@@ -17,9 +17,6 @@
     "mps:longitude":4.449273,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:baq_x_preferred":[
-        "Kontich"
-    ],
     "name:bre_x_preferred":[
         "Kontich"
     ],
@@ -32,13 +29,7 @@
     "name:ceb_x_preferred":[
         "Kontich"
     ],
-    "name:chi_x_preferred":[
-        "\u5b54\u8482\u8d6b"
-    ],
     "name:deu_x_preferred":[
-        "Kontich"
-    ],
-    "name:dut_x_preferred":[
         "Kontich"
     ],
     "name:eng_x_preferred":[
@@ -54,12 +45,6 @@
         "\u06a9\u0648\u0646\u062a\u06cc\u06a9"
     ],
     "name:fra_x_preferred":[
-        "Kontich"
-    ],
-    "name:fre_x_preferred":[
-        "Kontich"
-    ],
-    "name:ger_x_preferred":[
         "Kontich"
     ],
     "name:hun_x_preferred":[
@@ -86,25 +71,16 @@
     "name:oci_x_preferred":[
         "Kontich"
     ],
-    "name:per_x_preferred":[
-        "\u06a9\u0648\u0646\u062a\u06cc\u06a9"
-    ],
     "name:por_x_preferred":[
         "Kontich"
     ],
     "name:ron_x_preferred":[
         "Kontich"
     ],
-    "name:rum_x_preferred":[
-        "Kontich"
-    ],
     "name:rus_x_preferred":[
         "\u041a\u043e\u043d\u0442\u0438\u0447"
     ],
     "name:slk_x_preferred":[
-        "Kontich"
-    ],
-    "name:slo_x_preferred":[
         "Kontich"
     ],
     "name:spa_x_preferred":[
@@ -183,7 +159,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1527641868,
+    "wof:lastmodified":1561831410,
     "wof:name":"Kontich",
     "wof:parent_id":1108830209,
     "wof:placetype":"locality",

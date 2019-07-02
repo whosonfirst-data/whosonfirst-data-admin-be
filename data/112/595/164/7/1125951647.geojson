@@ -21,19 +21,19 @@
     "name:bre_x_preferred":[
         "Moere"
     ],
-    "name:dut_x_preferred":[
-        "Moere"
-    ],
     "name:eng_x_preferred":[
         "Moere"
     ],
     "name:est_x_preferred":[
         "Moere"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Moere"
     ],
     "name:hun_x_preferred":[
+        "Moere"
+    ],
+    "name:nld_x_preferred":[
         "Moere"
     ],
     "name:rus_x_preferred":[
@@ -102,7 +102,7 @@
         }
     ],
     "wof:id":1125951647,
-    "wof:lastmodified":1513899408,
+    "wof:lastmodified":1561831443,
     "wof:name":"Moere",
     "wof:parent_id":1108830575,
     "wof:placetype":"locality",

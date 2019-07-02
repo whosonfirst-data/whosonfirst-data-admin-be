@@ -19,12 +19,6 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
-    "name:arm_x_preferred":[
-        "\u054d\u056b\u0576\u057f-\u0531\u0574\u0561\u0576\u0564\u057d"
-    ],
-    "name:baq_x_preferred":[
-        "Sint-Amands"
-    ],
     "name:bre_x_preferred":[
         "Sint-Amands"
     ],
@@ -34,10 +28,7 @@
     "name:cat_x_preferred":[
         "Sint-Amands"
     ],
-    "name:chi_x_preferred":[
-        "\u5723\u963f\u66fc\u5179"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Sint-Amands"
     ],
     "name:eng_x_preferred":[
@@ -46,25 +37,31 @@
     "name:epo_x_preferred":[
         "Sint-Amands"
     ],
+    "name:eus_x_preferred":[
+        "Sint-Amands"
+    ],
     "name:fas_x_preferred":[
         "\u0633\u0646-\u0627\u0645\u0627\u0646"
     ],
     "name:fin_x_preferred":[
         "Sint-Amands"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Saint-Amand"
-    ],
-    "name:geo_x_preferred":[
-        "\u10e1\u10d8\u10dc\u10e2-\u10d0\u10db\u10d0\u10dc\u10d3\u10e1\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Sint-Amands"
     ],
     "name:hun_x_preferred":[
         "Sint-Amands"
     ],
+    "name:hye_x_preferred":[
+        "\u054d\u056b\u0576\u057f-\u0531\u0574\u0561\u0576\u0564\u057d"
+    ],
     "name:ita_x_preferred":[
+        "Sint-Amands"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e1\u10d8\u10dc\u10e2-\u10d0\u10db\u10d0\u10dc\u10d3\u10e1\u10d8"
+    ],
+    "name:nld_x_preferred":[
         "Sint-Amands"
     ],
     "name:nob_x_preferred":[
@@ -73,19 +70,16 @@
     "name:oci_x_preferred":[
         "Sint-Amands"
     ],
-    "name:per_x_preferred":[
-        "\u0633\u0646-\u0627\u0645\u0627\u0646"
-    ],
     "name:por_x_preferred":[
         "Sint-Amands"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Sint-Amands"
     ],
     "name:rus_x_preferred":[
         "\u0421\u0438\u043d\u0442-\u0410\u043c\u0430\u043d\u0434\u0441"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Sint-Amands"
     ],
     "name:spa_x_preferred":[
@@ -166,7 +160,7 @@
         }
     ],
     "wof:id":1125961689,
-    "wof:lastmodified":1553816658,
+    "wof:lastmodified":1561831465,
     "wof:name":"St.-Amands",
     "wof:parent_id":1108830145,
     "wof:placetype":"locality",

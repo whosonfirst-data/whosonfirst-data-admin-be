@@ -22,9 +22,6 @@
     "name:ceb_x_preferred":[
         "Vichte"
     ],
-    "name:dut_x_preferred":[
-        "Vichte"
-    ],
     "name:eng_x_preferred":[
         "Vichte"
     ],
@@ -32,9 +29,6 @@
         "Vichte"
     ],
     "name:fra_x_preferred":[
-        "Vichte"
-    ],
-    "name:fre_x_preferred":[
         "Vichte"
     ],
     "name:hun_x_preferred":[
@@ -104,7 +98,7 @@
         }
     ],
     "wof:id":101755313,
-    "wof:lastmodified":1527641700,
+    "wof:lastmodified":1561831401,
     "wof:name":"Vichte",
     "wof:parent_id":1108830475,
     "wof:placetype":"locality",

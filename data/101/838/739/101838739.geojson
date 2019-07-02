@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000754,
-    "geom:area_square_m":5892870.614576,
+    "geom:area_square_m":5892870.614577,
     "geom:bbox":"4.91133623369,50.7585796199,5.00727043501,50.7995408518",
     "geom:latitude":50.784521,
     "geom:longitude":4.948605,
@@ -23,9 +23,6 @@
     "name:deu_x_preferred":[
         "Bost"
     ],
-    "name:dut_x_preferred":[
-        "Bost"
-    ],
     "name:eng_x_preferred":[
         "Bost"
     ],
@@ -33,9 +30,6 @@
         "Bost"
     ],
     "name:fra_x_preferred":[
-        "Bost"
-    ],
-    "name:fre_x_preferred":[
         "Bost"
     ],
     "name:hun_x_preferred":[
@@ -99,7 +93,7 @@
         }
     ],
     "wof:id":101838739,
-    "wof:lastmodified":1527715122,
+    "wof:lastmodified":1561831423,
     "wof:name":"Bost",
     "wof:parent_id":1108830017,
     "wof:placetype":"locality",

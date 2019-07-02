@@ -21,19 +21,19 @@
     "name:bre_x_preferred":[
         "Vinkt"
     ],
-    "name:dut_x_preferred":[
-        "Vinkt"
-    ],
     "name:eng_x_preferred":[
         "Vinkt"
     ],
     "name:est_x_preferred":[
         "Vinkt"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Vinkt"
     ],
     "name:hun_x_preferred":[
+        "Vinkt"
+    ],
+    "name:nld_x_preferred":[
         "Vinkt"
     ],
     "name:unk_x_variant":[
@@ -98,7 +98,7 @@
         }
     ],
     "wof:id":1125883293,
-    "wof:lastmodified":1513899547,
+    "wof:lastmodified":1561831455,
     "wof:name":"Vinkt",
     "wof:parent_id":1108830629,
     "wof:placetype":"locality",

@@ -17,12 +17,6 @@
     "mps:longitude":5.025105,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:arm_x_preferred":[
-        "\u0531\u057d\u0565\u057d"
-    ],
-    "name:baq_x_preferred":[
-        "Assesse"
-    ],
     "name:bre_x_preferred":[
         "Assesse"
     ],
@@ -35,13 +29,7 @@
     "name:ceb_x_preferred":[
         "Assesse"
     ],
-    "name:chi_x_preferred":[
-        "\u963f\u585e\u65af"
-    ],
     "name:deu_x_preferred":[
-        "Assesse"
-    ],
-    "name:dut_x_preferred":[
         "Assesse"
     ],
     "name:eng_x_preferred":[
@@ -62,14 +50,11 @@
     "name:fra_x_preferred":[
         "Assesse"
     ],
-    "name:fre_x_preferred":[
-        "Assesse"
-    ],
-    "name:ger_x_preferred":[
-        "Assesse"
-    ],
     "name:hun_x_preferred":[
         "Assesse"
+    ],
+    "name:hye_x_preferred":[
+        "\u0531\u057d\u0565\u057d"
     ],
     "name:ita_x_preferred":[
         "Assesse"
@@ -89,22 +74,13 @@
     "name:oci_x_preferred":[
         "Assesse"
     ],
-    "name:per_x_preferred":[
-        "\u0627\u0633\u0633"
-    ],
     "name:por_x_preferred":[
         "Assesse"
     ],
     "name:ron_x_preferred":[
         "Assesse"
     ],
-    "name:rum_x_preferred":[
-        "Assesse"
-    ],
     "name:slk_x_preferred":[
-        "Assesse"
-    ],
-    "name:slo_x_preferred":[
         "Assesse"
     ],
     "name:spa_x_preferred":[
@@ -180,7 +156,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1527642422,
+    "wof:lastmodified":1561831415,
     "wof:name":"Assesse",
     "wof:parent_id":102049931,
     "wof:placetype":"locality",

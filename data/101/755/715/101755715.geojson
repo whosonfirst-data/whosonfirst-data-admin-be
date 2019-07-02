@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000552,
-    "geom:area_square_m":4288941.347064,
+    "geom:area_square_m":4288941.347065,
     "geom:bbox":"3.78240672907,51.048966792,3.82511125097,51.0757907821",
     "geom:latitude":51.061504,
     "geom:longitude":3.803624,
@@ -17,9 +17,6 @@
     "mps:longitude":3.79867,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:baq_x_preferred":[
-        "Destelbergen"
-    ],
     "name:bre_x_preferred":[
         "Destelbergen"
     ],
@@ -29,13 +26,10 @@
     "name:cat_x_preferred":[
         "Destelbergen"
     ],
-    "name:chi_x_preferred":[
-        "\u4ee3\u65af\u7279\u5c14\u8d1d\u4ea8"
-    ],
-    "name:deu_x_preferred":[
+    "name:cym_x_preferred":[
         "Destelbergen"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Destelbergen"
     ],
     "name:eng_x_preferred":[
@@ -54,12 +48,6 @@
         "\u062f\u062a\u0644\u0628\u0631\u0698\u0627\u0646"
     ],
     "name:fra_x_preferred":[
-        "Destelbergen"
-    ],
-    "name:fre_x_preferred":[
-        "Destelbergen"
-    ],
-    "name:ger_x_preferred":[
         "Destelbergen"
     ],
     "name:hun_x_preferred":[
@@ -83,16 +71,10 @@
     "name:oci_x_preferred":[
         "Destelbergen"
     ],
-    "name:per_x_preferred":[
-        "\u062f\u062a\u0644\u0628\u0631\u0698\u0627\u0646"
-    ],
     "name:por_x_preferred":[
         "Destelbergen"
     ],
     "name:ron_x_preferred":[
-        "Destelbergen"
-    ],
-    "name:rum_x_preferred":[
         "Destelbergen"
     ],
     "name:rus_x_preferred":[
@@ -102,9 +84,6 @@
         "Destelbergen"
     ],
     "name:slk_x_preferred":[
-        "Destelbergen"
-    ],
-    "name:slo_x_preferred":[
         "Destelbergen"
     ],
     "name:spa_x_preferred":[
@@ -117,9 +96,6 @@
         "Destelbergen"
     ],
     "name:war_x_preferred":[
-        "Destelbergen"
-    ],
-    "name:wel_x_preferred":[
         "Destelbergen"
     ],
     "name:zho_x_preferred":[
@@ -180,7 +156,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1527641700,
+    "wof:lastmodified":1561831401,
     "wof:name":"Destelbergen",
     "wof:parent_id":1108830493,
     "wof:placetype":"locality",

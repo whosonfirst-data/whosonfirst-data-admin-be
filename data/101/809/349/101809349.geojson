@@ -22,16 +22,10 @@
     "name:ceb_x_preferred":[
         "Klerken"
     ],
-    "name:dut_x_preferred":[
-        "Klerken"
-    ],
     "name:eng_x_preferred":[
         "Klerken"
     ],
     "name:fra_x_preferred":[
-        "Klerken"
-    ],
-    "name:fre_x_preferred":[
         "Klerken"
     ],
     "name:hun_x_preferred":[
@@ -102,7 +96,7 @@
         }
     ],
     "wof:id":101809349,
-    "wof:lastmodified":1527715169,
+    "wof:lastmodified":1561831429,
     "wof:name":"Klerken",
     "wof:parent_id":1108830335,
     "wof:placetype":"locality",

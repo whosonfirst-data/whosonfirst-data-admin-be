@@ -16,16 +16,16 @@
     "mps:longitude":3.958307,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:dut_x_preferred":[
-        "Appelterre-Eichem"
-    ],
     "name:eng_x_preferred":[
         "Appelterre-Eichem"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Appelterre-Eichem"
     ],
     "name:hun_x_preferred":[
+        "Appelterre-Eichem"
+    ],
+    "name:nld_x_preferred":[
         "Appelterre-Eichem"
     ],
     "name:unk_x_variant":[
@@ -79,7 +79,7 @@
         }
     ],
     "wof:id":101755343,
-    "wof:lastmodified":1513899152,
+    "wof:lastmodified":1561831408,
     "wof:name":"Appelterre-Eichem",
     "wof:parent_id":1108830521,
     "wof:placetype":"locality",

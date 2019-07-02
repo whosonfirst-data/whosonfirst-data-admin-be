@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000505,
-    "geom:area_square_m":3915943.504946,
+    "geom:area_square_m":3915943.504947,
     "geom:bbox":"3.83413279907,51.1119520886,3.93763219495,51.1381274079",
     "geom:latitude":51.126923,
     "geom:longitude":3.883905,
@@ -16,16 +16,16 @@
     "mps:longitude":3.866655,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:dut_x_preferred":[
-        "Zaffelare"
-    ],
     "name:eng_x_preferred":[
         "Zaffelare"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Zaffelare"
     ],
     "name:hun_x_preferred":[
+        "Zaffelare"
+    ],
+    "name:nld_x_preferred":[
         "Zaffelare"
     ],
     "name:unk_x_variant":[
@@ -76,7 +76,7 @@
         }
     ],
     "wof:id":101810305,
-    "wof:lastmodified":1513899590,
+    "wof:lastmodified":1561831416,
     "wof:name":"Zaffelare",
     "wof:parent_id":1108830047,
     "wof:placetype":"locality",

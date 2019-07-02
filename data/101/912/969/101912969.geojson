@@ -19,9 +19,6 @@
     "name:cat_x_preferred":[
         "Sint-Martens-Voeren"
     ],
-    "name:dut_x_preferred":[
-        "Sint-Martens-Voeren"
-    ],
     "name:eng_x_preferred":[
         "Sint-Martens-Voeren"
     ],
@@ -30,9 +27,6 @@
     ],
     "name:fra_x_variant":[
         "Fourons (Fouron-Saint-Martin)"
-    ],
-    "name:fre_x_preferred":[
-        "Fouron-Saint-Martin"
     ],
     "name:hun_x_preferred":[
         "Sint-Martens-Voeren"
@@ -91,7 +85,7 @@
         }
     ],
     "wof:id":101912969,
-    "wof:lastmodified":1513899270,
+    "wof:lastmodified":1561831417,
     "wof:name":"Fouron-St.-Martin",
     "wof:parent_id":1108830021,
     "wof:placetype":"locality",

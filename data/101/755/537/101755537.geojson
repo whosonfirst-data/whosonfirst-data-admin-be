@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0011,
-    "geom:area_square_m":8604525.852292,
+    "geom:area_square_m":8604525.852295,
     "geom:bbox":"4.50779740317,50.7438445529,4.56907243999,50.7907081232",
     "geom:latitude":50.769052,
     "geom:longitude":4.536033,
@@ -26,9 +26,6 @@
     "name:ast_x_preferred":[
         "Overijse"
     ],
-    "name:baq_x_preferred":[
-        "Overijse"
-    ],
     "name:bar_x_preferred":[
         "Overijse"
     ],
@@ -44,22 +41,19 @@
     "name:ceb_x_preferred":[
         "Overijse"
     ],
-    "name:chi_x_preferred":[
-        "\u5965\u7eb2\u8d56\u6cfd"
+    "name:ces_x_preferred":[
+        "Overijse"
     ],
     "name:cos_x_preferred":[
         "Overijse"
     ],
-    "name:cze_x_preferred":[
+    "name:cym_x_preferred":[
         "Overijse"
     ],
     "name:dan_x_preferred":[
         "Overijse"
     ],
     "name:deu_x_preferred":[
-        "Overijse"
-    ],
-    "name:dut_x_preferred":[
         "Overijse"
     ],
     "name:eng_x_preferred":[
@@ -83,16 +77,10 @@
     "name:fra_x_preferred":[
         "Overijse"
     ],
-    "name:fre_x_preferred":[
-        "Overijse"
-    ],
     "name:frp_x_preferred":[
         "Overijse"
     ],
     "name:fur_x_preferred":[
-        "Overijse"
-    ],
-    "name:ger_x_preferred":[
         "Overijse"
     ],
     "name:gla_x_preferred":[
@@ -113,9 +101,6 @@
     "name:hun_x_preferred":[
         "Overijse"
     ],
-    "name:ice_x_preferred":[
-        "Overijse"
-    ],
     "name:ido_x_preferred":[
         "Overijse"
     ],
@@ -126,6 +111,9 @@
         "Overijse"
     ],
     "name:ind_x_preferred":[
+        "Overijse"
+    ],
+    "name:isl_x_preferred":[
         "Overijse"
     ],
     "name:ita_x_preferred":[
@@ -146,13 +134,13 @@
     "name:ltz_x_preferred":[
         "Overijse"
     ],
-    "name:may_x_preferred":[
-        "Overijse"
-    ],
     "name:min_x_preferred":[
         "Overijse"
     ],
     "name:mlg_x_preferred":[
+        "Overijse"
+    ],
+    "name:msa_x_preferred":[
         "Overijse"
     ],
     "name:nap_x_preferred":[
@@ -182,9 +170,6 @@
     "name:pcd_x_preferred":[
         "Overijse"
     ],
-    "name:per_x_preferred":[
-        "\u0627\u0648\u0631\u06cc\u0698\u0632"
-    ],
     "name:pms_x_preferred":[
         "Overijse"
     ],
@@ -200,9 +185,6 @@
     "name:ron_x_preferred":[
         "Overijse"
     ],
-    "name:rum_x_preferred":[
-        "Overijse"
-    ],
     "name:rus_x_preferred":[
         "\u041e\u0432\u0435\u0440\u0435\u0439\u0441\u0435"
     ],
@@ -216,9 +198,6 @@
         "Overijse"
     ],
     "name:slk_x_preferred":[
-        "Overijse"
-    ],
-    "name:slo_x_preferred":[
         "Overijse"
     ],
     "name:slv_x_preferred":[
@@ -252,9 +231,6 @@
         "Overijse"
     ],
     "name:war_x_preferred":[
-        "Overijse"
-    ],
-    "name:wel_x_preferred":[
         "Overijse"
     ],
     "name:wln_x_preferred":[
@@ -319,7 +295,7 @@
         }
     ],
     "wof:id":101755537,
-    "wof:lastmodified":1527641701,
+    "wof:lastmodified":1561831402,
     "wof:name":"Overijse",
     "wof:parent_id":1108830581,
     "wof:placetype":"locality",

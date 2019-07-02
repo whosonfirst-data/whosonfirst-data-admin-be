@@ -19,20 +19,11 @@
     "name:deu_x_preferred":[
         "Destelbergen#Heusden"
     ],
-    "name:dut_x_preferred":[
-        "Heusden"
-    ],
     "name:eng_x_preferred":[
         "Heusden"
     ],
     "name:fra_x_preferred":[
         "Heusden"
-    ],
-    "name:fre_x_preferred":[
-        "Heusden"
-    ],
-    "name:ger_x_preferred":[
-        "Destelbergen#Heusden"
     ],
     "name:hun_x_preferred":[
         "Heusden"
@@ -90,7 +81,7 @@
         }
     ],
     "wof:id":101755695,
-    "wof:lastmodified":1527641699,
+    "wof:lastmodified":1561831400,
     "wof:name":"Heusden",
     "wof:parent_id":1108830493,
     "wof:placetype":"locality",

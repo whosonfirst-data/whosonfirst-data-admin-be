@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001673,
-    "geom:area_square_m":12927386.980741,
+    "geom:area_square_m":12927386.98074,
     "geom:bbox":"3.16726329642,51.3058241408,3.23318024397,51.3642911259",
     "geom:latitude":51.335962,
     "geom:longitude":3.198781,
@@ -32,9 +32,6 @@
     "name:ceb_x_preferred":[
         "Zeebrugge"
     ],
-    "name:chi_x_preferred":[
-        "\u6cfd\u5e03\u5415\u8d6b"
-    ],
     "name:cym_x_preferred":[
         "Zeebrugge"
     ],
@@ -45,10 +42,8 @@
         "Zeebrugge"
     ],
     "name:deu_x_variant":[
-        "Seebr\u00fcgge"
-    ],
-    "name:dut_x_preferred":[
-        "Zeebrugge"
+        "Seebr\u00fcgge",
+        "Zeebr\u00fcgge"
     ],
     "name:eng_x_preferred":[
         "Zeebrugge"
@@ -65,20 +60,11 @@
     "name:fra_x_preferred":[
         "Zeebruges"
     ],
-    "name:fre_x_preferred":[
-        "Zeebruges"
-    ],
     "name:fry_x_preferred":[
         "Zeebrugge"
     ],
-    "name:ger_x_preferred":[
-        "Zeebr\u00fcgge"
-    ],
     "name:heb_x_preferred":[
         "\u05d6\u05d1\u05e8\u05d9\u05d7\u05d4"
-    ],
-    "name:ice_x_preferred":[
-        "Zeebrugge"
     ],
     "name:isl_x_preferred":[
         "Zeebrugge"
@@ -113,7 +99,7 @@
     "name:rus_x_preferred":[
         "\u0417\u0435\u0431\u0440\u044e\u0433\u0433\u0435"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Zeebrugge"
     ],
     "name:spa_x_preferred":[
@@ -124,9 +110,6 @@
     ],
     "name:vls_x_preferred":[
         "Z\u00eaebrugge"
-    ],
-    "name:wel_x_preferred":[
-        "Zeebrugge"
     ],
     "name:zho_x_preferred":[
         "\u6cfd\u5e03\u5415\u8d6b"
@@ -185,7 +168,7 @@
         }
     ],
     "wof:id":101837577,
-    "wof:lastmodified":1527715318,
+    "wof:lastmodified":1561831432,
     "wof:name":"Zeebrugge",
     "wof:parent_id":1108830689,
     "wof:placetype":"locality",

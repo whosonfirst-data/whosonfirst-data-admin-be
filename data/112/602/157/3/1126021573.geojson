@@ -18,16 +18,16 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
-    "name:dut_x_preferred":[
-        "Webbekom"
-    ],
     "name:eng_x_preferred":[
         "Webbekom"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Webbekom"
     ],
     "name:hun_x_preferred":[
+        "Webbekom"
+    ],
+    "name:nld_x_preferred":[
         "Webbekom"
     ],
     "name:unk_x_variant":[
@@ -89,7 +89,7 @@
         }
     ],
     "wof:id":1126021573,
-    "wof:lastmodified":1513899575,
+    "wof:lastmodified":1561831445,
     "wof:name":"Webbekom",
     "wof:parent_id":1108830307,
     "wof:placetype":"locality",

@@ -27,9 +27,6 @@
     "name:ast_x_preferred":[
         "Wilskerke"
     ],
-    "name:baq_x_preferred":[
-        "Wilskerke"
-    ],
     "name:bar_x_preferred":[
         "Wilskerke"
     ],
@@ -39,16 +36,19 @@
     "name:cat_x_preferred":[
         "Wilskerke"
     ],
+    "name:ces_x_preferred":[
+        "Wilskerke"
+    ],
     "name:cos_x_preferred":[
         "Wilskerke"
     ],
-    "name:cze_x_preferred":[
+    "name:cym_x_preferred":[
         "Wilskerke"
     ],
     "name:dan_x_preferred":[
         "Wilskerke"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Wilskerke"
     ],
     "name:eng_x_preferred":[
@@ -60,19 +60,19 @@
     "name:est_x_preferred":[
         "Wilskerke"
     ],
+    "name:eus_x_preferred":[
+        "Wilskerke"
+    ],
     "name:fin_x_preferred":[
         "Wilskerke"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Wilskerke"
     ],
     "name:frp_x_preferred":[
         "Wilskerke"
     ],
     "name:fur_x_preferred":[
-        "Wilskerke"
-    ],
-    "name:ger_x_preferred":[
         "Wilskerke"
     ],
     "name:gla_x_preferred":[
@@ -93,9 +93,6 @@
     "name:hun_x_preferred":[
         "Wilskerke"
     ],
-    "name:ice_x_preferred":[
-        "Wilskerke"
-    ],
     "name:ido_x_preferred":[
         "Wilskerke"
     ],
@@ -106,6 +103,9 @@
         "Wilskerke"
     ],
     "name:ind_x_preferred":[
+        "Wilskerke"
+    ],
+    "name:isl_x_preferred":[
         "Wilskerke"
     ],
     "name:ita_x_preferred":[
@@ -123,19 +123,22 @@
     "name:ltz_x_preferred":[
         "Wilskerke"
     ],
-    "name:may_x_preferred":[
-        "Wilskerke"
-    ],
     "name:min_x_preferred":[
         "Wilskerke"
     ],
     "name:mlg_x_preferred":[
         "Wilskerke"
     ],
+    "name:msa_x_preferred":[
+        "Wilskerke"
+    ],
     "name:nap_x_preferred":[
         "Wilskerke"
     ],
     "name:nds_x_preferred":[
+        "Wilskerke"
+    ],
+    "name:nld_x_preferred":[
         "Wilskerke"
     ],
     "name:nno_x_preferred":[
@@ -165,7 +168,7 @@
     "name:roh_x_preferred":[
         "Wilskerke"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Wilskerke"
     ],
     "name:scn_x_preferred":[
@@ -174,7 +177,7 @@
     "name:sco_x_preferred":[
         "Wilskerke"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Wilskerke"
     ],
     "name:slv_x_preferred":[
@@ -202,9 +205,6 @@
         "Wilskerke"
     ],
     "name:vol_x_preferred":[
-        "Wilskerke"
-    ],
-    "name:wel_x_preferred":[
         "Wilskerke"
     ],
     "name:wln_x_preferred":[
@@ -270,7 +270,7 @@
         }
     ],
     "wof:id":1126016881,
-    "wof:lastmodified":1513899586,
+    "wof:lastmodified":1561831467,
     "wof:name":"Wilskerke",
     "wof:parent_id":1108830695,
     "wof:placetype":"locality",

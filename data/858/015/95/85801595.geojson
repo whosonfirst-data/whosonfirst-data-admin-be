@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":18894566.935132,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.668631,51.065809,3.668631,51.065809",
     "geom:latitude":51.065809,
     "geom:longitude":3.668631,
@@ -27,9 +27,6 @@
         "Mariakerke"
     ],
     "name:deu_x_preferred":[
-        "Mariakerke"
-    ],
-    "name:dut_x_preferred":[
         "Mariakerke"
     ],
     "name:fra_x_preferred":[
@@ -80,12 +77,12 @@
     "src:lbl:centroid":"yerbashapes",
     "wd:wordcount":373,
     "wof:belongsto":[
-        85681733,
         102191581,
         1108830083,
         85632997,
         404227357,
-        102049989
+        102049989,
+        85681733
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -114,7 +111,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1531862086,
+    "wof:lastmodified":1561831362,
     "wof:name":"Mariakerke",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

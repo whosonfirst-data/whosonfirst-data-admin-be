@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000948,
-    "geom:area_square_m":7484506.070225,
+    "geom:area_square_m":7484506.070226,
     "geom:bbox":"4.59644245415,50.3009541791,4.67714968507,50.3540983646",
     "geom:latitude":50.330392,
     "geom:longitude":4.640951,
@@ -17,9 +17,6 @@
     "mps:longitude":4.654402,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:baq_x_preferred":[
-        "Mettet"
-    ],
     "name:bre_x_preferred":[
         "Mettet"
     ],
@@ -29,13 +26,7 @@
     "name:cat_x_preferred":[
         "Mettet"
     ],
-    "name:chi_x_preferred":[
-        "\u6885\u6cf0"
-    ],
     "name:deu_x_preferred":[
-        "Mettet"
-    ],
-    "name:dut_x_preferred":[
         "Mettet"
     ],
     "name:eng_x_preferred":[
@@ -51,12 +42,6 @@
         "\u0645\u062a\u0647"
     ],
     "name:fra_x_preferred":[
-        "Mettet"
-    ],
-    "name:fre_x_preferred":[
-        "Mettet"
-    ],
-    "name:ger_x_preferred":[
         "Mettet"
     ],
     "name:hun_x_preferred":[
@@ -80,9 +65,6 @@
     "name:oci_x_preferred":[
         "Mettet"
     ],
-    "name:per_x_preferred":[
-        "\u0645\u062a\u0647"
-    ],
     "name:pol_x_preferred":[
         "Mettet"
     ],
@@ -92,16 +74,10 @@
     "name:ron_x_preferred":[
         "Mettet"
     ],
-    "name:rum_x_preferred":[
-        "Mettet"
-    ],
     "name:rus_x_preferred":[
         "\u041c\u0435\u0442\u0435"
     ],
     "name:slk_x_preferred":[
-        "Mettet"
-    ],
-    "name:slo_x_preferred":[
         "Mettet"
     ],
     "name:spa_x_preferred":[
@@ -175,7 +151,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1527642299,
+    "wof:lastmodified":1561831411,
     "wof:name":"Mettet",
     "wof:parent_id":102049931,
     "wof:placetype":"locality",

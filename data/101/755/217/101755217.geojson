@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000169,
-    "geom:area_square_m":1329871.598721,
+    "geom:area_square_m":1329871.598722,
     "geom:bbox":"4.08136631328,50.4666894488,4.10983609893,50.4809476192",
     "geom:latitude":50.473926,
     "geom:longitude":4.096364,
@@ -19,16 +19,10 @@
     "name:cat_x_preferred":[
         "Thieu"
     ],
-    "name:dut_x_preferred":[
-        "Thieu"
-    ],
     "name:eng_x_preferred":[
         "Thieu"
     ],
     "name:fra_x_preferred":[
-        "Thieu"
-    ],
-    "name:fre_x_preferred":[
         "Thieu"
     ],
     "name:hun_x_preferred":[
@@ -87,7 +81,7 @@
         }
     ],
     "wof:id":101755217,
-    "wof:lastmodified":1527641697,
+    "wof:lastmodified":1561831398,
     "wof:name":"Thieu",
     "wof:parent_id":102049943,
     "wof:placetype":"locality",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000526,
-    "geom:area_square_m":4079270.784378,
+    "geom:area_square_m":4079270.784379,
     "geom:bbox":"3.64349289639,51.1178759567,3.68931096496,51.1545314375",
     "geom:latitude":51.131578,
     "geom:longitude":3.66733,
@@ -19,25 +19,25 @@
     "name:cat_x_preferred":[
         "Sleidinge"
     ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Sleidinge"
     ],
-    "name:dut_x_preferred":[
-        "Sleidinge"
+    "name:ell_x_preferred":[
+        "\u03a3\u03bb\u03ad\u03b9\u03bd\u03c4\u03b5\u03bd\u03b3\u03ba\u03b5"
     ],
     "name:eng_x_preferred":[
         "Sleidinge"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Sleidinge"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a3\u03bb\u03ad\u03b9\u03bd\u03c4\u03b5\u03bd\u03b3\u03ba\u03b5"
     ],
     "name:hun_x_preferred":[
         "Sleidinge"
     ],
-    "name:slo_x_preferred":[
+    "name:nld_x_preferred":[
+        "Sleidinge"
+    ],
+    "name:slk_x_preferred":[
         "Sleidinge"
     ],
     "name:unk_x_variant":[
@@ -91,7 +91,7 @@
         }
     ],
     "wof:id":101754375,
-    "wof:lastmodified":1513899506,
+    "wof:lastmodified":1561831411,
     "wof:name":"Sleidinge",
     "wof:parent_id":1108830413,
     "wof:placetype":"locality",

@@ -21,16 +21,16 @@
     "name:bre_x_preferred":[
         "Roksem"
     ],
-    "name:dut_x_preferred":[
-        "Roksem"
-    ],
     "name:eng_x_preferred":[
         "Roksem"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Roksem"
     ],
     "name:hun_x_preferred":[
+        "Roksem"
+    ],
+    "name:nld_x_preferred":[
         "Roksem"
     ],
     "name:unk_x_variant":[
@@ -91,7 +91,7 @@
         }
     ],
     "wof:id":1125823717,
-    "wof:lastmodified":1513899479,
+    "wof:lastmodified":1561831474,
     "wof:name":"Roksem",
     "wof:parent_id":1108830363,
     "wof:placetype":"locality",

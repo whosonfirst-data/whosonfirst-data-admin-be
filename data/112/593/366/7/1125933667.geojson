@@ -21,16 +21,16 @@
     "name:bul_x_preferred":[
         "\u0425\u0435\u0444\u0435\u043d"
     ],
-    "name:dut_x_preferred":[
-        "Heffen"
-    ],
     "name:eng_x_preferred":[
         "Heffen"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Heffen"
     ],
     "name:hun_x_preferred":[
+        "Heffen"
+    ],
+    "name:nld_x_preferred":[
         "Heffen"
     ],
     "name:swe_x_preferred":[
@@ -95,7 +95,7 @@
         }
     ],
     "wof:id":1125933667,
-    "wof:lastmodified":1513899301,
+    "wof:lastmodified":1561831440,
     "wof:name":"Heffen",
     "wof:parent_id":1108830407,
     "wof:placetype":"locality",

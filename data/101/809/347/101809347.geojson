@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000151,
-    "geom:area_square_m":1175793.190971,
+    "geom:area_square_m":1175793.190972,
     "geom:bbox":"4.22473511569,51.0565715658,4.25372029201,51.0720346611",
     "geom:latitude":51.063792,
     "geom:longitude":4.240936,
@@ -22,16 +22,10 @@
     "name:ceb_x_preferred":[
         "Oppuurs"
     ],
-    "name:dut_x_preferred":[
-        "Oppuurs"
-    ],
     "name:eng_x_preferred":[
         "Oppuurs"
     ],
     "name:fra_x_preferred":[
-        "Oppuurs"
-    ],
-    "name:fre_x_preferred":[
         "Oppuurs"
     ],
     "name:hun_x_preferred":[
@@ -99,7 +93,7 @@
         }
     ],
     "wof:id":101809347,
-    "wof:lastmodified":1527715170,
+    "wof:lastmodified":1561831429,
     "wof:name":"Oppuurs",
     "wof:parent_id":1108830145,
     "wof:placetype":"locality",

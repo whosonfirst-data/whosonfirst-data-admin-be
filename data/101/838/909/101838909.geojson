@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000468,
-    "geom:area_square_m":3648403.369041,
+    "geom:area_square_m":3648403.369042,
     "geom:bbox":"3.65608823257,50.9293755602,3.70935213336,50.9643940387",
     "geom:latitude":50.947548,
     "geom:longitude":3.683051,
@@ -16,16 +16,16 @@
     "mps:longitude":3.683346,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:dut_x_preferred":[
-        "Semmerzake"
-    ],
     "name:eng_x_preferred":[
         "Semmerzake"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Semmerzake"
     ],
     "name:hun_x_preferred":[
+        "Semmerzake"
+    ],
+    "name:nld_x_preferred":[
         "Semmerzake"
     ],
     "name:unk_x_variant":[
@@ -76,7 +76,7 @@
         }
     ],
     "wof:id":101838909,
-    "wof:lastmodified":1513899492,
+    "wof:lastmodified":1561831422,
     "wof:name":"Semmerzake",
     "wof:parent_id":1108830425,
     "wof:placetype":"locality",

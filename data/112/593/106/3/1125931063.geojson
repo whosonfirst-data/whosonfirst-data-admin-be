@@ -18,16 +18,16 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
-    "name:dut_x_preferred":[
-        "Hellebecq"
-    ],
     "name:eng_x_preferred":[
         "Hellebecq"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Hellebecq"
     ],
     "name:hun_x_preferred":[
+        "Hellebecq"
+    ],
+    "name:nld_x_preferred":[
         "Hellebecq"
     ],
     "qs_pg:aaroncc":"BE",
@@ -82,7 +82,7 @@
         }
     ],
     "wof:id":1125931063,
-    "wof:lastmodified":1513899303,
+    "wof:lastmodified":1561831440,
     "wof:name":"Hellebecq",
     "wof:parent_id":102049943,
     "wof:placetype":"locality",

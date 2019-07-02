@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000691,
-    "geom:area_square_m":5434296.123739,
+    "geom:area_square_m":5434296.123738,
     "geom:bbox":"3.74518399942,50.491931711,3.84002790313,50.5221046116",
     "geom:latitude":50.506413,
     "geom:longitude":3.788413,
@@ -16,16 +16,16 @@
     "mps:longitude":3.774535,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:dut_x_preferred":[
-        "Sirault"
-    ],
     "name:eng_x_preferred":[
         "Sirault"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Sirault"
     ],
     "name:hun_x_preferred":[
+        "Sirault"
+    ],
+    "name:nld_x_preferred":[
         "Sirault"
     ],
     "qs:a0":"Belgi\u00eb#Belgique#Belgien",
@@ -74,7 +74,7 @@
         }
     ],
     "wof:id":101755131,
-    "wof:lastmodified":1513899505,
+    "wof:lastmodified":1561831402,
     "wof:name":"Sirault",
     "wof:parent_id":102049933,
     "wof:placetype":"locality",

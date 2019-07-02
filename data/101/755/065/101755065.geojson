@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000275,
-    "geom:area_square_m":2172954.045342,
+    "geom:area_square_m":2172954.045343,
     "geom:bbox":"4.50507987547,50.3308282031,4.54350030886,50.3639619357",
     "geom:latitude":50.341315,
     "geom:longitude":4.527426,
@@ -17,9 +17,6 @@
     "mps:longitude":4.530336,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:baq_x_preferred":[
-        "Gerpinnes"
-    ],
     "name:bre_x_preferred":[
         "Gerpinnes"
     ],
@@ -33,9 +30,6 @@
         "Gerpinnes"
     ],
     "name:deu_x_preferred":[
-        "Gerpinnes"
-    ],
-    "name:dut_x_preferred":[
         "Gerpinnes"
     ],
     "name:eng_x_preferred":[
@@ -54,12 +48,6 @@
         "\u0698\u0631\u067e\u06cc\u0646"
     ],
     "name:fra_x_preferred":[
-        "Gerpinnes"
-    ],
-    "name:fre_x_preferred":[
-        "Gerpinnes"
-    ],
-    "name:ger_x_preferred":[
         "Gerpinnes"
     ],
     "name:hun_x_preferred":[
@@ -83,25 +71,16 @@
     "name:oci_x_preferred":[
         "Gerpinnes"
     ],
-    "name:per_x_preferred":[
-        "\u0698\u0631\u067e\u06cc\u0646"
-    ],
     "name:por_x_preferred":[
         "Gerpinnes"
     ],
     "name:ron_x_preferred":[
         "Gerpinnes"
     ],
-    "name:rum_x_preferred":[
-        "Gerpinnes"
-    ],
     "name:rus_x_preferred":[
         "\u0416\u0435\u0440\u043f\u0438\u043d\u043d"
     ],
     "name:slk_x_preferred":[
-        "Gerpinnes"
-    ],
-    "name:slo_x_preferred":[
         "Gerpinnes"
     ],
     "name:swe_x_preferred":[
@@ -171,7 +150,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1553815478,
+    "wof:lastmodified":1561831399,
     "wof:name":"Gerpinnes",
     "wof:parent_id":102049927,
     "wof:placetype":"locality",

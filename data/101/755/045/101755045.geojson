@@ -17,9 +17,6 @@
     "mps:longitude":5.264383,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:baq_x_preferred":[
-        "Villers-le-Bouillet"
-    ],
     "name:bre_x_preferred":[
         "Villers-le-Bouillet"
     ],
@@ -29,13 +26,7 @@
     "name:cat_x_preferred":[
         "Villers-le-Bouillet"
     ],
-    "name:chi_x_preferred":[
-        "\u7ef4\u83b1\u5c14\u65af\u52d2\u5e03\u8036"
-    ],
     "name:deu_x_preferred":[
-        "Villers-le-Bouillet"
-    ],
-    "name:dut_x_preferred":[
         "Villers-le-Bouillet"
     ],
     "name:eng_x_preferred":[
@@ -51,12 +42,6 @@
         "\u0648\u06cc\u0647-\u0644\u0648-\u0628\u0648\u06cc\u0647"
     ],
     "name:fra_x_preferred":[
-        "Villers-le-Bouillet"
-    ],
-    "name:fre_x_preferred":[
-        "Villers-le-Bouillet"
-    ],
-    "name:ger_x_preferred":[
         "Villers-le-Bouillet"
     ],
     "name:hun_x_preferred":[
@@ -80,25 +65,16 @@
     "name:oci_x_preferred":[
         "Villers-le-Bouillet"
     ],
-    "name:per_x_preferred":[
-        "\u0648\u06cc\u0647-\u0644\u0648-\u0628\u0648\u06cc\u0647"
-    ],
     "name:por_x_preferred":[
         "Villers-le-Bouillet"
     ],
     "name:ron_x_preferred":[
         "Villers-le-Bouillet"
     ],
-    "name:rum_x_preferred":[
-        "Villers-le-Bouillet"
-    ],
     "name:rus_x_preferred":[
         "\u0412\u0438\u043b\u043b\u0435\u0440-\u043b\u0435-\u0411\u0443\u0439\u0435"
     ],
     "name:slk_x_preferred":[
-        "Villers-le-Bouillet"
-    ],
-    "name:slo_x_preferred":[
         "Villers-le-Bouillet"
     ],
     "name:vie_x_preferred":[
@@ -162,7 +138,7 @@
         }
     ],
     "wof:id":101755045,
-    "wof:lastmodified":1535390420,
+    "wof:lastmodified":1561831403,
     "wof:name":"Villers-le-Bouillet",
     "wof:parent_id":102049925,
     "wof:placetype":"locality",

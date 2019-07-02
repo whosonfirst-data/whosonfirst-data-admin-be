@@ -16,9 +16,6 @@
     "mps:longitude":3.937227,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:baq_x_preferred":[
-        "Bever"
-    ],
     "name:bre_x_preferred":[
         "Bever"
     ],
@@ -31,13 +28,7 @@
     "name:ceb_x_preferred":[
         "Bever"
     ],
-    "name:chi_x_preferred":[
-        "\u8d1d\u5f17"
-    ],
     "name:deu_x_preferred":[
-        "Bever"
-    ],
-    "name:dut_x_preferred":[
         "Bever"
     ],
     "name:eng_x_preferred":[
@@ -52,17 +43,14 @@
     "name:eus_x_preferred":[
         "Bever"
     ],
+    "name:fas_x_preferred":[
+        "\u0628\u0648\u0648\u0647"
+    ],
     "name:fra_x_preferred":[
         "Bever"
     ],
     "name:fra_x_variant":[
         "Bi\u00e9v\u00e8ne"
-    ],
-    "name:fre_x_preferred":[
-        "Bi\u00e9v\u00e8ne"
-    ],
-    "name:ger_x_preferred":[
-        "Bever"
     ],
     "name:hun_x_preferred":[
         "Bever"
@@ -85,19 +73,16 @@
     "name:oci_x_preferred":[
         "Bever"
     ],
-    "name:per_x_preferred":[
-        "\u0628\u0648\u0648\u0647"
-    ],
     "name:por_x_preferred":[
         "Bever"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Bever"
     ],
     "name:rus_x_preferred":[
         "\u0411\u0435\u0432\u0435\u0440"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Bever"
     ],
     "name:spa_x_preferred":[
@@ -114,6 +99,9 @@
     ],
     "name:war_x_preferred":[
         "Bever"
+    ],
+    "name:zho_x_preferred":[
+        "\u8d1d\u5f17"
     ],
     "qs:a0":"Belgi\u00eb#Belgique#Belgien",
     "qs:a1":"*Vlaams Brabant",
@@ -164,7 +152,7 @@
         }
     ],
     "wof:id":101810559,
-    "wof:lastmodified":1527642418,
+    "wof:lastmodified":1561831414,
     "wof:name":"Bever",
     "wof:parent_id":1108830485,
     "wof:placetype":"locality",

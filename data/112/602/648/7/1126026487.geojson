@@ -21,16 +21,16 @@
     "name:bre_x_preferred":[
         "Pipaix"
     ],
-    "name:dut_x_preferred":[
-        "Pipaix"
-    ],
     "name:eng_x_preferred":[
         "Pipaix"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Pipaix"
     ],
     "name:hun_x_preferred":[
+        "Pipaix"
+    ],
+    "name:nld_x_preferred":[
         "Pipaix"
     ],
     "qs_pg:aaroncc":"BE",
@@ -85,7 +85,7 @@
         }
     ],
     "wof:id":1126026487,
-    "wof:lastmodified":1513899461,
+    "wof:lastmodified":1561831445,
     "wof:name":"Pipaix",
     "wof:parent_id":102049949,
     "wof:placetype":"locality",

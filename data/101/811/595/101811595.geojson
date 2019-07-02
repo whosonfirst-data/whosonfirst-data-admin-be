@@ -17,9 +17,6 @@
     "mps:longitude":4.953049,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:baq_x_preferred":[
-        "Beauraing"
-    ],
     "name:bre_x_preferred":[
         "Beauraing"
     ],
@@ -29,13 +26,10 @@
     "name:cat_x_preferred":[
         "Beauraing"
     ],
-    "name:chi_x_preferred":[
-        "\u535a\u5170"
-    ],
     "name:dan_x_preferred":[
         "Beauraing"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Beauraing"
     ],
     "name:eng_x_preferred":[
@@ -47,16 +41,13 @@
     "name:est_x_preferred":[
         "Beauraing"
     ],
+    "name:eus_x_preferred":[
+        "Beauraing"
+    ],
     "name:fas_x_preferred":[
         "\u0628\u0631\u0646"
     ],
     "name:fra_x_preferred":[
-        "Beauraing"
-    ],
-    "name:fre_x_preferred":[
-        "Beauraing"
-    ],
-    "name:ger_x_preferred":[
         "Beauraing"
     ],
     "name:hun_x_preferred":[
@@ -89,22 +80,19 @@
     "name:oci_x_preferred":[
         "Beauraing"
     ],
-    "name:per_x_preferred":[
-        "\u0628\u0631\u0646"
-    ],
     "name:pol_x_preferred":[
         "Beauraing"
     ],
     "name:por_x_preferred":[
         "Beauraing"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Beauraing"
     ],
     "name:rus_x_preferred":[
         "\u0411\u043e\u0440\u0435\u043d"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Beauraing"
     ],
     "name:slv_x_preferred":[
@@ -180,7 +168,7 @@
         }
     ],
     "wof:id":101811595,
-    "wof:lastmodified":1553815519,
+    "wof:lastmodified":1561831411,
     "wof:name":"Beauraing",
     "wof:parent_id":102049919,
     "wof:placetype":"locality",

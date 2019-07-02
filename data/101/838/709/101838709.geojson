@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000551,
-    "geom:area_square_m":4295552.249848,
+    "geom:area_square_m":4295552.249849,
     "geom:bbox":"3.60301315389,50.8873516151,3.69941141884,50.9195358345",
     "geom:latitude":50.90571,
     "geom:longitude":3.647798,
@@ -17,9 +17,6 @@
     "mps:longitude":3.656383,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:baq_x_preferred":[
-        "Zingem"
-    ],
     "name:bre_x_preferred":[
         "Zingem"
     ],
@@ -29,16 +26,10 @@
     "name:cat_x_preferred":[
         "Zingem"
     ],
-    "name:chi_x_preferred":[
-        "\u6d25\u6d77\u59c6"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Zingem"
     ],
     "name:deu_x_preferred":[
-        "Zingem"
-    ],
-    "name:dut_x_preferred":[
         "Zingem"
     ],
     "name:eng_x_preferred":[
@@ -59,12 +50,6 @@
     "name:fra_x_preferred":[
         "Zingem"
     ],
-    "name:fre_x_preferred":[
-        "Zingem"
-    ],
-    "name:ger_x_preferred":[
-        "Zingem"
-    ],
     "name:hun_x_preferred":[
         "Zingem"
     ],
@@ -83,22 +68,13 @@
     "name:oci_x_preferred":[
         "Zingem"
     ],
-    "name:per_x_preferred":[
-        "\u0632\u0646\u0698\u0627\u0645"
-    ],
     "name:por_x_preferred":[
         "Zingem"
     ],
     "name:ron_x_preferred":[
         "Zingem"
     ],
-    "name:rum_x_preferred":[
-        "Zingem"
-    ],
     "name:slk_x_preferred":[
-        "Zingem"
-    ],
-    "name:slo_x_preferred":[
         "Zingem"
     ],
     "name:unk_x_variant":[
@@ -171,7 +147,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1527715123,
+    "wof:lastmodified":1561831423,
     "wof:name":"Zingem",
     "wof:parent_id":1108830009,
     "wof:placetype":"locality",

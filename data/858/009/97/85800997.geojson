@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":1586583.122298,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.566863,50.6202,5.566863,50.6202",
     "geom:latitude":50.6202,
     "geom:longitude":5.566863,
@@ -23,16 +23,13 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":14.0,
     "mz:tier_locality":3,
-    "name:dut_x_preferred":[
-        "Cointe"
-    ],
     "name:eng_x_preferred":[
         "Cointe"
     ],
     "name:fra_x_preferred":[
         "Cointe"
     ],
-    "name:fre_x_preferred":[
+    "name:nld_x_preferred":[
         "Cointe"
     ],
     "src:geom":"mz",
@@ -42,12 +39,12 @@
     ],
     "src:lbl:centroid":"yerbashapes",
     "wof:belongsto":[
-        85681691,
         102191581,
         85632997,
         404227353,
         101748083,
-        102049941
+        102049941,
+        85681691
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -74,7 +71,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1531862054,
+    "wof:lastmodified":1561831364,
     "wof:name":"Cointe",
     "wof:parent_id":101748083,
     "wof:placetype":"neighbourhood",

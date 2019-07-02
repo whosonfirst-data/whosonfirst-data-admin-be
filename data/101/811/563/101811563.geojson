@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001049,
-    "geom:area_square_m":8291988.943013,
+    "geom:area_square_m":8291988.943014,
     "geom:bbox":"4.56081316807,50.2238048209,4.67192025036,50.2717881052",
     "geom:latitude":50.24362,
     "geom:longitude":4.629503,
@@ -17,9 +17,6 @@
     "mps:longitude":4.648325,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:baq_x_preferred":[
-        "Florennes"
-    ],
     "name:bre_x_preferred":[
         "Florennes"
     ],
@@ -29,16 +26,10 @@
     "name:cat_x_preferred":[
         "Florennes"
     ],
-    "name:chi_x_preferred":[
-        "\u5f17\u6d1b\u96f7\u8bb7"
-    ],
     "name:dan_x_preferred":[
         "Florennes"
     ],
     "name:deu_x_preferred":[
-        "Florennes"
-    ],
-    "name:dut_x_preferred":[
         "Florennes"
     ],
     "name:eng_x_preferred":[
@@ -54,12 +45,6 @@
         "\u0641\u0644\u0648\u0631\u0646"
     ],
     "name:fra_x_preferred":[
-        "Florennes"
-    ],
-    "name:fre_x_preferred":[
-        "Florennes"
-    ],
-    "name:ger_x_preferred":[
         "Florennes"
     ],
     "name:hun_x_preferred":[
@@ -86,25 +71,16 @@
     "name:oci_x_preferred":[
         "Florennes"
     ],
-    "name:per_x_preferred":[
-        "\u0641\u0644\u0648\u0631\u0646"
-    ],
     "name:por_x_preferred":[
         "Florennes"
     ],
     "name:ron_x_preferred":[
         "Florennes"
     ],
-    "name:rum_x_preferred":[
-        "Florennes"
-    ],
     "name:rus_x_preferred":[
         "\u0424\u043b\u043e\u0440\u0435\u043d"
     ],
     "name:slk_x_preferred":[
-        "Florennes"
-    ],
-    "name:slo_x_preferred":[
         "Florennes"
     ],
     "name:slv_x_preferred":[
@@ -177,7 +153,7 @@
         }
     ],
     "wof:id":101811563,
-    "wof:lastmodified":1527642304,
+    "wof:lastmodified":1561831412,
     "wof:name":"Florennes",
     "wof:parent_id":102049917,
     "wof:placetype":"locality",

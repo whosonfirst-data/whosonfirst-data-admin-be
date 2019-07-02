@@ -22,16 +22,10 @@
     "name:ceb_x_preferred":[
         "Handzame"
     ],
-    "name:dut_x_preferred":[
-        "Handzame"
-    ],
     "name:eng_x_preferred":[
         "Handzame"
     ],
     "name:fra_x_preferred":[
-        "Handzame"
-    ],
-    "name:fre_x_preferred":[
         "Handzame"
     ],
     "name:hun_x_preferred":[
@@ -105,7 +99,7 @@
         }
     ],
     "wof:id":101838875,
-    "wof:lastmodified":1527715125,
+    "wof:lastmodified":1561831424,
     "wof:name":"Handzame",
     "wof:parent_id":1108830511,
     "wof:placetype":"locality",

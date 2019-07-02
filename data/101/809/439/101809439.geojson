@@ -29,9 +29,6 @@
     "name:ast_x_preferred":[
         "Damme"
     ],
-    "name:baq_x_preferred":[
-        "Damme"
-    ],
     "name:bar_x_preferred":[
         "Damme"
     ],
@@ -47,22 +44,19 @@
     "name:ceb_x_preferred":[
         "Damme"
     ],
-    "name:chi_x_preferred":[
-        "\u8fbe\u9ed8"
+    "name:ces_x_preferred":[
+        "Damme"
     ],
     "name:cos_x_preferred":[
         "Damme"
     ],
-    "name:cze_x_preferred":[
+    "name:cym_x_preferred":[
         "Damme"
     ],
     "name:dan_x_preferred":[
         "Damme"
     ],
     "name:deu_x_preferred":[
-        "Damme"
-    ],
-    "name:dut_x_preferred":[
         "Damme"
     ],
     "name:eng_x_preferred":[
@@ -89,19 +83,10 @@
     "name:fra_x_variant":[
         "Damville"
     ],
-    "name:fre_x_preferred":[
-        "Damme"
-    ],
     "name:frp_x_preferred":[
         "Damme"
     ],
     "name:fur_x_preferred":[
-        "Damme"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d3\u10d0\u10db\u10d4"
-    ],
-    "name:ger_x_preferred":[
         "Damme"
     ],
     "name:gla_x_preferred":[
@@ -122,9 +107,6 @@
     "name:hun_x_preferred":[
         "Damme"
     ],
-    "name:ice_x_preferred":[
-        "Damme"
-    ],
     "name:ido_x_preferred":[
         "Damme"
     ],
@@ -137,11 +119,17 @@
     "name:ind_x_preferred":[
         "Damme"
     ],
+    "name:isl_x_preferred":[
+        "Damme"
+    ],
     "name:ita_x_preferred":[
         "Damme"
     ],
     "name:jpn_x_preferred":[
         "\u30c0\u30f3\u30e1"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d3\u10d0\u10db\u10d4"
     ],
     "name:kon_x_preferred":[
         "Damme"
@@ -167,13 +155,13 @@
     "name:ltz_x_preferred":[
         "Damme"
     ],
-    "name:may_x_preferred":[
-        "Damme"
-    ],
     "name:min_x_preferred":[
         "Damme"
     ],
     "name:mlg_x_preferred":[
+        "Damme"
+    ],
+    "name:msa_x_preferred":[
         "Damme"
     ],
     "name:nap_x_preferred":[
@@ -203,9 +191,6 @@
     "name:pcd_x_preferred":[
         "Damme"
     ],
-    "name:per_x_preferred":[
-        "\u062f\u0645"
-    ],
     "name:pms_x_preferred":[
         "Damme"
     ],
@@ -221,9 +206,6 @@
     "name:ron_x_preferred":[
         "Damme"
     ],
-    "name:rum_x_preferred":[
-        "Damme"
-    ],
     "name:rus_x_preferred":[
         "\u0414\u0430\u043c\u043c\u0435"
     ],
@@ -234,9 +216,6 @@
         "Damme"
     ],
     "name:slk_x_preferred":[
-        "Damme"
-    ],
-    "name:slo_x_preferred":[
         "Damme"
     ],
     "name:slv_x_preferred":[
@@ -267,9 +246,6 @@
         "Damme"
     ],
     "name:war_x_preferred":[
-        "Damme"
-    ],
-    "name:wel_x_preferred":[
         "Damme"
     ],
     "name:wln_x_preferred":[
@@ -344,7 +320,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1527715166,
+    "wof:lastmodified":1561831428,
     "wof:name":"Damme",
     "wof:parent_id":1108830063,
     "wof:placetype":"locality",

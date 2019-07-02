@@ -17,9 +17,6 @@
     "mps:longitude":4.436336,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:baq_x_preferred":[
-        "Walcourt"
-    ],
     "name:bel_x_preferred":[
         "\u0412\u0430\u043b\u044c\u043a\u0443\u0440"
     ],
@@ -35,13 +32,7 @@
     "name:ceb_x_preferred":[
         "Walcourt"
     ],
-    "name:chi_x_preferred":[
-        "\u74e6\u5c14\u5e93\u5c14"
-    ],
     "name:deu_x_preferred":[
-        "Walcourt"
-    ],
-    "name:dut_x_preferred":[
         "Walcourt"
     ],
     "name:eng_x_preferred":[
@@ -60,12 +51,6 @@
         "\u0648\u0644\u06a9\u0648\u0631"
     ],
     "name:fra_x_preferred":[
-        "Walcourt"
-    ],
-    "name:fre_x_preferred":[
-        "Walcourt"
-    ],
-    "name:ger_x_preferred":[
         "Walcourt"
     ],
     "name:hun_x_preferred":[
@@ -89,9 +74,6 @@
     "name:oci_x_preferred":[
         "Walcourt"
     ],
-    "name:per_x_preferred":[
-        "\u0648\u0644\u06a9\u0648\u0631"
-    ],
     "name:pol_x_preferred":[
         "Walcourt"
     ],
@@ -101,16 +83,10 @@
     "name:ron_x_preferred":[
         "Walcourt"
     ],
-    "name:rum_x_preferred":[
-        "Walcourt"
-    ],
     "name:rus_x_preferred":[
         "\u0412\u0430\u043b\u044c\u043a\u0443\u0440"
     ],
     "name:slk_x_preferred":[
-        "Walcourt"
-    ],
-    "name:slo_x_preferred":[
         "Walcourt"
     ],
     "name:spa_x_preferred":[
@@ -183,7 +159,7 @@
         }
     ],
     "wof:id":101811567,
-    "wof:lastmodified":1527642297,
+    "wof:lastmodified":1561831411,
     "wof:name":"Walcourt",
     "wof:parent_id":102049917,
     "wof:placetype":"locality",

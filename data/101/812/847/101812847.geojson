@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000055,
-    "geom:area_square_m":438559.754647,
+    "geom:area_square_m":438559.754648,
     "geom:bbox":"5.23267630058,49.7758978395,5.24264404579,49.7859399717",
     "geom:latitude":49.781196,
     "geom:longitude":5.237957,
@@ -17,9 +17,6 @@
     "mps:longitude":5.237202,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:baq_x_preferred":[
-        "Herbeumont"
-    ],
     "name:bre_x_preferred":[
         "Herbeumont"
     ],
@@ -29,13 +26,7 @@
     "name:cat_x_preferred":[
         "Herbeumont"
     ],
-    "name:chi_x_preferred":[
-        "\u57c3\u5c14\u4f2f\u8499"
-    ],
     "name:deu_x_preferred":[
-        "Herbeumont"
-    ],
-    "name:dut_x_preferred":[
         "Herbeumont"
     ],
     "name:eng_x_preferred":[
@@ -54,12 +45,6 @@
         "\u0627\u0631\u0628\u0648\u0645\u0648\u0646"
     ],
     "name:fra_x_preferred":[
-        "Herbeumont"
-    ],
-    "name:fre_x_preferred":[
-        "Herbeumont"
-    ],
-    "name:ger_x_preferred":[
         "Herbeumont"
     ],
     "name:hun_x_preferred":[
@@ -89,25 +74,16 @@
     "name:oci_x_preferred":[
         "Herbeumont"
     ],
-    "name:per_x_preferred":[
-        "\u0627\u0631\u0628\u0648\u0645\u0648\u0646"
-    ],
     "name:por_x_preferred":[
         "Herbeumont"
     ],
     "name:ron_x_preferred":[
         "Herbeumont"
     ],
-    "name:rum_x_preferred":[
-        "Herbeumont"
-    ],
     "name:rus_x_preferred":[
         "\u042d\u0440\u0431\u0451\u043c\u043e\u043d"
     ],
     "name:slk_x_preferred":[
-        "Herbeumont"
-    ],
-    "name:slo_x_preferred":[
         "Herbeumont"
     ],
     "name:swe_x_preferred":[
@@ -177,7 +153,7 @@
         }
     ],
     "wof:id":101812847,
-    "wof:lastmodified":1527714871,
+    "wof:lastmodified":1561831422,
     "wof:name":"Herbeumont",
     "wof:parent_id":102049913,
     "wof:placetype":"locality",

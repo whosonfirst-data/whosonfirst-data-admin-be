@@ -16,9 +16,6 @@
     "mps:longitude":4.165139,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:dut_x_preferred":[
-        "Nieuw-Namen"
-    ],
     "name:dut_x_variant":[
         "Nieuw Naman"
     ],
@@ -26,9 +23,6 @@
         "Nieuw-Namen"
     ],
     "name:fra_x_preferred":[
-        "Nieuw-Namen"
-    ],
-    "name:fre_x_preferred":[
         "Nieuw-Namen"
     ],
     "name:fry_x_preferred":[
@@ -103,7 +97,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1527715393,
+    "wof:lastmodified":1561831434,
     "wof:name":"Nieuw-Namen",
     "wof:parent_id":1108830193,
     "wof:placetype":"locality",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000749,
-    "geom:area_square_m":5896140.370808,
+    "geom:area_square_m":5896140.370807,
     "geom:bbox":"4.02348484579,50.4463062266,4.08136631327,50.4889301981",
     "geom:latitude":50.469458,
     "geom:longitude":4.050082,
@@ -22,19 +22,13 @@
     "name:ceb_x_preferred":[
         "Havr\u00e9"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Havr\u00e9"
     ],
     "name:eng_x_preferred":[
         "Havr\u00e9"
     ],
     "name:fra_x_preferred":[
-        "Havr\u00e9"
-    ],
-    "name:fre_x_preferred":[
-        "Havr\u00e9"
-    ],
-    "name:ger_x_preferred":[
         "Havr\u00e9"
     ],
     "name:hun_x_preferred":[
@@ -102,7 +96,7 @@
         }
     ],
     "wof:id":101755117,
-    "wof:lastmodified":1527641701,
+    "wof:lastmodified":1561831402,
     "wof:name":"Havr\u00e9",
     "wof:parent_id":102049943,
     "wof:placetype":"locality",

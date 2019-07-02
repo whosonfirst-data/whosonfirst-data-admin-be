@@ -21,16 +21,16 @@
     "name:bre_x_preferred":[
         "Tihange"
     ],
-    "name:dut_x_preferred":[
-        "Tihange"
-    ],
     "name:eng_x_preferred":[
         "Tihange"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Tihange"
     ],
     "name:hun_x_preferred":[
+        "Tihange"
+    ],
+    "name:nld_x_preferred":[
         "Tihange"
     ],
     "name:unk_x_variant":[
@@ -88,7 +88,7 @@
         }
     ],
     "wof:id":1126053551,
-    "wof:lastmodified":1513899529,
+    "wof:lastmodified":1561831446,
     "wof:name":"Tihange",
     "wof:parent_id":102049925,
     "wof:placetype":"locality",

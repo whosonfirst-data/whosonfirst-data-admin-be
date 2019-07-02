@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":11181029.206738,
+    "geom:area_square_m":0.0,
     "geom:bbox":"4.469772,51.21281,4.469772,51.21281",
     "geom:latitude":51.21281,
     "geom:longitude":4.469772,
@@ -25,14 +25,14 @@
     "mz:min_zoom":13.0,
     "mz:tier_locality":3,
     "mz:tier_metro":30,
-    "name:dut_x_preferred":[
-        "Antwerpen-Deurne"
-    ],
     "name:eng_x_preferred":[
         "Luchthaven Antwerpen-deurne"
     ],
     "name:eng_x_variant":[
         "Luchthaven Antwerpen-deurne"
+    ],
+    "name:nld_x_preferred":[
+        "Antwerpen-Deurne"
     ],
     "name:unk_x_variant":[
         "Deurne",
@@ -71,13 +71,13 @@
     ],
     "src:lbl:centroid":"mz",
     "wof:belongsto":[
-        85681715,
         102191581,
         1108830423,
         85632997,
         404227357,
         101748099,
-        102050005
+        102050005,
+        85681715
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -107,7 +107,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1531862043,
+    "wof:lastmodified":1561831363,
     "wof:name":"Antwerpen-Deurne",
     "wof:parent_id":101748099,
     "wof:placetype":"neighbourhood",

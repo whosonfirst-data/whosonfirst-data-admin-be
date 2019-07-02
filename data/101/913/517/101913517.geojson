@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000037,
-    "geom:area_square_m":286058.429718,
+    "geom:area_square_m":286058.429719,
     "geom:bbox":"4.99701978981,51.0511962537,5.00703026034,51.0563908921",
     "geom:latitude":51.053793,
     "geom:longitude":5.002257,
@@ -16,16 +16,16 @@
     "mps:longitude":5.002257,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:dut_x_preferred":[
-        "Veerle"
-    ],
     "name:eng_x_preferred":[
         "Veerle"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Veerle"
     ],
     "name:hun_x_preferred":[
+        "Veerle"
+    ],
+    "name:nld_x_preferred":[
         "Veerle"
     ],
     "name:unk_x_variant":[
@@ -76,7 +76,7 @@
         }
     ],
     "wof:id":101913517,
-    "wof:lastmodified":1513899540,
+    "wof:lastmodified":1561831419,
     "wof:name":"Veerle",
     "wof:parent_id":1108830641,
     "wof:placetype":"locality",

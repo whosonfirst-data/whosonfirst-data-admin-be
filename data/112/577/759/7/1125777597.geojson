@@ -21,16 +21,16 @@
     "name:bre_x_preferred":[
         "Wibrin"
     ],
-    "name:dut_x_preferred":[
-        "Wibrin"
-    ],
     "name:eng_x_preferred":[
         "Wibrin"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Wibrin"
     ],
     "name:hun_x_preferred":[
+        "Wibrin"
+    ],
+    "name:nld_x_preferred":[
         "Wibrin"
     ],
     "name:unk_x_variant":[
@@ -93,7 +93,7 @@
         }
     ],
     "wof:id":1125777597,
-    "wof:lastmodified":1513899582,
+    "wof:lastmodified":1561831487,
     "wof:name":"Wibrin",
     "wof:parent_id":102049915,
     "wof:placetype":"locality",

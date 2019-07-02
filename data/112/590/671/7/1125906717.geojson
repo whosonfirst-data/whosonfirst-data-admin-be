@@ -18,16 +18,16 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
-    "name:dut_x_preferred":[
-        "Werm"
-    ],
     "name:eng_x_preferred":[
         "Werm"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Werm"
     ],
     "name:hun_x_preferred":[
+        "Werm"
+    ],
+    "name:nld_x_preferred":[
         "Werm"
     ],
     "name:unk_x_variant":[
@@ -87,7 +87,7 @@
         }
     ],
     "wof:id":1125906717,
-    "wof:lastmodified":1513899578,
+    "wof:lastmodified":1561831463,
     "wof:name":"Werm",
     "wof:parent_id":1108830661,
     "wof:placetype":"locality",

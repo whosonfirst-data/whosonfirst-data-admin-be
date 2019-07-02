@@ -16,16 +16,10 @@
     "mps:longitude":4.343123,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:dut_x_preferred":[
-        "Burcht"
-    ],
     "name:eng_x_preferred":[
         "Burght"
     ],
     "name:fra_x_preferred":[
-        "Burcht"
-    ],
-    "name:fre_x_preferred":[
         "Burcht"
     ],
     "name:hun_x_preferred":[
@@ -91,7 +85,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1527715309,
+    "wof:lastmodified":1561831432,
     "wof:name":"Burcht",
     "wof:parent_id":1108830433,
     "wof:placetype":"locality",

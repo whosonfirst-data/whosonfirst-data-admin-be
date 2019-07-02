@@ -19,16 +19,10 @@
     "name:ceb_x_preferred":[
         "Sint-Kruis-Winkel"
     ],
-    "name:dut_x_preferred":[
-        "Sint-Kruis-Winkel"
-    ],
     "name:eng_x_preferred":[
         "Sint-Kruis-Winkel"
     ],
     "name:fra_x_preferred":[
-        "Winkel-Sainte-Croix"
-    ],
-    "name:fre_x_preferred":[
         "Winkel-Sainte-Croix"
     ],
     "name:hun_x_preferred":[
@@ -93,7 +87,7 @@
         }
     ],
     "wof:id":101754383,
-    "wof:lastmodified":1535390423,
+    "wof:lastmodified":1561831409,
     "wof:name":"Sint-Kruis-Winkel",
     "wof:parent_id":1108830083,
     "wof:placetype":"locality",

@@ -19,9 +19,6 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
-    "name:baq_x_preferred":[
-        "Dilbeek"
-    ],
     "name:bre_x_preferred":[
         "Dilbeek"
     ],
@@ -34,16 +31,10 @@
     "name:ceb_x_preferred":[
         "Zibbeek"
     ],
-    "name:chi_x_preferred":[
-        "\u8fea\u5c14\u8d1d\u514b"
-    ],
     "name:dan_x_preferred":[
         "Dilbeek"
     ],
     "name:deu_x_preferred":[
-        "Dilbeek"
-    ],
-    "name:dut_x_preferred":[
         "Dilbeek"
     ],
     "name:eng_x_preferred":[
@@ -52,16 +43,13 @@
     "name:epo_x_preferred":[
         "Dilbeek"
     ],
+    "name:eus_x_preferred":[
+        "Dilbeek"
+    ],
     "name:fas_x_preferred":[
         "\u062f\u06cc\u0644\u0628\u0626\u06a9"
     ],
     "name:fra_x_preferred":[
-        "Dilbeek"
-    ],
-    "name:fre_x_preferred":[
-        "Dilbeek"
-    ],
-    "name:ger_x_preferred":[
         "Dilbeek"
     ],
     "name:hun_x_preferred":[
@@ -85,16 +73,13 @@
     "name:oci_x_preferred":[
         "Dilbeek"
     ],
-    "name:per_x_preferred":[
-        "\u062f\u06cc\u0644\u0628\u0626\u06a9"
-    ],
     "name:pol_x_preferred":[
         "Dilbeek"
     ],
     "name:por_x_preferred":[
         "Dilbeek"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Dilbeek"
     ],
     "name:rus_x_preferred":[
@@ -103,7 +88,7 @@
     "name:sco_x_preferred":[
         "Dilbeek"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Dilbeek"
     ],
     "name:spa_x_preferred":[
@@ -184,7 +169,7 @@
         }
     ],
     "wof:id":1125764857,
-    "wof:lastmodified":1513899234,
+    "wof:lastmodified":1561831476,
     "wof:name":"Dilbeek",
     "wof:parent_id":1108830207,
     "wof:placetype":"locality",

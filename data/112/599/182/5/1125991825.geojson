@@ -18,16 +18,16 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
-    "name:dut_x_preferred":[
-        "Abolens"
-    ],
     "name:eng_x_preferred":[
         "Abolens"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Abolens"
     ],
     "name:hun_x_preferred":[
+        "Abolens"
+    ],
+    "name:nld_x_preferred":[
         "Abolens"
     ],
     "name:unk_x_variant":[
@@ -83,7 +83,7 @@
         }
     ],
     "wof:id":1125991825,
-    "wof:lastmodified":1513899142,
+    "wof:lastmodified":1561831462,
     "wof:name":"Abolens",
     "wof:parent_id":102049937,
     "wof:placetype":"locality",

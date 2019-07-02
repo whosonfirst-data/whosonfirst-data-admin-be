@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000428,
-    "geom:area_square_m":3369865.571812,
+    "geom:area_square_m":3369865.571814,
     "geom:bbox":"3.98084789474,50.4203232068,4.02738296593,50.4532130428",
     "geom:latitude":50.437075,
     "geom:longitude":4.003227,
@@ -19,16 +19,10 @@
     "name:ceb_x_preferred":[
         "Saint-Symphorien"
     ],
-    "name:dut_x_preferred":[
-        "Saint-Symphorien"
-    ],
     "name:eng_x_preferred":[
         "Saint-Symphorien"
     ],
     "name:fra_x_preferred":[
-        "Saint-Symphorien"
-    ],
-    "name:fre_x_preferred":[
         "Saint-Symphorien"
     ],
     "name:hun_x_preferred":[
@@ -87,7 +81,7 @@
         }
     ],
     "wof:id":101755121,
-    "wof:lastmodified":1527641700,
+    "wof:lastmodified":1561831401,
     "wof:name":"Saint-Symphorien",
     "wof:parent_id":102049933,
     "wof:placetype":"locality",

@@ -16,9 +16,6 @@
     "mps:longitude":3.151661,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:dut_x_preferred":[
-        "Rumbeke"
-    ],
     "name:eng_x_preferred":[
         "Rumbeke"
     ],
@@ -29,9 +26,6 @@
         "Rumbeke"
     ],
     "name:fra_x_preferred":[
-        "Rumbeke"
-    ],
-    "name:fre_x_preferred":[
         "Rumbeke"
     ],
     "name:hun_x_preferred":[
@@ -100,7 +94,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1527641696,
+    "wof:lastmodified":1561831397,
     "wof:name":"Rumbeke",
     "wof:parent_id":1108830397,
     "wof:placetype":"locality",

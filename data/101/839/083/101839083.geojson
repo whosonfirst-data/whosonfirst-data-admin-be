@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000678,
-    "geom:area_square_m":5236135.178071,
+    "geom:area_square_m":5236135.178072,
     "geom:bbox":"4.82719652643,51.3391058866,4.89074225998,51.3770419918",
     "geom:latitude":51.35977,
     "geom:longitude":4.853415,
@@ -32,13 +32,7 @@
     "name:ceb_x_preferred":[
         "Merksplas"
     ],
-    "name:chi_x_preferred":[
-        "\u6885\u514b\u65af\u666e\u62c9\u65af"
-    ],
     "name:deu_x_preferred":[
-        "Merksplas"
-    ],
-    "name:dut_x_preferred":[
         "Merksplas"
     ],
     "name:eng_x_preferred":[
@@ -59,12 +53,6 @@
     "name:fra_x_preferred":[
         "Merksplas"
     ],
-    "name:fre_x_preferred":[
-        "Merksplas"
-    ],
-    "name:ger_x_preferred":[
-        "Merksplas"
-    ],
     "name:hun_x_preferred":[
         "Merksplas"
     ],
@@ -83,9 +71,6 @@
     "name:oci_x_preferred":[
         "Merksplas"
     ],
-    "name:per_x_preferred":[
-        "\u0645\u0631\u06a9\u0633\u067e\u0644\u0647"
-    ],
     "name:pol_x_preferred":[
         "Merksplas"
     ],
@@ -95,13 +80,7 @@
     "name:ron_x_preferred":[
         "Merksplas"
     ],
-    "name:rum_x_preferred":[
-        "Merksplas"
-    ],
     "name:slk_x_preferred":[
-        "Merksplas"
-    ],
-    "name:slo_x_preferred":[
         "Merksplas"
     ],
     "name:spa_x_preferred":[
@@ -175,7 +154,7 @@
         }
     ],
     "wof:id":101839083,
-    "wof:lastmodified":1527715391,
+    "wof:lastmodified":1561831434,
     "wof:name":"Merksplas",
     "wof:parent_id":1108830633,
     "wof:placetype":"locality",

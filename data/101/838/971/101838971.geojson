@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000305,
-    "geom:area_square_m":2369192.302538,
+    "geom:area_square_m":2369192.302537,
     "geom:bbox":"5.71513712815,51.0416028765,5.7501593076,51.0709910199",
     "geom:latitude":51.056885,
     "geom:longitude":5.732922,
@@ -19,13 +19,10 @@
     "name:deu_x_preferred":[
         "Rotem"
     ],
-    "name:dut_x_preferred":[
-        "Rotem"
-    ],
     "name:eng_x_preferred":[
         "Rotem"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Rotem"
     ],
     "name:heb_x_preferred":[
@@ -92,7 +89,7 @@
         }
     ],
     "wof:id":101838971,
-    "wof:lastmodified":1527715128,
+    "wof:lastmodified":1561831425,
     "wof:name":"Rotem",
     "wof:parent_id":1108830389,
     "wof:placetype":"locality",

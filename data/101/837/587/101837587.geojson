@@ -17,12 +17,6 @@
     "mps:longitude":3.105633,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:arm_x_preferred":[
-        "\u054f\u0578\u0580\u0570\u0578\u0578\u0582\u057f"
-    ],
-    "name:baq_x_preferred":[
-        "Torhout"
-    ],
     "name:bre_x_preferred":[
         "Torhout"
     ],
@@ -35,16 +29,10 @@
     "name:ceb_x_preferred":[
         "Torhout"
     ],
-    "name:chi_x_preferred":[
-        "\u6258\u5c14\u8c6a\u7279"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Torhout"
     ],
     "name:deu_x_preferred":[
-        "Torhout"
-    ],
-    "name:dut_x_preferred":[
         "Torhout"
     ],
     "name:eng_x_preferred":[
@@ -65,23 +53,20 @@
     "name:fra_x_preferred":[
         "Torhout"
     ],
-    "name:fre_x_preferred":[
-        "Torhout"
-    ],
-    "name:geo_x_preferred":[
-        "\u10e2\u10dd\u10e0\u10e3"
-    ],
-    "name:ger_x_preferred":[
-        "Torhout"
-    ],
     "name:hun_x_preferred":[
         "Torhout"
+    ],
+    "name:hye_x_preferred":[
+        "\u054f\u0578\u0580\u0570\u0578\u0578\u0582\u057f"
     ],
     "name:ita_x_preferred":[
         "Torhout"
     ],
     "name:jpn_x_preferred":[
         "\u30c8\u30eb\u30db\u30a6\u30c8"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e2\u10dd\u10e0\u10e3"
     ],
     "name:lat_x_preferred":[
         "Turholt"
@@ -107,9 +92,6 @@
     "name:oci_x_preferred":[
         "Torhout"
     ],
-    "name:per_x_preferred":[
-        "\u062a\u0631\u0648"
-    ],
     "name:pol_x_preferred":[
         "Torhout"
     ],
@@ -119,16 +101,10 @@
     "name:ron_x_preferred":[
         "Torhout"
     ],
-    "name:rum_x_preferred":[
-        "Torhout"
-    ],
     "name:rus_x_preferred":[
         "\u0422\u043e\u0440\u0445\u043e\u0443\u0442"
     ],
     "name:slk_x_preferred":[
-        "Torhout"
-    ],
-    "name:slo_x_preferred":[
         "Torhout"
     ],
     "name:swe_x_preferred":[
@@ -208,7 +184,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1527715307,
+    "wof:lastmodified":1561831432,
     "wof:name":"Torhout",
     "wof:parent_id":1108830333,
     "wof:placetype":"locality",

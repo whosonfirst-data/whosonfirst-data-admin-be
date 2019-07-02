@@ -22,16 +22,10 @@
     "name:ceb_x_preferred":[
         "Rollegem"
     ],
-    "name:dut_x_preferred":[
-        "Rollegem"
-    ],
     "name:eng_x_preferred":[
         "Rollegem"
     ],
     "name:fra_x_preferred":[
-        "Rollegem"
-    ],
-    "name:fre_x_preferred":[
         "Rollegem"
     ],
     "name:hun_x_preferred":[
@@ -103,7 +97,7 @@
         }
     ],
     "wof:id":101809237,
-    "wof:lastmodified":1527715179,
+    "wof:lastmodified":1561831430,
     "wof:name":"Rollegem",
     "wof:parent_id":1108830299,
     "wof:placetype":"locality",

@@ -24,16 +24,10 @@
     "name:ceb_x_preferred":[
         "Kanne"
     ],
-    "name:dut_x_preferred":[
-        "Kanne"
-    ],
     "name:eng_x_preferred":[
         "Kanne"
     ],
     "name:fra_x_preferred":[
-        "Kanne"
-    ],
-    "name:fre_x_preferred":[
         "Kanne"
     ],
     "name:hun_x_preferred":[
@@ -104,7 +98,7 @@
         }
     ],
     "wof:id":101913631,
-    "wof:lastmodified":1534985844,
+    "wof:lastmodified":1561831421,
     "wof:name":"Kanne",
     "wof:parent_id":1108830103,
     "wof:placetype":"locality",

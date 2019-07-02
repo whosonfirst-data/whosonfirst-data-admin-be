@@ -19,17 +19,17 @@
     "name:bul_x_preferred":[
         "\u0425\u0435\u0438\u043a\u0430\u043d\u0442"
     ],
-    "name:dut_x_preferred":[
-        "Heikant"
-    ],
     "name:eng_x_preferred":[
         "Heikant"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Heikant"
     ],
     "name:fry_x_preferred":[
         "Heik\u00e2nt"
+    ],
+    "name:nld_x_preferred":[
+        "Heikant"
     ],
     "name:por_x_preferred":[
         "Heikant"
@@ -89,7 +89,7 @@
         }
     ],
     "wof:id":101837543,
-    "wof:lastmodified":1527715306,
+    "wof:lastmodified":1561831432,
     "wof:name":"Heikant",
     "wof:parent_id":1108830229,
     "wof:placetype":"locality",

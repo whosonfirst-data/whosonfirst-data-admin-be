@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000451,
-    "geom:area_square_m":3486422.622733,
+    "geom:area_square_m":3486422.622734,
     "geom:bbox":"4.65842940803,51.3266746462,4.70106197074,51.3592138287",
     "geom:latitude":51.346097,
     "geom:longitude":4.679615,
@@ -21,9 +21,6 @@
         "St-Leonard",
         "St.-Leonard"
     ],
-    "name:dut_x_preferred":[
-        "St.-Lenaarts"
-    ],
     "name:dut_x_variant":[
         "Saint-L\u00e9onard",
         "Sint-Lenaarts",
@@ -34,11 +31,14 @@
     "name:eng_x_preferred":[
         "Sint-Lenaarts"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Saint-L\u00e9onard"
     ],
     "name:hun_x_preferred":[
         "Sint-Lenaarts"
+    ],
+    "name:nld_x_preferred":[
+        "St.-Lenaarts"
     ],
     "name:unk_x_variant":[
         "Saint-L\u00e9onard"
@@ -96,7 +96,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1513899498,
+    "wof:lastmodified":1561831436,
     "wof:name":"Sint-Lenaarts",
     "wof:parent_id":1108830385,
     "wof:placetype":"locality",
