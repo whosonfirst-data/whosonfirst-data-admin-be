@@ -65,6 +65,12 @@
     "name:kor_x_preferred":[
         "\ud6c4\ud558\ub974\ub358"
     ],
+    "name:kor_x_variant":[
+        "\ud6c4\uac00\ub974\ub358"
+    ],
+    "name:ltz_x_preferred":[
+        "Hoegaarden"
+    ],
     "name:nld_x_preferred":[
         "Hoegaarden"
     ],
@@ -75,6 +81,9 @@
         "Hoegaarden"
     ],
     "name:oci_x_preferred":[
+        "Hoegaarden"
+    ],
+    "name:pol_x_preferred":[
         "Hoegaarden"
     ],
     "name:por_x_preferred":[
@@ -160,7 +169,7 @@
         }
     ],
     "wof:id":101838751,
-    "wof:lastmodified":1561831425,
+    "wof:lastmodified":1563235390,
     "wof:name":"Hoegaarden",
     "wof:parent_id":1108830281,
     "wof:placetype":"locality",

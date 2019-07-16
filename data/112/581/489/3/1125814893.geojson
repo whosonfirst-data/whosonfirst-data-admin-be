@@ -21,6 +21,9 @@
     "name:bul_x_preferred":[
         "\u0425\u0435\u0432\u0435\u0440\u043b\u0435"
     ],
+    "name:ceb_x_preferred":[
+        "Heverlee"
+    ],
     "name:deu_x_preferred":[
         "Heverlee"
     ],
@@ -38,6 +41,9 @@
     ],
     "name:hun_x_preferred":[
         "Heverlee"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d8\u30f4\u30a7\u30eb\u30ec\u30fc"
     ],
     "name:kaz_x_preferred":[
         "\u0425\u0435\u0432\u0435\u0440\u043b\u0435"
@@ -113,7 +119,7 @@
         }
     ],
     "wof:id":1125814893,
-    "wof:lastmodified":1561831453,
+    "wof:lastmodified":1563235749,
     "wof:name":"Heverlee",
     "wof:parent_id":1108830125,
     "wof:placetype":"locality",

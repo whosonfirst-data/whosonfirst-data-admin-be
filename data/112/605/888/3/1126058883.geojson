@@ -21,11 +21,17 @@
     "name:bre_x_preferred":[
         "Esen"
     ],
+    "name:ceb_x_preferred":[
+        "Esen"
+    ],
     "name:eng_x_preferred":[
         "Esen"
     ],
     "name:epo_x_preferred":[
         "Esen"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0633\u0646"
     ],
     "name:fra_x_preferred":[
         "Esen"
@@ -102,7 +108,7 @@
         }
     ],
     "wof:id":1126058883,
-    "wof:lastmodified":1561831447,
+    "wof:lastmodified":1563235666,
     "wof:name":"Esen",
     "wof:parent_id":1108830401,
     "wof:placetype":"locality",

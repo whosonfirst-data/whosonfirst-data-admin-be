@@ -63,6 +63,9 @@
     "name:eus_x_preferred":[
         "Wilskerke"
     ],
+    "name:fas_x_preferred":[
+        "\u0648\u06cc\u0644\u0632\u06a9\u0631\u06a9"
+    ],
     "name:fin_x_preferred":[
         "Wilskerke"
     ],
@@ -270,7 +273,7 @@
         }
     ],
     "wof:id":1126016881,
-    "wof:lastmodified":1561831467,
+    "wof:lastmodified":1563235901,
     "wof:name":"Wilskerke",
     "wof:parent_id":1108830695,
     "wof:placetype":"locality",

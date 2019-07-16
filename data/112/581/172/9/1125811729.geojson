@@ -19,6 +19,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bel_x_preferred":[
+        "\u0412\u0456\u043b\u0432\u0430\u0440\u0434\u044d"
+    ],
     "name:bre_x_preferred":[
         "Vilvoorde"
     ],
@@ -28,7 +31,13 @@
     "name:cat_x_preferred":[
         "Vilvoorde"
     ],
+    "name:ceb_x_preferred":[
+        "Vilvoorde"
+    ],
     "name:ces_x_preferred":[
+        "Vilvoorde"
+    ],
+    "name:cym_x_preferred":[
         "Vilvoorde"
     ],
     "name:dan_x_preferred":[
@@ -36,6 +45,9 @@
     ],
     "name:deu_x_preferred":[
         "Vilvoorde"
+    ],
+    "name:ell_x_preferred":[
+        "\u0392\u03af\u03bb\u03b2\u03bf\u03c1\u03bd\u03c4\u03b5"
     ],
     "name:eng_x_preferred":[
         "Vilvoorde"
@@ -51,6 +63,9 @@
     ],
     "name:fra_x_preferred":[
         "Vilvorde"
+    ],
+    "name:gle_x_preferred":[
+        "Vilvoorde"
     ],
     "name:hun_x_preferred":[
         "Vilvoorde"
@@ -107,6 +122,15 @@
         "Vilvoorde"
     ],
     "name:swe_x_preferred":[
+        "Vilvoorde"
+    ],
+    "name:szl_x_preferred":[
+        "Vilvorde"
+    ],
+    "name:tat_x_preferred":[
+        "\u0412\u0438\u043b\u0432\u043e\u0440\u0434\u0435"
+    ],
+    "name:tur_x_preferred":[
         "Vilvoorde"
     ],
     "name:ukr_x_preferred":[
@@ -184,7 +208,7 @@
         }
     ],
     "wof:id":1125811729,
-    "wof:lastmodified":1561831453,
+    "wof:lastmodified":1563235744,
     "wof:name":"Vilvoorde",
     "wof:parent_id":1108830085,
     "wof:placetype":"locality",

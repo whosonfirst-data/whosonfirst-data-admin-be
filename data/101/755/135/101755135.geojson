@@ -26,6 +26,9 @@
     "name:cat_x_preferred":[
         "Welkenraedt"
     ],
+    "name:ceb_x_preferred":[
+        "Welkenraedt"
+    ],
     "name:deu_x_preferred":[
         "Welkenraedt"
     ],
@@ -74,6 +77,9 @@
     "name:oci_x_preferred":[
         "Welkenraedt"
     ],
+    "name:pol_x_preferred":[
+        "Welkenraedt"
+    ],
     "name:por_x_preferred":[
         "Welkenraedt"
     ],
@@ -87,6 +93,9 @@
         "Welkenraedt"
     ],
     "name:spa_x_preferred":[
+        "Welkenraedt"
+    ],
+    "name:swe_x_preferred":[
         "Welkenraedt"
     ],
     "name:vec_x_preferred":[
@@ -156,7 +165,7 @@
         }
     ],
     "wof:id":101755135,
-    "wof:lastmodified":1561831396,
+    "wof:lastmodified":1563234982,
     "wof:name":"Welkenraedt",
     "wof:parent_id":102049935,
     "wof:placetype":"locality",

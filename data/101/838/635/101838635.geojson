@@ -74,11 +74,17 @@
     "name:lat_x_preferred":[
         "Geminiacum"
     ],
+    "name:lat_x_variant":[
+        "Gemblacum"
+    ],
     "name:lim_x_preferred":[
         "Gembloers"
     ],
     "name:lit_x_preferred":[
         "\u017damblu"
+    ],
+    "name:lit_x_variant":[
+        "\u017danblu"
     ],
     "name:ltz_x_preferred":[
         "Gembloux"
@@ -117,6 +123,9 @@
         "Gembloux"
     ],
     "name:swe_x_preferred":[
+        "Gembloux"
+    ],
+    "name:tur_x_preferred":[
         "Gembloux"
     ],
     "name:unk_x_variant":[
@@ -190,7 +199,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1561831424,
+    "wof:lastmodified":1563235371,
     "wof:name":"Gembloux",
     "wof:parent_id":102049931,
     "wof:placetype":"locality",

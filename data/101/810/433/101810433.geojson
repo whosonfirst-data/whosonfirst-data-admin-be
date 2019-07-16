@@ -29,6 +29,9 @@
     "name:ceb_x_preferred":[
         "Limbourg"
     ],
+    "name:ces_x_preferred":[
+        "Lumburg"
+    ],
     "name:deu_x_preferred":[
         "Limbourg"
     ],
@@ -61,6 +64,9 @@
     ],
     "name:ita_x_preferred":[
         "Limburgo"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30e9\u30f3\u30d6\u30fc\u30eb"
     ],
     "name:lim_x_preferred":[
         "Limburg"
@@ -95,6 +101,9 @@
     ],
     "name:rus_x_preferred":[
         "\u041b\u0435\u043c\u0431\u0443\u0440"
+    ],
+    "name:rus_x_variant":[
+        "\u041b\u0438\u043c\u0431\u0443\u0440"
     ],
     "name:slk_x_preferred":[
         "Limbourg"
@@ -174,7 +183,7 @@
         }
     ],
     "wof:id":101810433,
-    "wof:lastmodified":1561831416,
+    "wof:lastmodified":1563235253,
     "wof:name":"Limbourg",
     "wof:parent_id":102049935,
     "wof:placetype":"locality",

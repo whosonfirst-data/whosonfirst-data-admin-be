@@ -26,6 +26,9 @@
     "name:cat_x_preferred":[
         "Couvin"
     ],
+    "name:ceb_x_preferred":[
+        "Couvin"
+    ],
     "name:dan_x_preferred":[
         "Couvin"
     ],
@@ -85,6 +88,9 @@
     ],
     "name:pcd_x_preferred":[
         "Couv\u00e9ne"
+    ],
+    "name:pol_x_preferred":[
+        "Couvin"
     ],
     "name:por_x_preferred":[
         "Couvin"
@@ -168,7 +174,7 @@
         }
     ],
     "wof:id":101811577,
-    "wof:lastmodified":1561831413,
+    "wof:lastmodified":1563235208,
     "wof:name":"Couvin",
     "wof:parent_id":102049917,
     "wof:placetype":"locality",

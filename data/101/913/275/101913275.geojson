@@ -22,6 +22,9 @@
     "name:fra_x_preferred":[
         "Kallo"
     ],
+    "name:fra_x_variant":[
+        "Calloo"
+    ],
     "name:hun_x_preferred":[
         "Kallo"
     ],
@@ -33,6 +36,9 @@
     ],
     "name:rus_x_preferred":[
         "Kallo"
+    ],
+    "name:rus_x_variant":[
+        "\u041a\u0430\u043b\u043b\u043e"
     ],
     "name:unk_x_variant":[
         "Calloo"
@@ -83,7 +89,7 @@
         }
     ],
     "wof:id":101913275,
-    "wof:lastmodified":1561831419,
+    "wof:lastmodified":1563235294,
     "wof:name":"Kallo",
     "wof:parent_id":1108830433,
     "wof:placetype":"locality",

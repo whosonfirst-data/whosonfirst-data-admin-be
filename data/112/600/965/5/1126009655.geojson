@@ -27,8 +27,14 @@
     "name:fra_x_preferred":[
         "Ougr\u00e9e"
     ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05d5\u05d2\u05e8\u05d9"
+    ],
     "name:hun_x_preferred":[
         "Ougr\u00e9e"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a6\u30b0\u30ec"
     ],
     "name:ltz_x_preferred":[
         "Ougr\u00e9e"
@@ -38,6 +44,9 @@
     ],
     "name:unk_x_variant":[
         "Seraing (Ougr\u00e9e)"
+    ],
+    "name:wln_x_preferred":[
+        "Ougr\u00eaye"
     ],
     "qs_pg:aaroncc":"BE",
     "qs_pg:gn_country":"BE",
@@ -91,7 +100,7 @@
         }
     ],
     "wof:id":1126009655,
-    "wof:lastmodified":1561831470,
+    "wof:lastmodified":1563235922,
     "wof:name":"Ougr\u00e9e",
     "wof:parent_id":102049941,
     "wof:placetype":"locality",

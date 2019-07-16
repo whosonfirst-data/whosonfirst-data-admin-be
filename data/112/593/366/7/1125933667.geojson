@@ -21,6 +21,9 @@
     "name:bul_x_preferred":[
         "\u0425\u0435\u0444\u0435\u043d"
     ],
+    "name:ceb_x_preferred":[
+        "Heffen"
+    ],
     "name:eng_x_preferred":[
         "Heffen"
     ],
@@ -95,7 +98,7 @@
         }
     ],
     "wof:id":1125933667,
-    "wof:lastmodified":1561831440,
+    "wof:lastmodified":1563235611,
     "wof:name":"Heffen",
     "wof:parent_id":1108830407,
     "wof:placetype":"locality",

@@ -21,6 +21,12 @@
     "name:bre_x_preferred":[
         "Marchienne-au-Pont"
     ],
+    "name:ceb_x_preferred":[
+        "Marchienne-au-Pont"
+    ],
+    "name:dan_x_preferred":[
+        "Marchienne-au-Pont"
+    ],
     "name:deu_x_preferred":[
         "Marchienne-au-Pont"
     ],
@@ -99,7 +105,7 @@
         }
     ],
     "wof:id":1125947829,
-    "wof:lastmodified":1561831439,
+    "wof:lastmodified":1563235599,
     "wof:name":"Marchienne-au-Pont",
     "wof:parent_id":102049927,
     "wof:placetype":"locality",

@@ -87,6 +87,9 @@
     "name:gsw_x_preferred":[
         "Ouren"
     ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05d5\u05e8\u05df"
+    ],
     "name:hrv_x_preferred":[
         "Ouren"
     ],
@@ -273,7 +276,7 @@
         }
     ],
     "wof:id":1125855557,
-    "wof:lastmodified":1561831477,
+    "wof:lastmodified":1563235978,
     "wof:name":"Ouren",
     "wof:parent_id":102049935,
     "wof:placetype":"locality",

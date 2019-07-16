@@ -26,6 +26,9 @@
     "name:eng_x_preferred":[
         "Mere"
     ],
+    "name:fas_x_preferred":[
+        "\u0645\u0631"
+    ],
     "name:fra_x_preferred":[
         "Mere"
     ],
@@ -94,7 +97,7 @@
         }
     ],
     "wof:id":101755339,
-    "wof:lastmodified":1561831397,
+    "wof:lastmodified":1563234992,
     "wof:name":"Mere",
     "wof:parent_id":1108830215,
     "wof:placetype":"locality",

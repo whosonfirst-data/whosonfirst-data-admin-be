@@ -32,6 +32,9 @@
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u041a\u043e\u0440\u0442\u0440\u044d\u0439\u043a"
     ],
+    "name:bel_x_variant":[
+        "\u041a\u043e\u0440\u0442\u0440\u044d\u0439\u043a"
+    ],
     "name:bos_x_preferred":[
         "Kortrijk"
     ],
@@ -42,6 +45,9 @@
         "\u041a\u043e\u0440\u0442\u0440\u0435\u0439\u043a"
     ],
     "name:cat_x_preferred":[
+        "Kortrijk"
+    ],
+    "name:ceb_x_preferred":[
         "Kortrijk"
     ],
     "name:ces_x_preferred":[
@@ -58,6 +64,9 @@
     ],
     "name:ell_x_preferred":[
         "\u039a\u03bf\u03c1\u03c4\u03c1\u03ac\u03b9\u03ba"
+    ],
+    "name:ell_x_variant":[
+        "\u039a\u03cc\u03c1\u03c4\u03c1\u03b5\u03ca\u03ba"
     ],
     "name:eng_x_preferred":[
         "Kortrijk"
@@ -140,6 +149,9 @@
     "name:lmo_x_preferred":[
         "Courtrai"
     ],
+    "name:ltz_x_preferred":[
+        "Kortrijk"
+    ],
     "name:mkd_x_preferred":[
         "\u041a\u043e\u0440\u0442\u0440\u0435\u0458\u043a"
     ],
@@ -196,6 +208,9 @@
     ],
     "name:swe_x_preferred":[
         "Kortrijk"
+    ],
+    "name:tat_x_preferred":[
+        "\u041a\u043e\u0440\u0442\u0440\u0435\u0439\u043a"
     ],
     "name:tha_x_preferred":[
         "\u0e04\u0e2d\u0e23\u0e4c\u0e17\u0e44\u0e23\u0e04\u0e4c"
@@ -285,7 +300,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1561831418,
+    "wof:lastmodified":1563235268,
     "wof:name":"Kortrijk",
     "wof:parent_id":1108830299,
     "wof:placetype":"locality",

@@ -21,6 +21,9 @@
     "name:eng_x_preferred":[
         "Wagnel\u00e9e"
     ],
+    "name:fas_x_preferred":[
+        "\u0648\u0627\u06af\u0646\u0644\u0647"
+    ],
     "name:fra_x_preferred":[
         "Wagnel\u00e9e"
     ],
@@ -88,7 +91,7 @@
         }
     ],
     "wof:id":1125801577,
-    "wof:lastmodified":1561831457,
+    "wof:lastmodified":1563235792,
     "wof:name":"Wagnel\u00e9e",
     "wof:parent_id":102049927,
     "wof:placetype":"locality",

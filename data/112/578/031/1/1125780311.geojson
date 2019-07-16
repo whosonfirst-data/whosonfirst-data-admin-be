@@ -18,6 +18,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Sint-Pauwels"
+    ],
     "name:eng_x_preferred":[
         "Sint-Pauwels"
     ],
@@ -87,7 +90,7 @@
         }
     ],
     "wof:id":1125780311,
-    "wof:lastmodified":1561831479,
+    "wof:lastmodified":1563235994,
     "wof:name":"St.-Pauwels",
     "wof:parent_id":1108830193,
     "wof:placetype":"locality",

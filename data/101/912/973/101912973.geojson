@@ -20,6 +20,9 @@
     "name:cat_x_preferred":[
         "Sint-Pieters-Voeren"
     ],
+    "name:ceb_x_preferred":[
+        "Sint-Pieters-Voeren"
+    ],
     "name:deu_x_preferred":[
         "Sint-Pieters-Voeren"
     ],
@@ -93,7 +96,7 @@
         }
     ],
     "wof:id":101912973,
-    "wof:lastmodified":1561831417,
+    "wof:lastmodified":1563235262,
     "wof:name":"Fouron-St.-Pierre",
     "wof:parent_id":1108830021,
     "wof:placetype":"locality",

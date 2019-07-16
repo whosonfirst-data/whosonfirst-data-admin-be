@@ -26,8 +26,14 @@
     "name:cat_x_preferred":[
         "Gouvy"
     ],
+    "name:ceb_x_preferred":[
+        "Gouvy"
+    ],
     "name:deu_x_preferred":[
         "Gouvy"
+    ],
+    "name:deu_x_variant":[
+        "Geilich"
     ],
     "name:eng_x_preferred":[
         "Gouvy"
@@ -62,6 +68,9 @@
     "name:ltz_x_preferred":[
         "Gouvy"
     ],
+    "name:ltz_x_variant":[
+        "G\u00e4ilech"
+    ],
     "name:nld_x_preferred":[
         "Gouvy"
     ],
@@ -74,6 +83,9 @@
     "name:oci_x_preferred":[
         "Gouvy"
     ],
+    "name:pol_x_preferred":[
+        "Gouvy"
+    ],
     "name:por_x_preferred":[
         "Gouvy"
     ],
@@ -84,6 +96,12 @@
         "\u0413\u0443\u0432\u0438"
     ],
     "name:slk_x_preferred":[
+        "Gouvy"
+    ],
+    "name:spa_x_preferred":[
+        "Gouvy"
+    ],
+    "name:swe_x_preferred":[
         "Gouvy"
     ],
     "name:vie_x_preferred":[
@@ -151,7 +169,7 @@
         }
     ],
     "wof:id":101811531,
-    "wof:lastmodified":1561831412,
+    "wof:lastmodified":1563235192,
     "wof:name":"Gouvy",
     "wof:parent_id":102049915,
     "wof:placetype":"locality",

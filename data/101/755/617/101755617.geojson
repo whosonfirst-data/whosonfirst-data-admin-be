@@ -26,6 +26,12 @@
     "name:cat_x_preferred":[
         "Wielsbeke"
     ],
+    "name:ceb_x_preferred":[
+        "Wielsbeke"
+    ],
+    "name:ces_x_preferred":[
+        "Wielsbeke"
+    ],
     "name:deu_x_preferred":[
         "Wielsbeke"
     ],
@@ -53,11 +59,17 @@
     "name:ita_x_preferred":[
         "Wielsbeke"
     ],
+    "name:jpn_x_preferred":[
+        "\u30f4\u30a3\u30eb\u30b9\u30d9\u30fc\u30af"
+    ],
     "name:lim_x_preferred":[
         "Wielsbeke"
     ],
     "name:lit_x_preferred":[
         "Vylsbekas"
+    ],
+    "name:ltz_x_preferred":[
+        "Wielsbeke"
     ],
     "name:nld_x_preferred":[
         "Wielsbeke"
@@ -66,6 +78,9 @@
         "Wielsbeke"
     ],
     "name:oci_x_preferred":[
+        "Wielsbeke"
+    ],
+    "name:pol_x_preferred":[
         "Wielsbeke"
     ],
     "name:por_x_preferred":[
@@ -78,6 +93,9 @@
         "Wielsbeke"
     ],
     "name:spa_x_preferred":[
+        "Wielsbeke"
+    ],
+    "name:swe_x_preferred":[
         "Wielsbeke"
     ],
     "name:vie_x_preferred":[
@@ -150,7 +168,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1561831398,
+    "wof:lastmodified":1563235003,
     "wof:name":"Wielsbeke",
     "wof:parent_id":1108830481,
     "wof:placetype":"locality",

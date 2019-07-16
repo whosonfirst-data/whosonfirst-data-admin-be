@@ -56,6 +56,9 @@
     "name:lim_x_preferred":[
         "Momignies"
     ],
+    "name:ltz_x_preferred":[
+        "Momignies"
+    ],
     "name:nld_x_preferred":[
         "Momignies"
     ],
@@ -84,6 +87,9 @@
         "Momignies"
     ],
     "name:slv_x_preferred":[
+        "Momignies"
+    ],
+    "name:spa_x_preferred":[
         "Momignies"
     ],
     "name:swe_x_preferred":[
@@ -150,7 +156,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1561831412,
+    "wof:lastmodified":1563235197,
     "wof:name":"Momignies",
     "wof:parent_id":102049923,
     "wof:placetype":"locality",

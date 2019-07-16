@@ -21,6 +21,12 @@
     "name:bul_x_preferred":[
         "\u041b\u0438\u043f\u0435\u043b\u043e"
     ],
+    "name:cat_x_preferred":[
+        "Lippelo"
+    ],
+    "name:ceb_x_preferred":[
+        "Lippelo"
+    ],
     "name:eng_x_preferred":[
         "Lippelo"
     ],
@@ -91,7 +97,7 @@
         }
     ],
     "wof:id":1125992049,
-    "wof:lastmodified":1561831461,
+    "wof:lastmodified":1563235824,
     "wof:name":"Lippelo",
     "wof:parent_id":1108830145,
     "wof:placetype":"locality",

@@ -31,6 +31,9 @@
     "name:arg_x_preferred":[
         "Provincia de Nameur"
     ],
+    "name:aze_x_preferred":[
+        "Namyur"
+    ],
     "name:bar_x_preferred":[
         "Provinz Namur"
     ],
@@ -153,6 +156,9 @@
     ],
     "name:nld_x_preferred":[
         "Provincie Namen"
+    ],
+    "name:nld_x_variant":[
+        "Namen"
     ],
     "name:nob_x_preferred":[
         "Namur"
@@ -282,7 +288,7 @@
         }
     ],
     "wof:id":102049931,
-    "wof:lastmodified":1561831355,
+    "wof:lastmodified":1563233718,
     "wof:name":"Namur",
     "wof:parent_id":85681699,
     "wof:placetype":"county",

@@ -56,6 +56,9 @@
     "name:lit_x_preferred":[
         "Kerbergenas"
     ],
+    "name:ltz_x_preferred":[
+        "Keerbergen"
+    ],
     "name:nld_x_preferred":[
         "Keerbergen"
     ],
@@ -68,6 +71,9 @@
     "name:oci_x_preferred":[
         "Keerbergen"
     ],
+    "name:pol_x_preferred":[
+        "Keerbergen"
+    ],
     "name:por_x_preferred":[
         "Keerbergen"
     ],
@@ -75,6 +81,9 @@
         "Keerbergen"
     ],
     "name:slk_x_preferred":[
+        "Keerbergen"
+    ],
+    "name:spa_x_preferred":[
         "Keerbergen"
     ],
     "name:swe_x_preferred":[
@@ -142,7 +151,7 @@
         }
     ],
     "wof:id":101755383,
-    "wof:lastmodified":1561831400,
+    "wof:lastmodified":1563235034,
     "wof:name":"Keerbergen",
     "wof:parent_id":1108830055,
     "wof:placetype":"locality",

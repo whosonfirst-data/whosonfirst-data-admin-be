@@ -19,6 +19,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bar_x_preferred":[
+        "Rouvroy"
+    ],
     "name:bre_x_preferred":[
         "Rouvroy"
     ],
@@ -26,6 +29,9 @@
         "\u0420\u0443\u0432\u0440\u043e\u0430\u0439"
     ],
     "name:cat_x_preferred":[
+        "Rouvroy"
+    ],
+    "name:ceb_x_preferred":[
         "Rouvroy"
     ],
     "name:deu_x_preferred":[
@@ -76,6 +82,12 @@
     "name:oci_x_preferred":[
         "Rouvroy"
     ],
+    "name:pol_x_preferred":[
+        "Rouvroy"
+    ],
+    "name:por_x_preferred":[
+        "Rouvroy"
+    ],
     "name:ron_x_preferred":[
         "Rouvroy"
     ],
@@ -83,6 +95,9 @@
         "\u0420\u0443\u0432\u0440\u0443\u0430"
     ],
     "name:slk_x_preferred":[
+        "Rouvroy"
+    ],
+    "name:spa_x_preferred":[
         "Rouvroy"
     ],
     "name:swe_x_preferred":[
@@ -155,7 +170,7 @@
         }
     ],
     "wof:id":1126050085,
-    "wof:lastmodified":1561831447,
+    "wof:lastmodified":1563235668,
     "wof:name":"Rouvroy",
     "wof:parent_id":102049907,
     "wof:placetype":"locality",

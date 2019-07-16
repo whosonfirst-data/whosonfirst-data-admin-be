@@ -32,6 +32,9 @@
     "name:ces_x_preferred":[
         "Chimay"
     ],
+    "name:dan_x_preferred":[
+        "Chimay"
+    ],
     "name:deu_x_preferred":[
         "Chimay"
     ],
@@ -64,6 +67,9 @@
     ],
     "name:kor_x_preferred":[
         "\uc2dc\uba54"
+    ],
+    "name:kor_x_variant":[
+        "\uc26c\uba54"
     ],
     "name:lim_x_preferred":[
         "Chimay"
@@ -105,6 +111,9 @@
         "Chimay"
     ],
     "name:swe_x_preferred":[
+        "Chimay"
+    ],
+    "name:tur_x_preferred":[
         "Chimay"
     ],
     "name:vie_x_preferred":[
@@ -175,7 +184,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1561831413,
+    "wof:lastmodified":1563235198,
     "wof:name":"Chimay",
     "wof:parent_id":102049923,
     "wof:placetype":"locality",

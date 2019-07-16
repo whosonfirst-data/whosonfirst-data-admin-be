@@ -32,6 +32,9 @@
     "name:ces_x_preferred":[
         "Torhout"
     ],
+    "name:dan_x_preferred":[
+        "Torhout"
+    ],
     "name:deu_x_preferred":[
         "Torhout"
     ],
@@ -52,6 +55,9 @@
     ],
     "name:fra_x_preferred":[
         "Torhout"
+    ],
+    "name:fra_x_variant":[
+        "Thourout"
     ],
     "name:hun_x_preferred":[
         "Torhout"
@@ -104,7 +110,13 @@
     "name:rus_x_preferred":[
         "\u0422\u043e\u0440\u0445\u043e\u0443\u0442"
     ],
+    "name:rus_x_variant":[
+        "\u0422\u043e\u0440\u0443"
+    ],
     "name:slk_x_preferred":[
+        "Torhout"
+    ],
+    "name:spa_x_preferred":[
         "Torhout"
     ],
     "name:swe_x_preferred":[
@@ -184,7 +196,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1561831432,
+    "wof:lastmodified":1563235481,
     "wof:name":"Torhout",
     "wof:parent_id":1108830333,
     "wof:placetype":"locality",

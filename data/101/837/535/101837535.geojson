@@ -30,6 +30,9 @@
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u0425\u0430\u0441\u0435\u043b\u0442"
     ],
+    "name:bel_x_variant":[
+        "\u0425\u0430\u0441\u0435\u043b\u0442"
+    ],
     "name:bre_x_preferred":[
         "Hasselt"
     ],
@@ -37,6 +40,9 @@
         "\u0425\u0430\u0441\u0435\u043b\u0442"
     ],
     "name:cat_x_preferred":[
+        "Hasselt"
+    ],
+    "name:ceb_x_preferred":[
         "Hasselt"
     ],
     "name:ces_x_preferred":[
@@ -183,8 +189,14 @@
     "name:szl_x_preferred":[
         "Hasselt"
     ],
+    "name:tat_x_preferred":[
+        "\u04ba\u0430\u0441\u0441\u0435\u043b\u0442"
+    ],
     "name:tha_x_preferred":[
         "\u0e2e\u0e31\u0e2a\u0e40\u0e0b\u0e25\u0e17\u0e4c"
+    ],
+    "name:tha_x_variant":[
+        "\u0e2e\u0e31\u0e2a\u0e40\u0e0b\u0e34\u0e25\u0e15\u0e4c"
     ],
     "name:tur_x_preferred":[
         "Hasselt"
@@ -359,7 +371,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1561831431,
+    "wof:lastmodified":1563235475,
     "wof:name":"Hasselt",
     "wof:parent_id":1108830649,
     "wof:placetype":"locality",

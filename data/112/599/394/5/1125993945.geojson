@@ -24,6 +24,9 @@
     "name:fra_x_preferred":[
         "Everbeek"
     ],
+    "name:fra_x_variant":[
+        "Everbecq"
+    ],
     "name:hun_x_preferred":[
         "Everbeek"
     ],
@@ -92,7 +95,7 @@
         }
     ],
     "wof:id":1125993945,
-    "wof:lastmodified":1561831461,
+    "wof:lastmodified":1563235831,
     "wof:name":"Everbeek",
     "wof:parent_id":1108830545,
     "wof:placetype":"locality",

@@ -26,11 +26,17 @@
     "name:cat_x_preferred":[
         "Oosterzele"
     ],
+    "name:ceb_x_preferred":[
+        "Oosterzele"
+    ],
     "name:deu_x_preferred":[
         "Oosterzele"
     ],
     "name:eng_x_preferred":[
         "Oosterzeele"
+    ],
+    "name:eng_x_variant":[
+        "Oosterzele"
     ],
     "name:epo_x_preferred":[
         "Oosterzele"
@@ -53,6 +59,9 @@
     "name:ita_x_preferred":[
         "Oosterzele"
     ],
+    "name:ltz_x_preferred":[
+        "Oosterzele"
+    ],
     "name:nld_x_preferred":[
         "Oosterzele"
     ],
@@ -60,6 +69,9 @@
         "Oosterzele"
     ],
     "name:oci_x_preferred":[
+        "Oosterzele"
+    ],
+    "name:pol_x_preferred":[
         "Oosterzele"
     ],
     "name:por_x_preferred":[
@@ -152,7 +164,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1561831422,
+    "wof:lastmodified":1563235351,
     "wof:name":"Oosterzele",
     "wof:parent_id":1108830191,
     "wof:placetype":"locality",

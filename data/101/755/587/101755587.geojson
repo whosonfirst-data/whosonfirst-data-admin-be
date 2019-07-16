@@ -26,6 +26,9 @@
     "name:cat_x_preferred":[
         "Wichelen"
     ],
+    "name:ceb_x_preferred":[
+        "Wichelen"
+    ],
     "name:deu_x_preferred":[
         "Wichelen"
     ],
@@ -50,6 +53,9 @@
     "name:ita_x_preferred":[
         "Wichelen"
     ],
+    "name:ltz_x_preferred":[
+        "Wichelen"
+    ],
     "name:nld_x_preferred":[
         "Wichelen"
     ],
@@ -57,6 +63,9 @@
         "Wichelen"
     ],
     "name:oci_x_preferred":[
+        "Wichelen"
+    ],
+    "name:pol_x_preferred":[
         "Wichelen"
     ],
     "name:por_x_preferred":[
@@ -139,7 +148,7 @@
         }
     ],
     "wof:id":101755587,
-    "wof:lastmodified":1561831401,
+    "wof:lastmodified":1563235051,
     "wof:name":"Wichelen",
     "wof:parent_id":1108830489,
     "wof:placetype":"locality",

@@ -62,6 +62,9 @@
     "name:lit_x_preferred":[
         "Holsbikas"
     ],
+    "name:ltz_x_preferred":[
+        "Holsbeek"
+    ],
     "name:nld_x_preferred":[
         "Holsbeek"
     ],
@@ -72,6 +75,9 @@
         "Holsbeek"
     ],
     "name:oci_x_preferred":[
+        "Holsbeek"
+    ],
+    "name:pol_x_preferred":[
         "Holsbeek"
     ],
     "name:por_x_preferred":[
@@ -151,7 +157,7 @@
         }
     ],
     "wof:id":101755407,
-    "wof:lastmodified":1561831400,
+    "wof:lastmodified":1563235026,
     "wof:name":"Holsbeek",
     "wof:parent_id":1108830435,
     "wof:placetype":"locality",

@@ -21,6 +21,9 @@
     "name:bul_x_preferred":[
         "\u0425\u043e\u0440\u0443\u0435\u0441"
     ],
+    "name:ceb_x_preferred":[
+        "Horrues"
+    ],
     "name:eng_x_preferred":[
         "Horrues"
     ],
@@ -91,7 +94,7 @@
         }
     ],
     "wof:id":1126015629,
-    "wof:lastmodified":1561831468,
+    "wof:lastmodified":1563235912,
     "wof:name":"Horrues",
     "wof:parent_id":102049943,
     "wof:placetype":"locality",

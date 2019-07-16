@@ -28,6 +28,9 @@
     "name:cat_x_preferred":[
         "Sint-Amands"
     ],
+    "name:ceb_x_preferred":[
+        "Sint-Amands"
+    ],
     "name:deu_x_preferred":[
         "Sint-Amands"
     ],
@@ -61,6 +64,9 @@
     "name:kat_x_preferred":[
         "\u10e1\u10d8\u10dc\u10e2-\u10d0\u10db\u10d0\u10dc\u10d3\u10e1\u10d8"
     ],
+    "name:ltz_x_preferred":[
+        "Sint-Amands"
+    ],
     "name:nld_x_preferred":[
         "Sint-Amands"
     ],
@@ -68,6 +74,9 @@
         "Sint-Amands"
     ],
     "name:oci_x_preferred":[
+        "Sint-Amands"
+    ],
+    "name:pol_x_preferred":[
         "Sint-Amands"
     ],
     "name:por_x_preferred":[
@@ -160,7 +169,7 @@
         }
     ],
     "wof:id":1125961689,
-    "wof:lastmodified":1561831465,
+    "wof:lastmodified":1563235869,
     "wof:name":"St.-Amands",
     "wof:parent_id":1108830145,
     "wof:placetype":"locality",

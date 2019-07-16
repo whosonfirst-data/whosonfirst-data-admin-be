@@ -23,6 +23,9 @@
     "name:ara_x_preferred":[
         "\u0644\u0648\u0641\u0627\u0646"
     ],
+    "name:ast_x_preferred":[
+        "Leuven"
+    ],
     "name:aze_x_preferred":[
         "Leuven"
     ],
@@ -40,6 +43,9 @@
     ],
     "name:cat_x_preferred":[
         "Lovaina"
+    ],
+    "name:ceb_x_preferred":[
+        "Leuven"
     ],
     "name:ces_x_preferred":[
         "Lova\u0148"
@@ -101,6 +107,12 @@
     "name:hye_x_preferred":[
         "\u053c\u0575\u0578\u0582\u057e\u0565\u0576"
     ],
+    "name:hyw_x_preferred":[
+        "\u053c\u0575\u0578\u057e\u0565\u0576"
+    ],
+    "name:ido_x_preferred":[
+        "Leuven"
+    ],
     "name:ind_x_preferred":[
         "Leuven"
     ],
@@ -122,6 +134,9 @@
     ],
     "name:kor_x_preferred":[
         "\ub85c\ubca4\ub77c\ub204\ubca0"
+    ],
+    "name:kor_x_variant":[
+        "\ub8b0\ubc88"
     ],
     "name:lat_x_preferred":[
         "Lovanium"
@@ -162,6 +177,9 @@
     "name:oci_x_preferred":[
         "Lovaina"
     ],
+    "name:pcd_x_preferred":[
+        "Louvain"
+    ],
     "name:pol_x_preferred":[
         "Leuven"
     ],
@@ -192,6 +210,9 @@
     "name:srp_x_preferred":[
         "\u041b\u0443\u0432\u0435\u043d"
     ],
+    "name:srp_x_variant":[
+        "\u041b\u0435\u0432\u0435\u043d"
+    ],
     "name:swa_x_preferred":[
         "Leuven"
     ],
@@ -204,8 +225,14 @@
     "name:swe_x_variant":[
         "Leuven"
     ],
+    "name:szl_x_preferred":[
+        "Leuven"
+    ],
     "name:tam_x_preferred":[
         "\u0bb2\u0bc0\u0baf\u0bc1\u0bb5\u0bc6\u0ba9\u0bcd"
+    ],
+    "name:tat_x_preferred":[
+        "\u041b\u04e9\u0432\u0435\u043d"
     ],
     "name:tel_x_preferred":[
         "\u0c32\u0c4d\u0c2f\u0c41\u0c35\u0c46\u0c28\u0c4d"
@@ -239,6 +266,9 @@
     ],
     "name:wln_x_preferred":[
         "Lov\u00e9n"
+    ],
+    "name:yue_x_preferred":[
+        "\u9b6f\u6c76"
     ],
     "name:zho_x_preferred":[
         "\u9c81\u6c76"
@@ -305,7 +335,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1561831418,
+    "wof:lastmodified":1563235274,
     "wof:name":"Leuven",
     "wof:parent_id":1108830125,
     "wof:placetype":"locality",

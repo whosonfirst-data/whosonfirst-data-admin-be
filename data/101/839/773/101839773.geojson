@@ -17,6 +17,18 @@
     "mps:longitude":3.851975,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:afr_x_preferred":[
+        "Brugelette"
+    ],
+    "name:arg_x_preferred":[
+        "Brugelette"
+    ],
+    "name:ast_x_preferred":[
+        "Brugelette"
+    ],
+    "name:bar_x_preferred":[
+        "Brugelette"
+    ],
     "name:bre_x_preferred":[
         "Brugelette"
     ],
@@ -24,6 +36,21 @@
         "\u0411\u0440\u044e\u0436\u0435\u043b\u0435\u0442"
     ],
     "name:cat_x_preferred":[
+        "Brugelette"
+    ],
+    "name:ceb_x_preferred":[
+        "Brugelette"
+    ],
+    "name:ces_x_preferred":[
+        "Brugelette"
+    ],
+    "name:cos_x_preferred":[
+        "Brugelette"
+    ],
+    "name:cym_x_preferred":[
+        "Brugelette"
+    ],
+    "name:dan_x_preferred":[
         "Brugelette"
     ],
     "name:deu_x_preferred":[
@@ -35,25 +62,94 @@
     "name:epo_x_preferred":[
         "Brugelette"
     ],
+    "name:est_x_preferred":[
+        "Brugelette"
+    ],
     "name:eus_x_preferred":[
         "Brugelette"
     ],
     "name:fas_x_preferred":[
         "\u0628\u0631\u0648\u0698\u0648\u0644\u062a"
     ],
+    "name:fin_x_preferred":[
+        "Brugelette"
+    ],
     "name:fra_x_preferred":[
+        "Brugelette"
+    ],
+    "name:frp_x_preferred":[
+        "Brugelette"
+    ],
+    "name:fur_x_preferred":[
+        "Brugelette"
+    ],
+    "name:gla_x_preferred":[
+        "Brugelette"
+    ],
+    "name:gle_x_preferred":[
+        "Brugelette"
+    ],
+    "name:glg_x_preferred":[
+        "Brugelette"
+    ],
+    "name:gsw_x_preferred":[
+        "Brugelette"
+    ],
+    "name:hrv_x_preferred":[
         "Brugelette"
     ],
     "name:hun_x_preferred":[
         "Brugelette"
     ],
+    "name:ido_x_preferred":[
+        "Brugelette"
+    ],
+    "name:ile_x_preferred":[
+        "Brugelette"
+    ],
+    "name:ina_x_preferred":[
+        "Brugelette"
+    ],
+    "name:ind_x_preferred":[
+        "Brugelette"
+    ],
+    "name:isl_x_preferred":[
+        "Brugelette"
+    ],
     "name:ita_x_preferred":[
+        "Brugelette"
+    ],
+    "name:kon_x_preferred":[
+        "Brugelette"
+    ],
+    "name:lij_x_preferred":[
         "Brugelette"
     ],
     "name:lim_x_preferred":[
         "Brugelette"
     ],
+    "name:ltz_x_preferred":[
+        "Brugelette"
+    ],
+    "name:min_x_preferred":[
+        "Brugelette"
+    ],
+    "name:mlg_x_preferred":[
+        "Brugelette"
+    ],
+    "name:msa_x_preferred":[
+        "Brugelette"
+    ],
+    "name:nap_x_preferred":[
+        "Brugelette"
+    ],
+    "name:nds_x_preferred":[
+        "Brugelette"
+    ],
     "name:nld_x_preferred":[
+        "Brugelette"
+    ],
+    "name:nno_x_preferred":[
         "Brugelette"
     ],
     "name:nob_x_preferred":[
@@ -62,10 +158,25 @@
     "name:nor_x_preferred":[
         "Brugelette"
     ],
+    "name:nrm_x_preferred":[
+        "Brugelette"
+    ],
     "name:oci_x_preferred":[
         "Brugelette"
     ],
+    "name:pcd_x_preferred":[
+        "Brugelette"
+    ],
+    "name:pms_x_preferred":[
+        "Brugelette"
+    ],
+    "name:pol_x_preferred":[
+        "Brugelette"
+    ],
     "name:por_x_preferred":[
+        "Brugelette"
+    ],
+    "name:roh_x_preferred":[
         "Brugelette"
     ],
     "name:ron_x_preferred":[
@@ -74,16 +185,37 @@
     "name:rus_x_preferred":[
         "\u0411\u0440\u044e\u0436\u043b\u0435\u0442"
     ],
+    "name:scn_x_preferred":[
+        "Brugelette"
+    ],
+    "name:sco_x_preferred":[
+        "Brugelette"
+    ],
     "name:slk_x_preferred":[
+        "Brugelette"
+    ],
+    "name:slv_x_preferred":[
         "Brugelette"
     ],
     "name:spa_x_preferred":[
         "Brugelette"
     ],
+    "name:srd_x_preferred":[
+        "Brugelette"
+    ],
+    "name:swa_x_preferred":[
+        "Brugelette"
+    ],
     "name:swe_x_preferred":[
         "Brugelette"
     ],
+    "name:vec_x_preferred":[
+        "Brugelette"
+    ],
     "name:vie_x_preferred":[
+        "Brugelette"
+    ],
+    "name:vls_x_preferred":[
         "Brugelette"
     ],
     "name:vol_x_preferred":[
@@ -92,8 +224,17 @@
     "name:war_x_preferred":[
         "Brugelette"
     ],
+    "name:wln_x_preferred":[
+        "Brugelette"
+    ],
+    "name:wol_x_preferred":[
+        "Brugelette"
+    ],
     "name:zho_x_preferred":[
         "\u5e03\u666e\u65e5\u5217\u7279"
+    ],
+    "name:zul_x_preferred":[
+        "Brugelette"
     ],
     "qs:a0":"Belgi\u00eb#Belgique#Belgien",
     "qs:a1":"*Hainaut",
@@ -148,7 +289,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1561831436,
+    "wof:lastmodified":1563235544,
     "wof:name":"Brugelette",
     "wof:parent_id":102049949,
     "wof:placetype":"locality",

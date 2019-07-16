@@ -21,6 +21,9 @@
     "name:bre_x_preferred":[
         "Moere"
     ],
+    "name:ceb_x_preferred":[
+        "Moere"
+    ],
     "name:eng_x_preferred":[
         "Moere"
     ],
@@ -102,7 +105,7 @@
         }
     ],
     "wof:id":1125951647,
-    "wof:lastmodified":1561831443,
+    "wof:lastmodified":1563235635,
     "wof:name":"Moere",
     "wof:parent_id":1108830575,
     "wof:placetype":"locality",

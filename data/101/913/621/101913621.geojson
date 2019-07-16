@@ -26,6 +26,9 @@
     "name:cat_x_preferred":[
         "Marche-en-Famenne"
     ],
+    "name:ceb_x_preferred":[
+        "Marche-en-Famenne"
+    ],
     "name:ces_x_preferred":[
         "Marche-en-Famenne"
     ],
@@ -35,8 +38,14 @@
     "name:deu_x_preferred":[
         "Marche-en-Famenne"
     ],
+    "name:ell_x_preferred":[
+        "\u039c\u03b1\u03c1\u03c2-\u03b1\u03bd-\u03a6\u03b1\u03bc\u03ad\u03bd"
+    ],
     "name:eng_x_preferred":[
         "Marche"
+    ],
+    "name:eng_x_variant":[
+        "Marche-en-Famenne"
     ],
     "name:epo_x_preferred":[
         "Marche-en-Famenne"
@@ -90,6 +99,9 @@
         "Marche-en-Famenne"
     ],
     "name:oci_x_preferred":[
+        "Marche-en-Famenne"
+    ],
+    "name:pol_x_preferred":[
         "Marche-en-Famenne"
     ],
     "name:por_x_preferred":[
@@ -174,7 +186,7 @@
         }
     ],
     "wof:id":101913621,
-    "wof:lastmodified":1561831418,
+    "wof:lastmodified":1563235285,
     "wof:name":"Marche-en-Famenne",
     "wof:parent_id":102049919,
     "wof:placetype":"locality",

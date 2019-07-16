@@ -56,6 +56,12 @@
     "name:jpn_x_preferred":[
         "\u30eb\u30d9\u30fc\u30af"
     ],
+    "name:kor_x_preferred":[
+        "\ub93c\ubca0\ud06c"
+    ],
+    "name:ltz_x_preferred":[
+        "Lubbeek"
+    ],
     "name:nld_x_preferred":[
         "Lubbeek"
     ],
@@ -78,6 +84,9 @@
         "\u041b\u044e\u0431\u0431\u0435\u043a"
     ],
     "name:slk_x_preferred":[
+        "Lubbeek"
+    ],
+    "name:spa_x_preferred":[
         "Lubbeek"
     ],
     "name:swe_x_preferred":[
@@ -146,7 +155,7 @@
         }
     ],
     "wof:id":101755421,
-    "wof:lastmodified":1561831403,
+    "wof:lastmodified":1563235071,
     "wof:name":"Lubbeek",
     "wof:parent_id":1108830497,
     "wof:placetype":"locality",

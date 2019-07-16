@@ -29,6 +29,9 @@
     "name:cat_x_preferred":[
         "Beaumont"
     ],
+    "name:ceb_x_preferred":[
+        "Beaumont"
+    ],
     "name:deu_x_preferred":[
         "Beaumont"
     ],
@@ -59,6 +62,9 @@
     "name:lim_x_preferred":[
         "Beaumont"
     ],
+    "name:ltz_x_preferred":[
+        "Beaumont"
+    ],
     "name:nld_x_preferred":[
         "Beaumont"
     ],
@@ -67,6 +73,9 @@
     ],
     "name:oci_x_preferred":[
         "Beaumont"
+    ],
+    "name:pcd_x_preferred":[
+        "Bi\u00f4mont"
     ],
     "name:pol_x_preferred":[
         "Beaumont"
@@ -155,7 +164,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1561831411,
+    "wof:lastmodified":1563235177,
     "wof:name":"Beaumont",
     "wof:parent_id":102049923,
     "wof:placetype":"locality",

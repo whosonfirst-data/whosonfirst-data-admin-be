@@ -29,6 +29,9 @@
     "name:ceb_x_preferred":[
         "Willebroek"
     ],
+    "name:dan_x_preferred":[
+        "Willebroek"
+    ],
     "name:deu_x_preferred":[
         "Willebroek"
     ],
@@ -61,6 +64,9 @@
     ],
     "name:lit_x_preferred":[
         "Vilebrukas"
+    ],
+    "name:ltz_x_preferred":[
+        "Willebroek"
     ],
     "name:nld_x_preferred":[
         "Willebroek"
@@ -161,7 +167,7 @@
         }
     ],
     "wof:id":101754371,
-    "wof:lastmodified":1561831409,
+    "wof:lastmodified":1563235149,
     "wof:name":"Willebroek",
     "wof:parent_id":1108830353,
     "wof:placetype":"locality",

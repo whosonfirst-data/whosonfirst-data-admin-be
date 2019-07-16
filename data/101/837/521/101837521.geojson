@@ -20,6 +20,9 @@
     "name:afr_x_preferred":[
         "Tienen"
     ],
+    "name:bel_x_preferred":[
+        "\u0422\u044b\u043d\u0435\u043d"
+    ],
     "name:bre_x_preferred":[
         "Tienen"
     ],
@@ -29,7 +32,13 @@
     "name:cat_x_preferred":[
         "Tienen"
     ],
+    "name:ceb_x_preferred":[
+        "Tienen"
+    ],
     "name:ces_x_preferred":[
+        "Tienen"
+    ],
+    "name:cym_x_preferred":[
         "Tienen"
     ],
     "name:dan_x_preferred":[
@@ -92,6 +101,9 @@
     "name:lit_x_preferred":[
         "Tynenas"
     ],
+    "name:ltz_x_preferred":[
+        "Tienen"
+    ],
     "name:nld_x_preferred":[
         "Tienen"
     ],
@@ -122,6 +134,9 @@
     "name:slv_x_preferred":[
         "Tirlemont"
     ],
+    "name:spa_x_preferred":[
+        "Tienen"
+    ],
     "name:srp_x_preferred":[
         "\u0422\u0438\u043d\u0435\u043d"
     ],
@@ -129,6 +144,9 @@
         "Tienen"
     ],
     "name:swe_x_preferred":[
+        "Tienen"
+    ],
+    "name:tur_x_preferred":[
         "Tienen"
     ],
     "name:unk_x_variant":[
@@ -199,7 +217,7 @@
         }
     ],
     "wof:id":101837521,
-    "wof:lastmodified":1561831432,
+    "wof:lastmodified":1563235478,
     "wof:name":"Tienen",
     "wof:parent_id":1108830017,
     "wof:placetype":"locality",

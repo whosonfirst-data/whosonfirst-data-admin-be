@@ -20,6 +20,9 @@
     "name:bul_x_preferred":[
         "\u0425\u0435\u043b\u0447\u0442\u0435\u0440\u0435\u043d"
     ],
+    "name:ceb_x_preferred":[
+        "Helchteren"
+    ],
     "name:eng_x_preferred":[
         "Helchteren"
     ],
@@ -87,7 +90,7 @@
         }
     ],
     "wof:id":101838967,
-    "wof:lastmodified":1561831425,
+    "wof:lastmodified":1563235390,
     "wof:name":"Helchteren",
     "wof:parent_id":1108830235,
     "wof:placetype":"locality",

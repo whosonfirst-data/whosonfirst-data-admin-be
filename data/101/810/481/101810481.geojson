@@ -22,6 +22,9 @@
     "name:cat_x_preferred":[
         "Naast"
     ],
+    "name:ceb_x_preferred":[
+        "Naast"
+    ],
     "name:eng_x_preferred":[
         "Naast"
     ],
@@ -88,7 +91,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1561831416,
+    "wof:lastmodified":1563235246,
     "wof:name":"Naast",
     "wof:parent_id":102049943,
     "wof:placetype":"locality",

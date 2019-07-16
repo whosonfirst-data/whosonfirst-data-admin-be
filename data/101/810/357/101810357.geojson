@@ -26,6 +26,9 @@
     "name:cat_x_preferred":[
         "Burdinne"
     ],
+    "name:ceb_x_preferred":[
+        "Burdinne"
+    ],
     "name:deu_x_preferred":[
         "Burdinne"
     ],
@@ -68,6 +71,9 @@
     "name:oci_x_preferred":[
         "Burdinne"
     ],
+    "name:pol_x_preferred":[
+        "Burdinne"
+    ],
     "name:por_x_preferred":[
         "Burdinne"
     ],
@@ -78,6 +84,12 @@
         "\u0411\u044e\u0440\u0434\u0438\u043d\u043d"
     ],
     "name:slk_x_preferred":[
+        "Burdinne"
+    ],
+    "name:spa_x_preferred":[
+        "Burdinne"
+    ],
+    "name:swe_x_preferred":[
         "Burdinne"
     ],
     "name:vie_x_preferred":[
@@ -141,7 +153,7 @@
         }
     ],
     "wof:id":101810357,
-    "wof:lastmodified":1561831415,
+    "wof:lastmodified":1563235239,
     "wof:name":"Burdinne",
     "wof:parent_id":102049925,
     "wof:placetype":"locality",

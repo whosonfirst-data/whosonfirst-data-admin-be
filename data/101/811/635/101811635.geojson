@@ -26,6 +26,9 @@
     "name:cat_x_preferred":[
         "\u00c9rez\u00e9e"
     ],
+    "name:ceb_x_preferred":[
+        "\u00c9rez\u00e9e"
+    ],
     "name:deu_x_preferred":[
         "\u00c9rez\u00e9e"
     ],
@@ -68,6 +71,9 @@
     "name:oci_x_preferred":[
         "\u00c9rez\u00e9e"
     ],
+    "name:pol_x_preferred":[
+        "\u00c9rez\u00e9e"
+    ],
     "name:por_x_preferred":[
         "Erez\u00e9e"
     ],
@@ -78,6 +84,9 @@
         "\u042d\u0440\u0435\u0437\u0435"
     ],
     "name:slk_x_preferred":[
+        "\u00c9rez\u00e9e"
+    ],
+    "name:spa_x_preferred":[
         "\u00c9rez\u00e9e"
     ],
     "name:vie_x_preferred":[
@@ -145,7 +154,7 @@
         }
     ],
     "wof:id":101811635,
-    "wof:lastmodified":1561831412,
+    "wof:lastmodified":1563235185,
     "wof:name":"\u00c9rez\u00e9e",
     "wof:parent_id":102049921,
     "wof:placetype":"locality",

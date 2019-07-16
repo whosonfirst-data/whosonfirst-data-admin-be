@@ -40,6 +40,9 @@
     "name:cat_x_preferred":[
         "Aartselaar"
     ],
+    "name:ceb_x_preferred":[
+        "Aartselaar"
+    ],
     "name:ces_x_preferred":[
         "Aartselaar"
     ],
@@ -301,7 +304,7 @@
         }
     ],
     "wof:id":1126040613,
-    "wof:lastmodified":1561831449,
+    "wof:lastmodified":1563235701,
     "wof:name":"Aartselaar",
     "wof:parent_id":1108830013,
     "wof:placetype":"locality",

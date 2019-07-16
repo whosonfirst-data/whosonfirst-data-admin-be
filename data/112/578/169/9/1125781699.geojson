@@ -21,6 +21,9 @@
     "name:cat_x_preferred":[
         "Moelingen"
     ],
+    "name:dan_x_preferred":[
+        "Moelingen"
+    ],
     "name:eng_x_preferred":[
         "Moelingen"
     ],
@@ -98,7 +101,7 @@
         }
     ],
     "wof:id":1125781699,
-    "wof:lastmodified":1561831478,
+    "wof:lastmodified":1563235986,
     "wof:name":"Mouland",
     "wof:parent_id":1108830021,
     "wof:placetype":"locality",

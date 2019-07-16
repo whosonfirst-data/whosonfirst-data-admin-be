@@ -27,6 +27,9 @@
     "name:nld_x_preferred":[
         "Fouches"
     ],
+    "name:rus_x_preferred":[
+        "\u0424\u0443\u0448"
+    ],
     "qs_pg:aaroncc":"BE",
     "qs_pg:gn_country":"BE",
     "qs_pg:gn_fcode":"PPL",
@@ -81,7 +84,7 @@
         }
     ],
     "wof:id":1125779447,
-    "wof:lastmodified":1561831489,
+    "wof:lastmodified":1563236101,
     "wof:name":"Fouches",
     "wof:parent_id":102049909,
     "wof:placetype":"locality",

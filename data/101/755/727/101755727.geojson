@@ -26,6 +26,9 @@
     "name:cat_x_preferred":[
         "Middelkerke"
     ],
+    "name:ceb_x_preferred":[
+        "Middelkerke"
+    ],
     "name:deu_x_preferred":[
         "Middelkerke"
     ],
@@ -66,6 +69,9 @@
     "name:lit_x_preferred":[
         "Midelkerk\u0117"
     ],
+    "name:ltz_x_preferred":[
+        "Middelkerke"
+    ],
     "name:nds_x_preferred":[
         "Middelkerke"
     ],
@@ -81,6 +87,9 @@
     "name:oci_x_preferred":[
         "Middelkerke"
     ],
+    "name:pol_x_preferred":[
+        "Middelkerke"
+    ],
     "name:por_x_preferred":[
         "Middelkerke"
     ],
@@ -88,6 +97,9 @@
         "Middelkerke"
     ],
     "name:slk_x_preferred":[
+        "Middelkerke"
+    ],
+    "name:spa_x_preferred":[
         "Middelkerke"
     ],
     "name:unk_x_variant":[
@@ -163,7 +175,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1561831408,
+    "wof:lastmodified":1563235123,
     "wof:name":"Middelkerke",
     "wof:parent_id":1108830695,
     "wof:placetype":"locality",

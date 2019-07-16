@@ -26,7 +26,13 @@
     "name:cat_x_preferred":[
         "Aarschot"
     ],
+    "name:ceb_x_preferred":[
+        "Aarschot"
+    ],
     "name:ces_x_preferred":[
+        "Aarschot"
+    ],
+    "name:dan_x_preferred":[
         "Aarschot"
     ],
     "name:deu_x_preferred":[
@@ -53,6 +59,9 @@
     "name:fra_x_preferred":[
         "Aarschot"
     ],
+    "name:gle_x_preferred":[
+        "Aarschot"
+    ],
     "name:glg_x_preferred":[
         "Aarschot"
     ],
@@ -73,6 +82,9 @@
     ],
     "name:lit_x_preferred":[
         "Arschotas"
+    ],
+    "name:ltz_x_preferred":[
+        "Aarschot"
     ],
     "name:nld_x_preferred":[
         "Aarschot"
@@ -108,6 +120,9 @@
         "Aarschot"
     ],
     "name:swe_x_preferred":[
+        "Aarschot"
+    ],
+    "name:tur_x_preferred":[
         "Aarschot"
     ],
     "name:unk_x_variant":[
@@ -179,7 +194,7 @@
         }
     ],
     "wof:id":101754323,
-    "wof:lastmodified":1561831409,
+    "wof:lastmodified":1563235148,
     "wof:name":"Aarschot",
     "wof:parent_id":1108830355,
     "wof:placetype":"locality",

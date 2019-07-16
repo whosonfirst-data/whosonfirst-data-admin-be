@@ -40,6 +40,9 @@
     "name:deu_x_preferred":[
         "Kraainem"
     ],
+    "name:eng_x_preferred":[
+        "Kraainem"
+    ],
     "name:epo_x_preferred":[
         "Kraainem"
     ],
@@ -52,16 +55,31 @@
     "name:fra_x_preferred":[
         "Kraainem"
     ],
+    "name:hun_x_preferred":[
+        "Kraainem"
+    ],
     "name:ita_x_preferred":[
         "Kraainem"
     ],
+    "name:lit_x_preferred":[
+        "Krainemas"
+    ],
+    "name:ltz_x_preferred":[
+        "Kraainem"
+    ],
     "name:nld_x_preferred":[
+        "Kraainem"
+    ],
+    "name:nob_x_preferred":[
         "Kraainem"
     ],
     "name:nor_x_preferred":[
         "Kraainem"
     ],
     "name:oci_x_preferred":[
+        "Kraainem"
+    ],
+    "name:pol_x_preferred":[
         "Kraainem"
     ],
     "name:por_x_preferred":[
@@ -80,6 +98,9 @@
         "Kraainem"
     ],
     "name:swe_x_preferred":[
+        "Kraainem"
+    ],
+    "name:tur_x_preferred":[
         "Kraainem"
     ],
     "name:unk_x_variant":[
@@ -164,7 +185,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1561831363,
+    "wof:lastmodified":1563233956,
     "wof:name":"Kraainem",
     "wof:parent_id":101913231,
     "wof:placetype":"neighbourhood",

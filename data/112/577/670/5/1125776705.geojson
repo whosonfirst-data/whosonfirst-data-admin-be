@@ -30,6 +30,9 @@
     "name:nld_x_preferred":[
         "Rossignol"
     ],
+    "name:wln_x_preferred":[
+        "Lochno"
+    ],
     "qs_pg:aaroncc":"BE",
     "qs_pg:gn_country":"BE",
     "qs_pg:gn_fcode":"PPL",
@@ -82,7 +85,7 @@
         }
     ],
     "wof:id":1125776705,
-    "wof:lastmodified":1561831487,
+    "wof:lastmodified":1563236087,
     "wof:name":"Rossignol",
     "wof:parent_id":102049907,
     "wof:placetype":"locality",

@@ -26,6 +26,9 @@
     "name:cat_x_preferred":[
         "Aalter"
     ],
+    "name:ceb_x_preferred":[
+        "Aalter"
+    ],
     "name:ces_x_preferred":[
         "Aalter"
     ],
@@ -65,6 +68,9 @@
     "name:hun_x_preferred":[
         "Aalter"
     ],
+    "name:hye_x_preferred":[
+        "\u0531\u056c\u057f\u0565\u0580"
+    ],
     "name:isl_x_preferred":[
         "Aalter"
     ],
@@ -74,11 +80,17 @@
     "name:jpn_x_preferred":[
         "\u30a2\u30fc\u30eb\u30c6\u30eb"
     ],
+    "name:lav_x_preferred":[
+        "\u0100ltera"
+    ],
     "name:lin_x_preferred":[
         "Aalter"
     ],
     "name:lit_x_preferred":[
         "Alteras"
+    ],
+    "name:ltz_x_preferred":[
+        "Aalter"
     ],
     "name:mkd_x_preferred":[
         "\u0410\u043b\u0442\u0435\u0440"
@@ -197,7 +209,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1561831432,
+    "wof:lastmodified":1563235491,
     "wof:name":"Aalter",
     "wof:parent_id":1108830383,
     "wof:placetype":"locality",

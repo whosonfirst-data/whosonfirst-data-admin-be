@@ -29,6 +29,9 @@
     "name:ceb_x_preferred":[
         "Opwijk"
     ],
+    "name:dan_x_preferred":[
+        "Opwijk"
+    ],
     "name:deu_x_preferred":[
         "Opwijk"
     ],
@@ -55,6 +58,9 @@
     ],
     "name:lit_x_preferred":[
         "Opvikas"
+    ],
+    "name:ltz_x_preferred":[
+        "Opwijk"
     ],
     "name:nld_x_preferred":[
         "Opwijk"
@@ -86,7 +92,16 @@
     "name:spa_x_preferred":[
         "Opwijk"
     ],
+    "name:sqi_x_preferred":[
+        "Opwijk"
+    ],
     "name:swe_x_preferred":[
+        "Opwijk"
+    ],
+    "name:szl_x_preferred":[
+        "Opwijk"
+    ],
+    "name:tur_x_preferred":[
         "Opwijk"
     ],
     "name:unk_x_variant":[
@@ -154,7 +169,7 @@
         }
     ],
     "wof:id":101755519,
-    "wof:lastmodified":1561831401,
+    "wof:lastmodified":1563235035,
     "wof:name":"Opwijk",
     "wof:parent_id":1108830247,
     "wof:placetype":"locality",

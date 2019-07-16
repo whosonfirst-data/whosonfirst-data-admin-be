@@ -24,7 +24,13 @@
     "mz:min_zoom":13.0,
     "mz:tier_locality":1,
     "mz:tier_metro":30,
+    "name:eng_x_preferred":[
+        "Sterrebeek"
+    ],
     "name:fra_x_preferred":[
+        "Sterrebeek"
+    ],
+    "name:hun_x_preferred":[
         "Sterrebeek"
     ],
     "name:nld_x_preferred":[
@@ -105,7 +111,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1561831366,
+    "wof:lastmodified":1563233997,
     "wof:name":"Sterrebeek",
     "wof:parent_id":101755517,
     "wof:placetype":"neighbourhood",

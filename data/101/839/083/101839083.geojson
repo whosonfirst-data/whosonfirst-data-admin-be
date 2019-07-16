@@ -59,6 +59,9 @@
     "name:ita_x_preferred":[
         "Merksplas"
     ],
+    "name:ltz_x_preferred":[
+        "Merksplas"
+    ],
     "name:nld_x_preferred":[
         "Merksplas"
     ],
@@ -154,7 +157,7 @@
         }
     ],
     "wof:id":101839083,
-    "wof:lastmodified":1561831434,
+    "wof:lastmodified":1563235510,
     "wof:name":"Merksplas",
     "wof:parent_id":1108830633,
     "wof:placetype":"locality",

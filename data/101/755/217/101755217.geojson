@@ -22,6 +22,9 @@
     "name:eng_x_preferred":[
         "Thieu"
     ],
+    "name:fas_x_preferred":[
+        "\u062a\u06cc\u0648"
+    ],
     "name:fra_x_preferred":[
         "Thieu"
     ],
@@ -81,7 +84,7 @@
         }
     ],
     "wof:id":101755217,
-    "wof:lastmodified":1561831398,
+    "wof:lastmodified":1563235009,
     "wof:name":"Thieu",
     "wof:parent_id":102049943,
     "wof:placetype":"locality",

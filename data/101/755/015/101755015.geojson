@@ -19,6 +19,9 @@
     "name:eng_x_preferred":[
         "P\u00e9ronnes-lez-Binche"
     ],
+    "name:fas_x_preferred":[
+        "\u067e\u0631\u0648\u0646 \u0644\u0628\u06cc\u0646\u0634"
+    ],
     "name:fra_x_preferred":[
         "P\u00e9ronnes-lez-Binche"
     ],
@@ -81,7 +84,7 @@
         }
     ],
     "wof:id":101755015,
-    "wof:lastmodified":1561831398,
+    "wof:lastmodified":1563235000,
     "wof:name":"P\u00e9ronnes",
     "wof:parent_id":102049923,
     "wof:placetype":"locality",

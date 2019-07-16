@@ -21,6 +21,9 @@
     "name:bul_x_preferred":[
         "\u0422\u0435\u0441\u0442\u0435\u043b\u0442"
     ],
+    "name:ceb_x_preferred":[
+        "Testelt"
+    ],
     "name:eng_x_preferred":[
         "Testelt"
     ],
@@ -95,7 +98,7 @@
         }
     ],
     "wof:id":1126025471,
-    "wof:lastmodified":1561831445,
+    "wof:lastmodified":1563235655,
     "wof:name":"Testelt",
     "wof:parent_id":1108830367,
     "wof:placetype":"locality",

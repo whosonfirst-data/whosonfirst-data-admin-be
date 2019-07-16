@@ -27,6 +27,9 @@
     "name:epo_x_preferred":[
         "Wulveringem"
     ],
+    "name:fas_x_preferred":[
+        "\u0648\u0648\u0644\u200c\u0648\u0631\u06cc\u0646\u06af\u0645"
+    ],
     "name:fra_x_preferred":[
         "Wulveringem"
     ],
@@ -98,7 +101,7 @@
         }
     ],
     "wof:id":1125962061,
-    "wof:lastmodified":1561831466,
+    "wof:lastmodified":1563235881,
     "wof:name":"Wulveringem",
     "wof:parent_id":1108830165,
     "wof:placetype":"locality",

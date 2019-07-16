@@ -34,6 +34,9 @@
     "name:fra_x_preferred":[
         "Adinkerke"
     ],
+    "name:fra_x_variant":[
+        "Adinkerque"
+    ],
     "name:heb_x_preferred":[
         "\u05d0\u05d3\u05d9\u05e0\u05e7\u05e8\u05e7\u05d4"
     ],
@@ -48,6 +51,9 @@
     ],
     "name:vls_x_preferred":[
         "Adiengkerke"
+    ],
+    "name:zho_x_preferred":[
+        "\u963f\u4e01\u79d1\u514b"
     ],
     "qs:a0":"Belgi\u00eb#Belgique#Belgien",
     "qs:a1":"*West-Vlanderen",
@@ -99,7 +105,7 @@
         }
     ],
     "wof:id":101809385,
-    "wof:lastmodified":1561831429,
+    "wof:lastmodified":1563235440,
     "wof:name":"Adinkerke",
     "wof:parent_id":1108830697,
     "wof:placetype":"locality",

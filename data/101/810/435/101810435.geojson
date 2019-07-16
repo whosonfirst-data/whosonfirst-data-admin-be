@@ -32,6 +32,9 @@
     "name:ces_x_preferred":[
         "Waremme"
     ],
+    "name:dan_x_preferred":[
+        "Waremme"
+    ],
     "name:deu_x_preferred":[
         "Waremme"
     ],
@@ -58,6 +61,9 @@
     ],
     "name:lim_x_preferred":[
         "W\u00e8rm"
+    ],
+    "name:ltz_x_preferred":[
+        "Waremme"
     ],
     "name:mkd_x_preferred":[
         "\u0412\u0430\u0440\u0435\u043c"
@@ -93,6 +99,9 @@
         "Waremme"
     ],
     "name:swe_x_preferred":[
+        "Waremme"
+    ],
+    "name:tur_x_preferred":[
         "Waremme"
     ],
     "name:unk_x_variant":[
@@ -165,7 +174,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1561831417,
+    "wof:lastmodified":1563235255,
     "wof:name":"Waremme",
     "wof:parent_id":102049937,
     "wof:placetype":"locality",

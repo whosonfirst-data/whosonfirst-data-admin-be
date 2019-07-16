@@ -21,6 +21,9 @@
     "name:bul_x_preferred":[
         "\u0417\u0435\u043f\u0435\u0440\u0435\u043d"
     ],
+    "name:ceb_x_preferred":[
+        "Zepperen"
+    ],
     "name:eng_x_preferred":[
         "Zepperen"
     ],
@@ -93,7 +96,7 @@
         }
     ],
     "wof:id":1125781055,
-    "wof:lastmodified":1561831478,
+    "wof:lastmodified":1563235985,
     "wof:name":"Zepperen",
     "wof:parent_id":1108830223,
     "wof:placetype":"locality",

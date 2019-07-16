@@ -30,6 +30,9 @@
     "name:hun_x_preferred":[
         "Neufch\u00e2teau"
     ],
+    "name:lim_x_preferred":[
+        "Neufch\u00e2teau"
+    ],
     "name:ltz_x_preferred":[
         "Neufch\u00e2teau"
     ],
@@ -93,7 +96,7 @@
         }
     ],
     "wof:id":1125977343,
-    "wof:lastmodified":1561831464,
+    "wof:lastmodified":1563235863,
     "wof:name":"Neufch\u00e2teau",
     "wof:parent_id":102049941,
     "wof:placetype":"locality",

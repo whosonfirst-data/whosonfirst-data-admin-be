@@ -26,6 +26,9 @@
     "name:cat_x_preferred":[
         "Jabbeke"
     ],
+    "name:ceb_x_preferred":[
+        "Jabbeke"
+    ],
     "name:dan_x_preferred":[
         "Jabbeke"
     ],
@@ -49,6 +52,9 @@
     ],
     "name:fas_x_preferred":[
         "\u0698\u0628\u0648\u06a9"
+    ],
+    "name:fin_x_preferred":[
+        "Jabbeke"
     ],
     "name:fra_x_preferred":[
         "Jabbeke"
@@ -74,6 +80,9 @@
     "name:lit_x_preferred":[
         "Jabekas"
     ],
+    "name:ltz_x_preferred":[
+        "Jabbeke"
+    ],
     "name:nld_x_preferred":[
         "Jabbeke"
     ],
@@ -89,6 +98,9 @@
     "name:oci_x_preferred":[
         "Jabbeke"
     ],
+    "name:pol_x_preferred":[
+        "Jabbeke"
+    ],
     "name:por_x_preferred":[
         "Jabbeke"
     ],
@@ -97,6 +109,9 @@
     ],
     "name:rus_x_preferred":[
         "\u0423\u0447\u0430\u0441\u0442\u043d\u0438\u043a:Carpodacus/\u042f\u0431\u0431\u0435\u043a\u0435"
+    ],
+    "name:rus_x_variant":[
+        "\u042f\u0431\u0431\u0435\u043a\u0435"
     ],
     "name:sco_x_preferred":[
         "Jabbeke"
@@ -184,7 +199,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1561831407,
+    "wof:lastmodified":1563235120,
     "wof:name":"Jabbeke",
     "wof:parent_id":1108830157,
     "wof:placetype":"locality",

@@ -32,6 +32,9 @@
     "name:deu_x_preferred":[
         "Perwez"
     ],
+    "name:eng_x_preferred":[
+        "Perwez"
+    ],
     "name:epo_x_preferred":[
         "Perwez"
     ],
@@ -47,16 +50,28 @@
     "name:fra_x_preferred":[
         "Perwez"
     ],
+    "name:hun_x_preferred":[
+        "Perwez"
+    ],
     "name:ita_x_preferred":[
+        "Perwez"
+    ],
+    "name:ltz_x_preferred":[
         "Perwez"
     ],
     "name:nld_x_preferred":[
         "Perwijs"
     ],
+    "name:nob_x_preferred":[
+        "Perwez"
+    ],
     "name:nor_x_preferred":[
         "Perwez"
     ],
     "name:oci_x_preferred":[
+        "Perwez"
+    ],
+    "name:pol_x_preferred":[
         "Perwez"
     ],
     "name:por_x_preferred":[
@@ -69,6 +84,9 @@
         "\u041f\u0435\u0440\u0432\u0435"
     ],
     "name:slk_x_preferred":[
+        "Perwez"
+    ],
+    "name:spa_x_preferred":[
         "Perwez"
     ],
     "name:swe_x_preferred":[
@@ -165,7 +183,7 @@
         }
     ],
     "wof:id":101811439,
-    "wof:lastmodified":1534379234,
+    "wof:lastmodified":1563235182,
     "wof:name":"Perwez",
     "wof:parent_id":102049945,
     "wof:placetype":"locality",

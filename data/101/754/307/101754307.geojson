@@ -26,6 +26,9 @@
     "name:cat_x_preferred":[
         "Lede"
     ],
+    "name:ceb_x_preferred":[
+        "Lede"
+    ],
     "name:deu_x_preferred":[
         "Lede"
     ],
@@ -53,6 +56,12 @@
     "name:ita_x_preferred":[
         "Lede"
     ],
+    "name:jpn_x_preferred":[
+        "\u30ec\u30fc\u30c7"
+    ],
+    "name:ltz_x_preferred":[
+        "Lede"
+    ],
     "name:nld_x_preferred":[
         "Lede"
     ],
@@ -60,6 +69,9 @@
         "Lede"
     ],
     "name:oci_x_preferred":[
+        "Lede"
+    ],
+    "name:pol_x_preferred":[
         "Lede"
     ],
     "name:por_x_preferred":[
@@ -140,7 +152,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1561831408,
+    "wof:lastmodified":1563235125,
     "wof:name":"Lede",
     "wof:parent_id":1108830331,
     "wof:placetype":"locality",

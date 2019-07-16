@@ -40,7 +40,13 @@
     "name:ceb_x_preferred":[
         "Zaventem"
     ],
+    "name:dan_x_preferred":[
+        "Zaventem"
+    ],
     "name:deu_x_preferred":[
+        "Zaventem"
+    ],
+    "name:eng_x_preferred":[
         "Zaventem"
     ],
     "name:epo_x_preferred":[
@@ -58,19 +64,40 @@
     "name:fra_x_preferred":[
         "Zaventem"
     ],
+    "name:gle_x_preferred":[
+        "Zaventem"
+    ],
+    "name:hun_x_preferred":[
+        "Zaventem"
+    ],
     "name:ita_x_preferred":[
         "Zaventem"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b6\u30d9\u30f3\u30c6\u30e0"
     ],
     "name:kor_x_preferred":[
         "\uc790\ubca4\ud15c"
     ],
+    "name:lit_x_preferred":[
+        "Zaventemas"
+    ],
+    "name:ltz_x_preferred":[
+        "Zaventem"
+    ],
     "name:nld_x_preferred":[
+        "Zaventem"
+    ],
+    "name:nob_x_preferred":[
         "Zaventem"
     ],
     "name:nor_x_preferred":[
         "Zaventem"
     ],
     "name:oci_x_preferred":[
+        "Zaventem"
+    ],
+    "name:pol_x_preferred":[
         "Zaventem"
     ],
     "name:por_x_preferred":[
@@ -86,6 +113,9 @@
         "Zaventem"
     ],
     "name:spa_x_preferred":[
+        "Zaventem"
+    ],
+    "name:sqi_x_preferred":[
         "Zaventem"
     ],
     "name:swe_x_preferred":[
@@ -177,7 +207,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1561831364,
+    "wof:lastmodified":1563233971,
     "wof:name":"Zaventem",
     "wof:parent_id":101913231,
     "wof:placetype":"neighbourhood",

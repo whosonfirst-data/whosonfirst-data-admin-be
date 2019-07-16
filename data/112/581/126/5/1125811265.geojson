@@ -24,11 +24,17 @@
     "name:bul_x_preferred":[
         "\u041b\u0435\u0438\u0441\u0435\u043b\u0435"
     ],
+    "name:ceb_x_preferred":[
+        "Leisele"
+    ],
     "name:eng_x_preferred":[
         "Leisele"
     ],
     "name:est_x_preferred":[
         "Leisele"
+    ],
+    "name:fas_x_preferred":[
+        "\u0644\u06cc\u0632\u0644"
     ],
     "name:fra_x_preferred":[
         "Leisele"
@@ -104,7 +110,7 @@
         }
     ],
     "wof:id":1125811265,
-    "wof:lastmodified":1561831453,
+    "wof:lastmodified":1563235744,
     "wof:name":"Leisele",
     "wof:parent_id":1108830587,
     "wof:placetype":"locality",

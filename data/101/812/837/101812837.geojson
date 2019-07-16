@@ -27,6 +27,9 @@
     "name:ara_x_preferred":[
         "\u0622\u0631\u0644\u0648\u0646"
     ],
+    "name:azb_x_preferred":[
+        "\u0622\u0631\u0644\u0646"
+    ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u0410\u0440\u043b\u043e\u043d"
     ],
@@ -87,6 +90,9 @@
     "name:fry_x_preferred":[
         "Aarlen"
     ],
+    "name:gle_x_preferred":[
+        "Arlon"
+    ],
     "name:heb_x_preferred":[
         "\u05d0\u05e8\u05dc\u05d5\u05df"
     ],
@@ -129,6 +135,9 @@
     "name:nld_x_preferred":[
         "Aarlen"
     ],
+    "name:nob_x_preferred":[
+        "Arlon"
+    ],
     "name:nor_x_preferred":[
         "Arlon"
     ],
@@ -165,11 +174,17 @@
     "name:swe_x_preferred":[
         "Arlon"
     ],
+    "name:tur_x_preferred":[
+        "Arlon"
+    ],
     "name:ukr_x_preferred":[
         "\u0410\u0440\u043b\u043e\u043d"
     ],
     "name:unk_x_variant":[
         "Aarlen"
+    ],
+    "name:urd_x_preferred":[
+        "\u0622\u0631\u0644\u0648\u0646"
     ],
     "name:vep_x_preferred":[
         "Arlon"
@@ -333,7 +348,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1535390516,
+    "wof:lastmodified":1563235346,
     "wof:name":"Arlon",
     "wof:parent_id":102049909,
     "wof:placetype":"locality",

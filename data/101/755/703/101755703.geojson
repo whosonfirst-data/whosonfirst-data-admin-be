@@ -78,6 +78,9 @@
     "name:oci_x_preferred":[
         "Sint-Martens-Latem"
     ],
+    "name:pol_x_preferred":[
+        "Sint-Martens-Latem"
+    ],
     "name:por_x_preferred":[
         "Sint-Martens-Latem"
     ],
@@ -168,7 +171,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1561831403,
+    "wof:lastmodified":1563235065,
     "wof:name":"Sint-Martens-Latem",
     "wof:parent_id":1108830439,
     "wof:placetype":"locality",

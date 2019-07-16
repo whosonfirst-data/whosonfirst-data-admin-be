@@ -39,6 +39,15 @@
     "name:ceb_x_preferred":[
         "Vorst"
     ],
+    "name:ces_x_preferred":[
+        "Les"
+    ],
+    "name:cym_x_preferred":[
+        "Forest"
+    ],
+    "name:dan_x_preferred":[
+        "Forest"
+    ],
     "name:deu_x_preferred":[
         "Forest/Vorst"
     ],
@@ -70,6 +79,9 @@
     "name:fra_x_variant":[
         "Bruxelles (Forest)"
     ],
+    "name:gle_x_preferred":[
+        "Forest"
+    ],
     "name:hbs_x_preferred":[
         "Forest"
     ],
@@ -88,11 +100,20 @@
     "name:jpn_x_preferred":[
         "\u30d5\u30a9\u30ec\u30b9\u30c8"
     ],
+    "name:jpn_x_variant":[
+        "\u30d5\u30a9\u30ec"
+    ],
     "name:kor_x_preferred":[
         "\ud3ec\ub808"
     ],
     "name:lim_x_preferred":[
         "Vorst"
+    ],
+    "name:lit_x_preferred":[
+        "Mi\u0161kas"
+    ],
+    "name:ltz_x_preferred":[
+        "Forest/Vorst"
     ],
     "name:nld_x_preferred":[
         "Vorst"
@@ -100,6 +121,9 @@
     "name:nld_x_variant":[
         "Forest",
         "Brussel (Vorst)"
+    ],
+    "name:nob_x_preferred":[
+        "Forest"
     ],
     "name:nor_x_preferred":[
         "Forest"
@@ -125,6 +149,9 @@
     "name:slk_x_preferred":[
         "Forest"
     ],
+    "name:slv_x_preferred":[
+        "Forest/Vorst"
+    ],
     "name:spa_x_preferred":[
         "Forest"
     ],
@@ -140,6 +167,9 @@
     "name:unk_x_variant":[
         "Vorst",
         "Forest"
+    ],
+    "name:urd_x_preferred":[
+        "\u0648\u0648\u0631\u0633\u062a"
     ],
     "name:vol_x_preferred":[
         "Vorst"
@@ -215,7 +245,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1527640862,
+    "wof:lastmodified":1563233982,
     "wof:name":"Forest",
     "wof:parent_id":101751573,
     "wof:placetype":"neighbourhood",

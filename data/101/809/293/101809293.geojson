@@ -29,6 +29,9 @@
     "name:ceb_x_preferred":[
         "Hooglede"
     ],
+    "name:ces_x_preferred":[
+        "Hooglede"
+    ],
     "name:deu_x_preferred":[
         "Hooglede"
     ],
@@ -62,6 +65,9 @@
     "name:lit_x_preferred":[
         "Hogled\u0117"
     ],
+    "name:ltz_x_preferred":[
+        "Hooglede"
+    ],
     "name:nld_x_preferred":[
         "Hooglede"
     ],
@@ -72,6 +78,9 @@
         "Hooglede"
     ],
     "name:oci_x_preferred":[
+        "Hooglede"
+    ],
+    "name:pol_x_preferred":[
         "Hooglede"
     ],
     "name:por_x_preferred":[
@@ -154,7 +163,7 @@
         }
     ],
     "wof:id":101809293,
-    "wof:lastmodified":1561831429,
+    "wof:lastmodified":1563235437,
     "wof:name":"Hooglede",
     "wof:parent_id":1108830171,
     "wof:placetype":"locality",

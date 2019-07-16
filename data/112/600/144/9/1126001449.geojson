@@ -19,6 +19,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bar_x_preferred":[
+        "\u00c9talle"
+    ],
     "name:bre_x_preferred":[
         "\u00c9talle"
     ],
@@ -26,6 +29,9 @@
         "\u0415\u0442\u0430\u043b"
     ],
     "name:cat_x_preferred":[
+        "\u00c9talle"
+    ],
+    "name:ceb_x_preferred":[
         "\u00c9talle"
     ],
     "name:deu_x_preferred":[
@@ -70,6 +76,9 @@
     "name:oci_x_preferred":[
         "\u00c9talle"
     ],
+    "name:pol_x_preferred":[
+        "\u00c9talle"
+    ],
     "name:por_x_preferred":[
         "\u00c9talle"
     ],
@@ -80,6 +89,9 @@
         "\u042d\u0442\u0430\u043b\u044c"
     ],
     "name:slk_x_preferred":[
+        "\u00c9talle"
+    ],
+    "name:spa_x_preferred":[
         "\u00c9talle"
     ],
     "name:swe_x_preferred":[
@@ -155,7 +167,7 @@
         }
     ],
     "wof:id":1126001449,
-    "wof:lastmodified":1561831471,
+    "wof:lastmodified":1563235931,
     "wof:name":"Etalle",
     "wof:parent_id":102049907,
     "wof:placetype":"locality",

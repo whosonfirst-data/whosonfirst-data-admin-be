@@ -29,7 +29,13 @@
     "name:cat_x_preferred":[
         "Moerbeke"
     ],
+    "name:ceb_x_preferred":[
+        "Moerbeke"
+    ],
     "name:deu_x_preferred":[
+        "Moerbeke"
+    ],
+    "name:eng_x_preferred":[
         "Moerbeke"
     ],
     "name:epo_x_preferred":[
@@ -37,6 +43,9 @@
     ],
     "name:est_x_preferred":[
         "Moerbeke-Waas"
+    ],
+    "name:est_x_variant":[
+        "Moerbeke"
     ],
     "name:eus_x_preferred":[
         "Moerbeke-Waas"
@@ -47,16 +56,34 @@
     "name:fra_x_preferred":[
         "Moerbeke-Waas"
     ],
+    "name:fra_x_variant":[
+        "Moerbeke"
+    ],
+    "name:hun_x_preferred":[
+        "Moerbeke"
+    ],
     "name:ita_x_preferred":[
         "Moerbeke"
     ],
+    "name:jpn_x_preferred":[
+        "\u30e0\u30fc\u30eb\u30d9\u30fc\u30b1"
+    ],
+    "name:ltz_x_preferred":[
+        "Moerbeke"
+    ],
     "name:nld_x_preferred":[
+        "Moerbeke"
+    ],
+    "name:nob_x_preferred":[
         "Moerbeke"
     ],
     "name:nor_x_preferred":[
         "Moerbeke"
     ],
     "name:oci_x_preferred":[
+        "Moerbeke"
+    ],
+    "name:pol_x_preferred":[
         "Moerbeke"
     ],
     "name:por_x_preferred":[
@@ -138,7 +165,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1561831429,
+    "wof:lastmodified":1563235445,
     "wof:name":"Moerbeke",
     "wof:parent_id":1108830603,
     "wof:placetype":"locality",

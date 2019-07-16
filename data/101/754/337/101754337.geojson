@@ -56,6 +56,9 @@
     "name:lit_x_preferred":[
         "Vemelis"
     ],
+    "name:ltz_x_preferred":[
+        "Wemmel"
+    ],
     "name:nld_x_preferred":[
         "Wemmel"
     ],
@@ -66,6 +69,9 @@
         "Wemmel"
     ],
     "name:oci_x_preferred":[
+        "Wemmel"
+    ],
+    "name:pol_x_preferred":[
         "Wemmel"
     ],
     "name:por_x_preferred":[
@@ -85,6 +91,9 @@
     ],
     "name:swe_x_preferred":[
         "Wemmel"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0412\u0435\u043c\u043c\u0435\u043b"
     ],
     "name:vie_x_preferred":[
         "Wemmel"
@@ -151,7 +160,7 @@
         }
     ],
     "wof:id":101754337,
-    "wof:lastmodified":1561831408,
+    "wof:lastmodified":1563235130,
     "wof:name":"Wemmel",
     "wof:parent_id":1108830553,
     "wof:placetype":"locality",

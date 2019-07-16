@@ -26,8 +26,14 @@
     "name:cat_x_preferred":[
         "Temse"
     ],
+    "name:ceb_x_preferred":[
+        "Temse"
+    ],
     "name:deu_x_preferred":[
         "Temse"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a4\u03ad\u03bc\u03c3\u03b5"
     ],
     "name:eng_x_preferred":[
         "Temse"
@@ -47,6 +53,9 @@
     "name:fra_x_preferred":[
         "Tamise"
     ],
+    "name:gle_x_preferred":[
+        "Temse"
+    ],
     "name:hun_x_preferred":[
         "Temse"
     ],
@@ -56,6 +65,9 @@
     "name:lit_x_preferred":[
         "Tems\u0117"
     ],
+    "name:ltz_x_preferred":[
+        "Temse"
+    ],
     "name:nld_x_preferred":[
         "Temse"
     ],
@@ -63,6 +75,9 @@
         "Temse"
     ],
     "name:oci_x_preferred":[
+        "Temse"
+    ],
+    "name:pol_x_preferred":[
         "Temse"
     ],
     "name:por_x_preferred":[
@@ -153,7 +168,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1561831432,
+    "wof:lastmodified":1563235492,
     "wof:name":"Temse",
     "wof:parent_id":1108830387,
     "wof:placetype":"locality",

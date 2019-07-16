@@ -24,6 +24,12 @@
     "name:bul_x_preferred":[
         "\u0417\u0438\u043b\u0435\u0431\u0435\u043a\u0435"
     ],
+    "name:ceb_x_preferred":[
+        "Zillebeke"
+    ],
+    "name:deu_x_preferred":[
+        "Zillebeke"
+    ],
     "name:eng_x_preferred":[
         "Zillebeke"
     ],
@@ -101,7 +107,7 @@
         }
     ],
     "wof:id":1125766667,
-    "wof:lastmodified":1561831476,
+    "wof:lastmodified":1563235967,
     "wof:name":"Zillebeke",
     "wof:parent_id":1108830595,
     "wof:placetype":"locality",

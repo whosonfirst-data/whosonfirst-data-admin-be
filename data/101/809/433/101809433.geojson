@@ -29,6 +29,9 @@
     "name:cat_x_preferred":[
         "De Haan"
     ],
+    "name:ceb_x_preferred":[
+        "De Haan"
+    ],
     "name:dan_x_preferred":[
         "De Haan"
     ],
@@ -75,6 +78,9 @@
     "name:lit_x_preferred":[
         "De Hanas"
     ],
+    "name:ltz_x_preferred":[
+        "De Haan"
+    ],
     "name:nds_x_preferred":[
         "De Haan"
     ],
@@ -89,6 +95,9 @@
     ],
     "name:oci_x_preferred":[
         "Le Coq"
+    ],
+    "name:pol_x_preferred":[
+        "De Haan"
     ],
     "name:por_x_preferred":[
         "De Haan"
@@ -177,7 +186,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1561831430,
+    "wof:lastmodified":1563235456,
     "wof:name":"De Haan",
     "wof:parent_id":1108830685,
     "wof:placetype":"locality",

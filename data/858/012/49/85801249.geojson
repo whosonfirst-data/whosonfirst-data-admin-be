@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000295,
-    "geom:area_square_m":2304763.088668,
+    "geom:area_square_m":2304763.088667,
     "geom:bbox":"4.36706542969,50.8683780776,4.39549124892,50.8842506189",
     "geom:latitude":50.877107,
     "geom:longitude":4.382605,
@@ -24,11 +24,23 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":5,
     "mz:tier_metro":30,
+    "name:afr_x_preferred":[
+        "Valhelm"
+    ],
     "name:ang_x_preferred":[
         "Helm"
     ],
     "name:ara_x_preferred":[
         "\u062e\u0648\u0630\u0629"
+    ],
+    "name:ast_x_preferred":[
+        "Cascu"
+    ],
+    "name:aze_x_preferred":[
+        "D\u0259bilq\u0259"
+    ],
+    "name:bel_x_preferred":[
+        "\u0428\u043b\u0435\u043c"
     ],
     "name:ben_x_preferred":[
         "\u09b9\u09c7\u09b2\u09ae\u09c7\u099f"
@@ -39,11 +51,20 @@
     "name:cat_x_preferred":[
         "Casc"
     ],
+    "name:cat_x_variant":[
+        "casc"
+    ],
     "name:ces_x_preferred":[
         "P\u0159ilba"
     ],
+    "name:ces_x_variant":[
+        "p\u0159ilba"
+    ],
     "name:dan_x_preferred":[
         "Hjelm"
+    ],
+    "name:dan_x_variant":[
+        "hjelm"
     ],
     "name:deu_x_preferred":[
         "Helm"
@@ -51,8 +72,14 @@
     "name:ell_x_preferred":[
         "\u03a0\u03b5\u03c1\u03b9\u03ba\u03b5\u03c6\u03b1\u03bb\u03b1\u03af\u03b1"
     ],
+    "name:eng_x_preferred":[
+        "helmet"
+    ],
     "name:epo_x_preferred":[
         "Kasko"
+    ],
+    "name:epo_x_variant":[
+        "kasko"
     ],
     "name:est_x_preferred":[
         "Kiiver"
@@ -66,8 +93,14 @@
     "name:fin_x_preferred":[
         "Kyp\u00e4r\u00e4"
     ],
+    "name:fin_x_variant":[
+        "kyp\u00e4r\u00e4"
+    ],
     "name:fra_x_preferred":[
         "Casque"
+    ],
+    "name:fra_x_variant":[
+        "casque"
     ],
     "name:gle_x_preferred":[
         "Clogad"
@@ -80,6 +113,12 @@
     ],
     "name:heb_x_preferred":[
         "\u05e7\u05e1\u05d3\u05d4"
+    ],
+    "name:hin_x_preferred":[
+        "\u0939\u0947\u0932\u092e\u0947\u091f"
+    ],
+    "name:hrv_x_preferred":[
+        "Kaciga"
     ],
     "name:hun_x_preferred":[
         "Sisak"
@@ -95,6 +134,9 @@
     ],
     "name:ita_x_preferred":[
         "Casco"
+    ],
+    "name:ita_x_variant":[
+        "casco"
     ],
     "name:jav_x_preferred":[
         "H\u00e8lm"
@@ -114,29 +156,54 @@
     "name:lav_x_preferred":[
         "\u0136ivere"
     ],
+    "name:lav_x_variant":[
+        "\u0137ivere"
+    ],
     "name:lit_x_preferred":[
         "\u0160almas"
     ],
     "name:mal_x_preferred":[
         "\u0d39\u0d46\u0d7d\u0d2e\u0d31\u0d4d\u0d31\u0d4d"
     ],
+    "name:mkd_x_preferred":[
+        "\u0448\u043b\u0435\u043c"
+    ],
+    "name:msa_x_preferred":[
+        "Topi keledar"
+    ],
     "name:nld_x_preferred":[
         "Helm"
     ],
     "name:nld_x_variant":[
-        "Helmet"
+        "Helmet",
+        "helm"
     ],
     "name:nno_x_preferred":[
         "Hjelm"
     ],
+    "name:nno_x_variant":[
+        "hjelm"
+    ],
+    "name:nob_x_preferred":[
+        "hjelm"
+    ],
     "name:nor_x_preferred":[
         "Hjelm"
+    ],
+    "name:oci_x_preferred":[
+        "Casco"
     ],
     "name:pol_x_preferred":[
         "He\u0142m"
     ],
+    "name:pol_x_variant":[
+        "he\u0142m"
+    ],
     "name:por_x_preferred":[
         "Capacete"
+    ],
+    "name:por_x_variant":[
+        "capacete"
     ],
     "name:que_x_preferred":[
         "Amachana chuku"
@@ -147,17 +214,32 @@
     "name:rus_x_preferred":[
         "\u041a\u0430\u0441\u043a\u0430"
     ],
+    "name:rus_x_variant":[
+        "\u043a\u0430\u0441\u043a\u0430"
+    ],
+    "name:sco_x_preferred":[
+        "helm"
+    ],
     "name:slk_x_preferred":[
         "Prilba"
     ],
     "name:slv_x_preferred":[
         "\u010celada"
     ],
+    "name:snd_x_preferred":[
+        "\u0647\u064a\u0644\u0645\u067d"
+    ],
     "name:spa_x_preferred":[
         "Casco"
     ],
+    "name:spa_x_variant":[
+        "casco"
+    ],
     "name:srp_x_preferred":[
         "\u0160lem"
+    ],
+    "name:srp_x_variant":[
+        "\u0448\u043b\u0435\u043c"
     ],
     "name:sun_x_preferred":[
         "H\u00e9lem"
@@ -177,8 +259,14 @@
     "name:ukr_x_preferred":[
         "\u0428\u043e\u043b\u043e\u043c"
     ],
+    "name:ukr_x_variant":[
+        "\u043a\u0430\u0441\u043a\u0430"
+    ],
     "name:unk_x_variant":[
         "Helmet"
+    ],
+    "name:urd_x_preferred":[
+        "\u06c1\u06cc\u0644\u0645\u0679"
     ],
     "name:vie_x_preferred":[
         "M\u0169 b\u1ea3o hi\u1ec3m"
@@ -188,6 +276,9 @@
     ],
     "name:xmf_x_preferred":[
         "\u10d0\u10dc\u10e9\u10ee\u10d0\u10d1\u10d4\u10e0\u10d8"
+    ],
+    "name:yue_x_preferred":[
+        "\u982d\u76d4"
     ],
     "name:zho_x_preferred":[
         "\u76d4"
@@ -257,7 +348,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1527640514,
+    "wof:lastmodified":1563233947,
     "wof:name":"Helmet",
     "wof:parent_id":101751573,
     "wof:placetype":"neighbourhood",

@@ -24,6 +24,9 @@
     "name:bul_x_preferred":[
         "\u0425\u043e\u043b\u0435\u0431\u0435\u043a\u0435"
     ],
+    "name:ceb_x_preferred":[
+        "Hollebeke"
+    ],
     "name:eng_x_preferred":[
         "Hollebeke"
     ],
@@ -101,7 +104,7 @@
         }
     ],
     "wof:id":1125995611,
-    "wof:lastmodified":1561831460,
+    "wof:lastmodified":1563235818,
     "wof:name":"Hollebeke",
     "wof:parent_id":1108830595,
     "wof:placetype":"locality",

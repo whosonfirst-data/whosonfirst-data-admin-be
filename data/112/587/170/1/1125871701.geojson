@@ -28,6 +28,9 @@
     "name:cat_x_preferred":[
         "Wijnegem"
     ],
+    "name:ceb_x_preferred":[
+        "Wijnegem"
+    ],
     "name:deu_x_preferred":[
         "Wijnegem"
     ],
@@ -61,6 +64,9 @@
     "name:lit_x_preferred":[
         "Veinegemas"
     ],
+    "name:ltz_x_preferred":[
+        "Wijnegem"
+    ],
     "name:mkd_x_preferred":[
         "\u0412\u0435\u0458\u043d\u0435\u0433\u0435\u043c"
     ],
@@ -71,6 +77,9 @@
         "Wijnegem"
     ],
     "name:oci_x_preferred":[
+        "Wijnegem"
+    ],
+    "name:pol_x_preferred":[
         "Wijnegem"
     ],
     "name:por_x_preferred":[
@@ -166,7 +175,7 @@
         }
     ],
     "wof:id":1125871701,
-    "wof:lastmodified":1561831459,
+    "wof:lastmodified":1563235815,
     "wof:name":"Wijnegem",
     "wof:parent_id":1108830625,
     "wof:placetype":"locality",

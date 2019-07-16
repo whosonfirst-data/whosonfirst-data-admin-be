@@ -21,6 +21,9 @@
     "name:bre_x_preferred":[
         "Watou"
     ],
+    "name:ceb_x_preferred":[
+        "Watou"
+    ],
     "name:eng_x_preferred":[
         "Watou"
     ],
@@ -95,7 +98,7 @@
         }
     ],
     "wof:id":1125834945,
-    "wof:lastmodified":1561831489,
+    "wof:lastmodified":1563236111,
     "wof:name":"Watou",
     "wof:parent_id":1108830029,
     "wof:placetype":"locality",

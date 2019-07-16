@@ -48,13 +48,22 @@
     "name:arg_x_preferred":[
         "Rechi\u00f3n de Bruselas-Capital"
     ],
+    "name:arz_x_preferred":[
+        "\u0628\u0631\u0648\u0643\u0633\u064a\u0644"
+    ],
     "name:ast_x_preferred":[
         "Rex\u00f3n de Bruxeles-Capital"
+    ],
+    "name:azb_x_preferred":[
+        "\u0628\u0631\u0648\u06a9\u0633\u0644"
     ],
     "name:bak_x_preferred":[
         "\u0411\u0440\u044e\u0441\u0441\u0435\u043b\u044c \u0431\u0430\u0448 \u04a1\u0430\u043b\u0430 \u0440\u0435\u0433\u0438\u043e\u043d\u044b"
     ],
     "name:bam_x_preferred":[
+        "Brussels"
+    ],
+    "name:bcl_x_preferred":[
         "Brussels"
     ],
     "name:bel_x_preferred":[
@@ -80,6 +89,9 @@
     ],
     "name:cat_x_preferred":[
         "Regi\u00f3 de Brussel\u00b7les-Capital"
+    ],
+    "name:ceb_x_preferred":[
+        "Bruxelles-Capitale"
     ],
     "name:ces_x_preferred":[
         "Bruselsk\u00fd region"
@@ -199,6 +211,9 @@
     "name:ind_x_preferred":[
         "Daerah Ibu Kota Brussel"
     ],
+    "name:inh_x_preferred":[
+        "\u0411\u0440\u044e\u0441\u0441\u0435\u043b\u044c\u0441\u043a\u0438\u0439 \u0441\u0442\u043e\u043b\u0438\u0447\u043d\u044b\u0439 \u0440\u0435\u0433\u0438\u043e\u043d"
+    ],
     "name:isl_x_preferred":[
         "Brussel"
     ],
@@ -241,8 +256,14 @@
     "name:lat_x_preferred":[
         "Regio Bruxellae-Capitis"
     ],
+    "name:lat_x_variant":[
+        "Bruxellae"
+    ],
     "name:lav_x_preferred":[
         "Briseles galvaspils\u0113tas re\u0123ions"
+    ],
+    "name:lfn_x_preferred":[
+        "Bruxelles"
     ],
     "name:lim_x_preferred":[
         "Brussels Hoofsjtaejelik Gewes"
@@ -252,6 +273,9 @@
     ],
     "name:ltz_x_preferred":[
         "Haaptstadregioun Br\u00e9issel"
+    ],
+    "name:lug_x_preferred":[
+        "Brussels"
     ],
     "name:mal_x_preferred":[
         "\u0d2c\u0d4d\u0d30\u0d38\u0d7d\u0d38\u0d4d"
@@ -279,6 +303,9 @@
     ],
     "name:mya_x_preferred":[
         "\u1018\u101b\u1015\u103a\u1006\u1032\u101c\u103a\u1019\u103c\u102d\u102f\u1037"
+    ],
+    "name:mzn_x_preferred":[
+        "\u0628\u0631\u0648\u06a9\u0633\u0644"
     ],
     "name:nan_x_preferred":[
         "Brussels"
@@ -316,6 +343,9 @@
     ],
     "name:pan_x_preferred":[
         "\u0a2c\u0a30\u0a42\u0a38\u0a32"
+    ],
+    "name:pih_x_preferred":[
+        "Brussels"
     ],
     "name:pnb_x_preferred":[
         "\u0628\u0631\u0633\u0644\u0632"
@@ -380,6 +410,9 @@
     "name:swe_x_preferred":[
         "Bryssel"
     ],
+    "name:swe_x_variant":[
+        "Bryssel-regionen"
+    ],
     "name:szl_x_preferred":[
         "Bruksela"
     ],
@@ -388,6 +421,9 @@
     ],
     "name:tat_x_preferred":[
         "\u0411\u0440\u04af\u0441\u0441\u0435\u043b \u0431\u0430\u0448\u043a\u0430\u043b\u0430 \u0442\u04e9\u0431\u04d9\u0433\u0435"
+    ],
+    "name:tat_x_variant":[
+        "\u0411\u0440\u04af\u0441\u0438\u043b \u0431\u0430\u0448\u043a\u0430\u043b\u0430 \u0442\u04e9\u0431\u04d9\u0433\u0435"
     ],
     "name:tel_x_preferred":[
         "\u0c2c\u0c4d\u0c30\u0c38\u0c46\u0c32\u0c4d\u0c38\u0c4d-\u0c30\u0c3e\u0c1c\u0c27\u0c3e\u0c28\u0c3f \u0c2a\u0c4d\u0c30\u0c3e\u0c02\u0c24\u0c02"
@@ -428,8 +464,14 @@
     "name:wln_x_preferred":[
         "Brussele"
     ],
+    "name:wuu_x_preferred":[
+        "\u5e03\u9c81\u585e\u5c14-\u9996\u90fd\u5927\u533a"
+    ],
     "name:yid_x_preferred":[
         "\u05d1\u05e8\u05d9\u05e1\u05dc \u05e8\u05d0\u05d9\u05d0\u05df"
+    ],
+    "name:yor_x_preferred":[
+        "Brussels"
     ],
     "name:yue_x_preferred":[
         "\u5e03\u9b6f\u585e\u723e\u9996\u90fd\u5340"
@@ -439,6 +481,9 @@
     ],
     "name:zho_x_preferred":[
         "\u5e03\u9b6f\u585e\u723e\u9996\u90fd\u5927\u5340\u5e02\u93ae"
+    ],
+    "name:zho_x_variant":[
+        "\u5e03\u9c81\u585e\u5c14-\u9996\u90fd\u5927\u533a"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"BEL",
@@ -562,7 +607,7 @@
         "fra",
         "deu"
     ],
-    "wof:lastmodified":1561831361,
+    "wof:lastmodified":1563233935,
     "wof:name":"Brussels-Capital Region",
     "wof:parent_id":404227355,
     "wof:placetype":"region",

@@ -24,11 +24,20 @@
     "name:bul_x_preferred":[
         "\u0420\u0435\u043d\u0438\u043d\u0433\u0435\u043b\u0441\u0442"
     ],
+    "name:ceb_x_preferred":[
+        "Reningelst"
+    ],
     "name:eng_x_preferred":[
         "Reningelst"
     ],
+    "name:fas_x_preferred":[
+        "\u0631\u0646\u06cc\u0646\u06af\u0644\u0633\u062a"
+    ],
     "name:fra_x_preferred":[
         "Reningelst"
+    ],
+    "name:fra_x_variant":[
+        "Reninghelst"
     ],
     "name:hun_x_preferred":[
         "Reningelst"
@@ -38,6 +47,9 @@
     ],
     "name:nld_x_preferred":[
         "Reningelst"
+    ],
+    "name:rus_x_preferred":[
+        "\u0420\u0435\u043d\u0438\u043d\u0433\u0435\u043b\u0441\u0442"
     ],
     "name:swe_x_preferred":[
         "Reningelst"
@@ -104,7 +116,7 @@
         }
     ],
     "wof:id":1126040457,
-    "wof:lastmodified":1561831449,
+    "wof:lastmodified":1563235695,
     "wof:name":"Reningelst",
     "wof:parent_id":1108830029,
     "wof:placetype":"locality",

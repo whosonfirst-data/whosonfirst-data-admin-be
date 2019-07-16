@@ -20,7 +20,16 @@
     "name:bre_x_preferred":[
         "Warneton"
     ],
+    "name:deu_x_preferred":[
+        "Warneton"
+    ],
+    "name:eng_x_preferred":[
+        "Warneton"
+    ],
     "name:fra_x_preferred":[
+        "Warneton"
+    ],
+    "name:hun_x_preferred":[
         "Warneton"
     ],
     "name:nld_x_preferred":[
@@ -80,7 +89,7 @@
         }
     ],
     "wof:id":101809227,
-    "wof:lastmodified":1527715163,
+    "wof:lastmodified":1563235425,
     "wof:name":"Warneton",
     "wof:parent_id":1108782559,
     "wof:placetype":"locality",

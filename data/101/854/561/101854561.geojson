@@ -59,6 +59,9 @@
     "name:lim_x_preferred":[
         "Herstap"
     ],
+    "name:ltz_x_preferred":[
+        "Herstappe"
+    ],
     "name:nld_x_preferred":[
         "Herstappe"
     ],
@@ -162,7 +165,7 @@
         }
     ],
     "wof:id":101854561,
-    "wof:lastmodified":1561831431,
+    "wof:lastmodified":1563235468,
     "wof:name":"Herstappe",
     "wof:parent_id":1108830081,
     "wof:placetype":"locality",

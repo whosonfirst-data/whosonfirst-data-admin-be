@@ -58,6 +58,9 @@
     "name:lim_x_preferred":[
         "Saint-Georges-sur-Meuse"
     ],
+    "name:ltz_x_preferred":[
+        "Saint-Georges-sur-Meuse"
+    ],
     "name:nld_x_preferred":[
         "Saint-Georges-sur-Meuse"
     ],
@@ -70,6 +73,9 @@
     "name:oci_x_preferred":[
         "Saint-Georges-sur-Meuse"
     ],
+    "name:pol_x_preferred":[
+        "Saint-Georges-sur-Meuse"
+    ],
     "name:por_x_preferred":[
         "Saint-Georges-sur-Meuse"
     ],
@@ -80,6 +86,9 @@
         "\u0421\u0435\u043d-\u0416\u043e\u0440\u0436-\u0441\u044e\u0440-\u041c\u0451\u0437"
     ],
     "name:slk_x_preferred":[
+        "Saint-Georges-sur-Meuse"
+    ],
+    "name:spa_x_preferred":[
         "Saint-Georges-sur-Meuse"
     ],
     "name:swe_x_preferred":[
@@ -150,7 +159,7 @@
         }
     ],
     "wof:id":101755171,
-    "wof:lastmodified":1561831408,
+    "wof:lastmodified":1563235124,
     "wof:name":"Saint-Georges-sur-Meuse",
     "wof:parent_id":102049937,
     "wof:placetype":"locality",

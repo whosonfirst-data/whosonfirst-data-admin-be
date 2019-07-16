@@ -25,6 +25,9 @@
     "name:eng_x_preferred":[
         "Bellegem"
     ],
+    "name:fas_x_preferred":[
+        "\u0628\u0644\u06af\u0645"
+    ],
     "name:fra_x_preferred":[
         "Bellegem"
     ],
@@ -99,7 +102,7 @@
         }
     ],
     "wof:id":101809229,
-    "wof:lastmodified":1561831428,
+    "wof:lastmodified":1563235424,
     "wof:name":"Bellegem",
     "wof:parent_id":1108830299,
     "wof:placetype":"locality",

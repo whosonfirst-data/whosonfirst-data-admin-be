@@ -30,6 +30,9 @@
     "name:hun_x_preferred":[
         "Hundelgem"
     ],
+    "name:ltz_x_preferred":[
+        "Hundelgem"
+    ],
     "name:nld_x_preferred":[
         "Hundelgem"
     ],
@@ -87,7 +90,7 @@
         }
     ],
     "wof:id":1126016621,
-    "wof:lastmodified":1561831469,
+    "wof:lastmodified":1563235917,
     "wof:name":"Hundelgem",
     "wof:parent_id":1108830583,
     "wof:placetype":"locality",

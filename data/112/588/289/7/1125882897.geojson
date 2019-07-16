@@ -24,8 +24,14 @@
     "name:cat_x_preferred":[
         "Heule"
     ],
+    "name:ceb_x_preferred":[
+        "Heule"
+    ],
     "name:eng_x_preferred":[
         "Heule"
+    ],
+    "name:fas_x_preferred":[
+        "\u0647\u0648\u0644"
     ],
     "name:fra_x_preferred":[
         "Heule"
@@ -104,7 +110,7 @@
         }
     ],
     "wof:id":1125882897,
-    "wof:lastmodified":1561831454,
+    "wof:lastmodified":1563235757,
     "wof:name":"Heule",
     "wof:parent_id":1108830299,
     "wof:placetype":"locality",

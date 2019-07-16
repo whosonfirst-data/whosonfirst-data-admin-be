@@ -44,6 +44,9 @@
     "name:ell_x_preferred":[
         "\u03a4\u03b5\u03c1\u03bd\u03c7\u03ac\u03bf\u03c5\u03c4"
     ],
+    "name:ell_x_variant":[
+        "\u03a4\u03cd\u03c1\u03bd\u03c7\u03b1\u03bf\u03c5\u03c4"
+    ],
     "name:eng_x_preferred":[
         "Turnhout"
     ],
@@ -65,6 +68,12 @@
     "name:fra_x_preferred":[
         "Turnhout"
     ],
+    "name:fry_x_preferred":[
+        "Turnhout"
+    ],
+    "name:gle_x_preferred":[
+        "Turnhout"
+    ],
     "name:heb_x_preferred":[
         "\u05d8\u05d5\u05e8\u05e0\u05d4\u05d0\u05d5\u05d8"
     ],
@@ -73,6 +82,9 @@
     ],
     "name:hye_x_preferred":[
         "\u054f\u0575\u0578\u0582\u0580\u0576\u0570\u0561\u0578\u0582\u057f"
+    ],
+    "name:ind_x_preferred":[
+        "Turnhout"
     ],
     "name:ita_x_preferred":[
         "Turnhout"
@@ -88,6 +100,9 @@
     ],
     "name:lit_x_preferred":[
         "Tiurnhautas"
+    ],
+    "name:ltz_x_preferred":[
+        "Turnhout"
     ],
     "name:nap_x_preferred":[
         "Turnhout"
@@ -134,6 +149,12 @@
     "name:swe_x_preferred":[
         "Turnhout"
     ],
+    "name:tat_x_preferred":[
+        "\u0422\u04af\u0440\u043d\u04bb\u0430\u0443\u0442"
+    ],
+    "name:tur_x_preferred":[
+        "Turnhout"
+    ],
     "name:vie_x_preferred":[
         "Turnhout"
     ],
@@ -141,6 +162,9 @@
         "Turnhout"
     ],
     "name:war_x_preferred":[
+        "Turnhout"
+    ],
+    "name:zea_x_preferred":[
         "Turnhout"
     ],
     "name:zho_x_preferred":[
@@ -200,7 +224,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1561831432,
+    "wof:lastmodified":1563235489,
     "wof:name":"Turnhout",
     "wof:parent_id":1108830691,
     "wof:placetype":"locality",

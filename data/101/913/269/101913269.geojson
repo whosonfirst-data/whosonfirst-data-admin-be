@@ -20,6 +20,9 @@
     "name:afr_x_preferred":[
         "Mechelen"
     ],
+    "name:ara_x_preferred":[
+        "\u0645\u064a\u0634\u064a\u0644\u064a\u0646"
+    ],
     "name:bel_x_preferred":[
         "\u041c\u0435\u0445\u0435\u043b\u0435\u043d"
     ],
@@ -30,6 +33,9 @@
         "\u041c\u0435\u0445\u0435\u043b\u0435\u043d"
     ],
     "name:cat_x_preferred":[
+        "Mechelen"
+    ],
+    "name:ceb_x_preferred":[
         "Mechelen"
     ],
     "name:ces_x_preferred":[
@@ -43,6 +49,9 @@
     ],
     "name:deu_x_preferred":[
         "Mecheln"
+    ],
+    "name:deu_x_variant":[
+        "Mechelen"
     ],
     "name:ell_x_preferred":[
         "\u039c\u03ad\u03c7\u03b5\u03bb\u03b5\u03bd"
@@ -91,6 +100,9 @@
     ],
     "name:jpn_x_preferred":[
         "\u30e1\u30c3\u30d8\u30ec\u30f3"
+    ],
+    "name:jpn_x_variant":[
+        "\u30e1\u30d8\u30ec\u30f3"
     ],
     "name:kat_x_preferred":[
         "\u10db\u10d4\u10ee\u10d4\u10da\u10d4\u10dc\u10d8"
@@ -160,6 +172,12 @@
     ],
     "name:swe_x_preferred":[
         "Mechelen"
+    ],
+    "name:szl_x_preferred":[
+        "Mechelen"
+    ],
+    "name:tat_x_preferred":[
+        "\u041c\u0435\u0445\u0435\u043b\u0435\u043d"
     ],
     "name:tha_x_preferred":[
         "\u0e40\u0e21\u0e40\u0e04\u0e2d\u0e40\u0e25\u0e34\u0e19"
@@ -239,7 +257,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1561831419,
+    "wof:lastmodified":1563235301,
     "wof:name":"Mechelen",
     "wof:parent_id":1108830589,
     "wof:placetype":"locality",

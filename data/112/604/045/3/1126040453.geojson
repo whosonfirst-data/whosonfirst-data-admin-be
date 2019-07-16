@@ -21,6 +21,9 @@
     "name:bul_x_preferred":[
         "\u0420\u0435\u043d\u0438\u043d\u0433\u0435"
     ],
+    "name:ceb_x_preferred":[
+        "Reninge"
+    ],
     "name:eng_x_preferred":[
         "Reninge"
     ],
@@ -101,7 +104,7 @@
         }
     ],
     "wof:id":1126040453,
-    "wof:lastmodified":1561831449,
+    "wof:lastmodified":1563235695,
     "wof:name":"Reninge",
     "wof:parent_id":1108830073,
     "wof:placetype":"locality",

@@ -45,6 +45,9 @@
     "name:swe_x_preferred":[
         "Neerwinden"
     ],
+    "name:zho_x_preferred":[
+        "\u5167\u723e\u6eab\u767b"
+    ],
     "qs_pg:aaroncc":"BE",
     "qs_pg:gn_country":"BE",
     "qs_pg:gn_fcode":"PPL",
@@ -97,7 +100,7 @@
         }
     ],
     "wof:id":1126053345,
-    "wof:lastmodified":1561831447,
+    "wof:lastmodified":1563235676,
     "wof:name":"Neerwinden",
     "wof:parent_id":1108830259,
     "wof:placetype":"locality",

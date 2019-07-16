@@ -26,9 +26,6 @@
     "name:bel_x_preferred":[
         "\u0422\u0443\u0440\u043d\u044d"
     ],
-    "name:bel_x_variant":[
-        "\u0422\u0443\u0440\u043d\u044d"
-    ],
     "name:bre_x_preferred":[
         "Tournai"
     ],
@@ -84,11 +81,20 @@
     "name:fra_x_variant":[
         "Doornyk"
     ],
+    "name:gle_x_preferred":[
+        "Tournai"
+    ],
+    "name:glg_x_preferred":[
+        "Tournai"
+    ],
     "name:hbs_x_preferred":[
         "Tournai"
     ],
     "name:heb_x_preferred":[
         "\u05d8\u05d5\u05e8\u05e0\u05d4"
+    ],
+    "name:hin_x_preferred":[
+        "\u091f\u0942\u0930\u094d\u0928\u0947\u092f"
     ],
     "name:hun_x_preferred":[
         "Tournai"
@@ -177,6 +183,9 @@
     "name:swe_x_preferred":[
         "Tournai"
     ],
+    "name:tat_x_preferred":[
+        "\u0422\u0443\u0440\u043d\u0435"
+    ],
     "name:tha_x_preferred":[
         "\u0e15\u0e39\u0e23\u0e4c\u0e41\u0e19"
     ],
@@ -200,6 +209,12 @@
     ],
     "name:war_x_preferred":[
         "Tournai"
+    ],
+    "name:wln_x_preferred":[
+        "Tournai"
+    ],
+    "name:yue_x_preferred":[
+        "\u5716\u723e\u5948"
     ],
     "name:zho_x_preferred":[
         "\u56fe\u5c14\u5948"
@@ -256,7 +271,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1561831423,
+    "wof:lastmodified":1563235365,
     "wof:name":"Tournai",
     "wof:parent_id":102049951,
     "wof:placetype":"locality",

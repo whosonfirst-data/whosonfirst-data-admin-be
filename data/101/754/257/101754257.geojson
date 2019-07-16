@@ -52,8 +52,14 @@
     "name:ita_x_preferred":[
         "Fontaine-l'\u00c9v\u00eaque"
     ],
+    "name:jpn_x_preferred":[
+        "\u30d5\u30a9\u30f3\u30c6\u30fc\u30cc\uff1d\u30ec\u30f4\u30a7\u30fc\u30af"
+    ],
     "name:lim_x_preferred":[
         "Fontaine-l'Ev\u00eaque"
+    ],
+    "name:ltz_x_preferred":[
+        "Fontaine-l\u2019\u00c9v\u00eaque"
     ],
     "name:nld_x_preferred":[
         "Fontaine-l'\u00c9v\u00eaque"
@@ -63,6 +69,9 @@
     ],
     "name:oci_x_preferred":[
         "Fontaine-l'\u00c9v\u00eaque"
+    ],
+    "name:pol_x_preferred":[
+        "Fontaine-l\u2019\u00c9v\u00eaque"
     ],
     "name:por_x_preferred":[
         "Fontaine-l'Ev\u00eaque"
@@ -145,7 +154,7 @@
         }
     ],
     "wof:id":101754257,
-    "wof:lastmodified":1561831409,
+    "wof:lastmodified":1563235140,
     "wof:name":"Fontaine-l'\u00c9v\u00eaque",
     "wof:parent_id":102049927,
     "wof:placetype":"locality",

@@ -27,6 +27,9 @@
     "name:hun_x_preferred":[
         "Thorembais-Saint-Trond"
     ],
+    "name:ltz_x_preferred":[
+        "Thorembais-Saint-Trond"
+    ],
     "name:nld_x_preferred":[
         "Thorembais-Saint-Trond"
     ],
@@ -85,7 +88,7 @@
         }
     ],
     "wof:id":1126058905,
-    "wof:lastmodified":1561831448,
+    "wof:lastmodified":1563235681,
     "wof:name":"Thorembais-St.-Trond",
     "wof:parent_id":102049945,
     "wof:placetype":"locality",

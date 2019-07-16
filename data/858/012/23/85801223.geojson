@@ -27,17 +27,26 @@
     "name:bre_x_preferred":[
         "Haren"
     ],
+    "name:cat_x_preferred":[
+        "Haren"
+    ],
     "name:ceb_x_preferred":[
         "Haren"
     ],
     "name:ces_x_preferred":[
         "Haren"
     ],
+    "name:deu_x_preferred":[
+        "Haren"
+    ],
     "name:eng_x_preferred":[
         "Brussel-Haren"
     ],
     "name:eng_x_variant":[
-        "Brussel-Haren"
+        "Haren"
+    ],
+    "name:epo_x_preferred":[
+        "Haren"
     ],
     "name:est_x_preferred":[
         "Haren"
@@ -47,6 +56,15 @@
     ],
     "name:fra_x_variant":[
         "Bruxelles (Haren)"
+    ],
+    "name:hun_x_preferred":[
+        "Haren"
+    ],
+    "name:ita_x_preferred":[
+        "Haren"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30cf\u30fc\u30ec"
     ],
     "name:nld_x_preferred":[
         "Haren"
@@ -58,6 +76,9 @@
         "Haren"
     ],
     "name:slk_x_preferred":[
+        "Haren"
+    ],
+    "name:spa_x_preferred":[
         "Haren"
     ],
     "name:swe_x_preferred":[
@@ -134,7 +155,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1527640514,
+    "wof:lastmodified":1563233946,
     "wof:name":"Haren",
     "wof:parent_id":101751573,
     "wof:placetype":"neighbourhood",

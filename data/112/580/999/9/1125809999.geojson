@@ -27,6 +27,9 @@
     "name:cat_x_preferred":[
         "Roosdaal"
     ],
+    "name:ceb_x_preferred":[
+        "Roosdaal"
+    ],
     "name:deu_x_preferred":[
         "Roosdaal"
     ],
@@ -51,6 +54,9 @@
     "name:ita_x_preferred":[
         "Roosdaal"
     ],
+    "name:ltz_x_preferred":[
+        "Roosdaal"
+    ],
     "name:nld_x_preferred":[
         "Roosdaal"
     ],
@@ -58,6 +64,9 @@
         "Roosdaal"
     ],
     "name:oci_x_preferred":[
+        "Roosdaal"
+    ],
+    "name:pol_x_preferred":[
         "Roosdaal"
     ],
     "name:por_x_preferred":[
@@ -73,6 +82,9 @@
         "Roosdaal"
     ],
     "name:swe_x_preferred":[
+        "Roosdaal"
+    ],
+    "name:tur_x_preferred":[
         "Roosdaal"
     ],
     "name:vie_x_preferred":[
@@ -146,7 +158,7 @@
         }
     ],
     "wof:id":1125809999,
-    "wof:lastmodified":1561831457,
+    "wof:lastmodified":1563235794,
     "wof:name":"Roosdaal",
     "wof:parent_id":1108830261,
     "wof:placetype":"locality",

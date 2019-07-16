@@ -59,6 +59,9 @@
     "name:lim_x_preferred":[
         "Lendelede"
     ],
+    "name:ltz_x_preferred":[
+        "Lendelede"
+    ],
     "name:nld_x_preferred":[
         "Lendelede"
     ],
@@ -69,6 +72,9 @@
         "Lendelede"
     ],
     "name:oci_x_preferred":[
+        "Lendelede"
+    ],
+    "name:pol_x_preferred":[
         "Lendelede"
     ],
     "name:por_x_preferred":[
@@ -149,7 +155,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1561831406,
+    "wof:lastmodified":1563235103,
     "wof:name":"Lendelede",
     "wof:parent_id":1108830239,
     "wof:placetype":"locality",

@@ -74,6 +74,9 @@
     "name:oci_x_preferred":[
         "Hotton"
     ],
+    "name:pol_x_preferred":[
+        "Hotton"
+    ],
     "name:por_x_preferred":[
         "Hotton"
     ],
@@ -84,6 +87,9 @@
         "\u041e\u0442\u043e\u043d"
     ],
     "name:slk_x_preferred":[
+        "Hotton"
+    ],
+    "name:spa_x_preferred":[
         "Hotton"
     ],
     "name:swe_x_preferred":[
@@ -154,7 +160,7 @@
         }
     ],
     "wof:id":101811639,
-    "wof:lastmodified":1561831413,
+    "wof:lastmodified":1563235200,
     "wof:name":"Hotton",
     "wof:parent_id":102049921,
     "wof:placetype":"locality",

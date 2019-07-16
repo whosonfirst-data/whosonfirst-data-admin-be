@@ -22,6 +22,9 @@
     "name:eng_x_preferred":[
         "Baesrode"
     ],
+    "name:eng_x_variant":[
+        "Baasrode"
+    ],
     "name:fra_x_preferred":[
         "Baesrode"
     ],
@@ -92,7 +95,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1561831407,
+    "wof:lastmodified":1563235117,
     "wof:name":"Baasrode",
     "wof:parent_id":1108830417,
     "wof:placetype":"locality",

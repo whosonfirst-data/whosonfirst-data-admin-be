@@ -26,6 +26,9 @@
     "name:cat_x_preferred":[
         "Oreye"
     ],
+    "name:ceb_x_preferred":[
+        "Oreye"
+    ],
     "name:deu_x_preferred":[
         "Oreye"
     ],
@@ -65,6 +68,9 @@
     "name:oci_x_preferred":[
         "Oreye"
     ],
+    "name:pol_x_preferred":[
+        "Oreye"
+    ],
     "name:por_x_preferred":[
         "Oreye"
     ],
@@ -75,6 +81,9 @@
         "\u041e\u0440\u0435"
     ],
     "name:slk_x_preferred":[
+        "Oreye"
+    ],
+    "name:spa_x_preferred":[
         "Oreye"
     ],
     "name:swe_x_preferred":[
@@ -147,7 +156,7 @@
         }
     ],
     "wof:id":101810451,
-    "wof:lastmodified":1561831416,
+    "wof:lastmodified":1563235251,
     "wof:name":"Oreye",
     "wof:parent_id":102049937,
     "wof:placetype":"locality",

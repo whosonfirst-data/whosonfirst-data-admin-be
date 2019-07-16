@@ -22,6 +22,9 @@
     "name:fra_x_preferred":[
         "Sint-Denijs"
     ],
+    "name:fra_x_variant":[
+        "Saint-Genois"
+    ],
     "name:hun_x_preferred":[
         "Sint-Denijs"
     ],
@@ -79,7 +82,7 @@
         }
     ],
     "wof:id":101810543,
-    "wof:lastmodified":1561831415,
+    "wof:lastmodified":1563235234,
     "wof:name":"Sint-Denijs",
     "wof:parent_id":1108830095,
     "wof:placetype":"locality",

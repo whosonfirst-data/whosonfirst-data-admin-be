@@ -33,6 +33,9 @@
     "name:unk_x_variant":[
         "Pont-\u00e0-Celles (Buzet)"
     ],
+    "name:wln_x_preferred":[
+        "Buzet"
+    ],
     "qs_pg:aaroncc":"BE",
     "qs_pg:gn_country":"BE",
     "qs_pg:gn_fcode":"PPL",
@@ -85,7 +88,7 @@
         }
     ],
     "wof:id":1125841179,
-    "wof:lastmodified":1561831483,
+    "wof:lastmodified":1563236037,
     "wof:name":"Buzet",
     "wof:parent_id":102049927,
     "wof:placetype":"locality",

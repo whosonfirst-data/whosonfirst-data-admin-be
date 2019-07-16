@@ -19,11 +19,26 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Sint-Kruis"
+    ],
+    "name:ceb_x_preferred":[
+        "Sint-Kruis"
+    ],
+    "name:deu_x_preferred":[
+        "Sint-Kruis"
+    ],
     "name:eng_x_preferred":[
         "Sint-Kruis"
     ],
     "name:epo_x_preferred":[
         "Sint-Kruis"
+    ],
+    "name:epo_x_variant":[
+        "Sankt-Kruco"
+    ],
+    "name:fas_x_preferred":[
+        "\u0633\u0646 \u0631\u0648\u06cc\u06cc\u0632"
     ],
     "name:fra_x_preferred":[
         "Sint-Kruis"
@@ -103,7 +118,7 @@
         }
     ],
     "wof:id":1125954127,
-    "wof:lastmodified":1561831442,
+    "wof:lastmodified":1563235629,
     "wof:name":"St.-Kruis",
     "wof:parent_id":1108830689,
     "wof:placetype":"locality",

@@ -26,6 +26,9 @@
     "name:cat_x_preferred":[
         "Oud-Turnhout"
     ],
+    "name:ceb_x_preferred":[
+        "Oud-Turnhout"
+    ],
     "name:deu_x_preferred":[
         "Oud-Turnhout"
     ],
@@ -44,10 +47,16 @@
     "name:fra_x_preferred":[
         "Oud-Turnhout"
     ],
+    "name:fra_x_variant":[
+        "Vieux-Turnhout"
+    ],
     "name:hun_x_preferred":[
         "Oud-Turnhout"
     ],
     "name:ita_x_preferred":[
+        "Oud-Turnhout"
+    ],
+    "name:ltz_x_preferred":[
         "Oud-Turnhout"
     ],
     "name:nld_x_preferred":[
@@ -139,7 +148,7 @@
         }
     ],
     "wof:id":101839097,
-    "wof:lastmodified":1561831434,
+    "wof:lastmodified":1563235515,
     "wof:name":"Oud-Turnhout",
     "wof:parent_id":1108830455,
     "wof:placetype":"locality",

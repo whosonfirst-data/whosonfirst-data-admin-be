@@ -26,6 +26,9 @@
     "name:cat_x_preferred":[
         "Zedelgem"
     ],
+    "name:ceb_x_preferred":[
+        "Zedelgem"
+    ],
     "name:deu_x_preferred":[
         "Zedelgem"
     ],
@@ -61,6 +64,9 @@
     ],
     "name:lit_x_preferred":[
         "Zedelgemas"
+    ],
+    "name:ltz_x_preferred":[
+        "Zedelgem"
     ],
     "name:mri_x_preferred":[
         "Zedelgem"
@@ -177,7 +183,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1561831430,
+    "wof:lastmodified":1563235453,
     "wof:name":"Zedelgem",
     "wof:parent_id":1108830317,
     "wof:placetype":"locality",

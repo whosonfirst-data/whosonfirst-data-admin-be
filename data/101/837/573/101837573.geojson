@@ -32,6 +32,9 @@
     "name:cat_x_preferred":[
         "Lokeren"
     ],
+    "name:ceb_x_preferred":[
+        "Lokeren"
+    ],
     "name:ces_x_preferred":[
         "Lokeren"
     ],
@@ -71,6 +74,9 @@
     "name:hun_x_preferred":[
         "Lokeren"
     ],
+    "name:isl_x_preferred":[
+        "Lokeren"
+    ],
     "name:ita_x_preferred":[
         "Lokeren"
     ],
@@ -79,6 +85,9 @@
     ],
     "name:lit_x_preferred":[
         "Lokerenas"
+    ],
+    "name:ltz_x_preferred":[
+        "Lokeren"
     ],
     "name:mkd_x_preferred":[
         "\u041b\u043e\u043a\u0435\u0440\u0435\u043d"
@@ -117,6 +126,12 @@
         "Lokeren"
     ],
     "name:swe_x_preferred":[
+        "Lokeren"
+    ],
+    "name:tat_x_preferred":[
+        "\u041b\u043e\u043a\u0435\u0440\u0435\u043d"
+    ],
+    "name:tur_x_preferred":[
         "Lokeren"
     ],
     "name:vie_x_preferred":[
@@ -188,7 +203,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1561831432,
+    "wof:lastmodified":1563235481,
     "wof:name":"Lokeren",
     "wof:parent_id":1108830451,
     "wof:placetype":"locality",

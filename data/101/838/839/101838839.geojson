@@ -22,6 +22,9 @@
     "name:fra_x_preferred":[
         "Koersel"
     ],
+    "name:heb_x_preferred":[
+        "\u05e7\u05d5\u05e8\u05e1\u05dc"
+    ],
     "name:hun_x_preferred":[
         "Koersel"
     ],
@@ -79,7 +82,7 @@
         }
     ],
     "wof:id":101838839,
-    "wof:lastmodified":1561831427,
+    "wof:lastmodified":1563235408,
     "wof:name":"Koersel",
     "wof:parent_id":1108830613,
     "wof:placetype":"locality",

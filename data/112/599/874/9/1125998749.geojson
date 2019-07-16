@@ -21,6 +21,9 @@
     "name:eng_x_preferred":[
         "Chassepierre"
     ],
+    "name:fas_x_preferred":[
+        "\u0634\u0633\u067e\u06cc\u0631"
+    ],
     "name:fra_x_preferred":[
         "Chassepierre"
     ],
@@ -99,7 +102,7 @@
         }
     ],
     "wof:id":1125998749,
-    "wof:lastmodified":1561831460,
+    "wof:lastmodified":1563235820,
     "wof:name":"Chassepierre",
     "wof:parent_id":102049907,
     "wof:placetype":"locality",

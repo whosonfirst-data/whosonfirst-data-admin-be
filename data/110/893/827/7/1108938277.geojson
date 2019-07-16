@@ -24,6 +24,9 @@
     "name:eng_x_preferred":[
         "Pentagon"
     ],
+    "name:epo_x_preferred":[
+        "Kvinangulo"
+    ],
     "name:fra_x_preferred":[
         "Pentagone"
     ],
@@ -64,7 +67,7 @@
         }
     ],
     "wof:id":1108938277,
-    "wof:lastmodified":1561831384,
+    "wof:lastmodified":1563234623,
     "wof:name":"Pentagone",
     "wof:parent_id":101751573,
     "wof:placetype":"neighbourhood",

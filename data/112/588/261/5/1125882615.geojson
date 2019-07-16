@@ -21,6 +21,9 @@
     "name:cat_x_preferred":[
         "Mons-lez-Li\u00e8ge"
     ],
+    "name:ceb_x_preferred":[
+        "Mons-lez-Li\u00e8ge"
+    ],
     "name:eng_x_preferred":[
         "Mons-lez-Li\u00e8ge"
     ],
@@ -90,7 +93,7 @@
         }
     ],
     "wof:id":1125882615,
-    "wof:lastmodified":1561831454,
+    "wof:lastmodified":1563235759,
     "wof:name":"Mons-lez-Liege",
     "wof:parent_id":102049941,
     "wof:placetype":"locality",

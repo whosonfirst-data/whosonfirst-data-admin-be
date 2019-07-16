@@ -32,6 +32,9 @@
     "name:cat_x_preferred":[
         "Lummen"
     ],
+    "name:ceb_x_preferred":[
+        "Lummen"
+    ],
     "name:deu_x_preferred":[
         "Lummen"
     ],
@@ -74,6 +77,9 @@
     "name:oci_x_preferred":[
         "Lummen"
     ],
+    "name:pol_x_preferred":[
+        "Lummen"
+    ],
     "name:por_x_preferred":[
         "Lummen"
     ],
@@ -87,6 +93,9 @@
         "Lummen"
     ],
     "name:spa_x_preferred":[
+        "Lummen"
+    ],
+    "name:swe_x_preferred":[
         "Lummen"
     ],
     "name:tha_x_preferred":[
@@ -158,7 +167,7 @@
         }
     ],
     "wof:id":101838783,
-    "wof:lastmodified":1561831425,
+    "wof:lastmodified":1563235383,
     "wof:name":"Lummen",
     "wof:parent_id":1108830255,
     "wof:placetype":"locality",

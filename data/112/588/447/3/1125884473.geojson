@@ -21,6 +21,9 @@
     "name:bul_x_preferred":[
         "\u041c\u043e\u0440\u0435\u0433\u0435\u043c"
     ],
+    "name:ceb_x_preferred":[
+        "Moregem"
+    ],
     "name:deu_x_preferred":[
         "Moregem"
     ],
@@ -96,7 +99,7 @@
         }
     ],
     "wof:id":1125884473,
-    "wof:lastmodified":1561831454,
+    "wof:lastmodified":1563235756,
     "wof:name":"Moregem",
     "wof:parent_id":1108830419,
     "wof:placetype":"locality",

@@ -26,6 +26,9 @@
     "name:cat_x_preferred":[
         "Trooz"
     ],
+    "name:ceb_x_preferred":[
+        "Trooz"
+    ],
     "name:deu_x_preferred":[
         "Trooz"
     ],
@@ -68,6 +71,9 @@
     "name:oci_x_preferred":[
         "Trooz"
     ],
+    "name:pol_x_preferred":[
+        "Trooz"
+    ],
     "name:por_x_preferred":[
         "Trooz"
     ],
@@ -78,6 +84,12 @@
         "\u0422\u0440\u043e\u043e"
     ],
     "name:slk_x_preferred":[
+        "Trooz"
+    ],
+    "name:spa_x_preferred":[
+        "Trooz"
+    ],
+    "name:swe_x_preferred":[
         "Trooz"
     ],
     "name:vie_x_preferred":[
@@ -148,7 +160,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1561831397,
+    "wof:lastmodified":1563234993,
     "wof:name":"Trooz",
     "wof:parent_id":102049941,
     "wof:placetype":"locality",

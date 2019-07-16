@@ -19,6 +19,9 @@
     "name:eng_x_preferred":[
         "Nieuwkerken-Waes"
     ],
+    "name:eng_x_variant":[
+        "Nieuwkerken-Waas"
+    ],
     "name:fra_x_preferred":[
         "Nieuwkerken-Waas"
     ],
@@ -83,7 +86,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1561831435,
+    "wof:lastmodified":1563235536,
     "wof:name":"Nieuwkerken-Waas",
     "wof:parent_id":1108830559,
     "wof:placetype":"locality",

@@ -25,6 +25,9 @@
     "name:eng_x_preferred":[
         "Athus"
     ],
+    "name:fas_x_preferred":[
+        "\u0622\u062a\u0648\u0633"
+    ],
     "name:fra_x_preferred":[
         "Athus"
     ],
@@ -97,7 +100,7 @@
         }
     ],
     "wof:id":101838631,
-    "wof:lastmodified":1561831427,
+    "wof:lastmodified":1563235409,
     "wof:name":"Athus",
     "wof:parent_id":102049909,
     "wof:placetype":"locality",

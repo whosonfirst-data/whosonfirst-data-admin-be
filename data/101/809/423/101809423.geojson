@@ -22,6 +22,9 @@
     "name:fra_x_preferred":[
         "Kallo"
     ],
+    "name:fra_x_variant":[
+        "Calloo"
+    ],
     "name:hun_x_preferred":[
         "Kallo"
     ],
@@ -80,7 +83,7 @@
         }
     ],
     "wof:id":101809423,
-    "wof:lastmodified":1561831428,
+    "wof:lastmodified":1563235430,
     "wof:name":"Kallo",
     "wof:parent_id":1108830621,
     "wof:placetype":"locality",

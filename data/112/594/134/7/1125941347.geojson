@@ -21,6 +21,9 @@
     "name:bul_x_preferred":[
         "\u0410\u0430\u0438\u0433\u0435\u043c"
     ],
+    "name:ceb_x_preferred":[
+        "Aaigem"
+    ],
     "name:deu_x_preferred":[
         "Aaigem"
     ],
@@ -102,7 +105,7 @@
         }
     ],
     "wof:id":1125941347,
-    "wof:lastmodified":1561831439,
+    "wof:lastmodified":1563235595,
     "wof:name":"Aaigem",
     "wof:parent_id":1108830215,
     "wof:placetype":"locality",

@@ -36,6 +36,9 @@
     "name:unk_x_variant":[
         "Haine-Saint-Pierre"
     ],
+    "name:wln_x_preferred":[
+        "Sint-Pire"
+    ],
     "qs_pg:aaroncc":"BE",
     "qs_pg:gn_country":"BE",
     "qs_pg:gn_fcode":"PPL",
@@ -88,7 +91,7 @@
         }
     ],
     "wof:id":1126020345,
-    "wof:lastmodified":1561831445,
+    "wof:lastmodified":1563235654,
     "wof:name":"Haine-St.-Pierre",
     "wof:parent_id":102049943,
     "wof:placetype":"locality",

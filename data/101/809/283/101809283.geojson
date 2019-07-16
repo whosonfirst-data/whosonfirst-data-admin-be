@@ -26,6 +26,12 @@
     "name:cat_x_preferred":[
         "Merchtem"
     ],
+    "name:ceb_x_preferred":[
+        "Merchtem"
+    ],
+    "name:dan_x_preferred":[
+        "Merchtem"
+    ],
     "name:deu_x_preferred":[
         "Merchtem"
     ],
@@ -43,6 +49,9 @@
     ],
     "name:fra_x_preferred":[
         "Merchtem"
+    ],
+    "name:heb_x_preferred":[
+        "\u05de\u05e8\u05e6'\u05d8\u05dd"
     ],
     "name:hun_x_preferred":[
         "Merchtem"
@@ -75,6 +84,9 @@
         "Merchtem"
     ],
     "name:swe_x_preferred":[
+        "Merchtem"
+    ],
+    "name:tur_x_preferred":[
         "Merchtem"
     ],
     "name:vie_x_preferred":[
@@ -139,7 +151,7 @@
         }
     ],
     "wof:id":101809283,
-    "wof:lastmodified":1561831429,
+    "wof:lastmodified":1563235448,
     "wof:name":"Merchtem",
     "wof:parent_id":1108830297,
     "wof:placetype":"locality",

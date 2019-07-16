@@ -40,6 +40,9 @@
     "name:cat_x_preferred":[
         "Trois-Ponts"
     ],
+    "name:ceb_x_preferred":[
+        "Trois-Ponts"
+    ],
     "name:ces_x_preferred":[
         "Trois-Ponts"
     ],
@@ -287,7 +290,7 @@
         }
     ],
     "wof:id":1125889999,
-    "wof:lastmodified":1561831454,
+    "wof:lastmodified":1563235755,
     "wof:name":"Trois Ponts",
     "wof:parent_id":102049935,
     "wof:placetype":"locality",

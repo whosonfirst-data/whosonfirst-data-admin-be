@@ -22,6 +22,9 @@
     "name:bul_x_preferred":[
         "\u0411\u0440\u0435\u043d\u0434\u043e\u043d\u043a"
     ],
+    "name:cat_x_preferred":[
+        "Breendonk"
+    ],
     "name:deu_x_preferred":[
         "Fort Breendonk"
     ],
@@ -51,6 +54,9 @@
     ],
     "name:por_x_preferred":[
         "Forte Breendonk"
+    ],
+    "name:por_x_variant":[
+        "Breendonk"
     ],
     "name:spa_x_preferred":[
         "Breendonk"
@@ -109,7 +115,7 @@
         }
     ],
     "wof:id":101755631,
-    "wof:lastmodified":1561831406,
+    "wof:lastmodified":1563235107,
     "wof:name":"Breendonk",
     "wof:parent_id":1108830309,
     "wof:placetype":"locality",

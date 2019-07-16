@@ -59,6 +59,9 @@
     "name:lim_x_preferred":[
         "Hoeiselt"
     ],
+    "name:ltz_x_preferred":[
+        "Hoeselt"
+    ],
     "name:nld_x_preferred":[
         "Hoeselt"
     ],
@@ -71,6 +74,9 @@
     "name:oci_x_preferred":[
         "Hoeselt"
     ],
+    "name:pol_x_preferred":[
+        "Hoeselt"
+    ],
     "name:por_x_preferred":[
         "Hoeselt"
     ],
@@ -78,6 +84,9 @@
         "Hoeselt"
     ],
     "name:slk_x_preferred":[
+        "Hoeselt"
+    ],
+    "name:spa_x_preferred":[
         "Hoeselt"
     ],
     "name:swe_x_preferred":[
@@ -151,7 +160,7 @@
         }
     ],
     "wof:id":101838697,
-    "wof:lastmodified":1561831426,
+    "wof:lastmodified":1563235403,
     "wof:name":"Hoeselt",
     "wof:parent_id":1108830661,
     "wof:placetype":"locality",

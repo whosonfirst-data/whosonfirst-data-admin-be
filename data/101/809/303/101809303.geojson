@@ -37,6 +37,9 @@
     "name:nld_x_preferred":[
         "Westrozebeke"
     ],
+    "name:ron_x_preferred":[
+        "Westrozebeke"
+    ],
     "name:swe_x_preferred":[
         "Westrozebeke"
     ],
@@ -98,7 +101,7 @@
         }
     ],
     "wof:id":101809303,
-    "wof:lastmodified":1561831429,
+    "wof:lastmodified":1563235443,
     "wof:name":"Westrozebeke",
     "wof:parent_id":1108830315,
     "wof:placetype":"locality",

@@ -26,6 +26,9 @@
     "name:cat_x_preferred":[
         "Tellin"
     ],
+    "name:ceb_x_preferred":[
+        "Tellin"
+    ],
     "name:deu_x_preferred":[
         "Tellin"
     ],
@@ -71,6 +74,9 @@
     "name:oci_x_preferred":[
         "Tellin"
     ],
+    "name:pol_x_preferred":[
+        "Tellin"
+    ],
     "name:por_x_preferred":[
         "Tellin"
     ],
@@ -81,6 +87,9 @@
         "\u0422\u0435\u043b\u043b\u0435\u043d"
     ],
     "name:slk_x_preferred":[
+        "Tellin"
+    ],
+    "name:spa_x_preferred":[
         "Tellin"
     ],
     "name:vie_x_preferred":[
@@ -147,7 +156,7 @@
         }
     ],
     "wof:id":101811489,
-    "wof:lastmodified":1561831412,
+    "wof:lastmodified":1563235198,
     "wof:name":"Tellin",
     "wof:parent_id":102049913,
     "wof:placetype":"locality",

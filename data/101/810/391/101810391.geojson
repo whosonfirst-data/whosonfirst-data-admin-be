@@ -26,6 +26,9 @@
     "name:cat_x_preferred":[
         "Ohey"
     ],
+    "name:ceb_x_preferred":[
+        "Ohey"
+    ],
     "name:deu_x_preferred":[
         "Ohey"
     ],
@@ -56,6 +59,9 @@
     "name:lim_x_preferred":[
         "Ohey"
     ],
+    "name:ltz_x_preferred":[
+        "Ohey"
+    ],
     "name:nld_x_preferred":[
         "Ohey"
     ],
@@ -68,6 +74,9 @@
     "name:oci_x_preferred":[
         "Ohey"
     ],
+    "name:pol_x_preferred":[
+        "Ohey"
+    ],
     "name:por_x_preferred":[
         "Ohey"
     ],
@@ -77,10 +86,16 @@
     "name:rus_x_preferred":[
         "\u041e\u044d"
     ],
+    "name:rus_x_variant":[
+        "\u041e\u0435"
+    ],
     "name:slk_x_preferred":[
         "Ohey"
     ],
     "name:spa_x_preferred":[
+        "Ohey"
+    ],
+    "name:swe_x_preferred":[
         "Ohey"
     ],
     "name:vie_x_preferred":[
@@ -151,7 +166,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1561831413,
+    "wof:lastmodified":1563235212,
     "wof:name":"Ohey",
     "wof:parent_id":102049931,
     "wof:placetype":"locality",

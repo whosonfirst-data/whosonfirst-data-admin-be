@@ -21,11 +21,17 @@
     "name:bre_x_preferred":[
         "Loker"
     ],
+    "name:ceb_x_preferred":[
+        "Loker"
+    ],
     "name:eng_x_preferred":[
         "Loker"
     ],
     "name:est_x_preferred":[
         "Loker"
+    ],
+    "name:fas_x_preferred":[
+        "\u0644\u06a9\u0631"
     ],
     "name:fra_x_preferred":[
         "Loker"
@@ -101,7 +107,7 @@
         }
     ],
     "wof:id":1126032153,
-    "wof:lastmodified":1561831450,
+    "wof:lastmodified":1563235713,
     "wof:name":"Loker",
     "wof:parent_id":1108830671,
     "wof:placetype":"locality",

@@ -28,11 +28,17 @@
     "name:ceb_x_preferred":[
         "Boezinge"
     ],
+    "name:cym_x_preferred":[
+        "Boezinge"
+    ],
     "name:deu_x_preferred":[
         "Boezinge"
     ],
     "name:eng_x_preferred":[
         "Boesinghe"
+    ],
+    "name:eng_x_variant":[
+        "Boezinge"
     ],
     "name:fra_x_preferred":[
         "Boezinge"
@@ -111,7 +117,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1561831425,
+    "wof:lastmodified":1563235392,
     "wof:name":"Boezinge",
     "wof:parent_id":1108830595,
     "wof:placetype":"locality",

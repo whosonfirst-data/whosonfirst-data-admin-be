@@ -18,6 +18,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:deu_x_preferred":[
+        "Pousset"
+    ],
     "name:eng_x_preferred":[
         "Pousset"
     ],
@@ -83,7 +86,7 @@
         }
     ],
     "wof:id":1125890483,
-    "wof:lastmodified":1561831456,
+    "wof:lastmodified":1563235773,
     "wof:name":"Pousset",
     "wof:parent_id":102049937,
     "wof:placetype":"locality",

@@ -26,6 +26,9 @@
     "name:cat_x_preferred":[
         "Paliseul"
     ],
+    "name:ceb_x_preferred":[
+        "Paliseul"
+    ],
     "name:dan_x_preferred":[
         "Paliseul"
     ],
@@ -74,6 +77,9 @@
     "name:oci_x_preferred":[
         "Paliseul"
     ],
+    "name:pol_x_preferred":[
+        "Paliseul"
+    ],
     "name:por_x_preferred":[
         "Paliseul"
     ],
@@ -84,6 +90,12 @@
         "\u041f\u0430\u043b\u0438\u0437\u0451\u043b\u044c"
     ],
     "name:slk_x_preferred":[
+        "Paliseul"
+    ],
+    "name:spa_x_preferred":[
+        "Paliseul"
+    ],
+    "name:swe_x_preferred":[
         "Paliseul"
     ],
     "name:vie_x_preferred":[
@@ -150,7 +162,7 @@
         }
     ],
     "wof:id":101811507,
-    "wof:lastmodified":1561831412,
+    "wof:lastmodified":1563235192,
     "wof:name":"Paliseul",
     "wof:parent_id":102049913,
     "wof:placetype":"locality",

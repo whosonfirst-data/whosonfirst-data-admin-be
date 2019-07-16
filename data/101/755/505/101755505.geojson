@@ -22,6 +22,9 @@
     "name:ceb_x_preferred":[
         "Zellik"
     ],
+    "name:dan_x_preferred":[
+        "Zellik"
+    ],
     "name:eng_x_preferred":[
         "Zellik"
     ],
@@ -94,7 +97,7 @@
         }
     ],
     "wof:id":101755505,
-    "wof:lastmodified":1561831397,
+    "wof:lastmodified":1563234988,
     "wof:name":"Zellik",
     "wof:parent_id":1108830421,
     "wof:placetype":"locality",

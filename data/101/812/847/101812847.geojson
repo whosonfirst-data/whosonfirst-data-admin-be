@@ -26,6 +26,9 @@
     "name:cat_x_preferred":[
         "Herbeumont"
     ],
+    "name:ceb_x_preferred":[
+        "Herbeumont"
+    ],
     "name:deu_x_preferred":[
         "Herbeumont"
     ],
@@ -74,6 +77,9 @@
     "name:oci_x_preferred":[
         "Herbeumont"
     ],
+    "name:pol_x_preferred":[
+        "Herbeumont"
+    ],
     "name:por_x_preferred":[
         "Herbeumont"
     ],
@@ -84,6 +90,9 @@
         "\u042d\u0440\u0431\u0451\u043c\u043e\u043d"
     ],
     "name:slk_x_preferred":[
+        "Herbeumont"
+    ],
+    "name:spa_x_preferred":[
         "Herbeumont"
     ],
     "name:swe_x_preferred":[
@@ -153,7 +162,7 @@
         }
     ],
     "wof:id":101812847,
-    "wof:lastmodified":1561831422,
+    "wof:lastmodified":1563235342,
     "wof:name":"Herbeumont",
     "wof:parent_id":102049913,
     "wof:placetype":"locality",

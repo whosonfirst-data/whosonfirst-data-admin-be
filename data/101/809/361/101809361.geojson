@@ -35,6 +35,9 @@
     "name:eng_x_preferred":[
         "Knesselaere"
     ],
+    "name:eng_x_variant":[
+        "Knesselare"
+    ],
     "name:epo_x_preferred":[
         "Knesselare"
     ],
@@ -56,6 +59,9 @@
     "name:ita_x_preferred":[
         "Knesselare"
     ],
+    "name:ltz_x_preferred":[
+        "Knesselare"
+    ],
     "name:nld_x_preferred":[
         "Knesselare"
     ],
@@ -66,6 +72,9 @@
         "Knesselare"
     ],
     "name:oci_x_preferred":[
+        "Knesselare"
+    ],
+    "name:pol_x_preferred":[
         "Knesselare"
     ],
     "name:por_x_preferred":[
@@ -152,7 +161,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1561831429,
+    "wof:lastmodified":1563235442,
     "wof:name":"Knesselare",
     "wof:parent_id":1108830533,
     "wof:placetype":"locality",

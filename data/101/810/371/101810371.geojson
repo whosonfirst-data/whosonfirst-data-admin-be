@@ -59,6 +59,9 @@
     "name:lim_x_preferred":[
         "Verlaine"
     ],
+    "name:ltz_x_preferred":[
+        "Verlaine"
+    ],
     "name:nld_x_preferred":[
         "Verlaine"
     ],
@@ -71,6 +74,9 @@
     "name:oci_x_preferred":[
         "Verlaine"
     ],
+    "name:pol_x_preferred":[
+        "Verlaine"
+    ],
     "name:por_x_preferred":[
         "Verlaine"
     ],
@@ -81,6 +87,9 @@
         "\u0412\u0435\u0440\u043b\u0435\u043d"
     ],
     "name:slk_x_preferred":[
+        "Verlaine"
+    ],
+    "name:spa_x_preferred":[
         "Verlaine"
     ],
     "name:swe_x_preferred":[
@@ -146,7 +155,7 @@
         }
     ],
     "wof:id":101810371,
-    "wof:lastmodified":1561831415,
+    "wof:lastmodified":1563235235,
     "wof:name":"Verlaine",
     "wof:parent_id":102049925,
     "wof:placetype":"locality",

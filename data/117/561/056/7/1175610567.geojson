@@ -59,6 +59,9 @@
     "name:jpn_x_preferred":[
         "\u30d0\u30fc\u30ec\u30f3"
     ],
+    "name:ltz_x_preferred":[
+        "Balen"
+    ],
     "name:nld_x_preferred":[
         "Balen"
     ],
@@ -69,6 +72,9 @@
         "Balen"
     ],
     "name:oci_x_preferred":[
+        "Balen"
+    ],
+    "name:pol_x_preferred":[
         "Balen"
     ],
     "name:por_x_preferred":[
@@ -156,7 +162,7 @@
         }
     ],
     "wof:id":1175610567,
-    "wof:lastmodified":1561831393,
+    "wof:lastmodified":1563234799,
     "wof:name":"Balen",
     "wof:parent_id":1108830443,
     "wof:placetype":"locality",

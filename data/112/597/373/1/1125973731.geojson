@@ -21,8 +21,14 @@
     "name:bul_x_preferred":[
         "\u0421\u043e\u0441\u043e\u0439\u0435"
     ],
+    "name:ceb_x_preferred":[
+        "Sosoye"
+    ],
     "name:eng_x_preferred":[
         "Sosoye"
+    ],
+    "name:fas_x_preferred":[
+        "\u0633\u0648\u0633\u0648\u06cc\u0647"
     ],
     "name:fra_x_preferred":[
         "Sosoye"
@@ -93,7 +99,7 @@
         }
     ],
     "wof:id":1125973731,
-    "wof:lastmodified":1561831464,
+    "wof:lastmodified":1563235866,
     "wof:name":"Sosoye",
     "wof:parent_id":102049919,
     "wof:placetype":"locality",

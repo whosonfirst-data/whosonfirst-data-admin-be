@@ -26,6 +26,9 @@
     "name:cat_x_preferred":[
         "Hulshout"
     ],
+    "name:ceb_x_preferred":[
+        "Hulshout"
+    ],
     "name:deu_x_preferred":[
         "Hulshout"
     ],
@@ -48,6 +51,9 @@
         "Hulshout"
     ],
     "name:ita_x_preferred":[
+        "Hulshout"
+    ],
+    "name:ltz_x_preferred":[
         "Hulshout"
     ],
     "name:nld_x_preferred":[
@@ -136,7 +142,7 @@
         }
     ],
     "wof:id":101755811,
-    "wof:lastmodified":1561831398,
+    "wof:lastmodified":1563235002,
     "wof:name":"Hulshout",
     "wof:parent_id":1108830503,
     "wof:placetype":"locality",

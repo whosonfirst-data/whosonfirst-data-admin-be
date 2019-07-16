@@ -89,6 +89,9 @@
     "name:lit_x_preferred":[
         "De Panas"
     ],
+    "name:mkd_x_preferred":[
+        "\u0414\u0435 \u041f\u0430\u043d\u0435"
+    ],
     "name:nld_x_preferred":[
         "De Panne"
     ],
@@ -123,6 +126,9 @@
         "De Panne"
     ],
     "name:swe_x_preferred":[
+        "De Panne"
+    ],
+    "name:tur_x_preferred":[
         "De Panne"
     ],
     "name:unk_x_variant":[
@@ -194,7 +200,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1561831432,
+    "wof:lastmodified":1563235483,
     "wof:name":"De Panne",
     "wof:parent_id":1108830697,
     "wof:placetype":"locality",

@@ -27,6 +27,9 @@
     "name:fra_x_preferred":[
         "Kwaremont"
     ],
+    "name:fra_x_variant":[
+        "Quaremont"
+    ],
     "name:hun_x_preferred":[
         "Kwaremont"
     ],
@@ -95,7 +98,7 @@
         }
     ],
     "wof:id":1126046981,
-    "wof:lastmodified":1561831450,
+    "wof:lastmodified":1563235701,
     "wof:name":"Kwaremont",
     "wof:parent_id":1108830129,
     "wof:placetype":"locality",

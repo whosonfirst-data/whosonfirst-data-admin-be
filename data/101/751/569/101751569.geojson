@@ -20,6 +20,12 @@
     "name:afr_x_preferred":[
         "La Louvi\u00e8re"
     ],
+    "name:ara_x_preferred":[
+        "\u0644\u0627 \u0644\u0648\u0641\u064a\u064a\u0631"
+    ],
+    "name:arz_x_preferred":[
+        "\u0644\u0627 \u0644\u0648\u06a4\u064a\u064a\u0631"
+    ],
     "name:bel_x_preferred":[
         "\u041b\u0430-\u041b\u0443\u045e\u0435\u0440"
     ],
@@ -31,6 +37,9 @@
     ],
     "name:bul_x_preferred":[
         "\u041b\u0443\u0432\u0438\u0435\u0440"
+    ],
+    "name:bul_x_variant":[
+        "\u041b\u0430 \u041b\u0443\u0432\u0438\u0435\u0440"
     ],
     "name:cat_x_preferred":[
         "La Louvi\u00e8re"
@@ -74,6 +83,9 @@
     "name:fra_x_preferred":[
         "La Louvi\u00e8re"
     ],
+    "name:gle_x_preferred":[
+        "La Louvi\u00e8re"
+    ],
     "name:heb_x_preferred":[
         "\u05dc\u05d4 \u05dc\u05d5\u05d1\u05d9\u05d9\u05e8"
     ],
@@ -98,6 +110,9 @@
     "name:lat_x_preferred":[
         "Luparia"
     ],
+    "name:lav_x_preferred":[
+        "Laluvj\u0113ra"
+    ],
     "name:lim_x_preferred":[
         "La Louvi\u00e8re"
     ],
@@ -118,6 +133,9 @@
     ],
     "name:oci_x_preferred":[
         "La Louvi\u00e8re"
+    ],
+    "name:pcd_x_preferred":[
+        "El Lovire"
     ],
     "name:pol_x_preferred":[
         "La Louvi\u00e8re"
@@ -152,8 +170,14 @@
     "name:szl_x_preferred":[
         "La Louvi\u00e8re"
     ],
+    "name:tat_x_preferred":[
+        "\u041b\u0430-\u041b\u0443\u0432\u044c\u0435\u0440"
+    ],
     "name:tur_x_preferred":[
         "La Louvi\u00e8re"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041b\u0430-\u041b\u0443\u0432'\u0454\u0440"
     ],
     "name:unk_x_variant":[
         "Louvierre"
@@ -226,7 +250,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1561831421,
+    "wof:lastmodified":1563235335,
     "wof:name":"La Louvi\u00e8re",
     "wof:parent_id":102049943,
     "wof:placetype":"locality",

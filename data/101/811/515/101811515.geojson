@@ -17,6 +17,9 @@
     "mps:longitude":5.917021,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:bar_x_preferred":[
+        "Vielsalm"
+    ],
     "name:bre_x_preferred":[
         "Vielsalm"
     ],
@@ -24,6 +27,9 @@
         "\u0412\u0438\u0435\u043b\u0441\u0430\u043b\u043c"
     ],
     "name:cat_x_preferred":[
+        "Vielsalm"
+    ],
+    "name:ceb_x_preferred":[
         "Vielsalm"
     ],
     "name:deu_x_preferred":[
@@ -92,6 +98,9 @@
     "name:spa_x_preferred":[
         "Vielsalm"
     ],
+    "name:swe_x_preferred":[
+        "Vielsalm"
+    ],
     "name:vie_x_preferred":[
         "Vielsalm"
     ],
@@ -156,7 +165,7 @@
         }
     ],
     "wof:id":101811515,
-    "wof:lastmodified":1561831413,
+    "wof:lastmodified":1563235208,
     "wof:name":"Vielsalm",
     "wof:parent_id":102049915,
     "wof:placetype":"locality",

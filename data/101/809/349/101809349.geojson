@@ -25,6 +25,9 @@
     "name:eng_x_preferred":[
         "Klerken"
     ],
+    "name:fas_x_preferred":[
+        "\u06a9\u0644\u0631\u06a9\u0646"
+    ],
     "name:fra_x_preferred":[
         "Klerken"
     ],
@@ -96,7 +99,7 @@
         }
     ],
     "wof:id":101809349,
-    "wof:lastmodified":1561831429,
+    "wof:lastmodified":1563235441,
     "wof:name":"Klerken",
     "wof:parent_id":1108830335,
     "wof:placetype":"locality",

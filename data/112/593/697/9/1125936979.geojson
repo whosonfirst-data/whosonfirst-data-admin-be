@@ -21,8 +21,14 @@
     "name:bul_x_preferred":[
         "\u041c\u0435\u0440\u043a\u0435\u043c"
     ],
+    "name:ceb_x_preferred":[
+        "Merkem"
+    ],
     "name:eng_x_preferred":[
         "Merkem"
+    ],
+    "name:fas_x_preferred":[
+        "\u0645\u0631\u06a9\u0645"
     ],
     "name:fra_x_preferred":[
         "Merkem"
@@ -99,7 +105,7 @@
         }
     ],
     "wof:id":1125936979,
-    "wof:lastmodified":1561831441,
+    "wof:lastmodified":1563235615,
     "wof:name":"Merkem",
     "wof:parent_id":1108830335,
     "wof:placetype":"locality",

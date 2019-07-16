@@ -19,6 +19,9 @@
     "name:eng_x_preferred":[
         "Gysegem"
     ],
+    "name:eng_x_variant":[
+        "Gijzegem"
+    ],
     "name:fra_x_preferred":[
         "Gijzegem"
     ],
@@ -83,7 +86,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1561831403,
+    "wof:lastmodified":1563235068,
     "wof:name":"Gijzegem",
     "wof:parent_id":1108830515,
     "wof:placetype":"locality",

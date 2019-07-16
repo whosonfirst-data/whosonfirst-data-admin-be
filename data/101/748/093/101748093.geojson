@@ -66,6 +66,9 @@
     "name:ces_x_preferred":[
         "Gent"
     ],
+    "name:cos_x_preferred":[
+        "Gent"
+    ],
     "name:cym_x_preferred":[
         "Gent"
     ],
@@ -137,6 +140,9 @@
     ],
     "name:hye_x_preferred":[
         "\u0533\u0565\u0576\u057f"
+    ],
+    "name:hyw_x_preferred":[
+        "\u053f\u0565\u0576\u0569"
     ],
     "name:ido_x_preferred":[
         "Gent"
@@ -290,6 +296,9 @@
     "name:tam_x_preferred":[
         "\u0b9c\u0bbf\u0bb9\u0bc6\u0ba3\u0bcd\u0b9f\u0bcd"
     ],
+    "name:tat_x_preferred":[
+        "\u0413\u0435\u043d\u0442"
+    ],
     "name:tel_x_preferred":[
         "\u0c18\u0c46\u0c02\u0c1f\u0c4d"
     ],
@@ -328,6 +337,9 @@
     ],
     "name:war_x_preferred":[
         "Ghent"
+    ],
+    "name:wln_x_preferred":[
+        "Gant"
     ],
     "name:xmf_x_preferred":[
         "\u10d2\u10d4\u10dc\u10e2\u10d8"
@@ -494,7 +506,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1561831418,
+    "wof:lastmodified":1563235280,
     "wof:name":"Gent",
     "wof:parent_id":1108830083,
     "wof:placetype":"locality",

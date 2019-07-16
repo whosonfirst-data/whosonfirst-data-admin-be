@@ -21,6 +21,12 @@
     "name:bul_x_preferred":[
         "\u0414\u043e\u0435\u043b"
     ],
+    "name:ceb_x_preferred":[
+        "Doel"
+    ],
+    "name:deu_x_preferred":[
+        "Doel"
+    ],
     "name:eng_x_preferred":[
         "Doel"
     ],
@@ -37,6 +43,9 @@
         "Doel"
     ],
     "name:swe_x_preferred":[
+        "Doel"
+    ],
+    "name:zea_x_preferred":[
         "Doel"
     ],
     "qs_pg:aaroncc":"BE",
@@ -95,7 +104,7 @@
         }
     ],
     "wof:id":1125947527,
-    "wof:lastmodified":1561831439,
+    "wof:lastmodified":1563235594,
     "wof:name":"Doel",
     "wof:parent_id":1108830621,
     "wof:placetype":"locality",

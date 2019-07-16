@@ -24,6 +24,9 @@
     "name:est_x_preferred":[
         "Bothey"
     ],
+    "name:fas_x_preferred":[
+        "\u0628\u0648\u062a\u0627\u06cc"
+    ],
     "name:fra_x_preferred":[
         "Bothey"
     ],
@@ -90,7 +93,7 @@
         }
     ],
     "wof:id":1125769303,
-    "wof:lastmodified":1561831476,
+    "wof:lastmodified":1563235965,
     "wof:name":"Bothey",
     "wof:parent_id":102049931,
     "wof:placetype":"locality",

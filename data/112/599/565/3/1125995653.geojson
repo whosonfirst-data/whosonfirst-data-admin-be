@@ -39,6 +39,9 @@
     "name:cat_x_preferred":[
         "Wilrijk"
     ],
+    "name:ceb_x_preferred":[
+        "Wilrijk"
+    ],
     "name:ces_x_preferred":[
         "Wilrijk"
     ],
@@ -66,6 +69,9 @@
     "name:eus_x_preferred":[
         "Wilrijk"
     ],
+    "name:fas_x_preferred":[
+        "\u0648\u06cc\u0644\u0631\u06cc\u062c"
+    ],
     "name:fin_x_preferred":[
         "Wilrijk"
     ],
@@ -89,6 +95,9 @@
     ],
     "name:gsw_x_preferred":[
         "Wilrijk"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d5\u05d9\u05dc\u05e8\u05d9\u05e7"
     ],
     "name:hrv_x_preferred":[
         "Wilrijk"
@@ -122,6 +131,9 @@
     ],
     "name:kon_x_preferred":[
         "Wilrijk"
+    ],
+    "name:lat_x_preferred":[
+        "Wilrica"
     ],
     "name:lij_x_preferred":[
         "Wilrijk"
@@ -290,7 +302,7 @@
         }
     ],
     "wof:id":1125995653,
-    "wof:lastmodified":1561831461,
+    "wof:lastmodified":1563235832,
     "wof:name":"Wilrijk",
     "wof:parent_id":1108830423,
     "wof:placetype":"locality",

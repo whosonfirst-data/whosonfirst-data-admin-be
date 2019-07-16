@@ -32,6 +32,9 @@
     "name:cat_x_preferred":[
         "Neerpelt"
     ],
+    "name:ceb_x_preferred":[
+        "Neerpelt"
+    ],
     "name:dan_x_preferred":[
         "Neerpelt"
     ],
@@ -75,6 +78,9 @@
         "Nerpelt"
     ],
     "name:lim_x_variant":[
+        "Neerpelt"
+    ],
+    "name:ltz_x_preferred":[
         "Neerpelt"
     ],
     "name:mkd_x_preferred":[
@@ -185,7 +191,7 @@
         }
     ],
     "wof:id":101838935,
-    "wof:lastmodified":1561831425,
+    "wof:lastmodified":1563235389,
     "wof:name":"Neerpelt",
     "wof:parent_id":1108830205,
     "wof:placetype":"locality",

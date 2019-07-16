@@ -21,6 +21,9 @@
     "name:eng_x_preferred":[
         "Muno"
     ],
+    "name:fas_x_preferred":[
+        "\u0645\u0648\u0648\u0646\u0648"
+    ],
     "name:fra_x_preferred":[
         "Muno"
     ],
@@ -84,7 +87,7 @@
         }
     ],
     "wof:id":1125948759,
-    "wof:lastmodified":1561831439,
+    "wof:lastmodified":1563235597,
     "wof:name":"Muno",
     "wof:parent_id":102049907,
     "wof:placetype":"locality",

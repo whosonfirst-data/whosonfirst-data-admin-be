@@ -26,6 +26,9 @@
     "name:cat_x_preferred":[
         "Landen"
     ],
+    "name:ceb_x_preferred":[
+        "Landen"
+    ],
     "name:dan_x_preferred":[
         "Landen"
     ],
@@ -52,6 +55,9 @@
     ],
     "name:ita_x_preferred":[
         "Landen"
+    ],
+    "name:lim_x_preferred":[
+        "Lande"
     ],
     "name:lit_x_preferred":[
         "Landenas"
@@ -149,7 +155,7 @@
         }
     ],
     "wof:id":101838737,
-    "wof:lastmodified":1561831423,
+    "wof:lastmodified":1563235354,
     "wof:name":"Landen",
     "wof:parent_id":1108830259,
     "wof:placetype":"locality",

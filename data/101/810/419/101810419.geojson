@@ -62,6 +62,9 @@
     "name:lim_x_preferred":[
         "Lontzen"
     ],
+    "name:lmo_x_preferred":[
+        "Lontzen"
+    ],
     "name:ltz_x_preferred":[
         "Lontzen"
     ],
@@ -77,6 +80,9 @@
     "name:oci_x_preferred":[
         "Lontzen"
     ],
+    "name:pol_x_preferred":[
+        "Lontzen"
+    ],
     "name:por_x_preferred":[
         "Lontzen"
     ],
@@ -86,7 +92,13 @@
     "name:rus_x_preferred":[
         "\u041b\u043e\u043d\u0446\u0435\u043d"
     ],
+    "name:rus_x_variant":[
+        "\u041b\u043e\u043d\u0442\u0446\u0435\u043d"
+    ],
     "name:slk_x_preferred":[
+        "Lontzen"
+    ],
+    "name:spa_x_preferred":[
         "Lontzen"
     ],
     "name:swe_x_preferred":[
@@ -155,7 +167,7 @@
         }
     ],
     "wof:id":101810419,
-    "wof:lastmodified":1561831416,
+    "wof:lastmodified":1563235244,
     "wof:name":"Lontzen",
     "wof:parent_id":102049935,
     "wof:placetype":"locality",

@@ -21,6 +21,9 @@
     "name:bre_x_preferred":[
         "Westvleteren"
     ],
+    "name:ceb_x_preferred":[
+        "Westvleteren"
+    ],
     "name:eng_x_preferred":[
         "Westvleteren"
     ],
@@ -101,7 +104,7 @@
         }
     ],
     "wof:id":1126000481,
-    "wof:lastmodified":1561831470,
+    "wof:lastmodified":1563235926,
     "wof:name":"Westvleteren",
     "wof:parent_id":1108830565,
     "wof:placetype":"locality",

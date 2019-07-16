@@ -26,6 +26,9 @@
     "name:cat_x_preferred":[
         "Libin"
     ],
+    "name:ceb_x_preferred":[
+        "Libin"
+    ],
     "name:deu_x_preferred":[
         "Libin"
     ],
@@ -37,6 +40,9 @@
     ],
     "name:est_x_preferred":[
         "Libini vald"
+    ],
+    "name:est_x_variant":[
+        "Libin"
     ],
     "name:eus_x_preferred":[
         "Libin"
@@ -52,6 +58,9 @@
     ],
     "name:ita_x_preferred":[
         "Libin"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ea\u30d0\u30f3"
     ],
     "name:lim_x_preferred":[
         "Libin"
@@ -71,6 +80,9 @@
     "name:oci_x_preferred":[
         "Libin"
     ],
+    "name:pol_x_preferred":[
+        "Libin"
+    ],
     "name:por_x_preferred":[
         "Libin"
     ],
@@ -81,6 +93,12 @@
         "\u041b\u0438\u0431\u0435\u043d"
     ],
     "name:slk_x_preferred":[
+        "Libin"
+    ],
+    "name:spa_x_preferred":[
+        "Libin"
+    ],
+    "name:swe_x_preferred":[
         "Libin"
     ],
     "name:vie_x_preferred":[
@@ -147,7 +165,7 @@
         }
     ],
     "wof:id":101811495,
-    "wof:lastmodified":1561831413,
+    "wof:lastmodified":1563235203,
     "wof:name":"Libin",
     "wof:parent_id":102049913,
     "wof:placetype":"locality",

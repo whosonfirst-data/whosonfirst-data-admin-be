@@ -29,6 +29,9 @@
     "name:cat_x_preferred":[
         "Ittre"
     ],
+    "name:ceb_x_preferred":[
+        "Ittre"
+    ],
     "name:deu_x_preferred":[
         "Ittre"
     ],
@@ -53,6 +56,9 @@
     "name:ita_x_preferred":[
         "Ittre"
     ],
+    "name:ltz_x_preferred":[
+        "Ittre"
+    ],
     "name:nld_x_preferred":[
         "Itter"
     ],
@@ -63,6 +69,9 @@
         "Ittre"
     ],
     "name:oci_x_preferred":[
+        "Ittre"
+    ],
+    "name:pol_x_preferred":[
         "Ittre"
     ],
     "name:por_x_preferred":[
@@ -150,7 +159,7 @@
         }
     ],
     "wof:id":101755239,
-    "wof:lastmodified":1561831406,
+    "wof:lastmodified":1563235098,
     "wof:name":"Ittre",
     "wof:parent_id":102049945,
     "wof:placetype":"locality",

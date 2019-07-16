@@ -29,7 +29,13 @@
     "name:cat_x_preferred":[
         "Lessines"
     ],
+    "name:ceb_x_preferred":[
+        "Lessines"
+    ],
     "name:ces_x_preferred":[
+        "Lessines"
+    ],
+    "name:dan_x_preferred":[
         "Lessines"
     ],
     "name:deu_x_preferred":[
@@ -40,6 +46,9 @@
     ],
     "name:eng_x_preferred":[
         "Lessen"
+    ],
+    "name:eng_x_variant":[
+        "Lessines"
     ],
     "name:epo_x_preferred":[
         "Lessines"
@@ -68,8 +77,14 @@
     "name:jpn_x_preferred":[
         "\u30ec\u30c3\u30b7\u30fc\u30cc"
     ],
+    "name:kat_x_preferred":[
+        "\u10da\u10d4\u10e1\u10d8\u10dc\u10d8"
+    ],
     "name:lim_x_preferred":[
         "Lessen"
+    ],
+    "name:ltz_x_preferred":[
+        "Lessines"
     ],
     "name:nld_x_preferred":[
         "Lessen"
@@ -83,6 +98,9 @@
     "name:pcd_x_preferred":[
         "Lissene"
     ],
+    "name:pol_x_preferred":[
+        "Lessines"
+    ],
     "name:por_x_preferred":[
         "Lessines"
     ],
@@ -93,6 +111,9 @@
         "\u041b\u0435\u0441\u0441\u0438\u043d"
     ],
     "name:slk_x_preferred":[
+        "Lessines"
+    ],
+    "name:spa_x_preferred":[
         "Lessines"
     ],
     "name:swe_x_preferred":[
@@ -171,7 +192,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1561831426,
+    "wof:lastmodified":1563235395,
     "wof:name":"Lessines",
     "wof:parent_id":102049943,
     "wof:placetype":"locality",

@@ -65,6 +65,9 @@
     "name:lit_x_preferred":[
         "Alkenas"
     ],
+    "name:ltz_x_preferred":[
+        "Alken"
+    ],
     "name:nld_x_preferred":[
         "Alken"
     ],
@@ -93,6 +96,9 @@
         "Alk\u00e9n"
     ],
     "name:slk_x_variant":[
+        "Alken"
+    ],
+    "name:spa_x_preferred":[
         "Alken"
     ],
     "name:srp_x_preferred":[
@@ -166,7 +172,7 @@
         }
     ],
     "wof:id":101839697,
-    "wof:lastmodified":1561831435,
+    "wof:lastmodified":1563235537,
     "wof:name":"Alken",
     "wof:parent_id":1108830441,
     "wof:placetype":"locality",

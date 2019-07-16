@@ -24,11 +24,17 @@
     "name:ang_x_preferred":[
         "Brycg"
     ],
+    "name:ang_x_variant":[
+        "Bricg"
+    ],
     "name:ara_x_preferred":[
         "\u0628\u0631\u0648\u062c"
     ],
     "name:arz_x_preferred":[
         "\u0628\u0631\u0648\u062c"
+    ],
+    "name:ast_x_preferred":[
+        "Bruxes"
     ],
     "name:aze_x_preferred":[
         "Br\u00fcgge"
@@ -36,11 +42,17 @@
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u0411\u0440\u0443\u0433\u044d"
     ],
+    "name:bel_x_variant":[
+        "\u0411\u0440\u0443\u0433\u044d"
+    ],
     "name:ben_x_preferred":[
         "\u09ac\u09cd\u09b0\u09c1\u09b8"
     ],
     "name:bos_x_preferred":[
         "Bri\u017e"
+    ],
+    "name:bos_x_variant":[
+        "Brugge"
     ],
     "name:bre_x_preferred":[
         "Brugge"
@@ -62,6 +74,9 @@
     ],
     "name:dan_x_preferred":[
         "Br\u00fcgge"
+    ],
+    "name:dan_x_variant":[
+        "Brugge"
     ],
     "name:deu_x_preferred":[
         "Br\u00fcgge"
@@ -117,6 +132,9 @@
     "name:heb_x_preferred":[
         "\u05d1\u05e8\u05d5\u05d6"
     ],
+    "name:heb_x_variant":[
+        "\u05d1\u05e8\u05d5\u05d6'"
+    ],
     "name:hin_x_preferred":[
         "\u092c\u094d\u0930\u0941\u0917\u094d\u091c"
     ],
@@ -132,11 +150,17 @@
     "name:hye_x_variant":[
         "\u0532\u057c\u0575\u0578\u0582\u0563\u0565"
     ],
+    "name:hyw_x_preferred":[
+        "\u054a\u0580\u056b\u0582\u056a"
+    ],
     "name:ido_x_preferred":[
         "Brugge"
     ],
     "name:ile_x_preferred":[
         "Brugge"
+    ],
+    "name:ina_x_preferred":[
+        "Bruges"
     ],
     "name:ind_x_preferred":[
         "Brugge"
@@ -177,6 +201,9 @@
     "name:lim_x_preferred":[
         "Br\u00f6gge"
     ],
+    "name:lim_x_variant":[
+        "Brugge"
+    ],
     "name:lit_x_preferred":[
         "Briug\u0117"
     ],
@@ -188,6 +215,9 @@
     ],
     "name:mkd_x_preferred":[
         "\u0411\u0440\u0438\u0433\u0435"
+    ],
+    "name:mkd_x_variant":[
+        "\u0411\u0440\u0443\u0445\u0435"
     ],
     "name:msa_x_preferred":[
         "Brugge"
@@ -264,6 +294,9 @@
     "name:tam_x_preferred":[
         "\u0baa\u0bcd\u0bb0\u0bc1\u0b95\u0bcd\u0bb8\u0bcd"
     ],
+    "name:tat_x_preferred":[
+        "\u0411\u0440\u04af\u0433\u0433\u0435"
+    ],
     "name:tel_x_preferred":[
         "\u0c2c\u0c4d\u0c30\u0c41\u0c17\u0c47\u0c38\u0c4d"
     ],
@@ -281,6 +314,9 @@
     ],
     "name:urd_x_preferred":[
         "\u0628\u0631\u0648\u062c\u060c \u0628\u06cc\u0644\u062c\u0626\u06cc\u0645"
+    ],
+    "name:urd_x_variant":[
+        "\u0628\u0631\u0648\u062c"
     ],
     "name:uzb_x_preferred":[
         "Bryugge"
@@ -473,7 +509,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1561831418,
+    "wof:lastmodified":1563235272,
     "wof:name":"Brugge",
     "wof:parent_id":1108830689,
     "wof:placetype":"locality",

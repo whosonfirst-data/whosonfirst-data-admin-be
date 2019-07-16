@@ -36,6 +36,9 @@
     "name:hun_x_preferred":[
         "Henri-Chapelle"
     ],
+    "name:jpn_x_preferred":[
+        "\u30a2\u30f3\u30ea\uff1d\u30b7\u30e3\u30da\u30eb"
+    ],
     "name:lim_x_preferred":[
         "Kapel"
     ],
@@ -99,7 +102,7 @@
         }
     ],
     "wof:id":1125842829,
-    "wof:lastmodified":1561831483,
+    "wof:lastmodified":1563236039,
     "wof:name":"Henri-Chapelle",
     "wof:parent_id":102049935,
     "wof:placetype":"locality",

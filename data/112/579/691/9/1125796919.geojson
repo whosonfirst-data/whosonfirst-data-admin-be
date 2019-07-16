@@ -21,6 +21,15 @@
     "name:bul_x_preferred":[
         "\u041a\u0430\u043d\u0435\u0433\u0435\u043c"
     ],
+    "name:cat_x_preferred":[
+        "Kanegem"
+    ],
+    "name:ceb_x_preferred":[
+        "Kanegem"
+    ],
+    "name:dan_x_preferred":[
+        "Kanegem"
+    ],
     "name:deu_x_preferred":[
         "Kanegem"
     ],
@@ -38,6 +47,9 @@
     ],
     "name:nld_x_preferred":[
         "Kanegem"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u043d\u0435\u0433\u0435\u043c"
     ],
     "name:swe_x_preferred":[
         "Kanegem"
@@ -104,7 +116,7 @@
         }
     ],
     "wof:id":1125796919,
-    "wof:lastmodified":1561831482,
+    "wof:lastmodified":1563236030,
     "wof:name":"Kanegem",
     "wof:parent_id":1108830265,
     "wof:placetype":"locality",

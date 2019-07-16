@@ -21,6 +21,9 @@
     "name:bul_x_preferred":[
         "\u0411\u043e\u0433\u0430\u0440\u0434\u0435\u043d"
     ],
+    "name:ceb_x_preferred":[
+        "Bogaarden"
+    ],
     "name:eng_x_preferred":[
         "Bogaarden"
     ],
@@ -91,7 +94,7 @@
         }
     ],
     "wof:id":1126021507,
-    "wof:lastmodified":1561831445,
+    "wof:lastmodified":1563235645,
     "wof:name":"Bogaarden",
     "wof:parent_id":1108830351,
     "wof:placetype":"locality",

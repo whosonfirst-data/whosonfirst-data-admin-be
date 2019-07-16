@@ -59,6 +59,9 @@
     "name:lim_x_preferred":[
         "Hi\u00ebr"
     ],
+    "name:ltz_x_preferred":[
+        "Heers"
+    ],
     "name:nld_x_preferred":[
         "Heers"
     ],
@@ -84,6 +87,9 @@
         "\u0425\u0435\u0440\u0441"
     ],
     "name:slk_x_preferred":[
+        "Heers"
+    ],
+    "name:spa_x_preferred":[
         "Heers"
     ],
     "name:swe_x_preferred":[
@@ -154,7 +160,7 @@
         }
     ],
     "wof:id":101810541,
-    "wof:lastmodified":1561831417,
+    "wof:lastmodified":1563235258,
     "wof:name":"Heers",
     "wof:parent_id":1108830275,
     "wof:placetype":"locality",

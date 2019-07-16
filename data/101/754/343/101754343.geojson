@@ -35,6 +35,9 @@
     "name:ces_x_preferred":[
         "Sint-Genesius-Rode"
     ],
+    "name:dan_x_preferred":[
+        "Sint-Genesius-Rode"
+    ],
     "name:deu_x_preferred":[
         "Sint-Genesius-Rode"
     ],
@@ -74,6 +77,9 @@
     "name:lit_x_preferred":[
         "Sint Chenesijus Rod\u0117"
     ],
+    "name:ltz_x_preferred":[
+        "Sint-Genesius-Rode"
+    ],
     "name:nld_x_preferred":[
         "Sint-Genesius-Rode"
     ],
@@ -87,6 +93,9 @@
         "Sint-Genesius-Rode"
     ],
     "name:oci_x_preferred":[
+        "Sint-Genesius-Rode"
+    ],
+    "name:pol_x_preferred":[
         "Sint-Genesius-Rode"
     ],
     "name:por_x_preferred":[
@@ -105,6 +114,9 @@
         "Sint-Genesius-Rode"
     ],
     "name:swe_x_preferred":[
+        "Sint-Genesius-Rode"
+    ],
+    "name:tur_x_preferred":[
         "Sint-Genesius-Rode"
     ],
     "name:vie_x_preferred":[
@@ -173,7 +185,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1561831411,
+    "wof:lastmodified":1563235172,
     "wof:name":"Sint-Genesius-Rode",
     "wof:parent_id":1108830499,
     "wof:placetype":"locality",

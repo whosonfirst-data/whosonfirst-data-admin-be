@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000279,
-    "geom:area_square_m":2193864.940842,
+    "geom:area_square_m":2193864.940841,
     "geom:bbox":"4.22752253539,50.4418037601,4.25745070136,50.4631826832",
     "geom:latitude":50.452136,
     "geom:longitude":4.242124,
@@ -17,11 +17,35 @@
     "mps:longitude":4.240651,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Morlanwelz-Mariemont"
+    ],
+    "name:ces_x_preferred":[
+        "Morlanwelz-Mariemont"
+    ],
+    "name:eng_x_preferred":[
+        "Morlanwelz-Mariemont"
+    ],
     "name:fra_x_preferred":[
         "Morlanwelz"
     ],
+    "name:fra_x_variant":[
+        "Morlanwelz-Mariemont"
+    ],
+    "name:hun_x_preferred":[
+        "Morlanwelz-Mariemont"
+    ],
+    "name:nld_x_preferred":[
+        "Morlanwelz-Mariemont"
+    ],
+    "name:swe_x_preferred":[
+        "Morlanwelz-Mariemont"
+    ],
     "name:unk_x_variant":[
         "Morlanwelz-Mariemont"
+    ],
+    "name:wln_x_preferred":[
+        "Marlanw\u00e9-Marimont"
     ],
     "qs:a0":"Belgi\u00eb#Belgique#Belgien",
     "qs:a1":"*Hainaut",
@@ -72,7 +96,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1505337746,
+    "wof:lastmodified":1563235079,
     "wof:name":"Morlanwelz",
     "wof:parent_id":102049923,
     "wof:placetype":"locality",

@@ -19,6 +19,9 @@
     "name:eng_x_preferred":[
         "Kermpt"
     ],
+    "name:eng_x_variant":[
+        "Kermt"
+    ],
     "name:fra_x_preferred":[
         "Kermt"
     ],
@@ -86,7 +89,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1561831426,
+    "wof:lastmodified":1563235399,
     "wof:name":"Kermt",
     "wof:parent_id":1108830649,
     "wof:placetype":"locality",

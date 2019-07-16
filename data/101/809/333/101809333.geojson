@@ -16,7 +16,13 @@
     "mps:longitude":3.400629,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:cat_x_preferred":[
+        "Wakken"
+    ],
     "name:ceb_x_preferred":[
+        "Wakken"
+    ],
+    "name:deu_x_preferred":[
         "Wakken"
     ],
     "name:eng_x_preferred":[
@@ -24,6 +30,9 @@
     ],
     "name:est_x_preferred":[
         "Wakken"
+    ],
+    "name:fas_x_preferred":[
+        "\u0648\u0627\u06a9\u0646"
     ],
     "name:fra_x_preferred":[
         "Wakken"
@@ -95,7 +104,7 @@
         }
     ],
     "wof:id":101809333,
-    "wof:lastmodified":1561831429,
+    "wof:lastmodified":1563235446,
     "wof:name":"Wakken",
     "wof:parent_id":1108830197,
     "wof:placetype":"locality",

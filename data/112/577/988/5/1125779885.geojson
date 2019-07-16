@@ -21,6 +21,9 @@
     "name:cat_x_preferred":[
         "Rocourt"
     ],
+    "name:dan_x_preferred":[
+        "Rocourt"
+    ],
     "name:deu_x_preferred":[
         "Rocourt"
     ],
@@ -98,7 +101,7 @@
         }
     ],
     "wof:id":1125779885,
-    "wof:lastmodified":1561831489,
+    "wof:lastmodified":1563236101,
     "wof:name":"Rocourt",
     "wof:parent_id":102049941,
     "wof:placetype":"locality",

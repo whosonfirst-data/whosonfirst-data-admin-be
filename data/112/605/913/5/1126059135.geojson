@@ -21,8 +21,14 @@
     "name:bre_x_preferred":[
         "Woesten"
     ],
+    "name:ceb_x_preferred":[
+        "Woesten"
+    ],
     "name:eng_x_preferred":[
         "Woesten"
+    ],
+    "name:fas_x_preferred":[
+        "\u0648\u0648\u0627\u0633\u062a\u0646"
     ],
     "name:fra_x_preferred":[
         "Woesten"
@@ -93,7 +99,7 @@
         }
     ],
     "wof:id":1126059135,
-    "wof:lastmodified":1561831447,
+    "wof:lastmodified":1563235673,
     "wof:name":"Woesten",
     "wof:parent_id":1108830565,
     "wof:placetype":"locality",

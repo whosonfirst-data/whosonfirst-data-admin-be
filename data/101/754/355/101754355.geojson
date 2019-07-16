@@ -29,6 +29,9 @@
     "name:ceb_x_preferred":[
         "Wetteren"
     ],
+    "name:dan_x_preferred":[
+        "Wetteren"
+    ],
     "name:deu_x_preferred":[
         "Wetteren"
     ],
@@ -62,6 +65,9 @@
     "name:lit_x_preferred":[
         "Veterenas"
     ],
+    "name:ltz_x_preferred":[
+        "Wetteren"
+    ],
     "name:nld_x_preferred":[
         "Wetteren"
     ],
@@ -72,6 +78,9 @@
         "Wetteren"
     ],
     "name:oci_x_preferred":[
+        "Wetteren"
+    ],
+    "name:pol_x_preferred":[
         "Wetteren"
     ],
     "name:por_x_preferred":[
@@ -93,6 +102,9 @@
         "Wetteren"
     ],
     "name:swe_x_preferred":[
+        "Wetteren"
+    ],
+    "name:tur_x_preferred":[
         "Wetteren"
     ],
     "name:unk_x_variant":[
@@ -161,7 +173,7 @@
         }
     ],
     "wof:id":101754355,
-    "wof:lastmodified":1561831408,
+    "wof:lastmodified":1563235132,
     "wof:name":"Wetteren",
     "wof:parent_id":1108830329,
     "wof:placetype":"locality",

@@ -29,6 +29,9 @@
     "name:ceb_x_preferred":[
         "Kortemark"
     ],
+    "name:ces_x_preferred":[
+        "Kortemark"
+    ],
     "name:deu_x_preferred":[
         "Kortemark"
     ],
@@ -75,6 +78,9 @@
         "Kortemark"
     ],
     "name:oci_x_preferred":[
+        "Kortemark"
+    ],
+    "name:pol_x_preferred":[
         "Kortemark"
     ],
     "name:por_x_preferred":[
@@ -160,7 +166,7 @@
         }
     ],
     "wof:id":101838873,
-    "wof:lastmodified":1561831423,
+    "wof:lastmodified":1563235363,
     "wof:name":"Kortemark",
     "wof:parent_id":1108830511,
     "wof:placetype":"locality",

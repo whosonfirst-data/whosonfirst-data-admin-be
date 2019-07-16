@@ -20,6 +20,9 @@
     "name:ara_x_preferred":[
         "\u0632\u064a\u0644\u0632\u0627\u062a\u0647"
     ],
+    "name:ast_x_preferred":[
+        "Zelzate"
+    ],
     "name:bre_x_preferred":[
         "Zelzate"
     ],
@@ -30,6 +33,9 @@
         "Zelzate"
     ],
     "name:ceb_x_preferred":[
+        "Zelzate"
+    ],
+    "name:dan_x_preferred":[
         "Zelzate"
     ],
     "name:deu_x_preferred":[
@@ -66,6 +72,9 @@
     "name:jpn_x_preferred":[
         "\u30bc\u30eb\u30b6\u30fc\u30c6"
     ],
+    "name:ltz_x_preferred":[
+        "Zelzate"
+    ],
     "name:nld_x_preferred":[
         "Zelzate"
     ],
@@ -86,6 +95,9 @@
     ],
     "name:ron_x_preferred":[
         "Zelzate"
+    ],
+    "name:rus_x_preferred":[
+        "\u0417\u0435\u043b\u0437\u0430\u0442\u0435"
     ],
     "name:sco_x_preferred":[
         "Zelzate"
@@ -171,7 +183,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1561831421,
+    "wof:lastmodified":1563235333,
     "wof:name":"Zelzate",
     "wof:parent_id":1108830561,
     "wof:placetype":"locality",

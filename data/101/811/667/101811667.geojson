@@ -97,6 +97,9 @@
     "name:war_x_preferred":[
         "Sivry"
     ],
+    "name:wln_x_preferred":[
+        "Chevri"
+    ],
     "name:zho_min_nan_x_preferred":[
         "Sivry"
     ],
@@ -150,7 +153,7 @@
         }
     ],
     "wof:id":101811667,
-    "wof:lastmodified":1561831412,
+    "wof:lastmodified":1563235184,
     "wof:name":"Sivry",
     "wof:parent_id":102049923,
     "wof:placetype":"locality",

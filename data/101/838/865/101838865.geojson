@@ -26,6 +26,12 @@
     "name:cat_x_preferred":[
         "Waasmunster"
     ],
+    "name:ceb_x_preferred":[
+        "Waasmunster"
+    ],
+    "name:dan_x_preferred":[
+        "Waasmunster"
+    ],
     "name:deu_x_preferred":[
         "Waasmunster"
     ],
@@ -47,10 +53,16 @@
     "name:fra_x_preferred":[
         "Waasmunster"
     ],
+    "name:fra_x_variant":[
+        "Waesmunster"
+    ],
     "name:hun_x_preferred":[
         "Waasmunster"
     ],
     "name:ita_x_preferred":[
+        "Waasmunster"
+    ],
+    "name:ltz_x_preferred":[
         "Waasmunster"
     ],
     "name:nld_x_preferred":[
@@ -63,6 +75,9 @@
         "Waasmunster"
     ],
     "name:oci_x_preferred":[
+        "Waasmunster"
+    ],
+    "name:pol_x_preferred":[
         "Waasmunster"
     ],
     "name:por_x_preferred":[
@@ -83,6 +98,9 @@
     "name:spa_x_preferred":[
         "Waasmunster"
     ],
+    "name:swe_x_preferred":[
+        "Waasmunster"
+    ],
     "name:unk_x_variant":[
         "Waesmunster"
     ],
@@ -93,6 +111,9 @@
         "Waasmunster"
     ],
     "name:war_x_preferred":[
+        "Waasmunster"
+    ],
+    "name:wln_x_preferred":[
         "Waasmunster"
     ],
     "name:zho_x_preferred":[
@@ -148,7 +169,7 @@
         }
     ],
     "wof:id":101838865,
-    "wof:lastmodified":1561831426,
+    "wof:lastmodified":1563235404,
     "wof:name":"Waasmunster",
     "wof:parent_id":1108830461,
     "wof:placetype":"locality",

@@ -25,6 +25,9 @@
     "name:cat_x_preferred":[
         "Vresse-sur-Semois"
     ],
+    "name:ceb_x_preferred":[
+        "Vresse-sur-Semois"
+    ],
     "name:deu_x_preferred":[
         "Vresse-sur-Semois"
     ],
@@ -68,6 +71,9 @@
         "Vresse-sur-Semois"
     ],
     "name:oci_x_preferred":[
+        "Vresse-sur-Semois"
+    ],
+    "name:pol_x_preferred":[
         "Vresse-sur-Semois"
     ],
     "name:por_x_preferred":[
@@ -150,7 +156,7 @@
         }
     ],
     "wof:id":101812853,
-    "wof:lastmodified":1561831422,
+    "wof:lastmodified":1563235344,
     "wof:name":"Vresse",
     "wof:parent_id":102049919,
     "wof:placetype":"locality",

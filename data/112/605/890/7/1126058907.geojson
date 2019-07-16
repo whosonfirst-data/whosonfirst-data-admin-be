@@ -21,6 +21,9 @@
     "name:bul_x_preferred":[
         "\u0422\u0438\u0435\u0433\u0435\u043c"
     ],
+    "name:ceb_x_preferred":[
+        "Tiegem"
+    ],
     "name:eng_x_preferred":[
         "Tiegem"
     ],
@@ -102,7 +105,7 @@
         }
     ],
     "wof:id":1126058907,
-    "wof:lastmodified":1561831448,
+    "wof:lastmodified":1563235680,
     "wof:name":"Tiegem",
     "wof:parent_id":1108830475,
     "wof:placetype":"locality",

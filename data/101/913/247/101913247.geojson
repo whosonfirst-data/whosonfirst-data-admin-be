@@ -21,20 +21,59 @@
     "name:afr_x_preferred":[
         "Brussel"
     ],
+    "name:amh_x_preferred":[
+        "\u1265\u1229\u12ad\u1234\u120d \u12a8\u1270\u121b"
+    ],
+    "name:ang_x_preferred":[
+        "Brysel"
+    ],
     "name:ara_x_preferred":[
         "\u0628\u0631\u0648\u0643\u0633\u0644"
     ],
     "name:arc_x_preferred":[
         "\u0712\u072a\u0718\u071f\u0723\u0720"
     ],
+    "name:arg_x_preferred":[
+        "Bruselas"
+    ],
     "name:ast_x_preferred":[
         "Bruseles"
+    ],
+    "name:ast_x_variant":[
+        "Bruxeles"
+    ],
+    "name:ava_x_preferred":[
+        "\u0411\u0440\u044e\u0441\u0441\u0435\u043b\u044c"
+    ],
+    "name:aym_x_preferred":[
+        "Brussel"
+    ],
+    "name:aze_x_preferred":[
+        "Br\u00fcssel"
+    ],
+    "name:bak_x_preferred":[
+        "\u0411\u0440\u044e\u0441\u0441\u0435\u043b\u044c"
+    ],
+    "name:bam_x_preferred":[
+        "Brussels"
+    ],
+    "name:bar_x_preferred":[
+        "Brissl"
     ],
     "name:bel_x_preferred":[
         "\u0411\u0440\u0443\u0441\u044d\u043b\u044c"
     ],
+    "name:bel_x_variant":[
+        "\u0411\u0440\u0443\u0441\u0435\u043b\u044c"
+    ],
+    "name:ben_x_preferred":[
+        "\u09ac\u09cd\u09b0\u09be\u09b8\u09c7\u09b2\u09b8"
+    ],
     "name:bos_x_preferred":[
         "Brisel"
+    ],
+    "name:bre_x_preferred":[
+        "Brusel"
     ],
     "name:bul_x_preferred":[
         "\u0411\u0440\u044e\u043a\u0441\u0435\u043b"
@@ -45,17 +84,44 @@
     "name:cat_x_variant":[
         "Brusel\u00b7les"
     ],
+    "name:cdo_x_preferred":[
+        "Brussel"
+    ],
+    "name:ceb_x_preferred":[
+        "Bruselas"
+    ],
     "name:ces_x_preferred":[
         "Brusel"
     ],
+    "name:che_x_preferred":[
+        "\u0411\u0440\u0443\u0441\u0441\u0435\u043b\u044c"
+    ],
+    "name:chv_x_preferred":[
+        "\u0411\u0440\u044e\u0441\u0441\u0435\u043b\u044c"
+    ],
+    "name:cor_x_preferred":[
+        "Brusselas"
+    ],
+    "name:crh_x_preferred":[
+        "Br\u00fcksel"
+    ],
+    "name:csb_x_preferred":[
+        "Bruksela"
+    ],
     "name:cym_x_preferred":[
         "Brwsel"
+    ],
+    "name:cym_x_variant":[
+        "Dinas Brwsel"
     ],
     "name:dan_x_preferred":[
         "Bruxelles"
     ],
     "name:deu_x_preferred":[
         "Br\u00fcssel"
+    ],
+    "name:diq_x_preferred":[
+        "Bruksel"
     ],
     "name:ell_x_preferred":[
         "\u0392\u03c1\u03c5\u03be\u03ad\u03bb\u03bb\u03b5\u03c2"
@@ -78,8 +144,20 @@
     "name:eus_x_preferred":[
         "Brusela"
     ],
+    "name:ewe_x_preferred":[
+        "Brussels"
+    ],
+    "name:ext_x_preferred":[
+        "Brusselas"
+    ],
+    "name:fao_x_preferred":[
+        "Brussel"
+    ],
     "name:fas_x_preferred":[
         "\u0628\u0631\u0648\u06a9\u0633\u0644"
+    ],
+    "name:fas_x_variant":[
+        "\u0634\u0647\u0631 \u0628\u0631\u0648\u06a9\u0633\u0644"
     ],
     "name:fin_x_preferred":[
         "Bryssel"
@@ -87,11 +165,23 @@
     "name:fra_x_preferred":[
         "Bruxelles"
     ],
+    "name:frp_x_preferred":[
+        "Bruss\u00e8les"
+    ],
+    "name:frr_x_preferred":[
+        "Brussel"
+    ],
     "name:fry_x_preferred":[
         "Brussel"
     ],
+    "name:ful_x_preferred":[
+        "Brussels"
+    ],
     "name:gla_x_preferred":[
         "Bruiseal"
+    ],
+    "name:gla_x_variant":[
+        "A' Bhruiseal"
     ],
     "name:gle_x_preferred":[
         "An Bhruis\u00e9il"
@@ -99,11 +189,32 @@
     "name:glg_x_preferred":[
         "Bruxelas"
     ],
+    "name:gsw_x_preferred":[
+        "Br\u00fcssel"
+    ],
+    "name:guj_x_preferred":[
+        "\u0aac\u0acd\u0ab0\u0ab8\u0ac7\u0ab2\u0acd\u0ab8"
+    ],
+    "name:hak_x_preferred":[
+        "Pu-l\u00fb-set-ng\u00ec"
+    ],
+    "name:hat_x_preferred":[
+        "Briks\u00e8l"
+    ],
     "name:heb_x_preferred":[
         "\u05d1\u05e8\u05d9\u05e1\u05dc"
     ],
+    "name:hin_x_preferred":[
+        "\u092c\u094d\u0930\u0938\u0947\u0932\u094d\u0938"
+    ],
     "name:hrv_x_preferred":[
         "Bruxelles"
+    ],
+    "name:hrv_x_variant":[
+        "Grad Bruxelles"
+    ],
+    "name:hsb_x_preferred":[
+        "Br\u00fcssel"
     ],
     "name:hun_x_preferred":[
         "Br\u00fcsszel"
@@ -111,17 +222,27 @@
     "name:hye_x_preferred":[
         "\u0532\u0580\u0575\u0578\u0582\u057d\u0565\u056c"
     ],
+    "name:hyw_x_preferred":[
+        "\u054a\u0580\u056b\u0582\u0584\u057d\u0567\u056c"
+    ],
     "name:ido_x_preferred":[
         "Bruxel"
     ],
     "name:ido_x_variant":[
         "Bruxelles"
     ],
+    "name:ile_x_preferred":[
+        "Bruxelles"
+    ],
+    "name:ina_x_preferred":[
+        "Brussel"
+    ],
     "name:ind_x_preferred":[
         "Brusel"
     ],
     "name:ind_x_variant":[
-        "Kota Brusel"
+        "Kota Brusel",
+        "Brussel"
     ],
     "name:isl_x_preferred":[
         "Brussel"
@@ -132,20 +253,62 @@
     "name:ita_x_variant":[
         "Citt\u00e0 di Bruxelles"
     ],
+    "name:jam_x_preferred":[
+        "Brosls"
+    ],
     "name:jav_x_preferred":[
         "Brusel"
+    ],
+    "name:jav_x_variant":[
+        "Bruss\u00e9l"
     ],
     "name:jpn_x_preferred":[
         "\u30d6\u30ea\u30e5\u30c3\u30bb\u30eb"
     ],
+    "name:jpn_x_variant":[
+        "\u30d6\u30ea\u30e5\u30c3\u30bb\u30eb\uff1d\u30f4\u30a3\u30eb"
+    ],
+    "name:kaa_x_preferred":[
+        "Bryussel"
+    ],
+    "name:kab_x_preferred":[
+        "Bruxelles"
+    ],
+    "name:kal_x_preferred":[
+        "Bruxelles"
+    ],
+    "name:kan_x_preferred":[
+        "\u0cac\u0ccd\u0cb0\u0cb8\u0ccd\u0cb8\u0cc6\u0cb2\u0ccd\u0cb8\u0ccd"
+    ],
     "name:kat_x_preferred":[
         "\u10d1\u10e0\u10d8\u10e3\u10e1\u10d4\u10da\u10d8"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0411\u0440\u0443\u0441\u0441\u0435\u043b"
+    ],
+    "name:kbd_x_preferred":[
+        "\u0411\u0440\u044e\u0441\u0435\u043b"
+    ],
+    "name:kbp_x_preferred":[
+        "Prukis\u025b\u025bl\u0269"
+    ],
+    "name:kir_x_preferred":[
+        "\u0411\u0440\u044e\u0441\u0441\u0435\u043b\u044c"
+    ],
+    "name:kom_x_preferred":[
+        "\u0411\u0440\u044e\u0441\u0441\u0435\u043b\u044c"
     ],
     "name:kor_x_preferred":[
         "\ube0c\ub93c\uc140"
     ],
+    "name:kor_x_variant":[
+        "\ube0c\ub93c\uc140 \uc2dc"
+    ],
     "name:kur_x_preferred":[
         "Bruksel"
+    ],
+    "name:lad_x_preferred":[
+        "Bruselas"
     ],
     "name:lat_x_preferred":[
         "Bruxellae"
@@ -153,26 +316,83 @@
     "name:lav_x_preferred":[
         "Brisele"
     ],
+    "name:lij_x_preferred":[
+        "Bruxelles"
+    ],
     "name:lim_x_preferred":[
         "Brussel"
+    ],
+    "name:lin_x_preferred":[
+        "Bruxelles"
     ],
     "name:lit_x_preferred":[
         "Briuselis"
     ],
+    "name:lrc_x_preferred":[
+        "\u0628\u0631\u0648\u06af\u0633\u0644"
+    ],
     "name:ltz_x_preferred":[
         "Br\u00e9issel"
+    ],
+    "name:lzh_x_preferred":[
+        "\u5e03\u9b6f\u585e\u723e"
+    ],
+    "name:mal_x_preferred":[
+        "\u0d2c\u0d4d\u0d30\u0d38\u0d7d\u0d38\u0d4d \u0d28\u0d17\u0d30\u0d02"
     ],
     "name:mar_x_preferred":[
         "\u092c\u094d\u0930\u0938\u0947\u0932\u094d\u0938"
     ],
+    "name:mhr_x_preferred":[
+        "\u0411\u0440\u044e\u0441\u0441\u0435\u043b\u044c"
+    ],
     "name:mkd_x_preferred":[
         "\u0411\u0440\u0438\u0441\u0435\u043b"
+    ],
+    "name:mlg_x_preferred":[
+        "Brussel"
+    ],
+    "name:mlt_x_preferred":[
+        "Brussell"
+    ],
+    "name:mon_x_preferred":[
+        "\u0411\u0440\u044e\u0441\u0441\u0435\u043b\u044c"
+    ],
+    "name:mri_x_preferred":[
+        "Paruhi"
+    ],
+    "name:mrj_x_preferred":[
+        "\u0411\u0440\u044e\u0441\u0441\u0435\u043b\u044c"
     ],
     "name:msa_x_preferred":[
         "Brussels"
     ],
+    "name:msa_x_variant":[
+        "Brussel"
+    ],
+    "name:mya_x_preferred":[
+        "\u1018\u101b\u1015\u103a\u1006\u1032\u101c\u103a\u1019\u103c\u102d\u102f\u1037"
+    ],
+    "name:myv_x_preferred":[
+        "\u0411\u0440\u044e\u0441\u0441\u0435\u043b\u044c \u043e\u0448"
+    ],
+    "name:nah_x_preferred":[
+        "Brusel"
+    ],
+    "name:nan_x_preferred":[
+        "Brussels Chh\u012b"
+    ],
+    "name:nap_x_preferred":[
+        "Bruxelles"
+    ],
+    "name:nau_x_preferred":[
+        "Brussels"
+    ],
     "name:nds_x_preferred":[
         "Br\u00fcssel"
+    ],
+    "name:nep_x_preferred":[
+        "\u092c\u094d\u0930\u0938\u0947\u0932\u094d\u0938"
     ],
     "name:nld_x_preferred":[
         "Brussel"
@@ -180,8 +400,41 @@
     "name:nno_x_preferred":[
         "Brussel"
     ],
+    "name:nob_x_preferred":[
+        "Brussel"
+    ],
     "name:nor_x_preferred":[
         "Brussel"
+    ],
+    "name:nov_x_preferred":[
+        "Bruxelles"
+    ],
+    "name:nrm_x_preferred":[
+        "Brusselle"
+    ],
+    "name:nya_x_preferred":[
+        "Brussels"
+    ],
+    "name:oci_x_preferred":[
+        "Bruss\u00e8las"
+    ],
+    "name:oss_x_preferred":[
+        "\u0411\u0440\u044e\u0441\u0441\u0435\u043b\u044c"
+    ],
+    "name:pam_x_preferred":[
+        "Bruselas"
+    ],
+    "name:pap_x_preferred":[
+        "Brusela"
+    ],
+    "name:pcd_x_preferred":[
+        "Brusselle"
+    ],
+    "name:pms_x_preferred":[
+        "Brussel"
+    ],
+    "name:pnb_x_preferred":[
+        "\u0628\u0631\u0633\u0644\u0632"
     ],
     "name:pol_x_preferred":[
         "Bruksela"
@@ -192,14 +445,47 @@
     "name:que_x_preferred":[
         "Brussel"
     ],
+    "name:rmy_x_preferred":[
+        "Brusel"
+    ],
+    "name:roh_x_preferred":[
+        "Br\u00fcssel"
+    ],
     "name:ron_x_preferred":[
         "Bruxelles"
+    ],
+    "name:rue_x_preferred":[
+        "\u0411\u0440\u0443\u0441\u0435\u043b"
     ],
     "name:rus_x_preferred":[
         "\u0411\u0440\u044e\u0441\u0441\u0435\u043b\u044c"
     ],
+    "name:sah_x_preferred":[
+        "\u0411\u0440\u04af\u0441\u0441\u0435\u043b\u044c"
+    ],
+    "name:scn_x_preferred":[
+        "Bruxelles"
+    ],
+    "name:sgs_x_preferred":[
+        "Briuselis"
+    ],
+    "name:sin_x_preferred":[
+        "\u0db6\u0df2\u0dc3\u0dd9\u0dbd\u0dca\u0dc3\u0dca"
+    ],
+    "name:slk_x_preferred":[
+        "Brusel"
+    ],
     "name:slv_x_preferred":[
         "Bruselj"
+    ],
+    "name:sme_x_preferred":[
+        "Bryssel"
+    ],
+    "name:sna_x_preferred":[
+        "Brussels"
+    ],
+    "name:som_x_preferred":[
+        "Boroksel"
     ],
     "name:spa_x_preferred":[
         "Bruselas"
@@ -207,20 +493,65 @@
     "name:sqi_x_preferred":[
         "Brukseli"
     ],
+    "name:srd_x_preferred":[
+        "Bruxelles"
+    ],
+    "name:srn_x_preferred":[
+        "Brusilu"
+    ],
     "name:srp_x_preferred":[
         "\u0411\u0440\u0438\u0441\u0435\u043b"
+    ],
+    "name:stq_x_preferred":[
+        "Brussel"
+    ],
+    "name:swa_x_preferred":[
+        "Brussels"
     ],
     "name:swe_x_preferred":[
         "Bryssel"
     ],
+    "name:szl_x_preferred":[
+        "Bruksela"
+    ],
+    "name:tam_x_preferred":[
+        "\u0baa\u0bbf\u0bb0\u0bc6\u0bb8\u0bcd\u0b9a\u0bb2\u0bcd\u0bb8\u0bcd \u0bae\u0bbe\u0ba8\u0b95\u0bb0\u0bae\u0bcd"
+    ],
+    "name:tat_x_preferred":[
+        "\u0411\u0440\u04af\u0441\u0438\u043b"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c2c\u0c4d\u0c30\u0c38\u0c46\u0c32\u0c4d\u0c38\u0c4d"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0411\u0440\u044e\u0441\u0441\u0435\u043b"
+    ],
     "name:tha_x_preferred":[
         "\u0e1a\u0e23\u0e31\u0e2a\u0e40\u0e0b\u0e25\u0e2a\u0e4c"
+    ],
+    "name:tha_x_variant":[
+        "\u0e19\u0e04\u0e23\u0e1a\u0e23\u0e31\u0e2a\u0e40\u0e0b\u0e25\u0e2a\u0e4c"
+    ],
+    "name:tpi_x_preferred":[
+        "Brussels"
+    ],
+    "name:tuk_x_preferred":[
+        "Brussel"
     ],
     "name:tur_x_preferred":[
         "Br\u00fcksel"
     ],
+    "name:twi_x_preferred":[
+        "Brussels"
+    ],
+    "name:udm_x_preferred":[
+        "\u0411\u0440\u044e\u0441\u0441\u0435\u043b\u044c"
+    ],
     "name:uig_x_preferred":[
         "\u0628\u0631\u064a\u06c7\u0633\u0633\u06d0\u0644"
+    ],
+    "name:uig_x_variant":[
+        "Bryuss\u00e9l"
     ],
     "name:ukr_x_preferred":[
         "\u0411\u0440\u044e\u0441\u0435\u043b\u044c"
@@ -228,14 +559,53 @@
     "name:ukr_x_variant":[
         "\u0411\u0440\u044e\u0441\u0441\u0435\u043b\u044c"
     ],
+    "name:urd_x_preferred":[
+        "\u0628\u0631\u0633\u0644\u0632 \u0634\u06c1\u0631"
+    ],
+    "name:uzb_x_preferred":[
+        "Bryussel"
+    ],
+    "name:vec_x_preferred":[
+        "Borse\u0142a"
+    ],
+    "name:vep_x_preferred":[
+        "Br\u00fcssel'"
+    ],
+    "name:vls_x_preferred":[
+        "Brussel"
+    ],
+    "name:vol_x_preferred":[
+        "Brussel"
+    ],
+    "name:vro_x_preferred":[
+        "Br\u00fcssel"
+    ],
+    "name:war_x_preferred":[
+        "Bruselas"
+    ],
     "name:wln_x_preferred":[
         "Brussele"
+    ],
+    "name:wol_x_preferred":[
+        "Burusel"
     ],
     "name:wuu_x_preferred":[
         "\u5e03\u9c81\u585e\u5c14"
     ],
+    "name:xmf_x_preferred":[
+        "\u10d1\u10e0\u10d8\u10e3\u10e1\u10d4\u10da\u10d8"
+    ],
+    "name:yid_x_preferred":[
+        "\u05d1\u05e8\u05d9\u05e1\u05dc"
+    ],
     "name:yue_x_preferred":[
         "\u5e03\u9b6f\u585e\u723e"
+    ],
+    "name:zea_x_preferred":[
+        "Brussel"
+    ],
+    "name:zho_x_preferred":[
+        "\u5e03\u9c81\u585e\u5c14\u5e02"
     ],
     "ne:ADM0CAP":1.0,
     "ne:ADM0NAME":"Belgium",
@@ -373,7 +743,7 @@
         }
     ],
     "wof:id":101913247,
-    "wof:lastmodified":1505338657,
+    "wof:lastmodified":1563235315,
     "wof:name":"Brussel",
     "wof:parent_id":102049945,
     "wof:placetype":"locality",

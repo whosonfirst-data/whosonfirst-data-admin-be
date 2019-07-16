@@ -46,8 +46,14 @@
     "name:rus_x_preferred":[
         "\u041f\u043b\u0430\u043d\u0441\u0435\u043d\u0443\u0430"
     ],
+    "name:ukr_x_preferred":[
+        "\u041f\u043b\u0430\u043d\u0441\u0435\u043d\u0443\u0430"
+    ],
     "name:unk_x_variant":[
         "Lasne (Plancenoit)"
+    ],
+    "name:zho_x_preferred":[
+        "\u6797\u5821"
     ],
     "qs:a0":"Belgi\u00eb#Belgique#Belgien",
     "qs:a1":"*Brabant wallon",
@@ -99,7 +105,7 @@
         }
     ],
     "wof:id":101810495,
-    "wof:lastmodified":1561831417,
+    "wof:lastmodified":1563235253,
     "wof:name":"Plancenoit",
     "wof:parent_id":102049945,
     "wof:placetype":"locality",

@@ -31,6 +31,9 @@
     "name:epo_x_preferred":[
         "Lissewege"
     ],
+    "name:fas_x_preferred":[
+        "\u0644\u06cc\u0633\u200c\u0648\u06af"
+    ],
     "name:fra_x_preferred":[
         "Lissewege"
     ],
@@ -102,7 +105,7 @@
         }
     ],
     "wof:id":101809435,
-    "wof:lastmodified":1561831430,
+    "wof:lastmodified":1563235459,
     "wof:name":"Lissewege",
     "wof:parent_id":1108830689,
     "wof:placetype":"locality",

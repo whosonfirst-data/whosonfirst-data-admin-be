@@ -26,6 +26,9 @@
     "name:cat_x_preferred":[
         "Geraardsbergen"
     ],
+    "name:ceb_x_preferred":[
+        "Geraardsbergen"
+    ],
     "name:dan_x_preferred":[
         "Geraardsbergen"
     ],
@@ -50,6 +53,9 @@
     "name:fra_x_preferred":[
         "Grammont"
     ],
+    "name:gle_x_preferred":[
+        "Geraardsbergen"
+    ],
     "name:hun_x_preferred":[
         "Geraardsbergen"
     ],
@@ -67,6 +73,9 @@
     ],
     "name:lit_x_preferred":[
         "G\u0117rarsbergenas"
+    ],
+    "name:ltz_x_preferred":[
+        "Geraardsbergen"
     ],
     "name:mkd_x_preferred":[
         "\u0413\u0435\u0440\u0430\u0440\u0434\u0441\u0431\u0435\u0440\u0433\u0435\u043d"
@@ -180,7 +189,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1561831425,
+    "wof:lastmodified":1563235382,
     "wof:name":"Geraardsbergen",
     "wof:parent_id":1108830521,
     "wof:placetype":"locality",

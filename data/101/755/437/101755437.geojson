@@ -37,6 +37,9 @@
     "name:vls_x_preferred":[
         "Scherpnheuvel"
     ],
+    "name:zho_x_preferred":[
+        "\u91cc\u514b\u6851\u8428\u5c14"
+    ],
     "qs:a0":"Belgi\u00eb#Belgique#Belgien",
     "qs:a1":"*Vlaams Brabant",
     "qs:a1r":"0Vlaams Gewest",
@@ -86,7 +89,7 @@
         }
     ],
     "wof:id":101755437,
-    "wof:lastmodified":1561831399,
+    "wof:lastmodified":1563235017,
     "wof:name":"Scherpenheuvel",
     "wof:parent_id":1108830367,
     "wof:placetype":"locality",

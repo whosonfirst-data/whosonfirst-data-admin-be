@@ -36,6 +36,9 @@
     "name:por_x_preferred":[
         "Bouvignes-sur-Meuse"
     ],
+    "name:spa_x_preferred":[
+        "Bouvignes-sur-Meuse"
+    ],
     "name:unk_x_variant":[
         "Bouvignes"
     ],
@@ -94,7 +97,7 @@
         }
     ],
     "wof:id":1125831137,
-    "wof:lastmodified":1561831490,
+    "wof:lastmodified":1563236113,
     "wof:name":"Bouvignes-sur-Meuse",
     "wof:parent_id":102049919,
     "wof:placetype":"locality",

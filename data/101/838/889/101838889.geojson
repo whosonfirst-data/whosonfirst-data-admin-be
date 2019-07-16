@@ -26,6 +26,9 @@
     "name:cat_x_preferred":[
         "Gavere"
     ],
+    "name:ceb_x_preferred":[
+        "Gavere"
+    ],
     "name:deu_x_preferred":[
         "Gavere"
     ],
@@ -51,6 +54,9 @@
         "Gavere"
     ],
     "name:ita_x_preferred":[
+        "Gavere"
+    ],
+    "name:ltz_x_preferred":[
         "Gavere"
     ],
     "name:nld_x_preferred":[
@@ -144,7 +150,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1561831423,
+    "wof:lastmodified":1563235362,
     "wof:name":"Gavere",
     "wof:parent_id":1108830425,
     "wof:placetype":"locality",

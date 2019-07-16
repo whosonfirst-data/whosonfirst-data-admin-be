@@ -22,8 +22,14 @@
     "name:eng_x_preferred":[
         "Poelkapelle"
     ],
+    "name:eng_x_variant":[
+        "Poelcappelle"
+    ],
     "name:fra_x_preferred":[
         "Poelkapelle"
+    ],
+    "name:fra_x_variant":[
+        "Poelcappelle"
     ],
     "name:hun_x_preferred":[
         "Poelkapelle"
@@ -85,7 +91,7 @@
         }
     ],
     "wof:id":101809265,
-    "wof:lastmodified":1561831430,
+    "wof:lastmodified":1563235456,
     "wof:name":"Poelkapelle",
     "wof:parent_id":1108830263,
     "wof:placetype":"locality",

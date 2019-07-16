@@ -20,6 +20,9 @@
     "name:afr_x_preferred":[
         "Bonheiden"
     ],
+    "name:ara_x_preferred":[
+        "\u0628\u0648\u0646\u0647\u064a\u062f\u0627\u0646"
+    ],
     "name:arg_x_preferred":[
         "Bonheiden"
     ],
@@ -124,6 +127,9 @@
     ],
     "name:ita_x_preferred":[
         "Bonheiden"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30dc\u30f3\u30d8\u30a4\u30c7\u30f3"
     ],
     "name:kon_x_preferred":[
         "Bonheiden"
@@ -304,7 +310,7 @@
         }
     ],
     "wof:id":101755645,
-    "wof:lastmodified":1561831398,
+    "wof:lastmodified":1563235006,
     "wof:name":"Bonheiden",
     "wof:parent_id":1108830049,
     "wof:placetype":"locality",

@@ -31,6 +31,9 @@
     "name:eng_x_preferred":[
         "Melsele"
     ],
+    "name:fas_x_preferred":[
+        "\u0645\u0644\u200c\u0633\u0644"
+    ],
     "name:fra_x_preferred":[
         "Melsele"
     ],
@@ -42,6 +45,9 @@
     ],
     "name:swe_x_preferred":[
         "Melsele"
+    ],
+    "name:zho_x_preferred":[
+        "\u9a6c\u5c14\u8d5b\u5c14"
     ],
     "qs:a0":"Belgi\u00eb#Belgique#Belgien",
     "qs:a1":"*Oost-Vlanderen",
@@ -88,7 +94,7 @@
         }
     ],
     "wof:id":101838989,
-    "wof:lastmodified":1561831427,
+    "wof:lastmodified":1563235413,
     "wof:name":"Melsele",
     "wof:parent_id":1108830621,
     "wof:placetype":"locality",

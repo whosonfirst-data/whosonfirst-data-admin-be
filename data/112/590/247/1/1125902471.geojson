@@ -30,6 +30,9 @@
     "name:hun_x_preferred":[
         "Mariembourg"
     ],
+    "name:ita_x_preferred":[
+        "Mariembourg"
+    ],
     "name:nld_x_preferred":[
         "Mariembourg"
     ],
@@ -93,7 +96,7 @@
         }
     ],
     "wof:id":1125902471,
-    "wof:lastmodified":1561831463,
+    "wof:lastmodified":1563235853,
     "wof:name":"Marienbourg",
     "wof:parent_id":102049917,
     "wof:placetype":"locality",

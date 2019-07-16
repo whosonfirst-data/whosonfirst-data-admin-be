@@ -26,6 +26,9 @@
     "name:cat_x_preferred":[
         "Sprimont"
     ],
+    "name:ceb_x_preferred":[
+        "Sprimont"
+    ],
     "name:deu_x_preferred":[
         "Sprimont"
     ],
@@ -84,6 +87,9 @@
         "Sprimont"
     ],
     "name:spa_x_preferred":[
+        "Sprimont"
+    ],
+    "name:swe_x_preferred":[
         "Sprimont"
     ],
     "name:szl_x_preferred":[
@@ -157,7 +163,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1561831405,
+    "wof:lastmodified":1563235093,
     "wof:name":"Sprimont",
     "wof:parent_id":102049941,
     "wof:placetype":"locality",

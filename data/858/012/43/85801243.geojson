@@ -27,12 +27,18 @@
     "name:deu_x_preferred":[
         "Heyselpark"
     ],
+    "name:ell_x_preferred":[
+        "\u03a0\u03ac\u03c1\u03ba\u03bf \u03a7\u03ad\u03b9\u03b6\u03b5\u03bb"
+    ],
     "name:eng_x_preferred":[
         "Heizel"
     ],
     "name:eng_x_variant":[
         "Heysel",
         "Heysel Plateau"
+    ],
+    "name:fas_x_preferred":[
+        "\u0647\u06cc\u0632\u0644 \u067e\u0644\u0627\u062a\u0648"
     ],
     "name:fra_x_preferred":[
         "Heisel"
@@ -52,11 +58,23 @@
     "name:nld_x_variant":[
         "Heizel"
     ],
+    "name:nno_x_preferred":[
+        "Heysel"
+    ],
+    "name:nob_x_preferred":[
+        "Heysel"
+    ],
+    "name:sme_x_preferred":[
+        "Heysel"
+    ],
     "name:spa_x_preferred":[
         "Heysel"
     ],
     "name:swe_x_preferred":[
         "Heysel"
+    ],
+    "name:swe_x_variant":[
+        "Hoboken"
     ],
     "name:unk_x_variant":[
         "Heizel",
@@ -125,7 +143,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1561831362,
+    "wof:lastmodified":1563233945,
     "wof:name":"Heysel",
     "wof:parent_id":101751573,
     "wof:placetype":"neighbourhood",

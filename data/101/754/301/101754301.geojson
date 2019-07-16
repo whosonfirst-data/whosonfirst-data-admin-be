@@ -29,11 +29,17 @@
     "name:ceb_x_preferred":[
         "Deerlijk"
     ],
+    "name:ces_x_preferred":[
+        "Deerlijk"
+    ],
     "name:deu_x_preferred":[
         "Deerlijk"
     ],
     "name:eng_x_preferred":[
         "Deerlyck"
+    ],
+    "name:eng_x_variant":[
+        "Deerlijk"
     ],
     "name:epo_x_preferred":[
         "Deerlijk"
@@ -62,6 +68,9 @@
     "name:lit_x_preferred":[
         "D\u0117rleikas"
     ],
+    "name:ltz_x_preferred":[
+        "Deerlijk"
+    ],
     "name:nld_x_preferred":[
         "Deerlijk"
     ],
@@ -74,6 +83,9 @@
     "name:oci_x_preferred":[
         "Deerlijk"
     ],
+    "name:pol_x_preferred":[
+        "Deerlijk"
+    ],
     "name:por_x_preferred":[
         "Deerlijk"
     ],
@@ -81,6 +93,9 @@
         "Deerlijk"
     ],
     "name:slk_x_preferred":[
+        "Deerlijk"
+    ],
+    "name:spa_x_preferred":[
         "Deerlijk"
     ],
     "name:swe_x_preferred":[
@@ -158,7 +173,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1561831408,
+    "wof:lastmodified":1563235130,
     "wof:name":"Deerlijk",
     "wof:parent_id":1108830557,
     "wof:placetype":"locality",

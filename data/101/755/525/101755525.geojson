@@ -56,8 +56,14 @@
     "name:ita_x_preferred":[
         "Kampenhout"
     ],
+    "name:jpn_x_preferred":[
+        "\u30ab\u30f3\u30da\u30f3\u30db\u30a6\u30c8"
+    ],
     "name:lit_x_preferred":[
         "Kampenhautas"
+    ],
+    "name:ltz_x_preferred":[
+        "Kampenhout"
     ],
     "name:nds_x_preferred":[
         "Kampenhout"
@@ -74,6 +80,9 @@
     "name:oci_x_preferred":[
         "Kampenhout"
     ],
+    "name:pol_x_preferred":[
+        "Kampenhout"
+    ],
     "name:por_x_preferred":[
         "Kampenhout"
     ],
@@ -87,6 +96,9 @@
         "Kampenhout"
     ],
     "name:swe_x_preferred":[
+        "Kampenhout"
+    ],
+    "name:tur_x_preferred":[
         "Kampenhout"
     ],
     "name:unk_x_variant":[
@@ -154,7 +166,7 @@
         }
     ],
     "wof:id":101755525,
-    "wof:lastmodified":1561831407,
+    "wof:lastmodified":1563235115,
     "wof:name":"Kampenhout",
     "wof:parent_id":1108830313,
     "wof:placetype":"locality",

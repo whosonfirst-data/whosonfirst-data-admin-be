@@ -17,6 +17,9 @@
     "mps:longitude":5.785834,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bar_x_preferred":[
+        "Attert"
+    ],
     "name:bre_x_preferred":[
         "Attert"
     ],
@@ -30,6 +33,9 @@
         "Attert"
     ],
     "name:deu_x_preferred":[
+        "Attert"
+    ],
+    "name:eng_x_preferred":[
         "Attert"
     ],
     "name:epo_x_preferred":[
@@ -47,6 +53,9 @@
     "name:fra_x_preferred":[
         "Attert"
     ],
+    "name:hun_x_preferred":[
+        "Attert"
+    ],
     "name:ita_x_preferred":[
         "Attert"
     ],
@@ -59,10 +68,16 @@
     "name:nld_x_preferred":[
         "Attert"
     ],
+    "name:nob_x_preferred":[
+        "Attert"
+    ],
     "name:nor_x_preferred":[
         "Attert"
     ],
     "name:oci_x_preferred":[
+        "Attert"
+    ],
+    "name:pol_x_preferred":[
         "Attert"
     ],
     "name:por_x_preferred":[
@@ -77,7 +92,13 @@
     "name:slk_x_preferred":[
         "Attert"
     ],
+    "name:spa_x_preferred":[
+        "Attert"
+    ],
     "name:swe_x_preferred":[
+        "Attert"
+    ],
+    "name:tur_x_preferred":[
         "Attert"
     ],
     "name:vie_x_preferred":[
@@ -143,7 +164,7 @@
         }
     ],
     "wof:id":101812839,
-    "wof:lastmodified":1527714873,
+    "wof:lastmodified":1563235346,
     "wof:name":"Attert",
     "wof:parent_id":102049909,
     "wof:placetype":"locality",

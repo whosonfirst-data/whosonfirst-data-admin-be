@@ -25,6 +25,9 @@
     "name:eng_x_preferred":[
         "Rollegem"
     ],
+    "name:fas_x_preferred":[
+        "\u0631\u0648\u0644\u06af\u0645"
+    ],
     "name:fra_x_preferred":[
         "Rollegem"
     ],
@@ -97,7 +100,7 @@
         }
     ],
     "wof:id":101809237,
-    "wof:lastmodified":1561831430,
+    "wof:lastmodified":1563235458,
     "wof:name":"Rollegem",
     "wof:parent_id":1108830299,
     "wof:placetype":"locality",

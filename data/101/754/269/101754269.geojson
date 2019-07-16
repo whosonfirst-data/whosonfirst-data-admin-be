@@ -68,6 +68,9 @@
     "name:ita_x_preferred":[
         "Andenne"
     ],
+    "name:jpn_x_preferred":[
+        "\u30a2\u30f3\u30c7\u30f3\u30cc"
+    ],
     "name:lim_x_preferred":[
         "Andenne"
     ],
@@ -89,6 +92,9 @@
     "name:oci_x_preferred":[
         "Andenne"
     ],
+    "name:pol_x_preferred":[
+        "Andenne"
+    ],
     "name:por_x_preferred":[
         "Andenne"
     ],
@@ -108,6 +114,9 @@
         "Andenne"
     ],
     "name:swe_x_preferred":[
+        "Andenne"
+    ],
+    "name:tur_x_preferred":[
         "Andenne"
     ],
     "name:vie_x_preferred":[
@@ -180,7 +189,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1561831409,
+    "wof:lastmodified":1563235144,
     "wof:name":"Andenne",
     "wof:parent_id":102049931,
     "wof:placetype":"locality",

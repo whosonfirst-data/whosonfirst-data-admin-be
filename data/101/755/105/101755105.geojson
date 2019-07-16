@@ -25,10 +25,16 @@
     "name:eng_x_preferred":[
         "Falisolle"
     ],
+    "name:fas_x_preferred":[
+        "\u0641\u0627\u0644\u06cc\u0632\u0648\u0644"
+    ],
     "name:fra_x_preferred":[
         "Falisolle"
     ],
     "name:hun_x_preferred":[
+        "Falisolle"
+    ],
+    "name:ltz_x_preferred":[
         "Falisolle"
     ],
     "name:nld_x_preferred":[
@@ -98,7 +104,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1561831397,
+    "wof:lastmodified":1563234989,
     "wof:name":"Falisolle",
     "wof:parent_id":102049931,
     "wof:placetype":"locality",

@@ -29,6 +29,9 @@
     "name:cat_x_preferred":[
         "Tintigny"
     ],
+    "name:ceb_x_preferred":[
+        "Tintigny"
+    ],
     "name:ces_x_preferred":[
         "Tintigny"
     ],
@@ -77,6 +80,9 @@
     "name:oci_x_preferred":[
         "Tintigny"
     ],
+    "name:pol_x_preferred":[
+        "Tintigny"
+    ],
     "name:por_x_preferred":[
         "Tintigny"
     ],
@@ -87,6 +93,9 @@
         "\u0422\u0435\u043d\u0442\u0438\u043d\u044c\u0438"
     ],
     "name:slk_x_preferred":[
+        "Tintigny"
+    ],
+    "name:spa_x_preferred":[
         "Tintigny"
     ],
     "name:swe_x_preferred":[
@@ -153,7 +162,7 @@
         }
     ],
     "wof:id":101812835,
-    "wof:lastmodified":1561831422,
+    "wof:lastmodified":1563235339,
     "wof:name":"Tintigny",
     "wof:parent_id":102049907,
     "wof:placetype":"locality",

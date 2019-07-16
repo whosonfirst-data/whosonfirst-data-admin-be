@@ -56,6 +56,9 @@
     "name:lit_x_preferred":[
         "Bertemas"
     ],
+    "name:ltz_x_preferred":[
+        "Bertem"
+    ],
     "name:nld_x_preferred":[
         "Bertem"
     ],
@@ -151,7 +154,7 @@
         }
     ],
     "wof:id":101755409,
-    "wof:lastmodified":1561831400,
+    "wof:lastmodified":1563235023,
     "wof:name":"Bertem",
     "wof:parent_id":1108830651,
     "wof:placetype":"locality",

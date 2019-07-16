@@ -29,11 +29,17 @@
     "name:ceb_x_preferred":[
         "Outer"
     ],
+    "name:ceb_x_variant":[
+        "Ninove"
+    ],
     "name:cym_x_preferred":[
         "Ninove"
     ],
     "name:deu_x_preferred":[
         "Ninove"
+    ],
+    "name:ell_x_preferred":[
+        "\u039d\u03af\u03bd\u03bf\u03b2\u03b5"
     ],
     "name:eng_x_preferred":[
         "Ninove"
@@ -53,6 +59,12 @@
     "name:fra_x_preferred":[
         "Ninove"
     ],
+    "name:gle_x_preferred":[
+        "Ninove"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e0\u05d9\u05e0\u05d5\u05d1\u05d4"
+    ],
     "name:hun_x_preferred":[
         "Ninove"
     ],
@@ -64,6 +76,12 @@
     ],
     "name:lit_x_preferred":[
         "Ninov\u0117"
+    ],
+    "name:ltz_x_preferred":[
+        "Ninove"
+    ],
+    "name:mkd_x_preferred":[
+        "\u041d\u0438\u043d\u043e\u0432\u0435"
     ],
     "name:nld_x_preferred":[
         "Ninove"
@@ -167,7 +185,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1561831411,
+    "wof:lastmodified":1563235169,
     "wof:name":"Ninove",
     "wof:parent_id":1108830403,
     "wof:placetype":"locality",

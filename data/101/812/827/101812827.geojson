@@ -95,11 +95,17 @@
     "name:slk_x_preferred":[
         "Chiny"
     ],
+    "name:spa_x_preferred":[
+        "Chiny"
+    ],
     "name:swe_x_preferred":[
         "Chiny"
     ],
     "name:szl_x_preferred":[
         "Gmin Chiny"
+    ],
+    "name:tur_x_preferred":[
+        "Chiny"
     ],
     "name:vie_x_preferred":[
         "Chiny"
@@ -162,7 +168,7 @@
         }
     ],
     "wof:id":101812827,
-    "wof:lastmodified":1561831421,
+    "wof:lastmodified":1563235335,
     "wof:name":"Chiny",
     "wof:parent_id":102049907,
     "wof:placetype":"locality",

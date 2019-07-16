@@ -21,6 +21,9 @@
     "name:cat_x_preferred":[
         "Vaux-sous-Ch\u00e8vremont"
     ],
+    "name:deu_x_preferred":[
+        "Vaux-sous-Ch\u00e8vremont"
+    ],
     "name:eng_x_preferred":[
         "Vaux-sous-Ch\u00e8vremont"
     ],
@@ -93,7 +96,7 @@
         }
     ],
     "wof:id":1125990841,
-    "wof:lastmodified":1561831460,
+    "wof:lastmodified":1563235821,
     "wof:name":"Vaux-sous-Ch\u00e8vremont",
     "wof:parent_id":102049941,
     "wof:placetype":"locality",

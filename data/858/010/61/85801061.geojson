@@ -25,7 +25,13 @@
     "mz:min_zoom":13.0,
     "mz:tier_locality":2,
     "mz:tier_metro":30,
+    "name:bul_x_preferred":[
+        "\u0414\u0438\u0435\u0433\u0435\u043c"
+    ],
     "name:ceb_x_preferred":[
+        "Diegem"
+    ],
+    "name:eng_x_preferred":[
         "Diegem"
     ],
     "name:fra_x_preferred":[
@@ -113,7 +119,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1561831366,
+    "wof:lastmodified":1563233991,
     "wof:name":"Diegem",
     "wof:parent_id":101913231,
     "wof:placetype":"neighbourhood",

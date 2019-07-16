@@ -30,6 +30,9 @@
     "name:hun_x_preferred":[
         "Roborst"
     ],
+    "name:ltz_x_preferred":[
+        "Roborst"
+    ],
     "name:nld_x_preferred":[
         "Roborst"
     ],
@@ -92,7 +95,7 @@
         }
     ],
     "wof:id":1126047111,
-    "wof:lastmodified":1561831450,
+    "wof:lastmodified":1563235704,
     "wof:name":"Roborst",
     "wof:parent_id":1108830583,
     "wof:placetype":"locality",

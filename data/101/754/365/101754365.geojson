@@ -59,6 +59,9 @@
     "name:fra_x_preferred":[
         "Duffel"
     ],
+    "name:heb_x_preferred":[
+        "\u05d3\u05d5\u05e4\u05dc"
+    ],
     "name:hun_x_preferred":[
         "Duffel"
     ],
@@ -76,6 +79,9 @@
     ],
     "name:lit_x_preferred":[
         "Dafelis"
+    ],
+    "name:ltz_x_preferred":[
+        "Duffel"
     ],
     "name:mkd_x_preferred":[
         "\u0414\u0443\u0444\u0435\u043b"
@@ -95,6 +101,9 @@
     "name:oci_x_preferred":[
         "Duffel"
     ],
+    "name:pol_x_preferred":[
+        "Duffel"
+    ],
     "name:por_x_preferred":[
         "Duffel"
     ],
@@ -111,6 +120,9 @@
         "Duffel"
     ],
     "name:swe_x_preferred":[
+        "Duffel"
+    ],
+    "name:szl_x_preferred":[
         "Duffel"
     ],
     "name:vie_x_preferred":[
@@ -178,7 +190,7 @@
         }
     ],
     "wof:id":101754365,
-    "wof:lastmodified":1561831408,
+    "wof:lastmodified":1563235128,
     "wof:name":"Duffel",
     "wof:parent_id":1108830291,
     "wof:placetype":"locality",

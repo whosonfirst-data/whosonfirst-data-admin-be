@@ -17,14 +17,26 @@
     "mps:longitude":4.736368,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u041e\u0441\u0442\u043c\u0430\u043b\u0435"
+    ],
     "name:ceb_x_preferred":[
         "Oostmalle"
     ],
     "name:eng_x_preferred":[
         "Malle"
     ],
+    "name:eng_x_variant":[
+        "Oostmalle"
+    ],
     "name:fra_x_preferred":[
         "Oostmalle"
+    ],
+    "name:hun_x_preferred":[
+        "Oostmalle"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30aa\u30fc\u30b9\u30c8\u30de\u30ec"
     ],
     "name:nld_x_preferred":[
         "Oostmalle"
@@ -84,7 +96,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1561831435,
+    "wof:lastmodified":1563235534,
     "wof:name":"Oostmalle",
     "wof:parent_id":1108830005,
     "wof:placetype":"locality",

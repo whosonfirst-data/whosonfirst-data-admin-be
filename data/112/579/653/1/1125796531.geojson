@@ -24,6 +24,9 @@
     "name:bul_x_preferred":[
         "\u041a\u0430\u0441\u043a\u0435\u0440\u043a\u0435"
     ],
+    "name:ceb_x_preferred":[
+        "Kaaskerke"
+    ],
     "name:eng_x_preferred":[
         "Kaaskerke"
     ],
@@ -102,7 +105,7 @@
         }
     ],
     "wof:id":1125796531,
-    "wof:lastmodified":1561831482,
+    "wof:lastmodified":1563236031,
     "wof:name":"Kaaskerke",
     "wof:parent_id":1108830401,
     "wof:placetype":"locality",

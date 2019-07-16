@@ -29,6 +29,9 @@
     "name:cat_x_preferred":[
         "Grimbergen"
     ],
+    "name:ceb_x_preferred":[
+        "Grimbergen"
+    ],
     "name:dan_x_preferred":[
         "Grimbergen"
     ],
@@ -50,6 +53,9 @@
     "name:fra_x_preferred":[
         "Grimbergen"
     ],
+    "name:gle_x_preferred":[
+        "Grimbergen"
+    ],
     "name:hun_x_preferred":[
         "Grimbergen"
     ],
@@ -67,6 +73,9 @@
     ],
     "name:lit_x_preferred":[
         "Grimbergenas"
+    ],
+    "name:ltz_x_preferred":[
+        "Grimbergen"
     ],
     "name:nld_x_preferred":[
         "Grimbergen"
@@ -99,6 +108,9 @@
         "\u0413\u0440\u0438\u043c\u0431\u0435\u0440\u0433\u0435\u043d"
     ],
     "name:swe_x_preferred":[
+        "Grimbergen"
+    ],
+    "name:tur_x_preferred":[
         "Grimbergen"
     ],
     "name:unk_x_variant":[
@@ -166,7 +178,7 @@
         }
     ],
     "wof:id":101755473,
-    "wof:lastmodified":1561831404,
+    "wof:lastmodified":1563235085,
     "wof:name":"Grimbergen",
     "wof:parent_id":1108830343,
     "wof:placetype":"locality",
