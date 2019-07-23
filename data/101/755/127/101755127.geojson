@@ -46,6 +46,9 @@
     "name:swe_x_preferred":[
         "Obourg"
     ],
+    "name:vls_x_preferred":[
+        "Hulste"
+    ],
     "qs:a0":"Belgi\u00eb#Belgique#Belgien",
     "qs:a1":"*Hainaut",
     "qs:a1r":"0R\u00e9gion wallone",
@@ -96,7 +99,7 @@
         }
     ],
     "wof:id":101755127,
-    "wof:lastmodified":1561831401,
+    "wof:lastmodified":1563235040,
     "wof:name":"Obourg",
     "wof:parent_id":102049933,
     "wof:placetype":"locality",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000426,
-    "geom:area_square_m":3292885.157921,
+    "geom:area_square_m":3292885.157922,
     "geom:bbox":"4.76592850706,51.311794547,4.80740919118,51.3472822477",
     "geom:latitude":51.325928,
     "geom:longitude":4.783327,
@@ -16,8 +16,14 @@
     "mps:longitude":4.789878,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Sint-Jozef"
+    ],
     "name:epo_x_preferred":[
         "Sint-Jozef"
+    ],
+    "name:epo_x_variant":[
+        "Sankt-Jozefo"
     ],
     "name:nld_x_preferred":[
         "Sint-Jozef"
@@ -72,7 +78,7 @@
         }
     ],
     "wof:id":101839089,
-    "wof:lastmodified":1527715399,
+    "wof:lastmodified":1563235532,
     "wof:name":"Sint-Jozef",
     "wof:parent_id":1108830491,
     "wof:placetype":"locality",

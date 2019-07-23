@@ -24,11 +24,29 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":5,
     "mz:tier_metro":30,
+    "name:afr_x_preferred":[
+        "Anderlecht"
+    ],
     "name:ara_x_preferred":[
         "\u0622\u0646\u062f\u0631\u0644\u062e\u062a"
     ],
+    "name:arz_x_preferred":[
+        "\u0627\u0646\u062f\u0631\u0644\u062e\u062a"
+    ],
+    "name:ast_x_preferred":[
+        "Anderlecht"
+    ],
+    "name:bel_x_preferred":[
+        "\u0410\u043d\u0434\u044d\u0440\u043b\u0435\u0445\u0442"
+    ],
     "name:bos_x_preferred":[
         "Anderleht"
+    ],
+    "name:bos_x_variant":[
+        "Anderlecht"
+    ],
+    "name:bre_x_preferred":[
+        "Anderlecht"
     ],
     "name:bul_x_preferred":[
         "\u0410\u043d\u0434\u0435\u0440\u043b\u0435\u0445\u0442"
@@ -36,11 +54,23 @@
     "name:cat_x_preferred":[
         "Anderlecht"
     ],
+    "name:ceb_x_preferred":[
+        "Anderlecht"
+    ],
     "name:ces_x_preferred":[
+        "Anderlecht"
+    ],
+    "name:cym_x_preferred":[
+        "Anderlecht"
+    ],
+    "name:dan_x_preferred":[
         "Anderlecht"
     ],
     "name:deu_x_preferred":[
         "Anderlecht"
+    ],
+    "name:ell_x_preferred":[
+        "\u0386\u03bd\u03c4\u03b5\u03c1\u03bb\u03b5\u03c7\u03c4"
     ],
     "name:eng_x_preferred":[
         "Anderlecht"
@@ -48,14 +78,41 @@
     "name:epo_x_preferred":[
         "Anderlecht"
     ],
+    "name:est_x_preferred":[
+        "Anderlecht"
+    ],
+    "name:eus_x_preferred":[
+        "Anderlecht"
+    ],
+    "name:fao_x_preferred":[
+        "Anderlecht"
+    ],
     "name:fas_x_preferred":[
         "\u0622\u0646\u062f\u0631\u0644\u0634\u062a"
+    ],
+    "name:fin_x_preferred":[
+        "Anderlecht"
     ],
     "name:fra_x_preferred":[
         "Bruxelles (Anderlecht)"
     ],
+    "name:fra_x_variant":[
+        "Anderlecht"
+    ],
+    "name:gle_x_preferred":[
+        "Anderlecht"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05e0\u05d3\u05e8\u05dc\u05db\u05d8"
+    ],
+    "name:hrv_x_preferred":[
+        "Anderlecht"
+    ],
     "name:hun_x_preferred":[
         "Anderlecht"
+    ],
+    "name:hye_x_preferred":[
+        "\u0531\u0576\u0564\u0565\u0580\u056c\u0565\u056d\u057f"
     ],
     "name:ind_x_preferred":[
         "Anderlecht"
@@ -66,8 +123,17 @@
     "name:jpn_x_preferred":[
         "\u30a2\u30f3\u30c7\u30eb\u30ec\u30d2\u30c8"
     ],
+    "name:kal_x_preferred":[
+        "Anderlecht"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d0\u10dc\u10d3\u10d4\u10e0\u10da\u10d4\u10ee\u10e2\u10d8"
+    ],
     "name:kor_x_preferred":[
         "\uc548\ub354\ub808\ud750\ud2b8"
+    ],
+    "name:kor_x_variant":[
+        "\uc548\ub370\ub97c\ub808\ud750\ud2b8"
     ],
     "name:lat_x_preferred":[
         "Anderlacum"
@@ -75,13 +141,34 @@
     "name:lim_x_preferred":[
         "Anderlech"
     ],
+    "name:lmo_x_preferred":[
+        "Anderlecht"
+    ],
+    "name:ltz_x_preferred":[
+        "Anderlecht"
+    ],
+    "name:msa_x_preferred":[
+        "Anderlecht"
+    ],
     "name:nld_x_preferred":[
         "Anderlecht"
     ],
     "name:nld_x_variant":[
         "Brussel (Anderlecht)"
     ],
+    "name:nno_x_preferred":[
+        "Anderlecht"
+    ],
+    "name:nob_x_preferred":[
+        "Anderlecht"
+    ],
+    "name:oci_x_preferred":[
+        "Anderlecht"
+    ],
     "name:pol_x_preferred":[
+        "Anderlecht"
+    ],
+    "name:por_x_preferred":[
         "Anderlecht"
     ],
     "name:ron_x_preferred":[
@@ -89,6 +176,15 @@
     ],
     "name:rus_x_preferred":[
         "\u0410\u043d\u0434\u0435\u0440\u043b\u0435\u0445\u0442"
+    ],
+    "name:sco_x_preferred":[
+        "Anderlecht"
+    ],
+    "name:slk_x_preferred":[
+        "Anderlecht"
+    ],
+    "name:slv_x_preferred":[
+        "Anderlecht"
     ],
     "name:spa_x_preferred":[
         "Anderlecht"
@@ -99,13 +195,34 @@
     "name:swe_x_preferred":[
         "Anderlecht"
     ],
+    "name:szl_x_preferred":[
+        "Anderlecht"
+    ],
     "name:tha_x_preferred":[
         "\u0e2d\u0e31\u0e19\u0e40\u0e14\u0e2d\u0e23\u0e4c\u0e40\u0e25\u0e04\u0e15\u0e4c"
+    ],
+    "name:tur_x_preferred":[
+        "Anderlecht"
     ],
     "name:ukr_x_preferred":[
         "\u0410\u043d\u0434\u0435\u0440\u043b\u0435\u0445\u0442"
     ],
     "name:unk_x_variant":[
+        "Anderlecht"
+    ],
+    "name:urd_x_preferred":[
+        "\u0622\u0646\u062f\u0631\u0644\u06cc\u062e\u062a"
+    ],
+    "name:vie_x_preferred":[
+        "Anderlecht"
+    ],
+    "name:vls_x_preferred":[
+        "Anderlecht"
+    ],
+    "name:vol_x_preferred":[
+        "Anderlecht"
+    ],
+    "name:war_x_preferred":[
         "Anderlecht"
     ],
     "name:wln_x_preferred":[
@@ -177,7 +294,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1527640594,
+    "wof:lastmodified":1563233961,
     "wof:name":"Anderlecht",
     "wof:parent_id":101751573,
     "wof:placetype":"neighbourhood",

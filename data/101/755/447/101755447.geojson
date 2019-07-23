@@ -56,6 +56,9 @@
     "name:ita_x_preferred":[
         "Bekkevoort"
     ],
+    "name:ltz_x_preferred":[
+        "Bekkevoort"
+    ],
     "name:nld_x_preferred":[
         "Bekkevoort"
     ],
@@ -66,6 +69,9 @@
         "Bekkevoort"
     ],
     "name:oci_x_preferred":[
+        "Bekkevoort"
+    ],
+    "name:pol_x_preferred":[
         "Bekkevoort"
     ],
     "name:por_x_preferred":[
@@ -151,7 +157,7 @@
         }
     ],
     "wof:id":101755447,
-    "wof:lastmodified":1561831397,
+    "wof:lastmodified":1563234998,
     "wof:name":"Bekkevoort",
     "wof:parent_id":1108830131,
     "wof:placetype":"locality",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":4519305.79585,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.599482,50.610085,5.599482,50.610085",
     "geom:latitude":50.610085,
     "geom:longitude":5.599482,
@@ -23,11 +23,41 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":14.0,
     "mz:tier_locality":3,
+    "name:bul_x_preferred":[
+        "\u0410\u043d\u0433\u043b\u0435\u0443\u0440"
+    ],
+    "name:ceb_x_preferred":[
+        "Angleur"
+    ],
+    "name:deu_x_preferred":[
+        "Angleur"
+    ],
+    "name:eng_x_preferred":[
+        "Angleur"
+    ],
     "name:fra_x_preferred":[
+        "Angleur"
+    ],
+    "name:hun_x_preferred":[
+        "Angleur"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a2\u30f3\u30b0\u30ed\u30fc"
+    ],
+    "name:ltz_x_preferred":[
+        "Angleur"
+    ],
+    "name:nld_x_preferred":[
+        "Angleur"
+    ],
+    "name:swe_x_preferred":[
         "Angleur"
     ],
     "name:unk_x_variant":[
         "Li\u00e8ge (Angleur)",
+        "Angleur"
+    ],
+    "name:wln_x_preferred":[
         "Angleur"
     ],
     "qs:gn_adm0_cc":"BE",
@@ -63,12 +93,12 @@
     "src:lbl:centroid":"yerbashapes",
     "wd:wordcount":109,
     "wof:belongsto":[
-        85681691,
         102191581,
         85632997,
         404227353,
         101748083,
-        102049941
+        102049941,
+        85681691
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -96,7 +126,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1531862043,
+    "wof:lastmodified":1563233963,
     "wof:name":"Angleur",
     "wof:parent_id":101748083,
     "wof:placetype":"neighbourhood",

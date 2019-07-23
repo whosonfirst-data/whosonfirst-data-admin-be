@@ -32,6 +32,9 @@
     "name:cat_x_preferred":[
         "Lanaken"
     ],
+    "name:ceb_x_preferred":[
+        "Lanaken"
+    ],
     "name:dan_x_preferred":[
         "Lanaken"
     ],
@@ -53,6 +56,12 @@
     "name:fra_x_preferred":[
         "Lanaken"
     ],
+    "name:gle_x_preferred":[
+        "Lanaken"
+    ],
+    "name:heb_x_preferred":[
+        "\u05dc\u05e0\u05d0\u05e7\u05df"
+    ],
     "name:hun_x_preferred":[
         "Lanaken"
     ],
@@ -71,6 +80,9 @@
     "name:lit_x_preferred":[
         "Lanakenas"
     ],
+    "name:ltz_x_preferred":[
+        "Lanaken"
+    ],
     "name:mkd_x_preferred":[
         "\u041b\u0430\u043d\u0430\u043a\u0435\u043d"
     ],
@@ -81,6 +93,9 @@
         "Lanaken"
     ],
     "name:oci_x_preferred":[
+        "Lanaken"
+    ],
+    "name:pol_x_preferred":[
         "Lanaken"
     ],
     "name:por_x_preferred":[
@@ -103,6 +118,9 @@
     ],
     "name:tha_x_preferred":[
         "\u0e25\u0e32\u0e19\u0e32\u0e40\u0e01\u0e34\u0e19"
+    ],
+    "name:tur_x_preferred":[
+        "Lanaken"
     ],
     "name:unk_x_variant":[
         "Lanaeken"
@@ -170,7 +188,7 @@
         }
     ],
     "wof:id":101754295,
-    "wof:lastmodified":1561831409,
+    "wof:lastmodified":1563235142,
     "wof:name":"Lanaken",
     "wof:parent_id":1108830075,
     "wof:placetype":"locality",

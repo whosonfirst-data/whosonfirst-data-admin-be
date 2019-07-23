@@ -26,6 +26,9 @@
     "name:cat_x_preferred":[
         "B\u00fctgenbach"
     ],
+    "name:ceb_x_preferred":[
+        "Butgenbach"
+    ],
     "name:deu_x_preferred":[
         "B\u00fctgenbach"
     ],
@@ -56,6 +59,9 @@
     "name:lim_x_preferred":[
         "B\u00fctgenbach"
     ],
+    "name:lmo_x_preferred":[
+        "B\u00fctgenbach"
+    ],
     "name:ltz_x_preferred":[
         "B\u00fctgenbach"
     ],
@@ -68,6 +74,9 @@
     "name:oci_x_preferred":[
         "B\u00fctgenbach"
     ],
+    "name:pol_x_preferred":[
+        "B\u00fctgenbach"
+    ],
     "name:por_x_preferred":[
         "B\u00fctgenbach"
     ],
@@ -78,6 +87,15 @@
         "\u0411\u044e\u0442\u0433\u0435\u043d\u0431\u0430\u0445"
     ],
     "name:slk_x_preferred":[
+        "B\u00fctgenbach"
+    ],
+    "name:spa_x_preferred":[
+        "B\u00fctgenbach"
+    ],
+    "name:swe_x_preferred":[
+        "Butgenbach"
+    ],
+    "name:tur_x_preferred":[
         "B\u00fctgenbach"
     ],
     "name:vie_x_preferred":[
@@ -144,7 +162,7 @@
         }
     ],
     "wof:id":101810427,
-    "wof:lastmodified":1561831416,
+    "wof:lastmodified":1563235248,
     "wof:name":"B\u00fctgenbach",
     "wof:parent_id":102049935,
     "wof:placetype":"locality",

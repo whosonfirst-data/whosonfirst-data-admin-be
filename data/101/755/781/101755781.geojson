@@ -20,6 +20,21 @@
     "name:afr_x_preferred":[
         "Halle"
     ],
+    "name:ara_x_preferred":[
+        "\u0647\u0627\u0644\u0647"
+    ],
+    "name:arg_x_preferred":[
+        "Halle"
+    ],
+    "name:ast_x_preferred":[
+        "Halle"
+    ],
+    "name:bar_x_preferred":[
+        "Halle"
+    ],
+    "name:bel_x_preferred":[
+        "\u0413\u0430\u043b\u043b\u0435"
+    ],
     "name:bre_x_preferred":[
         "Halle"
     ],
@@ -35,6 +50,12 @@
     "name:che_x_preferred":[
         "\u0413\u0430\u043b\u043b\u0435"
     ],
+    "name:cos_x_preferred":[
+        "Halle"
+    ],
+    "name:cym_x_preferred":[
+        "Halle"
+    ],
     "name:dan_x_preferred":[
         "Halle"
     ],
@@ -43,6 +64,9 @@
     ],
     "name:ell_x_preferred":[
         "\u03a7\u03ac\u03bb\u03bb\u03b5"
+    ],
+    "name:eng_x_preferred":[
+        "Halle"
     ],
     "name:epo_x_preferred":[
         "Halle"
@@ -62,10 +86,34 @@
     "name:fra_x_preferred":[
         "Halle"
     ],
+    "name:frp_x_preferred":[
+        "Halle"
+    ],
     "name:fry_x_preferred":[
         "Halle"
     ],
+    "name:fur_x_preferred":[
+        "Halle"
+    ],
+    "name:gla_x_preferred":[
+        "Halle"
+    ],
+    "name:gle_x_preferred":[
+        "Halle"
+    ],
+    "name:glg_x_preferred":[
+        "Halle"
+    ],
+    "name:gsw_x_preferred":[
+        "Halle"
+    ],
     "name:hbs_x_preferred":[
+        "Halle"
+    ],
+    "name:hrv_x_preferred":[
+        "Halle"
+    ],
+    "name:hsb_x_preferred":[
         "Halle"
     ],
     "name:hun_x_preferred":[
@@ -74,19 +122,55 @@
     "name:hye_x_preferred":[
         "\u0533\u0561\u056c\u056c\u0565"
     ],
+    "name:ido_x_preferred":[
+        "Halle"
+    ],
+    "name:ile_x_preferred":[
+        "Halle"
+    ],
+    "name:ina_x_preferred":[
+        "Halle"
+    ],
+    "name:ind_x_preferred":[
+        "Halle"
+    ],
+    "name:isl_x_preferred":[
+        "Halle"
+    ],
     "name:ita_x_preferred":[
         "Halle"
     ],
     "name:jpn_x_preferred":[
         "\u30cf\u30ec"
     ],
+    "name:kon_x_preferred":[
+        "Halle"
+    ],
     "name:kor_x_preferred":[
         "\ud560\ub808"
+    ],
+    "name:lij_x_preferred":[
+        "Halle"
     ],
     "name:lim_x_preferred":[
         "Halle"
     ],
+    "name:lit_x_preferred":[
+        "Halle"
+    ],
     "name:ltz_x_preferred":[
+        "Halle"
+    ],
+    "name:min_x_preferred":[
+        "Halle"
+    ],
+    "name:mlg_x_preferred":[
+        "Halle"
+    ],
+    "name:msa_x_preferred":[
+        "Halle"
+    ],
+    "name:nap_x_preferred":[
         "Halle"
     ],
     "name:nds_nld_x_preferred":[
@@ -98,7 +182,25 @@
     "name:nld_x_preferred":[
         "Halle"
     ],
+    "name:nno_x_preferred":[
+        "Halle"
+    ],
+    "name:nob_x_preferred":[
+        "Halle"
+    ],
     "name:nor_x_preferred":[
+        "Halle"
+    ],
+    "name:nrm_x_preferred":[
+        "Halle"
+    ],
+    "name:oci_x_preferred":[
+        "Halle"
+    ],
+    "name:pcd_x_preferred":[
+        "Halle"
+    ],
+    "name:pms_x_preferred":[
         "Halle"
     ],
     "name:pol_x_preferred":[
@@ -107,11 +209,20 @@
     "name:por_x_preferred":[
         "Halle"
     ],
+    "name:que_x_preferred":[
+        "Halle"
+    ],
+    "name:roh_x_preferred":[
+        "Halle"
+    ],
     "name:ron_x_preferred":[
         "Halle"
     ],
     "name:rus_x_preferred":[
         "\u0413\u0430\u043b\u043b\u0435"
+    ],
+    "name:scn_x_preferred":[
+        "Halle"
     ],
     "name:sco_x_preferred":[
         "Halle"
@@ -119,7 +230,16 @@
     "name:slk_x_preferred":[
         "Halle"
     ],
+    "name:slv_x_preferred":[
+        "Halle"
+    ],
     "name:spa_x_preferred":[
+        "Halle"
+    ],
+    "name:srd_x_preferred":[
+        "Halle"
+    ],
+    "name:swa_x_preferred":[
         "Halle"
     ],
     "name:swe_x_preferred":[
@@ -131,10 +251,25 @@
     "name:ukr_x_preferred":[
         "\u0413\u0430\u043b\u043b\u0435"
     ],
+    "name:vec_x_preferred":[
+        "Halle"
+    ],
     "name:vie_x_preferred":[
         "Halle"
     ],
+    "name:vls_x_preferred":[
+        "Halle"
+    ],
     "name:vol_x_preferred":[
+        "Halle"
+    ],
+    "name:wln_x_preferred":[
+        "Halle"
+    ],
+    "name:wol_x_preferred":[
+        "Halle"
+    ],
+    "name:zul_x_preferred":[
         "Halle"
     ],
     "qs:a0":"Belgi\u00eb#Belgique#Belgien",
@@ -187,7 +322,7 @@
         }
     ],
     "wof:id":101755781,
-    "wof:lastmodified":1527641706,
+    "wof:lastmodified":1563235112,
     "wof:name":"Halle",
     "wof:parent_id":1108830221,
     "wof:placetype":"locality",

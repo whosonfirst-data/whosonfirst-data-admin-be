@@ -20,6 +20,9 @@
     "name:ara_x_preferred":[
         "\u0645\u0648\u0644\u060c \u0628\u0644\u062c\u064a\u0643\u0627"
     ],
+    "name:ara_x_variant":[
+        "\u0645\u0648\u0644"
+    ],
     "name:bre_x_preferred":[
         "Mol"
     ],
@@ -62,6 +65,9 @@
     "name:fra_x_preferred":[
         "Mol"
     ],
+    "name:gle_x_preferred":[
+        "Mol"
+    ],
     "name:heb_x_preferred":[
         "\u05de\u05d5\u05dc"
     ],
@@ -80,6 +86,9 @@
     "name:lit_x_preferred":[
         "Molas"
     ],
+    "name:ltz_x_preferred":[
+        "Mol"
+    ],
     "name:mkd_x_preferred":[
         "\u041c\u043e\u043b"
     ],
@@ -93,6 +102,9 @@
         "Mol"
     ],
     "name:oci_x_preferred":[
+        "Mol"
+    ],
+    "name:pol_x_preferred":[
         "Mol"
     ],
     "name:por_x_preferred":[
@@ -191,7 +203,7 @@
         }
     ],
     "wof:id":101837615,
-    "wof:lastmodified":1561831432,
+    "wof:lastmodified":1563235489,
     "wof:name":"Mol",
     "wof:parent_id":1108830147,
     "wof:placetype":"locality",

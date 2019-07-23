@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000362,
-    "geom:area_square_m":2819982.077986,
+    "geom:area_square_m":2819982.077987,
     "geom:bbox":"3.88388907387,50.9478847519,3.93924346407,50.9762390208",
     "geom:latitude":50.963489,
     "geom:longitude":3.908023,
@@ -16,6 +16,87 @@
     "mps:longitude":3.902991,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bre_x_preferred":[
+        "Lede"
+    ],
+    "name:bul_x_preferred":[
+        "\u041b\u0435\u0434\u0435"
+    ],
+    "name:cat_x_preferred":[
+        "Lede"
+    ],
+    "name:ceb_x_preferred":[
+        "Lede"
+    ],
+    "name:deu_x_preferred":[
+        "Lede"
+    ],
+    "name:eng_x_preferred":[
+        "Lede"
+    ],
+    "name:epo_x_preferred":[
+        "Lede"
+    ],
+    "name:est_x_preferred":[
+        "Lede"
+    ],
+    "name:eus_x_preferred":[
+        "Lede"
+    ],
+    "name:fas_x_preferred":[
+        "\u0644\u0648\u062f"
+    ],
+    "name:fra_x_preferred":[
+        "Lede"
+    ],
+    "name:hun_x_preferred":[
+        "Lede"
+    ],
+    "name:ita_x_preferred":[
+        "Lede"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ec\u30fc\u30c7"
+    ],
+    "name:ltz_x_preferred":[
+        "Lede"
+    ],
+    "name:nld_x_preferred":[
+        "Lede"
+    ],
+    "name:nob_x_preferred":[
+        "Lede"
+    ],
+    "name:oci_x_preferred":[
+        "Lede"
+    ],
+    "name:pol_x_preferred":[
+        "Lede"
+    ],
+    "name:por_x_preferred":[
+        "Lede"
+    ],
+    "name:ron_x_preferred":[
+        "Lede"
+    ],
+    "name:slk_x_preferred":[
+        "Lede"
+    ],
+    "name:spa_x_preferred":[
+        "Lede"
+    ],
+    "name:vie_x_preferred":[
+        "Lede"
+    ],
+    "name:vol_x_preferred":[
+        "Lede"
+    ],
+    "name:war_x_preferred":[
+        "Lede"
+    ],
+    "name:zho_x_preferred":[
+        "\u83b1\u5fb7"
+    ],
     "qs:a0":"Belgi\u00eb#Belgique#Belgien",
     "qs:a1":"*Oost-Vlanderen",
     "qs:a1r":"0Vlaams Gewest",
@@ -65,7 +146,7 @@
         }
     ],
     "wof:id":101809253,
-    "wof:lastmodified":1497303749,
+    "wof:lastmodified":1563235455,
     "wof:name":"Oordegem",
     "wof:parent_id":1108830331,
     "wof:placetype":"locality",

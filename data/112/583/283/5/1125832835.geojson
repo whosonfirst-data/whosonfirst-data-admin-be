@@ -24,6 +24,9 @@
     "name:fra_x_preferred":[
         "Jeuk"
     ],
+    "name:fra_x_variant":[
+        "Goyer"
+    ],
     "name:hun_x_preferred":[
         "Jeuk"
     ],
@@ -87,7 +90,7 @@
         }
     ],
     "wof:id":1125832835,
-    "wof:lastmodified":1561831489,
+    "wof:lastmodified":1563236109,
     "wof:name":"Jeuk",
     "wof:parent_id":1108830599,
     "wof:placetype":"locality",

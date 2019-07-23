@@ -21,6 +21,9 @@
     "name:eng_x_preferred":[
         "Lacuisine"
     ],
+    "name:fas_x_preferred":[
+        "\u0644\u06a9\u0648\u0626\u06cc\u0632\u06cc\u0646"
+    ],
     "name:fra_x_preferred":[
         "Lacuisine"
     ],
@@ -84,7 +87,7 @@
         }
     ],
     "wof:id":1126022293,
-    "wof:lastmodified":1561831445,
+    "wof:lastmodified":1563235647,
     "wof:name":"Lacuisine",
     "wof:parent_id":102049907,
     "wof:placetype":"locality",

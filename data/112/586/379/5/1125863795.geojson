@@ -18,6 +18,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Daknam"
+    ],
+    "name:deu_x_preferred":[
+        "Daknam"
+    ],
     "name:eng_x_preferred":[
         "Daknam"
     ],
@@ -90,7 +96,7 @@
         }
     ],
     "wof:id":1125863795,
-    "wof:lastmodified":1561831451,
+    "wof:lastmodified":1563235725,
     "wof:name":"Daknam",
     "wof:parent_id":1108830451,
     "wof:placetype":"locality",

@@ -28,6 +28,9 @@
     "name:hun_x_preferred":[
         "Munkzwalm"
     ],
+    "name:ltz_x_preferred":[
+        "Munkzwalm"
+    ],
     "name:nld_x_preferred":[
         "Munkzwalm"
     ],
@@ -82,7 +85,7 @@
         }
     ],
     "wof:id":101838719,
-    "wof:lastmodified":1561831427,
+    "wof:lastmodified":1563235413,
     "wof:name":"Munkzwalm",
     "wof:parent_id":1108830583,
     "wof:placetype":"locality",

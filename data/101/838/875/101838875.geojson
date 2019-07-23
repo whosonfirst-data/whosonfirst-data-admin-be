@@ -31,6 +31,9 @@
     "name:hun_x_preferred":[
         "Handzame"
     ],
+    "name:jpn_x_preferred":[
+        "\u30cf\u30f3\u30b6\u30fc\u30e1"
+    ],
     "name:nld_x_preferred":[
         "Handzame"
     ],
@@ -38,6 +41,9 @@
         "Handzame"
     ],
     "name:por_x_preferred":[
+        "Handzame"
+    ],
+    "name:spa_x_preferred":[
         "Handzame"
     ],
     "name:swe_x_preferred":[
@@ -48,6 +54,9 @@
     ],
     "name:vls_x_preferred":[
         "Handzoame"
+    ],
+    "name:vls_x_variant":[
+        "Ansoame"
     ],
     "qs:a0":"Belgi\u00eb#Belgique#Belgien",
     "qs:a1":"*West-Vlanderen",
@@ -99,7 +108,7 @@
         }
     ],
     "wof:id":101838875,
-    "wof:lastmodified":1561831424,
+    "wof:lastmodified":1563235366,
     "wof:name":"Handzame",
     "wof:parent_id":1108830511,
     "wof:placetype":"locality",

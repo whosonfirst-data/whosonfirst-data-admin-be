@@ -215,6 +215,9 @@
     "name:swe_x_preferred":[
         "Overijse"
     ],
+    "name:tur_x_preferred":[
+        "Overijse"
+    ],
     "name:unk_x_variant":[
         "Overyssche"
     ],
@@ -295,7 +298,7 @@
         }
     ],
     "wof:id":101755537,
-    "wof:lastmodified":1561831402,
+    "wof:lastmodified":1563235054,
     "wof:name":"Overijse",
     "wof:parent_id":1108830581,
     "wof:placetype":"locality",

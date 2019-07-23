@@ -28,6 +28,9 @@
     "name:cat_x_preferred":[
         "Frameries"
     ],
+    "name:ceb_x_preferred":[
+        "Frameries"
+    ],
     "name:deu_x_preferred":[
         "Frameries"
     ],
@@ -53,6 +56,9 @@
         "Frameries"
     ],
     "name:lim_x_preferred":[
+        "Frameries"
+    ],
+    "name:ltz_x_preferred":[
         "Frameries"
     ],
     "name:nld_x_preferred":[
@@ -161,7 +167,7 @@
         }
     ],
     "wof:id":1126049755,
-    "wof:lastmodified":1561831450,
+    "wof:lastmodified":1563235705,
     "wof:name":"Frameries",
     "wof:parent_id":102049933,
     "wof:placetype":"locality",

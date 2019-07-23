@@ -26,6 +26,9 @@
     "name:cat_x_preferred":[
         "Tenneville"
     ],
+    "name:ceb_x_preferred":[
+        "Tenneville"
+    ],
     "name:deu_x_preferred":[
         "Tenneville"
     ],
@@ -74,6 +77,9 @@
     "name:oci_x_preferred":[
         "Tenneville"
     ],
+    "name:pol_x_preferred":[
+        "Tenneville"
+    ],
     "name:por_x_preferred":[
         "Tenneville"
     ],
@@ -84,6 +90,12 @@
         "\u0422\u0435\u043d\u0432\u0438\u043b\u044c"
     ],
     "name:slk_x_preferred":[
+        "Tenneville"
+    ],
+    "name:spa_x_preferred":[
+        "Tenneville"
+    ],
+    "name:swe_x_preferred":[
         "Tenneville"
     ],
     "name:vie_x_preferred":[
@@ -150,7 +162,7 @@
         }
     ],
     "wof:id":101811647,
-    "wof:lastmodified":1561831412,
+    "wof:lastmodified":1563235195,
     "wof:name":"Tenneville",
     "wof:parent_id":102049921,
     "wof:placetype":"locality",

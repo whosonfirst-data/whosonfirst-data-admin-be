@@ -24,6 +24,9 @@
     "name:eng_x_preferred":[
         "Ename"
     ],
+    "name:fas_x_preferred":[
+        "\u0627\u0646\u0627\u0645"
+    ],
     "name:fra_x_preferred":[
         "Ename"
     ],
@@ -90,7 +93,7 @@
         }
     ],
     "wof:id":1126058881,
-    "wof:lastmodified":1561831446,
+    "wof:lastmodified":1563235666,
     "wof:name":"Ename",
     "wof:parent_id":1108830311,
     "wof:placetype":"locality",

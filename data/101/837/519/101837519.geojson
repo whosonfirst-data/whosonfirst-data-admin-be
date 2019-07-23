@@ -38,6 +38,9 @@
     "name:ell_x_preferred":[
         "\u03a3\u03cc\u03c4\u03b5\u03b3\u03ba\u03b5\u03bc"
     ],
+    "name:ell_x_variant":[
+        "\u0396\u03cc\u03c4\u03c4\u03b5\u03b3\u03ba\u03b5\u03bc"
+    ],
     "name:eng_x_preferred":[
         "Zottegem"
     ],
@@ -54,6 +57,9 @@
         "\u0632\u062a\u0698\u0645"
     ],
     "name:fra_x_preferred":[
+        "Zottegem"
+    ],
+    "name:gle_x_preferred":[
         "Zottegem"
     ],
     "name:hun_x_preferred":[
@@ -105,6 +111,9 @@
         "Zottegem"
     ],
     "name:swe_x_preferred":[
+        "Zottegem"
+    ],
+    "name:tur_x_preferred":[
         "Zottegem"
     ],
     "name:unk_x_variant":[
@@ -177,7 +186,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1561831432,
+    "wof:lastmodified":1563235478,
     "wof:name":"Zottegem",
     "wof:parent_id":1108830019,
     "wof:placetype":"locality",

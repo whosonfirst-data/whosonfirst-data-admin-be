@@ -21,8 +21,14 @@
     "name:bre_x_preferred":[
         "Pervijze"
     ],
+    "name:ceb_x_preferred":[
+        "Pervijze"
+    ],
     "name:eng_x_preferred":[
         "Pervijze"
+    ],
+    "name:fas_x_preferred":[
+        "\u067e\u0631\u0648\u06cc\u0698\u0647"
     ],
     "name:fra_x_preferred":[
         "Pervyse"
@@ -35,6 +41,9 @@
     ],
     "name:por_x_preferred":[
         "Pervijze"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u0435\u0440\u0432\u0435\u0439\u0437\u0435"
     ],
     "name:swe_x_preferred":[
         "Pervijze"
@@ -99,7 +108,7 @@
         }
     ],
     "wof:id":1126059059,
-    "wof:lastmodified":1561831447,
+    "wof:lastmodified":1563235677,
     "wof:name":"Pervijze",
     "wof:parent_id":1108830401,
     "wof:placetype":"locality",

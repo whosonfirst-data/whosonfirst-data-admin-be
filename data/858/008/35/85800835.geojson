@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":4737904.247974,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.658971,50.619845,5.658971,50.619845",
     "geom:latitude":50.619845,
     "geom:longitude":5.658971,
@@ -24,11 +24,98 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":16.0,
     "mz:tier_locality":3,
+    "name:bre_x_preferred":[
+        "Beyne-Heusay"
+    ],
+    "name:bul_x_preferred":[
+        "\u0411\u0435\u043d \u0419\u043e\u0441\u0435"
+    ],
+    "name:cat_x_preferred":[
+        "Beyne-Heusay"
+    ],
+    "name:ceb_x_preferred":[
+        "Beyne-Heusay"
+    ],
+    "name:deu_x_preferred":[
+        "Beyne-Heusay"
+    ],
+    "name:eng_x_preferred":[
+        "Beyne-Heusay"
+    ],
+    "name:epo_x_preferred":[
+        "Beyne-Heusay"
+    ],
+    "name:eus_x_preferred":[
+        "Beyne-Heusay"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u0646-\u06cc\u0648\u0632\u0647"
+    ],
     "name:fra_x_preferred":[
+        "Beyne-Heusay"
+    ],
+    "name:glg_x_preferred":[
+        "Beyne-Heusay"
+    ],
+    "name:hun_x_preferred":[
+        "Beyne-Heusay"
+    ],
+    "name:ita_x_preferred":[
+        "Beyne-Heusay"
+    ],
+    "name:lim_x_preferred":[
+        "Beyne-Heusay"
+    ],
+    "name:ltz_x_preferred":[
+        "Beyne-Heusay"
+    ],
+    "name:nld_x_preferred":[
+        "Beyne-Heusay"
+    ],
+    "name:nob_x_preferred":[
+        "Beyne-Heusay"
+    ],
+    "name:oci_x_preferred":[
+        "Beyne-Heusay"
+    ],
+    "name:pol_x_preferred":[
+        "Beyne-Heusay"
+    ],
+    "name:por_x_preferred":[
+        "Beyne-Heusay"
+    ],
+    "name:ron_x_preferred":[
+        "Beyne-Heusay"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0435\u043d-\u0401\u0437\u0435"
+    ],
+    "name:slk_x_preferred":[
+        "Beyne-Heusay"
+    ],
+    "name:spa_x_preferred":[
+        "Beyne-Heusay"
+    ],
+    "name:swe_x_preferred":[
         "Beyne-Heusay"
     ],
     "name:unk_x_variant":[
         "Beyne-Heusay"
+    ],
+    "name:vie_x_preferred":[
+        "Beyne-Heusay"
+    ],
+    "name:vol_x_preferred":[
+        "Beyne-Heusay"
+    ],
+    "name:war_x_preferred":[
+        "Beyne-Heusay"
+    ],
+    "name:wln_x_preferred":[
+        "Binne-Heuzea"
+    ],
+    "name:zho_x_preferred":[
+        "\u8d1d\u6069\u2014\u5384\u6cfd"
     ],
     "qs:gn_adm0_cc":"BE",
     "qs:gn_fcode":"PPL",
@@ -64,12 +151,12 @@
     "src:population":"geonames",
     "wd:wordcount":82,
     "wof:belongsto":[
-        85681691,
         102191581,
         85632997,
         404227353,
         101748083,
-        102049941
+        102049941,
+        85681691
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -97,7 +184,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1531862046,
+    "wof:lastmodified":1563233968,
     "wof:name":"Beyne-Heusay",
     "wof:parent_id":101748083,
     "wof:placetype":"neighbourhood",

@@ -27,6 +27,9 @@
     "name:fra_x_preferred":[
         "Slijpe"
     ],
+    "name:fra_x_variant":[
+        "Slype"
+    ],
     "name:hun_x_preferred":[
         "Slijpe"
     ],
@@ -91,7 +94,7 @@
         }
     ],
     "wof:id":1125906257,
-    "wof:lastmodified":1561831463,
+    "wof:lastmodified":1563235852,
     "wof:name":"Slijpe",
     "wof:parent_id":1108830695,
     "wof:placetype":"locality",

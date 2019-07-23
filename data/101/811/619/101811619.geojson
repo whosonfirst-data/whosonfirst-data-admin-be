@@ -47,17 +47,62 @@
     "name:fra_x_preferred":[
         "Bi\u00e8vre"
     ],
+    "name:hun_x_preferred":[
+        "Bi\u00e8vre"
+    ],
+    "name:ita_x_preferred":[
+        "Bi\u00e8vre"
+    ],
+    "name:lim_x_preferred":[
+        "Bi\u00e8vre"
+    ],
+    "name:ltz_x_preferred":[
+        "Bi\u00e8vre"
+    ],
     "name:nld_x_preferred":[
+        "Bi\u00e8vre"
+    ],
+    "name:nob_x_preferred":[
         "Bi\u00e8vre"
     ],
     "name:nor_x_preferred":[
         "Bi\u00e8vre"
     ],
+    "name:oci_x_preferred":[
+        "Bi\u00e8vre"
+    ],
+    "name:pol_x_preferred":[
+        "Bi\u00e8vre"
+    ],
+    "name:por_x_preferred":[
+        "Bi\u00e8vre"
+    ],
+    "name:ron_x_preferred":[
+        "Bi\u00e8vre"
+    ],
+    "name:slk_x_preferred":[
+        "Bi\u00e8vre"
+    ],
     "name:spa_x_preferred":[
+        "Bi\u00e8vre"
+    ],
+    "name:swe_x_preferred":[
+        "Bi\u00e8vre"
+    ],
+    "name:vie_x_preferred":[
+        "Bi\u00e8vre"
+    ],
+    "name:vol_x_preferred":[
+        "Bi\u00e8vre"
+    ],
+    "name:war_x_preferred":[
         "Bi\u00e8vre"
     ],
     "name:wln_x_preferred":[
         "Bive"
+    ],
+    "name:zho_x_preferred":[
+        "\u6bd4\u8036\u592b\u5c14"
     ],
     "qs:a0":"Belgi\u00eb#Belgique#Belgien",
     "qs:a1":"*Namur",
@@ -107,7 +152,7 @@
         }
     ],
     "wof:id":101811619,
-    "wof:lastmodified":1527642299,
+    "wof:lastmodified":1563235179,
     "wof:name":"Bi\u00e8vre",
     "wof:parent_id":102049919,
     "wof:placetype":"locality",

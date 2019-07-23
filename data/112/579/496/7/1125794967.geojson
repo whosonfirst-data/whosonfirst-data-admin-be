@@ -24,6 +24,9 @@
     "name:cat_x_preferred":[
         "Pollinkhove"
     ],
+    "name:ceb_x_preferred":[
+        "Pollinkhove"
+    ],
     "name:eng_x_preferred":[
         "Pollinkhove"
     ],
@@ -104,7 +107,7 @@
         }
     ],
     "wof:id":1125794967,
-    "wof:lastmodified":1561831482,
+    "wof:lastmodified":1563236020,
     "wof:name":"Pollinkhove",
     "wof:parent_id":1108830073,
     "wof:placetype":"locality",

@@ -30,6 +30,9 @@
     "name:nld_x_preferred":[
         "\u00c9louges"
     ],
+    "name:pcd_x_preferred":[
+        "\u00c9louche"
+    ],
     "qs_pg:aaroncc":"BE",
     "qs_pg:gn_country":"BE",
     "qs_pg:gn_fcode":"PPL",
@@ -82,7 +85,7 @@
         }
     ],
     "wof:id":1126010359,
-    "wof:lastmodified":1561831469,
+    "wof:lastmodified":1563235916,
     "wof:name":"\u00c9louges",
     "wof:parent_id":102049933,
     "wof:placetype":"locality",

@@ -26,6 +26,9 @@
     "name:cat_x_preferred":[
         "Dour"
     ],
+    "name:ceb_x_preferred":[
+        "Dour"
+    ],
     "name:dan_x_preferred":[
         "Dour"
     ],
@@ -77,6 +80,9 @@
     "name:pcd_x_preferred":[
         "Do\u00fb"
     ],
+    "name:pol_x_preferred":[
+        "Dour"
+    ],
     "name:por_x_preferred":[
         "Dour"
     ],
@@ -90,6 +96,9 @@
         "Dour"
     ],
     "name:slv_x_preferred":[
+        "Dour"
+    ],
+    "name:spa_x_preferred":[
         "Dour"
     ],
     "name:swe_x_preferred":[
@@ -166,7 +175,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1561831410,
+    "wof:lastmodified":1563235161,
     "wof:name":"Dour",
     "wof:parent_id":102049933,
     "wof:placetype":"locality",

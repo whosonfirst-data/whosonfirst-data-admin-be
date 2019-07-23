@@ -21,6 +21,9 @@
     "name:bre_x_preferred":[
         "Tihange"
     ],
+    "name:deu_x_preferred":[
+        "Tihange"
+    ],
     "name:eng_x_preferred":[
         "Tihange"
     ],
@@ -88,7 +91,7 @@
         }
     ],
     "wof:id":1126053551,
-    "wof:lastmodified":1561831446,
+    "wof:lastmodified":1563235661,
     "wof:name":"Tihange",
     "wof:parent_id":102049925,
     "wof:placetype":"locality",

@@ -23,7 +23,13 @@
     "name:bul_x_preferred":[
         "\u0416\u0443\u0440\u0431\u0438\u0437"
     ],
+    "name:bul_x_variant":[
+        "\u0416\u044e\u0440\u0431\u0438\u0437"
+    ],
     "name:cat_x_preferred":[
+        "Jurbise"
+    ],
+    "name:ceb_x_preferred":[
         "Jurbise"
     ],
     "name:deu_x_preferred":[
@@ -57,6 +63,9 @@
     "name:lim_x_preferred":[
         "Jurbeke"
     ],
+    "name:ltz_x_preferred":[
+        "Jurbise"
+    ],
     "name:nld_x_preferred":[
         "Jurbeke"
     ],
@@ -71,6 +80,9 @@
     ],
     "name:pcd_x_preferred":[
         "Djurbize"
+    ],
+    "name:pol_x_preferred":[
+        "Jurbise"
     ],
     "name:por_x_preferred":[
         "Jurbise"
@@ -149,7 +161,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1561831401,
+    "wof:lastmodified":1563235036,
     "wof:name":"Jurbise",
     "wof:parent_id":102049933,
     "wof:placetype":"locality",

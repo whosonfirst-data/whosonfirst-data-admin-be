@@ -27,6 +27,18 @@
     "name:bre_x_preferred":[
         "Neder-Over-Heembeek"
     ],
+    "name:cat_x_preferred":[
+        "Neder-Over-Heembeek"
+    ],
+    "name:deu_x_preferred":[
+        "Neder-Over-Heembeek"
+    ],
+    "name:eng_x_preferred":[
+        "Neder-Over-Heembeek"
+    ],
+    "name:epo_x_preferred":[
+        "Neder-Over-Heembeek"
+    ],
     "name:est_x_preferred":[
         "Neder-Over-Heembeek"
     ],
@@ -36,6 +48,15 @@
     "name:fra_x_variant":[
         "Bruxelles (Neder-Over-Heembeek)",
         "Neder-over-Heembeek"
+    ],
+    "name:hun_x_preferred":[
+        "Neder-Over-Heembeek"
+    ],
+    "name:ita_x_preferred":[
+        "Neder-Over-Heembeek"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30cd\u30c7\u30eb\uff1d\u30aa\u30f4\u30a7\u30eb\uff1d\u30a8\u30f3\u30d9\u30fc\u30af"
     ],
     "name:nld_x_preferred":[
         "Neder-Over-Heembeek"
@@ -115,7 +136,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1561831365,
+    "wof:lastmodified":1563233986,
     "wof:name":"Neder-Over-Heembeek",
     "wof:parent_id":101751573,
     "wof:placetype":"neighbourhood",

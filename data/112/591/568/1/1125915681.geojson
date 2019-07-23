@@ -24,6 +24,9 @@
     "name:bul_x_preferred":[
         "\u0414\u0440\u0430\u043d\u043e\u0443\u0442\u0435\u0440"
     ],
+    "name:ceb_x_preferred":[
+        "Dranouter"
+    ],
     "name:eng_x_preferred":[
         "Dranouter"
     ],
@@ -104,7 +107,7 @@
         }
     ],
     "wof:id":1125915681,
-    "wof:lastmodified":1561831466,
+    "wof:lastmodified":1563235883,
     "wof:name":"Dranouter",
     "wof:parent_id":1108830671,
     "wof:placetype":"locality",

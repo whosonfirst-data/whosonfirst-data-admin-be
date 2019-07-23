@@ -21,8 +21,14 @@
     "name:bul_x_preferred":[
         "\u041a\u043e\u0438\u0433\u0435\u043c"
     ],
+    "name:ceb_x_preferred":[
+        "Kooigem"
+    ],
     "name:eng_x_preferred":[
         "Kooigem"
+    ],
+    "name:fas_x_preferred":[
+        "\u06a9\u0648\u06cc\u06cc\u06af\u0645"
     ],
     "name:fra_x_preferred":[
         "Kooigem"
@@ -101,7 +107,7 @@
         }
     ],
     "wof:id":1125776183,
-    "wof:lastmodified":1561831485,
+    "wof:lastmodified":1563236055,
     "wof:name":"Kooigem",
     "wof:parent_id":1108830299,
     "wof:placetype":"locality",

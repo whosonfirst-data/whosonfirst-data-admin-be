@@ -16,6 +16,9 @@
     "mps:longitude":4.953336,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:cat_x_preferred":[
+        "Averbode"
+    ],
     "name:eng_x_preferred":[
         "Averbode"
     ],
@@ -80,7 +83,7 @@
         }
     ],
     "wof:id":101755425,
-    "wof:lastmodified":1561831398,
+    "wof:lastmodified":1563235003,
     "wof:name":"Averbode",
     "wof:parent_id":1108830367,
     "wof:placetype":"locality",

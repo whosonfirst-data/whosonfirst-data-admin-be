@@ -53,6 +53,9 @@
     "name:fra_x_preferred":[
         "Hoeilaart"
     ],
+    "name:fra_x_variant":[
+        "Hoeilaert"
+    ],
     "name:hun_x_preferred":[
         "Hoeilaart"
     ],
@@ -61,6 +64,9 @@
     ],
     "name:lit_x_preferred":[
         "Heilartas"
+    ],
+    "name:ltz_x_preferred":[
+        "Hoeilaart"
     ],
     "name:nld_x_preferred":[
         "Hoeilaart"
@@ -72,6 +78,9 @@
         "Hoeilaart"
     ],
     "name:oci_x_preferred":[
+        "Hoeilaart"
+    ],
+    "name:pol_x_preferred":[
         "Hoeilaart"
     ],
     "name:por_x_preferred":[
@@ -90,6 +99,9 @@
         "Hoeilaart"
     ],
     "name:swe_x_preferred":[
+        "Hoeilaart"
+    ],
+    "name:tur_x_preferred":[
         "Hoeilaart"
     ],
     "name:unk_x_variant":[
@@ -160,7 +172,7 @@
         }
     ],
     "wof:id":101755543,
-    "wof:lastmodified":1561831401,
+    "wof:lastmodified":1563235039,
     "wof:name":"Hoeilaart",
     "wof:parent_id":1108830459,
     "wof:placetype":"locality",

@@ -26,6 +26,9 @@
     "name:cat_x_preferred":[
         "Herentals"
     ],
+    "name:ceb_x_preferred":[
+        "Herentals"
+    ],
     "name:dan_x_preferred":[
         "Herentals"
     ],
@@ -47,14 +50,23 @@
     "name:fra_x_preferred":[
         "Herentals"
     ],
+    "name:gle_x_preferred":[
+        "Herentals"
+    ],
     "name:hun_x_preferred":[
         "Herentals"
     ],
     "name:ita_x_preferred":[
         "Herentals"
     ],
+    "name:jpn_x_preferred":[
+        "\u30d8\u30fc\u30ec\u30f3\u30bf\u30eb\u30b9"
+    ],
     "name:lit_x_preferred":[
         "H\u0117rentalsas"
+    ],
+    "name:ltz_x_preferred":[
+        "Herentals"
     ],
     "name:mkd_x_preferred":[
         "\u0425\u0435\u0440\u0435\u043d\u0442\u0430\u043b\u0441"
@@ -66,6 +78,9 @@
         "Herentals"
     ],
     "name:oci_x_preferred":[
+        "Herentals"
+    ],
+    "name:pol_x_preferred":[
         "Herentals"
     ],
     "name:por_x_preferred":[
@@ -155,7 +170,7 @@
         }
     ],
     "wof:id":101754415,
-    "wof:lastmodified":1561831408,
+    "wof:lastmodified":1563235138,
     "wof:name":"Herentals",
     "wof:parent_id":1108830061,
     "wof:placetype":"locality",

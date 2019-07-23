@@ -26,6 +26,9 @@
     "name:cat_x_preferred":[
         "Beauraing"
     ],
+    "name:ceb_x_preferred":[
+        "Beauraing"
+    ],
     "name:dan_x_preferred":[
         "Beauraing"
     ],
@@ -168,7 +171,7 @@
         }
     ],
     "wof:id":101811595,
-    "wof:lastmodified":1561831411,
+    "wof:lastmodified":1563235175,
     "wof:name":"Beauraing",
     "wof:parent_id":102049919,
     "wof:placetype":"locality",

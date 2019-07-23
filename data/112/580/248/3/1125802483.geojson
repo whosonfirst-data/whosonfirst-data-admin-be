@@ -21,6 +21,9 @@
     "name:bul_x_preferred":[
         "\u0414\u043e\u0445\u0430\u043d"
     ],
+    "name:ceb_x_preferred":[
+        "Dohan"
+    ],
     "name:eng_x_preferred":[
         "Dohan"
     ],
@@ -99,7 +102,7 @@
         }
     ],
     "wof:id":1125802483,
-    "wof:lastmodified":1561831458,
+    "wof:lastmodified":1563235799,
     "wof:name":"Dohan",
     "wof:parent_id":102049913,
     "wof:placetype":"locality",

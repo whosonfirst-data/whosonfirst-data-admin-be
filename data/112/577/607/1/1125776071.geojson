@@ -21,6 +21,9 @@
     "name:bul_x_preferred":[
         "\u0425\u0439\u043e\u043d"
     ],
+    "name:ceb_x_preferred":[
+        "Hyon"
+    ],
     "name:eng_x_preferred":[
         "Hyon"
     ],
@@ -87,7 +90,7 @@
         }
     ],
     "wof:id":1125776071,
-    "wof:lastmodified":1561831488,
+    "wof:lastmodified":1563236094,
     "wof:name":"Hyon",
     "wof:parent_id":102049933,
     "wof:placetype":"locality",

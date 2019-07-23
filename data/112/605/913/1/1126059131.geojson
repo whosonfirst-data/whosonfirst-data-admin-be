@@ -21,6 +21,9 @@
     "name:eng_x_preferred":[
         "Viesville"
     ],
+    "name:fas_x_preferred":[
+        "\u0648\u06cc\u200c\u0627\u0633\u200c\u0648\u06cc\u0644"
+    ],
     "name:fra_x_preferred":[
         "Viesville"
     ],
@@ -85,7 +88,7 @@
         }
     ],
     "wof:id":1126059131,
-    "wof:lastmodified":1561831447,
+    "wof:lastmodified":1563235672,
     "wof:name":"Viesville",
     "wof:parent_id":102049927,
     "wof:placetype":"locality",

@@ -53,6 +53,15 @@
     "name:fra_x_preferred":[
         "Lommel"
     ],
+    "name:gle_x_preferred":[
+        "Lommel"
+    ],
+    "name:glg_x_preferred":[
+        "Lommel"
+    ],
+    "name:heb_x_preferred":[
+        "\u05dc\u05d5\u05de\u05dc"
+    ],
     "name:hun_x_preferred":[
         "Lommel"
     ],
@@ -122,6 +131,9 @@
     "name:tha_x_preferred":[
         "\u0e42\u0e25\u0e21\u0e40\u0e21\u0e34\u0e25"
     ],
+    "name:tur_x_preferred":[
+        "Lommel"
+    ],
     "name:vie_x_preferred":[
         "Lommel"
     ],
@@ -185,7 +197,7 @@
         }
     ],
     "wof:id":101838937,
-    "wof:lastmodified":1561831423,
+    "wof:lastmodified":1563235356,
     "wof:name":"Lommel",
     "wof:parent_id":1108830169,
     "wof:placetype":"locality",

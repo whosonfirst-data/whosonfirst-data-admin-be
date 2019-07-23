@@ -38,6 +38,9 @@
     "name:eng_x_preferred":[
         "Laroche"
     ],
+    "name:eng_x_variant":[
+        "La Roche-en-Ardenne"
+    ],
     "name:epo_x_preferred":[
         "La Roche-en-Ardenne"
     ],
@@ -83,6 +86,9 @@
     "name:oci_x_preferred":[
         "La Roche-en-Ardenne"
     ],
+    "name:pol_x_preferred":[
+        "La Roche-en-Ardenne"
+    ],
     "name:por_x_preferred":[
         "La Roche-en-Ardenne"
     ],
@@ -96,6 +102,9 @@
         "\u041b\u0430 \u0420\u043e\u0448-\u0430\u043d-\u0410\u0440\u0434\u0435\u043d"
     ],
     "name:slk_x_preferred":[
+        "La Roche-en-Ardenne"
+    ],
+    "name:spa_x_preferred":[
         "La Roche-en-Ardenne"
     ],
     "name:swe_x_preferred":[
@@ -172,7 +181,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1561831413,
+    "wof:lastmodified":1563235203,
     "wof:name":"La Roche-en-Ardenne",
     "wof:parent_id":102049921,
     "wof:placetype":"locality",

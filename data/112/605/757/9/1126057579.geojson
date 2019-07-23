@@ -27,6 +27,9 @@
     "name:cat_x_preferred":[
         "Lasne"
     ],
+    "name:ceb_x_preferred":[
+        "Lasne"
+    ],
     "name:deu_x_preferred":[
         "Lasne"
     ],
@@ -156,7 +159,7 @@
         }
     ],
     "wof:id":1126057579,
-    "wof:lastmodified":1561831448,
+    "wof:lastmodified":1563235677,
     "wof:name":"Lasne-Chapelle-St.-Lambert",
     "wof:parent_id":102049945,
     "wof:placetype":"locality",

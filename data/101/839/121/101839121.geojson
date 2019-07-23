@@ -53,6 +53,9 @@
     "name:lit_x_preferred":[
         "Lil\u0117"
     ],
+    "name:ltz_x_preferred":[
+        "Lille"
+    ],
     "name:nld_x_preferred":[
         "Lille"
     ],
@@ -70,6 +73,9 @@
     ],
     "name:ron_x_preferred":[
         "Lille"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u0438\u043b\u043b\u044c"
     ],
     "name:slk_x_preferred":[
         "Lille"
@@ -141,7 +147,7 @@
         }
     ],
     "wof:id":101839121,
-    "wof:lastmodified":1561831434,
+    "wof:lastmodified":1563235523,
     "wof:name":"Lille",
     "wof:parent_id":1108830113,
     "wof:placetype":"locality",

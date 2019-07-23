@@ -25,6 +25,9 @@
     "name:eng_x_preferred":[
         "Vlezenbeek"
     ],
+    "name:fas_x_preferred":[
+        "\u0648\u0644\u0632\u0646\u0628\u06cc\u06cc\u06a9"
+    ],
     "name:fra_x_preferred":[
         "Vlezenbeek"
     ],
@@ -89,7 +92,7 @@
         }
     ],
     "wof:id":101755491,
-    "wof:lastmodified":1561831400,
+    "wof:lastmodified":1563235031,
     "wof:name":"Vlezenbeek",
     "wof:parent_id":1108830529,
     "wof:placetype":"locality",

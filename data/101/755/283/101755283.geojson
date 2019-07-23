@@ -19,6 +19,9 @@
     "name:eng_x_preferred":[
         "Locht"
     ],
+    "name:fra_x_preferred":[
+        "Locht"
+    ],
     "name:gle_x_preferred":[
         "Gofraidh Fionn \u00d3 D\u00e1laigh"
     ],
@@ -27,6 +30,12 @@
     ],
     "name:lim_x_preferred":[
         "De Loe\u00ebt"
+    ],
+    "name:ltz_x_preferred":[
+        "Locht"
+    ],
+    "name:nan_x_preferred":[
+        "Locht"
     ],
     "name:nld_x_preferred":[
         "Locht"
@@ -76,7 +85,7 @@
         }
     ],
     "wof:id":101755283,
-    "wof:lastmodified":1561831403,
+    "wof:lastmodified":1563235070,
     "wof:name":"Locht",
     "wof:parent_id":1108830245,
     "wof:placetype":"locality",

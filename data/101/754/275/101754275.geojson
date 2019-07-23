@@ -32,6 +32,12 @@
     "name:ceb_x_preferred":[
         "Vis\u00e9"
     ],
+    "name:ces_x_preferred":[
+        "Vis\u00e9"
+    ],
+    "name:dan_x_preferred":[
+        "Vis\u00e9"
+    ],
     "name:deu_x_preferred":[
         "Vis\u00e9"
     ],
@@ -40,6 +46,9 @@
     ],
     "name:eng_x_preferred":[
         "Wezet"
+    ],
+    "name:eng_x_variant":[
+        "Vis\u00e9"
     ],
     "name:epo_x_preferred":[
         "Vis\u00e9"
@@ -86,6 +95,9 @@
     "name:oci_x_preferred":[
         "Vis\u00e9"
     ],
+    "name:pol_x_preferred":[
+        "Vis\u00e9"
+    ],
     "name:por_x_preferred":[
         "Vis\u00e9"
     ],
@@ -108,6 +120,9 @@
         "Vis\u00e9"
     ],
     "name:swe_x_preferred":[
+        "Vis\u00e9"
+    ],
+    "name:tur_x_preferred":[
         "Vis\u00e9"
     ],
     "name:unk_x_variant":[
@@ -180,7 +195,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1561831409,
+    "wof:lastmodified":1563235138,
     "wof:name":"Vis\u00e9",
     "wof:parent_id":102049941,
     "wof:placetype":"locality",

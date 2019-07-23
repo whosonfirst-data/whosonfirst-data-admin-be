@@ -21,6 +21,9 @@
     "name:eng_x_preferred":[
         "Vosselare"
     ],
+    "name:fas_x_preferred":[
+        "\u0648\u0648\u0633\u0644\u0627\u0631"
+    ],
     "name:fra_x_preferred":[
         "Vosselare"
     ],
@@ -87,7 +90,7 @@
         }
     ],
     "wof:id":1125815185,
-    "wof:lastmodified":1561831453,
+    "wof:lastmodified":1563235743,
     "wof:name":"Vosselare",
     "wof:parent_id":1108830463,
     "wof:placetype":"locality",

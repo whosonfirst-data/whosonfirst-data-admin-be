@@ -30,6 +30,9 @@
     "name:nld_x_preferred":[
         "Belgrade"
     ],
+    "name:swe_x_preferred":[
+        "Belgr\u00e5de"
+    ],
     "name:unk_x_variant":[
         "Namur (Belgrade)"
     ],
@@ -86,7 +89,7 @@
         }
     ],
     "wof:id":1125908555,
-    "wof:lastmodified":1561831463,
+    "wof:lastmodified":1563235857,
     "wof:name":"Belgrade",
     "wof:parent_id":102049931,
     "wof:placetype":"locality",

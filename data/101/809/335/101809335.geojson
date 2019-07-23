@@ -77,6 +77,12 @@
     "name:lim_x_preferred":[
         "Meulebeke"
     ],
+    "name:ltz_x_preferred":[
+        "Meulebeke"
+    ],
+    "name:mkd_x_preferred":[
+        "\u041c\u0435\u0443\u043b\u0435\u0431\u0435\u043a\u0435"
+    ],
     "name:nld_x_preferred":[
         "Meulebeke"
     ],
@@ -100,6 +106,9 @@
     ],
     "name:ron_x_preferred":[
         "Meulebeke"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0451\u043b\u0435\u0431\u0435\u043a"
     ],
     "name:slk_x_preferred":[
         "Meulebeke"
@@ -179,7 +188,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1561831429,
+    "wof:lastmodified":1563235444,
     "wof:name":"Meulebeke",
     "wof:parent_id":1108830089,
     "wof:placetype":"locality",

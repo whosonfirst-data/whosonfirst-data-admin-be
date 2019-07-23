@@ -24,6 +24,12 @@
     "name:bul_x_preferred":[
         "\u041f\u043b\u043e\u0435\u0433\u0441\u0442\u0435\u0440\u0442"
     ],
+    "name:ceb_x_preferred":[
+        "Ploegsteert"
+    ],
+    "name:deu_x_preferred":[
+        "Ploegsteert"
+    ],
     "name:eng_x_preferred":[
         "Ploegsteert"
     ],
@@ -96,7 +102,7 @@
         }
     ],
     "wof:id":1125810757,
-    "wof:lastmodified":1561831453,
+    "wof:lastmodified":1563235748,
     "wof:name":"Ploegsteert",
     "wof:parent_id":1108782559,
     "wof:placetype":"locality",

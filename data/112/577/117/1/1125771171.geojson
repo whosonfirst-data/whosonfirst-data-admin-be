@@ -22,6 +22,9 @@
     "name:afr_x_preferred":[
         "Kuurne"
     ],
+    "name:ara_x_preferred":[
+        "\u0643\u0648\u0631\u0646\u064a"
+    ],
     "name:arg_x_preferred":[
         "Kuurne"
     ],
@@ -38,6 +41,9 @@
         "\u041a\u044c\u043e\u0440\u043d\u0435"
     ],
     "name:cat_x_preferred":[
+        "Kuurne"
+    ],
+    "name:ceb_x_preferred":[
         "Kuurne"
     ],
     "name:ces_x_preferred":[
@@ -304,7 +310,7 @@
         }
     ],
     "wof:id":1125771171,
-    "wof:lastmodified":1561831486,
+    "wof:lastmodified":1563236072,
     "wof:name":"Kuurne",
     "wof:parent_id":1108830327,
     "wof:placetype":"locality",

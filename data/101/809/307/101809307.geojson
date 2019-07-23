@@ -19,6 +19,9 @@
     "name:eng_x_preferred":[
         "Audegem"
     ],
+    "name:eng_x_variant":[
+        "Oudegem"
+    ],
     "name:fra_x_preferred":[
         "Audeghem"
     ],
@@ -83,7 +86,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1561831427,
+    "wof:lastmodified":1563235418,
     "wof:name":"Oudegem",
     "wof:parent_id":1108830417,
     "wof:placetype":"locality",

@@ -29,6 +29,9 @@
     "name:cat_x_preferred":[
         "Ath"
     ],
+    "name:ceb_x_preferred":[
+        "Ath"
+    ],
     "name:ces_x_preferred":[
         "Ath"
     ],
@@ -59,6 +62,9 @@
     "name:fra_x_preferred":[
         "Ath"
     ],
+    "name:gle_x_preferred":[
+        "Ath"
+    ],
     "name:hun_x_preferred":[
         "Ath"
     ],
@@ -79,6 +85,9 @@
     ],
     "name:lit_x_preferred":[
         "Atas"
+    ],
+    "name:ltz_x_preferred":[
+        "Ath"
     ],
     "name:nld_x_preferred":[
         "Aat"
@@ -122,6 +131,9 @@
     "name:swe_x_preferred":[
         "Ath"
     ],
+    "name:tur_x_preferred":[
+        "Ath"
+    ],
     "name:ukr_x_preferred":[
         "\u0410\u0442"
     ],
@@ -139,6 +151,9 @@
     ],
     "name:wln_x_preferred":[
         "Ate"
+    ],
+    "name:zho_x_preferred":[
+        "\u963f\u5854"
     ],
     "qs:a0":"Belgi\u00eb#Belgique#Belgien",
     "qs:a1":"*Hainaut",
@@ -193,7 +208,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1561831426,
+    "wof:lastmodified":1563235407,
     "wof:name":"Ath",
     "wof:parent_id":102049949,
     "wof:placetype":"locality",

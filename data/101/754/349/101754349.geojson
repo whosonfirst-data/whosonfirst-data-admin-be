@@ -28,6 +28,9 @@
     "name:hun_x_preferred":[
         "Grembergen"
     ],
+    "name:ltz_x_preferred":[
+        "Grembergen"
+    ],
     "name:nld_x_preferred":[
         "Grembergen"
     ],
@@ -84,7 +87,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1561831409,
+    "wof:lastmodified":1563235149,
     "wof:name":"Grembergen",
     "wof:parent_id":1108830417,
     "wof:placetype":"locality",

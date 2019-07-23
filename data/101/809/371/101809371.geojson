@@ -68,6 +68,9 @@
     "name:jpn_x_preferred":[
         "\u30ef\u30cf\u30c6\u30d9\u30fc\u30b1"
     ],
+    "name:ltz_x_preferred":[
+        "Wachtebeke"
+    ],
     "name:nld_x_preferred":[
         "Wachtebeke"
     ],
@@ -78,6 +81,9 @@
         "Wachtebeke"
     ],
     "name:oci_x_preferred":[
+        "Wachtebeke"
+    ],
+    "name:pol_x_preferred":[
         "Wachtebeke"
     ],
     "name:por_x_preferred":[
@@ -94,6 +100,9 @@
     ],
     "name:spa_x_preferred":[
         "Wachtebeke"
+    ],
+    "name:spa_x_variant":[
+        "Watchtebeke"
     ],
     "name:swe_x_preferred":[
         "Wachtebeke"
@@ -164,7 +173,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1561831429,
+    "wof:lastmodified":1563235440,
     "wof:name":"Wachtebeke",
     "wof:parent_id":1108830059,
     "wof:placetype":"locality",

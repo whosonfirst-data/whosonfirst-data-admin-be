@@ -38,6 +38,9 @@
     "name:eng_x_preferred":[
         "Thielt"
     ],
+    "name:eng_x_variant":[
+        "Tielt"
+    ],
     "name:epo_x_preferred":[
         "Tielt"
     ],
@@ -73,6 +76,9 @@
     ],
     "name:lit_x_preferred":[
         "Tieltas"
+    ],
+    "name:ltz_x_preferred":[
+        "Tielt"
     ],
     "name:mkd_x_preferred":[
         "\u0422\u0438\u043b\u0442"
@@ -114,6 +120,9 @@
         "Tielt"
     ],
     "name:swe_x_preferred":[
+        "Tielt"
+    ],
+    "name:szl_x_preferred":[
         "Tielt"
     ],
     "name:ukr_x_preferred":[
@@ -192,7 +201,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1561831431,
+    "wof:lastmodified":1563235465,
     "wof:name":"Tielt",
     "wof:parent_id":1108830265,
     "wof:placetype":"locality",

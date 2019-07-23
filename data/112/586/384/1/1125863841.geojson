@@ -21,6 +21,9 @@
     "name:bul_x_preferred":[
         "\u041c\u0438\u0447\u0435\u043b\u0431\u0435\u043a\u0435"
     ],
+    "name:ceb_x_preferred":[
+        "Michelbeke"
+    ],
     "name:eng_x_preferred":[
         "Michelbeke"
     ],
@@ -90,7 +93,7 @@
         }
     ],
     "wof:id":1125863841,
-    "wof:lastmodified":1561831452,
+    "wof:lastmodified":1563235726,
     "wof:name":"Michelbeke",
     "wof:parent_id":1108830545,
     "wof:placetype":"locality",

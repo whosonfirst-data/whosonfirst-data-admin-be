@@ -17,6 +17,9 @@
     "mps:longitude":3.709719,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ast_x_preferred":[
+        "Evergem"
+    ],
     "name:bre_x_preferred":[
         "Evergem"
     ],
@@ -26,11 +29,20 @@
     "name:cat_x_preferred":[
         "Evergem"
     ],
+    "name:ceb_x_preferred":[
+        "Evergem"
+    ],
+    "name:dan_x_preferred":[
+        "Evergem"
+    ],
     "name:deu_x_preferred":[
         "Evergem"
     ],
     "name:eng_x_preferred":[
         "Everghem Rabot"
+    ],
+    "name:eng_x_variant":[
+        "Evergem"
     ],
     "name:epo_x_preferred":[
         "Evergem"
@@ -38,10 +50,16 @@
     "name:est_x_preferred":[
         "Evergem"
     ],
+    "name:eus_x_preferred":[
+        "Evergem"
+    ],
     "name:fas_x_preferred":[
         "\u0627\u06cc\u0648\u0631\u0698\u0645"
     ],
     "name:fra_x_preferred":[
+        "Evergem"
+    ],
+    "name:gle_x_preferred":[
         "Evergem"
     ],
     "name:hun_x_preferred":[
@@ -55,6 +73,9 @@
     ],
     "name:lit_x_preferred":[
         "Ervergemas"
+    ],
+    "name:ltz_x_preferred":[
+        "Evergem"
     ],
     "name:nld_x_preferred":[
         "Evergem"
@@ -90,6 +111,9 @@
         "\u0415\u0432\u0435\u0440\u0433\u0435\u043c"
     ],
     "name:swe_x_preferred":[
+        "Evergem"
+    ],
+    "name:tur_x_preferred":[
         "Evergem"
     ],
     "name:unk_x_variant":[
@@ -162,7 +186,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1561831409,
+    "wof:lastmodified":1563235145,
     "wof:name":"Evergem",
     "wof:parent_id":1108830413,
     "wof:placetype":"locality",

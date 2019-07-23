@@ -20,6 +20,9 @@
     "name:afr_x_preferred":[
         "Soignies"
     ],
+    "name:bel_x_preferred":[
+        "\u0421\u0443\u0430\u043d\u044c\u0456"
+    ],
     "name:bre_x_preferred":[
         "Soignies"
     ],
@@ -62,6 +65,9 @@
     "name:fra_x_preferred":[
         "Soignies"
     ],
+    "name:gle_x_preferred":[
+        "Soignies"
+    ],
     "name:hun_x_preferred":[
         "Soignies"
     ],
@@ -70,6 +76,9 @@
     ],
     "name:jpn_x_preferred":[
         "\u30bd\u30ef\u30cb\u30fc"
+    ],
+    "name:lat_x_preferred":[
+        "Sunniacum"
     ],
     "name:lim_x_preferred":[
         "Zinnik"
@@ -120,6 +129,9 @@
         "Soignies"
     ],
     "name:swe_x_preferred":[
+        "Soignies"
+    ],
+    "name:tur_x_preferred":[
         "Soignies"
     ],
     "name:ukr_x_preferred":[
@@ -192,7 +204,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1561831414,
+    "wof:lastmodified":1563235222,
     "wof:name":"Soignies",
     "wof:parent_id":102049943,
     "wof:placetype":"locality",

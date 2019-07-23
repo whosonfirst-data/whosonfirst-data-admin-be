@@ -24,6 +24,9 @@
     "name:eng_x_preferred":[
         "Duisburg"
     ],
+    "name:fas_x_preferred":[
+        "\u062f\u0648\u0626\u06cc\u0632\u0628\u0631\u06af"
+    ],
     "name:fra_x_preferred":[
         "Duisburg"
     ],
@@ -90,7 +93,7 @@
         }
     ],
     "wof:id":1125777401,
-    "wof:lastmodified":1561831485,
+    "wof:lastmodified":1563236066,
     "wof:name":"Duisburg",
     "wof:parent_id":1108830631,
     "wof:placetype":"locality",

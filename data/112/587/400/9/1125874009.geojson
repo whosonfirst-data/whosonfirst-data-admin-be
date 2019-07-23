@@ -21,6 +21,9 @@
     "name:bul_x_preferred":[
         "\u041d\u0435\u0443\u0444\u0432\u0438\u043b\u0435\u0441"
     ],
+    "name:ceb_x_preferred":[
+        "Neufvilles"
+    ],
     "name:eng_x_preferred":[
         "Neufvilles"
     ],
@@ -88,7 +91,7 @@
         }
     ],
     "wof:id":1125874009,
-    "wof:lastmodified":1561831458,
+    "wof:lastmodified":1563235805,
     "wof:name":"Neufvilles",
     "wof:parent_id":102049943,
     "wof:placetype":"locality",

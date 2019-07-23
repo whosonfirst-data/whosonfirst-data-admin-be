@@ -92,6 +92,9 @@
     "name:oci_x_preferred":[
         "Stavelot"
     ],
+    "name:pol_x_preferred":[
+        "Stavelot"
+    ],
     "name:por_x_preferred":[
         "Stavelot"
     ],
@@ -104,7 +107,13 @@
     "name:slk_x_preferred":[
         "Stavelot"
     ],
+    "name:spa_x_preferred":[
+        "Stavelot"
+    ],
     "name:swe_x_preferred":[
+        "Stavelot"
+    ],
+    "name:tur_x_preferred":[
         "Stavelot"
     ],
     "name:unk_x_variant":[
@@ -174,7 +183,7 @@
         }
     ],
     "wof:id":101811697,
-    "wof:lastmodified":1561831413,
+    "wof:lastmodified":1563235200,
     "wof:name":"Stavelot",
     "wof:parent_id":102049935,
     "wof:placetype":"locality",

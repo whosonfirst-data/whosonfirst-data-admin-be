@@ -38,6 +38,9 @@
     "name:eng_x_preferred":[
         "Cruyshautem"
     ],
+    "name:eng_x_variant":[
+        "Kruishoutem"
+    ],
     "name:epo_x_preferred":[
         "Kruishoutem"
     ],
@@ -62,6 +65,9 @@
     "name:lit_x_preferred":[
         "Kruishoutemas"
     ],
+    "name:ltz_x_preferred":[
+        "Kruishoutem"
+    ],
     "name:nld_x_preferred":[
         "Kruishoutem"
     ],
@@ -72,6 +78,9 @@
         "Kruishoutem"
     ],
     "name:oci_x_preferred":[
+        "Kruishoutem"
+    ],
+    "name:pol_x_preferred":[
         "Kruishoutem"
     ],
     "name:por_x_preferred":[
@@ -161,7 +170,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1561831430,
+    "wof:lastmodified":1563235457,
     "wof:name":"Kruishoutem",
     "wof:parent_id":1108830549,
     "wof:placetype":"locality",

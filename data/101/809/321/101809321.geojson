@@ -22,6 +22,9 @@
     "name:eng_x_preferred":[
         "Zwevezele"
     ],
+    "name:fas_x_preferred":[
+        "\u0632\u0648\u0632\u0644"
+    ],
     "name:fra_x_preferred":[
         "Zwevezele"
     ],
@@ -91,7 +94,7 @@
         }
     ],
     "wof:id":101809321,
-    "wof:lastmodified":1561831431,
+    "wof:lastmodified":1563235466,
     "wof:name":"Zwevezele",
     "wof:parent_id":1108830065,
     "wof:placetype":"locality",

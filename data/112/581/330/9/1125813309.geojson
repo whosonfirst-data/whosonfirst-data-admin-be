@@ -22,6 +22,9 @@
     "name:bul_x_preferred":[
         "\u0425\u0438\u043d\u0433\u0435\u043e\u043d"
     ],
+    "name:ceb_x_preferred":[
+        "Hingeon"
+    ],
     "name:eng_x_preferred":[
         "Hingeon"
     ],
@@ -92,7 +95,7 @@
         }
     ],
     "wof:id":1125813309,
-    "wof:lastmodified":1561831452,
+    "wof:lastmodified":1563235736,
     "wof:name":"Hingeon",
     "wof:parent_id":102049931,
     "wof:placetype":"locality",

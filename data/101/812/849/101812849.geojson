@@ -26,6 +26,9 @@
     "name:cat_x_preferred":[
         "Fauvillers"
     ],
+    "name:ceb_x_preferred":[
+        "Fauvillers"
+    ],
     "name:deu_x_preferred":[
         "Fauvillers"
     ],
@@ -71,6 +74,9 @@
     "name:oci_x_preferred":[
         "Fauvillers"
     ],
+    "name:pol_x_preferred":[
+        "Fauvillers"
+    ],
     "name:por_x_preferred":[
         "Fauvillers"
     ],
@@ -80,7 +86,16 @@
     "name:rus_x_preferred":[
         "\u0424\u043e\u0432\u0438\u043b\u043b\u0435"
     ],
+    "name:rus_x_variant":[
+        "\u0424\u043e\u0432\u0438\u0439\u0435"
+    ],
     "name:slk_x_preferred":[
+        "Fauvillers"
+    ],
+    "name:spa_x_preferred":[
+        "Fauvillers"
+    ],
+    "name:swe_x_preferred":[
         "Fauvillers"
     ],
     "name:vie_x_preferred":[
@@ -147,7 +162,7 @@
         }
     ],
     "wof:id":101812849,
-    "wof:lastmodified":1561831422,
+    "wof:lastmodified":1563235342,
     "wof:name":"Fauvillers",
     "wof:parent_id":102049915,
     "wof:placetype":"locality",

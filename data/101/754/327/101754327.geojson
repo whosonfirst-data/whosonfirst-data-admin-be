@@ -26,6 +26,9 @@
     "name:cat_x_preferred":[
         "Kortenberg"
     ],
+    "name:ceb_x_preferred":[
+        "Kortenberg"
+    ],
     "name:deu_x_preferred":[
         "Kortenberg"
     ],
@@ -44,6 +47,9 @@
     "name:fra_x_preferred":[
         "Kortenberg"
     ],
+    "name:fra_x_variant":[
+        "Cortenbergh"
+    ],
     "name:hun_x_preferred":[
         "Kortenberg"
     ],
@@ -52,6 +58,9 @@
     ],
     "name:lit_x_preferred":[
         "Kortenbergas"
+    ],
+    "name:ltz_x_preferred":[
+        "Kortenberg"
     ],
     "name:nld_x_preferred":[
         "Kortenberg"
@@ -65,16 +74,25 @@
     "name:oci_x_preferred":[
         "Kortenberg"
     ],
+    "name:pol_x_preferred":[
+        "Kortenberg"
+    ],
     "name:por_x_preferred":[
         "Kortenberg"
     ],
     "name:ron_x_preferred":[
         "Kortenberg"
     ],
+    "name:rus_x_preferred":[
+        "\u041a\u043e\u0440\u0442\u0435\u043d\u0431\u0435\u0440\u0433"
+    ],
     "name:slk_x_preferred":[
         "Kortenberg"
     ],
     "name:spa_x_preferred":[
+        "Kortenberg"
+    ],
+    "name:swe_x_preferred":[
         "Kortenberg"
     ],
     "name:unk_x_variant":[
@@ -143,7 +161,7 @@
         }
     ],
     "wof:id":101754327,
-    "wof:lastmodified":1561831410,
+    "wof:lastmodified":1563235166,
     "wof:name":"Kortenberg",
     "wof:parent_id":1108830227,
     "wof:placetype":"locality",

@@ -26,6 +26,9 @@
     "name:cat_x_preferred":[
         "Ellezelles"
     ],
+    "name:ceb_x_preferred":[
+        "Ellezelles"
+    ],
     "name:deu_x_preferred":[
         "Ellezelles"
     ],
@@ -44,6 +47,9 @@
     "name:fra_x_preferred":[
         "Ellezelles"
     ],
+    "name:glg_x_preferred":[
+        "Ellezelles"
+    ],
     "name:hun_x_preferred":[
         "Ellezelles"
     ],
@@ -52,6 +58,9 @@
     ],
     "name:lim_x_preferred":[
         "Elzele"
+    ],
+    "name:ltz_x_preferred":[
+        "Ellezelles"
     ],
     "name:nld_x_preferred":[
         "Elzele"
@@ -67,6 +76,9 @@
     ],
     "name:pcd_x_preferred":[
         "Elz\u00eele"
+    ],
+    "name:pol_x_preferred":[
+        "Ellezelles"
     ],
     "name:por_x_preferred":[
         "Ellezelles"
@@ -151,7 +163,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1561831424,
+    "wof:lastmodified":1563235374,
     "wof:name":"Ellezelles",
     "wof:parent_id":102049949,
     "wof:placetype":"locality",

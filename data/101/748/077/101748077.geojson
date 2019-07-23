@@ -18,14 +18,35 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":6.7,
+    "name:afr_x_preferred":[
+        "Namur"
+    ],
     "name:amh_x_preferred":[
         "\u1293\u1219\u122d"
     ],
     "name:ara_x_preferred":[
         "\u0646\u0627\u0645\u0648\u0631"
     ],
+    "name:ast_x_preferred":[
+        "Namur"
+    ],
+    "name:azb_x_preferred":[
+        "\u0646\u0645\u0648\u0631"
+    ],
+    "name:aze_x_preferred":[
+        "Namur"
+    ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u041d\u0430\u043c\u044e\u0440"
+    ],
+    "name:bel_x_variant":[
+        "\u041d\u0430\u043c\u044e\u0440"
+    ],
+    "name:ben_x_preferred":[
+        "\u09a8\u09be\u09ae\u09cb\u09b0"
+    ],
+    "name:bre_x_preferred":[
+        "Namur"
     ],
     "name:bul_x_preferred":[
         "\u041d\u0430\u043c\u044e\u0440"
@@ -33,10 +54,22 @@
     "name:cat_x_preferred":[
         "Namur"
     ],
+    "name:ceb_x_preferred":[
+        "Namur"
+    ],
     "name:ces_x_preferred":[
         "Namur"
     ],
+    "name:cym_x_preferred":[
+        "Namur"
+    ],
+    "name:dan_x_preferred":[
+        "Namur"
+    ],
     "name:deu_x_preferred":[
+        "Namur"
+    ],
+    "name:diq_x_preferred":[
         "Namur"
     ],
     "name:ell_x_preferred":[
@@ -48,8 +81,20 @@
     "name:epo_x_preferred":[
         "Namuro"
     ],
+    "name:est_x_preferred":[
+        "Namur"
+    ],
+    "name:eus_x_preferred":[
+        "Namur"
+    ],
+    "name:ext_x_preferred":[
+        "Namur"
+    ],
     "name:fas_x_preferred":[
         "\u0646\u0645\u0648\u0631\u060c \u0628\u0644\u0698\u06cc\u06a9"
+    ],
+    "name:fas_x_variant":[
+        "\u0646\u0645\u0648\u0631"
     ],
     "name:fin_x_preferred":[
         "Namur"
@@ -60,11 +105,44 @@
     "name:fra_x_variant":[
         "Jambes"
     ],
+    "name:fry_x_preferred":[
+        "Namen"
+    ],
+    "name:gle_x_preferred":[
+        "Namur"
+    ],
+    "name:glg_x_preferred":[
+        "Namur"
+    ],
+    "name:guj_x_preferred":[
+        "\u0aa8\u0abe\u0aae\u0ac1\u0ab0"
+    ],
     "name:heb_x_preferred":[
         "\u05e0\u05d0\u05de\u05d5\u05e8"
     ],
+    "name:hin_x_preferred":[
+        "\u0928\u093e\u092e\u0941\u0930"
+    ],
+    "name:hrv_x_preferred":[
+        "Namur"
+    ],
+    "name:hun_x_preferred":[
+        "Namur"
+    ],
     "name:hye_x_preferred":[
         "\u0546\u0561\u0574\u0575\u0578\u0582\u0580"
+    ],
+    "name:ido_x_preferred":[
+        "Namur"
+    ],
+    "name:ile_x_preferred":[
+        "Namur"
+    ],
+    "name:ind_x_preferred":[
+        "Namur"
+    ],
+    "name:isl_x_preferred":[
+        "Namur"
     ],
     "name:ita_x_preferred":[
         "Namur"
@@ -72,8 +150,14 @@
     "name:jpn_x_preferred":[
         "\u30ca\u30df\u30e5\u30fc\u30eb"
     ],
+    "name:kan_x_preferred":[
+        "\u0ca8\u0cbe\u0cae\u0cc1\u0cb0\u0ccd"
+    ],
     "name:kor_x_preferred":[
         "\ub098\ubb88\ub974"
+    ],
+    "name:kor_x_variant":[
+        "\ub098\ubb34\ub974"
     ],
     "name:lat_x_preferred":[
         "Namurcum"
@@ -87,14 +171,44 @@
     "name:lit_x_preferred":[
         "Nami\u016bras"
     ],
+    "name:lmo_x_preferred":[
+        "Namur"
+    ],
     "name:ltz_x_preferred":[
         "Namouer"
+    ],
+    "name:mar_x_preferred":[
+        "\u0928\u092e\u0942\u0930"
+    ],
+    "name:mkd_x_preferred":[
+        "\u041d\u0430\u043c\u0443\u0440"
+    ],
+    "name:msa_x_preferred":[
+        "Namur"
+    ],
+    "name:nah_x_preferred":[
+        "Namur"
     ],
     "name:nld_x_preferred":[
         "Namen"
     ],
+    "name:nno_x_preferred":[
+        "Namur"
+    ],
+    "name:nob_x_preferred":[
+        "Namur"
+    ],
     "name:nor_x_preferred":[
         "Namur"
+    ],
+    "name:oci_x_preferred":[
+        "Namur"
+    ],
+    "name:pap_x_preferred":[
+        "Namur"
+    ],
+    "name:pcd_x_preferred":[
+        "Nameur"
     ],
     "name:pnb_x_preferred":[
         "\u0646\u0627\u0645\u0648\u0631"
@@ -111,17 +225,41 @@
     "name:rus_x_preferred":[
         "\u041d\u0430\u043c\u044e\u0440"
     ],
+    "name:sco_x_preferred":[
+        "Namur"
+    ],
+    "name:sin_x_preferred":[
+        "\u0db1\u0db8\u0dd4\u0dbb\u0dca"
+    ],
+    "name:slk_x_preferred":[
+        "Namur"
+    ],
+    "name:slv_x_preferred":[
+        "Namur"
+    ],
     "name:spa_x_preferred":[
         "Namur"
     ],
     "name:srp_x_preferred":[
         "\u041d\u0430\u043c\u0438\u0440"
     ],
+    "name:swa_x_preferred":[
+        "Namur"
+    ],
     "name:swe_x_preferred":[
         "Namur"
     ],
+    "name:tam_x_preferred":[
+        "\u0ba8\u0bae\u0bcd\u0bae\u0bc1\u0bb0\u0bcd"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c28\u0c3e\u0c2e\u0c41\u0c30\u0c4d"
+    ],
     "name:tha_x_preferred":[
         "\u0e19\u0e32\u0e21\u0e39\u0e23\u0e4c"
+    ],
+    "name:tur_x_preferred":[
+        "Namur"
     ],
     "name:ukr_x_preferred":[
         "\u041d\u0430\u043c\u044e\u0440"
@@ -129,8 +267,29 @@
     "name:unk_x_variant":[
         "Namen"
     ],
+    "name:urd_x_preferred":[
+        "\u0646\u0627\u0645\u0648\u0631"
+    ],
+    "name:vec_x_preferred":[
+        "Namur"
+    ],
+    "name:vie_x_preferred":[
+        "Namur"
+    ],
+    "name:vls_x_preferred":[
+        "Noamn"
+    ],
+    "name:vol_x_preferred":[
+        "Namur"
+    ],
+    "name:war_x_preferred":[
+        "Namur"
+    ],
     "name:wln_x_preferred":[
         "Nameur"
+    ],
+    "name:yue_x_preferred":[
+        "\u90a3\u6155\u723e"
     ],
     "name:zho_x_preferred":[
         "\u90a3\u6155\u723e"
@@ -284,7 +443,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1561831417,
+    "wof:lastmodified":1563235265,
     "wof:name":"Namur",
     "wof:parent_id":102049931,
     "wof:placetype":"locality",

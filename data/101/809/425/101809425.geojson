@@ -16,6 +16,9 @@
     "mps:longitude":4.191828,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:deu_x_preferred":[
+        "Vrasene"
+    ],
     "name:eng_x_preferred":[
         "Vrasene"
     ],
@@ -79,7 +82,7 @@
         }
     ],
     "wof:id":101809425,
-    "wof:lastmodified":1561831428,
+    "wof:lastmodified":1563235427,
     "wof:name":"Vrasene",
     "wof:parent_id":1108830621,
     "wof:placetype":"locality",

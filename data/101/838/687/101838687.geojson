@@ -32,6 +32,9 @@
     "name:cat_x_preferred":[
         "Riemst"
     ],
+    "name:ceb_x_preferred":[
+        "Riemst"
+    ],
     "name:dan_x_preferred":[
         "Riemst"
     ],
@@ -70,6 +73,9 @@
     ],
     "name:lit_x_preferred":[
         "Rimstas"
+    ],
+    "name:ltz_x_preferred":[
+        "Riemst"
     ],
     "name:mkd_x_preferred":[
         "\u0420\u0438\u043c\u0441\u0442"
@@ -175,7 +181,7 @@
         }
     ],
     "wof:id":101838687,
-    "wof:lastmodified":1561831424,
+    "wof:lastmodified":1563235365,
     "wof:name":"Riemst",
     "wof:parent_id":1108830103,
     "wof:placetype":"locality",

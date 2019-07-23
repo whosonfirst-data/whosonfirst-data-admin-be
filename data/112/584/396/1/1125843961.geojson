@@ -28,6 +28,9 @@
     "name:cat_x_preferred":[
         "Hemiksem"
     ],
+    "name:ceb_x_preferred":[
+        "Hemiksem"
+    ],
     "name:deu_x_preferred":[
         "Hemiksem"
     ],
@@ -57,6 +60,9 @@
     ],
     "name:lit_x_preferred":[
         "Hemiksemas"
+    ],
+    "name:ltz_x_preferred":[
+        "Hemiksem"
     ],
     "name:nld_x_preferred":[
         "Hemiksem"
@@ -154,7 +160,7 @@
         }
     ],
     "wof:id":1125843961,
-    "wof:lastmodified":1561831483,
+    "wof:lastmodified":1563236033,
     "wof:name":"Hemiksem",
     "wof:parent_id":1108830523,
     "wof:placetype":"locality",

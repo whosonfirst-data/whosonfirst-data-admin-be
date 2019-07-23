@@ -29,6 +29,9 @@
     "name:cat_x_preferred":[
         "Baelen"
     ],
+    "name:ceb_x_preferred":[
+        "Baelen"
+    ],
     "name:deu_x_preferred":[
         "Baelen"
     ],
@@ -71,6 +74,9 @@
     "name:oci_x_preferred":[
         "Baelen"
     ],
+    "name:pol_x_preferred":[
+        "Baelen"
+    ],
     "name:por_x_preferred":[
         "Baelen"
     ],
@@ -80,10 +86,16 @@
     "name:rus_x_preferred":[
         "\u0411\u0430\u043b\u0435\u043d"
     ],
+    "name:rus_x_variant":[
+        "\u0411\u0430\u0435\u043b\u0435\u043d"
+    ],
     "name:slk_x_preferred":[
         "Baelen"
     ],
     "name:spa_x_preferred":[
+        "Baelen"
+    ],
+    "name:swe_x_preferred":[
         "Baelen"
     ],
     "name:vie_x_preferred":[
@@ -150,7 +162,7 @@
         }
     ],
     "wof:id":101755167,
-    "wof:lastmodified":1561831397,
+    "wof:lastmodified":1563234995,
     "wof:name":"Baelen",
     "wof:parent_id":102049935,
     "wof:placetype":"locality",

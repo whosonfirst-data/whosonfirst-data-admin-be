@@ -21,6 +21,9 @@
     "name:bul_x_preferred":[
         "\u0412\u0435\u0440\u0435\u0431\u0440\u043e\u0435\u043a"
     ],
+    "name:ceb_x_preferred":[
+        "Verrebroek"
+    ],
     "name:eng_x_preferred":[
         "Verrebroek"
     ],
@@ -95,7 +98,7 @@
         }
     ],
     "wof:id":1125959667,
-    "wof:lastmodified":1561831443,
+    "wof:lastmodified":1563235634,
     "wof:name":"Verrebroek",
     "wof:parent_id":1108830621,
     "wof:placetype":"locality",

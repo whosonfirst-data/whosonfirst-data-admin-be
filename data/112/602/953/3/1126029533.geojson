@@ -21,8 +21,14 @@
     "name:bul_x_preferred":[
         "\u0411\u0438\u043e\u0443\u043b"
     ],
+    "name:ceb_x_preferred":[
+        "Bioul"
+    ],
     "name:eng_x_preferred":[
         "Bioul"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u06cc\u0648\u0644"
     ],
     "name:fra_x_preferred":[
         "Bioul"
@@ -93,7 +99,7 @@
         }
     ],
     "wof:id":1126029533,
-    "wof:lastmodified":1561831445,
+    "wof:lastmodified":1563235644,
     "wof:name":"Bioul",
     "wof:parent_id":102049919,
     "wof:placetype":"locality",

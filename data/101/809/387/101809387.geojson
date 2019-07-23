@@ -29,7 +29,13 @@
     "name:cat_x_preferred":[
         "Peer"
     ],
+    "name:ceb_x_preferred":[
+        "Peer"
+    ],
     "name:ces_x_preferred":[
+        "Peer"
+    ],
+    "name:dan_x_preferred":[
         "Peer"
     ],
     "name:deu_x_preferred":[
@@ -61,6 +67,9 @@
     ],
     "name:jpn_x_preferred":[
         "\u30d4\u30a2"
+    ],
+    "name:jpn_x_variant":[
+        "\u30af\u30e9\u30a4\u30cd\uff1d\u30d6\u30ed\u30fc\u30b2\u30eb"
     ],
     "name:kor_x_preferred":[
         "\ud53c\uc5b4"
@@ -169,7 +178,7 @@
         }
     ],
     "wof:id":101809387,
-    "wof:lastmodified":1561831431,
+    "wof:lastmodified":1563235464,
     "wof:name":"Peer",
     "wof:parent_id":1108830611,
     "wof:placetype":"locality",

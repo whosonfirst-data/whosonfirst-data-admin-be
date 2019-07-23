@@ -22,22 +22,40 @@
     "name:ara_x_preferred":[
         "\u0647\u0648\u0644\u0633\u062a"
     ],
+    "name:ast_x_preferred":[
+        "Hulst"
+    ],
     "name:bre_x_preferred":[
         "Hulst"
     ],
     "name:cat_x_preferred":[
         "Hulst"
     ],
+    "name:ceb_x_preferred":[
+        "Gemeente Hulst"
+    ],
+    "name:dan_x_preferred":[
+        "Hulst"
+    ],
     "name:deu_x_preferred":[
+        "Hulst"
+    ],
+    "name:eng_x_preferred":[
         "Hulst"
     ],
     "name:eus_x_preferred":[
         "Hulst"
     ],
+    "name:fas_x_preferred":[
+        "\u0647\u0648\u0644\u0633\u062a"
+    ],
     "name:fra_x_preferred":[
         "Hulst"
     ],
     "name:fry_x_preferred":[
+        "Hulst"
+    ],
+    "name:gle_x_preferred":[
         "Hulst"
     ],
     "name:hye_x_preferred":[
@@ -52,13 +70,22 @@
     "name:lim_x_preferred":[
         "Hulst"
     ],
+    "name:ltz_x_preferred":[
+        "Hulst"
+    ],
     "name:msa_x_preferred":[
+        "Hulst"
+    ],
+    "name:nan_x_preferred":[
         "Hulst"
     ],
     "name:nds_nld_x_preferred":[
         "Hulst"
     ],
     "name:nld_x_preferred":[
+        "Hulst"
+    ],
+    "name:nob_x_preferred":[
         "Hulst"
     ],
     "name:nor_x_preferred":[
@@ -68,6 +95,12 @@
         "Hulst"
     ],
     "name:pol_x_preferred":[
+        "Hulst"
+    ],
+    "name:por_x_preferred":[
+        "Hulst"
+    ],
+    "name:ron_x_preferred":[
         "Hulst"
     ],
     "name:rus_x_preferred":[
@@ -85,6 +118,9 @@
     "name:swe_x_preferred":[
         "Hulst"
     ],
+    "name:tur_x_preferred":[
+        "Hulst"
+    ],
     "name:vls_x_preferred":[
         "Hulst"
     ],
@@ -96,6 +132,9 @@
     ],
     "name:zho_min_nan_x_preferred":[
         "Hulst"
+    ],
+    "name:zho_x_preferred":[
+        "\u8a31\u723e\u65af\u7279"
     ],
     "qs:a0":"Belgi\u00eb#Belgique#Belgien",
     "qs:a1":"*Limburg",
@@ -143,7 +182,7 @@
         }
     ],
     "wof:id":101913523,
-    "wof:lastmodified":1527688568,
+    "wof:lastmodified":1563235327,
     "wof:name":"Hulst",
     "wof:parent_id":1108830307,
     "wof:placetype":"locality",

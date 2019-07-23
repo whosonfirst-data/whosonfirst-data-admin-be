@@ -32,6 +32,9 @@
     "name:bre_x_preferred":[
         "Association sportive de Saint-\u00c9tienne Loire"
     ],
+    "name:bre_x_variant":[
+        "Asse"
+    ],
     "name:bul_x_preferred":[
         "\u0410\u0421 \u0421\u0435\u043d\u0442 \u0415\u0442\u0438\u0435\u043d"
     ],
@@ -41,11 +44,20 @@
     "name:cat_x_preferred":[
         "Association Sportive de Saint-\u00c9tienne Loire"
     ],
+    "name:cat_x_variant":[
+        "Asse"
+    ],
+    "name:ceb_x_preferred":[
+        "Asse"
+    ],
     "name:ces_x_preferred":[
         "AS Saint-\u00c9tienne"
     ],
     "name:dan_x_preferred":[
         "AS Saint-\u00c9tienne"
+    ],
+    "name:dan_x_variant":[
+        "Asse"
     ],
     "name:deu_x_preferred":[
         "AS Saint-\u00c9tienne"
@@ -71,6 +83,9 @@
     "name:fra_x_preferred":[
         "Asse"
     ],
+    "name:gle_x_preferred":[
+        "Asse"
+    ],
     "name:hun_x_preferred":[
         "Asse"
     ],
@@ -89,6 +104,9 @@
     "name:lit_x_preferred":[
         "As\u0117"
     ],
+    "name:ltz_x_preferred":[
+        "Asse"
+    ],
     "name:mkd_x_preferred":[
         "\u0410\u0441\u0435"
     ],
@@ -102,6 +120,9 @@
         "Asse"
     ],
     "name:oci_x_preferred":[
+        "Asse"
+    ],
+    "name:pol_x_preferred":[
         "Asse"
     ],
     "name:por_x_preferred":[
@@ -123,6 +144,9 @@
         "Asse"
     ],
     "name:swe_x_preferred":[
+        "Asse"
+    ],
+    "name:tur_x_preferred":[
         "Asse"
     ],
     "name:unk_x_variant":[
@@ -190,7 +214,7 @@
         }
     ],
     "wof:id":101755501,
-    "wof:lastmodified":1561831402,
+    "wof:lastmodified":1563235054,
     "wof:name":"Asse",
     "wof:parent_id":1108830421,
     "wof:placetype":"locality",

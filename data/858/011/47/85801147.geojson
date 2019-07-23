@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00021,
-    "geom:area_square_m":1642725.904633,
+    "geom:area_square_m":1642725.904632,
     "geom:bbox":"4.41101074219,50.7939988814,4.43394425222,50.8128770103",
     "geom:latitude":50.803481,
     "geom:longitude":4.423413,
@@ -39,6 +39,9 @@
     "name:deu_x_preferred":[
         "Flor\u00e9al"
     ],
+    "name:eng_x_preferred":[
+        "Flor\u00e9al"
+    ],
     "name:epo_x_preferred":[
         "Florealo"
     ],
@@ -51,18 +54,54 @@
     "name:glg_x_preferred":[
         "Floreal"
     ],
+    "name:hun_x_preferred":[
+        "Flor\u00e9al"
+    ],
+    "name:ind_x_preferred":[
+        "Flor\u00e9al"
+    ],
+    "name:ita_x_preferred":[
+        "Fiorile"
+    ],
+    "name:lat_x_preferred":[
+        "Florealis"
+    ],
+    "name:ltz_x_preferred":[
+        "Flor\u00e9al"
+    ],
     "name:nld_x_colloquial":[
         "Floreal"
     ],
     "name:nld_x_preferred":[
         "Flor\u00e9al"
     ],
+    "name:oci_x_preferred":[
+        "Flor\u00e9al"
+    ],
+    "name:pol_x_preferred":[
+        "Flor\u00e9al"
+    ],
+    "name:por_x_preferred":[
+        "Floreal"
+    ],
+    "name:rus_x_preferred":[
+        "\u0424\u043b\u043e\u0440\u0435\u0430\u043b\u044c"
+    ],
     "name:spa_x_preferred":[
         "Floreal"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0424\u043b\u043e\u0440\u0435\u0430\u043b\u044c"
     ],
     "name:unk_x_variant":[
         "Cit\u00e9-jardin \"Flor\u00e9al\"",
         "Flor\u00e9al"
+    ],
+    "name:yue_x_preferred":[
+        "\u82b1\u6708"
+    ],
+    "name:zho_x_preferred":[
+        "\u82b1\u6708"
     ],
     "qs:gn_fcode":"PPLX",
     "qs:gn_local":0,
@@ -126,7 +165,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1527640863,
+    "wof:lastmodified":1563233986,
     "wof:name":"Flor\u00e9al",
     "wof:parent_id":101751573,
     "wof:placetype":"neighbourhood",

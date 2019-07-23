@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000543,
-    "geom:area_square_m":4235905.543566,
+    "geom:area_square_m":4235905.543567,
     "geom:bbox":"4.3605452104,50.8529878708,4.39727783203,50.87704407",
     "geom:latitude":50.864499,
     "geom:longitude":4.378154,
@@ -24,21 +24,53 @@
     "mz:min_zoom":12.0,
     "mz:tier_locality":5,
     "mz:tier_metro":30,
+    "name:afr_x_preferred":[
+        "Schaarbeek"
+    ],
+    "name:ara_x_preferred":[
+        "\u0634\u064a\u0631\u0628\u064a\u0643"
+    ],
+    "name:ast_x_preferred":[
+        "Schaerbeek"
+    ],
+    "name:bel_x_preferred":[
+        "\u0421\u0445\u0430\u0440\u0431\u0435\u043a"
+    ],
+    "name:bre_x_preferred":[
+        "Schaarbeek"
+    ],
     "name:bul_x_preferred":[
         "\u0421\u0445\u0430\u0440\u0431\u0435\u043a"
     ],
     "name:cat_x_preferred":[
         "Schaerbeek"
     ],
+    "name:ceb_x_preferred":[
+        "Schaerbeek"
+    ],
+    "name:ces_x_preferred":[
+        "Schaerbeek"
+    ],
+    "name:cym_x_preferred":[
+        "Schaerbeek"
+    ],
+    "name:dan_x_preferred":[
+        "Schaerbeek"
+    ],
     "name:deu_x_preferred":[
         "Schaerbeek/Schaarbeek"
+    ],
+    "name:deu_x_variant":[
+        "Schaerbeek"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a3\u03ac\u03b1\u03c1\u03bc\u03c0\u03b5\u03ba"
     ],
     "name:eng_x_preferred":[
         "Schaerbeek"
     ],
     "name:eng_x_variant":[
-        "Schaarbeek",
-        "Schaerbeek"
+        "Schaarbeek"
     ],
     "name:epo_x_preferred":[
         "Schaerbeek"
@@ -46,17 +78,47 @@
     "name:epo_x_variant":[
         "Schaarbeek"
     ],
+    "name:est_x_preferred":[
+        "Schaerbeek"
+    ],
+    "name:eus_x_preferred":[
+        "Schaerbeek"
+    ],
     "name:fas_x_preferred":[
         "\u0634\u0626\u0631\u0628\u0626\u06a9"
+    ],
+    "name:fin_x_preferred":[
+        "Schaerbeek"
     ],
     "name:fra_x_preferred":[
         "Bruxelles (Schaerbeek)"
     ],
+    "name:fra_x_variant":[
+        "Schaerbeek"
+    ],
     "name:fre_x_variant":[
         "Schaerbeek"
     ],
+    "name:gle_x_preferred":[
+        "Schaerbeek"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e9\u05e8\u05d1\u05e7"
+    ],
+    "name:hrv_x_preferred":[
+        "Schaerbeek"
+    ],
+    "name:hun_x_preferred":[
+        "Schaerbeek"
+    ],
+    "name:hye_x_preferred":[
+        "\u054d\u056d\u0561\u0580\u0562\u0565\u0565\u056f"
+    ],
     "name:ind_x_preferred":[
         "Schaerbeek-Schaarbeek"
+    ],
+    "name:ita_x_preferred":[
+        "Schaerbeek"
     ],
     "name:jpn_x_preferred":[
         "\u30b9\u30ab\u30fc\u30eb\u30d9\u30fc\u30af"
@@ -79,6 +141,12 @@
     "name:nld_x_variant":[
         "Brussel (Schaarbeek)"
     ],
+    "name:nob_x_preferred":[
+        "Schaerbeek"
+    ],
+    "name:oci_x_preferred":[
+        "Schaerbeek"
+    ],
     "name:pnb_x_preferred":[
         "\u0634\u0627\u0631\u0628\u06cc\u06a9"
     ],
@@ -94,20 +162,47 @@
     "name:rus_x_preferred":[
         "\u0421\u0445\u0430\u0440\u0431\u0435\u043a"
     ],
+    "name:sco_x_preferred":[
+        "Schaerbeek"
+    ],
+    "name:slk_x_preferred":[
+        "Schaerbeek"
+    ],
     "name:spa_x_preferred":[
         "Schaarbeek"
+    ],
+    "name:spa_x_variant":[
+        "Schaerbeek"
     ],
     "name:srp_x_preferred":[
         "\u0421\u0445\u0430\u0440\u0431\u0435\u043a"
     ],
+    "name:swe_x_preferred":[
+        "Schaerbeek"
+    ],
     "name:tha_x_preferred":[
         "\u0e2a\u0e01\u0e32\u0e23\u0e4c\u0e40\u0e1a\u0e01"
+    ],
+    "name:tur_x_preferred":[
+        "Schaerbeek"
     ],
     "name:ukr_x_preferred":[
         "\u0421\u0445\u0430\u0440\u0431\u0435\u043a"
     ],
     "name:unk_x_variant":[
         "Schaarbeek"
+    ],
+    "name:urd_x_preferred":[
+        "\u0633\u062e\u0627\u0631\u0628\u06cc\u06a9"
+    ],
+    "name:vls_x_preferred":[
+        "Schaarbeek"
+    ],
+    "name:vol_x_preferred":[
+        "Schaarbeek"
+    ],
+    "name:war_x_preferred":[
+        "Schaerbeek"
     ],
     "name:zho_x_preferred":[
         "\u65af\u54c8\u5c14\u8d1d\u514b"
@@ -175,7 +270,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1497315391,
+    "wof:lastmodified":1563233977,
     "wof:name":"Schaarbeek",
     "wof:parent_id":101751573,
     "wof:placetype":"neighbourhood",

@@ -29,6 +29,9 @@
     "name:ceb_x_preferred":[
         "Le Roeulx"
     ],
+    "name:dan_x_preferred":[
+        "Le R\u0153ulx"
+    ],
     "name:deu_x_preferred":[
         "Le R\u0153ulx"
     ],
@@ -37,6 +40,9 @@
     ],
     "name:epo_x_preferred":[
         "Le R\u0153ulx"
+    ],
+    "name:epo_x_variant":[
+        "Le Roeulx"
     ],
     "name:eus_x_preferred":[
         "Le R\u0153ulx"
@@ -56,6 +62,9 @@
     "name:lim_x_preferred":[
         "Le Roeulx"
     ],
+    "name:ltz_x_preferred":[
+        "Le R\u0153ulx"
+    ],
     "name:nld_x_preferred":[
         "Le R\u0153ulx"
     ],
@@ -63,6 +72,9 @@
         "Le R\u0153ulx"
     ],
     "name:oci_x_preferred":[
+        "Le R\u0153ulx"
+    ],
+    "name:pol_x_preferred":[
         "Le R\u0153ulx"
     ],
     "name:por_x_preferred":[
@@ -143,7 +155,7 @@
         }
     ],
     "wof:id":101755221,
-    "wof:lastmodified":1561831398,
+    "wof:lastmodified":1563235007,
     "wof:name":"Le Roeulx",
     "wof:parent_id":102049943,
     "wof:placetype":"locality",

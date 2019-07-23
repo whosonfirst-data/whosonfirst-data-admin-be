@@ -19,6 +19,9 @@
     "name:eng_x_preferred":[
         "Pulderbosch"
     ],
+    "name:eng_x_variant":[
+        "Pulderbos"
+    ],
     "name:fra_x_preferred":[
         "Pulderbos"
     ],
@@ -83,7 +86,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1561831430,
+    "wof:lastmodified":1563235457,
     "wof:name":"Pulderbos",
     "wof:parent_id":1108830405,
     "wof:placetype":"locality",

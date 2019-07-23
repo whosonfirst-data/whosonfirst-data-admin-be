@@ -26,6 +26,9 @@
     "name:cat_x_preferred":[
         "Ranst"
     ],
+    "name:ceb_x_preferred":[
+        "Ranst"
+    ],
     "name:deu_x_preferred":[
         "Ranst"
     ],
@@ -52,6 +55,9 @@
     ],
     "name:lit_x_preferred":[
         "Ranstas"
+    ],
+    "name:ltz_x_preferred":[
+        "Ranst"
     ],
     "name:nds_x_preferred":[
         "Ranst"
@@ -156,7 +162,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1561831407,
+    "wof:lastmodified":1563235118,
     "wof:name":"Ranst",
     "wof:parent_id":-4,
     "wof:placetype":"locality",

@@ -35,6 +35,9 @@
     "name:deu_x_preferred":[
         "Halen"
     ],
+    "name:ell_x_preferred":[
+        "\u03a7\u03ac\u03bb\u03b5\u03bd"
+    ],
     "name:eng_x_preferred":[
         "Halen"
     ],
@@ -64,6 +67,9 @@
     ],
     "name:lim_x_preferred":[
         "H\u00f4le"
+    ],
+    "name:ltz_x_preferred":[
+        "Halen"
     ],
     "name:nld_x_preferred":[
         "Halen"
@@ -167,7 +173,7 @@
         }
     ],
     "wof:id":101913619,
-    "wof:lastmodified":1561831419,
+    "wof:lastmodified":1563235290,
     "wof:name":"Halen",
     "wof:parent_id":1108830131,
     "wof:placetype":"locality",

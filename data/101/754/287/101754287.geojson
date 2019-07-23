@@ -26,6 +26,9 @@
     "name:cat_x_preferred":[
         "Ottignies-Louvain-la-Neuve"
     ],
+    "name:ceb_x_preferred":[
+        "Ottignies-Louvain-la-Neuve"
+    ],
     "name:deu_x_preferred":[
         "Ottignies-Louvain-la-Neuve"
     ],
@@ -47,6 +50,9 @@
     "name:fra_x_preferred":[
         "Ottignies-Louvain-la-Neuve"
     ],
+    "name:gle_x_preferred":[
+        "Ottignies-Louvain-la-Neuve"
+    ],
     "name:hun_x_preferred":[
         "Ottignies-Louvain-la-Neuve"
     ],
@@ -64,6 +70,12 @@
     ],
     "name:lat_x_preferred":[
         "Ottiniacum-Novum Lovanium"
+    ],
+    "name:ltz_x_preferred":[
+        "Ottignies-Louvain-la-Neuve"
+    ],
+    "name:mal_x_preferred":[
+        "Ottignies-Louvain-la-Neuve"
     ],
     "name:nld_x_preferred":[
         "Ottignies-Louvain-la-Neuve"
@@ -177,7 +189,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1561831408,
+    "wof:lastmodified":1563235136,
     "wof:name":"Ottignies-Louvain-la-Neuve",
     "wof:parent_id":102049945,
     "wof:placetype":"locality",

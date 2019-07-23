@@ -22,6 +22,9 @@
     "name:eng_x_preferred":[
         "Abele"
     ],
+    "name:fra_x_preferred":[
+        "Abeele"
+    ],
     "name:ita_x_preferred":[
         "Abele"
     ],
@@ -103,7 +106,7 @@
         }
     ],
     "wof:id":101854563,
-    "wof:lastmodified":1561831431,
+    "wof:lastmodified":1563235468,
     "wof:name":"Abele",
     "wof:parent_id":-4,
     "wof:placetype":"locality",

@@ -30,6 +30,9 @@
     "name:hun_x_preferred":[
         "Widooie"
     ],
+    "name:lim_x_preferred":[
+        "Bedeu"
+    ],
     "name:nld_x_preferred":[
         "Widooie"
     ],
@@ -91,7 +94,7 @@
         }
     ],
     "wof:id":1125890553,
-    "wof:lastmodified":1561831456,
+    "wof:lastmodified":1563235776,
     "wof:name":"Widooie",
     "wof:parent_id":1108830031,
     "wof:placetype":"locality",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000839,
-    "geom:area_square_m":6518855.379354,
+    "geom:area_square_m":6518855.379356,
     "geom:bbox":"4.10685119353,51.0680762827,4.16301205129,51.1045186156",
     "geom:latitude":51.088786,
     "geom:longitude":4.136691,
@@ -29,7 +29,19 @@
     "name:cat_x_preferred":[
         "Hamme"
     ],
+    "name:ceb_x_preferred":[
+        "Hamme"
+    ],
+    "name:cym_x_preferred":[
+        "Hamme"
+    ],
+    "name:dan_x_preferred":[
+        "Hamme"
+    ],
     "name:deu_x_preferred":[
+        "Hamme"
+    ],
+    "name:eng_x_preferred":[
         "Hamme"
     ],
     "name:epo_x_preferred":[
@@ -56,16 +68,25 @@
     "name:lit_x_preferred":[
         "Ham\u0117"
     ],
+    "name:ltz_x_preferred":[
+        "Hamme"
+    ],
     "name:mkd_x_preferred":[
         "\u0425\u0430\u043c\u0435"
     ],
     "name:nld_x_preferred":[
         "Hamme"
     ],
+    "name:nob_x_preferred":[
+        "Hamme"
+    ],
     "name:nor_x_preferred":[
         "Hamme"
     ],
     "name:oci_x_preferred":[
+        "Hamme"
+    ],
+    "name:pol_x_preferred":[
         "Hamme"
     ],
     "name:por_x_preferred":[
@@ -83,10 +104,16 @@
     "name:slk_x_preferred":[
         "Hamme"
     ],
+    "name:spa_x_preferred":[
+        "Hamme"
+    ],
     "name:sqi_x_preferred":[
         "Ama"
     ],
     "name:swe_x_preferred":[
+        "Hamme"
+    ],
+    "name:tur_x_preferred":[
         "Hamme"
     ],
     "name:vie_x_preferred":[
@@ -153,7 +180,7 @@
         }
     ],
     "wof:id":101837539,
-    "wof:lastmodified":1527715308,
+    "wof:lastmodified":1563235482,
     "wof:name":"Hamme",
     "wof:parent_id":1108830161,
     "wof:placetype":"locality",

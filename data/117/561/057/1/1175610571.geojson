@@ -38,8 +38,14 @@
     "name:ces_x_preferred":[
         "Ronse"
     ],
+    "name:dan_x_preferred":[
+        "Ronse"
+    ],
     "name:deu_x_preferred":[
         "Ronse"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a1\u03cc\u03bd\u03c3\u03b5"
     ],
     "name:eng_x_preferred":[
         "Ronse"
@@ -59,6 +65,9 @@
     "name:fra_x_preferred":[
         "Renaix"
     ],
+    "name:gle_x_preferred":[
+        "Ronse"
+    ],
     "name:heb_x_preferred":[
         "\u05e8\u05d5\u05e0\u05e1\u05d4"
     ],
@@ -77,8 +86,14 @@
     "name:lat_x_preferred":[
         "Rotnacum"
     ],
+    "name:lat_x_variant":[
+        "Rothnacum"
+    ],
     "name:lit_x_preferred":[
         "Rons\u0117"
+    ],
+    "name:ltz_x_preferred":[
+        "Ronse"
     ],
     "name:mkd_x_preferred":[
         "\u0420\u043e\u043d\u0441\u0435"
@@ -114,6 +129,9 @@
         "Ronse"
     ],
     "name:swe_x_preferred":[
+        "Ronse"
+    ],
+    "name:tur_x_preferred":[
         "Ronse"
     ],
     "name:unk_x_variant":[
@@ -186,7 +204,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1561831393,
+    "wof:lastmodified":1563234795,
     "wof:name":"Ronse",
     "wof:parent_id":102049949,
     "wof:placetype":"locality",

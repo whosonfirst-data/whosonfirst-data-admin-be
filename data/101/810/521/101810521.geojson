@@ -38,6 +38,9 @@
     "name:cat_x_preferred":[
         "Flobecq"
     ],
+    "name:ceb_x_preferred":[
+        "Flobecq"
+    ],
     "name:ces_x_preferred":[
         "Flobecq"
     ],
@@ -124,6 +127,9 @@
     ],
     "name:lim_x_preferred":[
         "Vloesberg"
+    ],
+    "name:lim_x_variant":[
+        "Flobecq"
     ],
     "name:ltz_x_preferred":[
         "Flobecq"
@@ -286,7 +292,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1561831415,
+    "wof:lastmodified":1563235234,
     "wof:name":"Flobecq",
     "wof:parent_id":102049949,
     "wof:placetype":"locality",

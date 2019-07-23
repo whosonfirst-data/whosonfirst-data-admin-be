@@ -39,6 +39,9 @@
     "name:nld_x_preferred":[
         "Matonge"
     ],
+    "name:pol_x_preferred":[
+        "Matonge"
+    ],
     "name:swe_x_preferred":[
         "Matong\u00e9"
     ],
@@ -70,7 +73,7 @@
         }
     ],
     "wof:id":1108938327,
-    "wof:lastmodified":1561831384,
+    "wof:lastmodified":1563234626,
     "wof:name":"Matonge",
     "wof:parent_id":101751573,
     "wof:placetype":"neighbourhood",

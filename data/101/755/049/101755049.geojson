@@ -28,6 +28,12 @@
     "name:nld_x_preferred":[
         "Wanferc\u00e9e-Baulet"
     ],
+    "name:por_x_preferred":[
+        "Wanferc\u00e9e-Baulet"
+    ],
+    "name:spa_x_preferred":[
+        "Wanferc\u00e9e-Baulet"
+    ],
     "name:unk_x_variant":[
         "Fleurus (Wanferc\u00e9e-Baulet)"
     ],
@@ -80,7 +86,7 @@
         }
     ],
     "wof:id":101755049,
-    "wof:lastmodified":1561831399,
+    "wof:lastmodified":1563235012,
     "wof:name":"Wanferc\u00e9e-Baulet",
     "wof:parent_id":102049927,
     "wof:placetype":"locality",

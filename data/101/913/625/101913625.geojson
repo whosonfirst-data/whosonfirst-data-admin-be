@@ -26,6 +26,9 @@
     "name:cat_x_preferred":[
         "Aubange"
     ],
+    "name:ceb_x_preferred":[
+        "Aubange"
+    ],
     "name:deu_x_preferred":[
         "Aubange"
     ],
@@ -68,6 +71,9 @@
     "name:oci_x_preferred":[
         "Aubange"
     ],
+    "name:pol_x_preferred":[
+        "Aubange"
+    ],
     "name:por_x_preferred":[
         "Aubange"
     ],
@@ -78,6 +84,12 @@
         "\u041e\u0431\u0430\u043d\u0436"
     ],
     "name:slk_x_preferred":[
+        "Aubange"
+    ],
+    "name:spa_x_preferred":[
+        "Aubange"
+    ],
+    "name:swe_x_preferred":[
         "Aubange"
     ],
     "name:vie_x_preferred":[
@@ -141,7 +153,7 @@
         }
     ],
     "wof:id":101913625,
-    "wof:lastmodified":1561831420,
+    "wof:lastmodified":1563235310,
     "wof:name":"Aubange",
     "wof:parent_id":102049909,
     "wof:placetype":"locality",

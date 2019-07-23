@@ -21,6 +21,9 @@
     "name:eng_x_preferred":[
         "Eine"
     ],
+    "name:fas_x_preferred":[
+        "\u0627\u06cc\u0646"
+    ],
     "name:fra_x_preferred":[
         "Eine"
     ],
@@ -89,7 +92,7 @@
         }
     ],
     "wof:id":1125979811,
-    "wof:lastmodified":1561831464,
+    "wof:lastmodified":1563235867,
     "wof:name":"Eine",
     "wof:parent_id":1108830311,
     "wof:placetype":"locality",

@@ -24,6 +24,9 @@
     "name:eng_x_preferred":[
         "Zerkegem"
     ],
+    "name:fas_x_preferred":[
+        "\u0632\u0631\u06a9\u06af\u0645"
+    ],
     "name:fra_x_preferred":[
         "Zerkegem"
     ],
@@ -96,7 +99,7 @@
         }
     ],
     "wof:id":1125893165,
-    "wof:lastmodified":1561831457,
+    "wof:lastmodified":1563235787,
     "wof:name":"Zerkegem",
     "wof:parent_id":1108830157,
     "wof:placetype":"locality",

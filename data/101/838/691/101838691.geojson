@@ -29,6 +29,9 @@
     "name:cat_x_preferred":[
         "Borgloon"
     ],
+    "name:ceb_x_preferred":[
+        "Borgloon"
+    ],
     "name:deu_x_preferred":[
         "Borgloon"
     ],
@@ -85,6 +88,9 @@
     ],
     "name:rus_x_preferred":[
         "\u0411\u043e\u0440\u0433\u043b\u043e\u043e\u043d"
+    ],
+    "name:rus_x_variant":[
+        "\u0411\u043e\u0440\u0433\u043b\u043e\u043d"
     ],
     "name:slk_x_preferred":[
         "Borgloon"
@@ -169,7 +175,7 @@
         }
     ],
     "wof:id":101838691,
-    "wof:lastmodified":1561831426,
+    "wof:lastmodified":1563235407,
     "wof:name":"Borgloon",
     "wof:parent_id":1108830359,
     "wof:placetype":"locality",

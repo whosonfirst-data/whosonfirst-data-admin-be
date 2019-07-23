@@ -71,6 +71,9 @@
     "name:kor_x_preferred":[
         "\ucf55\uc138\uc774\ub354"
     ],
+    "name:lav_x_preferred":[
+        "Kokseide"
+    ],
     "name:lim_x_preferred":[
         "Koksijde"
     ],
@@ -186,7 +189,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1561831427,
+    "wof:lastmodified":1563235414,
     "wof:name":"Koksijde",
     "wof:parent_id":1108830673,
     "wof:placetype":"locality",

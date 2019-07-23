@@ -40,6 +40,9 @@
     "name:nld_x_preferred":[
         "St.-Lambrechts-Herk"
     ],
+    "name:nld_x_variant":[
+        "Sint-Lambrechts-Herk"
+    ],
     "name:unk_x_variant":[
         "Herck-Saint-Lambert"
     ],
@@ -95,7 +98,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1561831426,
+    "wof:lastmodified":1563235395,
     "wof:name":"Sint-Lambrechts-Herk",
     "wof:parent_id":1108830649,
     "wof:placetype":"locality",

@@ -19,6 +19,9 @@
     "name:deu_x_preferred":[
         "Hechtel"
     ],
+    "name:ell_x_preferred":[
+        "\u03a7\u03ad\u03c7\u03c4\u03b5\u03bb"
+    ],
     "name:eng_x_preferred":[
         "Hechtel"
     ],
@@ -82,7 +85,7 @@
         }
     ],
     "wof:id":101809391,
-    "wof:lastmodified":1561831427,
+    "wof:lastmodified":1563235420,
     "wof:name":"Hechtel",
     "wof:parent_id":1108830149,
     "wof:placetype":"locality",

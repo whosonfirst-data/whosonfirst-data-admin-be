@@ -26,6 +26,9 @@
     "name:cat_x_preferred":[
         "Sankt-Vith"
     ],
+    "name:ceb_x_preferred":[
+        "Saint-Vith"
+    ],
     "name:ces_x_preferred":[
         "Sankt Vith"
     ],
@@ -50,6 +53,9 @@
     "name:fra_x_preferred":[
         "Saint-Vith"
     ],
+    "name:heb_x_preferred":[
+        "\u05e1\u05df \u05d5\u05d9\u05ea"
+    ],
     "name:hrv_x_preferred":[
         "Sankt Vith"
     ],
@@ -70,6 +76,9 @@
     ],
     "name:lim_x_preferred":[
         "St. Vith"
+    ],
+    "name:lmo_x_preferred":[
+        "Sankt Vith"
     ],
     "name:ltz_x_preferred":[
         "Sankt V\u00e4it"
@@ -170,7 +179,7 @@
         }
     ],
     "wof:id":101811705,
-    "wof:lastmodified":1561831412,
+    "wof:lastmodified":1563235190,
     "wof:name":"Sankt Vith",
     "wof:parent_id":102049935,
     "wof:placetype":"locality",

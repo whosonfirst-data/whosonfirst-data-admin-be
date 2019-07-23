@@ -21,6 +21,9 @@
     "name:eng_x_preferred":[
         "M\u00e9lin"
     ],
+    "name:fas_x_preferred":[
+        "\u0645\u0644\u0646"
+    ],
     "name:fra_x_preferred":[
         "M\u00e9lin"
     ],
@@ -88,7 +91,7 @@
         }
     ],
     "wof:id":1126005989,
-    "wof:lastmodified":1561831472,
+    "wof:lastmodified":1563235938,
     "wof:name":"M\u00e9lin",
     "wof:parent_id":102049945,
     "wof:placetype":"locality",

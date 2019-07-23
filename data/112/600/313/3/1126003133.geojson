@@ -21,6 +21,9 @@
     "name:bul_x_preferred":[
         "\u0422\u043e\u0435\u0440\u043d\u0438\u0447"
     ],
+    "name:ceb_x_preferred":[
+        "Toernich"
+    ],
     "name:eng_x_preferred":[
         "Toernich"
     ],
@@ -94,7 +97,7 @@
         }
     ],
     "wof:id":1126003133,
-    "wof:lastmodified":1561831471,
+    "wof:lastmodified":1563235933,
     "wof:name":"Toernich",
     "wof:parent_id":102049909,
     "wof:placetype":"locality",

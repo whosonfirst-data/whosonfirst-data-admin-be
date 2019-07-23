@@ -37,6 +37,9 @@
     "name:unk_x_variant":[
         "Gheluwe"
     ],
+    "name:vie_x_preferred":[
+        "Geluwe"
+    ],
     "name:vls_x_preferred":[
         "Gilwe"
     ],
@@ -91,7 +94,7 @@
         }
     ],
     "wof:id":101809271,
-    "wof:lastmodified":1561831430,
+    "wof:lastmodified":1563235452,
     "wof:name":"Geluwe",
     "wof:parent_id":1108830187,
     "wof:placetype":"locality",

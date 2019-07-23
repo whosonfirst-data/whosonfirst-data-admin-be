@@ -19,6 +19,9 @@
     "name:eng_x_preferred":[
         "Klein-Sinaai"
     ],
+    "name:fra_x_preferred":[
+        "Petit-Sinay"
+    ],
     "name:nld_x_preferred":[
         "Klein-Sinaai"
     ],
@@ -72,7 +75,7 @@
         }
     ],
     "wof:id":101809367,
-    "wof:lastmodified":1561831429,
+    "wof:lastmodified":1563235446,
     "wof:name":"Klein Sinaai",
     "wof:parent_id":1108830603,
     "wof:placetype":"locality",

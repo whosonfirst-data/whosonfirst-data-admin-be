@@ -38,7 +38,13 @@
     "name:cat_x_preferred":[
         "Genk"
     ],
+    "name:ceb_x_preferred":[
+        "Genk"
+    ],
     "name:ces_x_preferred":[
+        "Genk"
+    ],
+    "name:dan_x_preferred":[
         "Genk"
     ],
     "name:deu_x_preferred":[
@@ -68,6 +74,9 @@
     "name:fra_x_preferred":[
         "Genk"
     ],
+    "name:gle_x_preferred":[
+        "Genk"
+    ],
     "name:hun_x_preferred":[
         "Genk"
     ],
@@ -89,11 +98,17 @@
     "name:kor_x_preferred":[
         "\ud5f9\ud06c"
     ],
+    "name:lav_x_preferred":[
+        "Genka"
+    ],
     "name:lim_x_preferred":[
         "Genk"
     ],
     "name:lit_x_preferred":[
         "Genkas"
+    ],
+    "name:ltz_x_preferred":[
+        "Genk"
     ],
     "name:msa_x_preferred":[
         "Genk"
@@ -139,6 +154,9 @@
     ],
     "name:szl_x_preferred":[
         "Genk"
+    ],
+    "name:tat_x_preferred":[
+        "\u0413\u0435\u04a3\u043a"
     ],
     "name:tha_x_preferred":[
         "\u0e40\u0e04\u0e07\u0e01\u0e4c"
@@ -215,7 +233,7 @@
         }
     ],
     "wof:id":101854565,
-    "wof:lastmodified":1561831431,
+    "wof:lastmodified":1563235469,
     "wof:name":"Genk",
     "wof:parent_id":1108830655,
     "wof:placetype":"locality",

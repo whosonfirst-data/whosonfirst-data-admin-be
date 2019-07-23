@@ -46,6 +46,9 @@
     "name:vls_x_preferred":[
         "Ter Vichtn"
     ],
+    "name:vls_x_variant":[
+        "Vichte"
+    ],
     "qs:a0":"Belgi\u00eb#Belgique#Belgien",
     "qs:a1":"*West-Vlanderen",
     "qs:a1r":"0Vlaams Gewest",
@@ -98,7 +101,7 @@
         }
     ],
     "wof:id":101755313,
-    "wof:lastmodified":1561831401,
+    "wof:lastmodified":1563235047,
     "wof:name":"Vichte",
     "wof:parent_id":1108830475,
     "wof:placetype":"locality",

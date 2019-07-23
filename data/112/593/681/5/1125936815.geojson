@@ -21,11 +21,17 @@
     "name:bul_x_preferred":[
         "\u0411\u0443\u0438\u0437\u0438\u043d\u0433\u0435\u043d"
     ],
+    "name:ceb_x_preferred":[
+        "Buizingen"
+    ],
     "name:dan_x_preferred":[
         "Buizingen"
     ],
     "name:eng_x_preferred":[
         "Buizingen"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u0648\u06cc\u06cc\u0632\u06cc\u0646\u06af\u0646"
     ],
     "name:fra_x_preferred":[
         "Buizingen"
@@ -102,7 +108,7 @@
         }
     ],
     "wof:id":1125936815,
-    "wof:lastmodified":1561831440,
+    "wof:lastmodified":1563235608,
     "wof:name":"Buizingen",
     "wof:parent_id":1108830437,
     "wof:placetype":"locality",

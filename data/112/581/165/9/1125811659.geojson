@@ -28,6 +28,12 @@
     "name:cat_x_preferred":[
         "Sint-Kathelijne-Waver"
     ],
+    "name:ceb_x_preferred":[
+        "Sint-Katelijne-Waver"
+    ],
+    "name:dan_x_preferred":[
+        "Sint-Katelijne-Waver"
+    ],
     "name:deu_x_preferred":[
         "Sint-Katelijne-Waver"
     ],
@@ -57,6 +63,9 @@
     ],
     "name:lit_x_preferred":[
         "Sin Katelin Vaveras"
+    ],
+    "name:ltz_x_preferred":[
+        "Sint-Katelijne-Waver"
     ],
     "name:mkd_x_preferred":[
         "\u0421\u0438\u043d\u0442 \u041a\u0430\u0442\u0435\u043b\u0435\u0458\u043d\u0435 \u0412\u0430\u0432\u0435\u0440"
@@ -163,7 +172,7 @@
         }
     ],
     "wof:id":1125811659,
-    "wof:lastmodified":1561831453,
+    "wof:lastmodified":1563235745,
     "wof:name":"St.-Katelijne-Waver",
     "wof:parent_id":1108830007,
     "wof:placetype":"locality",

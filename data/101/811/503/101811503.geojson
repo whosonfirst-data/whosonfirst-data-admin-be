@@ -16,7 +16,13 @@
     "mps:longitude":5.376336,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:deu_x_preferred":[
+        "Libramont"
+    ],
     "name:eng_x_preferred":[
+        "Libramont"
+    ],
+    "name:fra_x_preferred":[
         "Libramont"
     ],
     "name:fry_x_preferred":[
@@ -74,7 +80,7 @@
         }
     ],
     "wof:id":101811503,
-    "wof:lastmodified":1561831411,
+    "wof:lastmodified":1563235176,
     "wof:name":"Libramont",
     "wof:parent_id":102049913,
     "wof:placetype":"locality",

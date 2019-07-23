@@ -27,6 +27,9 @@
     "name:hun_x_preferred":[
         "Bettincourt"
     ],
+    "name:ita_x_preferred":[
+        "Bettincourt"
+    ],
     "name:lim_x_preferred":[
         "Bettehaove"
     ],
@@ -88,7 +91,7 @@
         }
     ],
     "wof:id":1125930949,
-    "wof:lastmodified":1561831441,
+    "wof:lastmodified":1563235617,
     "wof:name":"Bettincourt",
     "wof:parent_id":102049937,
     "wof:placetype":"locality",

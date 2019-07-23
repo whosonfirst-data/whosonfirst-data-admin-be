@@ -25,6 +25,9 @@
     "name:est_x_preferred":[
         "Sint-Idesbald"
     ],
+    "name:fas_x_preferred":[
+        "\u0633\u0646 \u0627\u06cc\u062f\u0632\u0628\u0627\u0644"
+    ],
     "name:fra_x_preferred":[
         "Saint-Idesbald"
     ],
@@ -42,6 +45,9 @@
     ],
     "name:vls_x_preferred":[
         "Baaldje"
+    ],
+    "name:vls_x_variant":[
+        "Baaltje"
     ],
     "qs:a0":"Belgi\u00eb#Belgique#Belgien",
     "qs:a1":"*West-Vlanderen",
@@ -90,7 +96,7 @@
         }
     ],
     "wof:id":101838917,
-    "wof:lastmodified":1561831427,
+    "wof:lastmodified":1563235415,
     "wof:name":"Sint-Idesbald",
     "wof:parent_id":1108830673,
     "wof:placetype":"locality",

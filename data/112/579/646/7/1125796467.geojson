@@ -24,8 +24,14 @@
     "name:bul_x_preferred":[
         "\u0411\u043e\u0432\u0435\u043a\u0435\u0440\u043a\u0435"
     ],
+    "name:ceb_x_preferred":[
+        "Bovekerke"
+    ],
     "name:eng_x_preferred":[
         "Bovekerke"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u0648\u06a9\u0631\u06a9"
     ],
     "name:fra_x_preferred":[
         "Bovekerke"
@@ -99,7 +105,7 @@
         }
     ],
     "wof:id":1125796467,
-    "wof:lastmodified":1561831482,
+    "wof:lastmodified":1563236027,
     "wof:name":"Bovekerke",
     "wof:parent_id":1108830305,
     "wof:placetype":"locality",

@@ -20,6 +20,9 @@
     "name:ara_x_preferred":[
         "\u0625\u064a\u0633\u0646\u060c \u0628\u0644\u062c\u064a\u0643\u0627"
     ],
+    "name:ara_x_variant":[
+        "\u0625\u064a\u0633\u0646"
+    ],
     "name:bre_x_preferred":[
         "Essen"
     ],
@@ -29,11 +32,17 @@
     "name:cat_x_preferred":[
         "Essen"
     ],
+    "name:ceb_x_preferred":[
+        "Essen"
+    ],
     "name:deu_x_preferred":[
         "Essen"
     ],
     "name:eng_x_preferred":[
         "Esschen"
+    ],
+    "name:eng_x_variant":[
+        "Essen"
     ],
     "name:epo_x_preferred":[
         "Essen"
@@ -65,6 +74,9 @@
     "name:lit_x_preferred":[
         "Esenas"
     ],
+    "name:ltz_x_preferred":[
+        "Essen"
+    ],
     "name:mkd_x_preferred":[
         "\u0415\u0441\u0435\u043d"
     ],
@@ -75,6 +87,9 @@
         "Essen"
     ],
     "name:oci_x_preferred":[
+        "Essen"
+    ],
+    "name:pol_x_preferred":[
         "Essen"
     ],
     "name:por_x_preferred":[
@@ -166,7 +181,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1561831432,
+    "wof:lastmodified":1563235487,
     "wof:name":"Essen",
     "wof:parent_id":1108830513,
     "wof:placetype":"locality",

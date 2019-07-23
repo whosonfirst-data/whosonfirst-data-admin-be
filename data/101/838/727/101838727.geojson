@@ -26,6 +26,9 @@
     "name:cat_x_preferred":[
         "Herzele"
     ],
+    "name:ceb_x_preferred":[
+        "Herzele"
+    ],
     "name:deu_x_preferred":[
         "Herzele"
     ],
@@ -56,6 +59,9 @@
     "name:lit_x_preferred":[
         "Hersel\u0117"
     ],
+    "name:ltz_x_preferred":[
+        "Herzele"
+    ],
     "name:nld_x_preferred":[
         "Herzele"
     ],
@@ -65,16 +71,25 @@
     "name:oci_x_preferred":[
         "Herzele"
     ],
+    "name:pol_x_preferred":[
+        "Herzele"
+    ],
     "name:por_x_preferred":[
         "Herzele"
     ],
     "name:ron_x_preferred":[
         "Herzele"
     ],
+    "name:rus_x_preferred":[
+        "\u0425\u0435\u0440\u0437\u0435\u043b\u0435"
+    ],
     "name:slk_x_preferred":[
         "Herzele"
     ],
     "name:spa_x_preferred":[
+        "Herzele"
+    ],
+    "name:swe_x_preferred":[
         "Herzele"
     ],
     "name:vie_x_preferred":[
@@ -143,7 +158,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1561831427,
+    "wof:lastmodified":1563235418,
     "wof:name":"Herzele",
     "wof:parent_id":1108830361,
     "wof:placetype":"locality",

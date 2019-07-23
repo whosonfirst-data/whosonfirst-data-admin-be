@@ -26,6 +26,9 @@
     "name:cat_x_preferred":[
         "Soumagne"
     ],
+    "name:ceb_x_preferred":[
+        "Soumagne"
+    ],
     "name:deu_x_preferred":[
         "Soumagne"
     ],
@@ -84,6 +87,12 @@
         "\u0421\u0443\u043c\u0430\u043d\u044c"
     ],
     "name:slk_x_preferred":[
+        "Soumagne"
+    ],
+    "name:spa_x_preferred":[
+        "Soumagne"
+    ],
+    "name:swe_x_preferred":[
         "Soumagne"
     ],
     "name:vie_x_preferred":[
@@ -154,7 +163,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1561831401,
+    "wof:lastmodified":1563235043,
     "wof:name":"Soumagne",
     "wof:parent_id":102049941,
     "wof:placetype":"locality",

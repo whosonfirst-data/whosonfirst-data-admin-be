@@ -16,6 +16,30 @@
     "mps:longitude":5.138281,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Donk"
+    ],
+    "name:eng_x_preferred":[
+        "Donk"
+    ],
+    "name:fin_x_preferred":[
+        "Donk"
+    ],
+    "name:fra_x_preferred":[
+        "Donk"
+    ],
+    "name:lim_x_preferred":[
+        "Donk"
+    ],
+    "name:nld_x_preferred":[
+        "Donk"
+    ],
+    "name:pol_x_preferred":[
+        "Donk"
+    ],
+    "name:swe_x_preferred":[
+        "Donk"
+    ],
     "qs:a0":"Belgi\u00eb#Belgique#Belgien",
     "qs:a1":"*Limburg",
     "qs:a1r":"0Vlaams Gewest",
@@ -66,7 +90,7 @@
         }
     ],
     "wof:id":101913589,
-    "wof:lastmodified":1527688563,
+    "wof:lastmodified":1563235304,
     "wof:name":"Donk",
     "wof:parent_id":1108830495,
     "wof:placetype":"locality",

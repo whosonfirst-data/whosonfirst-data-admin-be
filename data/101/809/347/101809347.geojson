@@ -28,6 +28,9 @@
     "name:fra_x_preferred":[
         "Oppuurs"
     ],
+    "name:fra_x_variant":[
+        "Oppuers"
+    ],
     "name:hun_x_preferred":[
         "Oppuurs"
     ],
@@ -93,7 +96,7 @@
         }
     ],
     "wof:id":101809347,
-    "wof:lastmodified":1561831429,
+    "wof:lastmodified":1563235441,
     "wof:name":"Oppuurs",
     "wof:parent_id":1108830145,
     "wof:placetype":"locality",

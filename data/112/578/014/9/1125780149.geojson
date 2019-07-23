@@ -24,6 +24,9 @@
     "name:eng_x_preferred":[
         "Soiron"
     ],
+    "name:fas_x_preferred":[
+        "\u0633\u0648\u0622\u0631\u0648\u0646"
+    ],
     "name:fra_x_preferred":[
         "Soiron"
     ],
@@ -91,7 +94,7 @@
         }
     ],
     "wof:id":1125780149,
-    "wof:lastmodified":1561831479,
+    "wof:lastmodified":1563235990,
     "wof:name":"Soiron",
     "wof:parent_id":102049935,
     "wof:placetype":"locality",

@@ -40,6 +40,9 @@
     "name:nld_x_preferred":[
         "St.-Lenaarts"
     ],
+    "name:nld_x_variant":[
+        "Sint-Lenaarts"
+    ],
     "name:unk_x_variant":[
         "Saint-L\u00e9onard"
     ],
@@ -96,7 +99,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1561831436,
+    "wof:lastmodified":1563235540,
     "wof:name":"Sint-Lenaarts",
     "wof:parent_id":1108830385,
     "wof:placetype":"locality",

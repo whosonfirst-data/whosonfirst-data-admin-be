@@ -17,6 +17,9 @@
     "mps:longitude":4.278285,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0628\u0648\u0631\u0633"
+    ],
     "name:bre_x_preferred":[
         "Puurs"
     ],
@@ -24,6 +27,9 @@
         "\u041f\u044e\u0440\u0441"
     ],
     "name:cat_x_preferred":[
+        "Puurs"
+    ],
+    "name:ceb_x_preferred":[
         "Puurs"
     ],
     "name:ces_x_preferred":[
@@ -47,6 +53,12 @@
     "name:fra_x_preferred":[
         "Puurs"
     ],
+    "name:fra_x_variant":[
+        "Puers"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e4\u05d5\u05e8\u05e1"
+    ],
     "name:hun_x_preferred":[
         "Puurs"
     ],
@@ -55,6 +67,9 @@
     ],
     "name:lit_x_preferred":[
         "Pursas"
+    ],
+    "name:ltz_x_preferred":[
+        "Puurs"
     ],
     "name:nld_x_preferred":[
         "Puurs"
@@ -84,6 +99,9 @@
         "Puurs"
     ],
     "name:spa_x_preferred":[
+        "Puurs"
+    ],
+    "name:swe_x_preferred":[
         "Puurs"
     ],
     "name:unk_x_variant":[
@@ -152,7 +170,7 @@
         }
     ],
     "wof:id":101758541,
-    "wof:lastmodified":1561831421,
+    "wof:lastmodified":1563235334,
     "wof:name":"Puurs",
     "wof:parent_id":1108830309,
     "wof:placetype":"locality",

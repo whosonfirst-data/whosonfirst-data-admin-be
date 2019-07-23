@@ -29,6 +29,9 @@
     "name:cat_x_preferred":[
         "Leopoldsburg"
     ],
+    "name:ceb_x_preferred":[
+        "Leopoldsburg"
+    ],
     "name:deu_x_preferred":[
         "Leopoldsburg"
     ],
@@ -59,8 +62,14 @@
     "name:lim_x_preferred":[
         "Leopoldsburg"
     ],
+    "name:lim_x_variant":[
+        "Leopolsb\u00f6rch"
+    ],
     "name:lit_x_preferred":[
         "Leopoldsburgas"
+    ],
+    "name:ltz_x_preferred":[
+        "Leopoldsburg"
     ],
     "name:nld_x_preferred":[
         "Leopoldsburg"
@@ -163,7 +172,7 @@
         }
     ],
     "wof:id":101837531,
-    "wof:lastmodified":1561831432,
+    "wof:lastmodified":1563235485,
     "wof:name":"Leopoldsburg",
     "wof:parent_id":1108830467,
     "wof:placetype":"locality",

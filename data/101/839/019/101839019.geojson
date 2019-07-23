@@ -22,6 +22,9 @@
     "name:fra_x_preferred":[
         "Sinaai"
     ],
+    "name:fra_x_variant":[
+        "Sinay"
+    ],
     "name:hun_x_preferred":[
         "Sinaai"
     ],
@@ -82,7 +85,7 @@
         }
     ],
     "wof:id":101839019,
-    "wof:lastmodified":1561831435,
+    "wof:lastmodified":1563235536,
     "wof:name":"Sinaai",
     "wof:parent_id":1108830559,
     "wof:placetype":"locality",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000739,
-    "geom:area_square_m":5746659.442228,
+    "geom:area_square_m":5746659.442229,
     "geom:bbox":"4.57360467551,50.9944651173,4.62354678804,51.0335267285",
     "geom:latitude":51.010382,
     "geom:longitude":4.60266,
@@ -16,6 +16,30 @@
     "mps:longitude":4.599305,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u041f\u0430\u043b"
+    ],
+    "name:ceb_x_preferred":[
+        "Paal"
+    ],
+    "name:eng_x_preferred":[
+        "Paal"
+    ],
+    "name:fas_x_preferred":[
+        "\u067e\u0627\u0644"
+    ],
+    "name:fra_x_preferred":[
+        "Paal"
+    ],
+    "name:hun_x_preferred":[
+        "Paal"
+    ],
+    "name:nld_x_preferred":[
+        "Paal"
+    ],
+    "name:swe_x_preferred":[
+        "Paal"
+    ],
     "name:unk_x_variant":[
         "Pael"
     ],
@@ -65,7 +89,7 @@
         }
     ],
     "wof:id":101755633,
-    "wof:lastmodified":1501264111,
+    "wof:lastmodified":1563235015,
     "wof:name":"Grote Paal",
     "wof:parent_id":1108830049,
     "wof:placetype":"locality",

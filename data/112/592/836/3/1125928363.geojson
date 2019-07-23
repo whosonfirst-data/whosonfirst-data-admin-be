@@ -18,6 +18,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Markegem"
+    ],
+    "name:deu_x_preferred":[
+        "Markegem"
+    ],
     "name:eng_x_preferred":[
         "Markegem"
     ],
@@ -93,7 +99,7 @@
         }
     ],
     "wof:id":1125928363,
-    "wof:lastmodified":1561831442,
+    "wof:lastmodified":1563235626,
     "wof:name":"Markegem",
     "wof:parent_id":1108830197,
     "wof:placetype":"locality",

@@ -16,20 +16,209 @@
     "mps:longitude":4.845033,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:afr_x_preferred":[
+        "Noorderwijk"
+    ],
+    "name:arg_x_preferred":[
+        "Noorderwijk"
+    ],
+    "name:ast_x_preferred":[
+        "Noorderwijk"
+    ],
+    "name:bar_x_preferred":[
+        "Noorderwijk"
+    ],
+    "name:bre_x_preferred":[
+        "Noorderwijk"
+    ],
+    "name:cat_x_preferred":[
+        "Noorderwijk"
+    ],
+    "name:ces_x_preferred":[
+        "Noorderwijk"
+    ],
+    "name:cos_x_preferred":[
+        "Noorderwijk"
+    ],
+    "name:cym_x_preferred":[
+        "Noorderwijk"
+    ],
+    "name:dan_x_preferred":[
+        "Noorderwijk"
+    ],
+    "name:deu_x_preferred":[
+        "Noorderwijk"
+    ],
     "name:eng_x_preferred":[
+        "Noorderwijk"
+    ],
+    "name:epo_x_preferred":[
+        "Noorderwijk"
+    ],
+    "name:est_x_preferred":[
+        "Noorderwijk"
+    ],
+    "name:eus_x_preferred":[
+        "Noorderwijk"
+    ],
+    "name:fin_x_preferred":[
         "Noorderwijk"
     ],
     "name:fra_x_preferred":[
         "Noorderwijk"
     ],
+    "name:frp_x_preferred":[
+        "Noorderwijk"
+    ],
+    "name:fur_x_preferred":[
+        "Noorderwijk"
+    ],
+    "name:gla_x_preferred":[
+        "Noorderwijk"
+    ],
+    "name:gle_x_preferred":[
+        "Noorderwijk"
+    ],
+    "name:glg_x_preferred":[
+        "Noorderwijk"
+    ],
+    "name:gsw_x_preferred":[
+        "Noorderwijk"
+    ],
+    "name:hrv_x_preferred":[
+        "Noorderwijk"
+    ],
     "name:hun_x_preferred":[
+        "Noorderwijk"
+    ],
+    "name:ido_x_preferred":[
+        "Noorderwijk"
+    ],
+    "name:ile_x_preferred":[
+        "Noorderwijk"
+    ],
+    "name:ina_x_preferred":[
+        "Noorderwijk"
+    ],
+    "name:ind_x_preferred":[
+        "Noorderwijk"
+    ],
+    "name:isl_x_preferred":[
+        "Noorderwijk"
+    ],
+    "name:ita_x_preferred":[
+        "Noorderwijk"
+    ],
+    "name:kon_x_preferred":[
+        "Noorderwijk"
+    ],
+    "name:lij_x_preferred":[
+        "Noorderwijk"
+    ],
+    "name:lim_x_preferred":[
+        "Noorderwijk"
+    ],
+    "name:ltz_x_preferred":[
+        "Noorderwijk"
+    ],
+    "name:min_x_preferred":[
+        "Noorderwijk"
+    ],
+    "name:mlg_x_preferred":[
+        "Noorderwijk"
+    ],
+    "name:msa_x_preferred":[
+        "Noorderwijk"
+    ],
+    "name:nap_x_preferred":[
+        "Noorderwijk"
+    ],
+    "name:nds_x_preferred":[
         "Noorderwijk"
     ],
     "name:nld_x_preferred":[
         "Noorderwijk"
     ],
+    "name:nno_x_preferred":[
+        "Noorderwijk"
+    ],
+    "name:nob_x_preferred":[
+        "Noorderwijk"
+    ],
+    "name:nrm_x_preferred":[
+        "Noorderwijk"
+    ],
+    "name:oci_x_preferred":[
+        "Noorderwijk"
+    ],
+    "name:pcd_x_preferred":[
+        "Noorderwijk"
+    ],
+    "name:pms_x_preferred":[
+        "Noorderwijk"
+    ],
+    "name:pol_x_preferred":[
+        "Noorderwijk"
+    ],
+    "name:por_x_preferred":[
+        "Noorderwijk"
+    ],
+    "name:roh_x_preferred":[
+        "Noorderwijk"
+    ],
+    "name:ron_x_preferred":[
+        "Noorderwijk"
+    ],
+    "name:rus_x_preferred":[
+        "\u041d\u043e\u0440\u0434\u0435\u0440\u0432\u0435\u0439\u043a"
+    ],
+    "name:scn_x_preferred":[
+        "Noorderwijk"
+    ],
+    "name:sco_x_preferred":[
+        "Noorderwijk"
+    ],
+    "name:slk_x_preferred":[
+        "Noorderwijk"
+    ],
+    "name:slv_x_preferred":[
+        "Noorderwijk"
+    ],
+    "name:spa_x_preferred":[
+        "Noorderwijk"
+    ],
+    "name:srd_x_preferred":[
+        "Noorderwijk"
+    ],
+    "name:swa_x_preferred":[
+        "Noorderwijk"
+    ],
+    "name:swe_x_preferred":[
+        "Noorderwijk"
+    ],
     "name:unk_x_variant":[
         "Norderwyck"
+    ],
+    "name:vec_x_preferred":[
+        "Noorderwijk"
+    ],
+    "name:vie_x_preferred":[
+        "Noorderwijk"
+    ],
+    "name:vls_x_preferred":[
+        "Noorderwijk"
+    ],
+    "name:vol_x_preferred":[
+        "Noorderwijk"
+    ],
+    "name:wln_x_preferred":[
+        "Noorderwijk"
+    ],
+    "name:wol_x_preferred":[
+        "Noorderwijk"
+    ],
+    "name:zul_x_preferred":[
+        "Noorderwijk"
     ],
     "qs:a0":"Belgi\u00eb#Belgique#Belgien",
     "qs:a1":"*Antwerpen",
@@ -79,7 +268,7 @@
         }
     ],
     "wof:id":101754409,
-    "wof:lastmodified":1561831409,
+    "wof:lastmodified":1563235142,
     "wof:name":"Noorderwijk",
     "wof:parent_id":1108830061,
     "wof:placetype":"locality",

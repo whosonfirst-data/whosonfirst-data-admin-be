@@ -43,6 +43,9 @@
     "name:cat_x_preferred":[
         "Schoten"
     ],
+    "name:ceb_x_preferred":[
+        "Schoten"
+    ],
     "name:ces_x_preferred":[
         "Schoten"
     ],
@@ -187,6 +190,9 @@
     "name:ron_x_preferred":[
         "Schoten"
     ],
+    "name:rus_x_preferred":[
+        "\u0421\u0445\u043e\u0442\u0435\u043d"
+    ],
     "name:scn_x_preferred":[
         "Schoten"
     ],
@@ -301,7 +307,7 @@
         }
     ],
     "wof:id":1125995801,
-    "wof:lastmodified":1561831461,
+    "wof:lastmodified":1563235828,
     "wof:name":"Schoten",
     "wof:parent_id":1108830155,
     "wof:placetype":"locality",

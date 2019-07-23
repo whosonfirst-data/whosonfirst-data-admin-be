@@ -21,6 +21,9 @@
     "name:eng_x_preferred":[
         "Waulsort"
     ],
+    "name:fas_x_preferred":[
+        "\u0648\u0648\u0644\u0633\u0631\u062a"
+    ],
     "name:fra_x_preferred":[
         "Waulsort"
     ],
@@ -87,7 +90,7 @@
         }
     ],
     "wof:id":1125848485,
-    "wof:lastmodified":1561831483,
+    "wof:lastmodified":1563236038,
     "wof:name":"Waulsort",
     "wof:parent_id":102049919,
     "wof:placetype":"locality",

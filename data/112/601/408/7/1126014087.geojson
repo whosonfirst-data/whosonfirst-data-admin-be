@@ -30,6 +30,9 @@
     "name:hun_x_preferred":[
         "Durnal"
     ],
+    "name:ltz_x_preferred":[
+        "Durnal"
+    ],
     "name:nld_x_preferred":[
         "Durnal"
     ],
@@ -93,7 +96,7 @@
         }
     ],
     "wof:id":1126014087,
-    "wof:lastmodified":1561831468,
+    "wof:lastmodified":1563235904,
     "wof:name":"Durnal",
     "wof:parent_id":102049919,
     "wof:placetype":"locality",

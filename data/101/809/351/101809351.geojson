@@ -22,6 +22,9 @@
     "name:ces_x_preferred":[
         "LO"
     ],
+    "name:ces_x_variant":[
+        "Lo"
+    ],
     "name:dan_x_preferred":[
         "LO"
     ],
@@ -36,6 +39,9 @@
     ],
     "name:fas_x_preferred":[
         "LO"
+    ],
+    "name:fas_x_variant":[
+        "\u0644\u0648"
     ],
     "name:fin_x_preferred":[
         "Lo"
@@ -75,6 +81,9 @@
     ],
     "name:por_x_preferred":[
         "LO"
+    ],
+    "name:por_x_variant":[
+        "Lo"
     ],
     "name:ron_x_preferred":[
         "LO"
@@ -146,7 +155,7 @@
         }
     ],
     "wof:id":101809351,
-    "wof:lastmodified":1561831429,
+    "wof:lastmodified":1563235445,
     "wof:name":"Lo",
     "wof:parent_id":1108830073,
     "wof:placetype":"locality",

@@ -53,6 +53,9 @@
     "name:ita_x_preferred":[
         "Galmaarden"
     ],
+    "name:ltz_x_preferred":[
+        "Galmaarden"
+    ],
     "name:nld_x_preferred":[
         "Galmaarden"
     ],
@@ -78,6 +81,9 @@
         "Galmaarden"
     ],
     "name:swe_x_preferred":[
+        "Galmaarden"
+    ],
+    "name:tur_x_preferred":[
         "Galmaarden"
     ],
     "name:unk_x_variant":[
@@ -145,7 +151,7 @@
         }
     ],
     "wof:id":101810555,
-    "wof:lastmodified":1561831415,
+    "wof:lastmodified":1563235240,
     "wof:name":"Galmaarden",
     "wof:parent_id":1108830579,
     "wof:placetype":"locality",

@@ -21,6 +21,9 @@
     "name:eng_x_preferred":[
         "Aubechies"
     ],
+    "name:fas_x_preferred":[
+        "\u0627\u0648\u0628\u0634\u06cc\u0632"
+    ],
     "name:fra_x_preferred":[
         "Aubechies"
     ],
@@ -87,7 +90,7 @@
         }
     ],
     "wof:id":1125947479,
-    "wof:lastmodified":1561831439,
+    "wof:lastmodified":1563235598,
     "wof:name":"Aubechies",
     "wof:parent_id":102049949,
     "wof:placetype":"locality",

@@ -40,6 +40,9 @@
     "name:cat_x_preferred":[
         "B\u00fcllingen"
     ],
+    "name:ceb_x_preferred":[
+        "Bullange"
+    ],
     "name:ces_x_preferred":[
         "B\u00fcllingen"
     ],
@@ -127,10 +130,16 @@
     "name:ksh_x_preferred":[
         "B\u00f6ll\u00e9nge"
     ],
+    "name:ksh_x_variant":[
+        "B\u00fcllingen"
+    ],
     "name:lij_x_preferred":[
         "B\u00fcllingen"
     ],
     "name:lim_x_preferred":[
+        "B\u00fcllingen"
+    ],
+    "name:lmo_x_preferred":[
         "B\u00fcllingen"
     ],
     "name:ltz_x_preferred":[
@@ -282,7 +291,7 @@
         }
     ],
     "wof:id":1125882493,
-    "wof:lastmodified":1561831455,
+    "wof:lastmodified":1563235765,
     "wof:name":"Bullange",
     "wof:parent_id":102049935,
     "wof:placetype":"locality",

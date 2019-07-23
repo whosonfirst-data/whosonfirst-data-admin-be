@@ -26,6 +26,9 @@
     "name:cat_x_preferred":[
         "Hamoir"
     ],
+    "name:ceb_x_preferred":[
+        "Hamoir"
+    ],
     "name:deu_x_preferred":[
         "Hamoir"
     ],
@@ -71,6 +74,9 @@
     "name:oci_x_preferred":[
         "Hamoir"
     ],
+    "name:pol_x_preferred":[
+        "Hamoir"
+    ],
     "name:por_x_preferred":[
         "Hamoir"
     ],
@@ -81,6 +87,9 @@
         "\u0410\u043c\u0443\u0430\u0440"
     ],
     "name:slk_x_preferred":[
+        "Hamoir"
+    ],
+    "name:spa_x_preferred":[
         "Hamoir"
     ],
     "name:vie_x_preferred":[
@@ -147,7 +156,7 @@
         }
     ],
     "wof:id":101810355,
-    "wof:lastmodified":1561831414,
+    "wof:lastmodified":1563235217,
     "wof:name":"Hamoir",
     "wof:parent_id":102049925,
     "wof:placetype":"locality",

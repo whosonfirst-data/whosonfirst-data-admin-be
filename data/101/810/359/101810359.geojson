@@ -68,6 +68,9 @@
     "name:oci_x_preferred":[
         "H\u00e9ron"
     ],
+    "name:pol_x_preferred":[
+        "H\u00e9ron"
+    ],
     "name:por_x_preferred":[
         "H\u00e9ron"
     ],
@@ -75,6 +78,9 @@
         "H\u00e9ron"
     ],
     "name:slk_x_preferred":[
+        "H\u00e9ron"
+    ],
+    "name:spa_x_preferred":[
         "H\u00e9ron"
     ],
     "name:swe_x_preferred":[
@@ -146,7 +152,7 @@
         }
     ],
     "wof:id":101810359,
-    "wof:lastmodified":1561831415,
+    "wof:lastmodified":1563235237,
     "wof:name":"H\u00e9ron",
     "wof:parent_id":102049925,
     "wof:placetype":"locality",

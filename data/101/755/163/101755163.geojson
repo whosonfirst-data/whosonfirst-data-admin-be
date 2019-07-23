@@ -26,6 +26,9 @@
     "name:cat_x_preferred":[
         "Pepinster"
     ],
+    "name:ceb_x_preferred":[
+        "Pepinster"
+    ],
     "name:deu_x_preferred":[
         "Pepinster"
     ],
@@ -71,6 +74,9 @@
     "name:oci_x_preferred":[
         "Pepinster"
     ],
+    "name:pol_x_preferred":[
+        "Pepinster"
+    ],
     "name:por_x_preferred":[
         "Pepinster"
     ],
@@ -81,6 +87,9 @@
         "\u041f\u0435\u043f\u0435\u043d\u0441\u0442\u0435\u0440"
     ],
     "name:slk_x_preferred":[
+        "Pepinster"
+    ],
+    "name:spa_x_preferred":[
         "Pepinster"
     ],
     "name:vie_x_preferred":[
@@ -147,7 +156,7 @@
         }
     ],
     "wof:id":101755163,
-    "wof:lastmodified":1561831403,
+    "wof:lastmodified":1563235063,
     "wof:name":"Pepinster",
     "wof:parent_id":102049935,
     "wof:placetype":"locality",

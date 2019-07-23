@@ -80,6 +80,9 @@
     "name:oci_x_preferred":[
         "Rochefort"
     ],
+    "name:pol_x_preferred":[
+        "Rochefort"
+    ],
     "name:por_x_preferred":[
         "Rochefort"
     ],
@@ -166,7 +169,7 @@
         }
     ],
     "wof:id":101839739,
-    "wof:lastmodified":1561831433,
+    "wof:lastmodified":1563235505,
     "wof:name":"Rochefort",
     "wof:parent_id":102049919,
     "wof:placetype":"locality",

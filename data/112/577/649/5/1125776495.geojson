@@ -21,6 +21,9 @@
     "name:bul_x_preferred":[
         "\u0415\u043b\u0438\u043d\u0433\u0435\u043d"
     ],
+    "name:ceb_x_preferred":[
+        "Elingen"
+    ],
     "name:eng_x_preferred":[
         "Elingen"
     ],
@@ -90,7 +93,7 @@
         }
     ],
     "wof:id":1125776495,
-    "wof:lastmodified":1561831487,
+    "wof:lastmodified":1563236083,
     "wof:name":"Elingen",
     "wof:parent_id":1108830351,
     "wof:placetype":"locality",

@@ -26,6 +26,9 @@
     "name:cat_x_preferred":[
         "Blegny"
     ],
+    "name:ceb_x_preferred":[
+        "Bl\u00e9gny"
+    ],
     "name:deu_x_preferred":[
         "Blegny"
     ],
@@ -89,6 +92,9 @@
     "name:slk_x_preferred":[
         "Blegny"
     ],
+    "name:spa_x_preferred":[
+        "Blegny"
+    ],
     "name:vie_x_preferred":[
         "Blegny"
     ],
@@ -100,6 +106,9 @@
     ],
     "name:wln_x_preferred":[
         "Blegn\u00e9"
+    ],
+    "name:wln_x_variant":[
+        "Blegneye"
     ],
     "name:zho_x_preferred":[
         "\u5e03\u52d2\u5c3c"
@@ -157,7 +166,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1561831400,
+    "wof:lastmodified":1563235033,
     "wof:name":"Bl\u00e9gny",
     "wof:parent_id":102049941,
     "wof:placetype":"locality",

@@ -16,8 +16,14 @@
     "mps:longitude":4.403536,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:deu_x_preferred":[
+        "Reet"
+    ],
     "name:eng_x_preferred":[
         "Reeth"
+    ],
+    "name:eng_x_variant":[
+        "Reet"
     ],
     "name:fra_x_preferred":[
         "Reet"
@@ -89,7 +95,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1561831396,
+    "wof:lastmodified":1563234981,
     "wof:name":"Reet",
     "wof:parent_id":1108830173,
     "wof:placetype":"locality",

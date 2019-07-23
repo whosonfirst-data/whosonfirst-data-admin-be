@@ -65,6 +65,9 @@
     "name:kal_x_preferred":[
         "Vorselaar"
     ],
+    "name:ltz_x_preferred":[
+        "Vorselaar"
+    ],
     "name:nld_x_preferred":[
         "Vorselaar"
     ],
@@ -160,7 +163,7 @@
         }
     ],
     "wof:id":101809477,
-    "wof:lastmodified":1561831428,
+    "wof:lastmodified":1563235428,
     "wof:name":"Vorselaar",
     "wof:parent_id":1108830237,
     "wof:placetype":"locality",

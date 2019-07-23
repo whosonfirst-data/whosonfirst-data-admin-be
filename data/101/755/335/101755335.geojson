@@ -25,6 +25,9 @@
     "name:eng_x_preferred":[
         "Erpe"
     ],
+    "name:fas_x_preferred":[
+        "\u0627\u0631\u067e"
+    ],
     "name:fra_x_preferred":[
         "Erpe"
     ],
@@ -93,7 +96,7 @@
         }
     ],
     "wof:id":101755335,
-    "wof:lastmodified":1561831402,
+    "wof:lastmodified":1563235061,
     "wof:name":"Erpe",
     "wof:parent_id":1108830215,
     "wof:placetype":"locality",

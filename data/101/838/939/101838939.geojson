@@ -22,6 +22,9 @@
     "name:fra_x_preferred":[
         "Sint-Huibrechts-Lille"
     ],
+    "name:fra_x_variant":[
+        "Lille-Saint-Hubert"
+    ],
     "name:hun_x_preferred":[
         "Sint-Huibrechts-Lille"
     ],
@@ -76,7 +79,7 @@
         }
     ],
     "wof:id":101838939,
-    "wof:lastmodified":1561831423,
+    "wof:lastmodified":1563235355,
     "wof:name":"Sint-Huibrechts-Lille",
     "wof:parent_id":1108830117,
     "wof:placetype":"locality",

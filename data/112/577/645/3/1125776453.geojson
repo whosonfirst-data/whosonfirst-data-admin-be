@@ -21,6 +21,12 @@
     "name:bul_x_preferred":[
         "\u041a\u043e\u0431\u0435\u0433\u0435\u043c"
     ],
+    "name:ceb_x_preferred":[
+        "Kobbegem"
+    ],
+    "name:deu_x_preferred":[
+        "Kobbegem"
+    ],
     "name:eng_x_preferred":[
         "Kobbegem"
     ],
@@ -37,6 +43,9 @@
         "Kobbegem"
     ],
     "name:unk_x_variant":[
+        "Kobbegem"
+    ],
+    "name:vls_x_preferred":[
         "Kobbegem"
     ],
     "qs_pg:aaroncc":"BE",
@@ -93,7 +102,7 @@
         }
     ],
     "wof:id":1125776453,
-    "wof:lastmodified":1561831484,
+    "wof:lastmodified":1563236053,
     "wof:name":"Cobbeghem",
     "wof:parent_id":1108830421,
     "wof:placetype":"locality",

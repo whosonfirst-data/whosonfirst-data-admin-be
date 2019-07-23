@@ -24,6 +24,9 @@
     "mz:min_zoom":13.0,
     "mz:tier_locality":5,
     "mz:tier_metro":30,
+    "name:bel_x_preferred":[
+        "\u0423\u043a\u0435\u043b"
+    ],
     "name:bre_x_preferred":[
         "Ukkel"
     ],
@@ -39,6 +42,9 @@
     "name:ces_x_preferred":[
         "Uccle"
     ],
+    "name:cym_x_preferred":[
+        "Uccle"
+    ],
     "name:dan_x_preferred":[
         "Ukkel"
     ],
@@ -48,12 +54,14 @@
     "name:deu_x_preferred":[
         "Uccle/Ukkel"
     ],
+    "name:ell_x_preferred":[
+        "\u03a5\u03ba\u03bb"
+    ],
     "name:eng_x_preferred":[
         "Ukkel"
     ],
     "name:eng_x_variant":[
-        "Uccle",
-        "Ukkel"
+        "Uccle"
     ],
     "name:epo_x_preferred":[
         "Uccle"
@@ -76,14 +84,23 @@
     "name:fra_x_variant":[
         "Bruxelles (Uccle)"
     ],
+    "name:gle_x_preferred":[
+        "Uccle"
+    ],
     "name:hbs_x_preferred":[
         "Uccle"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05d5\u05e7\u05dc\u05d4"
     ],
     "name:hrv_x_preferred":[
         "Uccle"
     ],
     "name:hun_x_preferred":[
         "Uccle"
+    ],
+    "name:hye_x_preferred":[
+        "\u0548\u0582\u056f\u0565\u056c"
     ],
     "name:ind_x_preferred":[
         "Uccle-Ukkel"
@@ -103,6 +120,9 @@
     "name:lim_x_preferred":[
         "Ukkel"
     ],
+    "name:ltz_x_preferred":[
+        "Uccle/Ukkel"
+    ],
     "name:nld_x_preferred":[
         "Ukkel"
     ],
@@ -110,6 +130,12 @@
         "Ukkle",
         "Uccle",
         "Brussel (Ukkel)"
+    ],
+    "name:nno_x_preferred":[
+        "Uccle"
+    ],
+    "name:nob_x_preferred":[
+        "Uccle"
     ],
     "name:nor_x_preferred":[
         "Uccle"
@@ -119,6 +145,9 @@
     ],
     "name:pol_x_preferred":[
         "Uccle"
+    ],
+    "name:pol_x_variant":[
+        "Ukkel"
     ],
     "name:por_x_preferred":[
         "Uccle"
@@ -135,13 +164,22 @@
     "name:slk_x_preferred":[
         "Uccle"
     ],
+    "name:slv_x_preferred":[
+        "Uccle"
+    ],
     "name:spa_x_preferred":[
+        "Uccle"
+    ],
+    "name:sqi_x_preferred":[
         "Uccle"
     ],
     "name:srp_x_preferred":[
         "\u0423\u043a\u0435\u043b"
     ],
     "name:swe_x_preferred":[
+        "Uccle"
+    ],
+    "name:szl_x_preferred":[
         "Uccle"
     ],
     "name:tha_x_preferred":[
@@ -153,6 +191,9 @@
     "name:unk_x_variant":[
         "Ukkel",
         "Uccle"
+    ],
+    "name:urd_x_preferred":[
+        "\u0627\u06cc\u06a9\u0644"
     ],
     "name:vol_x_preferred":[
         "Ukkel"
@@ -227,7 +268,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1527640902,
+    "wof:lastmodified":1563233997,
     "wof:name":"Uccle",
     "wof:parent_id":101751573,
     "wof:placetype":"neighbourhood",

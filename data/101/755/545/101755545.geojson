@@ -62,8 +62,14 @@
     "name:ita_x_preferred":[
         "Beersel"
     ],
+    "name:jpn_x_preferred":[
+        "\u30d9\u30fc\u30eb\u30bb\u30eb"
+    ],
     "name:lit_x_preferred":[
         "Birselis"
+    ],
+    "name:ltz_x_preferred":[
+        "Beersel"
     ],
     "name:nld_x_preferred":[
         "Beersel"
@@ -75,6 +81,9 @@
         "Beersel"
     ],
     "name:oci_x_preferred":[
+        "Beersel"
+    ],
+    "name:pol_x_preferred":[
         "Beersel"
     ],
     "name:por_x_preferred":[
@@ -93,6 +102,9 @@
         "Beersel"
     ],
     "name:swe_x_preferred":[
+        "Beersel"
+    ],
+    "name:tur_x_preferred":[
         "Beersel"
     ],
     "name:vie_x_preferred":[
@@ -158,7 +170,7 @@
         }
     ],
     "wof:id":101755545,
-    "wof:lastmodified":1561831401,
+    "wof:lastmodified":1563235048,
     "wof:name":"Beersel",
     "wof:parent_id":1108830253,
     "wof:placetype":"locality",

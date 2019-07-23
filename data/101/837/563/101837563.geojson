@@ -16,8 +16,14 @@
     "mps:longitude":4.290636,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:bel_x_preferred":[
+        "\u0420\u0443\u043f\u0435\u043b\u044c\u043c\u043e\u043d\u0434"
+    ],
     "name:bul_x_preferred":[
         "\u0420\u0443\u043f\u0435\u043b\u043c\u043e\u043d\u0434\u0435"
+    ],
+    "name:cat_x_preferred":[
+        "Rupelmonde"
     ],
     "name:ceb_x_preferred":[
         "Rupelmonde"
@@ -25,8 +31,14 @@
     "name:ces_x_preferred":[
         "Rupelmonde"
     ],
+    "name:dan_x_preferred":[
+        "Rupelmonde"
+    ],
     "name:deu_x_preferred":[
         "Rupelmonde"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a1\u03c5\u03c0\u03b5\u03bb\u03bc\u03cc\u03bd\u03c4\u03b5"
     ],
     "name:eng_x_preferred":[
         "Rupelmonde"
@@ -126,7 +138,7 @@
         }
     ],
     "wof:id":101837563,
-    "wof:lastmodified":1561831432,
+    "wof:lastmodified":1563235484,
     "wof:name":"Rupelmonde",
     "wof:parent_id":1108830395,
     "wof:placetype":"locality",

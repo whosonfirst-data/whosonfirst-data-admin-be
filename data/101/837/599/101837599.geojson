@@ -19,6 +19,9 @@
     "name:eng_x_preferred":[
         "Burght"
     ],
+    "name:eng_x_variant":[
+        "Burcht"
+    ],
     "name:fra_x_preferred":[
         "Burcht"
     ],
@@ -85,7 +88,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1561831432,
+    "wof:lastmodified":1563235484,
     "wof:name":"Burcht",
     "wof:parent_id":1108830433,
     "wof:placetype":"locality",

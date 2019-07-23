@@ -21,6 +21,9 @@
     "name:arg_x_preferred":[
         "Valonia"
     ],
+    "name:ast_x_preferred":[
+        "Rex\u00f3n Valona"
+    ],
     "name:bel_x_preferred":[
         "\u0412\u0430\u043b\u043e\u043d\u0456\u044f"
     ],
@@ -35,6 +38,9 @@
     ],
     "name:cat_x_preferred":[
         "Val\u00f2nia"
+    ],
+    "name:ceb_x_preferred":[
+        "Wallonia"
     ],
     "name:ces_x_preferred":[
         "Valonsko"
@@ -75,6 +81,9 @@
     "name:fra_x_preferred":[
         "R\u00e9gion wallonne"
     ],
+    "name:frp_x_preferred":[
+        "Valonie"
+    ],
     "name:frr_x_preferred":[
         "Wallonii"
     ],
@@ -92,6 +101,9 @@
     ],
     "name:heb_x_preferred":[
         "\u05d5\u05dc\u05d5\u05e0\u05d9\u05d4"
+    ],
+    "name:hin_x_preferred":[
+        "\u0935\u093e\u0932\u094b\u0928\u093f\u092f\u093e"
     ],
     "name:hrv_x_preferred":[
         "Valonija"
@@ -252,8 +264,14 @@
     "name:wln_x_preferred":[
         "Walonreye"
     ],
+    "name:wuu_x_preferred":[
+        "\u74e6\u9686\u5927\u533a"
+    ],
     "name:yid_x_preferred":[
         "\u05d5\u05d5\u05d0\u05dc\u05d0\u05e0\u05d9\u05e2"
+    ],
+    "name:yue_x_preferred":[
+        "\u83ef\u9686"
     ],
     "name:zea_x_preferred":[
         "Walloni\u00eb"
@@ -300,7 +318,7 @@
         "fra",
         "deu"
     ],
-    "wof:lastmodified":1561831438,
+    "wof:lastmodified":1563235592,
     "wof:name":"Wallonia",
     "wof:parent_id":85632997,
     "wof:placetype":"macroregion",

@@ -35,6 +35,9 @@
     "name:ces_x_preferred":[
         "Mesen"
     ],
+    "name:dan_x_preferred":[
+        "Mesen"
+    ],
     "name:deu_x_preferred":[
         "Mesen"
     ],
@@ -56,10 +59,16 @@
     "name:hun_x_preferred":[
         "Mesen"
     ],
+    "name:hye_x_preferred":[
+        "\u0544\u0565\u057d\u0565\u0576"
+    ],
     "name:ita_x_preferred":[
         "Mesen"
     ],
     "name:lim_x_preferred":[
+        "Mesen"
+    ],
+    "name:ltz_x_preferred":[
         "Mesen"
     ],
     "name:nld_x_preferred":[
@@ -87,6 +96,9 @@
         "\u041c\u0435\u0441\u0435\u043d"
     ],
     "name:slk_x_preferred":[
+        "Mesen"
+    ],
+    "name:spa_x_preferred":[
         "Mesen"
     ],
     "name:swe_x_preferred":[
@@ -164,7 +176,7 @@
         }
     ],
     "wof:id":101809281,
-    "wof:lastmodified":1561831428,
+    "wof:lastmodified":1563235431,
     "wof:name":"Mesen",
     "wof:parent_id":1108830585,
     "wof:placetype":"locality",

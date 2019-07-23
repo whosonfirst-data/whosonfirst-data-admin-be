@@ -21,6 +21,9 @@
     "name:bul_x_preferred":[
         "\u041b\u0438\u0431\u0435\u0440\u0447\u0438\u0435\u0441"
     ],
+    "name:ceb_x_preferred":[
+        "Liberchies"
+    ],
     "name:eng_x_preferred":[
         "Liberchies"
     ],
@@ -97,7 +100,7 @@
         }
     ],
     "wof:id":1125950287,
-    "wof:lastmodified":1561831443,
+    "wof:lastmodified":1563235637,
     "wof:name":"Liberchies",
     "wof:parent_id":102049927,
     "wof:placetype":"locality",

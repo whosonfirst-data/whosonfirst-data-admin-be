@@ -21,6 +21,9 @@
     "name:bul_x_preferred":[
         "\u041c\u0435\u043b\u0434\u0435\u043d"
     ],
+    "name:ceb_x_preferred":[
+        "Melden"
+    ],
     "name:eng_x_preferred":[
         "Melden"
     ],
@@ -92,7 +95,7 @@
         }
     ],
     "wof:id":1125887971,
-    "wof:lastmodified":1561831454,
+    "wof:lastmodified":1563235753,
     "wof:name":"Melden",
     "wof:parent_id":1108830311,
     "wof:placetype":"locality",

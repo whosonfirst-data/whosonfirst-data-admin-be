@@ -16,6 +16,9 @@
     "mps:longitude":4.074542,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:cat_x_preferred":[
+        "Kemzeke"
+    ],
     "name:eng_x_preferred":[
         "Kemzeke"
     ],
@@ -84,7 +87,7 @@
         }
     ],
     "wof:id":101838995,
-    "wof:lastmodified":1561831425,
+    "wof:lastmodified":1563235386,
     "wof:name":"Kemzeke",
     "wof:parent_id":1108830283,
     "wof:placetype":"locality",

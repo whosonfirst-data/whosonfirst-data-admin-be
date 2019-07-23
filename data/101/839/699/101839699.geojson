@@ -19,6 +19,9 @@
     "name:eng_x_preferred":[
         "Nedereename"
     ],
+    "name:eng_x_variant":[
+        "Nederename"
+    ],
     "name:fra_x_preferred":[
         "Nederename"
     ],
@@ -83,7 +86,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1561831435,
+    "wof:lastmodified":1563235536,
     "wof:name":"Nederename",
     "wof:parent_id":1108830311,
     "wof:placetype":"locality",

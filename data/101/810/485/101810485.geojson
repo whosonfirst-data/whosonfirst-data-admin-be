@@ -29,6 +29,9 @@
     "name:cat_x_preferred":[
         "Beauvechain"
     ],
+    "name:ceb_x_preferred":[
+        "Beauvechain"
+    ],
     "name:cym_x_preferred":[
         "Beauvechain"
     ],
@@ -165,7 +168,7 @@
         }
     ],
     "wof:id":101810485,
-    "wof:lastmodified":1561831414,
+    "wof:lastmodified":1563235220,
     "wof:name":"Beauvechain",
     "wof:parent_id":102049945,
     "wof:placetype":"locality",

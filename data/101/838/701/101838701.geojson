@@ -59,6 +59,9 @@
     "name:lim_x_preferred":[
         "Wille"
     ],
+    "name:ltz_x_preferred":[
+        "Wellen"
+    ],
     "name:nld_x_preferred":[
         "Wellen"
     ],
@@ -81,6 +84,9 @@
         "Wellen"
     ],
     "name:slk_x_preferred":[
+        "Wellen"
+    ],
+    "name:spa_x_preferred":[
         "Wellen"
     ],
     "name:swe_x_preferred":[
@@ -151,7 +157,7 @@
         }
     ],
     "wof:id":101838701,
-    "wof:lastmodified":1561831423,
+    "wof:lastmodified":1563235352,
     "wof:name":"Wellen",
     "wof:parent_id":1108830011,
     "wof:placetype":"locality",

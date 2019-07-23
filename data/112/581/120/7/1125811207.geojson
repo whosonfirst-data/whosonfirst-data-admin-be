@@ -24,6 +24,9 @@
     "name:eng_x_preferred":[
         "La Gleize"
     ],
+    "name:fas_x_preferred":[
+        "\u0644\u06af\u0644\u0627\u06cc\u0632"
+    ],
     "name:fin_x_preferred":[
         "La Gleize"
     ],
@@ -102,7 +105,7 @@
         }
     ],
     "wof:id":1125811207,
-    "wof:lastmodified":1561831453,
+    "wof:lastmodified":1563235742,
     "wof:name":"La Gleize",
     "wof:parent_id":102049935,
     "wof:placetype":"locality",

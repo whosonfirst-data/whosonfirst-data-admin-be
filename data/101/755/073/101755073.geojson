@@ -29,6 +29,9 @@
     "name:ceb_x_preferred":[
         "Manage"
     ],
+    "name:cym_x_preferred":[
+        "Manage"
+    ],
     "name:deu_x_preferred":[
         "Manage"
     ],
@@ -56,6 +59,9 @@
     "name:lim_x_preferred":[
         "Manage"
     ],
+    "name:ltz_x_preferred":[
+        "Manage"
+    ],
     "name:nld_x_preferred":[
         "Manage"
     ],
@@ -68,6 +74,9 @@
     "name:oci_x_preferred":[
         "Manage"
     ],
+    "name:pol_x_preferred":[
+        "Manage"
+    ],
     "name:por_x_preferred":[
         "Manage"
     ],
@@ -78,6 +87,9 @@
         "\u041c\u0430\u043d\u0430\u0436"
     ],
     "name:slk_x_preferred":[
+        "Manage"
+    ],
+    "name:spa_x_preferred":[
         "Manage"
     ],
     "name:swe_x_preferred":[
@@ -148,7 +160,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1561831404,
+    "wof:lastmodified":1563235073,
     "wof:name":"Manage",
     "wof:parent_id":102049927,
     "wof:placetype":"locality",

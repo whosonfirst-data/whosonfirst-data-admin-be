@@ -21,6 +21,9 @@
     "name:eng_x_preferred":[
         "Nonceveux"
     ],
+    "name:fas_x_preferred":[
+        "\u0646\u0648\u0646\u0633\u0648\u0648"
+    ],
     "name:fra_x_preferred":[
         "Nonceveux"
     ],
@@ -81,7 +84,7 @@
         }
     ],
     "wof:id":1125890655,
-    "wof:lastmodified":1561831456,
+    "wof:lastmodified":1563235775,
     "wof:name":"Nonceveux",
     "wof:parent_id":102049941,
     "wof:placetype":"locality",

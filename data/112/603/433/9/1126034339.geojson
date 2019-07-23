@@ -21,6 +21,9 @@
     "name:bul_x_preferred":[
         "\u0410\u043b\u0441\u0435\u043c\u0431\u0435\u0440\u0433"
     ],
+    "name:ceb_x_preferred":[
+        "Alsemberg"
+    ],
     "name:eng_x_preferred":[
         "Alsemberg"
     ],
@@ -95,7 +98,7 @@
         }
     ],
     "wof:id":1126034339,
-    "wof:lastmodified":1561831451,
+    "wof:lastmodified":1563235714,
     "wof:name":"Alsemberg",
     "wof:parent_id":1108830253,
     "wof:placetype":"locality",

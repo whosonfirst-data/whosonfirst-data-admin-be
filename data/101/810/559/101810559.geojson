@@ -58,6 +58,9 @@
     "name:ita_x_preferred":[
         "Bever"
     ],
+    "name:ltz_x_preferred":[
+        "Bever"
+    ],
     "name:nds_x_preferred":[
         "Bever"
     ],
@@ -71,6 +74,9 @@
         "Bever"
     ],
     "name:oci_x_preferred":[
+        "Bever"
+    ],
+    "name:pol_x_preferred":[
         "Bever"
     ],
     "name:por_x_preferred":[
@@ -89,6 +95,9 @@
         "Bever"
     ],
     "name:swe_x_preferred":[
+        "Bever"
+    ],
+    "name:tur_x_preferred":[
         "Bever"
     ],
     "name:vie_x_preferred":[
@@ -152,7 +161,7 @@
         }
     ],
     "wof:id":101810559,
-    "wof:lastmodified":1561831414,
+    "wof:lastmodified":1563235214,
     "wof:name":"Bever",
     "wof:parent_id":1108830485,
     "wof:placetype":"locality",

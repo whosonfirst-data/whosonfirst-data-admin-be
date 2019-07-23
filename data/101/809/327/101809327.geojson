@@ -25,6 +25,9 @@
     "name:eng_x_preferred":[
         "Aerseele"
     ],
+    "name:eng_x_variant":[
+        "Aarsele"
+    ],
     "name:fra_x_preferred":[
         "Aarsele"
     ],
@@ -102,7 +105,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1561831431,
+    "wof:lastmodified":1563235461,
     "wof:name":"Aarsele",
     "wof:parent_id":1108830265,
     "wof:placetype":"locality",

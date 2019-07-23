@@ -29,6 +29,9 @@
     "name:cat_x_preferred":[
         "Herk-de-Stad"
     ],
+    "name:ceb_x_preferred":[
+        "Herk-de-Stad"
+    ],
     "name:dan_x_preferred":[
         "Herk-de-Stad"
     ],
@@ -65,6 +68,9 @@
     "name:lim_x_preferred":[
         "Herk"
     ],
+    "name:ltz_x_preferred":[
+        "Herk-de-Stad"
+    ],
     "name:nld_x_preferred":[
         "Herk-de-Stad"
     ],
@@ -75,6 +81,9 @@
         "Herk-de-Stad"
     ],
     "name:oci_x_preferred":[
+        "Herk-de-Stad"
+    ],
+    "name:pol_x_preferred":[
         "Herk-de-Stad"
     ],
     "name:por_x_preferred":[
@@ -103,6 +112,9 @@
     ],
     "name:tur_x_preferred":[
         "Herk-de-Stad"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0413\u0435\u0440\u043a-\u0434\u0435-\u0421\u0442\u0430\u0434"
     ],
     "name:vie_x_preferred":[
         "Herk-de-Stad"
@@ -163,7 +175,7 @@
         }
     ],
     "wof:id":101913577,
-    "wof:lastmodified":1561831421,
+    "wof:lastmodified":1563235326,
     "wof:name":"Herk-de-Stad",
     "wof:parent_id":1108830543,
     "wof:placetype":"locality",

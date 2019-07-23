@@ -26,6 +26,9 @@
     "name:cat_x_preferred":[
         "Martelange"
     ],
+    "name:ceb_x_preferred":[
+        "Martelange"
+    ],
     "name:deu_x_preferred":[
         "Martelange"
     ],
@@ -71,6 +74,9 @@
     "name:oci_x_preferred":[
         "Martelange"
     ],
+    "name:pol_x_preferred":[
+        "Martelange"
+    ],
     "name:por_x_preferred":[
         "Martelange"
     ],
@@ -81,6 +87,12 @@
         "\u041c\u0430\u0440\u0442\u0435\u043b\u0430\u043d\u0436"
     ],
     "name:slk_x_preferred":[
+        "Martelange"
+    ],
+    "name:spa_x_preferred":[
+        "Martelange"
+    ],
+    "name:swe_x_preferred":[
         "Martelange"
     ],
     "name:unk_x_variant":[
@@ -150,7 +162,7 @@
         }
     ],
     "wof:id":101845551,
-    "wof:lastmodified":1561831413,
+    "wof:lastmodified":1563235209,
     "wof:name":"Martelange",
     "wof:parent_id":102049909,
     "wof:placetype":"locality",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":6772126.12525,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.491599,50.64355,5.491599,50.64355",
     "geom:latitude":50.64355,
     "geom:longitude":5.491599,
@@ -38,6 +38,9 @@
     "name:deu_x_preferred":[
         "Gr\u00e2ce-Hollogne"
     ],
+    "name:eng_x_preferred":[
+        "Gr\u00e2ce-Hollogne"
+    ],
     "name:epo_x_preferred":[
         "Gr\u00e2ce-Hollogne"
     ],
@@ -51,17 +54,61 @@
         "Gr\u00e2ce-Hollogne"
     ],
     "name:fra_x_variant":[
-        "Gr\u00e2ce-Hollogne",
         "Grace-Hollogne"
     ],
+    "name:hun_x_preferred":[
+        "Gr\u00e2ce-Hollogne"
+    ],
     "name:ita_x_preferred":[
+        "Gr\u00e2ce-Hollogne"
+    ],
+    "name:lim_x_preferred":[
+        "Gr\u00e2ce-Hollogne"
+    ],
+    "name:ltz_x_preferred":[
+        "Gr\u00e2ce-Hollogne"
+    ],
+    "name:nld_x_preferred":[
+        "Gr\u00e2ce-Hollogne"
+    ],
+    "name:nob_x_preferred":[
+        "Gr\u00e2ce-Hollogne"
+    ],
+    "name:oci_x_preferred":[
+        "Gr\u00e2ce-Hollogne"
+    ],
+    "name:pol_x_preferred":[
+        "Gr\u00e2ce-Hollogne"
+    ],
+    "name:por_x_preferred":[
+        "Gr\u00e2ce-Hollogne"
+    ],
+    "name:ron_x_preferred":[
         "Gr\u00e2ce-Hollogne"
     ],
     "name:rus_x_preferred":[
         "\u0413\u0440\u0430\u0441-\u041e\u043b\u043e\u043d\u044c"
     ],
+    "name:slk_x_preferred":[
+        "Gr\u00e2ce-Hollogne"
+    ],
+    "name:spa_x_preferred":[
+        "Gr\u00e2ce-Hollogne"
+    ],
+    "name:swe_x_preferred":[
+        "Gr\u00e2ce-Hollogne"
+    ],
     "name:unk_x_variant":[
         "Grace-Hollogne"
+    ],
+    "name:vie_x_preferred":[
+        "Gr\u00e2ce-Hollogne"
+    ],
+    "name:vol_x_preferred":[
+        "Gr\u00e2ce-Hollogne"
+    ],
+    "name:war_x_preferred":[
+        "Gr\u00e2ce-Hollogne"
     ],
     "name:wln_x_preferred":[
         "Gr\u00e5ce-Hologne"
@@ -102,12 +149,12 @@
     "src:lbl:centroid":"yerbashapes",
     "wd:wordcount":364,
     "wof:belongsto":[
-        85681691,
         102191581,
         85632997,
         404227353,
         101748083,
-        102049941
+        102049941,
+        85681691
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -135,7 +182,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1531862067,
+    "wof:lastmodified":1563233984,
     "wof:name":"Grace-Hollogne",
     "wof:parent_id":101748083,
     "wof:placetype":"neighbourhood",

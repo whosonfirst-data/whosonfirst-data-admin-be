@@ -48,6 +48,9 @@
     "name:cat_x_preferred":[
         "Roche-\u00e0-Fr\u00eane"
     ],
+    "name:ceb_x_preferred":[
+        "Roche-\u00e0-Fr\u00eane"
+    ],
     "name:ces_x_preferred":[
         "Roche-\u00e0-Fr\u00eane"
     ],
@@ -432,7 +435,7 @@
         }
     ],
     "wof:id":1125832873,
-    "wof:lastmodified":1561831489,
+    "wof:lastmodified":1563236103,
     "wof:name":"Roche \u00c0 Fr\u00eane",
     "wof:parent_id":102049921,
     "wof:placetype":"locality",

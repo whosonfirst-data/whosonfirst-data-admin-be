@@ -26,6 +26,9 @@
     "name:cat_x_preferred":[
         "Deinze"
     ],
+    "name:ceb_x_preferred":[
+        "Deinze"
+    ],
     "name:dan_x_preferred":[
         "Deinze"
     ],
@@ -34,6 +37,9 @@
     ],
     "name:eng_x_preferred":[
         "Deynze"
+    ],
+    "name:eng_x_variant":[
+        "Deinze"
     ],
     "name:epo_x_preferred":[
         "Deinze"
@@ -50,8 +56,14 @@
     "name:fra_x_preferred":[
         "Deinze"
     ],
+    "name:gle_x_preferred":[
+        "Deinze"
+    ],
     "name:hun_x_preferred":[
         "Deinze"
+    ],
+    "name:hye_x_preferred":[
+        "\u0534\u0565\u0575\u0576\u0566\u0565"
     ],
     "name:ita_x_preferred":[
         "Deinze"
@@ -180,7 +192,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1561831431,
+    "wof:lastmodified":1563235469,
     "wof:name":"Deinze",
     "wof:parent_id":1108830629,
     "wof:placetype":"locality",

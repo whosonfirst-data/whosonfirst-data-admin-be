@@ -29,6 +29,9 @@
     "name:ceb_x_preferred":[
         "Geetbets"
     ],
+    "name:cym_x_preferred":[
+        "Geetbets"
+    ],
     "name:deu_x_preferred":[
         "Geetbets"
     ],
@@ -51,6 +54,12 @@
         "Geetbets"
     ],
     "name:ita_x_preferred":[
+        "Geetbets"
+    ],
+    "name:lim_x_preferred":[
+        "Bets"
+    ],
+    "name:ltz_x_preferred":[
         "Geetbets"
     ],
     "name:nld_x_preferred":[
@@ -148,7 +157,7 @@
         }
     ],
     "wof:id":101809257,
-    "wof:lastmodified":1561831428,
+    "wof:lastmodified":1563235432,
     "wof:name":"Geetbets",
     "wof:parent_id":1108830427,
     "wof:placetype":"locality",

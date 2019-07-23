@@ -31,6 +31,9 @@
     "name:ceb_x_preferred":[
         "Zibbeek"
     ],
+    "name:ceb_x_variant":[
+        "Dilbeek"
+    ],
     "name:dan_x_preferred":[
         "Dilbeek"
     ],
@@ -52,6 +55,9 @@
     "name:fra_x_preferred":[
         "Dilbeek"
     ],
+    "name:gle_x_preferred":[
+        "Dilbeek"
+    ],
     "name:hun_x_preferred":[
         "Dilbeek"
     ],
@@ -60,6 +66,9 @@
     ],
     "name:lit_x_preferred":[
         "Dilbekas"
+    ],
+    "name:ltz_x_preferred":[
+        "Dilbeek"
     ],
     "name:nld_x_preferred":[
         "Dilbeek"
@@ -98,6 +107,9 @@
         "\u0414\u0438\u043b\u0431\u0435\u043a"
     ],
     "name:swe_x_preferred":[
+        "Dilbeek"
+    ],
+    "name:tur_x_preferred":[
         "Dilbeek"
     ],
     "name:vie_x_preferred":[
@@ -169,7 +181,7 @@
         }
     ],
     "wof:id":1125764857,
-    "wof:lastmodified":1561831476,
+    "wof:lastmodified":1563235966,
     "wof:name":"Dilbeek",
     "wof:parent_id":1108830207,
     "wof:placetype":"locality",

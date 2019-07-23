@@ -33,6 +33,9 @@
     "name:nld_x_preferred":[
         "Eigenbilzen"
     ],
+    "name:por_x_preferred":[
+        "Eigenbilzen"
+    ],
     "name:unk_x_variant":[
         "Eygenbilsen"
     ],
@@ -92,7 +95,7 @@
         }
     ],
     "wof:id":1126028827,
-    "wof:lastmodified":1561831445,
+    "wof:lastmodified":1563235652,
     "wof:name":"Eigenbilzen",
     "wof:parent_id":1108830245,
     "wof:placetype":"locality",

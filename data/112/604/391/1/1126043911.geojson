@@ -24,8 +24,14 @@
     "name:bul_x_preferred":[
         "\u0411\u0435\u0440\u0441\u0442"
     ],
+    "name:ceb_x_preferred":[
+        "Beerst"
+    ],
     "name:eng_x_preferred":[
         "Beerst"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u06cc\u06cc\u0631\u0633\u062a"
     ],
     "name:fra_x_preferred":[
         "Beerst"
@@ -97,7 +103,7 @@
         }
     ],
     "wof:id":1126043911,
-    "wof:lastmodified":1561831448,
+    "wof:lastmodified":1563235684,
     "wof:name":"Beerst",
     "wof:parent_id":1108830401,
     "wof:placetype":"locality",

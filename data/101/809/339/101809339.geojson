@@ -26,6 +26,12 @@
     "name:cat_x_preferred":[
         "Dentergem"
     ],
+    "name:ceb_x_preferred":[
+        "Dentergem"
+    ],
+    "name:ces_x_preferred":[
+        "Dentergem"
+    ],
     "name:deu_x_preferred":[
         "Dentergem"
     ],
@@ -56,6 +62,9 @@
     "name:lim_x_preferred":[
         "Dentergem"
     ],
+    "name:ltz_x_preferred":[
+        "Dentergem"
+    ],
     "name:nld_x_preferred":[
         "Dentergem"
     ],
@@ -66,6 +75,9 @@
         "Dentergem"
     ],
     "name:oci_x_preferred":[
+        "Dentergem"
+    ],
+    "name:pol_x_preferred":[
         "Dentergem"
     ],
     "name:por_x_preferred":[
@@ -156,7 +168,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1561831427,
+    "wof:lastmodified":1563235422,
     "wof:name":"Dentergem",
     "wof:parent_id":1108830197,
     "wof:placetype":"locality",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000696,
-    "geom:area_square_m":5464355.441336,
+    "geom:area_square_m":5464355.441335,
     "geom:bbox":"4.62226408658,50.5626790358,4.66174284397,50.6344750222",
     "geom:latitude":50.602894,
     "geom:longitude":4.642226,
@@ -17,6 +17,21 @@
     "mps:longitude":4.646884,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Chastre-Villeroux-Blanmont"
+    ],
+    "name:eng_x_preferred":[
+        "Chastre-Villeroux-Blanmont"
+    ],
+    "name:fra_x_preferred":[
+        "Chastre-Villeroux-Blanmont"
+    ],
+    "name:nld_x_preferred":[
+        "Chastre-Villeroux-Blanmont"
+    ],
+    "name:swe_x_preferred":[
+        "Chastre-Villeroux-Blanmont"
+    ],
     "name:unk_x_variant":[
         "Chastre (Chastre-Villeroux-Blanmont)"
     ],
@@ -64,7 +79,7 @@
         }
     ],
     "wof:id":101839781,
-    "wof:lastmodified":1505338260,
+    "wof:lastmodified":1563235543,
     "wof:name":"Chastre",
     "wof:parent_id":102049945,
     "wof:placetype":"locality",

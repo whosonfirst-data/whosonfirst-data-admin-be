@@ -26,6 +26,12 @@
     "name:cat_x_preferred":[
         "Bertrix"
     ],
+    "name:ceb_x_preferred":[
+        "Bertrix"
+    ],
+    "name:dan_x_preferred":[
+        "Bertrix"
+    ],
     "name:deu_x_preferred":[
         "Bertrix"
     ],
@@ -77,6 +83,9 @@
     "name:oci_x_preferred":[
         "Bertrix"
     ],
+    "name:pol_x_preferred":[
+        "Bertrix"
+    ],
     "name:por_x_preferred":[
         "Bertrix"
     ],
@@ -89,7 +98,13 @@
     "name:slk_x_preferred":[
         "Bertrix"
     ],
+    "name:spa_x_preferred":[
+        "Bertrix"
+    ],
     "name:swe_x_preferred":[
+        "Bertrix"
+    ],
+    "name:tur_x_preferred":[
         "Bertrix"
     ],
     "name:vie_x_preferred":[
@@ -156,7 +171,7 @@
         }
     ],
     "wof:id":101812841,
-    "wof:lastmodified":1561831422,
+    "wof:lastmodified":1563235341,
     "wof:name":"Bertrix",
     "wof:parent_id":102049913,
     "wof:placetype":"locality",

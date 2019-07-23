@@ -19,6 +19,9 @@
     "name:eng_x_preferred":[
         "Wonek"
     ],
+    "name:eng_x_variant":[
+        "Wonck"
+    ],
     "name:fra_x_preferred":[
         "Wonck"
     ],
@@ -84,7 +87,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1561831423,
+    "wof:lastmodified":1563235360,
     "wof:name":"Wonck",
     "wof:parent_id":102049941,
     "wof:placetype":"locality",

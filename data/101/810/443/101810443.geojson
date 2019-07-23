@@ -71,6 +71,9 @@
     "name:oci_x_preferred":[
         "Geer"
     ],
+    "name:pol_x_preferred":[
+        "Geer"
+    ],
     "name:por_x_preferred":[
         "Geer"
     ],
@@ -78,6 +81,9 @@
         "Geer"
     ],
     "name:slk_x_preferred":[
+        "Geer"
+    ],
+    "name:spa_x_preferred":[
         "Geer"
     ],
     "name:swe_x_preferred":[
@@ -146,7 +152,7 @@
         }
     ],
     "wof:id":101810443,
-    "wof:lastmodified":1561831416,
+    "wof:lastmodified":1563235245,
     "wof:name":"Geer",
     "wof:parent_id":102049937,
     "wof:placetype":"locality",

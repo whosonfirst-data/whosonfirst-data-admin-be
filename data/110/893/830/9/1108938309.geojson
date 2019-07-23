@@ -21,6 +21,9 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
     "mz:tier_metro":30,
+    "name:cat_x_preferred":[
+        "Leopold Districte"
+    ],
     "name:eng_x_preferred":[
         "Leopold Quarter"
     ],
@@ -33,8 +36,14 @@
     "name:fra_x_variant":[
         "quartier L\u00e9opold"
     ],
+    "name:ita_x_preferred":[
+        "Quartiere Europeo"
+    ],
     "name:nld_x_preferred":[
         "Leopoldswijk"
+    ],
+    "name:zho_x_preferred":[
+        "\u5229\u5965\u6ce2\u5fb7\u533a"
     ],
     "src:lbl:centroid":"mz",
     "wof:belongsto":[
@@ -64,7 +73,7 @@
         }
     ],
     "wof:id":1108938309,
-    "wof:lastmodified":1561831384,
+    "wof:lastmodified":1563234629,
     "wof:name":"Quartier Leopold",
     "wof:parent_id":101751573,
     "wof:placetype":"neighbourhood",

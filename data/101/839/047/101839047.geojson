@@ -25,6 +25,9 @@
     "name:hun_x_preferred":[
         "Veldegem"
     ],
+    "name:ltz_x_preferred":[
+        "Veldegem"
+    ],
     "name:nld_x_preferred":[
         "Veldegem"
     ],
@@ -86,7 +89,7 @@
         }
     ],
     "wof:id":101839047,
-    "wof:lastmodified":1561831434,
+    "wof:lastmodified":1563235512,
     "wof:name":"Veldegem",
     "wof:parent_id":1108830317,
     "wof:placetype":"locality",

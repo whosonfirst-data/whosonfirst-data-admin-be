@@ -26,6 +26,9 @@
     "name:cat_x_preferred":[
         "Staden"
     ],
+    "name:ceb_x_preferred":[
+        "Staden"
+    ],
     "name:deu_x_preferred":[
         "Staden"
     ],
@@ -72,6 +75,9 @@
         "Staden"
     ],
     "name:oci_x_preferred":[
+        "Staden"
+    ],
+    "name:pol_x_preferred":[
         "Staden"
     ],
     "name:por_x_preferred":[
@@ -156,7 +162,7 @@
         }
     ],
     "wof:id":101809299,
-    "wof:lastmodified":1561831430,
+    "wof:lastmodified":1563235460,
     "wof:name":"Staden",
     "wof:parent_id":1108830315,
     "wof:placetype":"locality",

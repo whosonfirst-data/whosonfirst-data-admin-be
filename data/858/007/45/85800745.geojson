@@ -23,10 +23,22 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
     "mz:tier_locality":3,
+    "name:bul_x_preferred":[
+        "\u0410\u0444\u0441\u043d\u0435\u0435"
+    ],
     "name:ceb_x_preferred":[
         "Afsnee"
     ],
+    "name:eng_x_preferred":[
+        "Afsnee"
+    ],
+    "name:fas_x_preferred":[
+        "\u0622\u0641\u0632\u0646\u06cc"
+    ],
     "name:fra_x_preferred":[
+        "Afsnee"
+    ],
+    "name:hun_x_preferred":[
         "Afsnee"
     ],
     "name:nld_x_preferred":[
@@ -109,7 +121,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1561831363,
+    "wof:lastmodified":1563233962,
     "wof:name":"Afsnee",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

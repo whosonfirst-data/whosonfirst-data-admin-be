@@ -21,6 +21,12 @@
     "name:bre_x_preferred":[
         "Vinkem"
     ],
+    "name:dan_x_preferred":[
+        "Vinkem"
+    ],
+    "name:deu_x_preferred":[
+        "Vinkem"
+    ],
     "name:eng_x_preferred":[
         "Vinkem"
     ],
@@ -31,6 +37,9 @@
         "Vinkem"
     ],
     "name:nld_x_preferred":[
+        "Vinkem"
+    ],
+    "name:swe_x_preferred":[
         "Vinkem"
     ],
     "name:unk_x_variant":[
@@ -93,7 +102,7 @@
         }
     ],
     "wof:id":1126029185,
-    "wof:lastmodified":1561831446,
+    "wof:lastmodified":1563235655,
     "wof:name":"Vinkem",
     "wof:parent_id":1108830165,
     "wof:placetype":"locality",

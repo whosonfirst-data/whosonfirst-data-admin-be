@@ -26,6 +26,9 @@
     "name:cat_x_preferred":[
         "L\u00e9glise"
     ],
+    "name:ceb_x_preferred":[
+        "L\u00e9glise"
+    ],
     "name:deu_x_preferred":[
         "L\u00e9glise"
     ],
@@ -53,6 +56,9 @@
     "name:ita_x_preferred":[
         "L\u00e9glise"
     ],
+    "name:jpn_x_preferred":[
+        "\u30ec\u30b0\u30ea\u30fc\u30ba"
+    ],
     "name:lim_x_preferred":[
         "L\u00e9glise"
     ],
@@ -68,6 +74,9 @@
     "name:oci_x_preferred":[
         "L\u00e9glise"
     ],
+    "name:pol_x_preferred":[
+        "L\u00e9glise"
+    ],
     "name:por_x_preferred":[
         "L\u00e9glise"
     ],
@@ -78,6 +87,12 @@
         "\u041b\u0435\u0433\u043b\u0438\u0437"
     ],
     "name:slk_x_preferred":[
+        "L\u00e9glise"
+    ],
+    "name:spa_x_preferred":[
+        "L\u00e9glise"
+    ],
+    "name:swe_x_preferred":[
         "L\u00e9glise"
     ],
     "name:vie_x_preferred":[
@@ -144,7 +159,7 @@
         }
     ],
     "wof:id":101812845,
-    "wof:lastmodified":1561831421,
+    "wof:lastmodified":1563235336,
     "wof:name":"L\u00e9glise",
     "wof:parent_id":102049913,
     "wof:placetype":"locality",

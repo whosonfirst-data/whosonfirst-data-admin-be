@@ -26,6 +26,9 @@
     "name:cat_x_preferred":[
         "Braives"
     ],
+    "name:ceb_x_preferred":[
+        "Braives"
+    ],
     "name:deu_x_preferred":[
         "Braives"
     ],
@@ -74,6 +77,9 @@
     "name:oci_x_preferred":[
         "Braives"
     ],
+    "name:pol_x_preferred":[
+        "Braives"
+    ],
     "name:por_x_preferred":[
         "Braives"
     ],
@@ -84,6 +90,12 @@
         "\u0411\u0440\u0435\u0432"
     ],
     "name:slk_x_preferred":[
+        "Braives"
+    ],
+    "name:spa_x_preferred":[
+        "Braives"
+    ],
+    "name:swe_x_preferred":[
         "Braives"
     ],
     "name:vie_x_preferred":[
@@ -147,7 +159,7 @@
         }
     ],
     "wof:id":101810461,
-    "wof:lastmodified":1561831417,
+    "wof:lastmodified":1563235254,
     "wof:name":"Braives",
     "wof:parent_id":102049937,
     "wof:placetype":"locality",

@@ -21,6 +21,9 @@
     "name:bul_x_preferred":[
         "\u041c\u0435\u043b\u0441\u0435\u043d"
     ],
+    "name:ceb_x_preferred":[
+        "Melsen"
+    ],
     "name:eng_x_preferred":[
         "Melsen"
     ],
@@ -92,7 +95,7 @@
         }
     ],
     "wof:id":1125986063,
-    "wof:lastmodified":1561831467,
+    "wof:lastmodified":1563235891,
     "wof:name":"Melsen",
     "wof:parent_id":1108830115,
     "wof:placetype":"locality",

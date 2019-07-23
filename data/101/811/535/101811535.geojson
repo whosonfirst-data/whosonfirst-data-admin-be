@@ -26,6 +26,9 @@
     "name:cat_x_preferred":[
         "Vaux-sur-S\u00fbre"
     ],
+    "name:ceb_x_preferred":[
+        "Vaux-sur-S\u00fbre"
+    ],
     "name:deu_x_preferred":[
         "Vaux-sur-S\u00fbre"
     ],
@@ -68,6 +71,9 @@
     "name:oci_x_preferred":[
         "Vaux-sur-S\u00fbre"
     ],
+    "name:pol_x_preferred":[
+        "Vaux-sur-S\u00fbre"
+    ],
     "name:por_x_preferred":[
         "Vaux-sur-S\u00fbre"
     ],
@@ -78,6 +84,9 @@
         "\u0412\u043e-\u0441\u044e\u0440-\u0421\u044e\u0440"
     ],
     "name:slk_x_preferred":[
+        "Vaux-sur-S\u00fbre"
+    ],
+    "name:spa_x_preferred":[
         "Vaux-sur-S\u00fbre"
     ],
     "name:unk_x_variant":[
@@ -147,7 +156,7 @@
         }
     ],
     "wof:id":101811535,
-    "wof:lastmodified":1561831411,
+    "wof:lastmodified":1563235176,
     "wof:name":"Vaux-sur-S\u00fbre",
     "wof:parent_id":102049915,
     "wof:placetype":"locality",

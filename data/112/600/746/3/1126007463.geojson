@@ -21,6 +21,9 @@
     "name:deu_x_preferred":[
         "Tarcienne"
     ],
+    "name:ell_x_preferred":[
+        "\u03a4\u03b1\u03c1\u03c3\u03b9\u03ad\u03bd"
+    ],
     "name:eng_x_preferred":[
         "Tarcienne"
     ],
@@ -88,7 +91,7 @@
         }
     ],
     "wof:id":1126007463,
-    "wof:lastmodified":1561831471,
+    "wof:lastmodified":1563235934,
     "wof:name":"Tarcienne",
     "wof:parent_id":102049917,
     "wof:placetype":"locality",

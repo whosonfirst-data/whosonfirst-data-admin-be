@@ -70,6 +70,9 @@
     "name:oci_x_preferred":[
         "Neupr\u00e9"
     ],
+    "name:pol_x_preferred":[
+        "Neupr\u00e9"
+    ],
     "name:por_x_preferred":[
         "Neupr\u00e9"
     ],
@@ -80,6 +83,9 @@
         "\u041d\u0451\u043f\u0440\u0435"
     ],
     "name:slk_x_preferred":[
+        "Neupr\u00e9"
+    ],
+    "name:spa_x_preferred":[
         "Neupr\u00e9"
     ],
     "name:swe_x_preferred":[
@@ -145,7 +151,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1561831415,
+    "wof:lastmodified":1563235231,
     "wof:name":"Neupr\u00e9",
     "wof:parent_id":102049941,
     "wof:placetype":"locality",

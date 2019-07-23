@@ -59,6 +59,9 @@
     "name:jpn_x_preferred":[
         "\u30b7\u30a8\u30fc\u30f4\u30eb"
     ],
+    "name:lat_x_preferred":[
+        "Cervia"
+    ],
     "name:lim_x_preferred":[
         "Chi\u00e8vres"
     ],
@@ -72,6 +75,12 @@
         "Chi\u00e8vres"
     ],
     "name:oci_x_preferred":[
+        "Chi\u00e8vres"
+    ],
+    "name:pcd_x_preferred":[
+        "Chieuve"
+    ],
+    "name:pol_x_preferred":[
         "Chi\u00e8vres"
     ],
     "name:por_x_preferred":[
@@ -161,7 +170,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1561831436,
+    "wof:lastmodified":1563235546,
     "wof:name":"Chi\u00e8vres",
     "wof:parent_id":102049949,
     "wof:placetype":"locality",

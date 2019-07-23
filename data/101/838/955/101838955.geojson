@@ -20,6 +20,9 @@
     "name:bul_x_preferred":[
         "\u0425\u043e\u0443\u0442\u0445\u0430\u043b\u0435\u043d"
     ],
+    "name:ceb_x_preferred":[
+        "Houthalen"
+    ],
     "name:eng_x_preferred":[
         "Houthalen"
     ],
@@ -90,7 +93,7 @@
         }
     ],
     "wof:id":101838955,
-    "wof:lastmodified":1561831423,
+    "wof:lastmodified":1563235359,
     "wof:name":"Houthalen",
     "wof:parent_id":1108830235,
     "wof:placetype":"locality",

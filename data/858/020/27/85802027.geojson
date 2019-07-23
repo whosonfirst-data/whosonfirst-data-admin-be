@@ -23,19 +23,184 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":13.0,
     "mz:tier_locality":3,
+    "name:afr_x_preferred":[
+        "Wondelgem"
+    ],
+    "name:arg_x_preferred":[
+        "Wondelgem"
+    ],
+    "name:ast_x_preferred":[
+        "Wondelgem"
+    ],
+    "name:bar_x_preferred":[
+        "Wondelgem"
+    ],
+    "name:bre_x_preferred":[
+        "Wondelgem"
+    ],
+    "name:cat_x_preferred":[
+        "Wondelgem"
+    ],
     "name:ceb_x_preferred":[
+        "Wondelgem"
+    ],
+    "name:ces_x_preferred":[
+        "Wondelgem"
+    ],
+    "name:cos_x_preferred":[
+        "Wondelgem"
+    ],
+    "name:cym_x_preferred":[
+        "Wondelgem"
+    ],
+    "name:dan_x_preferred":[
+        "Wondelgem"
+    ],
+    "name:deu_x_preferred":[
+        "Wondelgem"
+    ],
+    "name:eng_x_preferred":[
         "Wondelgem"
     ],
     "name:epo_x_preferred":[
         "Wondelgem"
     ],
+    "name:est_x_preferred":[
+        "Wondelgem"
+    ],
+    "name:eus_x_preferred":[
+        "Wondelgem"
+    ],
+    "name:fas_x_preferred":[
+        "\u0648\u0646\u062f\u0644\u200c\u062c\u0645"
+    ],
+    "name:fin_x_preferred":[
+        "Wondelgem"
+    ],
     "name:fra_x_preferred":[
+        "Wondelgem"
+    ],
+    "name:frp_x_preferred":[
+        "Wondelgem"
+    ],
+    "name:fur_x_preferred":[
+        "Wondelgem"
+    ],
+    "name:gla_x_preferred":[
+        "Wondelgem"
+    ],
+    "name:gle_x_preferred":[
+        "Wondelgem"
+    ],
+    "name:glg_x_preferred":[
+        "Wondelgem"
+    ],
+    "name:gsw_x_preferred":[
+        "Wondelgem"
+    ],
+    "name:hrv_x_preferred":[
+        "Wondelgem"
+    ],
+    "name:hun_x_preferred":[
+        "Wondelgem"
+    ],
+    "name:ido_x_preferred":[
+        "Wondelgem"
+    ],
+    "name:ile_x_preferred":[
+        "Wondelgem"
+    ],
+    "name:ina_x_preferred":[
+        "Wondelgem"
+    ],
+    "name:ind_x_preferred":[
+        "Wondelgem"
+    ],
+    "name:isl_x_preferred":[
+        "Wondelgem"
+    ],
+    "name:ita_x_preferred":[
+        "Wondelgem"
+    ],
+    "name:kon_x_preferred":[
+        "Wondelgem"
+    ],
+    "name:lij_x_preferred":[
+        "Wondelgem"
+    ],
+    "name:lim_x_preferred":[
+        "Wondelgem"
+    ],
+    "name:ltz_x_preferred":[
+        "Wondelgem"
+    ],
+    "name:min_x_preferred":[
+        "Wondelgem"
+    ],
+    "name:mlg_x_preferred":[
+        "Wondelgem"
+    ],
+    "name:msa_x_preferred":[
+        "Wondelgem"
+    ],
+    "name:nap_x_preferred":[
+        "Wondelgem"
+    ],
+    "name:nds_x_preferred":[
         "Wondelgem"
     ],
     "name:nld_x_preferred":[
         "Wondelgem"
     ],
+    "name:nno_x_preferred":[
+        "Wondelgem"
+    ],
+    "name:nob_x_preferred":[
+        "Wondelgem"
+    ],
+    "name:nrm_x_preferred":[
+        "Wondelgem"
+    ],
+    "name:oci_x_preferred":[
+        "Wondelgem"
+    ],
+    "name:pcd_x_preferred":[
+        "Wondelgem"
+    ],
+    "name:pms_x_preferred":[
+        "Wondelgem"
+    ],
+    "name:pol_x_preferred":[
+        "Wondelgem"
+    ],
+    "name:por_x_preferred":[
+        "Wondelgem"
+    ],
+    "name:roh_x_preferred":[
+        "Wondelgem"
+    ],
+    "name:ron_x_preferred":[
+        "Wondelgem"
+    ],
+    "name:scn_x_preferred":[
+        "Wondelgem"
+    ],
     "name:sco_x_preferred":[
+        "Wondelgem"
+    ],
+    "name:slk_x_preferred":[
+        "Wondelgem"
+    ],
+    "name:slv_x_preferred":[
+        "Wondelgem"
+    ],
+    "name:spa_x_preferred":[
+        "Wondelgem"
+    ],
+    "name:srd_x_preferred":[
+        "Wondelgem"
+    ],
+    "name:swa_x_preferred":[
         "Wondelgem"
     ],
     "name:swe_x_preferred":[
@@ -43,6 +208,27 @@
     ],
     "name:unk_x_variant":[
         "Wendelghem",
+        "Wondelgem"
+    ],
+    "name:vec_x_preferred":[
+        "Wondelgem"
+    ],
+    "name:vie_x_preferred":[
+        "Wondelgem"
+    ],
+    "name:vls_x_preferred":[
+        "Wondelgem"
+    ],
+    "name:vol_x_preferred":[
+        "Wondelgem"
+    ],
+    "name:wln_x_preferred":[
+        "Wondelgem"
+    ],
+    "name:wol_x_preferred":[
+        "Wondelgem"
+    ],
+    "name:zul_x_preferred":[
         "Wondelgem"
     ],
     "qs:gn_adm0_cc":"BE",
@@ -115,7 +301,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1561831364,
+    "wof:lastmodified":1563233972,
     "wof:name":"Wondelgem",
     "wof:parent_id":101748093,
     "wof:placetype":"neighbourhood",

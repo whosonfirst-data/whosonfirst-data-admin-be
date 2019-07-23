@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000465,
-    "geom:area_square_m":3634418.894514,
+    "geom:area_square_m":3634418.894515,
     "geom:bbox":"4.37530517578,50.8290875687,4.41199046422,50.8514909014",
     "geom:latitude":50.838731,
     "geom:longitude":4.392768,
@@ -27,10 +27,31 @@
     "name:ara_x_preferred":[
         "\u0625\u064a\u062a\u0631\u0628\u064a\u0643"
     ],
+    "name:ast_x_preferred":[
+        "Etterbeek"
+    ],
+    "name:bel_x_preferred":[
+        "\u042d\u0442\u044d\u0440\u0431\u0435\u043a"
+    ],
+    "name:bre_x_preferred":[
+        "Etterbeek"
+    ],
     "name:bul_x_preferred":[
         "\u0415\u0442\u0435\u0440\u0431\u0435\u043a"
     ],
     "name:cat_x_preferred":[
+        "Etterbeek"
+    ],
+    "name:ceb_x_preferred":[
+        "Etterbeek"
+    ],
+    "name:ces_x_preferred":[
+        "Etterbeek"
+    ],
+    "name:cym_x_preferred":[
+        "Etterbeek"
+    ],
+    "name:dan_x_preferred":[
         "Etterbeek"
     ],
     "name:deu_x_preferred":[
@@ -45,17 +66,50 @@
     "name:epo_x_preferred":[
         "Etterbeek"
     ],
+    "name:est_x_preferred":[
+        "Etterbeek"
+    ],
+    "name:eus_x_preferred":[
+        "Etterbeek"
+    ],
     "name:fas_x_preferred":[
         "\u0627\u06cc\u062a\u0631\u0628\u06cc\u0626\u06a9"
+    ],
+    "name:fin_x_preferred":[
+        "Etterbeek"
     ],
     "name:fra_x_preferred":[
         "Bruxelles (Etterbeek)"
     ],
+    "name:fra_x_variant":[
+        "Etterbeek"
+    ],
+    "name:gle_x_preferred":[
+        "Etterbeek"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05d8\u05e8\u05d1\u05e7"
+    ],
+    "name:hrv_x_preferred":[
+        "Etterbeek"
+    ],
+    "name:hun_x_preferred":[
+        "Etterbeek"
+    ],
+    "name:hye_x_preferred":[
+        "\u0537\u057f\u0565\u0580\u0562\u0565\u056f"
+    ],
     "name:ind_x_preferred":[
+        "Etterbeek"
+    ],
+    "name:ita_x_preferred":[
         "Etterbeek"
     ],
     "name:jpn_x_preferred":[
         "\u30a8\u30c6\u30eb\u30d9\u30fc\u30af"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d4\u10e2\u10d4\u10e0\u10d1\u10d4\u10d9\u10d8"
     ],
     "name:kor_x_preferred":[
         "\uc5d0\ud14c\ub974\ubca0\uc774\ud06c"
@@ -66,11 +120,29 @@
     "name:lim_x_preferred":[
         "Etterbeek"
     ],
+    "name:ltz_x_preferred":[
+        "Etterbeek"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0415\u0442\u0435\u0440\u0431\u0435\u043a"
+    ],
     "name:nld_x_preferred":[
         "Etterbeek"
     ],
     "name:nld_x_variant":[
         "Brussel (Etterbeek)"
+    ],
+    "name:nob_x_preferred":[
+        "Etterbeek"
+    ],
+    "name:oci_x_preferred":[
+        "Etterbeek"
+    ],
+    "name:pol_x_preferred":[
+        "Etterbeek"
+    ],
+    "name:por_x_preferred":[
+        "Etterbeek"
     ],
     "name:ron_x_preferred":[
         "Etterbeek"
@@ -78,16 +150,49 @@
     "name:rus_x_preferred":[
         "\u042d\u0442\u0442\u0435\u0440\u0431\u0435\u043a"
     ],
+    "name:sco_x_preferred":[
+        "Etterbeek"
+    ],
+    "name:slk_x_preferred":[
+        "Etterbeek"
+    ],
+    "name:slv_x_preferred":[
+        "Etterbeek"
+    ],
     "name:spa_x_preferred":[
         "Etterbeek"
     ],
     "name:srp_x_preferred":[
         "\u0415\u0442\u0435\u0440\u0431\u0435\u043a"
     ],
+    "name:swe_x_preferred":[
+        "Etterbeek"
+    ],
+    "name:szl_x_preferred":[
+        "Etterbeek"
+    ],
+    "name:tur_x_preferred":[
+        "Etterbeek"
+    ],
     "name:ukr_x_preferred":[
         "\u0415\u0442\u0442\u0435\u0440\u0431\u0435\u043a"
     ],
     "name:unk_x_variant":[
+        "Etterbeek"
+    ],
+    "name:urd_x_preferred":[
+        "\u0627\u06cc\u062a\u0631\u0628\u06cc\u06a9"
+    ],
+    "name:vie_x_preferred":[
+        "Etterbeek"
+    ],
+    "name:vls_x_preferred":[
+        "Etterbeek"
+    ],
+    "name:vol_x_preferred":[
+        "Etterbeek"
+    ],
+    "name:war_x_preferred":[
         "Etterbeek"
     ],
     "name:zho_x_preferred":[
@@ -156,7 +261,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1527640862,
+    "wof:lastmodified":1563233985,
     "wof:name":"Etterbeek",
     "wof:parent_id":101751573,
     "wof:placetype":"neighbourhood",

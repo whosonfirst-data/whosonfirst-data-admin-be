@@ -59,6 +59,9 @@
     "name:lit_x_preferred":[
         "Soerselas"
     ],
+    "name:ltz_x_preferred":[
+        "Zoersel"
+    ],
     "name:nld_x_preferred":[
         "Zoersel"
     ],
@@ -153,7 +156,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1561831402,
+    "wof:lastmodified":1563235060,
     "wof:name":"Zoersel",
     "wof:parent_id":1108830221,
     "wof:placetype":"locality",

@@ -38,6 +38,9 @@
     "name:cat_x_preferred":[
         "Bernissart"
     ],
+    "name:ceb_x_preferred":[
+        "Bernissart"
+    ],
     "name:ces_x_preferred":[
         "Bernissart"
     ],
@@ -206,6 +209,9 @@
     "name:swe_x_preferred":[
         "Bernissart"
     ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0435\u0440\u043d\u0456\u0441\u0441\u0430\u0440"
+    ],
     "name:vec_x_preferred":[
         "Bernissart"
     ],
@@ -287,7 +293,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1561831436,
+    "wof:lastmodified":1563235545,
     "wof:name":"Bernissart",
     "wof:parent_id":102049949,
     "wof:placetype":"locality",

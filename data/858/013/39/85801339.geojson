@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":2402610.109882,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.631914,50.650964,5.631914,50.650964",
     "geom:latitude":50.650964,
     "geom:longitude":5.631914,
@@ -26,24 +26,57 @@
     "name:bre_x_preferred":[
         "Jupille"
     ],
+    "name:ceb_x_preferred":[
+        "Jupille-sur-Meuse"
+    ],
+    "name:dan_x_preferred":[
+        "Jupille-sur-Meuse"
+    ],
     "name:deu_x_preferred":[
         "Jupille"
     ],
     "name:eng_x_preferred":[
         "Jupille-sur-Meuse"
     ],
-    "name:eng_x_variant":[
+    "name:epo_x_preferred":[
         "Jupille-sur-Meuse"
     ],
     "name:fra_x_preferred":[
         "Jupille"
     ],
+    "name:fra_x_variant":[
+        "Jupille-sur-Meuse"
+    ],
+    "name:hun_x_preferred":[
+        "Jupille-sur-Meuse"
+    ],
+    "name:ita_x_preferred":[
+        "Jupille-sur-Meuse"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b8\u30e5\u30d4\u30e6\uff1d\u30b7\u30e5\u30eb\uff1d\u30e0\u30fc\u30ba"
+    ],
     "name:lim_x_preferred":[
         "Jupille"
+    ],
+    "name:ltz_x_preferred":[
+        "Jupille-sur-Meuse"
+    ],
+    "name:nld_x_preferred":[
+        "Jupille-sur-Meuse"
+    ],
+    "name:slv_x_preferred":[
+        "Jupille-sur-Meuse"
+    ],
+    "name:swe_x_preferred":[
+        "Jupille-sur-Meuse"
     ],
     "name:unk_x_variant":[
         "Li\u00e8ge (Jupille-sur-Meuse)",
         "Jupille"
+    ],
+    "name:vls_x_preferred":[
+        "Hoogboom"
     ],
     "name:wln_x_preferred":[
         "Djoupeye"
@@ -81,12 +114,12 @@
     ],
     "src:lbl:centroid":"yerbashapes",
     "wof:belongsto":[
-        85681691,
         102191581,
         85632997,
         404227353,
         101748083,
-        102049941
+        102049941,
+        85681691
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -114,7 +147,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1531862076,
+    "wof:lastmodified":1563233952,
     "wof:name":"Jupille",
     "wof:parent_id":101748083,
     "wof:placetype":"neighbourhood",

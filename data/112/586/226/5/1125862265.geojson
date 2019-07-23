@@ -28,6 +28,9 @@
     "name:cat_x_preferred":[
         "Dison"
     ],
+    "name:ceb_x_preferred":[
+        "Dison"
+    ],
     "name:deu_x_preferred":[
         "Dison"
     ],
@@ -65,6 +68,9 @@
         "Dison"
     ],
     "name:oci_x_preferred":[
+        "Dison"
+    ],
+    "name:pol_x_preferred":[
         "Dison"
     ],
     "name:por_x_preferred":[
@@ -141,7 +147,7 @@
         }
     ],
     "wof:id":1125862265,
-    "wof:lastmodified":1561831451,
+    "wof:lastmodified":1563235721,
     "wof:name":"Dison",
     "wof:parent_id":102049935,
     "wof:placetype":"locality",

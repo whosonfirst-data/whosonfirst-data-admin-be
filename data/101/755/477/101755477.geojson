@@ -55,6 +55,9 @@
     "name:lit_x_preferred":[
         "Bochautas"
     ],
+    "name:ltz_x_preferred":[
+        "Boechout"
+    ],
     "name:nld_x_preferred":[
         "Boechout"
     ],
@@ -65,6 +68,9 @@
         "Boechout"
     ],
     "name:oci_x_preferred":[
+        "Boechout"
+    ],
+    "name:pol_x_preferred":[
         "Boechout"
     ],
     "name:por_x_preferred":[
@@ -145,7 +151,7 @@
         }
     ],
     "wof:id":101755477,
-    "wof:lastmodified":1561831398,
+    "wof:lastmodified":1563235006,
     "wof:name":"Boechout",
     "wof:parent_id":1108830553,
     "wof:placetype":"locality",

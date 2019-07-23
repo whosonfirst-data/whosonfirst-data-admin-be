@@ -21,6 +21,9 @@
     "name:bul_x_preferred":[
         "\u0411\u0435\u043a\u0435\u0433\u0435\u043c"
     ],
+    "name:ceb_x_preferred":[
+        "Bekegem"
+    ],
     "name:eng_x_preferred":[
         "Bekegem"
     ],
@@ -98,7 +101,7 @@
         }
     ],
     "wof:id":1125769225,
-    "wof:lastmodified":1561831476,
+    "wof:lastmodified":1563235968,
     "wof:name":"Bekegem",
     "wof:parent_id":1108830057,
     "wof:placetype":"locality",

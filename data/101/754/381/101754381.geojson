@@ -26,6 +26,9 @@
     "name:cat_x_preferred":[
         "De Pinte"
     ],
+    "name:ceb_x_preferred":[
+        "De Pinte"
+    ],
     "name:deu_x_preferred":[
         "De Pinte"
     ],
@@ -56,6 +59,9 @@
     "name:lit_x_preferred":[
         "De Pint\u0117"
     ],
+    "name:ltz_x_preferred":[
+        "De Pinte"
+    ],
     "name:nld_x_preferred":[
         "De Pinte"
     ],
@@ -66,6 +72,9 @@
         "De Pinte"
     ],
     "name:oci_x_preferred":[
+        "De Pinte"
+    ],
+    "name:pol_x_preferred":[
         "De Pinte"
     ],
     "name:por_x_preferred":[
@@ -153,7 +162,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1561831411,
+    "wof:lastmodified":1563235171,
     "wof:name":"De Pinte",
     "wof:parent_id":1108830643,
     "wof:placetype":"locality",

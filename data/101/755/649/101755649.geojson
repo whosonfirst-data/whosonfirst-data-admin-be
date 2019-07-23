@@ -53,6 +53,9 @@
     "name:ita_x_preferred":[
         "Berlaar"
     ],
+    "name:ltz_x_preferred":[
+        "Berlaar"
+    ],
     "name:nld_x_preferred":[
         "Berlaar"
     ],
@@ -63,6 +66,9 @@
         "Berlaar"
     ],
     "name:oci_x_preferred":[
+        "Berlaar"
+    ],
+    "name:pol_x_preferred":[
         "Berlaar"
     ],
     "name:por_x_preferred":[
@@ -145,7 +151,7 @@
         }
     ],
     "wof:id":101755649,
-    "wof:lastmodified":1561831404,
+    "wof:lastmodified":1563235076,
     "wof:name":"Berlaar",
     "wof:parent_id":1108830233,
     "wof:placetype":"locality",

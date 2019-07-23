@@ -29,6 +29,9 @@
     "name:cat_x_preferred":[
         "Binche"
     ],
+    "name:ceb_x_preferred":[
+        "Binche"
+    ],
     "name:cym_x_preferred":[
         "Binche"
     ],
@@ -56,6 +59,9 @@
     "name:fra_x_preferred":[
         "Binche"
     ],
+    "name:gle_x_preferred":[
+        "Binche"
+    ],
     "name:heb_x_preferred":[
         "\u05d1\u05e0\u05e9"
     ],
@@ -74,7 +80,13 @@
     "name:lat_x_preferred":[
         "Binchium"
     ],
+    "name:lav_x_preferred":[
+        "Ben\u0161a"
+    ],
     "name:lim_x_preferred":[
+        "Binche"
+    ],
+    "name:ltz_x_preferred":[
         "Binche"
     ],
     "name:mkd_x_preferred":[
@@ -117,6 +129,9 @@
         "Binche"
     ],
     "name:swe_x_preferred":[
+        "Binche"
+    ],
+    "name:tur_x_preferred":[
         "Binche"
     ],
     "name:vie_x_preferred":[
@@ -187,7 +202,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1561831398,
+    "wof:lastmodified":1563235008,
     "wof:name":"Binche",
     "wof:parent_id":102049923,
     "wof:placetype":"locality",

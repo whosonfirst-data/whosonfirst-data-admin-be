@@ -26,6 +26,9 @@
     "name:cat_x_preferred":[
         "Jalhay"
     ],
+    "name:ceb_x_preferred":[
+        "Jalhay"
+    ],
     "name:deu_x_preferred":[
         "Jalhay"
     ],
@@ -56,6 +59,9 @@
     "name:lit_x_preferred":[
         "\u017dal\u0117"
     ],
+    "name:ltz_x_preferred":[
+        "Jalhay"
+    ],
     "name:nld_x_preferred":[
         "Jalhay"
     ],
@@ -68,6 +74,9 @@
     "name:oci_x_preferred":[
         "Jalhay"
     ],
+    "name:pol_x_preferred":[
+        "Jalhay"
+    ],
     "name:por_x_preferred":[
         "Jalhay"
     ],
@@ -78,6 +87,12 @@
         "\u0416\u0430\u043b\u0435"
     ],
     "name:slk_x_preferred":[
+        "Jalhay"
+    ],
+    "name:spa_x_preferred":[
+        "Jalhay"
+    ],
+    "name:tur_x_preferred":[
         "Jalhay"
     ],
     "name:urd_x_preferred":[
@@ -147,7 +162,7 @@
         }
     ],
     "wof:id":101810431,
-    "wof:lastmodified":1561831415,
+    "wof:lastmodified":1563235229,
     "wof:name":"Jalhay",
     "wof:parent_id":102049935,
     "wof:placetype":"locality",

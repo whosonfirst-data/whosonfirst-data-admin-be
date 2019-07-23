@@ -25,6 +25,9 @@
     "name:heb_x_preferred":[
         "\u05e1\u05e4\u05d9"
     ],
+    "name:jpn_x_preferred":[
+        "\u30b9\u30d1\u30a4"
+    ],
     "name:lim_x_preferred":[
         "Spy"
     ],
@@ -92,7 +95,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1561831401,
+    "wof:lastmodified":1563235037,
     "wof:name":"Spy",
     "wof:parent_id":102049931,
     "wof:placetype":"locality",

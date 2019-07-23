@@ -31,7 +31,13 @@
     "name:cat_x_preferred":[
         "Herstal"
     ],
+    "name:ceb_x_preferred":[
+        "Herstal"
+    ],
     "name:ces_x_preferred":[
+        "Herstal"
+    ],
+    "name:dan_x_preferred":[
         "Herstal"
     ],
     "name:deu_x_preferred":[
@@ -71,6 +77,9 @@
         "Herstal"
     ],
     "name:hun_x_preferred":[
+        "Herstal"
+    ],
+    "name:ina_x_preferred":[
         "Herstal"
     ],
     "name:ita_x_preferred":[
@@ -200,7 +209,7 @@
         }
     ],
     "wof:id":1125989783,
-    "wof:lastmodified":1561831466,
+    "wof:lastmodified":1563235889,
     "wof:name":"Herstal",
     "wof:parent_id":102049941,
     "wof:placetype":"locality",

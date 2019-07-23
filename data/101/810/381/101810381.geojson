@@ -68,6 +68,9 @@
     "name:oci_x_preferred":[
         "Ferri\u00e8res"
     ],
+    "name:pol_x_preferred":[
+        "Ferri\u00e8res"
+    ],
     "name:por_x_preferred":[
         "Ferri\u00e8res"
     ],
@@ -78,6 +81,9 @@
         "\u0424\u0435\u0440\u0440\u044c\u0435\u0440"
     ],
     "name:slk_x_preferred":[
+        "Ferri\u00e8res"
+    ],
+    "name:spa_x_preferred":[
         "Ferri\u00e8res"
     ],
     "name:swe_x_preferred":[
@@ -146,7 +152,7 @@
         }
     ],
     "wof:id":101810381,
-    "wof:lastmodified":1561831417,
+    "wof:lastmodified":1563235260,
     "wof:name":"Ferri\u00e8res",
     "wof:parent_id":102049925,
     "wof:placetype":"locality",

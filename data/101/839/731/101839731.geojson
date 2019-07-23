@@ -26,6 +26,9 @@
     "name:cat_x_preferred":[
         "Musson"
     ],
+    "name:ceb_x_preferred":[
+        "Musson"
+    ],
     "name:deu_x_preferred":[
         "Musson"
     ],
@@ -37,6 +40,9 @@
     ],
     "name:est_x_preferred":[
         "Mussoni vald"
+    ],
+    "name:est_x_variant":[
+        "Musson"
     ],
     "name:eus_x_preferred":[
         "Musson"
@@ -71,6 +77,9 @@
     "name:oci_x_preferred":[
         "Musson"
     ],
+    "name:pol_x_preferred":[
+        "Musson"
+    ],
     "name:por_x_preferred":[
         "Musson"
     ],
@@ -81,6 +90,12 @@
         "\u041c\u044e\u0441\u043e\u043d"
     ],
     "name:slk_x_preferred":[
+        "Musson"
+    ],
+    "name:spa_x_preferred":[
+        "Musson"
+    ],
+    "name:swe_x_preferred":[
         "Musson"
     ],
     "name:vie_x_preferred":[
@@ -146,7 +161,7 @@
         }
     ],
     "wof:id":101839731,
-    "wof:lastmodified":1561831433,
+    "wof:lastmodified":1563235508,
     "wof:name":"Musson",
     "wof:parent_id":102049907,
     "wof:placetype":"locality",

@@ -36,6 +36,9 @@
     "name:wln_x_preferred":[
         "C\u00e9plet"
     ],
+    "name:wln_x_variant":[
+        "Ciplet"
+    ],
     "qs_pg:aaroncc":"BE",
     "qs_pg:gn_country":"BE",
     "qs_pg:gn_fcode":"PPL",
@@ -86,7 +89,7 @@
         }
     ],
     "wof:id":1125777311,
-    "wof:lastmodified":1561831484,
+    "wof:lastmodified":1563236048,
     "wof:name":"Ciplet",
     "wof:parent_id":102049937,
     "wof:placetype":"locality",

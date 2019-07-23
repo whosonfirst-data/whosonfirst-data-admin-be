@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":3161271.702414,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.511605,50.619183,5.511605,50.619183",
     "geom:latitude":50.619183,
     "geom:longitude":5.511605,
@@ -23,11 +23,17 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
     "mz:tier_locality":1,
+    "name:eng_x_preferred":[
+        "Jemeppe-sur-Meuse"
+    ],
     "name:fra_x_preferred":[
         "Jemeppe-sur-Meuse"
     ],
     "name:fra_x_variant":[
         "Jemeppe-sur-meuse"
+    ],
+    "name:hun_x_preferred":[
+        "Jemeppe-sur-Meuse"
     ],
     "name:ita_x_preferred":[
         "Jemeppe-sur-Meuse"
@@ -75,12 +81,12 @@
     "src:lbl:centroid":"yerbashapes",
     "wd:wordcount":118,
     "wof:belongsto":[
-        85681691,
         102191581,
         85632997,
         404227353,
         101748083,
-        102049941
+        102049941,
+        85681691
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -108,7 +114,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1531870537,
+    "wof:lastmodified":1563233956,
     "wof:name":"Jemeppe-sur-meuse",
     "wof:parent_id":101748083,
     "wof:placetype":"neighbourhood",

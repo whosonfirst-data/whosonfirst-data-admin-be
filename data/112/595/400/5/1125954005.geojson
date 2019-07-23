@@ -22,11 +22,20 @@
     "name:bre_x_preferred":[
         "Louvain-la-Neuve"
     ],
+    "name:ceb_x_preferred":[
+        "Louvain-la-Neuve"
+    ],
+    "name:ces_x_preferred":[
+        "Nov\u00e1 Lova\u0148"
+    ],
     "name:deu_x_preferred":[
         "Louvain-la-Neuve"
     ],
     "name:eng_x_preferred":[
         "Louvain-la-Neuve"
+    ],
+    "name:fas_x_preferred":[
+        "\u0644\u0648\u0648\u0646 \u0644\u0646\u0648\u0648"
     ],
     "name:fra_x_preferred":[
         "Louvain-la-Neuve"
@@ -128,7 +137,7 @@
         }
     ],
     "wof:id":1125954005,
-    "wof:lastmodified":1561831443,
+    "wof:lastmodified":1563235631,
     "wof:name":"Louvain-la-Neuve",
     "wof:parent_id":102049945,
     "wof:placetype":"locality",

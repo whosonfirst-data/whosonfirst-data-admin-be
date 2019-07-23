@@ -27,11 +27,20 @@
     "name:fra_x_preferred":[
         "ligne"
     ],
+    "name:fra_x_variant":[
+        "Ligne"
+    ],
     "name:hun_x_preferred":[
+        "Ligne"
+    ],
+    "name:ita_x_preferred":[
         "Ligne"
     ],
     "name:jpn_x_preferred":[
         "\u30ea\u30fc\u30cb\u30e5"
+    ],
+    "name:lat_x_preferred":[
+        "Linea"
     ],
     "name:nld_x_preferred":[
         "Ligne"
@@ -89,7 +98,7 @@
         }
     ],
     "wof:id":1125890445,
-    "wof:lastmodified":1561831457,
+    "wof:lastmodified":1563235785,
     "wof:name":"Ligne",
     "wof:parent_id":102049949,
     "wof:placetype":"locality",

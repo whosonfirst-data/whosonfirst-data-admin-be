@@ -24,6 +24,9 @@
     "name:fra_x_preferred":[
         "Ohain"
     ],
+    "name:hun_x_preferred":[
+        "Obaix"
+    ],
     "name:hye_x_preferred":[
         "\u0555\u0570\u0561\u0575\u0576"
     ],
@@ -44,6 +47,9 @@
     ],
     "name:wln_x_preferred":[
         "Ohin"
+    ],
+    "name:zho_x_preferred":[
+        "\u5967\u6d77\u6069"
     ],
     "qs_pg:aaroncc":"BE",
     "qs_pg:gn_country":"BE",
@@ -97,7 +103,7 @@
         }
     ],
     "wof:id":1126058897,
-    "wof:lastmodified":1561831446,
+    "wof:lastmodified":1563235663,
     "wof:name":"Ohain",
     "wof:parent_id":102049945,
     "wof:placetype":"locality",

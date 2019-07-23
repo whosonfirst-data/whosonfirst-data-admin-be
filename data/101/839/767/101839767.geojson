@@ -26,6 +26,9 @@
     "name:cat_x_preferred":[
         "Sombreffe"
     ],
+    "name:ceb_x_preferred":[
+        "Sombreffe"
+    ],
     "name:deu_x_preferred":[
         "Sombreffe"
     ],
@@ -56,6 +59,9 @@
     "name:lim_x_preferred":[
         "Sombreffe"
     ],
+    "name:ltz_x_preferred":[
+        "Sombreffe"
+    ],
     "name:nld_x_preferred":[
         "Sombreffe"
     ],
@@ -84,6 +90,9 @@
         "Sombreffe"
     ],
     "name:spa_x_preferred":[
+        "Sombreffe"
+    ],
+    "name:swe_x_preferred":[
         "Sombreffe"
     ],
     "name:vie_x_preferred":[
@@ -154,7 +163,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1561831435,
+    "wof:lastmodified":1563235528,
     "wof:name":"Sombreffe",
     "wof:parent_id":102049931,
     "wof:placetype":"locality",

@@ -26,6 +26,9 @@
     "name:cat_x_preferred":[
         "Boutersem"
     ],
+    "name:ceb_x_preferred":[
+        "Boutersem"
+    ],
     "name:deu_x_preferred":[
         "Boutersem"
     ],
@@ -50,6 +53,9 @@
     "name:ita_x_preferred":[
         "Boutersem"
     ],
+    "name:ltz_x_preferred":[
+        "Boutersem"
+    ],
     "name:nld_x_preferred":[
         "Boutersem"
     ],
@@ -57,6 +63,9 @@
         "Boutersem"
     ],
     "name:oci_x_preferred":[
+        "Boutersem"
+    ],
+    "name:pol_x_preferred":[
         "Boutersem"
     ],
     "name:por_x_preferred":[
@@ -142,7 +151,7 @@
         }
     ],
     "wof:id":101838743,
-    "wof:lastmodified":1561831427,
+    "wof:lastmodified":1563235411,
     "wof:name":"Boutersem",
     "wof:parent_id":1108830471,
     "wof:placetype":"locality",

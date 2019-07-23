@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000928,
-    "geom:area_square_m":7302531.751373,
+    "geom:area_square_m":7302531.751374,
     "geom:bbox":"4.64007335216,50.4400472695,4.67983018379,50.4946601381",
     "geom:latitude":50.463312,
     "geom:longitude":4.661568,
@@ -15,10 +15,29 @@
     "mps:latitude":50.46239,
     "mps:longitude":4.664683,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bre_x_preferred":[
+        "Jemeppe-sur-Sambre"
+    ],
     "name:bul_x_preferred":[
         "\u0416\u0435\u043c\u0435\u043f \u0441\u044e\u0440 \u0421\u0430\u043c\u0431\u044a\u0440"
     ],
+    "name:cat_x_preferred":[
+        "Jemeppe-sur-Sambre"
+    ],
+    "name:ceb_x_preferred":[
+        "Jemeppe-sur-Sambre"
+    ],
+    "name:deu_x_preferred":[
+        "Jemeppe-sur-Sambre"
+    ],
     "name:eng_x_preferred":[
+        "Jemeppe-sur-Sambre"
+    ],
+    "name:epo_x_preferred":[
+        "Jemeppe-sur-Sambre"
+    ],
+    "name:eus_x_preferred":[
         "Jemeppe-sur-Sambre"
     ],
     "name:fas_x_preferred":[
@@ -27,8 +46,59 @@
     "name:fra_x_preferred":[
         "Jemeppe"
     ],
+    "name:fra_x_variant":[
+        "Jemeppe-sur-Sambre"
+    ],
+    "name:hun_x_preferred":[
+        "Jemeppe-sur-Sambre"
+    ],
+    "name:ita_x_preferred":[
+        "Jemeppe-sur-Sambre"
+    ],
+    "name:lim_x_preferred":[
+        "Jemeppe-sur-Sambre"
+    ],
+    "name:ltz_x_preferred":[
+        "Jemeppe-sur-Sambre"
+    ],
+    "name:nld_x_preferred":[
+        "Jemeppe-sur-Sambre"
+    ],
+    "name:nob_x_preferred":[
+        "Jemeppe-sur-Sambre"
+    ],
+    "name:oci_x_preferred":[
+        "Jemeppe-sur-Sambre"
+    ],
+    "name:pol_x_preferred":[
+        "Jemeppe-sur-Sambre"
+    ],
+    "name:por_x_preferred":[
+        "Jemeppe-sur-Sambre"
+    ],
+    "name:ron_x_preferred":[
+        "Jemeppe-sur-Sambre"
+    ],
     "name:rus_x_preferred":[
         "\u0416\u0435\u043c\u0435\u043f-\u0441\u044e\u0440-\u0421\u0430\u043c\u0431\u0440"
+    ],
+    "name:slk_x_preferred":[
+        "Jemeppe-sur-Sambre"
+    ],
+    "name:spa_x_preferred":[
+        "Jemeppe-sur-Sambre"
+    ],
+    "name:swe_x_preferred":[
+        "Jemeppe-sur-Sambre"
+    ],
+    "name:vie_x_preferred":[
+        "Jemeppe-sur-Sambre"
+    ],
+    "name:vol_x_preferred":[
+        "Jemeppe-sur-Sambre"
+    ],
+    "name:war_x_preferred":[
+        "Jemeppe-sur-Sambre"
     ],
     "name:wln_x_preferred":[
         "Djimepe-so-Sambe"
@@ -87,7 +157,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1497299572,
+    "wof:lastmodified":1563235106,
     "wof:name":"Jemeppe",
     "wof:parent_id":102049931,
     "wof:placetype":"locality",

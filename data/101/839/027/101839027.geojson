@@ -16,6 +16,12 @@
     "mps:longitude":4.17054,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:cat_x_preferred":[
+        "Tielrode"
+    ],
+    "name:deu_x_preferred":[
+        "Tielrode"
+    ],
     "name:eng_x_preferred":[
         "Tielrode"
     ],
@@ -82,7 +88,7 @@
         }
     ],
     "wof:id":101839027,
-    "wof:lastmodified":1561831435,
+    "wof:lastmodified":1563235533,
     "wof:name":"Tielrode",
     "wof:parent_id":1108830387,
     "wof:placetype":"locality",

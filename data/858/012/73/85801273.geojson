@@ -26,11 +26,62 @@
     "mz:min_zoom":13.0,
     "mz:tier_locality":3,
     "mz:tier_metro":30,
+    "name:bul_x_preferred":[
+        "\u0425\u043e\u0431\u043e\u043a\u0435\u043d"
+    ],
+    "name:ceb_x_preferred":[
+        "Hoboken"
+    ],
+    "name:dan_x_preferred":[
+        "Hoboken"
+    ],
+    "name:deu_x_preferred":[
+        "Hoboken"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a7\u03cc\u03bc\u03c0\u03bf\u03ba\u03b5\u03bd"
+    ],
+    "name:eng_x_preferred":[
+        "Hoboken"
+    ],
+    "name:epo_x_preferred":[
+        "Hoboken"
+    ],
+    "name:fas_x_preferred":[
+        "\u0647\u0628\u0648\u06a9\u0646"
+    ],
+    "name:fra_x_preferred":[
+        "Hoboken"
+    ],
+    "name:hun_x_preferred":[
+        "Hoboken"
+    ],
+    "name:hye_x_preferred":[
+        "\u0540\u0578\u0562\u0578\u0584\u0565\u0576"
+    ],
+    "name:lat_x_preferred":[
+        "Hoboken"
+    ],
     "name:nld_x_preferred":[
+        "Hoboken"
+    ],
+    "name:nob_x_preferred":[
+        "Hoboken"
+    ],
+    "name:pol_x_preferred":[
+        "Hoboken"
+    ],
+    "name:ron_x_preferred":[
+        "Hoboken"
+    ],
+    "name:swe_x_preferred":[
         "Hoboken"
     ],
     "name:unk_x_variant":[
         "Hoboken"
+    ],
+    "name:war_x_preferred":[
+        "Haute Pr\u00e9"
     ],
     "qs:gn_adm0_cc":"BE",
     "qs:gn_fcode":"PPL",
@@ -102,7 +153,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1561831362,
+    "wof:lastmodified":1563233944,
     "wof:name":"Hoboken",
     "wof:parent_id":101748099,
     "wof:placetype":"neighbourhood",

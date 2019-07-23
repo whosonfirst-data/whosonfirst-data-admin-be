@@ -56,6 +56,9 @@
     "name:lit_x_preferred":[
         "Kasterl\u0117"
     ],
+    "name:ltz_x_preferred":[
+        "Kasterlee"
+    ],
     "name:nld_x_preferred":[
         "Kasterlee"
     ],
@@ -148,7 +151,7 @@
         }
     ],
     "wof:id":101839117,
-    "wof:lastmodified":1561831435,
+    "wof:lastmodified":1563235526,
     "wof:name":"Kasterlee",
     "wof:parent_id":1108830677,
     "wof:placetype":"locality",

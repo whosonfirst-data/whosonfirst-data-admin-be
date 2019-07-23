@@ -27,6 +27,9 @@
     "name:hun_x_preferred":[
         "Opdorp"
     ],
+    "name:ltz_x_preferred":[
+        "Opdorp"
+    ],
     "name:nld_x_preferred":[
         "Opdorp"
     ],
@@ -84,7 +87,7 @@
         }
     ],
     "wof:id":1126029819,
-    "wof:lastmodified":1561831446,
+    "wof:lastmodified":1563235657,
     "wof:name":"Opdorp",
     "wof:parent_id":1108830107,
     "wof:placetype":"locality",

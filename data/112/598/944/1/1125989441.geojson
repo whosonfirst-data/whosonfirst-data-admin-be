@@ -27,8 +27,14 @@
     "name:hun_x_preferred":[
         "Renlies"
     ],
+    "name:ltz_x_preferred":[
+        "Renlies"
+    ],
     "name:nld_x_preferred":[
         "Renlies"
+    ],
+    "name:pcd_x_preferred":[
+        "Rinliye"
     ],
     "qs_pg:aaroncc":"BE",
     "qs_pg:gn_country":"BE",
@@ -84,7 +90,7 @@
         }
     ],
     "wof:id":1125989441,
-    "wof:lastmodified":1561831467,
+    "wof:lastmodified":1563235894,
     "wof:name":"Renlies",
     "wof:parent_id":102049923,
     "wof:placetype":"locality",

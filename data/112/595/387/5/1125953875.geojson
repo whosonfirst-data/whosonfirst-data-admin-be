@@ -21,6 +21,9 @@
     "name:bre_x_preferred":[
         "Heist-aan-Zee"
     ],
+    "name:ceb_x_preferred":[
+        "Heist"
+    ],
     "name:deu_x_preferred":[
         "Heist-aan-Zee"
     ],
@@ -104,7 +107,7 @@
         }
     ],
     "wof:id":1125953875,
-    "wof:lastmodified":1561831443,
+    "wof:lastmodified":1563235640,
     "wof:name":"Heist",
     "wof:parent_id":1108830675,
     "wof:placetype":"locality",
