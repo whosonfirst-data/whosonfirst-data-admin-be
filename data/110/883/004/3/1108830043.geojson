@@ -14,7 +14,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003979,
-    "geom:area_square_m":31082339.230553,
+    "geom:area_square_m":31082339.230551,
     "geom:bbox":"4.63211596313,50.7908287042,4.74659198877,50.8522351187",
     "geom:latitude":50.820007,
     "geom:longitude":4.686902,
@@ -23,6 +23,84 @@
     "lbl:longitude":4.681268,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bre_x_preferred":[
+        "Oud-Heverlee"
+    ],
+    "name:bul_x_preferred":[
+        "\u0410\u0443\u0434 \u0425\u0435\u0432\u0435\u0440\u043b\u0435"
+    ],
+    "name:cat_x_preferred":[
+        "Oud-Heverlee"
+    ],
+    "name:ceb_x_preferred":[
+        "Oud-Heverlee"
+    ],
+    "name:deu_x_preferred":[
+        "Oud-Heverlee"
+    ],
+    "name:epo_x_preferred":[
+        "Oud-Heverlee"
+    ],
+    "name:eus_x_preferred":[
+        "Oud-Heverlee"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0648-\u0627\u0648\u0631\u0644\u0647"
+    ],
+    "name:fra_x_preferred":[
+        "Oud-Heverlee"
+    ],
+    "name:ita_x_preferred":[
+        "Oud-Heverlee"
+    ],
+    "name:kor_x_preferred":[
+        "\uc544\uc6b0\ud2b8\ud5e4\ubca0\ub97c\ub808\uc774"
+    ],
+    "name:nld_x_preferred":[
+        "Oud-Heverlee"
+    ],
+    "name:nor_x_preferred":[
+        "Oud-Heverlee"
+    ],
+    "name:oci_x_preferred":[
+        "Oud-Heverlee"
+    ],
+    "name:pol_x_preferred":[
+        "Oud-Heverlee"
+    ],
+    "name:por_x_preferred":[
+        "Oud-Heverlee"
+    ],
+    "name:ron_x_preferred":[
+        "Oud-Heverlee"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u0443\u0434-\u0425\u0435\u0432\u0435\u0440\u043b\u0435"
+    ],
+    "name:slk_x_preferred":[
+        "Oud-Heverlee"
+    ],
+    "name:spa_x_preferred":[
+        "Oud-Heverlee"
+    ],
+    "name:swe_x_preferred":[
+        "Oud-Heverlee"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0410\u0443\u0434-\u0413\u0435\u0432\u0435\u0440\u043b\u0435"
+    ],
+    "name:vie_x_preferred":[
+        "Oud-Heverlee"
+    ],
+    "name:vol_x_preferred":[
+        "Oud-Heverlee"
+    ],
+    "name:war_x_preferred":[
+        "Oud-Heverlee"
+    ],
+    "name:zho_x_preferred":[
+        "\u65e7\u8d6b\u7eb2\u5c14\u83b1"
+    ],
     "reversegeo:latitude":50.809748,
     "reversegeo:longitude":4.681268,
     "src:geom":"begov",
@@ -50,7 +128,7 @@
         }
     ],
     "wof:id":1108830043,
-    "wof:lastmodified":1499533250,
+    "wof:lastmodified":1564162789,
     "wof:name":"Oud-Heverlee",
     "wof:parent_id":102049969,
     "wof:placetype":"localadmin",

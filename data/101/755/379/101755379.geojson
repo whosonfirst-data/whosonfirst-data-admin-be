@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000465,
-    "geom:area_square_m":3618552.552454,
+    "geom:area_square_m":3618552.552453,
     "geom:bbox":"4.84622934947,50.9995303094,4.9008456692,51.0362450222",
     "geom:latitude":51.012138,
     "geom:longitude":4.869437,
@@ -30,6 +30,9 @@
     ],
     "name:eus_x_preferred":[
         "Homberg"
+    ],
+    "name:fas_x_preferred":[
+        "\u0647\u0648\u0645\u0628\u0631\u06af"
     ],
     "name:fra_x_preferred":[
         "Homberg"
@@ -60,6 +63,9 @@
     ],
     "name:srp_x_preferred":[
         "\u0425\u043e\u043c\u0431\u0435\u0440\u0433"
+    ],
+    "name:swe_x_preferred":[
+        "Homberg"
     ],
     "name:vol_x_preferred":[
         "Homberg"
@@ -108,7 +114,7 @@
         }
     ],
     "wof:id":101755379,
-    "wof:lastmodified":1499530998,
+    "wof:lastmodified":1564163076,
     "wof:name":"Homberg",
     "wof:parent_id":1108830355,
     "wof:placetype":"locality",

@@ -14,7 +14,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003518,
-    "geom:area_square_m":27344409.672936,
+    "geom:area_square_m":27344409.672933,
     "geom:bbox":"4.32279810967,51.016380667,4.4254818932,51.0851405677",
     "geom:latitude":51.054036,
     "geom:longitude":4.368523,
@@ -23,6 +23,81 @@
     "lbl:longitude":4.363475,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bre_x_preferred":[
+        "Willebroek"
+    ],
+    "name:bul_x_preferred":[
+        "\u0412\u0438\u043b\u0435\u0431\u0440\u0443\u043a"
+    ],
+    "name:cat_x_preferred":[
+        "Willebroek"
+    ],
+    "name:ceb_x_preferred":[
+        "Willebroek"
+    ],
+    "name:deu_x_preferred":[
+        "Willebroek"
+    ],
+    "name:epo_x_preferred":[
+        "Willebroek"
+    ],
+    "name:eus_x_preferred":[
+        "Willebroek"
+    ],
+    "name:fas_x_preferred":[
+        "\u0648\u06cc\u0648\u0628\u0631\u0648\u0626\u06a9"
+    ],
+    "name:fin_x_preferred":[
+        "Willebroek"
+    ],
+    "name:fra_x_preferred":[
+        "Willebroek"
+    ],
+    "name:fry_x_preferred":[
+        "Willebroek"
+    ],
+    "name:ita_x_preferred":[
+        "Willebroek"
+    ],
+    "name:nld_x_preferred":[
+        "Willebroek"
+    ],
+    "name:nor_x_preferred":[
+        "Willebroek"
+    ],
+    "name:oci_x_preferred":[
+        "Willebroek"
+    ],
+    "name:pol_x_preferred":[
+        "Willebroek"
+    ],
+    "name:por_x_preferred":[
+        "Willebroek"
+    ],
+    "name:ron_x_preferred":[
+        "Willebroek"
+    ],
+    "name:slk_x_preferred":[
+        "Willebroek"
+    ],
+    "name:spa_x_preferred":[
+        "Willebroek"
+    ],
+    "name:swe_x_preferred":[
+        "Willebroek"
+    ],
+    "name:vie_x_preferred":[
+        "Willebroek"
+    ],
+    "name:vol_x_preferred":[
+        "Willebroek"
+    ],
+    "name:war_x_preferred":[
+        "Willebroek"
+    ],
+    "name:zho_x_preferred":[
+        "\u7ef4\u52d2\u5e03\u9c81\u514b"
+    ],
     "reversegeo:latitude":51.060576,
     "reversegeo:longitude":4.363475,
     "src:geom":"begov",
@@ -50,7 +125,7 @@
         }
     ],
     "wof:id":1108830353,
-    "wof:lastmodified":1499533648,
+    "wof:lastmodified":1564162796,
     "wof:name":"Willebroek",
     "wof:parent_id":102049985,
     "wof:placetype":"localadmin",

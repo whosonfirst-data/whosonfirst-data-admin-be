@@ -28,6 +28,75 @@
     "iso:country":"BE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bre_x_preferred":[
+        "Herent"
+    ],
+    "name:bul_x_preferred":[
+        "\u0425\u0435\u0440\u0435\u043d\u0442"
+    ],
+    "name:cat_x_preferred":[
+        "Herent"
+    ],
+    "name:ceb_x_preferred":[
+        "Herent"
+    ],
+    "name:deu_x_preferred":[
+        "Herent"
+    ],
+    "name:epo_x_preferred":[
+        "Herent"
+    ],
+    "name:eus_x_preferred":[
+        "Herent"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0631\u0627\u0646"
+    ],
+    "name:fra_x_preferred":[
+        "Herent"
+    ],
+    "name:ita_x_preferred":[
+        "Herent"
+    ],
+    "name:nld_x_preferred":[
+        "Herent"
+    ],
+    "name:nor_x_preferred":[
+        "Herent"
+    ],
+    "name:oci_x_preferred":[
+        "Herent"
+    ],
+    "name:pol_x_preferred":[
+        "Herent"
+    ],
+    "name:por_x_preferred":[
+        "Herent"
+    ],
+    "name:ron_x_preferred":[
+        "Herent"
+    ],
+    "name:slk_x_preferred":[
+        "Herent"
+    ],
+    "name:spa_x_preferred":[
+        "Herent"
+    ],
+    "name:swe_x_preferred":[
+        "Herent"
+    ],
+    "name:vie_x_preferred":[
+        "Herent"
+    ],
+    "name:vol_x_preferred":[
+        "Herent"
+    ],
+    "name:war_x_preferred":[
+        "Herent"
+    ],
+    "name:zho_x_preferred":[
+        "\u6d77\u4f26\u7279"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85681705,
@@ -55,7 +124,7 @@
         }
     ],
     "wof:id":1343490137,
-    "wof:lastmodified":1536703752,
+    "wof:lastmodified":1564161732,
     "wof:name":"Herent",
     "wof:parent_id":1108830205,
     "wof:placetype":"locality",

@@ -28,6 +28,24 @@
     "iso:country":"BE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Steeg"
+    ],
+    "name:deu_x_preferred":[
+        "Steeg"
+    ],
+    "name:fra_x_preferred":[
+        "Steeg"
+    ],
+    "name:ita_x_preferred":[
+        "Steeg"
+    ],
+    "name:pol_x_preferred":[
+        "Steeg"
+    ],
+    "name:swe_x_preferred":[
+        "Steeg"
+    ],
     "name:und_x_variant":[
         "Steegh",
         "Steeg"
@@ -59,7 +77,7 @@
         }
     ],
     "wof:id":1360319043,
-    "wof:lastmodified":1537586909,
+    "wof:lastmodified":1564163013,
     "wof:name":"Steeg",
     "wof:parent_id":1108830443,
     "wof:placetype":"locality",

@@ -14,7 +14,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004529,
-    "geom:area_square_m":35333030.307716,
+    "geom:area_square_m":35333030.307712,
     "geom:bbox":"3.0273828554,50.8370855621,3.13516796712,50.9279565277",
     "geom:latitude":50.880815,
     "geom:longitude":3.078959,
@@ -23,6 +23,87 @@
     "lbl:longitude":3.074462,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bre_x_preferred":[
+        "Moorslede"
+    ],
+    "name:bul_x_preferred":[
+        "\u041c\u043e\u0440\u0441\u043b\u0435\u0434\u0435"
+    ],
+    "name:cat_x_preferred":[
+        "Moorslede"
+    ],
+    "name:ceb_x_preferred":[
+        "Moorslede"
+    ],
+    "name:deu_x_preferred":[
+        "Moorslede"
+    ],
+    "name:epo_x_preferred":[
+        "Moorslede"
+    ],
+    "name:est_x_preferred":[
+        "Moorslede"
+    ],
+    "name:eus_x_preferred":[
+        "Moorslede"
+    ],
+    "name:fas_x_preferred":[
+        "\u0645\u0648\u0631\u0633\u0644\u0648\u062f"
+    ],
+    "name:fra_x_preferred":[
+        "Moorslede"
+    ],
+    "name:ita_x_preferred":[
+        "Moorslede"
+    ],
+    "name:lim_x_preferred":[
+        "Moorslede"
+    ],
+    "name:nld_x_preferred":[
+        "Moorslede"
+    ],
+    "name:nor_x_preferred":[
+        "Moorslede"
+    ],
+    "name:oci_x_preferred":[
+        "Moorslede"
+    ],
+    "name:pol_x_preferred":[
+        "Moorslede"
+    ],
+    "name:por_x_preferred":[
+        "Moorslede"
+    ],
+    "name:ron_x_preferred":[
+        "Moorslede"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u043e\u0440\u0441\u043b\u0435\u0434\u0435"
+    ],
+    "name:slk_x_preferred":[
+        "Moorslede"
+    ],
+    "name:spa_x_preferred":[
+        "Moorslede"
+    ],
+    "name:swe_x_preferred":[
+        "Moorslede"
+    ],
+    "name:vie_x_preferred":[
+        "Moorslede"
+    ],
+    "name:vls_x_preferred":[
+        "M\u00f4oslee"
+    ],
+    "name:vol_x_preferred":[
+        "Moorslede"
+    ],
+    "name:war_x_preferred":[
+        "Moorslede"
+    ],
+    "name:zho_x_preferred":[
+        "\u83ab\u5c14\u65af\u83b1\u5fb7"
+    ],
     "reversegeo:latitude":50.889685,
     "reversegeo:longitude":3.074462,
     "src:geom":"begov",
@@ -50,7 +131,7 @@
         }
     ],
     "wof:id":1108830667,
-    "wof:lastmodified":1499534043,
+    "wof:lastmodified":1564162804,
     "wof:name":"Moorslede",
     "wof:parent_id":102049977,
     "wof:placetype":"localadmin",

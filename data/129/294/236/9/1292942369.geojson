@@ -28,6 +28,12 @@
     "iso:country":"BE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Hessie"
+    ],
+    "name:tur_x_preferred":[
+        "Hessie"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85681715,
@@ -55,7 +61,7 @@
         }
     ],
     "wof:id":1292942369,
-    "wof:lastmodified":1537072754,
+    "wof:lastmodified":1564161921,
     "wof:name":"Hessie",
     "wof:parent_id":1108830147,
     "wof:placetype":"locality",

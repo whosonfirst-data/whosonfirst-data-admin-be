@@ -28,6 +28,9 @@
     "iso:country":"BE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "Heike"
+    ],
     "name:und_x_variant":[
         "Het Heike",
         "Het Eyken",
@@ -60,7 +63,7 @@
         }
     ],
     "wof:id":1277105271,
-    "wof:lastmodified":1537587021,
+    "wof:lastmodified":1564162251,
     "wof:name":"Heike",
     "wof:parent_id":1108830407,
     "wof:placetype":"locality",

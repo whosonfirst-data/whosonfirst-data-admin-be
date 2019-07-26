@@ -14,7 +14,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005404,
-    "geom:area_square_m":42203814.477744,
+    "geom:area_square_m":42203814.47774,
     "geom:bbox":"3.38382859316,50.7925356963,3.51464637749,50.8661376486",
     "geom:latitude":50.830719,
     "geom:longitude":3.453904,
@@ -23,6 +23,90 @@
     "lbl:longitude":3.453901,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bre_x_preferred":[
+        "Anzegem"
+    ],
+    "name:bul_x_preferred":[
+        "\u0410\u043d\u0437\u0435\u0433\u0435\u043c"
+    ],
+    "name:cat_x_preferred":[
+        "Anzegem"
+    ],
+    "name:ceb_x_preferred":[
+        "Anzegem"
+    ],
+    "name:deu_x_preferred":[
+        "Anzegem"
+    ],
+    "name:epo_x_preferred":[
+        "Anzegem"
+    ],
+    "name:est_x_preferred":[
+        "Anzegemi vald"
+    ],
+    "name:eus_x_preferred":[
+        "Anzegem"
+    ],
+    "name:fas_x_preferred":[
+        "\u0622\u0646\u0632\u0648\u0698\u0645"
+    ],
+    "name:fra_x_preferred":[
+        "Anzegem"
+    ],
+    "name:ita_x_preferred":[
+        "Anzegem"
+    ],
+    "name:lim_x_preferred":[
+        "Anzegem"
+    ],
+    "name:nld_x_preferred":[
+        "Anzegem"
+    ],
+    "name:nor_x_preferred":[
+        "Anzegem"
+    ],
+    "name:oci_x_preferred":[
+        "Anzegem"
+    ],
+    "name:pol_x_preferred":[
+        "Anzegem"
+    ],
+    "name:por_x_preferred":[
+        "Anzegem"
+    ],
+    "name:ron_x_preferred":[
+        "Anzegem"
+    ],
+    "name:slk_x_preferred":[
+        "Anzegem"
+    ],
+    "name:spa_x_preferred":[
+        "Anzegem"
+    ],
+    "name:swe_x_preferred":[
+        "Anzegem"
+    ],
+    "name:tur_x_preferred":[
+        "Anzegem"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0410\u043d\u0437\u0435\u0491\u0435\u043c"
+    ],
+    "name:vie_x_preferred":[
+        "Anzegem"
+    ],
+    "name:vls_x_preferred":[
+        "Anzegem"
+    ],
+    "name:vol_x_preferred":[
+        "Anzegem"
+    ],
+    "name:war_x_preferred":[
+        "Anzegem"
+    ],
+    "name:zho_x_preferred":[
+        "\u5b89\u6cfd\u6d77\u59c6"
+    ],
     "reversegeo:latitude":50.832247,
     "reversegeo:longitude":3.453901,
     "src:geom":"begov",
@@ -50,7 +134,7 @@
         }
     ],
     "wof:id":1108830475,
-    "wof:lastmodified":1499533801,
+    "wof:lastmodified":1564162640,
     "wof:name":"Anzegem",
     "wof:parent_id":102049961,
     "wof:placetype":"localadmin",

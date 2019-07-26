@@ -14,7 +14,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005299,
-    "geom:area_square_m":41364878.007036,
+    "geom:area_square_m":41364878.007037,
     "geom:bbox":"4.16600917971,50.812622402,4.28993361886,50.8907429811",
     "geom:latitude":50.853297,
     "geom:longitude":4.233841,
@@ -23,6 +23,90 @@
     "lbl:longitude":4.229648,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bre_x_preferred":[
+        "Dilbeek"
+    ],
+    "name:bul_x_preferred":[
+        "\u0414\u0438\u043b\u0431\u0435\u043a"
+    ],
+    "name:cat_x_preferred":[
+        "Dilbeek"
+    ],
+    "name:ceb_x_preferred":[
+        "Dilbeek"
+    ],
+    "name:dan_x_preferred":[
+        "Dilbeek"
+    ],
+    "name:deu_x_preferred":[
+        "Dilbeek"
+    ],
+    "name:epo_x_preferred":[
+        "Dilbeek"
+    ],
+    "name:eus_x_preferred":[
+        "Dilbeek"
+    ],
+    "name:fas_x_preferred":[
+        "\u062f\u06cc\u0644\u0628\u0626\u06a9"
+    ],
+    "name:fra_x_preferred":[
+        "Dilbeek"
+    ],
+    "name:gle_x_preferred":[
+        "Dilbeek"
+    ],
+    "name:ita_x_preferred":[
+        "Dilbeek"
+    ],
+    "name:nld_x_preferred":[
+        "Dilbeek"
+    ],
+    "name:nor_x_preferred":[
+        "Dilbeek"
+    ],
+    "name:oci_x_preferred":[
+        "Dilbeek"
+    ],
+    "name:pol_x_preferred":[
+        "Dilbeek"
+    ],
+    "name:por_x_preferred":[
+        "Dilbeek"
+    ],
+    "name:ron_x_preferred":[
+        "Dilbeek"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u0438\u043b\u0431\u0435\u043a"
+    ],
+    "name:slk_x_preferred":[
+        "Dilbeek"
+    ],
+    "name:spa_x_preferred":[
+        "Dilbeek"
+    ],
+    "name:srp_x_preferred":[
+        "\u0414\u0438\u043b\u0431\u0435\u043a"
+    ],
+    "name:swe_x_preferred":[
+        "Dilbeek"
+    ],
+    "name:tur_x_preferred":[
+        "Dilbeek"
+    ],
+    "name:vie_x_preferred":[
+        "Dilbeek"
+    ],
+    "name:vol_x_preferred":[
+        "Dilbeek"
+    ],
+    "name:war_x_preferred":[
+        "Dilbeek"
+    ],
+    "name:zho_x_preferred":[
+        "\u8fea\u5c14\u8d1d\u514b"
+    ],
     "reversegeo:latitude":50.855267,
     "reversegeo:longitude":4.229648,
     "src:geom":"begov",
@@ -50,7 +134,7 @@
         }
     ],
     "wof:id":1108830207,
-    "wof:lastmodified":1499533472,
+    "wof:lastmodified":1564162727,
     "wof:name":"Dilbeek",
     "wof:parent_id":102049973,
     "wof:placetype":"localadmin",

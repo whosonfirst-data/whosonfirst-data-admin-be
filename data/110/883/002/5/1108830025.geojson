@@ -14,7 +14,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005099,
-    "geom:area_square_m":39860497.198992,
+    "geom:area_square_m":39860497.199008,
     "geom:bbox":"4.55515376927,50.7409656024,4.65553320912,50.8352059856",
     "geom:latitude":50.789739,
     "geom:longitude":4.611934,
@@ -23,6 +23,78 @@
     "lbl:longitude":4.607011,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bre_x_preferred":[
+        "Huldenberg"
+    ],
+    "name:bul_x_preferred":[
+        "\u0425\u044c\u043e\u043b\u0434\u0435\u043d\u0431\u0435\u0440\u0433"
+    ],
+    "name:cat_x_preferred":[
+        "Huldenberg"
+    ],
+    "name:ceb_x_preferred":[
+        "Huldenberg"
+    ],
+    "name:ces_x_preferred":[
+        "Huldenberg"
+    ],
+    "name:deu_x_preferred":[
+        "Huldenberg"
+    ],
+    "name:epo_x_preferred":[
+        "Huldenberg"
+    ],
+    "name:eus_x_preferred":[
+        "Huldenberg"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0648\u0644\u062f\u0627\u0646\u0628\u0631\u06af"
+    ],
+    "name:fra_x_preferred":[
+        "Huldenberg"
+    ],
+    "name:ita_x_preferred":[
+        "Huldenberg"
+    ],
+    "name:nld_x_preferred":[
+        "Huldenberg"
+    ],
+    "name:nor_x_preferred":[
+        "Huldenberg"
+    ],
+    "name:oci_x_preferred":[
+        "Huldenberg"
+    ],
+    "name:pol_x_preferred":[
+        "Huldenberg"
+    ],
+    "name:por_x_preferred":[
+        "Huldenberg"
+    ],
+    "name:ron_x_preferred":[
+        "Huldenberg"
+    ],
+    "name:slk_x_preferred":[
+        "Huldenberg"
+    ],
+    "name:spa_x_preferred":[
+        "Huldenberg"
+    ],
+    "name:swe_x_preferred":[
+        "Huldenberg"
+    ],
+    "name:vie_x_preferred":[
+        "Huldenberg"
+    ],
+    "name:vol_x_preferred":[
+        "Huldenberg"
+    ],
+    "name:war_x_preferred":[
+        "Huldenberg"
+    ],
+    "name:zho_x_preferred":[
+        "\u8bb8\u5c14\u767b\u8d1d\u5c14\u8d6b"
+    ],
     "reversegeo:latitude":50.800125,
     "reversegeo:longitude":4.607011,
     "src:geom":"begov",
@@ -50,7 +122,7 @@
         }
     ],
     "wof:id":1108830025,
-    "wof:lastmodified":1499533224,
+    "wof:lastmodified":1564162833,
     "wof:name":"Huldenberg",
     "wof:parent_id":102049969,
     "wof:placetype":"localadmin",

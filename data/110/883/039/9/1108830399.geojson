@@ -14,7 +14,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005698,
-    "geom:area_square_m":44607784.277804,
+    "geom:area_square_m":44607784.277805,
     "geom:bbox":"3.95880024839,50.6874126816,4.11640424645,50.7581796541",
     "geom:latitude":50.722825,
     "geom:longitude":4.036709,
@@ -23,6 +23,48 @@
     "lbl:longitude":4.035501,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Herne"
+    ],
+    "name:deu_x_preferred":[
+        "Herne"
+    ],
+    "name:epo_x_preferred":[
+        "Herne"
+    ],
+    "name:fin_x_preferred":[
+        "Herne"
+    ],
+    "name:fra_x_preferred":[
+        "Herne"
+    ],
+    "name:hrv_x_preferred":[
+        "Herne"
+    ],
+    "name:ita_x_preferred":[
+        "Herne"
+    ],
+    "name:nld_x_preferred":[
+        "Herne"
+    ],
+    "name:pol_x_preferred":[
+        "Herne"
+    ],
+    "name:por_x_preferred":[
+        "Herne"
+    ],
+    "name:slk_x_preferred":[
+        "Herne"
+    ],
+    "name:swe_x_preferred":[
+        "Herne"
+    ],
+    "name:tur_x_preferred":[
+        "Herne"
+    ],
+    "name:vol_x_preferred":[
+        "Herne"
+    ],
     "reversegeo:latitude":50.719995,
     "reversegeo:longitude":4.035501,
     "src:geom":"begov",
@@ -50,7 +92,7 @@
         }
     ],
     "wof:id":1108830399,
-    "wof:lastmodified":1499533696,
+    "wof:lastmodified":1564162711,
     "wof:name":"Herne",
     "wof:parent_id":102049973,
     "wof:placetype":"localadmin",

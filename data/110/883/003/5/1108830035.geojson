@@ -23,6 +23,75 @@
     "lbl:longitude":4.726749,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bre_x_preferred":[
+        "Tremelo"
+    ],
+    "name:bul_x_preferred":[
+        "\u0422\u0440\u0435\u043c\u0435\u043b\u043e"
+    ],
+    "name:cat_x_preferred":[
+        "Tremelo"
+    ],
+    "name:ceb_x_preferred":[
+        "Tremelo"
+    ],
+    "name:deu_x_preferred":[
+        "Tremelo"
+    ],
+    "name:epo_x_preferred":[
+        "Tremelo"
+    ],
+    "name:eus_x_preferred":[
+        "Tremelo"
+    ],
+    "name:fas_x_preferred":[
+        "\u062a\u0631\u0648\u0645\u0648\u0644\u0648"
+    ],
+    "name:fra_x_preferred":[
+        "Tremelo"
+    ],
+    "name:ita_x_preferred":[
+        "Tremelo"
+    ],
+    "name:nld_x_preferred":[
+        "Tremelo"
+    ],
+    "name:nor_x_preferred":[
+        "Tremelo"
+    ],
+    "name:oci_x_preferred":[
+        "Tremelo"
+    ],
+    "name:pol_x_preferred":[
+        "Tremelo"
+    ],
+    "name:por_x_preferred":[
+        "Tremelo"
+    ],
+    "name:ron_x_preferred":[
+        "Tremelo"
+    ],
+    "name:slk_x_preferred":[
+        "Tremelo"
+    ],
+    "name:spa_x_preferred":[
+        "Tremelo"
+    ],
+    "name:swe_x_preferred":[
+        "Tremelo"
+    ],
+    "name:vie_x_preferred":[
+        "Tremelo"
+    ],
+    "name:vol_x_preferred":[
+        "Tremelo"
+    ],
+    "name:war_x_preferred":[
+        "Tremelo"
+    ],
+    "name:zho_x_preferred":[
+        "\u7279\u96f7\u6885\u6d1b"
+    ],
     "reversegeo:latitude":51.001322,
     "reversegeo:longitude":4.726749,
     "src:geom":"begov",
@@ -50,7 +119,7 @@
         }
     ],
     "wof:id":1108830035,
-    "wof:lastmodified":1499533239,
+    "wof:lastmodified":1564162786,
     "wof:name":"Tremelo",
     "wof:parent_id":102049969,
     "wof:placetype":"localadmin",

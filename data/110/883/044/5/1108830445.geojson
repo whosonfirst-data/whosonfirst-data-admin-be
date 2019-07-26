@@ -14,7 +14,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001435,
-    "geom:area_square_m":11210814.403594,
+    "geom:area_square_m":11210814.403593,
     "geom:bbox":"3.67219703807,50.7983993133,3.71610158703,50.86229022",
     "geom:latitude":50.832132,
     "geom:longitude":3.694493,
@@ -23,6 +23,78 @@
     "lbl:longitude":3.694163,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bre_x_preferred":[
+        "Horebeke"
+    ],
+    "name:bul_x_preferred":[
+        "\u0425\u043e\u0440\u0435\u0431\u0435\u043a\u0435"
+    ],
+    "name:cat_x_preferred":[
+        "Horebeke"
+    ],
+    "name:ceb_x_preferred":[
+        "Horebeke"
+    ],
+    "name:deu_x_preferred":[
+        "Horebeke"
+    ],
+    "name:epo_x_preferred":[
+        "Horebeke"
+    ],
+    "name:est_x_preferred":[
+        "Horebeke"
+    ],
+    "name:eus_x_preferred":[
+        "Horebeke"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0648\u0631\u0648\u0628\u0648\u06a9"
+    ],
+    "name:fra_x_preferred":[
+        "Horebeke"
+    ],
+    "name:ita_x_preferred":[
+        "Horebeke"
+    ],
+    "name:nld_x_preferred":[
+        "Horebeke"
+    ],
+    "name:nor_x_preferred":[
+        "Horebeke"
+    ],
+    "name:oci_x_preferred":[
+        "Horebeke"
+    ],
+    "name:pol_x_preferred":[
+        "Horebeke"
+    ],
+    "name:por_x_preferred":[
+        "Horebeke"
+    ],
+    "name:ron_x_preferred":[
+        "Horebeke"
+    ],
+    "name:slk_x_preferred":[
+        "Horebeke"
+    ],
+    "name:spa_x_preferred":[
+        "Horebeke"
+    ],
+    "name:swe_x_preferred":[
+        "Horebeke"
+    ],
+    "name:vie_x_preferred":[
+        "Horebeke"
+    ],
+    "name:vol_x_preferred":[
+        "Horebeke"
+    ],
+    "name:war_x_preferred":[
+        "Horebeke"
+    ],
+    "name:zho_x_preferred":[
+        "\u970d\u96f7\u8d1d\u514b"
+    ],
     "reversegeo:latitude":50.832289,
     "reversegeo:longitude":3.694163,
     "src:geom":"begov",
@@ -50,7 +122,7 @@
         }
     ],
     "wof:id":1108830445,
-    "wof:lastmodified":1499533775,
+    "wof:lastmodified":1564162758,
     "wof:name":"Horebeke",
     "wof:parent_id":102049963,
     "wof:placetype":"localadmin",

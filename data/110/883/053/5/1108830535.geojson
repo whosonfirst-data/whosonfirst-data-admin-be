@@ -14,7 +14,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005928,
-    "geom:area_square_m":46033615.460906,
+    "geom:area_square_m":46033615.460913,
     "geom:bbox":"4.17241883256,51.0581799221,4.32826824929,51.1250548997",
     "geom:latitude":51.095278,
     "geom:longitude":4.242834,
@@ -23,6 +23,78 @@
     "lbl:longitude":4.215694,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bre_x_preferred":[
+        "Bornem"
+    ],
+    "name:bul_x_preferred":[
+        "\u0411\u043e\u0440\u043d\u0435\u043c"
+    ],
+    "name:cat_x_preferred":[
+        "Bornem"
+    ],
+    "name:ceb_x_preferred":[
+        "Bornem"
+    ],
+    "name:deu_x_preferred":[
+        "Bornem"
+    ],
+    "name:epo_x_preferred":[
+        "Bornem"
+    ],
+    "name:eus_x_preferred":[
+        "Bornem"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u0648\u0631\u0646\u0645"
+    ],
+    "name:fra_x_preferred":[
+        "Bornem"
+    ],
+    "name:ita_x_preferred":[
+        "Bornem"
+    ],
+    "name:ltz_x_preferred":[
+        "Bornem"
+    ],
+    "name:nld_x_preferred":[
+        "Bornem"
+    ],
+    "name:nor_x_preferred":[
+        "Bornem"
+    ],
+    "name:oci_x_preferred":[
+        "Bornem"
+    ],
+    "name:pol_x_preferred":[
+        "Bornem"
+    ],
+    "name:por_x_preferred":[
+        "Bornem"
+    ],
+    "name:ron_x_preferred":[
+        "Bornem"
+    ],
+    "name:slk_x_preferred":[
+        "Bornem"
+    ],
+    "name:spa_x_preferred":[
+        "Bornem"
+    ],
+    "name:swe_x_preferred":[
+        "Bornem"
+    ],
+    "name:vie_x_preferred":[
+        "Bornem"
+    ],
+    "name:vol_x_preferred":[
+        "Bornem"
+    ],
+    "name:war_x_preferred":[
+        "Bornem"
+    ],
+    "name:zho_x_preferred":[
+        "\u535a\u5c14\u8bb7\u59c6"
+    ],
     "reversegeo:latitude":51.091256,
     "reversegeo:longitude":4.215694,
     "src:geom":"begov",
@@ -50,7 +122,7 @@
         }
     ],
     "wof:id":1108830535,
-    "wof:lastmodified":1499533856,
+    "wof:lastmodified":1564162656,
     "wof:name":"Bornem",
     "wof:parent_id":102049985,
     "wof:placetype":"localadmin",

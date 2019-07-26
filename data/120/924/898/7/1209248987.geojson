@@ -28,6 +28,30 @@
     "iso:country":"BE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Dailly"
+    ],
+    "name:cym_x_preferred":[
+        "Dailly"
+    ],
+    "name:deu_x_preferred":[
+        "Dailly"
+    ],
+    "name:eus_x_preferred":[
+        "Dailly"
+    ],
+    "name:fas_x_preferred":[
+        "\u062f\u06cc\u0644\u06cc"
+    ],
+    "name:ita_x_preferred":[
+        "Dailly"
+    ],
+    "name:spa_x_preferred":[
+        "Dailly"
+    ],
+    "name:swe_x_preferred":[
+        "Dailly"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632997
@@ -37,7 +61,7 @@
         "gn:id":2799904
     },
     "wof:country":"BE",
-    "wof:geomhash":"c09aef754140b5e2c57e8d34ed67bcdb",
+    "wof:geomhash":"d68aede3daddbeef723c0a177b6fde00",
     "wof:hierarchy":[
         {
             "country_id":85632997,
@@ -45,7 +69,7 @@
         }
     ],
     "wof:id":1209248987,
-    "wof:lastmodified":1536293066,
+    "wof:lastmodified":1564162316,
     "wof:name":"Dailly",
     "wof:parent_id":85632997,
     "wof:placetype":"locality",
@@ -55,9 +79,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    4.4359199999999985,
+    4.43592,
     50.0577,
-    4.4359199999999985,
+    4.43592,
     50.0577
 ],
   "geometry": {"coordinates":[4.43592,50.0577],"type":"Point"}

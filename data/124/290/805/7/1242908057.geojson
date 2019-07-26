@@ -28,6 +28,9 @@
     "iso:country":"BE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:est_x_preferred":[
+        "Valk"
+    ],
     "name:und_x_variant":[
         "Valcke",
         "Valk"
@@ -59,7 +62,7 @@
         }
     ],
     "wof:id":1242908057,
-    "wof:lastmodified":1537586896,
+    "wof:lastmodified":1564163483,
     "wof:name":"Valk",
     "wof:parent_id":1108830559,
     "wof:placetype":"locality",

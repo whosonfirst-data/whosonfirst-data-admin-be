@@ -23,6 +23,81 @@
     "lbl:longitude":5.161326,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:afr_x_preferred":[
+        "Balen"
+    ],
+    "name:bre_x_preferred":[
+        "Balen"
+    ],
+    "name:bul_x_preferred":[
+        "\u0411\u0430\u043b\u0435\u043d"
+    ],
+    "name:cat_x_preferred":[
+        "Balen"
+    ],
+    "name:ceb_x_preferred":[
+        "Balen"
+    ],
+    "name:deu_x_preferred":[
+        "Balen"
+    ],
+    "name:epo_x_preferred":[
+        "Balen"
+    ],
+    "name:eus_x_preferred":[
+        "Balen"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u0644\u0627\u0646"
+    ],
+    "name:fra_x_preferred":[
+        "Balen"
+    ],
+    "name:ita_x_preferred":[
+        "Balen"
+    ],
+    "name:nld_x_preferred":[
+        "Balen"
+    ],
+    "name:nor_x_preferred":[
+        "Balen"
+    ],
+    "name:oci_x_preferred":[
+        "Balen"
+    ],
+    "name:pol_x_preferred":[
+        "Balen"
+    ],
+    "name:por_x_preferred":[
+        "Balen"
+    ],
+    "name:ron_x_preferred":[
+        "Balen"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0430\u043b\u0435\u043d"
+    ],
+    "name:slk_x_preferred":[
+        "Balen"
+    ],
+    "name:spa_x_preferred":[
+        "Balen"
+    ],
+    "name:swe_x_preferred":[
+        "Balen"
+    ],
+    "name:vie_x_preferred":[
+        "Balen"
+    ],
+    "name:vol_x_preferred":[
+        "Balen"
+    ],
+    "name:war_x_preferred":[
+        "Balen"
+    ],
+    "name:zho_x_preferred":[
+        "\u5df4\u4f26"
+    ],
     "reversegeo:latitude":51.153711,
     "reversegeo:longitude":5.161326,
     "src:geom":"begov",
@@ -50,7 +125,7 @@
         }
     ],
     "wof:id":1108830443,
-    "wof:lastmodified":1499533770,
+    "wof:lastmodified":1564162757,
     "wof:name":"Balen",
     "wof:parent_id":102050007,
     "wof:placetype":"localadmin",

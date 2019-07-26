@@ -28,6 +28,24 @@
     "iso:country":"BE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0641\u0648\u0628\u0648\u0631\u063a \u0633\u0627\u0646 \u062c\u064a\u0631\u0645\u0627\u0646"
+    ],
+    "name:ces_x_preferred":[
+        "Faubourg Saint-Germain"
+    ],
+    "name:deu_x_preferred":[
+        "Faubourg Saint-Germain"
+    ],
+    "name:fin_x_preferred":[
+        "Faubourg Saint-Germain"
+    ],
+    "name:fra_x_preferred":[
+        "Faubourg Saint-Germain"
+    ],
+    "name:nor_x_preferred":[
+        "Faubourg Saint-Germain"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85681699,
@@ -53,7 +71,7 @@
         }
     ],
     "wof:id":1242712001,
-    "wof:lastmodified":1536869057,
+    "wof:lastmodified":1564163471,
     "wof:name":"Faubourg Saint-Germain",
     "wof:parent_id":102049917,
     "wof:placetype":"locality",

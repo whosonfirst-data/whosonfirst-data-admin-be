@@ -18,6 +18,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:fra_x_preferred":[
+        "Stok"
+    ],
+    "name:por_x_preferred":[
+        "Stok"
+    ],
     "name:unk_x_variant":[
         "Stock"
     ],
@@ -72,7 +78,7 @@
         }
     ],
     "wof:id":1125900263,
-    "wof:lastmodified":1509399357,
+    "wof:lastmodified":1564163260,
     "wof:name":"Stok",
     "wof:parent_id":1108830345,
     "wof:placetype":"locality",

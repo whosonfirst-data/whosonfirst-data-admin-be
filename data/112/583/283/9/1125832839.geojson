@@ -18,6 +18,75 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "M\u00e9nil"
+    ],
+    "name:ceb_x_preferred":[
+        "M\u00e9nil"
+    ],
+    "name:deu_x_preferred":[
+        "M\u00e9nil"
+    ],
+    "name:eus_x_preferred":[
+        "M\u00e9nil"
+    ],
+    "name:fra_x_preferred":[
+        "M\u00e9nil"
+    ],
+    "name:hun_x_preferred":[
+        "M\u00e9nil"
+    ],
+    "name:ita_x_preferred":[
+        "M\u00e9nil"
+    ],
+    "name:lat_x_preferred":[
+        "M\u00e9nil"
+    ],
+    "name:msa_x_preferred":[
+        "M\u00e9nil"
+    ],
+    "name:nld_x_preferred":[
+        "M\u00e9nil"
+    ],
+    "name:oci_x_preferred":[
+        "M\u00e9nil"
+    ],
+    "name:pms_x_preferred":[
+        "M\u00e9nil"
+    ],
+    "name:pol_x_preferred":[
+        "M\u00e9nil"
+    ],
+    "name:por_x_preferred":[
+        "M\u00e9nil"
+    ],
+    "name:ron_x_preferred":[
+        "M\u00e9nil"
+    ],
+    "name:slk_x_preferred":[
+        "M\u00e9nil"
+    ],
+    "name:spa_x_preferred":[
+        "M\u00e9nil"
+    ],
+    "name:swe_x_preferred":[
+        "M\u00e9nil"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0435\u043d\u0456\u0439"
+    ],
+    "name:vie_x_preferred":[
+        "M\u00e9nil"
+    ],
+    "name:vol_x_preferred":[
+        "M\u00e9nil"
+    ],
+    "name:war_x_preferred":[
+        "M\u00e9nil"
+    ],
+    "name:zho_x_preferred":[
+        "\u6885\u5c3c\u52d2"
+    ],
     "qs_pg:aaroncc":"BE",
     "qs_pg:gn_country":"BE",
     "qs_pg:gn_fcode":"PPL",
@@ -71,7 +140,7 @@
         }
     ],
     "wof:id":1125832839,
-    "wof:lastmodified":1509394815,
+    "wof:lastmodified":1564163338,
     "wof:name":"M\u00e9nil",
     "wof:parent_id":102049907,
     "wof:placetype":"locality",

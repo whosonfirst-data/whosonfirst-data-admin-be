@@ -28,6 +28,18 @@
     "iso:country":"BE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Le Grand Mont"
+    ],
+    "name:fra_x_preferred":[
+        "Grand Mont"
+    ],
+    "name:ita_x_preferred":[
+        "Grand Mont"
+    ],
+    "name:pol_x_preferred":[
+        "Grand Mont"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85681699,
@@ -53,7 +65,7 @@
         }
     ],
     "wof:id":1326863629,
-    "wof:lastmodified":1537002783,
+    "wof:lastmodified":1564161494,
     "wof:name":"Grand Mont",
     "wof:parent_id":102049917,
     "wof:placetype":"locality",

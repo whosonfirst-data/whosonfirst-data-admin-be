@@ -14,7 +14,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002139,
-    "geom:area_square_m":16666126.896139,
+    "geom:area_square_m":16666126.89614,
     "geom:bbox":"3.28611306684,50.9042860406,3.37624675371,50.9643942312",
     "geom:latitude":50.930596,
     "geom:longitude":3.337214,
@@ -23,6 +23,84 @@
     "lbl:longitude":3.334154,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bre_x_preferred":[
+        "Oostrozebeke"
+    ],
+    "name:bul_x_preferred":[
+        "\u041e\u0441\u0442\u0440\u043e\u0437\u0435\u0431\u0435\u043a\u0435"
+    ],
+    "name:cat_x_preferred":[
+        "Oostrozebeke"
+    ],
+    "name:ceb_x_preferred":[
+        "Oostrozebeke"
+    ],
+    "name:deu_x_preferred":[
+        "Oostrozebeke"
+    ],
+    "name:epo_x_preferred":[
+        "Oostrozebeke"
+    ],
+    "name:est_x_preferred":[
+        "Oostrozebeke"
+    ],
+    "name:eus_x_preferred":[
+        "Oostrozebeke"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0648\u0632\u062a\u0631\u0648\u0632\u0648\u0628\u0648\u06a9"
+    ],
+    "name:fra_x_preferred":[
+        "Oostrozebeke"
+    ],
+    "name:ita_x_preferred":[
+        "Oostrozebeke"
+    ],
+    "name:lim_x_preferred":[
+        "Oostrozebeke"
+    ],
+    "name:nld_x_preferred":[
+        "Oostrozebeke"
+    ],
+    "name:nor_x_preferred":[
+        "Oostrozebeke"
+    ],
+    "name:oci_x_preferred":[
+        "Oostrozebeke"
+    ],
+    "name:pol_x_preferred":[
+        "Oostrozebeke"
+    ],
+    "name:por_x_preferred":[
+        "Oostrozebeke"
+    ],
+    "name:ron_x_preferred":[
+        "Oostrozebeke"
+    ],
+    "name:slk_x_preferred":[
+        "Oostrozebeke"
+    ],
+    "name:spa_x_preferred":[
+        "Oostrozebeke"
+    ],
+    "name:swe_x_preferred":[
+        "Oostrozebeke"
+    ],
+    "name:vie_x_preferred":[
+        "Oostrozebeke"
+    ],
+    "name:vls_x_preferred":[
+        "\u00d4ostr\u00f4zebeke"
+    ],
+    "name:vol_x_preferred":[
+        "Oostrozebeke"
+    ],
+    "name:war_x_preferred":[
+        "Oostrozebeke"
+    ],
+    "name:zho_x_preferred":[
+        "\u5965\u65af\u7279\u7f57\u6cfd\u8d1d\u514b"
+    ],
     "reversegeo:latitude":50.925024,
     "reversegeo:longitude":3.334154,
     "src:geom":"begov",
@@ -50,7 +128,7 @@
         }
     ],
     "wof:id":1108830079,
-    "wof:lastmodified":1499533303,
+    "wof:lastmodified":1564162660,
     "wof:name":"Oostrozebeke",
     "wof:parent_id":102049981,
     "wof:placetype":"localadmin",

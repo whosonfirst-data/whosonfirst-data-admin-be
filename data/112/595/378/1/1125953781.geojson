@@ -18,6 +18,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:fra_x_preferred":[
+        "Jolimont"
+    ],
     "qs_pg:aaroncc":"BE",
     "qs_pg:gn_country":"BE",
     "qs_pg:gn_fcode":"PPL",
@@ -67,7 +70,7 @@
         }
     ],
     "wof:id":1125953781,
-    "wof:lastmodified":1509402858,
+    "wof:lastmodified":1564163201,
     "wof:name":"Jolimont",
     "wof:parent_id":102049927,
     "wof:placetype":"locality",

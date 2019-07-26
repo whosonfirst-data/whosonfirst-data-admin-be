@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000559,
-    "geom:area_square_m":4360987.106677,
+    "geom:area_square_m":4360987.106676,
     "geom:bbox":"3.16690640231,50.9050941645,3.20727638908,50.9335692105",
     "geom:latitude":50.920093,
     "geom:longitude":3.188236,
@@ -25,8 +25,14 @@
     "name:cat_x_preferred":[
         "Mol"
     ],
+    "name:ceb_x_preferred":[
+        "Mol"
+    ],
     "name:ces_x_preferred":[
         "Mol"
+    ],
+    "name:chv_x_preferred":[
+        "\u041c\u043e\u043b\u044c"
     ],
     "name:dan_x_preferred":[
         "Mol"
@@ -58,6 +64,9 @@
     "name:hun_x_preferred":[
         "Mol"
     ],
+    "name:hye_x_preferred":[
+        "\u0544\u0578\u056c"
+    ],
     "name:ita_x_preferred":[
         "MOL"
     ],
@@ -75,6 +84,9 @@
     ],
     "name:nor_x_preferred":[
         "Mol"
+    ],
+    "name:oci_x_preferred":[
+        "M\u00f2l"
     ],
     "name:pol_x_preferred":[
         "Mol"
@@ -96,6 +108,9 @@
     ],
     "name:srp_x_preferred":[
         "\u041c\u043e\u043b"
+    ],
+    "name:swe_x_preferred":[
+        "Mol"
     ],
     "name:tur_x_preferred":[
         "Mol"
@@ -150,7 +165,7 @@
         }
     ],
     "wof:id":101755565,
-    "wof:lastmodified":1527641702,
+    "wof:lastmodified":1564163083,
     "wof:name":"Mol",
     "wof:parent_id":1108830151,
     "wof:placetype":"locality",

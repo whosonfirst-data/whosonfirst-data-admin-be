@@ -14,7 +14,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001001,
-    "geom:area_square_m":7757230.322437,
+    "geom:area_square_m":7757230.322438,
     "geom:bbox":"4.43294949745,51.1610508026,4.48403778606,51.1895509985",
     "geom:latitude":51.174645,
     "geom:longitude":4.461038,
@@ -23,6 +23,84 @@
     "lbl:longitude":4.461046,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bre_x_preferred":[
+        "Mortsel"
+    ],
+    "name:bul_x_preferred":[
+        "\u041c\u043e\u0440\u0442\u0441\u0435\u043b"
+    ],
+    "name:cat_x_preferred":[
+        "Mortsel"
+    ],
+    "name:ceb_x_preferred":[
+        "Mortsel"
+    ],
+    "name:deu_x_preferred":[
+        "Mortsel"
+    ],
+    "name:epo_x_preferred":[
+        "Mortsel"
+    ],
+    "name:eus_x_preferred":[
+        "Mortsel"
+    ],
+    "name:fas_x_preferred":[
+        "\u0645\u0631\u062a\u0632\u0644"
+    ],
+    "name:fra_x_preferred":[
+        "Mortsel"
+    ],
+    "name:gle_x_preferred":[
+        "Mortsel"
+    ],
+    "name:ile_x_preferred":[
+        "Mortsel"
+    ],
+    "name:ita_x_preferred":[
+        "Mortsel"
+    ],
+    "name:lat_x_preferred":[
+        "Mortensella"
+    ],
+    "name:nld_x_preferred":[
+        "Mortsel"
+    ],
+    "name:nor_x_preferred":[
+        "Mortsel"
+    ],
+    "name:oci_x_preferred":[
+        "Mortsel"
+    ],
+    "name:pol_x_preferred":[
+        "Mortsel"
+    ],
+    "name:por_x_preferred":[
+        "Mortsel"
+    ],
+    "name:ron_x_preferred":[
+        "Mortsel"
+    ],
+    "name:slk_x_preferred":[
+        "Mortsel"
+    ],
+    "name:spa_x_preferred":[
+        "Mortsel"
+    ],
+    "name:swe_x_preferred":[
+        "Mortsel"
+    ],
+    "name:vie_x_preferred":[
+        "Mortsel"
+    ],
+    "name:vol_x_preferred":[
+        "Mortsel"
+    ],
+    "name:war_x_preferred":[
+        "Mortsel"
+    ],
+    "name:zho_x_preferred":[
+        "\u83ab\u7b56\u5c14"
+    ],
     "reversegeo:latitude":51.174157,
     "reversegeo:longitude":4.461046,
     "src:geom":"begov",
@@ -50,7 +128,7 @@
         }
     ],
     "wof:id":1108830135,
-    "wof:lastmodified":1499533386,
+    "wof:lastmodified":1564162612,
     "wof:name":"Mortsel",
     "wof:parent_id":102050005,
     "wof:placetype":"localadmin",

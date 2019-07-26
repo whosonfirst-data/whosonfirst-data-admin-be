@@ -24,6 +24,9 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":1,
     "mz:tier_metro":30,
+    "name:ceb_x_preferred":[
+        "Hoek"
+    ],
     "name:deu_x_preferred":[
         "Hoek"
     ],
@@ -109,7 +112,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1561831362,
+    "wof:lastmodified":1564161850,
     "wof:name":"Hoek",
     "wof:parent_id":101913231,
     "wof:placetype":"neighbourhood",

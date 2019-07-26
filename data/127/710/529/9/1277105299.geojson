@@ -28,9 +28,30 @@
     "iso:country":"BE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bre_x_preferred":[
+        "Stuivekenskerke"
+    ],
+    "name:ceb_x_preferred":[
+        "Stuivekenskerke"
+    ],
+    "name:fra_x_preferred":[
+        "Stuivekenskerke"
+    ],
+    "name:nld_x_preferred":[
+        "Stuivekenskerke"
+    ],
+    "name:por_x_preferred":[
+        "Stuivekenskerke"
+    ],
+    "name:swe_x_preferred":[
+        "Stuivekenskerke"
+    ],
     "name:und_x_variant":[
         "Stuyvekenskerke",
         "Stuivekenskerke"
+    ],
+    "name:vls_x_preferred":[
+        "Stuvetjeskerke"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -60,7 +81,7 @@
         }
     ],
     "wof:id":1277105299,
-    "wof:lastmodified":1537586906,
+    "wof:lastmodified":1564162251,
     "wof:name":"Stuivekenskerke",
     "wof:parent_id":1108830401,
     "wof:placetype":"locality",

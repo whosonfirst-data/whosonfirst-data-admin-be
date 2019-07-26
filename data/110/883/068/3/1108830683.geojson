@@ -23,6 +23,84 @@
     "lbl:longitude":2.976843,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:als_x_preferred":[
+        "Bredene"
+    ],
+    "name:bre_x_preferred":[
+        "Bredene"
+    ],
+    "name:bul_x_preferred":[
+        "\u0411\u0440\u0435\u0434\u0435\u043d\u0435"
+    ],
+    "name:cat_x_preferred":[
+        "Bredene"
+    ],
+    "name:ceb_x_preferred":[
+        "Bredene"
+    ],
+    "name:deu_x_preferred":[
+        "Bredene"
+    ],
+    "name:epo_x_preferred":[
+        "Bredene"
+    ],
+    "name:est_x_preferred":[
+        "Bredene"
+    ],
+    "name:eus_x_preferred":[
+        "Bredene"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u0631\u0648\u062f\u0646"
+    ],
+    "name:fra_x_preferred":[
+        "Bredene"
+    ],
+    "name:ita_x_preferred":[
+        "Bredene"
+    ],
+    "name:lim_x_preferred":[
+        "Bredene"
+    ],
+    "name:nld_x_preferred":[
+        "Bredene"
+    ],
+    "name:nor_x_preferred":[
+        "Bredene"
+    ],
+    "name:oci_x_preferred":[
+        "Bredene"
+    ],
+    "name:pol_x_preferred":[
+        "Bredene"
+    ],
+    "name:por_x_preferred":[
+        "Bredene"
+    ],
+    "name:ron_x_preferred":[
+        "Bredene"
+    ],
+    "name:slk_x_preferred":[
+        "Bredene"
+    ],
+    "name:spa_x_preferred":[
+        "Bredene"
+    ],
+    "name:swe_x_preferred":[
+        "Bredene"
+    ],
+    "name:vls_x_preferred":[
+        "Br\u00e8inienge"
+    ],
+    "name:vol_x_preferred":[
+        "Bredene"
+    ],
+    "name:war_x_preferred":[
+        "Bredene"
+    ],
+    "name:zho_x_preferred":[
+        "\u5e03\u96f7\u5fb7\u5185"
+    ],
     "reversegeo:latitude":51.238983,
     "reversegeo:longitude":2.976843,
     "src:geom":"begov",
@@ -50,7 +128,7 @@
         }
     ],
     "wof:id":1108830683,
-    "wof:lastmodified":1499534054,
+    "wof:lastmodified":1564162817,
     "wof:name":"Bredene",
     "wof:parent_id":102049999,
     "wof:placetype":"localadmin",

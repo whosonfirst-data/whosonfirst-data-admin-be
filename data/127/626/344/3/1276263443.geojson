@@ -28,6 +28,99 @@
     "iso:country":"BE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u0648\u0631\u0644\u0648\u0646"
+    ],
+    "name:bre_x_preferred":[
+        "Bourlon"
+    ],
+    "name:cat_x_preferred":[
+        "Bourlon"
+    ],
+    "name:ceb_x_preferred":[
+        "Bourlon"
+    ],
+    "name:deu_x_preferred":[
+        "Bourlon"
+    ],
+    "name:eus_x_preferred":[
+        "Bourlon"
+    ],
+    "name:fra_x_preferred":[
+        "Bourlon"
+    ],
+    "name:hun_x_preferred":[
+        "Bourlon"
+    ],
+    "name:ind_x_preferred":[
+        "Bourlon"
+    ],
+    "name:ita_x_preferred":[
+        "Bourlon"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0411\u0443\u0440\u043b\u043e\u043d"
+    ],
+    "name:lat_x_preferred":[
+        "Bourlon"
+    ],
+    "name:ltz_x_preferred":[
+        "Bourlon"
+    ],
+    "name:mlg_x_preferred":[
+        "Bourlon"
+    ],
+    "name:msa_x_preferred":[
+        "Bourlon"
+    ],
+    "name:nld_x_preferred":[
+        "Bourlon"
+    ],
+    "name:oci_x_preferred":[
+        "Bourlon"
+    ],
+    "name:pcd_x_preferred":[
+        "Bourlon"
+    ],
+    "name:pms_x_preferred":[
+        "Bourlon"
+    ],
+    "name:pol_x_preferred":[
+        "Bourlon"
+    ],
+    "name:por_x_preferred":[
+        "Bourlon"
+    ],
+    "name:ron_x_preferred":[
+        "Bourlon"
+    ],
+    "name:slk_x_preferred":[
+        "Bourlon"
+    ],
+    "name:spa_x_preferred":[
+        "Bourlon"
+    ],
+    "name:srp_x_preferred":[
+        "\u0411\u0443\u0440\u043b\u043e\u043d"
+    ],
+    "name:swe_x_preferred":[
+        "Bourlon"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0443\u0440\u043b\u043e\u043d"
+    ],
+    "name:vie_x_preferred":[
+        "Bourlon"
+    ],
+    "name:vol_x_preferred":[
+        "Bourlon"
+    ],
+    "name:war_x_preferred":[
+        "Bourlon"
+    ],
+    "name:zho_x_preferred":[
+        "\u5e03\u5c14\u9686"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85681723,
@@ -53,7 +146,7 @@
         }
     ],
     "wof:id":1276263443,
-    "wof:lastmodified":1536871274,
+    "wof:lastmodified":1564162132,
     "wof:name":"Bourlon",
     "wof:parent_id":102049943,
     "wof:placetype":"locality",

@@ -28,6 +28,24 @@
     "iso:country":"BE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bre_x_preferred":[
+        "Kalenberg"
+    ],
+    "name:ceb_x_preferred":[
+        "Kalenberg"
+    ],
+    "name:deu_x_preferred":[
+        "Kalenberg"
+    ],
+    "name:fra_x_preferred":[
+        "Kalenberg"
+    ],
+    "name:nld_x_preferred":[
+        "Kalenberg"
+    ],
+    "name:swe_x_preferred":[
+        "Kalenberg"
+    ],
     "name:und_x_variant":[
         "Kalenberge",
         "Kalenberg"
@@ -59,7 +77,7 @@
         }
     ],
     "wof:id":1310039771,
-    "wof:lastmodified":1537587007,
+    "wof:lastmodified":1564162961,
     "wof:name":"Kalenberg",
     "wof:parent_id":1108830521,
     "wof:placetype":"locality",

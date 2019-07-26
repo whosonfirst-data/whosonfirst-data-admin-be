@@ -18,6 +18,18 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:deu_x_preferred":[
+        "Aalst#Hofstade"
+    ],
+    "name:epo_x_preferred":[
+        "Hofstade"
+    ],
+    "name:fra_x_preferred":[
+        "Hofstade"
+    ],
+    "name:nld_x_preferred":[
+        "Hofstade"
+    ],
     "qs_pg:aaroncc":"BE",
     "qs_pg:gn_country":"BE",
     "qs_pg:gn_fcode":"PPL",
@@ -73,7 +85,7 @@
         }
     ],
     "wof:id":1125950065,
-    "wof:lastmodified":1509402636,
+    "wof:lastmodified":1564163201,
     "wof:name":"Hofstade",
     "wof:parent_id":1108830515,
     "wof:placetype":"locality",

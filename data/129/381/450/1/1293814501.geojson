@@ -28,6 +28,45 @@
     "iso:country":"BE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Sainte-Marguerite"
+    ],
+    "name:deu_x_preferred":[
+        "Sainte-Marguerite"
+    ],
+    "name:fra_x_preferred":[
+        "Sainte-Marguerite"
+    ],
+    "name:ita_x_preferred":[
+        "Sainte-Marguerite"
+    ],
+    "name:nds_x_preferred":[
+        "Sainte-Marguerite"
+    ],
+    "name:nld_x_preferred":[
+        "Sainte-Marguerite"
+    ],
+    "name:pol_x_preferred":[
+        "Sainte-Marguerite"
+    ],
+    "name:por_x_preferred":[
+        "Sainte-Marguerite"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0435\u043d\u0442-\u041c\u0430\u0440\u0433\u0435\u0440\u0438\u0442"
+    ],
+    "name:slk_x_preferred":[
+        "Sainte-Marguerite"
+    ],
+    "name:spa_x_preferred":[
+        "Sainte-Marguerite"
+    ],
+    "name:swe_x_preferred":[
+        "Sainte-Marguerite"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0435\u043d\u0442-\u041c\u0430\u0440\u0433\u0435\u0440\u0438\u0442"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85681691,
@@ -53,7 +92,7 @@
         }
     ],
     "wof:id":1293814501,
-    "wof:lastmodified":1536812264,
+    "wof:lastmodified":1564162074,
     "wof:name":"Sainte-Marguerite",
     "wof:parent_id":102049941,
     "wof:placetype":"locality",

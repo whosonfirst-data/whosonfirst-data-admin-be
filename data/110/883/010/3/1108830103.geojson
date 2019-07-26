@@ -14,7 +14,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007409,
-    "geom:area_square_m":57893041.852323,
+    "geom:area_square_m":57893041.852327,
     "geom:bbox":"5.51354205587,50.7635414695,5.68815849817,50.8433868203",
     "geom:latitude":50.805362,
     "geom:longitude":5.592331,
@@ -23,6 +23,87 @@
     "lbl:longitude":5.593652,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:afr_x_preferred":[
+        "Riemst"
+    ],
+    "name:ara_x_preferred":[
+        "\u0631\u064a\u0645\u0633\u062a"
+    ],
+    "name:bre_x_preferred":[
+        "Riemst"
+    ],
+    "name:bul_x_preferred":[
+        "\u0420\u0438\u0439\u043c\u0441\u0442"
+    ],
+    "name:cat_x_preferred":[
+        "Riemst"
+    ],
+    "name:ceb_x_preferred":[
+        "Riemst"
+    ],
+    "name:deu_x_preferred":[
+        "Riemst"
+    ],
+    "name:epo_x_preferred":[
+        "Riemst"
+    ],
+    "name:eus_x_preferred":[
+        "Riemst"
+    ],
+    "name:fas_x_preferred":[
+        "\u0631\u06cc\u0627\u0645\u0633\u062a"
+    ],
+    "name:fra_x_preferred":[
+        "Riemst"
+    ],
+    "name:ita_x_preferred":[
+        "Riemst"
+    ],
+    "name:lim_x_preferred":[
+        "Riems"
+    ],
+    "name:nld_x_preferred":[
+        "Riemst"
+    ],
+    "name:nor_x_preferred":[
+        "Riemst"
+    ],
+    "name:oci_x_preferred":[
+        "Riemst"
+    ],
+    "name:pol_x_preferred":[
+        "Riemst"
+    ],
+    "name:por_x_preferred":[
+        "Riemst"
+    ],
+    "name:ron_x_preferred":[
+        "Riemst"
+    ],
+    "name:slk_x_preferred":[
+        "Riemst"
+    ],
+    "name:spa_x_preferred":[
+        "Riemst"
+    ],
+    "name:swe_x_preferred":[
+        "Riemst"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e23\u0e35\u0e21\u0e2a\u0e15\u0e4c"
+    ],
+    "name:vie_x_preferred":[
+        "Riemst"
+    ],
+    "name:vol_x_preferred":[
+        "Riemst"
+    ],
+    "name:war_x_preferred":[
+        "Riemst"
+    ],
+    "name:zho_x_preferred":[
+        "\u91cc\u59c6\u65af\u7279"
+    ],
     "reversegeo:latitude":50.807332,
     "reversegeo:longitude":5.593652,
     "src:geom":"begov",
@@ -50,7 +131,7 @@
         }
     ],
     "wof:id":1108830103,
-    "wof:lastmodified":1504820479,
+    "wof:lastmodified":1564162772,
     "wof:name":"Riemst",
     "wof:parent_id":1108782563,
     "wof:placetype":"localadmin",

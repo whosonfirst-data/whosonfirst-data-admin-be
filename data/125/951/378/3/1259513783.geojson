@@ -28,6 +28,21 @@
     "iso:country":"BE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Lat"
+    ],
+    "name:fra_x_preferred":[
+        "Lat"
+    ],
+    "name:ind_x_preferred":[
+        "Lat"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30e9\u30c3\u30c8"
+    ],
+    "name:msa_x_preferred":[
+        "Lat"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85681731,
@@ -55,7 +70,7 @@
         }
     ],
     "wof:id":1259513783,
-    "wof:lastmodified":1536814671,
+    "wof:lastmodified":1564163604,
     "wof:name":"Lat",
     "wof:parent_id":1108830497,
     "wof:placetype":"locality",

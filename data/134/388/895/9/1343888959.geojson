@@ -28,6 +28,129 @@
     "iso:country":"BE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Pirot"
+    ],
+    "name:bul_x_preferred":[
+        "\u041f\u0438\u0440\u043e\u0442"
+    ],
+    "name:cat_x_preferred":[
+        "Pirot"
+    ],
+    "name:ceb_x_preferred":[
+        "Pirot"
+    ],
+    "name:ces_x_preferred":[
+        "Pirot"
+    ],
+    "name:ckb_x_preferred":[
+        "\u067e\u06cc\u0631\u06c6\u062a"
+    ],
+    "name:dan_x_preferred":[
+        "Pirot"
+    ],
+    "name:deu_x_preferred":[
+        "Pirot"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a0\u03af\u03c1\u03bf\u03c4"
+    ],
+    "name:fas_x_preferred":[
+        "\u067e\u06cc\u0631\u0648\u062a"
+    ],
+    "name:fra_x_preferred":[
+        "Pirot"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e4\u05d9\u05e8\u05d5\u05d8"
+    ],
+    "name:hrv_x_preferred":[
+        "Pirot"
+    ],
+    "name:hun_x_preferred":[
+        "Pirot"
+    ],
+    "name:ind_x_preferred":[
+        "Pirot"
+    ],
+    "name:isl_x_preferred":[
+        "Pirot"
+    ],
+    "name:ita_x_preferred":[
+        "Pirot"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d4\u30ed\u30c8"
+    ],
+    "name:kor_x_preferred":[
+        "\ud53c\ub85c\ud2b8"
+    ],
+    "name:lit_x_preferred":[
+        "Pirotas"
+    ],
+    "name:mkd_x_preferred":[
+        "\u041f\u0438\u0440\u043e\u0442"
+    ],
+    "name:msa_x_preferred":[
+        "Pirot"
+    ],
+    "name:nld_x_preferred":[
+        "Pirot"
+    ],
+    "name:pnb_x_preferred":[
+        "\u067e\u06cc\u0631\u0648\u062a"
+    ],
+    "name:pol_x_preferred":[
+        "Pirot"
+    ],
+    "name:por_x_preferred":[
+        "Pirot"
+    ],
+    "name:ron_x_preferred":[
+        "Pirot"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u0438\u0440\u043e\u0442"
+    ],
+    "name:sco_x_preferred":[
+        "Pirot"
+    ],
+    "name:slv_x_preferred":[
+        "Pirot"
+    ],
+    "name:spa_x_preferred":[
+        "Pirot"
+    ],
+    "name:sqi_x_preferred":[
+        "Pirot"
+    ],
+    "name:srp_x_preferred":[
+        "\u041f\u0438\u0440\u043e\u0442"
+    ],
+    "name:swe_x_preferred":[
+        "Pirot"
+    ],
+    "name:szl_x_preferred":[
+        "Pirot"
+    ],
+    "name:tgl_x_preferred":[
+        "Pirot"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u0438\u0440\u043e\u0442"
+    ],
+    "name:urd_x_preferred":[
+        "\u067e\u06cc\u0631\u0648\u062a"
+    ],
+    "name:vie_x_preferred":[
+        "Pirot"
+    ],
+    "name:war_x_preferred":[
+        "Pirot"
+    ],
+    "name:zho_x_preferred":[
+        "\u76ae\u7f57\u7279"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85681727,
@@ -53,7 +176,7 @@
         }
     ],
     "wof:id":1343888959,
-    "wof:lastmodified":1536623590,
+    "wof:lastmodified":1564161835,
     "wof:name":"Pirot",
     "wof:parent_id":102049913,
     "wof:placetype":"locality",

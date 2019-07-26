@@ -28,6 +28,12 @@
     "iso:country":"BE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Briel"
+    ],
+    "name:ita_x_preferred":[
+        "Briel"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85681715,
@@ -55,7 +61,7 @@
         }
     ],
     "wof:id":1309746109,
-    "wof:lastmodified":1537016536,
+    "wof:lastmodified":1564163177,
     "wof:name":"Briel",
     "wof:parent_id":1108830535,
     "wof:placetype":"locality",

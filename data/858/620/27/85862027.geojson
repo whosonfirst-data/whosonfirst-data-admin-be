@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":2339922.043305,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.582538,50.639622,5.582538,50.639622",
     "geom:latitude":50.639622,
     "geom:longitude":5.582538,
@@ -24,11 +24,89 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":13.0,
     "mz:tier_locality":3,
+    "name:bug_x_preferred":[
+        "Cornillon"
+    ],
+    "name:cat_x_preferred":[
+        "Cornilhon"
+    ],
+    "name:ceb_x_preferred":[
+        "Cornillon"
+    ],
+    "name:deu_x_preferred":[
+        "Cornillon"
+    ],
+    "name:eus_x_preferred":[
+        "Cornillon"
+    ],
     "name:fra_x_preferred":[
         "Cornillon"
     ],
+    "name:hun_x_preferred":[
+        "Cornillon"
+    ],
+    "name:ita_x_preferred":[
+        "Cornillon"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041a\u043e\u0440\u043d\u0438\u0439\u043e\u043d"
+    ],
+    "name:lat_x_preferred":[
+        "Cornillon"
+    ],
+    "name:lmo_x_preferred":[
+        "Cornillon"
+    ],
+    "name:mlg_x_preferred":[
+        "Cornillon"
+    ],
+    "name:msa_x_preferred":[
+        "Cornillon"
+    ],
+    "name:nld_x_preferred":[
+        "Cornillon"
+    ],
+    "name:oci_x_preferred":[
+        "Cornilhon"
+    ],
+    "name:pol_x_preferred":[
+        "Cornillon"
+    ],
+    "name:por_x_preferred":[
+        "Cornillon"
+    ],
+    "name:ron_x_preferred":[
+        "Cornillon"
+    ],
+    "name:slk_x_preferred":[
+        "Cornillon"
+    ],
+    "name:spa_x_preferred":[
+        "Cornillon"
+    ],
+    "name:srp_x_preferred":[
+        "\u041a\u043e\u0440\u043d\u0438\u0458\u043e\u043d"
+    ],
+    "name:swe_x_preferred":[
+        "Cornillon"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u043e\u0440\u043d\u0456\u0439\u043e\u043d"
+    ],
     "name:unk_x_variant":[
         "Cornillon"
+    ],
+    "name:vie_x_preferred":[
+        "Cornillon"
+    ],
+    "name:vol_x_preferred":[
+        "Cornillon"
+    ],
+    "name:war_x_preferred":[
+        "Cornillon"
+    ],
+    "name:zho_x_preferred":[
+        "\u79d1\u5c14\u5c3c\u9686"
     ],
     "qs:gn_adm0_cc":"BE",
     "qs:gn_id":0,
@@ -61,12 +139,12 @@
     ],
     "src:lbl:centroid":"yerbashapes",
     "wof:belongsto":[
-        85681691,
         102191581,
         85632997,
         404227353,
         101748083,
-        102049941
+        102049941,
+        85681691
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -91,7 +169,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1531870530,
+    "wof:lastmodified":1564161854,
     "wof:name":"Cornillon",
     "wof:parent_id":101748083,
     "wof:placetype":"neighbourhood",

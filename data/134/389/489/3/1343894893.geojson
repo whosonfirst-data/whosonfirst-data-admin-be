@@ -26,6 +26,12 @@
     "iso:country":"BE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Quinten"
+    ],
+    "name:nld_x_preferred":[
+        "Quinten"
+    ],
     "name:und_x_variant":[
         "Kwinten",
         "Quinten"
@@ -57,7 +63,7 @@
         }
     ],
     "wof:id":1343894893,
-    "wof:lastmodified":1537586940,
+    "wof:lastmodified":1564161829,
     "wof:name":"Quinten",
     "wof:parent_id":1108830021,
     "wof:placetype":"locality",

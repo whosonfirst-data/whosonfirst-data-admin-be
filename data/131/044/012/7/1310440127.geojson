@@ -28,6 +28,18 @@
     "iso:country":"BE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Westeinde"
+    ],
+    "name:fra_x_preferred":[
+        "Westeinde"
+    ],
+    "name:nld_x_preferred":[
+        "Westeinde"
+    ],
+    "name:por_x_preferred":[
+        "Westeinde"
+    ],
     "name:und_x_variant":[
         "Westeijnde",
         "Westeinde"
@@ -59,7 +71,7 @@
         }
     ],
     "wof:id":1310440127,
-    "wof:lastmodified":1537586883,
+    "wof:lastmodified":1564162938,
     "wof:name":"Westeinde",
     "wof:parent_id":1108830461,
     "wof:placetype":"locality",

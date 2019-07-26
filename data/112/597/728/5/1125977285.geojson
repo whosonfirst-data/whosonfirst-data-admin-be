@@ -18,6 +18,39 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bre_x_preferred":[
+        "Lilo"
+    ],
+    "name:ceb_x_preferred":[
+        "Lilo"
+    ],
+    "name:deu_x_preferred":[
+        "Lilo"
+    ],
+    "name:est_x_preferred":[
+        "Lilo"
+    ],
+    "name:fra_x_preferred":[
+        "Lilo"
+    ],
+    "name:ita_x_preferred":[
+        "Lilo"
+    ],
+    "name:nld_x_preferred":[
+        "Lilo"
+    ],
+    "name:pol_x_preferred":[
+        "Lilo"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u0438\u043b\u043e"
+    ],
+    "name:spa_x_preferred":[
+        "Lilo"
+    ],
+    "name:swe_x_preferred":[
+        "Lilo"
+    ],
     "qs_pg:aaroncc":"BE",
     "qs_pg:gn_country":"BE",
     "qs_pg:gn_fcode":"PPL",
@@ -73,7 +106,7 @@
         }
     ],
     "wof:id":1125977285,
-    "wof:lastmodified":1509404492,
+    "wof:lastmodified":1564163262,
     "wof:name":"Lilo",
     "wof:parent_id":1108830235,
     "wof:placetype":"locality",

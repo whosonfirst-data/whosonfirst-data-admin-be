@@ -18,6 +18,81 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bre_x_preferred":[
+        "Nivelle"
+    ],
+    "name:cat_x_preferred":[
+        "Nivelle"
+    ],
+    "name:ceb_x_preferred":[
+        "Nivelle"
+    ],
+    "name:deu_x_preferred":[
+        "Nivelle"
+    ],
+    "name:eus_x_preferred":[
+        "Nivelle"
+    ],
+    "name:fra_x_preferred":[
+        "Nivelle"
+    ],
+    "name:hun_x_preferred":[
+        "Nivelle"
+    ],
+    "name:ind_x_preferred":[
+        "Nivelle"
+    ],
+    "name:ita_x_preferred":[
+        "Nivelle"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041d\u0438\u0432\u0435\u043b\u044c"
+    ],
+    "name:lat_x_preferred":[
+        "Niella"
+    ],
+    "name:mlg_x_preferred":[
+        "Nivelle"
+    ],
+    "name:msa_x_preferred":[
+        "Nivelle"
+    ],
+    "name:nld_x_preferred":[
+        "Nivelle"
+    ],
+    "name:oci_x_preferred":[
+        "Nivelle"
+    ],
+    "name:pol_x_preferred":[
+        "Nivelle"
+    ],
+    "name:ron_x_preferred":[
+        "Nivelle"
+    ],
+    "name:slk_x_preferred":[
+        "Nivelle"
+    ],
+    "name:spa_x_preferred":[
+        "Nivelle"
+    ],
+    "name:swe_x_preferred":[
+        "Nivelle"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041d\u0456\u0432\u0435\u043b\u044c"
+    ],
+    "name:vie_x_preferred":[
+        "Nivelle"
+    ],
+    "name:vol_x_preferred":[
+        "Nivelle"
+    ],
+    "name:war_x_preferred":[
+        "Nivelle"
+    ],
+    "name:zho_x_preferred":[
+        "\u5c3c\u97e6\u5c14"
+    ],
     "qs_pg:aaroncc":"BE",
     "qs_pg:gn_country":"BE",
     "qs_pg:gn_fcode":"PPL",
@@ -67,7 +142,7 @@
         }
     ],
     "wof:id":1125992073,
-    "wof:lastmodified":1509405469,
+    "wof:lastmodified":1564163257,
     "wof:name":"Nivelle",
     "wof:parent_id":102049941,
     "wof:placetype":"locality",

@@ -28,9 +28,54 @@
     "iso:country":"BE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bre_x_preferred":[
+        "Aalst"
+    ],
+    "name:ceb_x_preferred":[
+        "Aalst"
+    ],
+    "name:ces_x_preferred":[
+        "Aalst"
+    ],
+    "name:deu_x_preferred":[
+        "Aalst"
+    ],
+    "name:fas_x_preferred":[
+        "\u0622\u0644\u0633\u062a"
+    ],
+    "name:fra_x_preferred":[
+        "Aalst"
+    ],
+    "name:hun_x_preferred":[
+        "Aalst"
+    ],
+    "name:ind_x_preferred":[
+        "Aalst"
+    ],
+    "name:lim_x_preferred":[
+        "Aalst"
+    ],
+    "name:nld_x_preferred":[
+        "Aalst"
+    ],
+    "name:por_x_preferred":[
+        "Aalst"
+    ],
+    "name:sco_x_preferred":[
+        "Aalst"
+    ],
+    "name:swe_x_preferred":[
+        "Aalst"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0410\u043b\u0441\u0442"
+    ],
     "name:und_x_variant":[
         "Aelst",
         "Aalst"
+    ],
+    "name:vls_x_preferred":[
+        "Oalst"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -59,7 +104,7 @@
         }
     ],
     "wof:id":1326560861,
-    "wof:lastmodified":1537587087,
+    "wof:lastmodified":1564161520,
     "wof:name":"Aalst",
     "wof:parent_id":1108830281,
     "wof:placetype":"locality",

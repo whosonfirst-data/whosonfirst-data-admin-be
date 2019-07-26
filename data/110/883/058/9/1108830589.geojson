@@ -23,6 +23,72 @@
     "lbl:longitude":4.446159,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bre_x_preferred":[
+        "Zemst"
+    ],
+    "name:bul_x_preferred":[
+        "\u0417\u0435\u043c\u0441\u0442"
+    ],
+    "name:cat_x_preferred":[
+        "Zemst"
+    ],
+    "name:ceb_x_preferred":[
+        "Zemst"
+    ],
+    "name:deu_x_preferred":[
+        "Zemst"
+    ],
+    "name:epo_x_preferred":[
+        "Zemst"
+    ],
+    "name:eus_x_preferred":[
+        "Zemst"
+    ],
+    "name:fas_x_preferred":[
+        "\u0632\u0627\u0645\u0633\u062a"
+    ],
+    "name:fra_x_preferred":[
+        "Zemst"
+    ],
+    "name:ita_x_preferred":[
+        "Zemst"
+    ],
+    "name:nld_x_preferred":[
+        "Zemst"
+    ],
+    "name:nor_x_preferred":[
+        "Zemst"
+    ],
+    "name:oci_x_preferred":[
+        "Zemst"
+    ],
+    "name:por_x_preferred":[
+        "Zemst"
+    ],
+    "name:ron_x_preferred":[
+        "Zemst"
+    ],
+    "name:slk_x_preferred":[
+        "Zemst"
+    ],
+    "name:spa_x_preferred":[
+        "Zemst"
+    ],
+    "name:swe_x_preferred":[
+        "Zemst"
+    ],
+    "name:vie_x_preferred":[
+        "Zemst"
+    ],
+    "name:vol_x_preferred":[
+        "Zemst"
+    ],
+    "name:war_x_preferred":[
+        "Zemst"
+    ],
+    "name:zho_x_preferred":[
+        "\u6cfd\u59c6\u65af\u7279"
+    ],
     "reversegeo:latitude":50.977784,
     "reversegeo:longitude":4.446159,
     "src:geom":"begov",
@@ -50,7 +116,7 @@
         }
     ],
     "wof:id":1108830589,
-    "wof:lastmodified":1499533915,
+    "wof:lastmodified":1564162850,
     "wof:name":"Zemst",
     "wof:parent_id":102049973,
     "wof:placetype":"localadmin",

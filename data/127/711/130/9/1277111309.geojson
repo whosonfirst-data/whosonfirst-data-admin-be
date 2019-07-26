@@ -28,6 +28,21 @@
     "iso:country":"BE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Pfau"
+    ],
+    "name:fra_x_preferred":[
+        "Pfau"
+    ],
+    "name:hun_x_preferred":[
+        "Pfau"
+    ],
+    "name:ita_x_preferred":[
+        "Pfau"
+    ],
+    "name:por_x_preferred":[
+        "Pfau"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85681691,
@@ -53,7 +68,7 @@
         }
     ],
     "wof:id":1277111309,
-    "wof:lastmodified":1536726838,
+    "wof:lastmodified":1564162265,
     "wof:name":"Pfau",
     "wof:parent_id":102049935,
     "wof:placetype":"locality",

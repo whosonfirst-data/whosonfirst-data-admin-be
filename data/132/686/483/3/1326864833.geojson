@@ -28,6 +28,15 @@
     "iso:country":"BE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Thure"
+    ],
+    "name:deu_x_preferred":[
+        "Thure"
+    ],
+    "name:swe_x_preferred":[
+        "Thure"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85681723,
@@ -53,7 +62,7 @@
         }
     ],
     "wof:id":1326864833,
-    "wof:lastmodified":1537001013,
+    "wof:lastmodified":1564161496,
     "wof:name":"Thure",
     "wof:parent_id":102049923,
     "wof:placetype":"locality",

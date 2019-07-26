@@ -28,6 +28,60 @@
     "iso:country":"BE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Givry"
+    ],
+    "name:ces_x_preferred":[
+        "Givry"
+    ],
+    "name:deu_x_preferred":[
+        "Givry"
+    ],
+    "name:epo_x_preferred":[
+        "Givry"
+    ],
+    "name:fra_x_preferred":[
+        "Givry"
+    ],
+    "name:ita_x_preferred":[
+        "Givry"
+    ],
+    "name:ltz_x_preferred":[
+        "Givry"
+    ],
+    "name:nds_x_preferred":[
+        "Givry"
+    ],
+    "name:nld_x_preferred":[
+        "Givry"
+    ],
+    "name:oci_x_preferred":[
+        "Givry"
+    ],
+    "name:pms_x_preferred":[
+        "Givry"
+    ],
+    "name:pol_x_preferred":[
+        "Givry"
+    ],
+    "name:rus_x_preferred":[
+        "\u0416\u0438\u0432\u0440\u0438"
+    ],
+    "name:slk_x_preferred":[
+        "Givry"
+    ],
+    "name:spa_x_preferred":[
+        "Givry"
+    ],
+    "name:srp_x_preferred":[
+        "\u0416\u0438\u0432\u0440\u0438"
+    ],
+    "name:swe_x_preferred":[
+        "Givry"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0416\u0438\u0432\u0440\u0456"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85681727,
@@ -53,7 +107,7 @@
         }
     ],
     "wof:id":1209850225,
-    "wof:lastmodified":1536388779,
+    "wof:lastmodified":1564162320,
     "wof:name":"Givry",
     "wof:parent_id":102049915,
     "wof:placetype":"locality",

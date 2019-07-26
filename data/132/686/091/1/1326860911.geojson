@@ -28,6 +28,21 @@
     "iso:country":"BE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Le Hochet"
+    ],
+    "name:deu_x_preferred":[
+        "Le Hochet"
+    ],
+    "name:fra_x_preferred":[
+        "Le Hochet"
+    ],
+    "name:pol_x_preferred":[
+        "Le Hochet"
+    ],
+    "name:swe_x_preferred":[
+        "Le Hochet"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85681727,
@@ -53,7 +68,7 @@
         }
     ],
     "wof:id":1326860911,
-    "wof:lastmodified":1537006784,
+    "wof:lastmodified":1564161497,
     "wof:name":"Le Hochet",
     "wof:parent_id":102049913,
     "wof:placetype":"locality",

@@ -23,6 +23,81 @@
     "lbl:longitude":4.433448,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bre_x_preferred":[
+        "Edegem"
+    ],
+    "name:bul_x_preferred":[
+        "\u0415\u0434\u0435\u0433\u0435\u043c"
+    ],
+    "name:cat_x_preferred":[
+        "Edegem"
+    ],
+    "name:ceb_x_preferred":[
+        "Edegem"
+    ],
+    "name:deu_x_preferred":[
+        "Edegem"
+    ],
+    "name:epo_x_preferred":[
+        "Edegem"
+    ],
+    "name:est_x_preferred":[
+        "Edegem"
+    ],
+    "name:eus_x_preferred":[
+        "Edegem"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u062f\u0648\u0698\u0645"
+    ],
+    "name:fra_x_preferred":[
+        "Edegem"
+    ],
+    "name:ita_x_preferred":[
+        "Edegem"
+    ],
+    "name:nld_x_preferred":[
+        "Edegem"
+    ],
+    "name:nor_x_preferred":[
+        "Edegem"
+    ],
+    "name:oci_x_preferred":[
+        "Edegem"
+    ],
+    "name:pol_x_preferred":[
+        "Edegem"
+    ],
+    "name:por_x_preferred":[
+        "Edegem"
+    ],
+    "name:ron_x_preferred":[
+        "Edegem"
+    ],
+    "name:slk_x_preferred":[
+        "Edegem"
+    ],
+    "name:spa_x_preferred":[
+        "Edegem"
+    ],
+    "name:swe_x_preferred":[
+        "Edegem"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0415\u0434\u0435\u0433\u0435\u043c"
+    ],
+    "name:vie_x_preferred":[
+        "Edegem"
+    ],
+    "name:vol_x_preferred":[
+        "Edegem"
+    ],
+    "name:war_x_preferred":[
+        "Edegem"
+    ],
+    "name:zho_x_preferred":[
+        "\u57c3\u5fb7\u6d77\u59c6"
+    ],
     "reversegeo:latitude":51.158897,
     "reversegeo:longitude":4.433448,
     "src:geom":"begov",
@@ -50,7 +125,7 @@
         }
     ],
     "wof:id":1108830507,
-    "wof:lastmodified":1499533829,
+    "wof:lastmodified":1564162810,
     "wof:name":"Edegem",
     "wof:parent_id":102050005,
     "wof:placetype":"localadmin",

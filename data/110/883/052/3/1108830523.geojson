@@ -14,7 +14,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0007,
-    "geom:area_square_m":5431696.978328,
+    "geom:area_square_m":5431696.978327,
     "geom:bbox":"4.32262137449,51.1292987053,4.35840182769,51.1618299405",
     "geom:latitude":51.143714,
     "geom:longitude":4.340255,
@@ -23,6 +23,75 @@
     "lbl:longitude":4.340587,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bre_x_preferred":[
+        "Hemiksem"
+    ],
+    "name:bul_x_preferred":[
+        "\u0425\u0435\u043c\u0438\u043a\u0441\u0435\u043c"
+    ],
+    "name:cat_x_preferred":[
+        "Hemiksem"
+    ],
+    "name:ceb_x_preferred":[
+        "Hemiksem"
+    ],
+    "name:deu_x_preferred":[
+        "Hemiksem"
+    ],
+    "name:epo_x_preferred":[
+        "Hemiksem"
+    ],
+    "name:est_x_preferred":[
+        "Hemiksem"
+    ],
+    "name:eus_x_preferred":[
+        "Hemiksem"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0645\u06cc\u06a9\u0633\u0645"
+    ],
+    "name:fra_x_preferred":[
+        "Hemiksem"
+    ],
+    "name:ita_x_preferred":[
+        "Hemiksem"
+    ],
+    "name:nld_x_preferred":[
+        "Hemiksem"
+    ],
+    "name:nor_x_preferred":[
+        "Hemiksem"
+    ],
+    "name:oci_x_preferred":[
+        "Hemiksem"
+    ],
+    "name:por_x_preferred":[
+        "Hemiksem"
+    ],
+    "name:ron_x_preferred":[
+        "Hemiksem"
+    ],
+    "name:slk_x_preferred":[
+        "Hemiksem"
+    ],
+    "name:spa_x_preferred":[
+        "Hemiksem"
+    ],
+    "name:swe_x_preferred":[
+        "Hemiksem"
+    ],
+    "name:vie_x_preferred":[
+        "Hemiksem"
+    ],
+    "name:vol_x_preferred":[
+        "Hemiksem"
+    ],
+    "name:war_x_preferred":[
+        "Hemiksem"
+    ],
+    "name:zho_x_preferred":[
+        "\u6d77\u7c73\u514b\u745f\u59c6"
+    ],
     "reversegeo:latitude":51.143857,
     "reversegeo:longitude":4.340587,
     "src:geom":"begov",
@@ -50,7 +119,7 @@
         }
     ],
     "wof:id":1108830523,
-    "wof:lastmodified":1499533846,
+    "wof:lastmodified":1564162683,
     "wof:name":"Hemiksem",
     "wof:parent_id":102050005,
     "wof:placetype":"localadmin",

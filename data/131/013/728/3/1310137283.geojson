@@ -28,6 +28,45 @@
     "iso:country":"BE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Fays"
+    ],
+    "name:deu_x_preferred":[
+        "Fays"
+    ],
+    "name:fra_x_preferred":[
+        "Fays"
+    ],
+    "name:ita_x_preferred":[
+        "Fays"
+    ],
+    "name:ltz_x_preferred":[
+        "Fays"
+    ],
+    "name:nds_x_preferred":[
+        "Fays"
+    ],
+    "name:nld_x_preferred":[
+        "Fays"
+    ],
+    "name:pol_x_preferred":[
+        "Fays"
+    ],
+    "name:por_x_preferred":[
+        "Fays"
+    ],
+    "name:scn_x_preferred":[
+        "Fays"
+    ],
+    "name:slk_x_preferred":[
+        "Fays"
+    ],
+    "name:spa_x_preferred":[
+        "Fays"
+    ],
+    "name:swe_x_preferred":[
+        "Fays"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85681691,
@@ -53,7 +92,7 @@
         }
     ],
     "wof:id":1310137283,
-    "wof:lastmodified":1536950923,
+    "wof:lastmodified":1564162891,
     "wof:name":"Fays",
     "wof:parent_id":102049941,
     "wof:placetype":"locality",

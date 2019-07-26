@@ -28,9 +28,18 @@
     "iso:country":"BE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bre_x_preferred":[
+        "Abele"
+    ],
+    "name:nld_x_preferred":[
+        "Abele"
+    ],
     "name:und_x_variant":[
         "Abeele",
         "Abele"
+    ],
+    "name:vls_x_preferred":[
+        "Ab\u00eale"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -59,7 +68,7 @@
         }
     ],
     "wof:id":1293914095,
-    "wof:lastmodified":1537587086,
+    "wof:lastmodified":1564161879,
     "wof:name":"Abele",
     "wof:parent_id":1108830481,
     "wof:placetype":"locality",

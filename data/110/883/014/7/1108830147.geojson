@@ -14,7 +14,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.014743,
-    "geom:area_square_m":114143560.371871,
+    "geom:area_square_m":114143560.371878,
     "geom:bbox":"5.03536436664,51.1534808615,5.24225916956,51.3226989727",
     "geom:latitude":51.233762,
     "geom:longitude":5.152832,
@@ -23,6 +23,93 @@
     "lbl:longitude":5.194388,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Mol"
+    ],
+    "name:cat_x_preferred":[
+        "Mol"
+    ],
+    "name:ceb_x_preferred":[
+        "Mol"
+    ],
+    "name:ces_x_preferred":[
+        "Mol"
+    ],
+    "name:chv_x_preferred":[
+        "\u041c\u043e\u043b\u044c"
+    ],
+    "name:dan_x_preferred":[
+        "Mol"
+    ],
+    "name:deu_x_preferred":[
+        "Mol"
+    ],
+    "name:fin_x_preferred":[
+        "Mol"
+    ],
+    "name:fra_x_preferred":[
+        "Mol"
+    ],
+    "name:glg_x_preferred":[
+        "Mol"
+    ],
+    "name:heb_x_preferred":[
+        "\u05de\u05d5\u05dc"
+    ],
+    "name:hrv_x_preferred":[
+        "Mol"
+    ],
+    "name:hun_x_preferred":[
+        "Mol"
+    ],
+    "name:hye_x_preferred":[
+        "\u0544\u0578\u056c"
+    ],
+    "name:lav_x_preferred":[
+        "Mol"
+    ],
+    "name:nds_x_preferred":[
+        "Mol"
+    ],
+    "name:nld_x_preferred":[
+        "Mol"
+    ],
+    "name:nor_x_preferred":[
+        "Mol"
+    ],
+    "name:oci_x_preferred":[
+        "M\u00f2l"
+    ],
+    "name:pol_x_preferred":[
+        "Mol"
+    ],
+    "name:por_x_preferred":[
+        "Mol"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u043e\u043b\u044c"
+    ],
+    "name:slk_x_preferred":[
+        "Mol"
+    ],
+    "name:slv_x_preferred":[
+        "Mol"
+    ],
+    "name:spa_x_preferred":[
+        "Mol"
+    ],
+    "name:swe_x_preferred":[
+        "Mol"
+    ],
+    "name:tur_x_preferred":[
+        "Mol"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u043e\u043b\u044c"
+    ],
+    "name:uzb_x_preferred":[
+        "Mol"
+    ],
     "reversegeo:latitude":51.284799,
     "reversegeo:longitude":5.194388,
     "src:geom":"begov",
@@ -50,7 +137,7 @@
         }
     ],
     "wof:id":1108830147,
-    "wof:lastmodified":1499533400,
+    "wof:lastmodified":1564162614,
     "wof:name":"Mol",
     "wof:parent_id":102050007,
     "wof:placetype":"localadmin",

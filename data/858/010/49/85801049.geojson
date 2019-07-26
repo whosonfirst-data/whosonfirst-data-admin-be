@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000186,
-    "geom:area_square_m":1451493.105151,
+    "geom:area_square_m":1451493.105152,
     "geom:bbox":"4.33410644531,50.8024631336,4.3570399146,50.8178683676",
     "geom:latitude":50.810019,
     "geom:longitude":4.345621,
@@ -24,14 +24,20 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":5,
     "mz:tier_metro":30,
+    "name:bre_x_preferred":[
+        "Le Chat"
+    ],
     "name:fra_x_preferred":[
         "De Kat"
+    ],
+    "name:fra_x_variant":[
+        "Le Chat"
     ],
     "name:nld_x_preferred":[
         "De Kat"
     ],
-    "name:nld_x_variant":[
-        "De Kat"
+    "name:pcd_x_preferred":[
+        "El\u2019 cat"
     ],
     "name:unk_x_variant":[
         "De Katte",
@@ -97,7 +103,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1497312672,
+    "wof:lastmodified":1564161870,
     "wof:name":"Le Chat",
     "wof:parent_id":101751573,
     "wof:placetype":"neighbourhood",

@@ -14,7 +14,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002761,
-    "geom:area_square_m":21520085.961348,
+    "geom:area_square_m":21520085.961344,
     "geom:bbox":"4.36049023225,50.897032864,4.48708008398,50.9592536141",
     "geom:latitude":50.930245,
     "geom:longitude":4.433887,
@@ -23,6 +23,111 @@
     "lbl:longitude":4.43914,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bre_x_preferred":[
+        "Vilvoorde"
+    ],
+    "name:bul_x_preferred":[
+        "\u0412\u0438\u043b\u0432\u043e\u0440\u0434\u0435"
+    ],
+    "name:cat_x_preferred":[
+        "Vilvoorde"
+    ],
+    "name:ceb_x_preferred":[
+        "Vilvoorde"
+    ],
+    "name:ces_x_preferred":[
+        "Vilvoorde"
+    ],
+    "name:dan_x_preferred":[
+        "Vilvoorde"
+    ],
+    "name:deu_x_preferred":[
+        "Vilvoorde"
+    ],
+    "name:ell_x_preferred":[
+        "\u0392\u03af\u03bb\u03b2\u03bf\u03c1\u03bd\u03c4\u03b5"
+    ],
+    "name:epo_x_preferred":[
+        "Vilvoorde"
+    ],
+    "name:eus_x_preferred":[
+        "Vilvoorde"
+    ],
+    "name:fas_x_preferred":[
+        "\u0648\u06cc\u0644\u0648\u0648\u0631\u062f"
+    ],
+    "name:fra_x_preferred":[
+        "Vilvorde"
+    ],
+    "name:gle_x_preferred":[
+        "Vilvoorde"
+    ],
+    "name:ita_x_preferred":[
+        "Vilvoorde"
+    ],
+    "name:lit_x_preferred":[
+        "Vilvord\u0117"
+    ],
+    "name:nld_x_preferred":[
+        "Vilvoorde"
+    ],
+    "name:nor_x_preferred":[
+        "Vilvoorde"
+    ],
+    "name:oci_x_preferred":[
+        "Vilvoorde"
+    ],
+    "name:pol_x_preferred":[
+        "Vilvoorde"
+    ],
+    "name:por_x_preferred":[
+        "Vilvoorde"
+    ],
+    "name:ron_x_preferred":[
+        "Vilvoorde"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u0438\u043b\u0432\u043e\u0440\u0434\u0435"
+    ],
+    "name:slk_x_preferred":[
+        "Vilvoorde"
+    ],
+    "name:spa_x_preferred":[
+        "Vilvoorde"
+    ],
+    "name:srp_x_preferred":[
+        "\u0412\u0438\u043b\u0432\u043e\u0440\u0434\u0435"
+    ],
+    "name:swa_x_preferred":[
+        "Vilvoorde"
+    ],
+    "name:swe_x_preferred":[
+        "Vilvoorde"
+    ],
+    "name:szl_x_preferred":[
+        "Vilvorde"
+    ],
+    "name:tat_x_preferred":[
+        "\u0412\u0438\u043b\u0432\u043e\u0440\u0434\u0435"
+    ],
+    "name:tur_x_preferred":[
+        "Vilvoorde"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0412\u0456\u043b\u0432\u043e\u0440\u0434\u0435"
+    ],
+    "name:vie_x_preferred":[
+        "Vilvoorde"
+    ],
+    "name:vol_x_preferred":[
+        "Vilvoorde"
+    ],
+    "name:war_x_preferred":[
+        "Vilvoorde"
+    ],
+    "name:zho_x_preferred":[
+        "\u83f2\u5c14\u798f\u5c14\u5fb7"
+    ],
     "reversegeo:latitude":50.933412,
     "reversegeo:longitude":4.43914,
     "src:geom":"begov",
@@ -50,7 +155,7 @@
         }
     ],
     "wof:id":1108830085,
-    "wof:lastmodified":1499533310,
+    "wof:lastmodified":1564162702,
     "wof:name":"Vilvoorde",
     "wof:parent_id":102049973,
     "wof:placetype":"localadmin",

@@ -14,7 +14,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007543,
-    "geom:area_square_m":58823308.413773,
+    "geom:area_square_m":58823308.413769,
     "geom:bbox":"5.570531417,50.8332518702,5.72454556801,50.9445442776",
     "geom:latitude":50.899445,
     "geom:longitude":5.644409,
@@ -23,6 +23,93 @@
     "lbl:longitude":5.645558,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:afr_x_preferred":[
+        "Lanaken"
+    ],
+    "name:ara_x_preferred":[
+        "\u0644\u0627\u0646\u0627\u0643\u0646"
+    ],
+    "name:bre_x_preferred":[
+        "Lanaken"
+    ],
+    "name:bul_x_preferred":[
+        "\u041b\u0430\u043d\u0430\u043a\u0435\u043d"
+    ],
+    "name:cat_x_preferred":[
+        "Lanaken"
+    ],
+    "name:ceb_x_preferred":[
+        "Lanaken"
+    ],
+    "name:deu_x_preferred":[
+        "Lanaken"
+    ],
+    "name:epo_x_preferred":[
+        "Lanaken"
+    ],
+    "name:eus_x_preferred":[
+        "Lanaken"
+    ],
+    "name:fas_x_preferred":[
+        "\u0644\u0646\u06a9\u0627\u0646"
+    ],
+    "name:fra_x_preferred":[
+        "Lanaken"
+    ],
+    "name:gle_x_preferred":[
+        "Lanaken"
+    ],
+    "name:ita_x_preferred":[
+        "Lanaken"
+    ],
+    "name:lim_x_preferred":[
+        "Laoneke"
+    ],
+    "name:nld_x_preferred":[
+        "Lanaken"
+    ],
+    "name:nor_x_preferred":[
+        "Lanaken"
+    ],
+    "name:oci_x_preferred":[
+        "Lanaken"
+    ],
+    "name:pol_x_preferred":[
+        "Lanaken"
+    ],
+    "name:por_x_preferred":[
+        "Lanaken"
+    ],
+    "name:ron_x_preferred":[
+        "Lanaken"
+    ],
+    "name:slk_x_preferred":[
+        "Lanaken"
+    ],
+    "name:spa_x_preferred":[
+        "Lanaken"
+    ],
+    "name:swe_x_preferred":[
+        "Lanaken"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e25\u0e32\u0e19\u0e32\u0e40\u0e01\u0e34\u0e19"
+    ],
+    "name:tur_x_preferred":[
+        "Lanaken"
+    ],
+    "name:vie_x_preferred":[
+        "Lanaken"
+    ],
+    "name:vol_x_preferred":[
+        "Lanaken"
+    ],
+    "name:war_x_preferred":[
+        "Lanaken"
+    ],
+    "name:zho_x_preferred":[
+        "\u62c9\u7eb3\u80af"
+    ],
     "reversegeo:latitude":50.906897,
     "reversegeo:longitude":5.645558,
     "src:geom":"begov",
@@ -50,7 +137,7 @@
         }
     ],
     "wof:id":1108830075,
-    "wof:lastmodified":1504820478,
+    "wof:lastmodified":1564162664,
     "wof:name":"Lanaken",
     "wof:parent_id":1108782563,
     "wof:placetype":"localadmin",

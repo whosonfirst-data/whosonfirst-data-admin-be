@@ -14,7 +14,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00762,
-    "geom:area_square_m":59060439.066903,
+    "geom:area_square_m":59060439.066905,
     "geom:bbox":"5.47744350384,51.1305417083,5.65946016427,51.2229182273",
     "geom:latitude":51.187003,
     "geom:longitude":5.563868,
@@ -23,6 +23,57 @@
     "lbl:longitude":5.562489,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:afr_x_preferred":[
+        "Bocholt"
+    ],
+    "name:cat_x_preferred":[
+        "Bocholt"
+    ],
+    "name:ceb_x_preferred":[
+        "Bocholt"
+    ],
+    "name:deu_x_preferred":[
+        "Bocholt"
+    ],
+    "name:epo_x_preferred":[
+        "Bocholt"
+    ],
+    "name:eus_x_preferred":[
+        "Bocholt"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u0648\u0634\u0648\u0644\u062a"
+    ],
+    "name:fra_x_preferred":[
+        "Bocholt"
+    ],
+    "name:ita_x_preferred":[
+        "Bocholt"
+    ],
+    "name:kor_x_preferred":[
+        "\ubcf4\ud640\ud2b8"
+    ],
+    "name:lim_x_preferred":[
+        "Bocholt"
+    ],
+    "name:nld_x_preferred":[
+        "Bocholt"
+    ],
+    "name:por_x_preferred":[
+        "Bocholt"
+    ],
+    "name:slk_x_preferred":[
+        "Bocholt"
+    ],
+    "name:swe_x_preferred":[
+        "Bocholt"
+    ],
+    "name:vol_x_preferred":[
+        "Bocholt"
+    ],
+    "name:zho_x_preferred":[
+        "\u535a\u970d\u723e\u7279"
+    ],
     "reversegeo:latitude":51.190333,
     "reversegeo:longitude":5.562489,
     "src:geom":"begov",
@@ -50,7 +101,7 @@
         }
     ],
     "wof:id":1108830639,
-    "wof:lastmodified":1499533991,
+    "wof:lastmodified":1564162688,
     "wof:name":"Bocholt",
     "wof:parent_id":102049993,
     "wof:placetype":"localadmin",

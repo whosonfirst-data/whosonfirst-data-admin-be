@@ -28,6 +28,51 @@
     "iso:country":"BE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Beaurieux"
+    ],
+    "name:deu_x_preferred":[
+        "Beaurieux"
+    ],
+    "name:epo_x_preferred":[
+        "Beaurieux"
+    ],
+    "name:fra_x_preferred":[
+        "Beaurieux"
+    ],
+    "name:ita_x_preferred":[
+        "Beaurieux"
+    ],
+    "name:nds_x_preferred":[
+        "Beaurieux"
+    ],
+    "name:nld_x_preferred":[
+        "Beaurieux"
+    ],
+    "name:pol_x_preferred":[
+        "Beaurieux"
+    ],
+    "name:por_x_preferred":[
+        "Beaurieux"
+    ],
+    "name:ron_x_preferred":[
+        "Beaurieux"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u043e\u0440\u044c\u0451"
+    ],
+    "name:slk_x_preferred":[
+        "Beaurieux"
+    ],
+    "name:spa_x_preferred":[
+        "Beaurieux"
+    ],
+    "name:swe_x_preferred":[
+        "Beaurieux"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u043e\u0440'\u0454"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85681691,
@@ -53,7 +98,7 @@
         }
     ],
     "wof:id":1276160451,
-    "wof:lastmodified":1537009699,
+    "wof:lastmodified":1564162143,
     "wof:name":"Beaurieux",
     "wof:parent_id":102049941,
     "wof:placetype":"locality",

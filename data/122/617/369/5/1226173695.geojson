@@ -28,6 +28,9 @@
     "iso:country":"BE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Le Dauphin"
+    ],
     "name:und_x_variant":[
         "Dauphin",
         "Le Dauphin"
@@ -57,7 +60,7 @@
         }
     ],
     "wof:id":1226173695,
-    "wof:lastmodified":1537586985,
+    "wof:lastmodified":1564163637,
     "wof:name":"Le Dauphin",
     "wof:parent_id":102049927,
     "wof:placetype":"locality",

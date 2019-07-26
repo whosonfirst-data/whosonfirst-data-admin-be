@@ -28,6 +28,9 @@
     "iso:country":"BE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041c\u043e\u043b\u043b\u0435\u043d"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85681705,
@@ -55,7 +58,7 @@
         }
     ],
     "wof:id":1293526293,
-    "wof:lastmodified":1536731329,
+    "wof:lastmodified":1564161904,
     "wof:name":"Mollen",
     "wof:parent_id":1108830269,
     "wof:placetype":"locality",

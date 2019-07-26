@@ -28,6 +28,12 @@
     "iso:country":"BE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Brux"
+    ],
+    "name:fra_x_preferred":[
+        "Brux"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85681691,
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":1243590559,
-    "wof:lastmodified":1537091389,
+    "wof:lastmodified":1564163443,
     "wof:name":"Brux",
     "wof:parent_id":102049935,
     "wof:placetype":"locality",

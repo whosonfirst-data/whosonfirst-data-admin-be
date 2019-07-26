@@ -28,9 +28,24 @@
     "iso:country":"BE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Sint-Pieters-op-de-Dijk"
+    ],
+    "name:epo_x_preferred":[
+        "Sint-Pieters"
+    ],
+    "name:fra_x_preferred":[
+        "Saint-Pierre-sur-la-Digue"
+    ],
+    "name:nld_x_preferred":[
+        "Sint-Pieters-op-den-Dijk"
+    ],
     "name:und_x_variant":[
         "Sint-Pieters-Cappelle",
         "Sint-Pieters"
+    ],
+    "name:vls_x_preferred":[
+        "Sinte-Pieters"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -59,7 +74,7 @@
         }
     ],
     "wof:id":1326565947,
-    "wof:lastmodified":1537586914,
+    "wof:lastmodified":1564161511,
     "wof:name":"Sint-Pieters",
     "wof:parent_id":1108830335,
     "wof:placetype":"locality",

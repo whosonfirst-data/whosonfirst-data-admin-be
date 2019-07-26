@@ -28,6 +28,9 @@
     "name:fra_x_preferred":[
         "La Chasse Jacht"
     ],
+    "name:fra_x_variant":[
+        "La Chasse"
+    ],
     "name:nld_x_preferred":[
         "La Chasse Jacht"
     ],
@@ -94,7 +97,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1527269910,
+    "wof:lastmodified":1564161847,
     "wof:name":"La Chasse",
     "wof:parent_id":101751573,
     "wof:placetype":"neighbourhood",

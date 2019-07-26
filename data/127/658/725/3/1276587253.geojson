@@ -28,6 +28,9 @@
     "iso:country":"BE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Thyle"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85681693,
@@ -53,7 +56,7 @@
         }
     ],
     "wof:id":1276587253,
-    "wof:lastmodified":1536936702,
+    "wof:lastmodified":1564162167,
     "wof:name":"Thyle",
     "wof:parent_id":102049945,
     "wof:placetype":"locality",

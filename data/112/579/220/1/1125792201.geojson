@@ -18,6 +18,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:deu_x_preferred":[
+        "Wildenburg"
+    ],
     "qs_pg:aaroncc":"BE",
     "qs_pg:gn_country":"BE",
     "qs_pg:gn_fcode":"PPL",
@@ -71,7 +74,7 @@
         }
     ],
     "wof:id":1125792201,
-    "wof:lastmodified":1509392413,
+    "wof:lastmodified":1564163312,
     "wof:name":"Wildenburg",
     "wof:parent_id":1108830065,
     "wof:placetype":"locality",

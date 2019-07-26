@@ -28,6 +28,9 @@
     "iso:country":"BE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Heine"
+    ],
     "name:und_x_variant":[
         "Heyne",
         "Heine"
@@ -59,7 +62,7 @@
         }
     ],
     "wof:id":1326865847,
-    "wof:lastmodified":1537587021,
+    "wof:lastmodified":1564161506,
     "wof:name":"Heine",
     "wof:parent_id":1108830287,
     "wof:placetype":"locality",

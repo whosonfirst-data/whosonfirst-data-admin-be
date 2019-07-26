@@ -28,6 +28,72 @@
     "iso:country":"BE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ast_x_preferred":[
+        "Sigmatismu"
+    ],
+    "name:cat_x_preferred":[
+        "Papissot"
+    ],
+    "name:ces_x_preferred":[
+        "Sigmatismus"
+    ],
+    "name:dan_x_preferred":[
+        "L\u00e6spen"
+    ],
+    "name:deu_x_preferred":[
+        "Lispeln"
+    ],
+    "name:epo_x_preferred":[
+        "Lispado"
+    ],
+    "name:est_x_preferred":[
+        "Sigmatism"
+    ],
+    "name:fin_x_preferred":[
+        "\u00c4ss\u00e4vika"
+    ],
+    "name:fra_x_preferred":[
+        "Sigmatisme"
+    ],
+    "name:hin_x_preferred":[
+        "\u0932\u093f\u0938\u094d\u092a"
+    ],
+    "name:hun_x_preferred":[
+        "Selyp\u00edt\u00e9s"
+    ],
+    "name:isl_x_preferred":[
+        "Sm\u00e1m\u00e6li"
+    ],
+    "name:ita_x_preferred":[
+        "Sigmatismo"
+    ],
+    "name:jpn_x_preferred":[
+        "\u69cb\u97f3\u969c\u5bb3"
+    ],
+    "name:lit_x_preferred":[
+        "\u0160veplavimas"
+    ],
+    "name:nld_x_preferred":[
+        "Slissen"
+    ],
+    "name:pan_x_preferred":[
+        "\u0a24\u0a4b\u0a24\u0a32\u0a3e\u0a2a\u0a23"
+    ],
+    "name:pol_x_preferred":[
+        "Seplenienie"
+    ],
+    "name:por_x_preferred":[
+        "Sigmatismo"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0438\u0433\u043c\u0430\u0442\u0438\u0437\u043c"
+    ],
+    "name:spa_x_preferred":[
+        "Sigmatismo"
+    ],
+    "name:swe_x_preferred":[
+        "L\u00e4spning"
+    ],
     "name:und_x_variant":[
         "Lips",
         "Lisp"
@@ -59,7 +125,7 @@
         }
     ],
     "wof:id":1226571797,
-    "wof:lastmodified":1537586976,
+    "wof:lastmodified":1564163694,
     "wof:name":"Lisp",
     "wof:parent_id":1108830097,
     "wof:placetype":"locality",

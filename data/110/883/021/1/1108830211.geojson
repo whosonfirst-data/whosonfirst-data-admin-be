@@ -14,7 +14,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.011714,
-    "geom:area_square_m":90990799.302845,
+    "geom:area_square_m":90990799.302846,
     "geom:bbox":"5.45438407266,51.0294779015,5.66606660486,51.1463475274",
     "geom:latitude":51.084407,
     "geom:longitude":5.552194,
@@ -23,6 +23,87 @@
     "lbl:longitude":5.532931,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:afr_x_preferred":[
+        "Meeuwen-Gruitrode"
+    ],
+    "name:bre_x_preferred":[
+        "Meeuwen-Gruitrode"
+    ],
+    "name:bul_x_preferred":[
+        "\u041c\u0435\u0443\u0435\u043d-\u0413\u0440\u043e\u0439\u0442\u0440\u043e\u0434\u0435"
+    ],
+    "name:cat_x_preferred":[
+        "Meeuwen-Gruitrode"
+    ],
+    "name:ceb_x_preferred":[
+        "Meeuwen-Gruitrode"
+    ],
+    "name:deu_x_preferred":[
+        "Meeuwen-Gruitrode"
+    ],
+    "name:epo_x_preferred":[
+        "Meeuwen-Gruitrode"
+    ],
+    "name:eus_x_preferred":[
+        "Meeuwen-Gruitrode"
+    ],
+    "name:fas_x_preferred":[
+        "\u0645\u0626\u0648\u0627\u0646-\u06af\u0631\u0648\u0626\u06cc\u062a\u0631\u0648\u062f"
+    ],
+    "name:fra_x_preferred":[
+        "Meeuwen-Gruitrode"
+    ],
+    "name:hun_x_preferred":[
+        "Meeuwen-Gruitrode"
+    ],
+    "name:ita_x_preferred":[
+        "Meeuwen-Gruitrode"
+    ],
+    "name:lim_x_preferred":[
+        "Mi\u00ebve-Roj"
+    ],
+    "name:nld_x_preferred":[
+        "Meeuwen-Gruitrode"
+    ],
+    "name:nor_x_preferred":[
+        "Meeuwen-Gruitrode"
+    ],
+    "name:oci_x_preferred":[
+        "Meeuwen-Gruitrode"
+    ],
+    "name:pol_x_preferred":[
+        "Meeuwen-Gruitrode"
+    ],
+    "name:por_x_preferred":[
+        "Meeuwen-Gruitrode"
+    ],
+    "name:ron_x_preferred":[
+        "Meeuwen-Gruitrode"
+    ],
+    "name:slk_x_preferred":[
+        "Meeuwen-Gruitrode"
+    ],
+    "name:spa_x_preferred":[
+        "Meeuwen-Gruitrode"
+    ],
+    "name:swe_x_preferred":[
+        "Meeuwen-Gruitrode"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e40\u0e21\u0e27\u0e40\u0e27\u0e34\u0e19-\u0e40\u0e04\u0e23\u0e22\u0e42\u0e15\u0e23\u0e40\u0e14\u0e2d"
+    ],
+    "name:vie_x_preferred":[
+        "Meeuwen-Gruitrode"
+    ],
+    "name:vol_x_preferred":[
+        "Meeuwen-Gruitrode"
+    ],
+    "name:war_x_preferred":[
+        "Meeuwen-Gruitrode"
+    ],
+    "name:zho_x_preferred":[
+        "\u6885\u5384\u6587\uff0d\u8d6b\u96f7\u7279\u7f57\u5fb7"
+    ],
     "reversegeo:latitude":51.09262,
     "reversegeo:longitude":5.532931,
     "src:geom":"begov",
@@ -50,7 +131,7 @@
         }
     ],
     "wof:id":1108830211,
-    "wof:lastmodified":1499533477,
+    "wof:lastmodified":1564162781,
     "wof:name":"Meeuwen-Gruitrode",
     "wof:parent_id":102049993,
     "wof:placetype":"localadmin",

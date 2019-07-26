@@ -23,6 +23,84 @@
     "lbl:longitude":5.084406,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0623\u0631\u064a\u0646\u062f\u0648\u0646\u0643"
+    ],
+    "name:bre_x_preferred":[
+        "Arendonk"
+    ],
+    "name:bul_x_preferred":[
+        "\u0410\u0440\u0435\u043d\u0434\u043e\u043d\u043a"
+    ],
+    "name:cat_x_preferred":[
+        "Arendonk"
+    ],
+    "name:ceb_x_preferred":[
+        "Arendonk"
+    ],
+    "name:deu_x_preferred":[
+        "Arendonk"
+    ],
+    "name:epo_x_preferred":[
+        "Arendonk"
+    ],
+    "name:est_x_preferred":[
+        "Arendonk"
+    ],
+    "name:eus_x_preferred":[
+        "Arendonk"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0631\u0646\u062f\u0627\u0646\u06a9"
+    ],
+    "name:fra_x_preferred":[
+        "Arendonk"
+    ],
+    "name:ita_x_preferred":[
+        "Arendonk"
+    ],
+    "name:nld_x_preferred":[
+        "Arendonk"
+    ],
+    "name:nor_x_preferred":[
+        "Arendonk"
+    ],
+    "name:oci_x_preferred":[
+        "Arendonk"
+    ],
+    "name:pol_x_preferred":[
+        "Arendonk"
+    ],
+    "name:por_x_preferred":[
+        "Arendonk"
+    ],
+    "name:ron_x_preferred":[
+        "Arendonk"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u0440\u0435\u043d\u0434\u043e\u043d\u043a"
+    ],
+    "name:slk_x_preferred":[
+        "Arendonk"
+    ],
+    "name:spa_x_preferred":[
+        "Arendonk"
+    ],
+    "name:swe_x_preferred":[
+        "Arendonk"
+    ],
+    "name:vie_x_preferred":[
+        "Arendonk"
+    ],
+    "name:vol_x_preferred":[
+        "Arendonk"
+    ],
+    "name:war_x_preferred":[
+        "Arendonk"
+    ],
+    "name:zho_x_preferred":[
+        "\u963f\u4f26\u4e1c\u514b"
+    ],
     "reversegeo:latitude":51.336908,
     "reversegeo:longitude":5.084406,
     "src:geom":"begov",
@@ -50,7 +128,7 @@
         }
     ],
     "wof:id":1108830607,
-    "wof:lastmodified":1499533938,
+    "wof:lastmodified":1564162855,
     "wof:name":"Arendonk",
     "wof:parent_id":102050007,
     "wof:placetype":"localadmin",

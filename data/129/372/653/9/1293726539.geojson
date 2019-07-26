@@ -28,6 +28,18 @@
     "iso:country":"BE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cym_x_preferred":[
+        "Plas"
+    ],
+    "name:deu_x_preferred":[
+        "Plas"
+    ],
+    "name:fra_x_preferred":[
+        "Plas"
+    ],
+    "name:nld_x_preferred":[
+        "Plas"
+    ],
     "name:und_x_variant":[
         "Plasweg",
         "Plas"
@@ -59,7 +71,7 @@
         }
     ],
     "wof:id":1293726539,
-    "wof:lastmodified":1537586944,
+    "wof:lastmodified":1564162087,
     "wof:name":"Plas",
     "wof:parent_id":1108830225,
     "wof:placetype":"locality",

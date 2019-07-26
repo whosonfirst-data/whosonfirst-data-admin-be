@@ -28,6 +28,21 @@
     "iso:country":"BE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Kapel"
+    ],
+    "name:dan_x_preferred":[
+        "Kapel"
+    ],
+    "name:lim_x_preferred":[
+        "Kapel"
+    ],
+    "name:nld_x_preferred":[
+        "Kapel"
+    ],
+    "name:srp_x_preferred":[
+        "\u041a\u0430\u043f\u0435\u043b"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85681715,
@@ -55,7 +70,7 @@
         }
     ],
     "wof:id":1310139911,
-    "wof:lastmodified":1536947269,
+    "wof:lastmodified":1564162883,
     "wof:name":"Kapel",
     "wof:parent_id":1108830077,
     "wof:placetype":"locality",

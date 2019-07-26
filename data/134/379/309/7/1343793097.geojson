@@ -28,6 +28,54 @@
     "iso:country":"BE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Saint-Maur"
+    ],
+    "name:deu_x_preferred":[
+        "Saint-Maur"
+    ],
+    "name:fra_x_preferred":[
+        "Saint-Maur"
+    ],
+    "name:ita_x_preferred":[
+        "Saint-Maur"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b5\u30f3\u30e2\u30fc\u30eb"
+    ],
+    "name:nds_x_preferred":[
+        "Saint-Maur"
+    ],
+    "name:nld_x_preferred":[
+        "Saint-Maur"
+    ],
+    "name:oci_x_preferred":[
+        "Saint-Maur"
+    ],
+    "name:pms_x_preferred":[
+        "Saint-Maur"
+    ],
+    "name:pol_x_preferred":[
+        "Saint-Maur"
+    ],
+    "name:por_x_preferred":[
+        "Saint-Maur"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0435\u043d-\u041c\u043e\u0440"
+    ],
+    "name:slk_x_preferred":[
+        "Saint-Maur"
+    ],
+    "name:spa_x_preferred":[
+        "Saint-Maur"
+    ],
+    "name:swe_x_preferred":[
+        "Saint-Maur"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0435\u043d-\u041c\u043e\u0440"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85681723,
@@ -53,7 +101,7 @@
         }
     ],
     "wof:id":1343793097,
-    "wof:lastmodified":1536764293,
+    "wof:lastmodified":1564161707,
     "wof:name":"Saint-Maur",
     "wof:parent_id":102049951,
     "wof:placetype":"locality",

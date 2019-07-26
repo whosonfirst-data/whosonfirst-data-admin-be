@@ -28,6 +28,9 @@
     "iso:country":"BE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:est_x_preferred":[
+        "Valk"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85681733,
@@ -55,7 +58,7 @@
         }
     ],
     "wof:id":1310535877,
-    "wof:lastmodified":1536872069,
+    "wof:lastmodified":1564162917,
     "wof:name":"Valk",
     "wof:parent_id":1108830271,
     "wof:placetype":"locality",

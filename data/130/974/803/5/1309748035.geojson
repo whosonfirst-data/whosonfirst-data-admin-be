@@ -28,6 +28,12 @@
     "iso:country":"BE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "Birel"
+    ],
+    "name:swe_x_preferred":[
+        "Birel"
+    ],
     "name:und_x_variant":[
         "Biret",
         "Birel"
@@ -57,7 +63,7 @@
         }
     ],
     "wof:id":1309748035,
-    "wof:lastmodified":1537587076,
+    "wof:lastmodified":1564163180,
     "wof:name":"Birel",
     "wof:parent_id":102049909,
     "wof:placetype":"locality",

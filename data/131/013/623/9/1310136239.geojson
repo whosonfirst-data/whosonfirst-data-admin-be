@@ -28,6 +28,45 @@
     "iso:country":"BE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u041c\u0430\u0440\u044d"
+    ],
+    "name:ceb_x_preferred":[
+        "Marais"
+    ],
+    "name:ces_x_preferred":[
+        "Marais"
+    ],
+    "name:deu_x_preferred":[
+        "Marais"
+    ],
+    "name:eus_x_preferred":[
+        "Marais"
+    ],
+    "name:fra_x_preferred":[
+        "Marais"
+    ],
+    "name:hun_x_preferred":[
+        "Marais"
+    ],
+    "name:ita_x_preferred":[
+        "Marais"
+    ],
+    "name:nds_x_preferred":[
+        "Marais"
+    ],
+    "name:nor_x_preferred":[
+        "Marais"
+    ],
+    "name:pol_x_preferred":[
+        "Marais"
+    ],
+    "name:spa_x_preferred":[
+        "Marais"
+    ],
+    "name:swe_x_preferred":[
+        "Marais"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85681723,
@@ -53,7 +92,7 @@
         }
     ],
     "wof:id":1310136239,
-    "wof:lastmodified":1536952439,
+    "wof:lastmodified":1564162888,
     "wof:name":"Marais",
     "wof:parent_id":102049951,
     "wof:placetype":"locality",

@@ -28,6 +28,33 @@
     "iso:country":"BE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Laren"
+    ],
+    "name:deu_x_preferred":[
+        "Laren"
+    ],
+    "name:fra_x_preferred":[
+        "Laren"
+    ],
+    "name:fry_x_preferred":[
+        "Laren"
+    ],
+    "name:ind_x_preferred":[
+        "Laren"
+    ],
+    "name:lim_x_preferred":[
+        "Laren"
+    ],
+    "name:nld_x_preferred":[
+        "Laren"
+    ],
+    "name:spa_x_preferred":[
+        "Laren"
+    ],
+    "name:swe_x_preferred":[
+        "Laren"
+    ],
     "name:und_x_variant":[
         "Laeren",
         "Laren"
@@ -59,7 +86,7 @@
         }
     ],
     "wof:id":1293518855,
-    "wof:lastmodified":1537586987,
+    "wof:lastmodified":1564162036,
     "wof:name":"Laren",
     "wof:parent_id":1108830255,
     "wof:placetype":"locality",

@@ -14,7 +14,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002438,
-    "geom:area_square_m":18846414.954945,
+    "geom:area_square_m":18846414.954946,
     "geom:bbox":"3.10434175947,51.2764323984,3.17703246925,51.3277276237",
     "geom:latitude":51.301541,
     "geom:longitude":3.139814,
@@ -23,6 +23,102 @@
     "lbl:longitude":3.140501,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bre_x_preferred":[
+        "Blankenberge"
+    ],
+    "name:bul_x_preferred":[
+        "\u0411\u043b\u0430\u043d\u043a\u0435\u043d\u0431\u0435\u0440\u0433\u0435"
+    ],
+    "name:cat_x_preferred":[
+        "Blankenberge"
+    ],
+    "name:ceb_x_preferred":[
+        "Blankenberge"
+    ],
+    "name:dan_x_preferred":[
+        "Blankenberge"
+    ],
+    "name:deu_x_preferred":[
+        "Blankenberge"
+    ],
+    "name:epo_x_preferred":[
+        "Blankenberge"
+    ],
+    "name:eus_x_preferred":[
+        "Blankenberge"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u0644\u0627\u0646\u06a9\u0646\u0628\u0631\u0698"
+    ],
+    "name:fin_x_preferred":[
+        "Blankenberge"
+    ],
+    "name:fra_x_preferred":[
+        "Blankenberge"
+    ],
+    "name:hye_x_preferred":[
+        "\u0532\u056c\u0561\u0576\u056f\u0565\u0576\u0562\u0565\u0580\u0563\u0565"
+    ],
+    "name:ita_x_preferred":[
+        "Blankenberge"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d6\u30e9\u30f3\u30b1\u30f3\u30d9\u30eb\u30d8"
+    ],
+    "name:kor_x_preferred":[
+        "\ube14\ub791\ucf04\ubca0\ub974\ud5c8"
+    ],
+    "name:lim_x_preferred":[
+        "Blankenberge"
+    ],
+    "name:ltz_x_preferred":[
+        "Blankenberge"
+    ],
+    "name:nld_x_preferred":[
+        "Blankenberge"
+    ],
+    "name:nor_x_preferred":[
+        "Blankenberge"
+    ],
+    "name:oci_x_preferred":[
+        "Blankenberge"
+    ],
+    "name:pol_x_preferred":[
+        "Blankenberge"
+    ],
+    "name:por_x_preferred":[
+        "Blankenberge"
+    ],
+    "name:ron_x_preferred":[
+        "Blankenberge"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u043b\u0430\u043d\u043a\u0435\u043d\u0431\u0435\u0440\u0433\u0435"
+    ],
+    "name:slk_x_preferred":[
+        "Blankenberge"
+    ],
+    "name:spa_x_preferred":[
+        "Blankenberge"
+    ],
+    "name:swe_x_preferred":[
+        "Blankenberge"
+    ],
+    "name:vie_x_preferred":[
+        "Blankenberge"
+    ],
+    "name:vls_x_preferred":[
+        "Blanknberge"
+    ],
+    "name:vol_x_preferred":[
+        "Blankenberge"
+    ],
+    "name:war_x_preferred":[
+        "Blankenberge"
+    ],
+    "name:zho_x_preferred":[
+        "\u5e03\u5170\u80af\u8d1d\u5c14\u8d6b"
+    ],
     "reversegeo:latitude":51.302786,
     "reversegeo:longitude":3.140501,
     "src:geom":"begov",
@@ -50,7 +146,7 @@
         }
     ],
     "wof:id":1108830693,
-    "wof:lastmodified":1499534061,
+    "wof:lastmodified":1564162840,
     "wof:name":"Blankenberge",
     "wof:parent_id":102050003,
     "wof:placetype":"localadmin",

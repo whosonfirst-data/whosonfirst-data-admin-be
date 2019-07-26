@@ -28,9 +28,105 @@
     "iso:country":"BE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bug_x_preferred":[
+        "Marfontaine"
+    ],
+    "name:cat_x_preferred":[
+        "Marfontaine"
+    ],
+    "name:ceb_x_preferred":[
+        "Marfontaine"
+    ],
+    "name:deu_x_preferred":[
+        "Marfontaine"
+    ],
+    "name:eus_x_preferred":[
+        "Marfontaine"
+    ],
+    "name:fra_x_preferred":[
+        "Marfontaine"
+    ],
+    "name:hun_x_preferred":[
+        "Marfontaine"
+    ],
+    "name:hye_x_preferred":[
+        "\u0544\u0561\u0580\u0586\u0578\u0576\u057f\u0565\u0576"
+    ],
+    "name:ind_x_preferred":[
+        "Marfontaine"
+    ],
+    "name:ita_x_preferred":[
+        "Marfontaine"
+    ],
+    "name:lat_x_preferred":[
+        "Marfontaine"
+    ],
+    "name:ltz_x_preferred":[
+        "Marfontaine"
+    ],
+    "name:mlg_x_preferred":[
+        "Marfontaine"
+    ],
+    "name:msa_x_preferred":[
+        "Marfontaine"
+    ],
+    "name:nld_x_preferred":[
+        "Marfontaine"
+    ],
+    "name:oci_x_preferred":[
+        "Marfontaine"
+    ],
+    "name:pms_x_preferred":[
+        "Marfontaine"
+    ],
+    "name:pol_x_preferred":[
+        "Marfontaine"
+    ],
+    "name:por_x_preferred":[
+        "Marfontaine"
+    ],
+    "name:ron_x_preferred":[
+        "Marfontaine"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0430\u0440\u0444\u043e\u043d\u0442\u0435\u043d"
+    ],
+    "name:slk_x_preferred":[
+        "Marfontaine"
+    ],
+    "name:spa_x_preferred":[
+        "Marfontaine"
+    ],
+    "name:sqi_x_preferred":[
+        "Marfontaine"
+    ],
+    "name:swe_x_preferred":[
+        "Marfontaine"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0430\u0440\u0444\u043e\u043d\u0442\u0435\u043d"
+    ],
     "name:und_x_variant":[
         "A Marfontaine",
         "Marfontaine"
+    ],
+    "name:uzb_x_preferred":[
+        "Marfontaine"
+    ],
+    "name:vie_x_preferred":[
+        "Marfontaine"
+    ],
+    "name:vol_x_preferred":[
+        "Marfontaine"
+    ],
+    "name:war_x_preferred":[
+        "Marfontaine"
+    ],
+    "name:zea_x_preferred":[
+        "Marfontaine"
+    ],
+    "name:zho_x_preferred":[
+        "\u9a6c\u5c14\u65b9\u4e39"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -57,7 +153,7 @@
         }
     ],
     "wof:id":1210047847,
-    "wof:lastmodified":1537586971,
+    "wof:lastmodified":1564162455,
     "wof:name":"Marfontaine",
     "wof:parent_id":102049913,
     "wof:placetype":"locality",

@@ -14,7 +14,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005081,
-    "geom:area_square_m":39548606.430043,
+    "geom:area_square_m":39548606.430042,
     "geom:bbox":"5.30104146964,50.9628114857,5.4659655579,51.0124914124",
     "geom:latitude":50.991916,
     "geom:longitude":5.376657,
@@ -23,6 +23,90 @@
     "lbl:longitude":5.376678,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:afr_x_preferred":[
+        "Zonhoven"
+    ],
+    "name:bre_x_preferred":[
+        "Zonhoven"
+    ],
+    "name:bul_x_preferred":[
+        "\u0417\u043e\u043d\u0445\u043e\u0432\u0435\u043d"
+    ],
+    "name:cat_x_preferred":[
+        "Zonhoven"
+    ],
+    "name:ceb_x_preferred":[
+        "Zonhoven"
+    ],
+    "name:deu_x_preferred":[
+        "Zonhoven"
+    ],
+    "name:epo_x_preferred":[
+        "Zonhoven"
+    ],
+    "name:eus_x_preferred":[
+        "Zonhoven"
+    ],
+    "name:fas_x_preferred":[
+        "\u0632\u0648\u0646\u0648\u0648\u0627\u0646"
+    ],
+    "name:fra_x_preferred":[
+        "Zonhoven"
+    ],
+    "name:ita_x_preferred":[
+        "Zonhoven"
+    ],
+    "name:lav_x_preferred":[
+        "Zonhovena"
+    ],
+    "name:lim_x_preferred":[
+        "Zoneve"
+    ],
+    "name:nld_x_preferred":[
+        "Zonhoven"
+    ],
+    "name:nor_x_preferred":[
+        "Zonhoven"
+    ],
+    "name:oci_x_preferred":[
+        "Zonhoven"
+    ],
+    "name:pol_x_preferred":[
+        "Zonhoven"
+    ],
+    "name:por_x_preferred":[
+        "Zonhoven"
+    ],
+    "name:ron_x_preferred":[
+        "Zonhoven"
+    ],
+    "name:rus_x_preferred":[
+        "\u0417\u043e\u043d\u0445\u043e\u0432\u0435\u043d"
+    ],
+    "name:slk_x_preferred":[
+        "Zonhoven"
+    ],
+    "name:spa_x_preferred":[
+        "Zonhoven"
+    ],
+    "name:swe_x_preferred":[
+        "Zonhoven"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e42\u0e0b\u0e19\u0e42\u0e2e\u0e40\u0e1f\u0e34\u0e19"
+    ],
+    "name:tur_x_preferred":[
+        "Zonhoven"
+    ],
+    "name:vol_x_preferred":[
+        "Zonhoven"
+    ],
+    "name:war_x_preferred":[
+        "Zonhoven"
+    ],
+    "name:zho_x_preferred":[
+        "\u5b97\u970d\u82ac"
+    ],
     "reversegeo:latitude":50.993921,
     "reversegeo:longitude":5.376678,
     "src:geom":"begov",
@@ -50,7 +134,7 @@
         }
     ],
     "wof:id":1108830153,
-    "wof:lastmodified":1499533410,
+    "wof:lastmodified":1564162592,
     "wof:name":"Zonhoven",
     "wof:parent_id":102049975,
     "wof:placetype":"localadmin",

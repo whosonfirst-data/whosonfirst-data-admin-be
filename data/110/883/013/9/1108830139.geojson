@@ -14,7 +14,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005887,
-    "geom:area_square_m":46014470.775723,
+    "geom:area_square_m":46014470.775721,
     "geom:bbox":"3.5781148371,50.7648281244,3.71205643017,50.8300597233",
     "geom:latitude":50.795177,
     "geom:longitude":3.641132,
@@ -23,6 +23,78 @@
     "lbl:longitude":3.626525,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bre_x_preferred":[
+        "Maarkedal"
+    ],
+    "name:bul_x_preferred":[
+        "\u041c\u0430\u0440\u043a\u0435\u0434\u0430\u043b"
+    ],
+    "name:cat_x_preferred":[
+        "Maarkedal"
+    ],
+    "name:ceb_x_preferred":[
+        "Maarkedal"
+    ],
+    "name:deu_x_preferred":[
+        "Maarkedal"
+    ],
+    "name:epo_x_preferred":[
+        "Maarkedal"
+    ],
+    "name:est_x_preferred":[
+        "Maarkedal"
+    ],
+    "name:eus_x_preferred":[
+        "Maarkedal"
+    ],
+    "name:fas_x_preferred":[
+        "\u0645\u0631\u06a9\u0648\u062f\u0644"
+    ],
+    "name:fra_x_preferred":[
+        "Markedal"
+    ],
+    "name:ita_x_preferred":[
+        "Maarkedal"
+    ],
+    "name:nld_x_preferred":[
+        "Maarkedal"
+    ],
+    "name:nor_x_preferred":[
+        "Maarkedal"
+    ],
+    "name:oci_x_preferred":[
+        "Maarkedal"
+    ],
+    "name:pol_x_preferred":[
+        "Maarkedal"
+    ],
+    "name:por_x_preferred":[
+        "Maarkedal"
+    ],
+    "name:ron_x_preferred":[
+        "Maarkedal"
+    ],
+    "name:slk_x_preferred":[
+        "Maarkedal"
+    ],
+    "name:spa_x_preferred":[
+        "Maarkedal"
+    ],
+    "name:swe_x_preferred":[
+        "Maarkedal"
+    ],
+    "name:vie_x_preferred":[
+        "Maarkedal"
+    ],
+    "name:vol_x_preferred":[
+        "Maarkedal"
+    ],
+    "name:war_x_preferred":[
+        "Maarkedal"
+    ],
+    "name:zho_x_preferred":[
+        "\u9a6c\u5c14\u514b\u8fbe\u5c14"
+    ],
     "reversegeo:latitude":50.793972,
     "reversegeo:longitude":3.626525,
     "src:geom":"begov",
@@ -50,7 +122,7 @@
         }
     ],
     "wof:id":1108830139,
-    "wof:lastmodified":1499533390,
+    "wof:lastmodified":1564162608,
     "wof:name":"Maarkedal",
     "wof:parent_id":102049963,
     "wof:placetype":"localadmin",

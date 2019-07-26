@@ -28,6 +28,84 @@
     "iso:country":"BE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Ronvaux"
+    ],
+    "name:ceb_x_preferred":[
+        "Ronvaux"
+    ],
+    "name:deu_x_preferred":[
+        "Ronvaux"
+    ],
+    "name:eus_x_preferred":[
+        "Ronvaux"
+    ],
+    "name:fra_x_preferred":[
+        "Ronvaux"
+    ],
+    "name:hun_x_preferred":[
+        "Ronvaux"
+    ],
+    "name:ita_x_preferred":[
+        "Ronvaux"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0420\u043e\u043d\u0432\u043e"
+    ],
+    "name:lat_x_preferred":[
+        "Ronvaux"
+    ],
+    "name:ltz_x_preferred":[
+        "Ronvaux"
+    ],
+    "name:msa_x_preferred":[
+        "Ronvaux"
+    ],
+    "name:nld_x_preferred":[
+        "Ronvaux"
+    ],
+    "name:oci_x_preferred":[
+        "Ronvaux"
+    ],
+    "name:pms_x_preferred":[
+        "Ronvaux"
+    ],
+    "name:pol_x_preferred":[
+        "Ronvaux"
+    ],
+    "name:por_x_preferred":[
+        "Ronvaux"
+    ],
+    "name:ron_x_preferred":[
+        "Ronvaux"
+    ],
+    "name:slk_x_preferred":[
+        "Ronvaux"
+    ],
+    "name:spa_x_preferred":[
+        "Ronvaux"
+    ],
+    "name:swe_x_preferred":[
+        "Ronvaux"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0420\u043e\u043d\u0432\u043e"
+    ],
+    "name:uzb_x_preferred":[
+        "Ronvaux"
+    ],
+    "name:vie_x_preferred":[
+        "Ronvaux"
+    ],
+    "name:vol_x_preferred":[
+        "Ronvaux"
+    ],
+    "name:war_x_preferred":[
+        "Ronvaux"
+    ],
+    "name:zho_x_preferred":[
+        "\u9f99\u6c83"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85681699,
@@ -53,7 +131,7 @@
         }
     ],
     "wof:id":1293036865,
-    "wof:lastmodified":1536940422,
+    "wof:lastmodified":1564162001,
     "wof:name":"Ronvaux",
     "wof:parent_id":102049919,
     "wof:placetype":"locality",

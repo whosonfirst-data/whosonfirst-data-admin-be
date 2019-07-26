@@ -14,7 +14,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006794,
-    "geom:area_square_m":53148400.441317,
+    "geom:area_square_m":53148400.441318,
     "geom:bbox":"4.98393565284,50.703339792,5.12144393669,50.7947938703",
     "geom:latitude":50.754687,
     "geom:longitude":5.061629,
@@ -23,6 +23,75 @@
     "lbl:longitude":5.072067,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bre_x_preferred":[
+        "Landen"
+    ],
+    "name:bul_x_preferred":[
+        "\u041b\u0430\u043d\u0434\u0435\u043d"
+    ],
+    "name:cat_x_preferred":[
+        "Landen"
+    ],
+    "name:ceb_x_preferred":[
+        "Landen"
+    ],
+    "name:deu_x_preferred":[
+        "Landen"
+    ],
+    "name:epo_x_preferred":[
+        "Landen"
+    ],
+    "name:eus_x_preferred":[
+        "Landen"
+    ],
+    "name:fas_x_preferred":[
+        "\u0644\u0627\u0646\u062f\u0627\u0646"
+    ],
+    "name:fra_x_preferred":[
+        "Landen"
+    ],
+    "name:ita_x_preferred":[
+        "Landen"
+    ],
+    "name:lim_x_preferred":[
+        "Lande"
+    ],
+    "name:ltz_x_preferred":[
+        "Landen"
+    ],
+    "name:nld_x_preferred":[
+        "Landen"
+    ],
+    "name:nor_x_preferred":[
+        "Landen"
+    ],
+    "name:oci_x_preferred":[
+        "Landen"
+    ],
+    "name:por_x_preferred":[
+        "Landen"
+    ],
+    "name:ron_x_preferred":[
+        "Landen"
+    ],
+    "name:spa_x_preferred":[
+        "Landen"
+    ],
+    "name:swe_x_preferred":[
+        "Landen"
+    ],
+    "name:vie_x_preferred":[
+        "Landen"
+    ],
+    "name:vol_x_preferred":[
+        "Landen"
+    ],
+    "name:war_x_preferred":[
+        "Landen"
+    ],
+    "name:zho_x_preferred":[
+        "\u5170\u767b"
+    ],
     "reversegeo:latitude":50.753654,
     "reversegeo:longitude":5.072067,
     "src:geom":"begov",
@@ -50,7 +119,7 @@
         }
     ],
     "wof:id":1108830259,
-    "wof:lastmodified":1499533536,
+    "wof:lastmodified":1564162622,
     "wof:name":"Landen",
     "wof:parent_id":102049969,
     "wof:placetype":"localadmin",

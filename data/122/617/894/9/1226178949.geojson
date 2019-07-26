@@ -28,6 +28,12 @@
     "iso:country":"BE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:dan_x_preferred":[
+        "LO"
+    ],
+    "name:nor_x_preferred":[
+        "LO"
+    ],
     "name:und_x_variant":[
         "Loo",
         "Lo"
@@ -59,7 +65,7 @@
         }
     ],
     "wof:id":1226178949,
-    "wof:lastmodified":1537586976,
+    "wof:lastmodified":1564163634,
     "wof:name":"Lo",
     "wof:parent_id":1108830071,
     "wof:placetype":"locality",

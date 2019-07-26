@@ -27,6 +27,9 @@
     "mz:is_current":1,
     "mz:max_zoom":11.0,
     "mz:min_zoom":8.7,
+    "name:bel_x_preferred":[
+        "\u042d\u043d\u043e"
+    ],
     "name:bre_x_preferred":[
         "Hainaut"
     ],
@@ -203,7 +206,7 @@
         "fra",
         "deu"
     ],
-    "wof:lastmodified":1553550675,
+    "wof:lastmodified":1564161847,
     "wof:name":"Hainaut",
     "wof:parent_id":404227353,
     "wof:placetype":"region",

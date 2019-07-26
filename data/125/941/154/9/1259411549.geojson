@@ -28,6 +28,12 @@
     "iso:country":"BE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Hoge"
+    ],
+    "name:deu_x_preferred":[
+        "Hoge"
+    ],
     "name:und_x_variant":[
         "Hooghe",
         "Hooge",
@@ -60,7 +66,7 @@
         }
     ],
     "wof:id":1259411549,
-    "wof:lastmodified":1537587015,
+    "wof:lastmodified":1564163559,
     "wof:name":"Hoge",
     "wof:parent_id":1108830595,
     "wof:placetype":"locality",

@@ -14,7 +14,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004539,
-    "geom:area_square_m":35404793.620971,
+    "geom:area_square_m":35404793.620968,
     "geom:bbox":"5.06549549534,50.8578852853,5.18803268172,50.9215393899",
     "geom:latitude":50.891484,
     "geom:longitude":5.131139,
@@ -23,6 +23,78 @@
     "lbl:longitude":5.13207,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bre_x_preferred":[
+        "Geetbets"
+    ],
+    "name:bul_x_preferred":[
+        "\u0413\u0435\u0442\u0431\u0435\u0442\u0441"
+    ],
+    "name:cat_x_preferred":[
+        "Geetbets"
+    ],
+    "name:ceb_x_preferred":[
+        "Geetbets"
+    ],
+    "name:deu_x_preferred":[
+        "Geetbets"
+    ],
+    "name:epo_x_preferred":[
+        "Geetbets"
+    ],
+    "name:eus_x_preferred":[
+        "Geetbets"
+    ],
+    "name:fas_x_preferred":[
+        "\u0698\u0626\u062a\u0628\u0647"
+    ],
+    "name:fra_x_preferred":[
+        "Geetbets"
+    ],
+    "name:ita_x_preferred":[
+        "Geetbets"
+    ],
+    "name:lim_x_preferred":[
+        "Bets"
+    ],
+    "name:nld_x_preferred":[
+        "Geetbets"
+    ],
+    "name:nor_x_preferred":[
+        "Geetbets"
+    ],
+    "name:oci_x_preferred":[
+        "Geetbets"
+    ],
+    "name:pol_x_preferred":[
+        "Geetbets"
+    ],
+    "name:por_x_preferred":[
+        "Geetbets"
+    ],
+    "name:ron_x_preferred":[
+        "Geetbets"
+    ],
+    "name:slk_x_preferred":[
+        "Geetbets"
+    ],
+    "name:spa_x_preferred":[
+        "Geetbets"
+    ],
+    "name:swe_x_preferred":[
+        "Geetbets"
+    ],
+    "name:vie_x_preferred":[
+        "Geetbets"
+    ],
+    "name:vol_x_preferred":[
+        "Geetbets"
+    ],
+    "name:war_x_preferred":[
+        "Geetbets"
+    ],
+    "name:zho_x_preferred":[
+        "\u6d77\u7279\u8d1d\u8328"
+    ],
     "reversegeo:latitude":50.892105,
     "reversegeo:longitude":5.13207,
     "src:geom":"begov",
@@ -50,7 +122,7 @@
         }
     ],
     "wof:id":1108830543,
-    "wof:lastmodified":1499533861,
+    "wof:lastmodified":1564162651,
     "wof:name":"Geetbets",
     "wof:parent_id":102049969,
     "wof:placetype":"localadmin",

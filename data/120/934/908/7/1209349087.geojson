@@ -28,6 +28,72 @@
     "iso:country":"BE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Ormont"
+    ],
+    "name:deu_x_preferred":[
+        "Ormont"
+    ],
+    "name:epo_x_preferred":[
+        "Ormont"
+    ],
+    "name:eus_x_preferred":[
+        "Ormont"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0648\u0631\u0645\u0648\u0646\u062a"
+    ],
+    "name:fra_x_preferred":[
+        "Ormont"
+    ],
+    "name:hun_x_preferred":[
+        "Ormont"
+    ],
+    "name:ita_x_preferred":[
+        "Ormont"
+    ],
+    "name:msa_x_preferred":[
+        "Ormont"
+    ],
+    "name:nld_x_preferred":[
+        "Ormont"
+    ],
+    "name:pol_x_preferred":[
+        "Ormont"
+    ],
+    "name:por_x_preferred":[
+        "Ormont"
+    ],
+    "name:ron_x_preferred":[
+        "Ormont"
+    ],
+    "name:rus_x_preferred":[
+        "\u041e\u0440\u043c\u043e\u043d\u0442"
+    ],
+    "name:spa_x_preferred":[
+        "Ormont"
+    ],
+    "name:srp_x_preferred":[
+        "\u041e\u0440\u043c\u043e\u043d\u0442"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041e\u0440\u043c\u043e\u043d\u0442"
+    ],
+    "name:uzb_x_preferred":[
+        "Ormont"
+    ],
+    "name:vie_x_preferred":[
+        "Ormont"
+    ],
+    "name:vol_x_preferred":[
+        "Ormont"
+    ],
+    "name:war_x_preferred":[
+        "Ormont"
+    ],
+    "name:zho_x_preferred":[
+        "\u5965\u5c14\u8499\u7279"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632997
@@ -45,7 +111,7 @@
         }
     ],
     "wof:id":1209349087,
-    "wof:lastmodified":1536289808,
+    "wof:lastmodified":1564162404,
     "wof:name":"Ormont",
     "wof:parent_id":85632997,
     "wof:placetype":"locality",

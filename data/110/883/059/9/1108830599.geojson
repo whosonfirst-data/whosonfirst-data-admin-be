@@ -14,7 +14,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007176,
-    "geom:area_square_m":56155793.604244,
+    "geom:area_square_m":56155793.604241,
     "geom:bbox":"5.10153650515,50.6954407344,5.24393558535,50.7702472517",
     "geom:latitude":50.737422,
     "geom:longitude":5.169496,
@@ -23,6 +23,90 @@
     "lbl:longitude":5.148177,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:afr_x_preferred":[
+        "Gingelom"
+    ],
+    "name:bre_x_preferred":[
+        "Gingelom"
+    ],
+    "name:bul_x_preferred":[
+        "\u0413\u0438\u043d\u0433\u0435\u043b\u043e\u043c"
+    ],
+    "name:cat_x_preferred":[
+        "Gingelom"
+    ],
+    "name:ceb_x_preferred":[
+        "Gingelom"
+    ],
+    "name:deu_x_preferred":[
+        "Gingelom"
+    ],
+    "name:epo_x_preferred":[
+        "Gingelom"
+    ],
+    "name:eus_x_preferred":[
+        "Gingelom"
+    ],
+    "name:fas_x_preferred":[
+        "\u0698\u0646\u0698\u0648\u0644\u0648\u0645"
+    ],
+    "name:fra_x_preferred":[
+        "Gingelom"
+    ],
+    "name:ita_x_preferred":[
+        "Gingelom"
+    ],
+    "name:lim_x_preferred":[
+        "Gingelom"
+    ],
+    "name:nld_x_preferred":[
+        "Gingelom"
+    ],
+    "name:nor_x_preferred":[
+        "Gingelom"
+    ],
+    "name:oci_x_preferred":[
+        "Gingelom"
+    ],
+    "name:pol_x_preferred":[
+        "Gingelom"
+    ],
+    "name:por_x_preferred":[
+        "Gingelom"
+    ],
+    "name:ron_x_preferred":[
+        "Gingelom"
+    ],
+    "name:slk_x_preferred":[
+        "Gingelom"
+    ],
+    "name:spa_x_preferred":[
+        "Gingelom"
+    ],
+    "name:swe_x_preferred":[
+        "Gingelom"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e04\u0e34\u0e07\u0e40\u0e04\u0e2d\u0e42\u0e25\u0e21"
+    ],
+    "name:tur_x_preferred":[
+        "Gingelom"
+    ],
+    "name:vie_x_preferred":[
+        "Gingelom"
+    ],
+    "name:vol_x_preferred":[
+        "Gingelom"
+    ],
+    "name:war_x_preferred":[
+        "Gingelom"
+    ],
+    "name:wln_x_preferred":[
+        "Djinglehin"
+    ],
+    "name:zho_x_preferred":[
+        "\u6b23\u5384\u6d1b\u59c6"
+    ],
     "reversegeo:latitude":50.738383,
     "reversegeo:longitude":5.148177,
     "src:geom":"begov",
@@ -50,7 +134,7 @@
         }
     ],
     "wof:id":1108830599,
-    "wof:lastmodified":1499533929,
+    "wof:lastmodified":1564162807,
     "wof:name":"Gingelom",
     "wof:parent_id":102049975,
     "wof:placetype":"localadmin",

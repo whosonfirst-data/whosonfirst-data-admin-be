@@ -28,6 +28,24 @@
     "iso:country":"BE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Baaigem"
+    ],
+    "name:deu_x_preferred":[
+        "Gavere#Baaigem"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u0627\u0627\u06af\u0645"
+    ],
+    "name:fra_x_preferred":[
+        "Baaigem"
+    ],
+    "name:nld_x_preferred":[
+        "Baaigem"
+    ],
+    "name:swe_x_preferred":[
+        "Baaigem"
+    ],
     "name:und_x_variant":[
         "Baeygem",
         "Baaigem"
@@ -60,7 +78,7 @@
         }
     ],
     "wof:id":1226079463,
-    "wof:lastmodified":1537587082,
+    "wof:lastmodified":1564163788,
     "wof:name":"Baaigem",
     "wof:parent_id":1108830425,
     "wof:placetype":"locality",

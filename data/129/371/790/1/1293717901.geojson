@@ -28,6 +28,57 @@
     "iso:country":"BE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bre_x_preferred":[
+        "Oded"
+    ],
+    "name:ceb_x_preferred":[
+        "Odet"
+    ],
+    "name:cym_x_preferred":[
+        "Afon Oded"
+    ],
+    "name:deu_x_preferred":[
+        "Odet"
+    ],
+    "name:ell_x_preferred":[
+        "\u039f\u03bd\u03c4\u03ad"
+    ],
+    "name:eus_x_preferred":[
+        "Odet"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0648\u062f\u0647"
+    ],
+    "name:fra_x_preferred":[
+        "Odet"
+    ],
+    "name:glv_x_preferred":[
+        "Oded"
+    ],
+    "name:lat_x_preferred":[
+        "Odera"
+    ],
+    "name:nld_x_preferred":[
+        "Odet"
+    ],
+    "name:nno_x_preferred":[
+        "Odet"
+    ],
+    "name:pol_x_preferred":[
+        "Odet"
+    ],
+    "name:por_x_preferred":[
+        "Rio Odet"
+    ],
+    "name:srp_x_preferred":[
+        "\u041e\u0434\u0435"
+    ],
+    "name:tgk_x_preferred":[
+        "\u041e\u0434\u0435\u0442"
+    ],
+    "name:zho_x_preferred":[
+        "\u5967\u4ee3\u6cb3"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85681691,
@@ -53,7 +104,7 @@
         }
     ],
     "wof:id":1293717901,
-    "wof:lastmodified":1536952532,
+    "wof:lastmodified":1564161956,
     "wof:name":"Odet",
     "wof:parent_id":102049925,
     "wof:placetype":"locality",

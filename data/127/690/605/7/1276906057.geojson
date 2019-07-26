@@ -28,6 +28,21 @@
     "iso:country":"BE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0628\u0631\u0627\u06cc"
+    ],
+    "name:fra_x_preferred":[
+        "Brye"
+    ],
+    "name:nld_x_preferred":[
+        "Brye"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0440\u0438"
+    ],
+    "name:wln_x_preferred":[
+        "Briye"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85681723,
@@ -53,7 +68,7 @@
         }
     ],
     "wof:id":1276906057,
-    "wof:lastmodified":1537005512,
+    "wof:lastmodified":1564162220,
     "wof:name":"Brye",
     "wof:parent_id":102049927,
     "wof:placetype":"locality",

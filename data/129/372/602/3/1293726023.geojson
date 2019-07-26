@@ -28,6 +28,21 @@
     "iso:country":"BE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Eik"
+    ],
+    "name:dan_x_preferred":[
+        "Eik"
+    ],
+    "name:isl_x_preferred":[
+        "Eik"
+    ],
+    "name:nor_x_preferred":[
+        "Eik"
+    ],
+    "name:swe_x_preferred":[
+        "Eik"
+    ],
     "name:und_x_variant":[
         "Eyck",
         "Eick",
@@ -60,7 +75,7 @@
         }
     ],
     "wof:id":1293726023,
-    "wof:lastmodified":1537587044,
+    "wof:lastmodified":1564162082,
     "wof:name":"Eik",
     "wof:parent_id":1108830245,
     "wof:placetype":"locality",

@@ -23,6 +23,87 @@
     "lbl:longitude":3.397441,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bre_x_preferred":[
+        "Dentergem"
+    ],
+    "name:bul_x_preferred":[
+        "\u0414\u0435\u043d\u0442\u0435\u0440\u0433\u0435\u043c"
+    ],
+    "name:cat_x_preferred":[
+        "Dentergem"
+    ],
+    "name:ceb_x_preferred":[
+        "Dentergem"
+    ],
+    "name:ces_x_preferred":[
+        "Dentergem"
+    ],
+    "name:deu_x_preferred":[
+        "Dentergem"
+    ],
+    "name:epo_x_preferred":[
+        "Dentergem"
+    ],
+    "name:est_x_preferred":[
+        "Dentergem"
+    ],
+    "name:eus_x_preferred":[
+        "Dentergem"
+    ],
+    "name:fas_x_preferred":[
+        "\u062f\u0627\u0646\u062a\u0631\u0698\u0645"
+    ],
+    "name:fra_x_preferred":[
+        "Dentergem"
+    ],
+    "name:ita_x_preferred":[
+        "Dentergem"
+    ],
+    "name:lim_x_preferred":[
+        "Dentergem"
+    ],
+    "name:nld_x_preferred":[
+        "Dentergem"
+    ],
+    "name:nor_x_preferred":[
+        "Dentergem"
+    ],
+    "name:oci_x_preferred":[
+        "Dentergem"
+    ],
+    "name:pol_x_preferred":[
+        "Dentergem"
+    ],
+    "name:por_x_preferred":[
+        "Dentergem"
+    ],
+    "name:ron_x_preferred":[
+        "Dentergem"
+    ],
+    "name:slk_x_preferred":[
+        "Dentergem"
+    ],
+    "name:spa_x_preferred":[
+        "Dentergem"
+    ],
+    "name:swe_x_preferred":[
+        "Dentergem"
+    ],
+    "name:vie_x_preferred":[
+        "Dentergem"
+    ],
+    "name:vls_x_preferred":[
+        "Dentergem"
+    ],
+    "name:vol_x_preferred":[
+        "Dentergem"
+    ],
+    "name:war_x_preferred":[
+        "Dentergem"
+    ],
+    "name:zho_x_preferred":[
+        "\u767b\u7279\u6d77\u59c6"
+    ],
     "reversegeo:latitude":50.957666,
     "reversegeo:longitude":3.397441,
     "src:geom":"begov",
@@ -50,7 +131,7 @@
         }
     ],
     "wof:id":1108830197,
-    "wof:lastmodified":1499533462,
+    "wof:lastmodified":1564162777,
     "wof:name":"Dentergem",
     "wof:parent_id":102049981,
     "wof:placetype":"localadmin",

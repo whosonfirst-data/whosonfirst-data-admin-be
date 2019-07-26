@@ -28,6 +28,15 @@
     "iso:country":"BE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bre_x_preferred":[
+        "Florent"
+    ],
+    "name:fra_x_preferred":[
+        "Florent"
+    ],
+    "name:rus_x_preferred":[
+        "\u0424\u043b\u043e\u0440\u0430\u043d"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85681723,
@@ -53,7 +62,7 @@
         }
     ],
     "wof:id":1243490473,
-    "wof:lastmodified":1536741757,
+    "wof:lastmodified":1564163436,
     "wof:name":"Florent",
     "wof:parent_id":102049951,
     "wof:placetype":"locality",

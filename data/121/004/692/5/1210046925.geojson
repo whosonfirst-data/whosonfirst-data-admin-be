@@ -28,6 +28,39 @@
     "iso:country":"BE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Lelle"
+    ],
+    "name:est_x_preferred":[
+        "Lelle"
+    ],
+    "name:fin_x_preferred":[
+        "Lelle"
+    ],
+    "name:fra_x_preferred":[
+        "Lelle"
+    ],
+    "name:hye_x_preferred":[
+        "\u053c\u0565\u056c\u0565"
+    ],
+    "name:lit_x_preferred":[
+        "Lel\u0117"
+    ],
+    "name:nld_x_preferred":[
+        "Lelle"
+    ],
+    "name:sco_x_preferred":[
+        "Lelle"
+    ],
+    "name:spa_x_preferred":[
+        "Lelle"
+    ],
+    "name:swe_x_preferred":[
+        "Lelle"
+    ],
+    "name:vol_x_preferred":[
+        "Lelle"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85681731,
@@ -55,7 +88,7 @@
         }
     ],
     "wof:id":1210046925,
-    "wof:lastmodified":1536377978,
+    "wof:lastmodified":1564162454,
     "wof:name":"Lelle",
     "wof:parent_id":1108830313,
     "wof:placetype":"locality",

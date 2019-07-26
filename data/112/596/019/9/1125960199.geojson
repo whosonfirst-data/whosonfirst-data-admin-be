@@ -18,6 +18,63 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Celles"
+    ],
+    "name:ceb_x_preferred":[
+        "Celles"
+    ],
+    "name:ces_x_preferred":[
+        "Celles"
+    ],
+    "name:deu_x_preferred":[
+        "Celles"
+    ],
+    "name:est_x_preferred":[
+        "Celles"
+    ],
+    "name:fra_x_preferred":[
+        "Celles"
+    ],
+    "name:hye_x_preferred":[
+        "\u054d\u0565\u056c"
+    ],
+    "name:ita_x_preferred":[
+        "Celles"
+    ],
+    "name:nds_x_preferred":[
+        "Celles"
+    ],
+    "name:nld_x_preferred":[
+        "Celles"
+    ],
+    "name:pms_x_preferred":[
+        "Celles"
+    ],
+    "name:pol_x_preferred":[
+        "Celles"
+    ],
+    "name:por_x_preferred":[
+        "Celles"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0435\u043b\u044c"
+    ],
+    "name:sco_x_preferred":[
+        "Celles"
+    ],
+    "name:slk_x_preferred":[
+        "Celles"
+    ],
+    "name:spa_x_preferred":[
+        "Celles"
+    ],
+    "name:swe_x_preferred":[
+        "Celles"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0435\u043b\u044c"
+    ],
     "name:unk_x_variant":[
         "Houyet (Celles)"
     ],
@@ -74,7 +131,7 @@
         }
     ],
     "wof:id":1125960199,
-    "wof:lastmodified":1509403245,
+    "wof:lastmodified":1564163271,
     "wof:name":"Celles",
     "wof:parent_id":102049919,
     "wof:placetype":"locality",

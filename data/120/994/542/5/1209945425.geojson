@@ -28,6 +28,15 @@
     "iso:country":"BE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Woo"
+    ],
+    "name:deu_x_preferred":[
+        "Woo"
+    ],
+    "name:swe_x_preferred":[
+        "Woo"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85681693,
@@ -53,7 +62,7 @@
         }
     ],
     "wof:id":1209945425,
-    "wof:lastmodified":1536386612,
+    "wof:lastmodified":1564162398,
     "wof:name":"Woo",
     "wof:parent_id":102049945,
     "wof:placetype":"locality",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":6038377.913856,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.652032,50.640385,5.652032,50.640385",
     "geom:latitude":50.640385,
     "geom:longitude":5.652032,
@@ -23,10 +23,43 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":16.0,
     "mz:tier_locality":3,
+    "name:ceb_x_preferred":[
+        "Bellaire"
+    ],
+    "name:deu_x_preferred":[
+        "Bellaire"
+    ],
     "name:fra_x_preferred":[
         "Bellaire"
     ],
+    "name:ita_x_preferred":[
+        "Bellaire"
+    ],
+    "name:kor_x_preferred":[
+        "\ubca8\ub808\uc5b4"
+    ],
+    "name:nld_x_preferred":[
+        "Bellaire"
+    ],
+    "name:pol_x_preferred":[
+        "Bellaire"
+    ],
+    "name:por_x_preferred":[
+        "Bellaire"
+    ],
+    "name:spa_x_preferred":[
+        "Bellaire"
+    ],
+    "name:srp_x_preferred":[
+        "\u0411\u0435\u043b\u0435\u0440"
+    ],
+    "name:swe_x_preferred":[
+        "Bellaire"
+    ],
     "name:unk_x_variant":[
+        "Bellaire"
+    ],
+    "name:vol_x_preferred":[
         "Bellaire"
     ],
     "qs:gn_adm0_cc":"BE",
@@ -62,12 +95,12 @@
     "src:lbl:centroid":"yerbashapes",
     "wd:wordcount":53,
     "wof:belongsto":[
-        85681691,
         102191581,
         85632997,
         404227353,
         101755201,
-        102049941
+        102049941,
+        85681691
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -93,7 +126,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1531862045,
+    "wof:lastmodified":1564161860,
     "wof:name":"Bellaire",
     "wof:parent_id":101755201,
     "wof:placetype":"neighbourhood",

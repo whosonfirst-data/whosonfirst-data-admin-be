@@ -28,6 +28,15 @@
     "iso:country":"BE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Chateau Neuf"
+    ],
+    "name:nno_x_preferred":[
+        "Chateau Neuf"
+    ],
+    "name:nor_x_preferred":[
+        "Chateau Neuf"
+    ],
     "name:und_x_variant":[
         "Le Ch\u00e2teau-Neuf",
         "Ch\u00e2teau Neuf"
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":1327066957,
-    "wof:lastmodified":1537587088,
+    "wof:lastmodified":1564161472,
     "wof:name":"Chateau Neuf",
     "wof:parent_id":102049943,
     "wof:placetype":"locality",

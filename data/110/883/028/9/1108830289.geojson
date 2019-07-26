@@ -14,7 +14,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009302,
-    "geom:area_square_m":72151960.434443,
+    "geom:area_square_m":72151960.434444,
     "geom:bbox":"3.27294463453,51.0988303678,3.4109642717,51.2006714089",
     "geom:latitude":51.150689,
     "geom:longitude":3.336679,
@@ -23,6 +23,87 @@
     "lbl:longitude":3.337967,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bre_x_preferred":[
+        "Beernem"
+    ],
+    "name:bul_x_preferred":[
+        "\u0411\u0435\u0440\u043d\u0435\u043c"
+    ],
+    "name:cat_x_preferred":[
+        "Beernem"
+    ],
+    "name:ceb_x_preferred":[
+        "Beernem"
+    ],
+    "name:ces_x_preferred":[
+        "Beernem"
+    ],
+    "name:deu_x_preferred":[
+        "Beernem"
+    ],
+    "name:epo_x_preferred":[
+        "Beernem"
+    ],
+    "name:est_x_preferred":[
+        "Beernem"
+    ],
+    "name:eus_x_preferred":[
+        "Beernem"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u06cc\u0631\u0646\u0645"
+    ],
+    "name:fra_x_preferred":[
+        "Beernem"
+    ],
+    "name:ita_x_preferred":[
+        "Beernem"
+    ],
+    "name:lim_x_preferred":[
+        "Beernem"
+    ],
+    "name:nld_x_preferred":[
+        "Beernem"
+    ],
+    "name:nor_x_preferred":[
+        "Beernem"
+    ],
+    "name:oci_x_preferred":[
+        "Beernem"
+    ],
+    "name:pol_x_preferred":[
+        "Beernem"
+    ],
+    "name:por_x_preferred":[
+        "Beernem"
+    ],
+    "name:ron_x_preferred":[
+        "Beernem"
+    ],
+    "name:slk_x_preferred":[
+        "Beernem"
+    ],
+    "name:spa_x_preferred":[
+        "Beernem"
+    ],
+    "name:swe_x_preferred":[
+        "Beernem"
+    ],
+    "name:vie_x_preferred":[
+        "Beernem"
+    ],
+    "name:vls_x_preferred":[
+        "Beirnem"
+    ],
+    "name:vol_x_preferred":[
+        "Beernem"
+    ],
+    "name:war_x_preferred":[
+        "Beernem"
+    ],
+    "name:zho_x_preferred":[
+        "\u8d1d\u5c14\u8bb7\u59c6"
+    ],
     "reversegeo:latitude":51.152302,
     "reversegeo:longitude":3.337967,
     "src:geom":"begov",
@@ -50,7 +131,7 @@
         }
     ],
     "wof:id":1108830289,
-    "wof:lastmodified":1499533558,
+    "wof:lastmodified":1564162766,
     "wof:name":"Beernem",
     "wof:parent_id":102050003,
     "wof:placetype":"localadmin",

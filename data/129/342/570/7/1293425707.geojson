@@ -28,9 +28,99 @@
     "iso:country":"BE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bre_x_preferred":[
+        "Evergem"
+    ],
+    "name:bul_x_preferred":[
+        "\u0415\u0432\u0435\u0440\u0433\u0435\u043c"
+    ],
+    "name:cat_x_preferred":[
+        "Evergem"
+    ],
+    "name:ceb_x_preferred":[
+        "Evergem"
+    ],
+    "name:deu_x_preferred":[
+        "Evergem"
+    ],
+    "name:epo_x_preferred":[
+        "Evergem"
+    ],
+    "name:est_x_preferred":[
+        "Evergem"
+    ],
+    "name:eus_x_preferred":[
+        "Evergem"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u06cc\u0648\u0631\u0698\u0645"
+    ],
+    "name:fra_x_preferred":[
+        "Evergem"
+    ],
+    "name:gle_x_preferred":[
+        "Evergem"
+    ],
+    "name:ita_x_preferred":[
+        "Evergem"
+    ],
+    "name:kor_x_preferred":[
+        "\uc5d0\ubca0\ub974\ud5d8"
+    ],
+    "name:nld_x_preferred":[
+        "Evergem"
+    ],
+    "name:nor_x_preferred":[
+        "Evergem"
+    ],
+    "name:oci_x_preferred":[
+        "Evergem"
+    ],
+    "name:pol_x_preferred":[
+        "Evergem"
+    ],
+    "name:por_x_preferred":[
+        "Evergem"
+    ],
+    "name:ron_x_preferred":[
+        "Evergem"
+    ],
+    "name:rus_x_preferred":[
+        "\u042d\u0432\u0435\u0440\u0433\u0435\u043c"
+    ],
+    "name:sco_x_preferred":[
+        "Evergem"
+    ],
+    "name:slk_x_preferred":[
+        "Evergem"
+    ],
+    "name:spa_x_preferred":[
+        "Evergem"
+    ],
+    "name:srp_x_preferred":[
+        "\u0415\u0432\u0435\u0440\u0433\u0435\u043c"
+    ],
+    "name:swe_x_preferred":[
+        "Evergem"
+    ],
+    "name:tur_x_preferred":[
+        "Evergem"
+    ],
     "name:und_x_variant":[
         "Eversem",
         "Evergem"
+    ],
+    "name:vie_x_preferred":[
+        "Evergem"
+    ],
+    "name:vol_x_preferred":[
+        "Evergem"
+    ],
+    "name:war_x_preferred":[
+        "Evergem"
+    ],
+    "name:zho_x_preferred":[
+        "\u57c3\u5f17\u6d77\u59c6"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -59,7 +149,7 @@
         }
     ],
     "wof:id":1293425707,
-    "wof:lastmodified":1537587041,
+    "wof:lastmodified":1564162062,
     "wof:name":"Evergem",
     "wof:parent_id":1108830403,
     "wof:placetype":"locality",

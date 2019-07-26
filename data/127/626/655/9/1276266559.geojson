@@ -28,6 +28,87 @@
     "iso:country":"BE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bre_x_preferred":[
+        "Saint-Germain"
+    ],
+    "name:cat_x_preferred":[
+        "Saint-Germain"
+    ],
+    "name:ceb_x_preferred":[
+        "Saint-Germain"
+    ],
+    "name:dan_x_preferred":[
+        "Saint-Germain"
+    ],
+    "name:epo_x_preferred":[
+        "Saint-Germain"
+    ],
+    "name:eus_x_preferred":[
+        "Saint-Germain"
+    ],
+    "name:fin_x_preferred":[
+        "Saint-Germain"
+    ],
+    "name:fra_x_preferred":[
+        "Saint-Germain"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e1\u05df \u05d6'\u05e8\u05de\u05df"
+    ],
+    "name:hun_x_preferred":[
+        "Saint-Germain"
+    ],
+    "name:ita_x_preferred":[
+        "Saint-Germain"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b5\u30f3\u30b8\u30a7\u30eb\u30de\u30f3"
+    ],
+    "name:kor_x_preferred":[
+        "\uc0dd\uc81c\ub974\ub9f9"
+    ],
+    "name:nld_x_preferred":[
+        "Saint-Germain"
+    ],
+    "name:nor_x_preferred":[
+        "Saint-Germain"
+    ],
+    "name:oci_x_preferred":[
+        "Saint-Germain"
+    ],
+    "name:pms_x_preferred":[
+        "Saint-Germain"
+    ],
+    "name:pol_x_preferred":[
+        "Saint-Germain"
+    ],
+    "name:por_x_preferred":[
+        "Saint-Germain"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0435\u043d-\u0416\u0435\u0440\u043c\u0435\u043d"
+    ],
+    "name:sco_x_preferred":[
+        "Saint-Germain"
+    ],
+    "name:slk_x_preferred":[
+        "Saint-Germain"
+    ],
+    "name:spa_x_preferred":[
+        "Saint-Germain"
+    ],
+    "name:sqi_x_preferred":[
+        "Saint-Germain"
+    ],
+    "name:swe_x_preferred":[
+        "Saint-Germain"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0435\u043d-\u0416\u0435\u0440\u043c\u0435\u043d"
+    ],
+    "name:zho_x_preferred":[
+        "\u5723\u65e5\u8033\u66fc"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85681691,
@@ -53,7 +134,7 @@
         }
     ],
     "wof:id":1276266559,
-    "wof:lastmodified":1536866781,
+    "wof:lastmodified":1564162125,
     "wof:name":"Saint-Germain",
     "wof:parent_id":102049935,
     "wof:placetype":"locality",

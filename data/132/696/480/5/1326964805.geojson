@@ -28,6 +28,84 @@
     "iso:country":"BE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Baudemont"
+    ],
+    "name:ceb_x_preferred":[
+        "Baudemont"
+    ],
+    "name:deu_x_preferred":[
+        "Baudemont"
+    ],
+    "name:eus_x_preferred":[
+        "Baudemont"
+    ],
+    "name:fra_x_preferred":[
+        "Baudemont"
+    ],
+    "name:hun_x_preferred":[
+        "Baudemont"
+    ],
+    "name:ita_x_preferred":[
+        "Baudemont"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0411\u043e\u0434\u043c\u043e\u043d"
+    ],
+    "name:lat_x_preferred":[
+        "Baudemont"
+    ],
+    "name:msa_x_preferred":[
+        "Baudemont"
+    ],
+    "name:nld_x_preferred":[
+        "Baudemont"
+    ],
+    "name:oci_x_preferred":[
+        "Baudemont"
+    ],
+    "name:pms_x_preferred":[
+        "Baudemont"
+    ],
+    "name:pol_x_preferred":[
+        "Baudemont"
+    ],
+    "name:por_x_preferred":[
+        "Baudemont"
+    ],
+    "name:ron_x_preferred":[
+        "Baudemont"
+    ],
+    "name:slk_x_preferred":[
+        "Baudemont"
+    ],
+    "name:spa_x_preferred":[
+        "Baudemont"
+    ],
+    "name:sqi_x_preferred":[
+        "Baudemont"
+    ],
+    "name:srp_x_preferred":[
+        "\u0411\u043e\u0434\u043c\u043e\u043d"
+    ],
+    "name:swe_x_preferred":[
+        "Baudemont"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u043e\u0434\u043c\u043e\u043d"
+    ],
+    "name:uzb_x_preferred":[
+        "Baudemont"
+    ],
+    "name:vie_x_preferred":[
+        "Baudemont"
+    ],
+    "name:vol_x_preferred":[
+        "Baudemont"
+    ],
+    "name:war_x_preferred":[
+        "Baudemont"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85681693,
@@ -53,7 +131,7 @@
         }
     ],
     "wof:id":1326964805,
-    "wof:lastmodified":1536856663,
+    "wof:lastmodified":1564161603,
     "wof:name":"Baudemont",
     "wof:parent_id":102049945,
     "wof:placetype":"locality",

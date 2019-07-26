@@ -14,7 +14,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004188,
-    "geom:area_square_m":32631568.33842,
+    "geom:area_square_m":32631568.338423,
     "geom:bbox":"3.41535466873,50.896773083,3.52782880871,50.983585916",
     "geom:latitude":50.937351,
     "geom:longitude":3.472652,
@@ -23,6 +23,87 @@
     "lbl:longitude":3.477326,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bre_x_preferred":[
+        "Zulte"
+    ],
+    "name:bul_x_preferred":[
+        "\u0417\u044c\u043e\u043b\u0442\u0435"
+    ],
+    "name:cat_x_preferred":[
+        "Zulte"
+    ],
+    "name:ceb_x_preferred":[
+        "Zulte"
+    ],
+    "name:deu_x_preferred":[
+        "Zulte"
+    ],
+    "name:epo_x_preferred":[
+        "Zulte"
+    ],
+    "name:est_x_preferred":[
+        "Zulte"
+    ],
+    "name:eus_x_preferred":[
+        "Zulte"
+    ],
+    "name:fas_x_preferred":[
+        "\u0632\u0648\u0644\u062a"
+    ],
+    "name:fra_x_preferred":[
+        "Zulte"
+    ],
+    "name:ita_x_preferred":[
+        "Zulte"
+    ],
+    "name:lit_x_preferred":[
+        "Ziult\u0117"
+    ],
+    "name:nld_x_preferred":[
+        "Zulte"
+    ],
+    "name:nor_x_preferred":[
+        "Zulte"
+    ],
+    "name:oci_x_preferred":[
+        "Zulte"
+    ],
+    "name:pol_x_preferred":[
+        "Zulte"
+    ],
+    "name:por_x_preferred":[
+        "Zulte"
+    ],
+    "name:ron_x_preferred":[
+        "Zulte"
+    ],
+    "name:rus_x_preferred":[
+        "\u0417\u044e\u043b\u0442\u0435"
+    ],
+    "name:slk_x_preferred":[
+        "Zulte"
+    ],
+    "name:spa_x_preferred":[
+        "Zulte"
+    ],
+    "name:swe_x_preferred":[
+        "Zulte"
+    ],
+    "name:vie_x_preferred":[
+        "Zulte"
+    ],
+    "name:vls_x_preferred":[
+        "Zulte"
+    ],
+    "name:vol_x_preferred":[
+        "Zulte"
+    ],
+    "name:war_x_preferred":[
+        "Zulte"
+    ],
+    "name:zho_x_preferred":[
+        "\u805a\u5c14\u7279"
+    ],
     "reversegeo:latitude":50.933232,
     "reversegeo:longitude":3.477326,
     "src:geom":"begov",
@@ -50,7 +131,7 @@
         }
     ],
     "wof:id":1108830563,
-    "wof:lastmodified":1499533889,
+    "wof:lastmodified":1564162836,
     "wof:name":"Zulte",
     "wof:parent_id":102049989,
     "wof:placetype":"localadmin",

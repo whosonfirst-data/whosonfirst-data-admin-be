@@ -28,6 +28,12 @@
     "iso:country":"BE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "La Haie"
+    ],
+    "name:swe_x_preferred":[
+        "La Haie"
+    ],
     "name:und_x_variant":[
         "La Haye",
         "La Haie"
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":1209345155,
-    "wof:lastmodified":1537586989,
+    "wof:lastmodified":1564162415,
     "wof:name":"La Haie",
     "wof:parent_id":85632997,
     "wof:placetype":"locality",

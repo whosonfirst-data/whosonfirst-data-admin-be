@@ -28,6 +28,36 @@
     "iso:country":"BE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ces_x_preferred":[
+        "Comte"
+    ],
+    "name:dan_x_preferred":[
+        "Comte"
+    ],
+    "name:deu_x_preferred":[
+        "Comte"
+    ],
+    "name:fin_x_preferred":[
+        "Comte"
+    ],
+    "name:fra_x_preferred":[
+        "Comte"
+    ],
+    "name:ita_x_preferred":[
+        "Comte"
+    ],
+    "name:msa_x_preferred":[
+        "Comt\u00e9"
+    ],
+    "name:nld_x_preferred":[
+        "Comte"
+    ],
+    "name:spa_x_preferred":[
+        "Comte"
+    ],
+    "name:swe_x_preferred":[
+        "Comte"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85681727,
@@ -53,7 +83,7 @@
         }
     ],
     "wof:id":1310042477,
-    "wof:lastmodified":1537084097,
+    "wof:lastmodified":1564162975,
     "wof:name":"Comte",
     "wof:parent_id":102049915,
     "wof:placetype":"locality",

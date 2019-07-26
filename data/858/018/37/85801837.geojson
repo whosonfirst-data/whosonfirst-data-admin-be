@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":7086695.104371,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.454843,50.638594,5.454843,50.638594",
     "geom:latitude":50.638594,
     "geom:longitude":5.454843,
@@ -26,6 +26,9 @@
     "name:bul_x_preferred":[
         "\u0420\u0443\u0439"
     ],
+    "name:ceb_x_preferred":[
+        "Ruy"
+    ],
     "name:deu_x_preferred":[
         "Ruy"
     ],
@@ -37,6 +40,15 @@
     ],
     "name:por_x_preferred":[
         "Ruy"
+    ],
+    "name:rus_x_preferred":[
+        "\u0420\u0443\u0439"
+    ],
+    "name:swe_x_preferred":[
+        "Ruy"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0420\u0443\u0439"
     ],
     "name:unk_x_variant":[
         "Ruy"
@@ -73,12 +85,12 @@
     ],
     "src:lbl:centroid":"yerbashapes",
     "wof:belongsto":[
-        85681691,
         102191581,
         85632997,
         404227353,
         101748083,
-        102049941
+        102049941,
+        85681691
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -104,7 +116,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1531862100,
+    "wof:lastmodified":1564161863,
     "wof:name":"Ruy",
     "wof:parent_id":101748083,
     "wof:placetype":"neighbourhood",

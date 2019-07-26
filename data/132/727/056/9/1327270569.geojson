@@ -26,9 +26,90 @@
     "iso:country":"BE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Le Plantis"
+    ],
+    "name:ceb_x_preferred":[
+        "Le Plantis"
+    ],
+    "name:deu_x_preferred":[
+        "Le Plantis"
+    ],
+    "name:eus_x_preferred":[
+        "Le Plantis"
+    ],
+    "name:fra_x_preferred":[
+        "Le Plantis"
+    ],
+    "name:hun_x_preferred":[
+        "Le Plantis"
+    ],
+    "name:ind_x_preferred":[
+        "Le Plantis"
+    ],
+    "name:ita_x_preferred":[
+        "Le Plantis"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041b\u0435-\u041f\u043b\u0430\u043d\u0442\u0438"
+    ],
+    "name:lat_x_preferred":[
+        "Le Plantis"
+    ],
+    "name:mlg_x_preferred":[
+        "Le Plantis"
+    ],
+    "name:msa_x_preferred":[
+        "Le Plantis"
+    ],
+    "name:nld_x_preferred":[
+        "Le Plantis"
+    ],
+    "name:oci_x_preferred":[
+        "Le Plantis"
+    ],
+    "name:pms_x_preferred":[
+        "Le Plantis"
+    ],
+    "name:pol_x_preferred":[
+        "Le Plantis"
+    ],
+    "name:por_x_preferred":[
+        "Le Plantis"
+    ],
+    "name:ron_x_preferred":[
+        "Le Plantis"
+    ],
+    "name:slk_x_preferred":[
+        "Le Plantis"
+    ],
+    "name:spa_x_preferred":[
+        "Le Plantis"
+    ],
+    "name:swe_x_preferred":[
+        "Le Plantis"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041b\u0435-\u041f\u043b\u0430\u043d\u0442\u0456"
+    ],
     "name:und_x_variant":[
         "Le Planti",
         "Le Plantis"
+    ],
+    "name:uzb_x_preferred":[
+        "Le Plantis"
+    ],
+    "name:vie_x_preferred":[
+        "Le Plantis"
+    ],
+    "name:vol_x_preferred":[
+        "Le Plantis"
+    ],
+    "name:war_x_preferred":[
+        "Le Plantis"
+    ],
+    "name:zho_x_preferred":[
+        "\u52d2\u666e\u6717\u8482"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -61,7 +142,7 @@
         }
     ],
     "wof:id":1327270569,
-    "wof:lastmodified":1537586982,
+    "wof:lastmodified":1564161643,
     "wof:name":"Le Plantis",
     "wof:parent_id":404374553,
     "wof:placetype":"locality",

@@ -28,6 +28,9 @@
     "iso:country":"BE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:pol_x_preferred":[
+        "Neche"
+    ],
     "name:und_x_variant":[
         "En N\u00e8che",
         "N\u00e9che"
@@ -57,7 +60,7 @@
         }
     ],
     "wof:id":1343796145,
-    "wof:lastmodified":1537586959,
+    "wof:lastmodified":1564161717,
     "wof:name":"Neche",
     "wof:parent_id":102049941,
     "wof:placetype":"locality",
