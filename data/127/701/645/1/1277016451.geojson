@@ -28,6 +28,60 @@
     "iso:country":"BE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bre_x_preferred":[
+        "Pont"
+    ],
+    "name:bul_x_preferred":[
+        "\u041f\u043e\u043d\u0442"
+    ],
+    "name:cat_x_preferred":[
+        "Pont"
+    ],
+    "name:deu_x_preferred":[
+        "Pont"
+    ],
+    "name:epo_x_preferred":[
+        "Pont"
+    ],
+    "name:fra_x_preferred":[
+        "Pont"
+    ],
+    "name:hrv_x_preferred":[
+        "Pont"
+    ],
+    "name:hun_x_preferred":[
+        "Pont"
+    ],
+    "name:ita_x_preferred":[
+        "Pont"
+    ],
+    "name:ltz_x_preferred":[
+        "Pont"
+    ],
+    "name:nld_x_preferred":[
+        "Pont"
+    ],
+    "name:por_x_preferred":[
+        "Pont"
+    ],
+    "name:ron_x_preferred":[
+        "Pont"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u043e\u043d\u0442"
+    ],
+    "name:slk_x_preferred":[
+        "Pont"
+    ],
+    "name:srp_x_preferred":[
+        "\u041f\u043e\u043d\u0442"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u043e\u043d\u0442"
+    ],
+    "name:uzb_x_preferred":[
+        "Pont"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85681691,
@@ -53,7 +107,7 @@
         }
     ],
     "wof:id":1277016451,
-    "wof:lastmodified":1536856845,
+    "wof:lastmodified":1564162096,
     "wof:name":"Pont",
     "wof:parent_id":102049935,
     "wof:placetype":"locality",

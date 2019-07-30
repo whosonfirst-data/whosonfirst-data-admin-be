@@ -14,7 +14,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001416,
-    "geom:area_square_m":10985999.805638,
+    "geom:area_square_m":10985999.805636,
     "geom:bbox":"4.35374180701,51.1094900506,4.40872593695,51.1510762976",
     "geom:latitude":51.131828,
     "geom:longitude":4.382529,
@@ -23,6 +23,99 @@
     "lbl:longitude":4.385791,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bre_x_preferred":[
+        "Aartselaar"
+    ],
+    "name:bul_x_preferred":[
+        "\u0410\u0440\u0442\u0441\u0435\u043b\u0430\u0440"
+    ],
+    "name:cat_x_preferred":[
+        "Aartselaar"
+    ],
+    "name:ceb_x_preferred":[
+        "Aartselaar"
+    ],
+    "name:ces_x_preferred":[
+        "Aartselaar"
+    ],
+    "name:deu_x_preferred":[
+        "Aartselaar"
+    ],
+    "name:ell_x_preferred":[
+        "\u0386\u03b1\u03c1\u03c4\u03c3\u03b5\u03bb\u03b1\u03b1\u03c1"
+    ],
+    "name:epo_x_preferred":[
+        "Aartselaar"
+    ],
+    "name:est_x_preferred":[
+        "Aartselaar"
+    ],
+    "name:eus_x_preferred":[
+        "Aartselaar"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0631\u062a\u0633\u0648\u0644\u0631"
+    ],
+    "name:fra_x_preferred":[
+        "Aartselaar"
+    ],
+    "name:glg_x_preferred":[
+        "Aartselaar"
+    ],
+    "name:ita_x_preferred":[
+        "Aartselaar"
+    ],
+    "name:nap_x_preferred":[
+        "Aartselaar"
+    ],
+    "name:nld_x_preferred":[
+        "Aartselaar"
+    ],
+    "name:nor_x_preferred":[
+        "Aartselaar"
+    ],
+    "name:oci_x_preferred":[
+        "Aartselaar"
+    ],
+    "name:pol_x_preferred":[
+        "Aartselaar"
+    ],
+    "name:por_x_preferred":[
+        "Aartselaar"
+    ],
+    "name:ron_x_preferred":[
+        "Aartselaar"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u0440\u0442\u0441\u0435\u043b\u0430\u0440"
+    ],
+    "name:sco_x_preferred":[
+        "Aartselaar"
+    ],
+    "name:slk_x_preferred":[
+        "Aartselaar"
+    ],
+    "name:spa_x_preferred":[
+        "Aartselaar"
+    ],
+    "name:swe_x_preferred":[
+        "Aartselaar"
+    ],
+    "name:urd_x_preferred":[
+        "\u0622\u0631\u0679\u0633\u06cc\u0644\u0627\u0631"
+    ],
+    "name:vie_x_preferred":[
+        "Aartselaar"
+    ],
+    "name:vol_x_preferred":[
+        "Aartselaar"
+    ],
+    "name:war_x_preferred":[
+        "Aartselaar"
+    ],
+    "name:zho_x_preferred":[
+        "\u963f\u5c14\u7279\u65af\u62c9\u5c14"
+    ],
     "reversegeo:latitude":51.131251,
     "reversegeo:longitude":4.385791,
     "src:geom":"begov",
@@ -50,7 +143,7 @@
         }
     ],
     "wof:id":1108830013,
-    "wof:lastmodified":1499533206,
+    "wof:lastmodified":1564162710,
     "wof:name":"Aartselaar",
     "wof:parent_id":102050005,
     "wof:placetype":"localadmin",

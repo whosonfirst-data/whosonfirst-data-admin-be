@@ -29,10 +29,19 @@
     "iso:country":"BE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bre_x_preferred":[
+        "Oudergem"
+    ],
     "name:bul_x_preferred":[
         "\u0410\u0443\u0434\u0435\u0440\u0433\u0435\u043c"
     ],
     "name:cat_x_preferred":[
+        "Auderghem"
+    ],
+    "name:ceb_x_preferred":[
+        "Oudergem"
+    ],
+    "name:ces_x_preferred":[
         "Auderghem"
     ],
     "name:deu_x_preferred":[
@@ -44,14 +53,41 @@
     "name:epo_x_preferred":[
         "Oudergem"
     ],
+    "name:epo_x_variant":[
+        "Auderghem"
+    ],
+    "name:est_x_preferred":[
+        "Auderghem"
+    ],
+    "name:eus_x_preferred":[
+        "Auderghem"
+    ],
     "name:fas_x_preferred":[
         "\u0627\u0648\u062f\u0631\u06af\u0645"
+    ],
+    "name:fin_x_preferred":[
+        "Auderghem"
     ],
     "name:fra_x_preferred":[
         "Bruxelles (Auderghem)"
     ],
+    "name:fra_x_variant":[
+        "Auderghem"
+    ],
+    "name:gle_x_preferred":[
+        "Oudergem"
+    ],
+    "name:hrv_x_preferred":[
+        "Auderghem"
+    ],
+    "name:hun_x_preferred":[
+        "Auderghem"
+    ],
     "name:ind_x_preferred":[
         "Auderghem-Oudergem"
+    ],
+    "name:ita_x_preferred":[
+        "Auderghem"
     ],
     "name:jpn_x_preferred":[
         "\u30aa\u30fc\u30c7\u30eb\u30b2\u30e0"
@@ -68,10 +104,37 @@
     "name:nld_x_preferred":[
         "Brussel (Oudergem)"
     ],
+    "name:nld_x_variant":[
+        "Oudergem"
+    ],
+    "name:nor_x_preferred":[
+        "Auderghem"
+    ],
+    "name:oci_x_preferred":[
+        "Auderghem"
+    ],
+    "name:pol_x_preferred":[
+        "Auderghem"
+    ],
+    "name:por_x_preferred":[
+        "Auderghem"
+    ],
+    "name:ron_x_preferred":[
+        "Auderghem"
+    ],
     "name:rus_x_preferred":[
         "\u041e\u0434\u0435\u0440\u0433\u0435\u043c"
     ],
+    "name:sco_x_preferred":[
+        "Auderghem"
+    ],
+    "name:slk_x_preferred":[
+        "Auderghem"
+    ],
     "name:spa_x_preferred":[
+        "Auderghem"
+    ],
+    "name:swe_x_preferred":[
         "Auderghem"
     ],
     "name:ukr_x_preferred":[
@@ -80,6 +143,18 @@
     "name:und_x_variant":[
         "Anderghen",
         "Oudergem"
+    ],
+    "name:urd_x_preferred":[
+        "\u0622\u0648\u062f\u0631\u06af\u06cc\u0645"
+    ],
+    "name:vls_x_preferred":[
+        "Oudergem"
+    ],
+    "name:vol_x_preferred":[
+        "Oudergem"
+    ],
+    "name:war_x_preferred":[
+        "Auderghem"
     ],
     "name:zho_x_preferred":[
         "\u5965\u5fb7\u5c14\u8d6b\u59c6"
@@ -110,7 +185,7 @@
         }
     ],
     "wof:id":1326665041,
-    "wof:lastmodified":1537587083,
+    "wof:lastmodified":1564161528,
     "wof:name":"Auderghem",
     "wof:parent_id":102049957,
     "wof:placetype":"locality",

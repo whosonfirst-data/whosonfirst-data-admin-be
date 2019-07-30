@@ -28,11 +28,29 @@
     "iso:country":"BE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ces_x_preferred":[
+        "Wijnendale"
+    ],
+    "name:est_x_preferred":[
+        "Wijnendale"
+    ],
+    "name:fra_x_preferred":[
+        "Wynendaele"
+    ],
+    "name:nld_x_preferred":[
+        "Wijnendale"
+    ],
+    "name:por_x_preferred":[
+        "Wijnendale"
+    ],
     "name:und_x_variant":[
         "Wijnendaal",
         "Wijnendaale",
         "Wynendaele",
         "Wijnendale"
+    ],
+    "name:vls_x_preferred":[
+        "Wyndoale"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -61,7 +79,7 @@
         }
     ],
     "wof:id":1243002435,
-    "wof:lastmodified":1537586882,
+    "wof:lastmodified":1564163342,
     "wof:name":"Wijnendale",
     "wof:parent_id":1108830171,
     "wof:placetype":"locality",

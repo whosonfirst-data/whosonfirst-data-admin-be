@@ -28,6 +28,9 @@
     "iso:country":"BE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Haute"
+    ],
     "name:und_x_variant":[
         "La Haute",
         "Houte",
@@ -60,7 +63,7 @@
         }
     ],
     "wof:id":1210052675,
-    "wof:lastmodified":1537587023,
+    "wof:lastmodified":1564162460,
     "wof:name":"Haute",
     "wof:parent_id":1108830139,
     "wof:placetype":"locality",

@@ -28,6 +28,72 @@
     "iso:country":"BE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Bouy"
+    ],
+    "name:ceb_x_preferred":[
+        "Bouy"
+    ],
+    "name:deu_x_preferred":[
+        "Bouy"
+    ],
+    "name:eus_x_preferred":[
+        "Bouy"
+    ],
+    "name:fra_x_preferred":[
+        "Bouy"
+    ],
+    "name:hun_x_preferred":[
+        "Bouy"
+    ],
+    "name:ita_x_preferred":[
+        "Bouy"
+    ],
+    "name:lat_x_preferred":[
+        "Bouy"
+    ],
+    "name:msa_x_preferred":[
+        "Bouy"
+    ],
+    "name:nld_x_preferred":[
+        "Bouy"
+    ],
+    "name:oci_x_preferred":[
+        "Bouy"
+    ],
+    "name:pol_x_preferred":[
+        "Bouy"
+    ],
+    "name:ron_x_preferred":[
+        "Bouy"
+    ],
+    "name:slk_x_preferred":[
+        "Bouy"
+    ],
+    "name:spa_x_preferred":[
+        "Bouy"
+    ],
+    "name:srp_x_preferred":[
+        "\u0411\u0443"
+    ],
+    "name:swe_x_preferred":[
+        "Bouy"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0443\u0457"
+    ],
+    "name:vie_x_preferred":[
+        "Bouy"
+    ],
+    "name:vol_x_preferred":[
+        "Bouy"
+    ],
+    "name:war_x_preferred":[
+        "Bouy"
+    ],
+    "name:zho_x_preferred":[
+        "\u5e03\u4f0a"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85681691,
@@ -53,7 +119,7 @@
         }
     ],
     "wof:id":1259613895,
-    "wof:lastmodified":1536671074,
+    "wof:lastmodified":1564163596,
     "wof:name":"Bouy",
     "wof:parent_id":102049935,
     "wof:placetype":"locality",

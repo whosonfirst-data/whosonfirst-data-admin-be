@@ -18,6 +18,84 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u0641\u064a\u0631\u0644\u064a\u0646"
+    ],
+    "name:bre_x_preferred":[
+        "Verlaine"
+    ],
+    "name:bul_x_preferred":[
+        "\u0412\u0435\u0440\u043b\u0435\u043d"
+    ],
+    "name:cat_x_preferred":[
+        "Verlaine"
+    ],
+    "name:ceb_x_preferred":[
+        "Verlaine"
+    ],
+    "name:deu_x_preferred":[
+        "Verlaine"
+    ],
+    "name:epo_x_preferred":[
+        "Verlaine"
+    ],
+    "name:eus_x_preferred":[
+        "Verlaine"
+    ],
+    "name:fas_x_preferred":[
+        "\u0648\u0631\u0644\u0646"
+    ],
+    "name:fra_x_preferred":[
+        "Verlaine"
+    ],
+    "name:ita_x_preferred":[
+        "Verlaine"
+    ],
+    "name:lim_x_preferred":[
+        "Verlaine"
+    ],
+    "name:nld_x_preferred":[
+        "Verlaine"
+    ],
+    "name:nor_x_preferred":[
+        "Verlaine"
+    ],
+    "name:oci_x_preferred":[
+        "Verlaine"
+    ],
+    "name:pol_x_preferred":[
+        "Verlaine"
+    ],
+    "name:por_x_preferred":[
+        "Verlaine"
+    ],
+    "name:ron_x_preferred":[
+        "Verlaine"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u0435\u0440\u043b\u0435\u043d"
+    ],
+    "name:slk_x_preferred":[
+        "Verlaine"
+    ],
+    "name:spa_x_preferred":[
+        "Verlaine"
+    ],
+    "name:swe_x_preferred":[
+        "Verlaine"
+    ],
+    "name:vie_x_preferred":[
+        "Verlaine"
+    ],
+    "name:vol_x_preferred":[
+        "Verlaine"
+    ],
+    "name:war_x_preferred":[
+        "Verlaine"
+    ],
+    "name:zho_x_preferred":[
+        "\u97e6\u5c14\u83b1\u8bb7"
+    ],
     "qs_pg:aaroncc":"BE",
     "qs_pg:gn_country":"BE",
     "qs_pg:gn_fcode":"PPL",
@@ -71,7 +149,7 @@
         }
     ],
     "wof:id":1125855565,
-    "wof:lastmodified":1509396188,
+    "wof:lastmodified":1564163301,
     "wof:name":"Verlaine",
     "wof:parent_id":102049921,
     "wof:placetype":"locality",

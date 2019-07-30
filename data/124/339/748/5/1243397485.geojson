@@ -28,6 +28,9 @@
     "iso:country":"BE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Famille Terlinden"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85681731,
@@ -55,7 +58,7 @@
         }
     ],
     "wof:id":1243397485,
-    "wof:lastmodified":1536875317,
+    "wof:lastmodified":1564163379,
     "wof:name":"Terlinden",
     "wof:parent_id":1108830421,
     "wof:placetype":"locality",

@@ -14,7 +14,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003554,
-    "geom:area_square_m":27528662.480442,
+    "geom:area_square_m":27528662.480447,
     "geom:bbox":"4.72612815113,51.1828775852,4.8358428036,51.2512330393",
     "geom:latitude":51.217662,
     "geom:longitude":4.7729,
@@ -23,6 +23,75 @@
     "lbl:longitude":4.773718,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bre_x_preferred":[
+        "Vorselaar"
+    ],
+    "name:bul_x_preferred":[
+        "\u0412\u043e\u0440\u0441\u0435\u043b\u0430\u0440"
+    ],
+    "name:cat_x_preferred":[
+        "Vorselaar"
+    ],
+    "name:ceb_x_preferred":[
+        "Vorselaar"
+    ],
+    "name:deu_x_preferred":[
+        "Vorselaar"
+    ],
+    "name:epo_x_preferred":[
+        "Vorselaar"
+    ],
+    "name:est_x_preferred":[
+        "Vorselaar"
+    ],
+    "name:eus_x_preferred":[
+        "Vorselaar"
+    ],
+    "name:fas_x_preferred":[
+        "\u0648\u0631\u0633\u0648\u0644\u0631"
+    ],
+    "name:fra_x_preferred":[
+        "Vorselaar"
+    ],
+    "name:ita_x_preferred":[
+        "Vorselaar"
+    ],
+    "name:nld_x_preferred":[
+        "Vorselaar"
+    ],
+    "name:nor_x_preferred":[
+        "Vorselaar"
+    ],
+    "name:oci_x_preferred":[
+        "Vorselaar"
+    ],
+    "name:por_x_preferred":[
+        "Vorselaar"
+    ],
+    "name:ron_x_preferred":[
+        "Vorselaar"
+    ],
+    "name:slk_x_preferred":[
+        "Vorselaar"
+    ],
+    "name:spa_x_preferred":[
+        "Vorselaar"
+    ],
+    "name:swe_x_preferred":[
+        "Vorselaar"
+    ],
+    "name:vie_x_preferred":[
+        "Vorselaar"
+    ],
+    "name:vol_x_preferred":[
+        "Vorselaar"
+    ],
+    "name:war_x_preferred":[
+        "Vorselaar"
+    ],
+    "name:zho_x_preferred":[
+        "\u798f\u5c14\u585e\u62c9\u5c14"
+    ],
     "reversegeo:latitude":51.220385,
     "reversegeo:longitude":4.773718,
     "src:geom":"begov",
@@ -50,7 +119,7 @@
         }
     ],
     "wof:id":1108830237,
-    "wof:lastmodified":1499533507,
+    "wof:lastmodified":1564162588,
     "wof:name":"Vorselaar",
     "wof:parent_id":102050007,
     "wof:placetype":"localadmin",

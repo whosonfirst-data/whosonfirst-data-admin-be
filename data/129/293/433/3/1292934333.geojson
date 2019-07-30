@@ -28,6 +28,9 @@
     "iso:country":"BE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Laval"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85681727,
@@ -54,7 +57,7 @@
         }
     ],
     "wof:id":1292934333,
-    "wof:lastmodified":1537487551,
+    "wof:lastmodified":1564161933,
     "wof:name":"Laval",
     "wof:parent_id":102049915,
     "wof:placetype":"locality",

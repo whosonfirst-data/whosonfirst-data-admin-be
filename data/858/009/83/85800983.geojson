@@ -31,6 +31,12 @@
     "name:deu_x_preferred":[
         "Carlo"
     ],
+    "name:fra_x_preferred":[
+        "Carlo"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e7\u05e8\u05dc\u05d5"
+    ],
     "name:ita_x_preferred":[
         "Carlo"
     ],
@@ -104,7 +110,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1527270048,
+    "wof:lastmodified":1564161858,
     "wof:name":"Carlo",
     "wof:parent_id":101913251,
     "wof:placetype":"neighbourhood",

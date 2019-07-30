@@ -28,6 +28,33 @@
     "iso:country":"BE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Famenne"
+    ],
+    "name:ces_x_preferred":[
+        "Famenne"
+    ],
+    "name:deu_x_preferred":[
+        "Famenne"
+    ],
+    "name:fra_x_preferred":[
+        "Famenne"
+    ],
+    "name:lat_x_preferred":[
+        "Falmana"
+    ],
+    "name:nld_x_preferred":[
+        "Famenne"
+    ],
+    "name:spa_x_preferred":[
+        "Famenne"
+    ],
+    "name:swe_x_preferred":[
+        "Famenne"
+    ],
+    "name:wln_x_preferred":[
+        "F\u00e5mene"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85681727,
@@ -53,7 +80,7 @@
         }
     ],
     "wof:id":1209852557,
-    "wof:lastmodified":1536387743,
+    "wof:lastmodified":1564162324,
     "wof:name":"Famenne",
     "wof:parent_id":102049921,
     "wof:placetype":"locality",

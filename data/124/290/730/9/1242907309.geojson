@@ -28,6 +28,27 @@
     "iso:country":"BE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Kroon"
+    ],
+    "name:deu_x_preferred":[
+        "Kroon"
+    ],
+    "name:est_x_preferred":[
+        "Kroon"
+    ],
+    "name:fra_x_preferred":[
+        "Kroon"
+    ],
+    "name:ita_x_preferred":[
+        "Kroon"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30af\u30eb\u30fc\u30f3"
+    ],
+    "name:nld_x_preferred":[
+        "Kroon"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85681733,
@@ -55,7 +76,7 @@
         }
     ],
     "wof:id":1242907309,
-    "wof:lastmodified":1537082677,
+    "wof:lastmodified":1564163479,
     "wof:name":"Kroon",
     "wof:parent_id":1108830403,
     "wof:placetype":"locality",

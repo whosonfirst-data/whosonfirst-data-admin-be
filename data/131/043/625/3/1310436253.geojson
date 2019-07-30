@@ -28,6 +28,27 @@
     "iso:country":"BE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Goor"
+    ],
+    "name:fas_x_preferred":[
+        "\u062e\u0648\u0631"
+    ],
+    "name:fra_x_preferred":[
+        "Goor"
+    ],
+    "name:ita_x_preferred":[
+        "Goor"
+    ],
+    "name:lat_x_preferred":[
+        "Gora"
+    ],
+    "name:nld_x_preferred":[
+        "Goor"
+    ],
+    "name:rus_x_preferred":[
+        "\u0413\u043e\u043e\u0440"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85681715,
@@ -55,7 +76,7 @@
         }
     ],
     "wof:id":1310436253,
-    "wof:lastmodified":1537016250,
+    "wof:lastmodified":1564162949,
     "wof:name":"Goor",
     "wof:parent_id":1108830677,
     "wof:placetype":"locality",

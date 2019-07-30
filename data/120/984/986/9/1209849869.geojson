@@ -28,6 +28,12 @@
     "iso:country":"BE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Reppe"
+    ],
+    "name:nld_x_preferred":[
+        "Reppe"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85681699,
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":1209849869,
-    "wof:lastmodified":1536388942,
+    "wof:lastmodified":1564162308,
     "wof:name":"Reppe",
     "wof:parent_id":102049931,
     "wof:placetype":"locality",

@@ -14,7 +14,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003829,
-    "geom:area_square_m":29891509.563856,
+    "geom:area_square_m":29891509.563857,
     "geom:bbox":"4.54617796605,50.8183488837,4.65993710378,50.8909694501",
     "geom:latitude":50.85384,
     "geom:longitude":4.609724,
@@ -23,6 +23,75 @@
     "lbl:longitude":4.615279,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bre_x_preferred":[
+        "Bertem"
+    ],
+    "name:bul_x_preferred":[
+        "\u0411\u0435\u0440\u0442\u0435\u043c"
+    ],
+    "name:cat_x_preferred":[
+        "Bertem"
+    ],
+    "name:ceb_x_preferred":[
+        "Bertem"
+    ],
+    "name:deu_x_preferred":[
+        "Bertem"
+    ],
+    "name:epo_x_preferred":[
+        "Bertem"
+    ],
+    "name:eus_x_preferred":[
+        "Bertem"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u0631\u062a\u0645"
+    ],
+    "name:fra_x_preferred":[
+        "Bertem"
+    ],
+    "name:ita_x_preferred":[
+        "Bertem"
+    ],
+    "name:nld_x_preferred":[
+        "Bertem"
+    ],
+    "name:nor_x_preferred":[
+        "Bertem"
+    ],
+    "name:oci_x_preferred":[
+        "Bertem"
+    ],
+    "name:por_x_preferred":[
+        "Bertem"
+    ],
+    "name:ron_x_preferred":[
+        "Bertem"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0435\u0440\u0442\u0435\u043c"
+    ],
+    "name:slk_x_preferred":[
+        "Bertem"
+    ],
+    "name:spa_x_preferred":[
+        "Bertem"
+    ],
+    "name:swe_x_preferred":[
+        "Bertem"
+    ],
+    "name:vie_x_preferred":[
+        "Bertem"
+    ],
+    "name:vol_x_preferred":[
+        "Bertem"
+    ],
+    "name:war_x_preferred":[
+        "Bertem"
+    ],
+    "name:zho_x_preferred":[
+        "\u8d1d\u5c14\u7279\u59c6"
+    ],
     "reversegeo:latitude":50.850981,
     "reversegeo:longitude":4.615279,
     "src:geom":"begov",
@@ -50,7 +119,7 @@
         }
     ],
     "wof:id":1108830651,
-    "wof:lastmodified":1499534021,
+    "wof:lastmodified":1564162643,
     "wof:name":"Bertem",
     "wof:parent_id":102049969,
     "wof:placetype":"localadmin",

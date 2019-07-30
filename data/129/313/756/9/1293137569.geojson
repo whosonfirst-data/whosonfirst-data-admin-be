@@ -28,8 +28,26 @@
     "iso:country":"BE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Frasnes"
+    ],
+    "name:deu_x_preferred":[
+        "Frasnes"
+    ],
+    "name:fra_x_preferred":[
+        "Frasnes"
+    ],
+    "name:nld_x_preferred":[
+        "Frasnes"
+    ],
+    "name:swe_x_preferred":[
+        "Frasnes"
+    ],
     "name:und_x_variant":[
         "Couvin (Frasnes)"
+    ],
+    "name:wln_x_preferred":[
+        "Fr\u00e5ne"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -56,7 +74,7 @@
         }
     ],
     "wof:id":1293137569,
-    "wof:lastmodified":1537587038,
+    "wof:lastmodified":1564161981,
     "wof:name":"Frasnes",
     "wof:parent_id":102049917,
     "wof:placetype":"locality",

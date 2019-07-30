@@ -23,6 +23,87 @@
     "lbl:longitude":4.212351,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bre_x_preferred":[
+        "Temse"
+    ],
+    "name:bul_x_preferred":[
+        "\u0422\u0435\u043c\u0441\u0435"
+    ],
+    "name:cat_x_preferred":[
+        "Temse"
+    ],
+    "name:ceb_x_preferred":[
+        "Temse"
+    ],
+    "name:deu_x_preferred":[
+        "Temse"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a4\u03ad\u03bc\u03c3\u03b5"
+    ],
+    "name:epo_x_preferred":[
+        "Temse"
+    ],
+    "name:est_x_preferred":[
+        "Temse"
+    ],
+    "name:eus_x_preferred":[
+        "Temse"
+    ],
+    "name:fas_x_preferred":[
+        "\u062a\u0627\u0645\u0633"
+    ],
+    "name:fra_x_preferred":[
+        "Tamise"
+    ],
+    "name:gle_x_preferred":[
+        "Temse"
+    ],
+    "name:ita_x_preferred":[
+        "Temse"
+    ],
+    "name:nld_x_preferred":[
+        "Temse"
+    ],
+    "name:nor_x_preferred":[
+        "Temse"
+    ],
+    "name:oci_x_preferred":[
+        "Temse"
+    ],
+    "name:pol_x_preferred":[
+        "Temse"
+    ],
+    "name:por_x_preferred":[
+        "Temse"
+    ],
+    "name:ron_x_preferred":[
+        "Temse"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u0435\u043c\u0441\u0435"
+    ],
+    "name:slk_x_preferred":[
+        "Temse"
+    ],
+    "name:spa_x_preferred":[
+        "Temse"
+    ],
+    "name:swe_x_preferred":[
+        "Temse"
+    ],
+    "name:vie_x_preferred":[
+        "Temse"
+    ],
+    "name:vol_x_preferred":[
+        "Temse"
+    ],
+    "name:war_x_preferred":[
+        "Temse"
+    ],
+    "name:zho_x_preferred":[
+        "\u6cf0\u59c6\u745f"
+    ],
     "reversegeo:latitude":51.143713,
     "reversegeo:longitude":4.212351,
     "src:geom":"begov",
@@ -50,7 +131,7 @@
         }
     ],
     "wof:id":1108830387,
-    "wof:lastmodified":1499533680,
+    "wof:lastmodified":1564162657,
     "wof:name":"Temse",
     "wof:parent_id":102049997,
     "wof:placetype":"localadmin",

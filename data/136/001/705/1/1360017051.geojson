@@ -28,6 +28,54 @@
     "iso:country":"BE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bre_x_preferred":[
+        "Bourg"
+    ],
+    "name:ceb_x_preferred":[
+        "Bourg"
+    ],
+    "name:deu_x_preferred":[
+        "Bourg"
+    ],
+    "name:epo_x_preferred":[
+        "Bourg"
+    ],
+    "name:fra_x_preferred":[
+        "Bourg"
+    ],
+    "name:ita_x_preferred":[
+        "Bourg"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d6\u30fc\u30eb"
+    ],
+    "name:nds_x_preferred":[
+        "Bourg"
+    ],
+    "name:nld_x_preferred":[
+        "Bourg"
+    ],
+    "name:oci_x_preferred":[
+        "Bourg"
+    ],
+    "name:pms_x_preferred":[
+        "Bourg"
+    ],
+    "name:pol_x_preferred":[
+        "Bourg"
+    ],
+    "name:por_x_preferred":[
+        "Bourg"
+    ],
+    "name:slk_x_preferred":[
+        "Bourg"
+    ],
+    "name:spa_x_preferred":[
+        "Bourg"
+    ],
+    "name:swe_x_preferred":[
+        "Bourg"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85681727,
@@ -53,7 +101,7 @@
         }
     ],
     "wof:id":1360017051,
-    "wof:lastmodified":1537042095,
+    "wof:lastmodified":1564163024,
     "wof:name":"Bourg",
     "wof:parent_id":102049909,
     "wof:placetype":"locality",

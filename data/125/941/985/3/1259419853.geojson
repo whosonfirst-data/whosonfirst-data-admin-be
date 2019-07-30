@@ -28,9 +28,81 @@
     "iso:country":"BE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Le Crouzet"
+    ],
+    "name:ceb_x_preferred":[
+        "Le Crouzet"
+    ],
+    "name:deu_x_preferred":[
+        "Le Crouzet"
+    ],
+    "name:eus_x_preferred":[
+        "Le Crouzet"
+    ],
+    "name:fra_x_preferred":[
+        "Le Crouzet"
+    ],
+    "name:hun_x_preferred":[
+        "Le Crouzet"
+    ],
+    "name:ita_x_preferred":[
+        "Le Crouzet"
+    ],
+    "name:lat_x_preferred":[
+        "Le Crouzet"
+    ],
+    "name:msa_x_preferred":[
+        "Le Crouzet"
+    ],
+    "name:nld_x_preferred":[
+        "Le Crouzet"
+    ],
+    "name:oci_x_preferred":[
+        "Le Crouzet"
+    ],
+    "name:pms_x_preferred":[
+        "Le Crouzet"
+    ],
+    "name:pol_x_preferred":[
+        "Le Crouzet"
+    ],
+    "name:por_x_preferred":[
+        "Le Crouzet"
+    ],
+    "name:slk_x_preferred":[
+        "Le Crouzet"
+    ],
+    "name:spa_x_preferred":[
+        "Le Crouzet"
+    ],
+    "name:srp_x_preferred":[
+        "\u041a\u0440\u0443\u0437\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "Le Crouzet"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041b\u0435-\u041a\u0440\u0443\u0437\u0435"
+    ],
     "name:und_x_variant":[
         "Crouzet",
         "Le Crouzet"
+    ],
+    "name:uzb_x_preferred":[
+        "Le Crouzet"
+    ],
+    "name:vie_x_preferred":[
+        "Le Crouzet"
+    ],
+    "name:vol_x_preferred":[
+        "Le Crouzet"
+    ],
+    "name:war_x_preferred":[
+        "Le Crouzet"
+    ],
+    "name:zho_x_preferred":[
+        "\u52d2\u514b\u9c81\u6cfd"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -57,7 +129,7 @@
         }
     ],
     "wof:id":1259419853,
-    "wof:lastmodified":1537586985,
+    "wof:lastmodified":1564163559,
     "wof:name":"Le Crouzet",
     "wof:parent_id":102049951,
     "wof:placetype":"locality",

@@ -19,13 +19,28 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bre_x_preferred":[
+        "Chaumont-Gistoux"
+    ],
     "name:bul_x_preferred":[
         "\u0428\u043e\u043c\u043e\u043d-\u0416\u0438\u0441\u0442\u0443"
+    ],
+    "name:cat_x_preferred":[
+        "Chaumont-Gistoux"
+    ],
+    "name:ceb_x_preferred":[
+        "Chaumont-Gistoux"
+    ],
+    "name:deu_x_preferred":[
+        "Chaumont-Gistoux"
     ],
     "name:eng_x_preferred":[
         "Chaumont-Gistoux"
     ],
     "name:epo_x_preferred":[
+        "Chaumont-Gistoux"
+    ],
+    "name:eus_x_preferred":[
         "Chaumont-Gistoux"
     ],
     "name:fas_x_preferred":[
@@ -34,23 +49,62 @@
     "name:fra_x_preferred":[
         "Chaumont-Gistoux"
     ],
+    "name:ind_x_preferred":[
+        "Chaumont-Gistoux"
+    ],
+    "name:ita_x_preferred":[
+        "Chaumont-Gistoux"
+    ],
     "name:nld_x_preferred":[
         "Chaumont-Gistoux"
     ],
     "name:nor_x_preferred":[
         "Chaumont-Gistoux"
     ],
+    "name:oci_x_preferred":[
+        "Chaumont-Gistoux"
+    ],
+    "name:pol_x_preferred":[
+        "Chaumont-Gistoux"
+    ],
+    "name:por_x_preferred":[
+        "Chaumont-Gistoux"
+    ],
+    "name:ron_x_preferred":[
+        "Chaumont-Gistoux"
+    ],
     "name:rus_x_preferred":[
         "\u0428\u043e\u043c\u043e\u043d-\u0416\u0438\u0441\u0442\u0443"
     ],
+    "name:slk_x_preferred":[
+        "Chaumont-Gistoux"
+    ],
+    "name:spa_x_preferred":[
+        "Chaumont-Gistoux"
+    ],
+    "name:swe_x_preferred":[
+        "Chaumont-Gistoux"
+    ],
     "name:unk_x_variant":[
         "Chaumont"
+    ],
+    "name:vie_x_preferred":[
+        "Chaumont-Gistoux"
+    ],
+    "name:vol_x_preferred":[
+        "Chaumont-Gistoux"
+    ],
+    "name:war_x_preferred":[
+        "Chaumont-Gistoux"
     ],
     "name:wln_x_preferred":[
         "Tch\u00e5mont-Djistou"
     ],
     "name:zho_x_preferred":[
         "\u7ecd\u8499\uff0d\u5409\u65af\u56fe"
+    ],
+    "name:zho_x_variant":[
+        "\u7ecd\u8499-\u65e5\u65af\u56fe"
     ],
     "qs_pg:aaroncc":"BE",
     "qs_pg:gn_country":"BE",
@@ -92,7 +146,7 @@
         }
     ],
     "wof:id":1125893759,
-    "wof:lastmodified":1509398966,
+    "wof:lastmodified":1564163240,
     "wof:name":"Chaumont-Gistoux",
     "wof:parent_id":102049945,
     "wof:placetype":"locality",

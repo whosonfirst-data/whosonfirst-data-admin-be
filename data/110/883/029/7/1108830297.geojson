@@ -14,7 +14,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004722,
-    "geom:area_square_m":36780665.306698,
+    "geom:area_square_m":36780665.306699,
     "geom:bbox":"4.18149456414,50.9089302086,4.30184448091,50.9984953474",
     "geom:latitude":50.951208,
     "geom:longitude":4.247149,
@@ -23,6 +23,75 @@
     "lbl:longitude":4.251261,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bre_x_preferred":[
+        "Merchtem"
+    ],
+    "name:bul_x_preferred":[
+        "\u041c\u0435\u0440\u0445\u0442\u0435\u043c"
+    ],
+    "name:cat_x_preferred":[
+        "Merchtem"
+    ],
+    "name:ceb_x_preferred":[
+        "Merchtem"
+    ],
+    "name:deu_x_preferred":[
+        "Merchtem"
+    ],
+    "name:epo_x_preferred":[
+        "Merchtem"
+    ],
+    "name:eus_x_preferred":[
+        "Merchtem"
+    ],
+    "name:fas_x_preferred":[
+        "\u0645\u0631\u06a9\u062a\u0645"
+    ],
+    "name:fra_x_preferred":[
+        "Merchtem"
+    ],
+    "name:ita_x_preferred":[
+        "Merchtem"
+    ],
+    "name:nld_x_preferred":[
+        "Merchtem"
+    ],
+    "name:nor_x_preferred":[
+        "Merchtem"
+    ],
+    "name:oci_x_preferred":[
+        "Merchtem"
+    ],
+    "name:por_x_preferred":[
+        "Merchtem"
+    ],
+    "name:ron_x_preferred":[
+        "Merchtem"
+    ],
+    "name:slk_x_preferred":[
+        "Merchtem"
+    ],
+    "name:spa_x_preferred":[
+        "Merchtem"
+    ],
+    "name:swe_x_preferred":[
+        "Merchtem"
+    ],
+    "name:tur_x_preferred":[
+        "Merchtem"
+    ],
+    "name:vie_x_preferred":[
+        "Merchtem"
+    ],
+    "name:vol_x_preferred":[
+        "Merchtem"
+    ],
+    "name:war_x_preferred":[
+        "Merchtem"
+    ],
+    "name:zho_x_preferred":[
+        "\u6885\u5c14\u8d6b\u7279\u59c6"
+    ],
     "reversegeo:latitude":50.951566,
     "reversegeo:longitude":4.251261,
     "src:geom":"begov",
@@ -50,7 +119,7 @@
         }
     ],
     "wof:id":1108830297,
-    "wof:lastmodified":1499533578,
+    "wof:lastmodified":1564162751,
     "wof:name":"Merchtem",
     "wof:parent_id":102049973,
     "wof:placetype":"localadmin",

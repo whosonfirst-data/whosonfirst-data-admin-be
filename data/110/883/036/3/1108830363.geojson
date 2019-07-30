@@ -14,7 +14,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004579,
-    "geom:area_square_m":35486545.28121,
+    "geom:area_square_m":35486545.281208,
     "geom:bbox":"2.93627239693,51.1444627475,3.05809535489,51.2244719145",
     "geom:latitude":51.186052,
     "geom:longitude":3.012258,
@@ -23,6 +23,84 @@
     "lbl:longitude":3.01318,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bre_x_preferred":[
+        "Oudenburg"
+    ],
+    "name:bul_x_preferred":[
+        "\u0410\u0443\u0434\u0435\u043d\u0431\u044e\u0440\u0433"
+    ],
+    "name:cat_x_preferred":[
+        "Oudenburg"
+    ],
+    "name:ceb_x_preferred":[
+        "Oudenburg"
+    ],
+    "name:deu_x_preferred":[
+        "Oudenburg"
+    ],
+    "name:epo_x_preferred":[
+        "Oudenburg"
+    ],
+    "name:eus_x_preferred":[
+        "Oudenburg"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0648\u062f\u0627\u0646\u0628\u0648\u0631\u06af"
+    ],
+    "name:fra_x_preferred":[
+        "Oudenburg"
+    ],
+    "name:ita_x_preferred":[
+        "Oudenburg"
+    ],
+    "name:kor_x_preferred":[
+        "\uc544\uc6b0\ub374\ubdd4\ub974\ud750"
+    ],
+    "name:lim_x_preferred":[
+        "Oudenburg"
+    ],
+    "name:nld_x_preferred":[
+        "Oudenburg"
+    ],
+    "name:nor_x_preferred":[
+        "Oudenburg"
+    ],
+    "name:oci_x_preferred":[
+        "Oudenburg"
+    ],
+    "name:pol_x_preferred":[
+        "Oudenburg"
+    ],
+    "name:por_x_preferred":[
+        "Oudenburg"
+    ],
+    "name:ron_x_preferred":[
+        "Oudenburg"
+    ],
+    "name:slk_x_preferred":[
+        "Oudenburg"
+    ],
+    "name:spa_x_preferred":[
+        "Oudenburg"
+    ],
+    "name:swe_x_preferred":[
+        "Oudenburg"
+    ],
+    "name:vie_x_preferred":[
+        "Oudenburg"
+    ],
+    "name:vls_x_preferred":[
+        "Oednburg"
+    ],
+    "name:vol_x_preferred":[
+        "Oudenburg"
+    ],
+    "name:war_x_preferred":[
+        "Oudenburg"
+    ],
+    "name:zho_x_preferred":[
+        "\u5965\u767b\u5821"
+    ],
     "reversegeo:latitude":51.18262,
     "reversegeo:longitude":3.01318,
     "src:geom":"begov",
@@ -50,7 +128,7 @@
         }
     ],
     "wof:id":1108830363,
-    "wof:lastmodified":1499533657,
+    "wof:lastmodified":1564162674,
     "wof:name":"Oudenburg",
     "wof:parent_id":102049999,
     "wof:placetype":"localadmin",

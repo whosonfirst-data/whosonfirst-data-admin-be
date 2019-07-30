@@ -18,6 +18,33 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bre_x_preferred":[
+        "Thon"
+    ],
+    "name:ceb_x_preferred":[
+        "Thon"
+    ],
+    "name:ces_x_preferred":[
+        "Thon"
+    ],
+    "name:deu_x_preferred":[
+        "Thon"
+    ],
+    "name:fra_x_preferred":[
+        "Thon"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d8\u05d4\u05d5\u05df"
+    ],
+    "name:ita_x_preferred":[
+        "Thon"
+    ],
+    "name:nor_x_preferred":[
+        "Thon"
+    ],
+    "name:pol_x_preferred":[
+        "Thon"
+    ],
     "name:unk_x_variant":[
         "Andenne (Thon)"
     ],
@@ -74,7 +101,7 @@
         }
     ],
     "wof:id":1126048803,
-    "wof:lastmodified":1509409076,
+    "wof:lastmodified":1564163213,
     "wof:name":"Thon",
     "wof:parent_id":102049931,
     "wof:placetype":"locality",

@@ -28,6 +28,12 @@
     "iso:country":"BE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Monplaisir"
+    ],
+    "name:fra_x_preferred":[
+        "Monplaisir"
+    ],
     "name:und_x_variant":[
         "Mont Plaisir",
         "Monplaisir"
@@ -57,7 +63,7 @@
         }
     ],
     "wof:id":1259717653,
-    "wof:lastmodified":1537586962,
+    "wof:lastmodified":1564163567,
     "wof:name":"Monplaisir",
     "wof:parent_id":102049945,
     "wof:placetype":"locality",

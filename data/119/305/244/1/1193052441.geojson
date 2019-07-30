@@ -28,6 +28,12 @@
     "iso:country":"BE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Booze"
+    ],
+    "name:fra_x_preferred":[
+        "Booze"
+    ],
     "name:und_x_variant":[
         "Boose",
         "Booze"
@@ -57,7 +63,7 @@
         }
     ],
     "wof:id":1193052441,
-    "wof:lastmodified":1537587071,
+    "wof:lastmodified":1564162479,
     "wof:name":"Booze",
     "wof:parent_id":102049941,
     "wof:placetype":"locality",

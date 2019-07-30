@@ -14,7 +14,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002797,
-    "geom:area_square_m":21842067.801366,
+    "geom:area_square_m":21842067.801367,
     "geom:bbox":"4.04066397113,50.811497093,4.15058147275,50.8586192928",
     "geom:latitude":50.837515,
     "geom:longitude":4.097382,
@@ -23,6 +23,81 @@
     "lbl:longitude":4.089071,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bre_x_preferred":[
+        "Roosdaal"
+    ],
+    "name:bul_x_preferred":[
+        "\u0420\u043e\u0441\u0434\u0430\u043b"
+    ],
+    "name:cat_x_preferred":[
+        "Roosdaal"
+    ],
+    "name:ceb_x_preferred":[
+        "Roosdaal"
+    ],
+    "name:deu_x_preferred":[
+        "Roosdaal"
+    ],
+    "name:epo_x_preferred":[
+        "Roosdaal"
+    ],
+    "name:eus_x_preferred":[
+        "Roosdaal"
+    ],
+    "name:fas_x_preferred":[
+        "\u0631\u0648\u0632\u062f\u0644"
+    ],
+    "name:fra_x_preferred":[
+        "Roosdaal"
+    ],
+    "name:ita_x_preferred":[
+        "Roosdaal"
+    ],
+    "name:nld_x_preferred":[
+        "Roosdaal"
+    ],
+    "name:nor_x_preferred":[
+        "Roosdaal"
+    ],
+    "name:oci_x_preferred":[
+        "Roosdaal"
+    ],
+    "name:pol_x_preferred":[
+        "Roosdaal"
+    ],
+    "name:por_x_preferred":[
+        "Roosdaal"
+    ],
+    "name:ron_x_preferred":[
+        "Roosdaal"
+    ],
+    "name:slk_x_preferred":[
+        "Roosdaal"
+    ],
+    "name:spa_x_preferred":[
+        "Roosdaal"
+    ],
+    "name:swe_x_preferred":[
+        "Roosdaal"
+    ],
+    "name:tur_x_preferred":[
+        "Roosdaal"
+    ],
+    "name:vie_x_preferred":[
+        "Roosdaal"
+    ],
+    "name:vls_x_preferred":[
+        "R\u00f4osdoal"
+    ],
+    "name:vol_x_preferred":[
+        "Roosdaal"
+    ],
+    "name:war_x_preferred":[
+        "Roosdaal"
+    ],
+    "name:zho_x_preferred":[
+        "\u7f57\u65af\u8fbe\u5c14"
+    ],
     "reversegeo:latitude":50.835027,
     "reversegeo:longitude":4.089071,
     "src:geom":"begov",
@@ -50,7 +125,7 @@
         }
     ],
     "wof:id":1108830261,
-    "wof:lastmodified":1499533537,
+    "wof:lastmodified":1564162774,
     "wof:name":"Roosdaal",
     "wof:parent_id":102049973,
     "wof:placetype":"localadmin",

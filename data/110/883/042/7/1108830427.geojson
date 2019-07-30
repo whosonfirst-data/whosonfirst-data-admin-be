@@ -14,7 +14,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005977,
-    "geom:area_square_m":46674947.117135,
+    "geom:area_square_m":46674947.117137,
     "geom:bbox":"5.04340376345,50.7790544051,5.15232557063,50.8846690422",
     "geom:latitude":50.835094,
     "geom:longitude":5.101172,
@@ -23,6 +23,78 @@
     "lbl:longitude":5.106506,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bre_x_preferred":[
+        "Zoutleeuw"
+    ],
+    "name:bul_x_preferred":[
+        "\u0417\u0430\u0443\u0442\u043b\u0435\u0443"
+    ],
+    "name:cat_x_preferred":[
+        "Zoutleeuw"
+    ],
+    "name:ceb_x_preferred":[
+        "Zoutleeuw"
+    ],
+    "name:deu_x_preferred":[
+        "Zoutleeuw"
+    ],
+    "name:epo_x_preferred":[
+        "Zoutleeuw"
+    ],
+    "name:eus_x_preferred":[
+        "Zoutleeuw"
+    ],
+    "name:fas_x_preferred":[
+        "\u0632\u0648\u062a\u0644\u0626\u0648"
+    ],
+    "name:fra_x_preferred":[
+        "L\u00e9au"
+    ],
+    "name:ita_x_preferred":[
+        "Zoutleeuw"
+    ],
+    "name:lim_x_preferred":[
+        "Liejef"
+    ],
+    "name:nld_x_preferred":[
+        "Zoutleeuw"
+    ],
+    "name:nor_x_preferred":[
+        "Zoutleeuw"
+    ],
+    "name:oci_x_preferred":[
+        "Zoutleeuw"
+    ],
+    "name:pol_x_preferred":[
+        "Zoutleeuw"
+    ],
+    "name:por_x_preferred":[
+        "Zoutleeuw"
+    ],
+    "name:ron_x_preferred":[
+        "Zoutleeuw"
+    ],
+    "name:slk_x_preferred":[
+        "Zoutleeuw"
+    ],
+    "name:spa_x_preferred":[
+        "Zoutleeuw"
+    ],
+    "name:swe_x_preferred":[
+        "Zoutleeuw"
+    ],
+    "name:vie_x_preferred":[
+        "Zoutleeuw"
+    ],
+    "name:vol_x_preferred":[
+        "Zoutleeuw"
+    ],
+    "name:war_x_preferred":[
+        "Zoutleeuw"
+    ],
+    "name:zho_x_preferred":[
+        "\u4f50\u7279\u83b1\u4e4c"
+    ],
     "reversegeo:latitude":50.842748,
     "reversegeo:longitude":5.106506,
     "src:geom":"begov",
@@ -50,7 +122,7 @@
         }
     ],
     "wof:id":1108830427,
-    "wof:lastmodified":1499533748,
+    "wof:lastmodified":1564162719,
     "wof:name":"Zoutleeuw",
     "wof:parent_id":102049969,
     "wof:placetype":"localadmin",

@@ -28,6 +28,30 @@
     "iso:country":"BE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bak_x_preferred":[
+        "\u0412\u0435\u043d\u0443\u0441\u0431\u0435\u0440\u0433"
+    ],
+    "name:ceb_x_preferred":[
+        "Venusberg"
+    ],
+    "name:deu_x_preferred":[
+        "Venusberg"
+    ],
+    "name:est_x_preferred":[
+        "Venusberg"
+    ],
+    "name:fra_x_preferred":[
+        "Venusberg"
+    ],
+    "name:ita_x_preferred":[
+        "Venusberg"
+    ],
+    "name:nld_x_preferred":[
+        "Venusberg"
+    ],
+    "name:swe_x_preferred":[
+        "Venusberg"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85681705,
@@ -55,7 +79,7 @@
         }
     ],
     "wof:id":1344090443,
-    "wof:lastmodified":1536831448,
+    "wof:lastmodified":1564161704,
     "wof:name":"Venusberg",
     "wof:parent_id":1108830255,
     "wof:placetype":"locality",

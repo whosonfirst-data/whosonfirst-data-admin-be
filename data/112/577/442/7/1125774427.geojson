@@ -18,6 +18,81 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bre_x_preferred":[
+        "Prouvy"
+    ],
+    "name:cat_x_preferred":[
+        "Prouvy"
+    ],
+    "name:ceb_x_preferred":[
+        "Prouvy"
+    ],
+    "name:deu_x_preferred":[
+        "Prouvy"
+    ],
+    "name:eus_x_preferred":[
+        "Prouvy"
+    ],
+    "name:fra_x_preferred":[
+        "Prouvy"
+    ],
+    "name:hun_x_preferred":[
+        "Prouvy"
+    ],
+    "name:ind_x_preferred":[
+        "Prouvy"
+    ],
+    "name:ita_x_preferred":[
+        "Prouvy"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041f\u0440\u0443\u0432\u0438"
+    ],
+    "name:lat_x_preferred":[
+        "Prouvy"
+    ],
+    "name:mlg_x_preferred":[
+        "Prouvy"
+    ],
+    "name:msa_x_preferred":[
+        "Prouvy"
+    ],
+    "name:nld_x_preferred":[
+        "Prouvy"
+    ],
+    "name:oci_x_preferred":[
+        "Prouvy"
+    ],
+    "name:pol_x_preferred":[
+        "Prouvy"
+    ],
+    "name:ron_x_preferred":[
+        "Prouvy"
+    ],
+    "name:slk_x_preferred":[
+        "Prouvy"
+    ],
+    "name:spa_x_preferred":[
+        "Prouvy"
+    ],
+    "name:swe_x_preferred":[
+        "Prouvy"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u0440\u0443\u0432\u0456"
+    ],
+    "name:vie_x_preferred":[
+        "Prouvy"
+    ],
+    "name:vol_x_preferred":[
+        "Prouvy"
+    ],
+    "name:war_x_preferred":[
+        "Prouvy"
+    ],
+    "name:zho_x_preferred":[
+        "\u666e\u9c81\u7ef4"
+    ],
     "qs_pg:aaroncc":"BE",
     "qs_pg:gn_country":"BE",
     "qs_pg:gn_fcode":"PPL",
@@ -71,7 +146,7 @@
         }
     ],
     "wof:id":1125774427,
-    "wof:lastmodified":1509391187,
+    "wof:lastmodified":1564163332,
     "wof:name":"Prouvy",
     "wof:parent_id":102049907,
     "wof:placetype":"locality",

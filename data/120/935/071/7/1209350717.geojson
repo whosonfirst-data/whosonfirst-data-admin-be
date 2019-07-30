@@ -28,6 +28,87 @@
     "iso:country":"BE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bug_x_preferred":[
+        "Villettes"
+    ],
+    "name:cat_x_preferred":[
+        "Villettes"
+    ],
+    "name:ceb_x_preferred":[
+        "Villettes"
+    ],
+    "name:deu_x_preferred":[
+        "Villettes"
+    ],
+    "name:eus_x_preferred":[
+        "Villettes"
+    ],
+    "name:fra_x_preferred":[
+        "Villettes"
+    ],
+    "name:hun_x_preferred":[
+        "Villettes"
+    ],
+    "name:ind_x_preferred":[
+        "Villettes"
+    ],
+    "name:ita_x_preferred":[
+        "Villettes"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0412\u0438\u043b\u043b\u0435\u0442\u0442"
+    ],
+    "name:lat_x_preferred":[
+        "Villettes"
+    ],
+    "name:mlg_x_preferred":[
+        "Villettes"
+    ],
+    "name:msa_x_preferred":[
+        "Villettes"
+    ],
+    "name:nld_x_preferred":[
+        "Villettes"
+    ],
+    "name:oci_x_preferred":[
+        "Villettes"
+    ],
+    "name:pms_x_preferred":[
+        "Villettes"
+    ],
+    "name:pol_x_preferred":[
+        "Villettes"
+    ],
+    "name:por_x_preferred":[
+        "Villettes"
+    ],
+    "name:ron_x_preferred":[
+        "Villettes"
+    ],
+    "name:slk_x_preferred":[
+        "Villettes"
+    ],
+    "name:spa_x_preferred":[
+        "Villettes"
+    ],
+    "name:swe_x_preferred":[
+        "Villettes"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0412\u0456\u043b\u043b\u0435\u0442\u0442"
+    ],
+    "name:vie_x_preferred":[
+        "Villettes"
+    ],
+    "name:vol_x_preferred":[
+        "Villettes"
+    ],
+    "name:war_x_preferred":[
+        "Villettes"
+    ],
+    "name:zho_x_preferred":[
+        "\u7ef4\u96f7\u7279"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632997
@@ -45,7 +126,7 @@
         }
     ],
     "wof:id":1209350717,
-    "wof:lastmodified":1536289751,
+    "wof:lastmodified":1564162364,
     "wof:name":"Villettes",
     "wof:parent_id":85632997,
     "wof:placetype":"locality",

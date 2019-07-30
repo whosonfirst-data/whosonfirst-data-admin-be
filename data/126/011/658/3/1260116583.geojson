@@ -28,6 +28,9 @@
     "iso:country":"BE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:nld_x_preferred":[
+        "Kortekeer"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85681709,
@@ -55,7 +58,7 @@
         }
     ],
     "wof:id":1260116583,
-    "wof:lastmodified":1536941008,
+    "wof:lastmodified":1564162543,
     "wof:name":"Kortekeer",
     "wof:parent_id":1108830041,
     "wof:placetype":"locality",

@@ -28,6 +28,18 @@
     "iso:country":"BE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Heikant"
+    ],
+    "name:nld_x_preferred":[
+        "Heikant"
+    ],
+    "name:por_x_preferred":[
+        "Heikant"
+    ],
+    "name:spa_x_preferred":[
+        "Heikant"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85681705,
@@ -55,7 +67,7 @@
         }
     ],
     "wof:id":1243298149,
-    "wof:lastmodified":1537018480,
+    "wof:lastmodified":1564163518,
     "wof:name":"Heikant",
     "wof:parent_id":1108830075,
     "wof:placetype":"locality",

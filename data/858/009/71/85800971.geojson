@@ -24,6 +24,9 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":5,
     "mz:tier_metro":30,
+    "name:ceb_x_preferred":[
+        "Broek"
+    ],
     "name:deu_x_preferred":[
         "Broek"
     ],
@@ -105,7 +108,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1527640603,
+    "wof:lastmodified":1564161859,
     "wof:name":"Broek",
     "wof:parent_id":101751573,
     "wof:placetype":"neighbourhood",

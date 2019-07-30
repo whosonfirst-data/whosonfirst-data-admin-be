@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000874,
-    "geom:area_square_m":6878632.727315,
+    "geom:area_square_m":6878632.727312,
     "geom:bbox":"4.5736842858,50.4418854032,4.64625511143,50.4807941462",
     "geom:latitude":50.461194,
     "geom:longitude":4.613798,
@@ -15,6 +15,16 @@
     "mps:latitude":50.463659,
     "mps:longitude":4.61582,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Velaine"
+    ],
+    "name:fra_x_preferred":[
+        "Velaine"
+    ],
+    "name:swe_x_preferred":[
+        "Velaine"
+    ],
     "qs:a0":"Belgi\u00eb#Belgique#Belgien",
     "qs:a1":"*Namur",
     "qs:a1r":"0R\u00e9gion wallone",
@@ -60,7 +70,7 @@
         }
     ],
     "wof:id":101755091,
-    "wof:lastmodified":1497290881,
+    "wof:lastmodified":1564163072,
     "wof:name":"Velaine",
     "wof:parent_id":102049931,
     "wof:placetype":"locality",

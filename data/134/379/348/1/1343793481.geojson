@@ -28,8 +28,17 @@
     "iso:country":"BE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Pironchamps"
+    ],
+    "name:nld_x_preferred":[
+        "Pironchamps"
+    ],
     "name:und_x_variant":[
         "Farciennes (Pironchamps)"
+    ],
+    "name:wln_x_preferred":[
+        "Pirontchamp"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":1343793481,
-    "wof:lastmodified":1537586944,
+    "wof:lastmodified":1564161713,
     "wof:name":"Pironchamps",
     "wof:parent_id":102049927,
     "wof:placetype":"locality",

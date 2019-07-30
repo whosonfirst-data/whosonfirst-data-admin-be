@@ -21,15 +21,21 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":14.0,
     "mz:tier_metro":30,
+    "name:nld_x_preferred":[
+        "Zandvliet"
+    ],
+    "name:spa_x_preferred":[
+        "Santvliet"
+    ],
     "src:lbl:centroid":"mz",
     "wof:belongsto":[
-        85681715,
         102191581,
         1108830423,
         85632997,
         404227357,
         101839063,
-        102050005
+        102050005,
+        85681715
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":1108938341,
-    "wof:lastmodified":1499531101,
+    "wof:lastmodified":1564162583,
     "wof:name":"Zandvliet",
     "wof:parent_id":101839063,
     "wof:placetype":"neighbourhood",

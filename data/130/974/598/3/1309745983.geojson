@@ -28,6 +28,15 @@
     "iso:country":"BE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Hampteau"
+    ],
+    "name:nld_x_preferred":[
+        "Hampteau"
+    ],
+    "name:wln_x_preferred":[
+        "Hamtea"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85681693,
@@ -53,7 +62,7 @@
         }
     ],
     "wof:id":1309745983,
-    "wof:lastmodified":1537016736,
+    "wof:lastmodified":1564163184,
     "wof:name":"Hampteau",
     "wof:parent_id":102049945,
     "wof:placetype":"locality",

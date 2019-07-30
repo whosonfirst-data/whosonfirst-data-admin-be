@@ -28,6 +28,12 @@
     "iso:country":"BE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Vervoz"
+    ],
+    "name:lim_x_preferred":[
+        "Vervoz"
+    ],
     "name:und_x_variant":[
         "Vervox",
         "Vervoz"
@@ -58,7 +64,7 @@
         }
     ],
     "wof:id":1310140497,
-    "wof:lastmodified":1537586893,
+    "wof:lastmodified":1564162895,
     "wof:name":"Vervoz",
     "wof:parent_id":102049925,
     "wof:placetype":"locality",

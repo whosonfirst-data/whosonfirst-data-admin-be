@@ -14,7 +14,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002549,
-    "geom:area_square_m":19851413.361735,
+    "geom:area_square_m":19851413.361737,
     "geom:bbox":"4.14282869744,50.9319836743,4.22528864091,50.9891236293",
     "geom:latitude":50.962478,
     "geom:longitude":4.180778,
@@ -23,6 +23,84 @@
     "lbl:longitude":4.173306,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bre_x_preferred":[
+        "Opwijk"
+    ],
+    "name:bul_x_preferred":[
+        "\u041e\u043f\u0432\u0435\u0439\u043a"
+    ],
+    "name:cat_x_preferred":[
+        "Opwijk"
+    ],
+    "name:ceb_x_preferred":[
+        "Opwijk"
+    ],
+    "name:deu_x_preferred":[
+        "Opwijk"
+    ],
+    "name:epo_x_preferred":[
+        "Opwijk"
+    ],
+    "name:eus_x_preferred":[
+        "Opwijk"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0648\u067e\u0648\u0626\u06cc\u0698\u06a9"
+    ],
+    "name:fra_x_preferred":[
+        "Opwijk"
+    ],
+    "name:ita_x_preferred":[
+        "Opwijk"
+    ],
+    "name:nld_x_preferred":[
+        "Opwijk"
+    ],
+    "name:nor_x_preferred":[
+        "Opwijk"
+    ],
+    "name:oci_x_preferred":[
+        "Opwijk"
+    ],
+    "name:pol_x_preferred":[
+        "Opwijk"
+    ],
+    "name:por_x_preferred":[
+        "Opwijk"
+    ],
+    "name:ron_x_preferred":[
+        "Opwijk"
+    ],
+    "name:slk_x_preferred":[
+        "Opwijk"
+    ],
+    "name:spa_x_preferred":[
+        "Opwijk"
+    ],
+    "name:sqi_x_preferred":[
+        "Opwijk"
+    ],
+    "name:swe_x_preferred":[
+        "Opwijk"
+    ],
+    "name:szl_x_preferred":[
+        "Opwijk"
+    ],
+    "name:tur_x_preferred":[
+        "Opwijk"
+    ],
+    "name:vie_x_preferred":[
+        "Opwijk"
+    ],
+    "name:vol_x_preferred":[
+        "Opwijk"
+    ],
+    "name:war_x_preferred":[
+        "Opwijk"
+    ],
+    "name:zho_x_preferred":[
+        "\u5965\u666e\u97e6\u514b"
+    ],
     "reversegeo:latitude":50.966664,
     "reversegeo:longitude":4.173306,
     "src:geom":"begov",
@@ -50,7 +128,7 @@
         }
     ],
     "wof:id":1108830247,
-    "wof:lastmodified":1499533519,
+    "wof:lastmodified":1564162584,
     "wof:name":"Opwijk",
     "wof:parent_id":102049973,
     "wof:placetype":"localadmin",

@@ -14,7 +14,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004763,
-    "geom:area_square_m":37094644.033345,
+    "geom:area_square_m":37094644.033341,
     "geom:bbox":"4.66997677225,50.9284386379,4.80336897118,50.9862862447",
     "geom:latitude":50.959559,
     "geom:longitude":4.732274,
@@ -23,6 +23,75 @@
     "lbl:longitude":4.732273,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bre_x_preferred":[
+        "Rotselaar"
+    ],
+    "name:bul_x_preferred":[
+        "\u0420\u043e\u0442\u0441\u0435\u043b\u0430\u0440"
+    ],
+    "name:cat_x_preferred":[
+        "Rotselaar"
+    ],
+    "name:ceb_x_preferred":[
+        "Rotselaar"
+    ],
+    "name:deu_x_preferred":[
+        "Rotselaar"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a1\u03cc\u03c4\u03c3\u03b5\u03bb\u03b1\u03c1"
+    ],
+    "name:epo_x_preferred":[
+        "Rotselaar"
+    ],
+    "name:eus_x_preferred":[
+        "Rotselaar"
+    ],
+    "name:fas_x_preferred":[
+        "\u0631\u0648\u062a\u0633\u0648\u0644\u0631"
+    ],
+    "name:fra_x_preferred":[
+        "Rotselaar"
+    ],
+    "name:ita_x_preferred":[
+        "Rotselaar"
+    ],
+    "name:nld_x_preferred":[
+        "Rotselaar"
+    ],
+    "name:nor_x_preferred":[
+        "Rotselaar"
+    ],
+    "name:oci_x_preferred":[
+        "Rotselaar"
+    ],
+    "name:por_x_preferred":[
+        "Rotselaar"
+    ],
+    "name:ron_x_preferred":[
+        "Rotselaar"
+    ],
+    "name:slk_x_preferred":[
+        "Rotselaar"
+    ],
+    "name:spa_x_preferred":[
+        "Rotselaar"
+    ],
+    "name:swe_x_preferred":[
+        "Rotselaar"
+    ],
+    "name:vie_x_preferred":[
+        "Rotselaar"
+    ],
+    "name:vol_x_preferred":[
+        "Rotselaar"
+    ],
+    "name:war_x_preferred":[
+        "Rotselaar"
+    ],
+    "name:zho_x_preferred":[
+        "\u7f57\u7b56\u62c9\u5c14"
+    ],
     "reversegeo:latitude":50.961411,
     "reversegeo:longitude":4.732273,
     "src:geom":"begov",
@@ -50,7 +119,7 @@
         }
     ],
     "wof:id":1108830325,
-    "wof:lastmodified":1499533613,
+    "wof:lastmodified":1564162793,
     "wof:name":"Rotselaar",
     "wof:parent_id":102049969,
     "wof:placetype":"localadmin",

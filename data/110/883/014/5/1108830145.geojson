@@ -14,7 +14,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002013,
-    "geom:area_square_m":15645213.869057,
+    "geom:area_square_m":15645213.869055,
     "geom:bbox":"4.18698958388,51.0317388734,4.27510888696,51.078352973",
     "geom:latitude":51.051138,
     "geom:longitude":4.230962,
@@ -23,6 +23,78 @@
     "lbl:longitude":4.238977,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bre_x_preferred":[
+        "Sint-Amands"
+    ],
+    "name:bul_x_preferred":[
+        "\u0421\u0438\u043d\u0442 \u0410\u043c\u0430\u043d\u0434\u0441"
+    ],
+    "name:cat_x_preferred":[
+        "Sint-Amands"
+    ],
+    "name:ceb_x_preferred":[
+        "Sint-Amands"
+    ],
+    "name:deu_x_preferred":[
+        "Sint-Amands"
+    ],
+    "name:epo_x_preferred":[
+        "Sint-Amands"
+    ],
+    "name:eus_x_preferred":[
+        "Sint-Amands"
+    ],
+    "name:fas_x_preferred":[
+        "\u0633\u0646-\u0627\u0645\u0627\u0646"
+    ],
+    "name:fin_x_preferred":[
+        "Sint-Amands"
+    ],
+    "name:fra_x_preferred":[
+        "Saint-Amand"
+    ],
+    "name:ita_x_preferred":[
+        "Sint-Amands"
+    ],
+    "name:nld_x_preferred":[
+        "Sint-Amands"
+    ],
+    "name:nor_x_preferred":[
+        "Sint-Amands"
+    ],
+    "name:oci_x_preferred":[
+        "Sint-Amands"
+    ],
+    "name:pol_x_preferred":[
+        "Sint-Amands"
+    ],
+    "name:por_x_preferred":[
+        "Sint-Amands"
+    ],
+    "name:ron_x_preferred":[
+        "Sint-Amands"
+    ],
+    "name:slk_x_preferred":[
+        "Sint-Amands"
+    ],
+    "name:spa_x_preferred":[
+        "Sint-Amands"
+    ],
+    "name:swe_x_preferred":[
+        "Sint-Amands"
+    ],
+    "name:vie_x_preferred":[
+        "Sint-Amands"
+    ],
+    "name:vol_x_preferred":[
+        "Sint-Amands"
+    ],
+    "name:war_x_preferred":[
+        "Sint-Amands"
+    ],
+    "name:zho_x_preferred":[
+        "\u5723\u963f\u66fc\u5179"
+    ],
     "reversegeo:latitude":51.055577,
     "reversegeo:longitude":4.238977,
     "src:geom":"begov",
@@ -50,7 +122,7 @@
         }
     ],
     "wof:id":1108830145,
-    "wof:lastmodified":1499533399,
+    "wof:lastmodified":1564162616,
     "wof:name":"Sint-Amands",
     "wof:parent_id":102049985,
     "wof:placetype":"localadmin",

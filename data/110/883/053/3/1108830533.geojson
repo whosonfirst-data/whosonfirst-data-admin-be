@@ -23,6 +23,78 @@
     "lbl:longitude":3.459407,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bre_x_preferred":[
+        "Knesselare"
+    ],
+    "name:bul_x_preferred":[
+        "\u041a\u043d\u0435\u0441\u0435\u043b\u0430\u0440\u0435"
+    ],
+    "name:cat_x_preferred":[
+        "Knesselare"
+    ],
+    "name:ceb_x_preferred":[
+        "Knesselare"
+    ],
+    "name:deu_x_preferred":[
+        "Knesselare"
+    ],
+    "name:epo_x_preferred":[
+        "Knesselare"
+    ],
+    "name:est_x_preferred":[
+        "Knesselare vald"
+    ],
+    "name:eus_x_preferred":[
+        "Knesselare"
+    ],
+    "name:fas_x_preferred":[
+        "\u06a9\u0646\u0633\u0648\u0644\u0631"
+    ],
+    "name:fra_x_preferred":[
+        "Knesselare"
+    ],
+    "name:ita_x_preferred":[
+        "Knesselare"
+    ],
+    "name:nld_x_preferred":[
+        "Knesselare"
+    ],
+    "name:nor_x_preferred":[
+        "Knesselare"
+    ],
+    "name:oci_x_preferred":[
+        "Knesselare"
+    ],
+    "name:pol_x_preferred":[
+        "Knesselare"
+    ],
+    "name:por_x_preferred":[
+        "Knesselare"
+    ],
+    "name:ron_x_preferred":[
+        "Knesselare"
+    ],
+    "name:slk_x_preferred":[
+        "Knesselare"
+    ],
+    "name:spa_x_preferred":[
+        "Knesselare"
+    ],
+    "name:swe_x_preferred":[
+        "Knesselare"
+    ],
+    "name:vie_x_preferred":[
+        "Knesselare"
+    ],
+    "name:vol_x_preferred":[
+        "Knesselare"
+    ],
+    "name:war_x_preferred":[
+        "Knesselare"
+    ],
+    "name:zho_x_preferred":[
+        "\u514b\u5185\u745f\u62c9\u52d2"
+    ],
     "reversegeo:latitude":51.133701,
     "reversegeo:longitude":3.459407,
     "src:geom":"begov",
@@ -50,7 +122,7 @@
         }
     ],
     "wof:id":1108830533,
-    "wof:lastmodified":1499533855,
+    "wof:lastmodified":1564162655,
     "wof:name":"Knesselare",
     "wof:parent_id":102049989,
     "wof:placetype":"localadmin",

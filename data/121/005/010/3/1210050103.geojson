@@ -28,6 +28,9 @@
     "iso:country":"BE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:nor_x_preferred":[
+        "Stene"
+    ],
     "name:und_x_variant":[
         "Steene",
         "Stene"
@@ -59,7 +62,7 @@
         }
     ],
     "wof:id":1210050103,
-    "wof:lastmodified":1537586909,
+    "wof:lastmodified":1564162464,
     "wof:name":"Stene",
     "wof:parent_id":1108830445,
     "wof:placetype":"locality",

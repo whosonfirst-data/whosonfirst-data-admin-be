@@ -28,6 +28,9 @@
     "iso:country":"BE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Beurre"
+    ],
     "name:und_x_variant":[
         "Beurre-sans-Cro\u00fbte",
         "Beurre"
@@ -57,7 +60,7 @@
         }
     ],
     "wof:id":1225979303,
-    "wof:lastmodified":1537587077,
+    "wof:lastmodified":1564163714,
     "wof:name":"Beurre",
     "wof:parent_id":102049927,
     "wof:placetype":"locality",

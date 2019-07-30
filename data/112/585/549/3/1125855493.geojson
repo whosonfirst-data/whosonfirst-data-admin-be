@@ -18,6 +18,69 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bre_x_preferred":[
+        "Dommartin"
+    ],
+    "name:ceb_x_preferred":[
+        "Dommartin"
+    ],
+    "name:deu_x_preferred":[
+        "Dommartin"
+    ],
+    "name:eus_x_preferred":[
+        "Dommartin"
+    ],
+    "name:fra_x_preferred":[
+        "Dommartin"
+    ],
+    "name:hun_x_preferred":[
+        "Dommartin"
+    ],
+    "name:ita_x_preferred":[
+        "Dommartin"
+    ],
+    "name:lmo_x_preferred":[
+        "Dommartin"
+    ],
+    "name:nds_x_preferred":[
+        "Dommartin"
+    ],
+    "name:nld_x_preferred":[
+        "Dommartin"
+    ],
+    "name:oci_x_preferred":[
+        "Dommartin"
+    ],
+    "name:pms_x_preferred":[
+        "Dommartin"
+    ],
+    "name:pol_x_preferred":[
+        "Dommartin"
+    ],
+    "name:por_x_preferred":[
+        "Dommartin"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u043e\u043c\u043c\u0430\u0440\u0442\u0435\u043d"
+    ],
+    "name:slk_x_preferred":[
+        "Dommartin"
+    ],
+    "name:spa_x_preferred":[
+        "Dommartin"
+    ],
+    "name:srp_x_preferred":[
+        "\u0414\u043e\u043c\u0430\u0440\u0442\u0435\u043d"
+    ],
+    "name:swe_x_preferred":[
+        "Dommartin"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0414\u043e\u043c\u043c\u0430\u0440\u0442\u0435\u043d"
+    ],
+    "name:uzb_x_preferred":[
+        "Dommartin"
+    ],
     "qs_pg:aaroncc":"BE",
     "qs_pg:gn_country":"BE",
     "qs_pg:gn_fcode":"PPL",
@@ -71,7 +134,7 @@
         }
     ],
     "wof:id":1125855493,
-    "wof:lastmodified":1509396184,
+    "wof:lastmodified":1564163304,
     "wof:name":"Dommartin",
     "wof:parent_id":102049937,
     "wof:placetype":"locality",

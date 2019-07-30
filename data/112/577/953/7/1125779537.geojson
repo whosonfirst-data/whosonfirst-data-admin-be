@@ -18,6 +18,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:nor_x_preferred":[
+        "Stene"
+    ],
     "name:unk_x_variant":[
         "Steene"
     ],
@@ -76,7 +79,7 @@
         }
     ],
     "wof:id":1125779537,
-    "wof:lastmodified":1509391472,
+    "wof:lastmodified":1564163322,
     "wof:name":"Stene",
     "wof:parent_id":1108830687,
     "wof:placetype":"locality",

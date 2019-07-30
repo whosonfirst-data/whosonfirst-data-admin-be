@@ -14,7 +14,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009703,
-    "geom:area_square_m":75712991.468832,
+    "geom:area_square_m":75712991.468839,
     "geom:bbox":"5.44055654468,50.8163528435,5.62501195557,50.9226432213",
     "geom:latitude":50.872101,
     "geom:longitude":5.533639,
@@ -23,6 +23,108 @@
     "lbl:longitude":5.535029,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:afr_x_preferred":[
+        "Bilzen"
+    ],
+    "name:bre_x_preferred":[
+        "Bilzen"
+    ],
+    "name:bul_x_preferred":[
+        "\u0411\u0438\u043b\u0437\u0435\u043d"
+    ],
+    "name:cat_x_preferred":[
+        "Bilzen"
+    ],
+    "name:ceb_x_preferred":[
+        "Bilzen"
+    ],
+    "name:deu_x_preferred":[
+        "Bilzen"
+    ],
+    "name:epo_x_preferred":[
+        "Bilzen"
+    ],
+    "name:eus_x_preferred":[
+        "Bilzen"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u06cc\u0644\u0632\u0627\u0646"
+    ],
+    "name:fra_x_preferred":[
+        "Bilzen"
+    ],
+    "name:gle_x_preferred":[
+        "Bilzen"
+    ],
+    "name:hun_x_preferred":[
+        "Bilzen"
+    ],
+    "name:ita_x_preferred":[
+        "Bilzen"
+    ],
+    "name:lim_x_preferred":[
+        "Bilze"
+    ],
+    "name:ltz_x_preferred":[
+        "Bilzen"
+    ],
+    "name:nld_x_preferred":[
+        "Bilzen"
+    ],
+    "name:nor_x_preferred":[
+        "Bilzen"
+    ],
+    "name:oci_x_preferred":[
+        "Bilzen"
+    ],
+    "name:pol_x_preferred":[
+        "Bilzen"
+    ],
+    "name:por_x_preferred":[
+        "Bilzen"
+    ],
+    "name:ron_x_preferred":[
+        "Bilzen"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0438\u043b\u0437\u0435\u043d"
+    ],
+    "name:slk_x_preferred":[
+        "Bilzen"
+    ],
+    "name:spa_x_preferred":[
+        "Bilzen"
+    ],
+    "name:srp_x_preferred":[
+        "\u0411\u0438\u043b\u0437\u0435\u043d"
+    ],
+    "name:swa_x_preferred":[
+        "Bilzen"
+    ],
+    "name:swe_x_preferred":[
+        "Bilzen"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e34\u0e25\u0e40\u0e0b\u0e34\u0e19"
+    ],
+    "name:tur_x_preferred":[
+        "Bilzen"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0456\u043b\u0437\u0435\u043d"
+    ],
+    "name:vie_x_preferred":[
+        "Bilzen"
+    ],
+    "name:vol_x_preferred":[
+        "Bilzen"
+    ],
+    "name:war_x_preferred":[
+        "Bilzen"
+    ],
+    "name:zho_x_preferred":[
+        "\u6bd4\u5c14\u66fe"
+    ],
     "reversegeo:latitude":50.867406,
     "reversegeo:longitude":5.535029,
     "src:geom":"begov",
@@ -50,7 +152,7 @@
         }
     ],
     "wof:id":1108830245,
-    "wof:lastmodified":1504820479,
+    "wof:lastmodified":1564162587,
     "wof:name":"Bilzen",
     "wof:parent_id":1108782563,
     "wof:placetype":"localadmin",

@@ -14,7 +14,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005992,
-    "geom:area_square_m":46673685.186567,
+    "geom:area_square_m":46673685.186566,
     "geom:bbox":"2.95897863995,50.9160922562,3.08832405149,50.9993665416",
     "geom:latitude":50.953752,
     "geom:longitude":3.018921,
@@ -23,6 +23,90 @@
     "lbl:longitude":3.007241,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bre_x_preferred":[
+        "Staden"
+    ],
+    "name:bul_x_preferred":[
+        "\u0421\u0442\u0430\u0434\u0435\u043d"
+    ],
+    "name:cat_x_preferred":[
+        "Staden"
+    ],
+    "name:ceb_x_preferred":[
+        "Staden"
+    ],
+    "name:deu_x_preferred":[
+        "Staden"
+    ],
+    "name:epo_x_preferred":[
+        "Staden"
+    ],
+    "name:est_x_preferred":[
+        "Staden"
+    ],
+    "name:eus_x_preferred":[
+        "Staden"
+    ],
+    "name:fas_x_preferred":[
+        "\u0633\u062a\u062f\u0627\u0646"
+    ],
+    "name:fra_x_preferred":[
+        "Staden"
+    ],
+    "name:hun_x_preferred":[
+        "Staden"
+    ],
+    "name:ita_x_preferred":[
+        "Staden"
+    ],
+    "name:lim_x_preferred":[
+        "Staden"
+    ],
+    "name:ltz_x_preferred":[
+        "Staden"
+    ],
+    "name:nld_x_preferred":[
+        "Staden"
+    ],
+    "name:nor_x_preferred":[
+        "Staden"
+    ],
+    "name:oci_x_preferred":[
+        "Staden"
+    ],
+    "name:pol_x_preferred":[
+        "Staden"
+    ],
+    "name:por_x_preferred":[
+        "Staden"
+    ],
+    "name:ron_x_preferred":[
+        "Staden"
+    ],
+    "name:slk_x_preferred":[
+        "Staden"
+    ],
+    "name:spa_x_preferred":[
+        "Staden"
+    ],
+    "name:swe_x_preferred":[
+        "Staden"
+    ],
+    "name:vie_x_preferred":[
+        "Staden"
+    ],
+    "name:vls_x_preferred":[
+        "Stoan"
+    ],
+    "name:vol_x_preferred":[
+        "Staden"
+    ],
+    "name:war_x_preferred":[
+        "Staden"
+    ],
+    "name:zho_x_preferred":[
+        "\u65af\u5854\u767b"
+    ],
     "reversegeo:latitude":50.955347,
     "reversegeo:longitude":3.007241,
     "src:geom":"begov",
@@ -50,7 +134,7 @@
         }
     ],
     "wof:id":1108830315,
-    "wof:lastmodified":1499533605,
+    "wof:lastmodified":1564162679,
     "wof:name":"Staden",
     "wof:parent_id":102049977,
     "wof:placetype":"localadmin",

@@ -28,6 +28,93 @@
     "iso:country":"BE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bug_x_preferred":[
+        "Neufmoulin"
+    ],
+    "name:cat_x_preferred":[
+        "Neufmoulin"
+    ],
+    "name:ceb_x_preferred":[
+        "Neufmoulin"
+    ],
+    "name:deu_x_preferred":[
+        "Neufmoulin"
+    ],
+    "name:eus_x_preferred":[
+        "Neufmoulin"
+    ],
+    "name:fra_x_preferred":[
+        "Neufmoulin"
+    ],
+    "name:hun_x_preferred":[
+        "Neufmoulin"
+    ],
+    "name:hye_x_preferred":[
+        "\u0546\u0565\u0586\u0574\u0578\u0582\u056c\u0565\u0576"
+    ],
+    "name:ita_x_preferred":[
+        "Neufmoulin"
+    ],
+    "name:lat_x_preferred":[
+        "Neufmoulin"
+    ],
+    "name:ltz_x_preferred":[
+        "Neufmoulin"
+    ],
+    "name:mlg_x_preferred":[
+        "Neufmoulin"
+    ],
+    "name:msa_x_preferred":[
+        "Neufmoulin"
+    ],
+    "name:nld_x_preferred":[
+        "Neufmoulin"
+    ],
+    "name:oci_x_preferred":[
+        "Neufmoulin"
+    ],
+    "name:pcd_x_preferred":[
+        "Neumolin"
+    ],
+    "name:pms_x_preferred":[
+        "Neufmoulin"
+    ],
+    "name:pol_x_preferred":[
+        "Neufmoulin"
+    ],
+    "name:por_x_preferred":[
+        "Neufmoulin"
+    ],
+    "name:ron_x_preferred":[
+        "Neufmoulin"
+    ],
+    "name:slk_x_preferred":[
+        "Neufmoulin"
+    ],
+    "name:spa_x_preferred":[
+        "Neufmoulin"
+    ],
+    "name:swe_x_preferred":[
+        "Neufmoulin"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041d\u0435\u0444\u043c\u0443\u043b\u0435\u043d"
+    ],
+    "name:uzb_x_preferred":[
+        "Neufmoulin"
+    ],
+    "name:vie_x_preferred":[
+        "Neufmoulin"
+    ],
+    "name:vol_x_preferred":[
+        "Neufmoulin"
+    ],
+    "name:war_x_preferred":[
+        "Neufmoulin"
+    ],
+    "name:zho_x_preferred":[
+        "\u8bb7\u592b\u7a46\u5170"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85681727,
@@ -53,7 +140,7 @@
         }
     ],
     "wof:id":1259714417,
-    "wof:lastmodified":1537021657,
+    "wof:lastmodified":1564163570,
     "wof:name":"Neufmoulin",
     "wof:parent_id":102049913,
     "wof:placetype":"locality",

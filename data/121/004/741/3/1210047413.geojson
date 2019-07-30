@@ -28,9 +28,99 @@
     "iso:country":"BE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bre_x_preferred":[
+        "Jabbeke"
+    ],
+    "name:bul_x_preferred":[
+        "\u042f\u0431\u0435\u043a\u0435"
+    ],
+    "name:cat_x_preferred":[
+        "Jabbeke"
+    ],
+    "name:ceb_x_preferred":[
+        "Jabbeke"
+    ],
+    "name:deu_x_preferred":[
+        "Jabbeke"
+    ],
+    "name:epo_x_preferred":[
+        "Jabbeke"
+    ],
+    "name:est_x_preferred":[
+        "Jabbeke"
+    ],
+    "name:eus_x_preferred":[
+        "Jabbeke"
+    ],
+    "name:fas_x_preferred":[
+        "\u0698\u0628\u0648\u06a9"
+    ],
+    "name:fin_x_preferred":[
+        "Jabbeke"
+    ],
+    "name:fra_x_preferred":[
+        "Jabbeke"
+    ],
+    "name:ita_x_preferred":[
+        "Jabbeke"
+    ],
+    "name:lat_x_preferred":[
+        "Iadbeca"
+    ],
+    "name:lim_x_preferred":[
+        "Jabbeke"
+    ],
+    "name:nld_x_preferred":[
+        "Jabbeke"
+    ],
+    "name:nor_x_preferred":[
+        "Jabbeke"
+    ],
+    "name:oci_x_preferred":[
+        "Jabbeke"
+    ],
+    "name:pol_x_preferred":[
+        "Jabbeke"
+    ],
+    "name:por_x_preferred":[
+        "Jabbeke"
+    ],
+    "name:ron_x_preferred":[
+        "Jabbeke"
+    ],
+    "name:sco_x_preferred":[
+        "Jabbeke"
+    ],
+    "name:slk_x_preferred":[
+        "Jabbeke"
+    ],
+    "name:spa_x_preferred":[
+        "Jabbeke"
+    ],
+    "name:swe_x_preferred":[
+        "Jabbeke"
+    ],
     "name:und_x_variant":[
         "Jabeke",
         "Jabbeke"
+    ],
+    "name:urd_x_preferred":[
+        "\u062c\u0628\u0628\u06a9\u06d2"
+    ],
+    "name:vie_x_preferred":[
+        "Jabbeke"
+    ],
+    "name:vls_x_preferred":[
+        "Jabbeke"
+    ],
+    "name:vol_x_preferred":[
+        "Jabbeke"
+    ],
+    "name:war_x_preferred":[
+        "Jabbeke"
+    ],
+    "name:zho_x_preferred":[
+        "\u4e9a\u8d1d\u514b"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -59,7 +149,7 @@
         }
     ],
     "wof:id":1210047413,
-    "wof:lastmodified":1537587008,
+    "wof:lastmodified":1564162455,
     "wof:name":"Jabbeke",
     "wof:parent_id":1108830329,
     "wof:placetype":"locality",

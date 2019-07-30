@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":19869019.249903,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.573787,50.54351,5.573787,50.54351",
     "geom:latitude":50.54351,
     "geom:longitude":5.573787,
@@ -50,13 +50,58 @@
     "name:lat_x_preferred":[
         "M\u00e9ry"
     ],
+    "name:lat_x_variant":[
+        "Meris"
+    ],
     "name:lmo_x_preferred":[
+        "M\u00e9ry"
+    ],
+    "name:msa_x_preferred":[
+        "M\u00e9ry"
+    ],
+    "name:nld_x_preferred":[
+        "M\u00e9ry"
+    ],
+    "name:oci_x_preferred":[
+        "M\u00e9ry"
+    ],
+    "name:pms_x_preferred":[
+        "M\u00e9ry"
+    ],
+    "name:pol_x_preferred":[
+        "M\u00e9ry"
+    ],
+    "name:por_x_preferred":[
+        "M\u00e9ry"
+    ],
+    "name:ron_x_preferred":[
+        "M\u00e9ry"
+    ],
+    "name:slk_x_preferred":[
         "M\u00e9ry"
     ],
     "name:spa_x_preferred":[
         "M\u00e9ry"
     ],
+    "name:swe_x_preferred":[
+        "M\u00e9ry"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0435\u0440\u0456"
+    ],
     "name:unk_x_variant":[
+        "M\u00e9ry"
+    ],
+    "name:uzb_x_preferred":[
+        "M\u00e9ry"
+    ],
+    "name:vie_x_preferred":[
+        "M\u00e9ry"
+    ],
+    "name:vol_x_preferred":[
+        "M\u00e9ry"
+    ],
+    "name:war_x_preferred":[
         "M\u00e9ry"
     ],
     "qs:gn_adm0_cc":"BE",
@@ -91,12 +136,12 @@
     ],
     "src:lbl:centroid":"yerbashapes",
     "wof:belongsto":[
-        85681691,
         102191581,
         85632997,
         404227353,
         101755185,
-        102049941
+        102049941,
+        85681691
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -122,7 +167,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1531862089,
+    "wof:lastmodified":1564161866,
     "wof:name":"M\u00e9ry",
     "wof:parent_id":101755185,
     "wof:placetype":"neighbourhood",

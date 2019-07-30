@@ -14,7 +14,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00317,
-    "geom:area_square_m":24737981.380675,
+    "geom:area_square_m":24737981.380676,
     "geom:bbox":"3.09452566145,50.84763636,3.20886922287,50.892702549",
     "geom:latitude":50.871828,
     "geom:longitude":3.149238,
@@ -23,6 +23,87 @@
     "lbl:longitude":3.136743,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bre_x_preferred":[
+        "Ledegem"
+    ],
+    "name:bul_x_preferred":[
+        "\u041b\u0435\u0434\u0435\u0433\u0435\u043c"
+    ],
+    "name:cat_x_preferred":[
+        "Ledegem"
+    ],
+    "name:ceb_x_preferred":[
+        "Ledegem"
+    ],
+    "name:ces_x_preferred":[
+        "Ledegem"
+    ],
+    "name:deu_x_preferred":[
+        "Ledegem"
+    ],
+    "name:epo_x_preferred":[
+        "Ledegem"
+    ],
+    "name:est_x_preferred":[
+        "Ledegem"
+    ],
+    "name:eus_x_preferred":[
+        "Ledegem"
+    ],
+    "name:fas_x_preferred":[
+        "\u0644\u0627\u062f\u0648\u0698\u0645"
+    ],
+    "name:fra_x_preferred":[
+        "Ledegem"
+    ],
+    "name:ita_x_preferred":[
+        "Ledegem"
+    ],
+    "name:lim_x_preferred":[
+        "Ledegem"
+    ],
+    "name:nld_x_preferred":[
+        "Ledegem"
+    ],
+    "name:nor_x_preferred":[
+        "Ledegem"
+    ],
+    "name:oci_x_preferred":[
+        "Ledegem"
+    ],
+    "name:pol_x_preferred":[
+        "Ledegem"
+    ],
+    "name:por_x_preferred":[
+        "Ledegem"
+    ],
+    "name:ron_x_preferred":[
+        "Ledegem"
+    ],
+    "name:slk_x_preferred":[
+        "Ledegem"
+    ],
+    "name:spa_x_preferred":[
+        "Ledegem"
+    ],
+    "name:swe_x_preferred":[
+        "Ledegem"
+    ],
+    "name:vie_x_preferred":[
+        "Ledegem"
+    ],
+    "name:vls_x_preferred":[
+        "Legem"
+    ],
+    "name:vol_x_preferred":[
+        "Ledegem"
+    ],
+    "name:war_x_preferred":[
+        "Ledegem"
+    ],
+    "name:zho_x_preferred":[
+        "\u83b1\u5fb7\u6d77\u59c6"
+    ],
     "reversegeo:latitude":50.869351,
     "reversegeo:longitude":3.136743,
     "src:geom":"begov",
@@ -50,7 +131,7 @@
         }
     ],
     "wof:id":1108830277,
-    "wof:lastmodified":1499533553,
+    "wof:lastmodified":1564162731,
     "wof:name":"Ledegem",
     "wof:parent_id":102049977,
     "wof:placetype":"localadmin",

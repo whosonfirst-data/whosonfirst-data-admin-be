@@ -28,6 +28,9 @@
     "iso:country":"BE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Petit Wasmes"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85681723,
@@ -54,7 +57,7 @@
         }
     ],
     "wof:id":1293421045,
-    "wof:lastmodified":1537487539,
+    "wof:lastmodified":1564162040,
     "wof:name":"Petit Wasmes",
     "wof:parent_id":102049933,
     "wof:placetype":"locality",

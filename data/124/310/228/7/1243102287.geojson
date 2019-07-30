@@ -28,6 +28,87 @@
     "iso:country":"BE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:afr_x_preferred":[
+        "Alster"
+    ],
+    "name:ara_x_preferred":[
+        "\u0623\u0644\u0633\u062a\u0631"
+    ],
+    "name:bos_x_preferred":[
+        "Alster"
+    ],
+    "name:cat_x_preferred":[
+        "Alster"
+    ],
+    "name:ceb_x_preferred":[
+        "Alster"
+    ],
+    "name:ces_x_preferred":[
+        "Alstera"
+    ],
+    "name:dan_x_preferred":[
+        "Alster"
+    ],
+    "name:deu_x_preferred":[
+        "Alster"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0644\u0633\u062a\u0631"
+    ],
+    "name:fin_x_preferred":[
+        "Alster"
+    ],
+    "name:fra_x_preferred":[
+        "Rivi\u00e8re Alster"
+    ],
+    "name:glg_x_preferred":[
+        "R\u00edo Alster"
+    ],
+    "name:hun_x_preferred":[
+        "Alster"
+    ],
+    "name:ita_x_preferred":[
+        "Alster"
+    ],
+    "name:jav_x_preferred":[
+        "Alster"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0410\u043b\u0441\u0442\u0435\u0440"
+    ],
+    "name:nds_x_preferred":[
+        "Alster"
+    ],
+    "name:nld_x_preferred":[
+        "Alster"
+    ],
+    "name:nno_x_preferred":[
+        "Alster"
+    ],
+    "name:nor_x_preferred":[
+        "Alster"
+    ],
+    "name:pol_x_preferred":[
+        "Alster"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u043b\u044c\u0441\u0442\u0435\u0440"
+    ],
+    "name:spa_x_preferred":[
+        "R\u00edo Alster"
+    ],
+    "name:srp_x_preferred":[
+        "\u0410\u043b\u0441\u0442\u0435\u0440"
+    ],
+    "name:swe_x_preferred":[
+        "Alster"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0410\u043b\u044c\u0441\u0442\u0435\u0440"
+    ],
+    "name:zho_x_preferred":[
+        "\u963f\u723e\u65af\u7279\u6cb3"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85681691,
@@ -53,7 +134,7 @@
         }
     ],
     "wof:id":1243102287,
-    "wof:lastmodified":1536804424,
+    "wof:lastmodified":1564163523,
     "wof:name":"Alster",
     "wof:parent_id":102049935,
     "wof:placetype":"locality",

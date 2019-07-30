@@ -28,6 +28,27 @@
     "iso:country":"BE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Zande"
+    ],
+    "name:deu_x_preferred":[
+        "Zande"
+    ],
+    "name:fra_x_preferred":[
+        "Zande"
+    ],
+    "name:ind_x_preferred":[
+        "Zande"
+    ],
+    "name:nld_x_preferred":[
+        "Zande"
+    ],
+    "name:pol_x_preferred":[
+        "Zande"
+    ],
+    "name:swe_x_preferred":[
+        "Zande"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85681733,
@@ -55,7 +76,7 @@
         }
     ],
     "wof:id":1360021287,
-    "wof:lastmodified":1537036068,
+    "wof:lastmodified":1564163062,
     "wof:name":"Zande",
     "wof:parent_id":1108830463,
     "wof:placetype":"locality",

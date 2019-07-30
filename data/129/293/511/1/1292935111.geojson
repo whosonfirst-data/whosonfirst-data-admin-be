@@ -28,6 +28,27 @@
     "iso:country":"BE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Oborne"
+    ],
+    "name:cym_x_preferred":[
+        "Oborne"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0648\u0628\u0648\u0631\u0646"
+    ],
+    "name:ita_x_preferred":[
+        "Oborne"
+    ],
+    "name:nld_x_preferred":[
+        "Oborne"
+    ],
+    "name:pol_x_preferred":[
+        "Oborne"
+    ],
+    "name:swe_x_preferred":[
+        "Oborne"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85681691,
@@ -53,7 +74,7 @@
         }
     ],
     "wof:id":1292935111,
-    "wof:lastmodified":1537083356,
+    "wof:lastmodified":1564161930,
     "wof:name":"Oborne",
     "wof:parent_id":102049941,
     "wof:placetype":"locality",

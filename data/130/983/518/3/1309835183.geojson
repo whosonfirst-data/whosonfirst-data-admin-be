@@ -28,6 +28,12 @@
     "iso:country":"BE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Kruisstraat"
+    ],
+    "name:nld_x_preferred":[
+        "Kruisstraat"
+    ],
     "name:und_x_variant":[
         "Kruisstraet",
         "Kruisstraat"
@@ -59,7 +65,7 @@
         }
     ],
     "wof:id":1309835183,
-    "wof:lastmodified":1537586995,
+    "wof:lastmodified":1564163146,
     "wof:name":"Kruisstraat",
     "wof:parent_id":1108830371,
     "wof:placetype":"locality",

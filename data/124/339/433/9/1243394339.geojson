@@ -28,6 +28,24 @@
     "iso:country":"BE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "La Redoute"
+    ],
+    "name:fra_x_preferred":[
+        "La Redoute"
+    ],
+    "name:ita_x_preferred":[
+        "La Redoute"
+    ],
+    "name:kor_x_preferred":[
+        "\ub77c\ub974\ub450\ud2b8"
+    ],
+    "name:ron_x_preferred":[
+        "La Redoute"
+    ],
+    "name:swe_x_preferred":[
+        "La Redoute"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85681699,
@@ -53,7 +71,7 @@
         }
     ],
     "wof:id":1243394339,
-    "wof:lastmodified":1536880062,
+    "wof:lastmodified":1564163385,
     "wof:name":"La Redoute",
     "wof:parent_id":102049917,
     "wof:placetype":"locality",

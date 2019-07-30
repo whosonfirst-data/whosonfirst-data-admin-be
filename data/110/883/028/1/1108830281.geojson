@@ -14,7 +14,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004357,
-    "geom:area_square_m":34067819.277005,
+    "geom:area_square_m":34067819.277011,
     "geom:bbox":"4.80052604556,50.7427170857,4.95392997615,50.8134640004",
     "geom:latitude":50.779123,
     "geom:longitude":4.87652,
@@ -23,6 +23,84 @@
     "lbl:longitude":4.871289,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bre_x_preferred":[
+        "Hoegaarden"
+    ],
+    "name:bul_x_preferred":[
+        "\u0425\u0443\u0433\u0430\u0440\u0434\u0435\u043d"
+    ],
+    "name:cat_x_preferred":[
+        "Hoegaarden"
+    ],
+    "name:ceb_x_preferred":[
+        "Hoegaarden"
+    ],
+    "name:ces_x_preferred":[
+        "Hoegaarden"
+    ],
+    "name:deu_x_preferred":[
+        "Hoegaarden"
+    ],
+    "name:epo_x_preferred":[
+        "Hoegaarden"
+    ],
+    "name:eus_x_preferred":[
+        "Hoegaarden"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0648\u06cc\u06af\u0631\u062f\u0627\u0646"
+    ],
+    "name:fin_x_preferred":[
+        "Hoegaarden"
+    ],
+    "name:fra_x_preferred":[
+        "Hoegaarden"
+    ],
+    "name:ita_x_preferred":[
+        "Hoegaarden"
+    ],
+    "name:kor_x_preferred":[
+        "\ud6c4\ud558\ub974\ub358"
+    ],
+    "name:nld_x_preferred":[
+        "Hoegaarden"
+    ],
+    "name:nor_x_preferred":[
+        "Hoegaarden"
+    ],
+    "name:oci_x_preferred":[
+        "Hoegaarden"
+    ],
+    "name:pol_x_preferred":[
+        "Hoegaarden"
+    ],
+    "name:por_x_preferred":[
+        "Hoegaarden"
+    ],
+    "name:ron_x_preferred":[
+        "Hoegaarden"
+    ],
+    "name:slk_x_preferred":[
+        "Hoegaarden"
+    ],
+    "name:spa_x_preferred":[
+        "Hoegaarden"
+    ],
+    "name:swe_x_preferred":[
+        "Hoegaarden"
+    ],
+    "name:vie_x_preferred":[
+        "Hoegaarden"
+    ],
+    "name:vol_x_preferred":[
+        "Hoegaarden"
+    ],
+    "name:war_x_preferred":[
+        "Hoegaarden"
+    ],
+    "name:zho_x_preferred":[
+        "\u80e1\u54c8\u5c14\u767b"
+    ],
     "reversegeo:latitude":50.785891,
     "reversegeo:longitude":4.871289,
     "src:geom":"begov",
@@ -50,7 +128,7 @@
         }
     ],
     "wof:id":1108830281,
-    "wof:lastmodified":1499533554,
+    "wof:lastmodified":1564162767,
     "wof:name":"Hoegaarden",
     "wof:parent_id":102049969,
     "wof:placetype":"localadmin",

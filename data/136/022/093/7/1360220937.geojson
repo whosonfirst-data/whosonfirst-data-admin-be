@@ -28,6 +28,87 @@
     "iso:country":"BE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bre_x_preferred":[
+        "Aiseau-Presles"
+    ],
+    "name:bul_x_preferred":[
+        "\u0415\u0437\u043e-\u041f\u0440\u0435\u043b"
+    ],
+    "name:cat_x_preferred":[
+        "Aiseau-Presles"
+    ],
+    "name:ceb_x_preferred":[
+        "Aiseau-Presles"
+    ],
+    "name:deu_x_preferred":[
+        "Aiseau-Presles"
+    ],
+    "name:epo_x_preferred":[
+        "Aiseau-Presles"
+    ],
+    "name:eus_x_preferred":[
+        "Aiseau-Presles"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0632\u0648\u067e\u0631\u0644"
+    ],
+    "name:fra_x_preferred":[
+        "Aiseau-Presles"
+    ],
+    "name:ita_x_preferred":[
+        "Aiseau-Presles"
+    ],
+    "name:lat_x_preferred":[
+        "Aiseau-Presles"
+    ],
+    "name:lim_x_preferred":[
+        "Aiseau-Presles"
+    ],
+    "name:ltz_x_preferred":[
+        "Aiseau-Presles"
+    ],
+    "name:nld_x_preferred":[
+        "Aiseau-Presles"
+    ],
+    "name:nor_x_preferred":[
+        "Aiseau-Presles"
+    ],
+    "name:oci_x_preferred":[
+        "Aiseau-Presles"
+    ],
+    "name:pol_x_preferred":[
+        "Aiseau-Presles"
+    ],
+    "name:por_x_preferred":[
+        "Aiseau-Presles"
+    ],
+    "name:ron_x_preferred":[
+        "Aiseau-Presles"
+    ],
+    "name:rus_x_preferred":[
+        "\u042d\u0437\u043e-\u041f\u0440\u0435\u043b\u044c"
+    ],
+    "name:slk_x_preferred":[
+        "Aiseau-Presles"
+    ],
+    "name:spa_x_preferred":[
+        "Aiseau-Presles"
+    ],
+    "name:swe_x_preferred":[
+        "Aiseau-Presles"
+    ],
+    "name:vie_x_preferred":[
+        "Aiseau-Presles"
+    ],
+    "name:vol_x_preferred":[
+        "Aiseau-Presles"
+    ],
+    "name:war_x_preferred":[
+        "Aiseau-Presles"
+    ],
+    "name:wln_x_preferred":[
+        "\u00c5jh\u00f4-Pr\u00e9le"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85681723,
@@ -54,7 +135,7 @@
         }
     ],
     "wof:id":1360220937,
-    "wof:lastmodified":1537487588,
+    "wof:lastmodified":1564163006,
     "wof:name":"Aiseau-Presles",
     "wof:parent_id":102049927,
     "wof:placetype":"locality",

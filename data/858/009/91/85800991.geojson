@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":3279965.24463,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.618542,50.611689,5.618542,50.611689",
     "geom:latitude":50.611689,
     "geom:longitude":5.618542,
@@ -23,15 +23,30 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
     "mz:tier_locality":3,
+    "name:cat_x_preferred":[
+        "Ch\u00ean\u00e9e"
+    ],
+    "name:deu_x_preferred":[
+        "Ch\u00ean\u00e9e"
+    ],
     "name:fra_x_colloquial":[
         "Chenee"
     ],
     "name:fra_x_preferred":[
         "Ch\u00ean\u00e9e"
     ],
+    "name:lim_x_preferred":[
+        "Ch\u00ean\u00e9e"
+    ],
+    "name:nld_x_preferred":[
+        "Ch\u00ean\u00e9e"
+    ],
     "name:unk_x_variant":[
         "Li\u00e8ge (Ch\u00ean\u00e9e)",
         "Ch\u00ean\u00e9e"
+    ],
+    "name:wln_x_preferred":[
+        "Tchinn\u00eaye"
     ],
     "qs:gn_adm0_cc":"BE",
     "qs:gn_fcode":"PPL",
@@ -65,12 +80,12 @@
     ],
     "src:lbl:centroid":"yerbashapes",
     "wof:belongsto":[
-        85681691,
         102191581,
         85632997,
         404227353,
         101748083,
-        102049941
+        102049941,
+        85681691
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -96,7 +111,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1531862053,
+    "wof:lastmodified":1564161857,
     "wof:name":"Ch\u00ean\u00e9e",
     "wof:parent_id":101748083,
     "wof:placetype":"neighbourhood",

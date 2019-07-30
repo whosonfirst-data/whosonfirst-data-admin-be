@@ -14,7 +14,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005187,
-    "geom:area_square_m":40549466.06544,
+    "geom:area_square_m":40549466.065444,
     "geom:bbox":"4.17361017122,50.749490875,4.3134641901,50.8275301992",
     "geom:latitude":50.787478,
     "geom:longitude":4.24488,
@@ -23,6 +23,84 @@
     "lbl:longitude":4.238003,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bre_x_preferred":[
+        "Sint-Pieters-Leeuw"
+    ],
+    "name:cat_x_preferred":[
+        "Sint-Pieters-Leeuw"
+    ],
+    "name:ceb_x_preferred":[
+        "Sint-Pieters-Leeuw"
+    ],
+    "name:deu_x_preferred":[
+        "Sint-Pieters-Leeuw"
+    ],
+    "name:epo_x_preferred":[
+        "Sint-Pieters-Leeuw"
+    ],
+    "name:eus_x_preferred":[
+        "Sint-Pieters-Leeuw"
+    ],
+    "name:fas_x_preferred":[
+        "\u0633\u0646-\u067e\u06cc\u0648\u062a\u0647-\u0644\u0626\u0648"
+    ],
+    "name:fra_x_preferred":[
+        "Leeuw-Saint-Pierre"
+    ],
+    "name:gle_x_preferred":[
+        "Sint-Pieters-Leeuw"
+    ],
+    "name:ita_x_preferred":[
+        "Sint-Pieters-Leeuw"
+    ],
+    "name:lat_x_preferred":[
+        "Ieus"
+    ],
+    "name:nld_x_preferred":[
+        "Sint-Pieters-Leeuw"
+    ],
+    "name:nor_x_preferred":[
+        "Sint-Pieters-Leeuw"
+    ],
+    "name:oci_x_preferred":[
+        "Sint-Pieters-Leeuw"
+    ],
+    "name:pol_x_preferred":[
+        "Sint-Pieters-Leeuw"
+    ],
+    "name:por_x_preferred":[
+        "Sint-Pieters-Leeuw"
+    ],
+    "name:ron_x_preferred":[
+        "Sint-Pieters-Leeuw"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0438\u043d\u0442-\u041f\u0438\u0442\u0435\u0440\u0441-\u041b\u0435\u0443\u0432"
+    ],
+    "name:slk_x_preferred":[
+        "Sint-Pieters-Leeuw"
+    ],
+    "name:spa_x_preferred":[
+        "Sint-Pieters-Leeuw"
+    ],
+    "name:swe_x_preferred":[
+        "Sint-Pieters-Leeuw"
+    ],
+    "name:tur_x_preferred":[
+        "Sint-Pieters-Leeuw"
+    ],
+    "name:vie_x_preferred":[
+        "Sint-Pieters-Leeuw"
+    ],
+    "name:vol_x_preferred":[
+        "Sint-Pieters-Leeuw"
+    ],
+    "name:war_x_preferred":[
+        "Sint-Pieters-Leeuw"
+    ],
+    "name:zho_x_preferred":[
+        "\u5723\u5f7c\u5f97\u65af-\u83b1\u4e4c"
+    ],
     "reversegeo:latitude":50.787297,
     "reversegeo:longitude":4.238003,
     "src:geom":"begov",
@@ -50,7 +128,7 @@
         }
     ],
     "wof:id":1108830529,
-    "wof:lastmodified":1499533849,
+    "wof:lastmodified":1564162680,
     "wof:name":"Sint-Pieters-Leeuw",
     "wof:parent_id":102049973,
     "wof:placetype":"localadmin",

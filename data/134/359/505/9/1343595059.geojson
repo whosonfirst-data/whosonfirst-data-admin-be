@@ -28,6 +28,60 @@
     "iso:country":"BE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bre_x_preferred":[
+        "Sainte-Marie"
+    ],
+    "name:ceb_x_preferred":[
+        "Sainte-Marie"
+    ],
+    "name:deu_x_preferred":[
+        "Sainte-Marie"
+    ],
+    "name:epo_x_preferred":[
+        "Sainte-Marie"
+    ],
+    "name:fra_x_preferred":[
+        "Sainte-Marie"
+    ],
+    "name:ita_x_preferred":[
+        "Sainte-Marie"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b5\u30f3\u30c8\uff1d\u30de\u30ea\u30fc"
+    ],
+    "name:nds_x_preferred":[
+        "Sainte-Marie"
+    ],
+    "name:nld_x_preferred":[
+        "Sainte-Marie"
+    ],
+    "name:pms_x_preferred":[
+        "Sainte-Marie"
+    ],
+    "name:pol_x_preferred":[
+        "Sainte-Marie"
+    ],
+    "name:por_x_preferred":[
+        "Sainte-Marie"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0435\u043d\u0442-\u041c\u0430\u0440\u0438"
+    ],
+    "name:slk_x_preferred":[
+        "Sainte-Marie"
+    ],
+    "name:spa_x_preferred":[
+        "Sainte-Marie"
+    ],
+    "name:sqi_x_preferred":[
+        "Sainte-Marie"
+    ],
+    "name:swe_x_preferred":[
+        "Sainte-Marie"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0435\u043d\u0442-\u041c\u0430\u0440\u0456"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85681727,
@@ -53,7 +107,7 @@
         }
     ],
     "wof:id":1343595059,
-    "wof:lastmodified":1537047478,
+    "wof:lastmodified":1564161745,
     "wof:name":"Sainte-Marie",
     "wof:parent_id":102049913,
     "wof:placetype":"locality",

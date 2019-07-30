@@ -25,6 +25,9 @@
     "mz:min_zoom":13.0,
     "mz:tier_locality":1,
     "mz:tier_metro":30,
+    "name:bre_x_preferred":[
+        "Ravenstein"
+    ],
     "name:ceb_x_preferred":[
         "Ravenstein"
     ],
@@ -41,6 +44,9 @@
         "Ravenstein"
     ],
     "name:pol_x_preferred":[
+        "Ravenstein"
+    ],
+    "name:swe_x_preferred":[
         "Ravenstein"
     ],
     "name:unk_x_variant":[
@@ -107,7 +113,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1561831365,
+    "wof:lastmodified":1564161862,
     "wof:name":"Ravenstein",
     "wof:parent_id":101754329,
     "wof:placetype":"neighbourhood",

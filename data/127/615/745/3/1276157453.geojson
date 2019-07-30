@@ -28,6 +28,69 @@
     "iso:country":"BE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0623\u0648\u0633\u062a\u0631"
+    ],
+    "name:bel_x_preferred":[
+        "\u0410\u0441\u0446\u0451\u0440"
+    ],
+    "name:ceb_x_preferred":[
+        "Oster"
+    ],
+    "name:crh_x_preferred":[
+        "Oster"
+    ],
+    "name:deu_x_preferred":[
+        "Oster"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0648\u0633\u062a\u0631"
+    ],
+    "name:fra_x_preferred":[
+        "Oster"
+    ],
+    "name:hsb_x_preferred":[
+        "Oster"
+    ],
+    "name:hye_x_preferred":[
+        "\u0555\u057d\u057f\u0575\u0578\u0580"
+    ],
+    "name:ita_x_preferred":[
+        "Ost\u00ebr"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30aa\u30b9\u30c6\u30fc\u30eb"
+    ],
+    "name:kat_x_preferred":[
+        "\u10dd\u10e1\u10e2\u10d8\u10dd\u10e0\u10d8"
+    ],
+    "name:kor_x_preferred":[
+        "\uc624\uc2a4\ud14c\ub974"
+    ],
+    "name:lav_x_preferred":[
+        "Ostera"
+    ],
+    "name:pol_x_preferred":[
+        "Oster"
+    ],
+    "name:ron_x_preferred":[
+        "Oster"
+    ],
+    "name:rus_x_preferred":[
+        "\u041e\u0441\u0442\u0451\u0440"
+    ],
+    "name:sah_x_preferred":[
+        "\u041e\u0441\u0442\u0451\u0440"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041e\u0441\u0442\u0435\u0440"
+    ],
+    "name:vie_x_preferred":[
+        "Oster"
+    ],
+    "name:zho_x_preferred":[
+        "\u5967\u65af\u6cf0\u723e"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85681727,
@@ -53,7 +116,7 @@
         }
     ],
     "wof:id":1276157453,
-    "wof:lastmodified":1537013772,
+    "wof:lastmodified":1564162208,
     "wof:name":"Oster",
     "wof:parent_id":102049921,
     "wof:placetype":"locality",

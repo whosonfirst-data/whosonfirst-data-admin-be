@@ -18,6 +18,15 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:eus_x_preferred":[
+        "Behoka"
+    ],
+    "name:pol_x_preferred":[
+        "Klaczka"
+    ],
+    "name:zho_x_preferred":[
+        "\u5c0f\u96cc\u99ac"
+    ],
     "qs_pg:aaroncc":"BE",
     "qs_pg:gn_country":"BE",
     "qs_pg:gn_fcode":"PPL",
@@ -71,7 +80,7 @@
         }
     ],
     "wof:id":1125977215,
-    "wof:lastmodified":1509404489,
+    "wof:lastmodified":1564163262,
     "wof:name":"Filly",
     "wof:parent_id":102049915,
     "wof:placetype":"locality",

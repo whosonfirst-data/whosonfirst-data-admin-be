@@ -28,6 +28,9 @@
     "iso:country":"BE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Aart"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85681715,
@@ -55,7 +58,7 @@
         }
     ],
     "wof:id":1259718485,
-    "wof:lastmodified":1537015930,
+    "wof:lastmodified":1564163575,
     "wof:name":"Aart",
     "wof:parent_id":1108830531,
     "wof:placetype":"locality",

@@ -14,7 +14,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0029,
-    "geom:area_square_m":22524110.83671,
+    "geom:area_square_m":22524110.836709,
     "geom:bbox":"4.46476446317,51.0725435429,4.57524148063,51.1169070822",
     "geom:latitude":51.095717,
     "geom:longitude":4.514151,
@@ -23,6 +23,87 @@
     "lbl:longitude":4.496546,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bre_x_preferred":[
+        "Duffel"
+    ],
+    "name:bul_x_preferred":[
+        "\u0414\u044c\u043e\u0444\u0435\u043b"
+    ],
+    "name:cat_x_preferred":[
+        "Duffel"
+    ],
+    "name:ceb_x_preferred":[
+        "Duffel"
+    ],
+    "name:ces_x_preferred":[
+        "Duffel"
+    ],
+    "name:deu_x_preferred":[
+        "Duffel"
+    ],
+    "name:epo_x_preferred":[
+        "Duffel"
+    ],
+    "name:est_x_preferred":[
+        "Duffel"
+    ],
+    "name:fas_x_preferred":[
+        "\u062f\u0648\u0641\u0644"
+    ],
+    "name:fra_x_preferred":[
+        "Duffel"
+    ],
+    "name:ita_x_preferred":[
+        "Duffel"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30c7\u30e5\u30d5\u30a7\u30eb"
+    ],
+    "name:nld_x_preferred":[
+        "Duffel"
+    ],
+    "name:nor_x_preferred":[
+        "Duffel"
+    ],
+    "name:oci_x_preferred":[
+        "Duffel"
+    ],
+    "name:pol_x_preferred":[
+        "Duffel"
+    ],
+    "name:por_x_preferred":[
+        "Duffel"
+    ],
+    "name:ron_x_preferred":[
+        "Duffel"
+    ],
+    "name:slk_x_preferred":[
+        "Duffel"
+    ],
+    "name:spa_x_preferred":[
+        "Duffel"
+    ],
+    "name:swe_x_preferred":[
+        "Duffel"
+    ],
+    "name:szl_x_preferred":[
+        "Duffel"
+    ],
+    "name:vie_x_preferred":[
+        "Duffel"
+    ],
+    "name:vls_x_preferred":[
+        "Duffel"
+    ],
+    "name:vol_x_preferred":[
+        "Duffel"
+    ],
+    "name:war_x_preferred":[
+        "Duffel"
+    ],
+    "name:zho_x_preferred":[
+        "\u8fea\u5f17\u5c14"
+    ],
     "reversegeo:latitude":51.092547,
     "reversegeo:longitude":4.496546,
     "src:geom":"begov",
@@ -50,7 +131,7 @@
         }
     ],
     "wof:id":1108830291,
-    "wof:lastmodified":1499533562,
+    "wof:lastmodified":1564162752,
     "wof:name":"Duffel",
     "wof:parent_id":102049985,
     "wof:placetype":"localadmin",

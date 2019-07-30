@@ -14,7 +14,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00321,
-    "geom:area_square_m":24957264.161208,
+    "geom:area_square_m":24957264.161209,
     "geom:bbox":"5.51845617451,51.0187670424,5.62968317197,51.0643298312",
     "geom:latitude":51.040361,
     "geom:longitude":5.571397,
@@ -23,6 +23,87 @@
     "lbl:longitude":5.581444,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:afr_x_preferred":[
+        "Opglabbeek"
+    ],
+    "name:bre_x_preferred":[
+        "Opglabbeek"
+    ],
+    "name:bul_x_preferred":[
+        "\u041e\u043f\u0433\u043b\u0430\u0431\u0431\u0435\u043a"
+    ],
+    "name:cat_x_preferred":[
+        "Opglabbeek"
+    ],
+    "name:ceb_x_preferred":[
+        "Opglabbeek"
+    ],
+    "name:deu_x_preferred":[
+        "Opglabbeek"
+    ],
+    "name:epo_x_preferred":[
+        "Opglabbeek"
+    ],
+    "name:eus_x_preferred":[
+        "Opglabbeek"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0648\u067e\u06af\u0644\u0628\u0626\u06a9"
+    ],
+    "name:fra_x_preferred":[
+        "Opglabbeek"
+    ],
+    "name:ita_x_preferred":[
+        "Opglabbeek"
+    ],
+    "name:lim_x_preferred":[
+        "Glabbek"
+    ],
+    "name:nld_x_preferred":[
+        "Opglabbeek"
+    ],
+    "name:nor_x_preferred":[
+        "Opglabbeek"
+    ],
+    "name:oci_x_preferred":[
+        "Opglabbeek"
+    ],
+    "name:pol_x_preferred":[
+        "Opglabbeek"
+    ],
+    "name:por_x_preferred":[
+        "Opglabbeek"
+    ],
+    "name:ron_x_preferred":[
+        "Opglabbeek"
+    ],
+    "name:slk_x_preferred":[
+        "Opglabbeek"
+    ],
+    "name:spa_x_preferred":[
+        "Opglabbeek"
+    ],
+    "name:swe_x_preferred":[
+        "Opglabbeek"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e42\u0e2d\u0e1b\u0e04\u0e25\u0e31\u0e1a\u0e40\u0e1a\u0e01"
+    ],
+    "name:tur_x_preferred":[
+        "Opglabbeek"
+    ],
+    "name:vie_x_preferred":[
+        "Opglabbeek"
+    ],
+    "name:vol_x_preferred":[
+        "Opglabbeek"
+    ],
+    "name:war_x_preferred":[
+        "Opglabbeek"
+    ],
+    "name:zho_x_preferred":[
+        "\u5965\u666e\u8d6b\u62c9\u8d1d\u514b"
+    ],
     "reversegeo:latitude":51.040477,
     "reversegeo:longitude":5.581444,
     "src:geom":"begov",
@@ -50,7 +131,7 @@
         }
     ],
     "wof:id":1108830279,
-    "wof:lastmodified":1499533554,
+    "wof:lastmodified":1564162730,
     "wof:name":"Opglabbeek",
     "wof:parent_id":102049975,
     "wof:placetype":"localadmin",

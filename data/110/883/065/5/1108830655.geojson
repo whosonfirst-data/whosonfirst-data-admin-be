@@ -14,7 +14,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.011206,
-    "geom:area_square_m":87264029.988008,
+    "geom:area_square_m":87264029.98801,
     "geom:bbox":"5.38482956077,50.9130487332,5.59516095647,51.0207714142",
     "geom:latitude":50.967176,
     "geom:longitude":5.49493,
@@ -23,6 +23,144 @@
     "lbl:longitude":5.496533,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:afr_x_preferred":[
+        "Genk"
+    ],
+    "name:ara_x_preferred":[
+        "\u062c\u064a\u0646\u0643"
+    ],
+    "name:bre_x_preferred":[
+        "Genk"
+    ],
+    "name:bul_x_preferred":[
+        "\u0413\u0435\u043d\u043a"
+    ],
+    "name:cat_x_preferred":[
+        "Genk"
+    ],
+    "name:ceb_x_preferred":[
+        "Genk"
+    ],
+    "name:ces_x_preferred":[
+        "Genk"
+    ],
+    "name:dan_x_preferred":[
+        "Genk"
+    ],
+    "name:deu_x_preferred":[
+        "Genk"
+    ],
+    "name:ell_x_preferred":[
+        "\u0393\u03ba\u03b5\u03bd\u03ba"
+    ],
+    "name:epo_x_preferred":[
+        "Genk"
+    ],
+    "name:eus_x_preferred":[
+        "Genk"
+    ],
+    "name:fas_x_preferred":[
+        "\u062e\u0646\u06a9"
+    ],
+    "name:fin_x_preferred":[
+        "Genk"
+    ],
+    "name:fra_x_preferred":[
+        "Genk"
+    ],
+    "name:gle_x_preferred":[
+        "Genk"
+    ],
+    "name:hun_x_preferred":[
+        "Genk"
+    ],
+    "name:ind_x_preferred":[
+        "Genk"
+    ],
+    "name:isl_x_preferred":[
+        "Genk"
+    ],
+    "name:ita_x_preferred":[
+        "Genk"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d8\u30f3\u30af"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d2\u10d4\u10dc\u10d9\u10d8"
+    ],
+    "name:lav_x_preferred":[
+        "Genka"
+    ],
+    "name:lim_x_preferred":[
+        "Genk"
+    ],
+    "name:lit_x_preferred":[
+        "Genkas"
+    ],
+    "name:msa_x_preferred":[
+        "Genk"
+    ],
+    "name:nld_x_preferred":[
+        "Genk"
+    ],
+    "name:nor_x_preferred":[
+        "Genk"
+    ],
+    "name:oci_x_preferred":[
+        "Genk"
+    ],
+    "name:pol_x_preferred":[
+        "Genk"
+    ],
+    "name:por_x_preferred":[
+        "Genk"
+    ],
+    "name:ron_x_preferred":[
+        "Genk"
+    ],
+    "name:rus_x_preferred":[
+        "\u0413\u0435\u043d\u043a"
+    ],
+    "name:slk_x_preferred":[
+        "Genk"
+    ],
+    "name:spa_x_preferred":[
+        "Genk"
+    ],
+    "name:srp_x_preferred":[
+        "\u0413\u0435\u043d\u043a"
+    ],
+    "name:swa_x_preferred":[
+        "Genk"
+    ],
+    "name:swe_x_preferred":[
+        "Genk"
+    ],
+    "name:szl_x_preferred":[
+        "Genk"
+    ],
+    "name:tat_x_preferred":[
+        "\u0413\u0435\u04a3\u043a"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e40\u0e04\u0e07\u0e01\u0e4c"
+    ],
+    "name:tur_x_preferred":[
+        "Genk"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0413\u0435\u043d\u043a"
+    ],
+    "name:vie_x_preferred":[
+        "Genk"
+    ],
+    "name:vol_x_preferred":[
+        "Genk"
+    ],
+    "name:war_x_preferred":[
+        "Genk"
+    ],
     "reversegeo:latitude":50.967226,
     "reversegeo:longitude":5.496533,
     "src:geom":"begov",
@@ -50,7 +188,7 @@
         }
     ],
     "wof:id":1108830655,
-    "wof:lastmodified":1499534029,
+    "wof:lastmodified":1564162645,
     "wof:name":"Genk",
     "wof:parent_id":102049975,
     "wof:placetype":"localadmin",

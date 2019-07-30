@@ -23,6 +23,81 @@
     "lbl:longitude":4.519553,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bre_x_preferred":[
+        "Wommelgem"
+    ],
+    "name:bul_x_preferred":[
+        "\u0412\u043e\u043c\u0435\u043b\u0433\u0435\u043c"
+    ],
+    "name:cat_x_preferred":[
+        "Wommelgem"
+    ],
+    "name:ceb_x_preferred":[
+        "Wommelgem"
+    ],
+    "name:deu_x_preferred":[
+        "Wommelgem"
+    ],
+    "name:epo_x_preferred":[
+        "Wommelgem"
+    ],
+    "name:est_x_preferred":[
+        "Wommelgem"
+    ],
+    "name:eus_x_preferred":[
+        "Wommelgem"
+    ],
+    "name:fas_x_preferred":[
+        "\u0648\u0648\u0645\u0644\u0698\u0645"
+    ],
+    "name:fra_x_preferred":[
+        "Wommelgem"
+    ],
+    "name:ita_x_preferred":[
+        "Wommelgem"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a6\u30a9\u30f3\u30e1\u30eb\u30d8\u30e0"
+    ],
+    "name:nld_x_preferred":[
+        "Wommelgem"
+    ],
+    "name:nor_x_preferred":[
+        "Wommelgem"
+    ],
+    "name:oci_x_preferred":[
+        "Wommelgem"
+    ],
+    "name:pol_x_preferred":[
+        "Wommelgem"
+    ],
+    "name:por_x_preferred":[
+        "Wommelgem"
+    ],
+    "name:ron_x_preferred":[
+        "Wommelgem"
+    ],
+    "name:slk_x_preferred":[
+        "Wommelgem"
+    ],
+    "name:spa_x_preferred":[
+        "Wommelgem"
+    ],
+    "name:swe_x_preferred":[
+        "Wommelgem"
+    ],
+    "name:vie_x_preferred":[
+        "Wommelgem"
+    ],
+    "name:vol_x_preferred":[
+        "Wommelgem"
+    ],
+    "name:war_x_preferred":[
+        "Wommelgem"
+    ],
+    "name:zho_x_preferred":[
+        "\u6c83\u9ed8\u5c14\u6d77\u59c6"
+    ],
     "reversegeo:latitude":51.205674,
     "reversegeo:longitude":4.519553,
     "src:geom":"begov",
@@ -50,7 +125,7 @@
         }
     ],
     "wof:id":1108830431,
-    "wof:lastmodified":1499533749,
+    "wof:lastmodified":1564162760,
     "wof:name":"Wommelgem",
     "wof:parent_id":102050005,
     "wof:placetype":"localadmin",

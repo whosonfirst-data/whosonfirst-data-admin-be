@@ -23,6 +23,87 @@
     "lbl:longitude":3.376684,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bre_x_preferred":[
+        "Wielsbeke"
+    ],
+    "name:bul_x_preferred":[
+        "\u0412\u0438\u0439\u043b\u0441\u0431\u0435\u043a\u0435"
+    ],
+    "name:cat_x_preferred":[
+        "Wielsbeke"
+    ],
+    "name:ceb_x_preferred":[
+        "Wielsbeke"
+    ],
+    "name:ces_x_preferred":[
+        "Wielsbeke"
+    ],
+    "name:deu_x_preferred":[
+        "Wielsbeke"
+    ],
+    "name:epo_x_preferred":[
+        "Wielsbeke"
+    ],
+    "name:est_x_preferred":[
+        "Wielsbeke"
+    ],
+    "name:eus_x_preferred":[
+        "Wielsbeke"
+    ],
+    "name:fas_x_preferred":[
+        "\u0648\u06cc\u0644\u0632\u0628\u0648\u06a9"
+    ],
+    "name:fra_x_preferred":[
+        "Wielsbeke"
+    ],
+    "name:ita_x_preferred":[
+        "Wielsbeke"
+    ],
+    "name:lim_x_preferred":[
+        "Wielsbeke"
+    ],
+    "name:nld_x_preferred":[
+        "Wielsbeke"
+    ],
+    "name:nor_x_preferred":[
+        "Wielsbeke"
+    ],
+    "name:oci_x_preferred":[
+        "Wielsbeke"
+    ],
+    "name:pol_x_preferred":[
+        "Wielsbeke"
+    ],
+    "name:por_x_preferred":[
+        "Wielsbeke"
+    ],
+    "name:ron_x_preferred":[
+        "Wielsbeke"
+    ],
+    "name:slk_x_preferred":[
+        "Wielsbeke"
+    ],
+    "name:spa_x_preferred":[
+        "Wielsbeke"
+    ],
+    "name:swe_x_preferred":[
+        "Wielsbeke"
+    ],
+    "name:vie_x_preferred":[
+        "Wielsbeke"
+    ],
+    "name:vls_x_preferred":[
+        "Wielsbeke"
+    ],
+    "name:vol_x_preferred":[
+        "Wielsbeke"
+    ],
+    "name:war_x_preferred":[
+        "Wielsbeke"
+    ],
+    "name:zho_x_preferred":[
+        "\u7ef4\u5c14\u65af\u8d1d\u514b"
+    ],
     "reversegeo:latitude":50.917466,
     "reversegeo:longitude":3.376684,
     "src:geom":"begov",
@@ -50,7 +131,7 @@
         }
     ],
     "wof:id":1108830481,
-    "wof:lastmodified":1499533806,
+    "wof:lastmodified":1564162606,
     "wof:name":"Wielsbeke",
     "wof:parent_id":102049981,
     "wof:placetype":"localadmin",

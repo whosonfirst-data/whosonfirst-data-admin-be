@@ -28,6 +28,21 @@
     "iso:country":"BE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bre_x_preferred":[
+        "Lorette"
+    ],
+    "name:ceb_x_preferred":[
+        "Lorette"
+    ],
+    "name:deu_x_preferred":[
+        "Lorette"
+    ],
+    "name:fra_x_preferred":[
+        "Lorette"
+    ],
+    "name:swe_x_preferred":[
+        "Lorette"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85681733,
@@ -55,7 +70,7 @@
         }
     ],
     "wof:id":1327167673,
-    "wof:lastmodified":1537060466,
+    "wof:lastmodified":1564161633,
     "wof:name":"Lorette",
     "wof:parent_id":1108830167,
     "wof:placetype":"locality",

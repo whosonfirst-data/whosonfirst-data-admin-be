@@ -14,7 +14,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006545,
-    "geom:area_square_m":51143268.273584,
+    "geom:area_square_m":51143268.27358,
     "geom:bbox":"5.25037552012,50.7694636981,5.40764069312,50.8454261504",
     "geom:latitude":50.804783,
     "geom:longitude":5.340926,
@@ -23,6 +23,96 @@
     "lbl:longitude":5.342103,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:afr_x_preferred":[
+        "Borgloon"
+    ],
+    "name:bre_x_preferred":[
+        "Borgloon"
+    ],
+    "name:bul_x_preferred":[
+        "\u0411\u043e\u0440\u0433\u043b\u043e\u043d"
+    ],
+    "name:cat_x_preferred":[
+        "Borgloon"
+    ],
+    "name:ceb_x_preferred":[
+        "Borgloon"
+    ],
+    "name:deu_x_preferred":[
+        "Borgloon"
+    ],
+    "name:epo_x_preferred":[
+        "Borgloon"
+    ],
+    "name:eus_x_preferred":[
+        "Borgloon"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u0648\u0631\u06af\u0644\u0648\u0646"
+    ],
+    "name:fra_x_preferred":[
+        "Looz"
+    ],
+    "name:ita_x_preferred":[
+        "Borgloon"
+    ],
+    "name:lat_x_preferred":[
+        "Borchlonium"
+    ],
+    "name:lim_x_preferred":[
+        "Loe\u00ebn"
+    ],
+    "name:ltz_x_preferred":[
+        "Borgloon"
+    ],
+    "name:nld_x_preferred":[
+        "Borgloon"
+    ],
+    "name:nor_x_preferred":[
+        "Borgloon"
+    ],
+    "name:oci_x_preferred":[
+        "Borgloon"
+    ],
+    "name:pol_x_preferred":[
+        "Borgloon"
+    ],
+    "name:por_x_preferred":[
+        "Borgloon"
+    ],
+    "name:ron_x_preferred":[
+        "Borgloon"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u043e\u0440\u0433\u043b\u043e\u043d"
+    ],
+    "name:slk_x_preferred":[
+        "Borgloon"
+    ],
+    "name:spa_x_preferred":[
+        "Borgloon"
+    ],
+    "name:swe_x_preferred":[
+        "Borgloon"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e2d\u0e23\u0e4c\u0e04\u0e42\u0e25\u0e19"
+    ],
+    "name:vie_x_preferred":[
+        "Borgloon"
+    ],
+    "name:vol_x_preferred":[
+        "Borgloon"
+    ],
+    "name:war_x_preferred":[
+        "Borgloon"
+    ],
+    "name:wln_x_preferred":[
+        "L\u00f4"
+    ],
+    "name:zho_x_preferred":[
+        "\u535a\u5c14\u8d6b\u9686"
+    ],
     "reversegeo:latitude":50.79901,
     "reversegeo:longitude":5.342103,
     "src:geom":"begov",
@@ -50,7 +140,7 @@
         }
     ],
     "wof:id":1108830359,
-    "wof:lastmodified":1504820477,
+    "wof:lastmodified":1564162795,
     "wof:name":"Borgloon",
     "wof:parent_id":1108782563,
     "wof:placetype":"localadmin",

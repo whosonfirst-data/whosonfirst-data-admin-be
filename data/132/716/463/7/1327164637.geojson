@@ -28,10 +28,100 @@
     "iso:country":"BE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u0648\u0631\u062f\u0627\u064a\u0643"
+    ],
+    "name:cat_x_preferred":[
+        "Moerdijk"
+    ],
+    "name:ceb_x_preferred":[
+        "Gemeente Moerdijk"
+    ],
+    "name:dan_x_preferred":[
+        "Moerdijk"
+    ],
+    "name:deu_x_preferred":[
+        "Moerdijk"
+    ],
+    "name:epo_x_preferred":[
+        "Moerdijk"
+    ],
+    "name:eus_x_preferred":[
+        "Moerdijk"
+    ],
+    "name:fas_x_preferred":[
+        "\u0645\u0648\u0631\u062f\u06cc\u06a9"
+    ],
+    "name:fin_x_preferred":[
+        "Moerdijk"
+    ],
+    "name:fra_x_preferred":[
+        "Moerdijk"
+    ],
+    "name:hye_x_preferred":[
+        "\u0544\u0578\u0582\u0580\u0564\u0565\u0575\u056f"
+    ],
+    "name:ind_x_preferred":[
+        "Moerdijk"
+    ],
+    "name:ita_x_preferred":[
+        "Moerdijk"
+    ],
+    "name:lim_x_preferred":[
+        "Moerdijk"
+    ],
+    "name:min_x_preferred":[
+        "Moerdijk"
+    ],
+    "name:msa_x_preferred":[
+        "Moerdijk"
+    ],
+    "name:nld_x_preferred":[
+        "Moerdijk"
+    ],
+    "name:pol_x_preferred":[
+        "Moerdijk"
+    ],
+    "name:ron_x_preferred":[
+        "Moerdijk"
+    ],
+    "name:spa_x_preferred":[
+        "Moerdijk"
+    ],
+    "name:sqi_x_preferred":[
+        "Moerdijk"
+    ],
+    "name:stq_x_preferred":[
+        "Moerdijk"
+    ],
+    "name:swe_x_preferred":[
+        "Moerdijk"
+    ],
+    "name:tur_x_preferred":[
+        "Moerdijk"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0443\u0440\u0434\u0435\u0439\u043a"
+    ],
     "name:und_x_variant":[
         "Moerdyk",
         "Moerdijck",
         "Moerdijk"
+    ],
+    "name:vie_x_preferred":[
+        "Moerdijk"
+    ],
+    "name:vol_x_preferred":[
+        "Moerdijk"
+    ],
+    "name:war_x_preferred":[
+        "Moerdijk"
+    ],
+    "name:zea_x_preferred":[
+        "Moerdiek"
+    ],
+    "name:zho_x_preferred":[
+        "\u83ab\u723e\u72c4\u514b"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -60,7 +150,7 @@
         }
     ],
     "wof:id":1327164637,
-    "wof:lastmodified":1537586964,
+    "wof:lastmodified":1564161630,
     "wof:name":"Moerdijk",
     "wof:parent_id":1108830575,
     "wof:placetype":"locality",

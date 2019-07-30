@@ -14,7 +14,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006317,
-    "geom:area_square_m":49267587.599126,
+    "geom:area_square_m":49267587.599117,
     "geom:bbox":"4.96919449784,50.8455280555,5.09203282145,50.9325855793",
     "geom:latitude":50.893133,
     "geom:longitude":5.023111,
@@ -23,6 +23,75 @@
     "lbl:longitude":5.021955,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bre_x_preferred":[
+        "Kortenaken"
+    ],
+    "name:bul_x_preferred":[
+        "\u041a\u043e\u0440\u0442\u0435\u043d\u0430\u043a\u0435\u043d"
+    ],
+    "name:cat_x_preferred":[
+        "Kortenaken"
+    ],
+    "name:ceb_x_preferred":[
+        "Kortenaken"
+    ],
+    "name:deu_x_preferred":[
+        "Kortenaken"
+    ],
+    "name:epo_x_preferred":[
+        "Kortenaken"
+    ],
+    "name:eus_x_preferred":[
+        "Kortenaken"
+    ],
+    "name:fas_x_preferred":[
+        "\u06a9\u0648\u0631\u062a\u0648\u0646\u06a9\u0627\u0646"
+    ],
+    "name:fra_x_preferred":[
+        "Kortenaken"
+    ],
+    "name:ita_x_preferred":[
+        "Kortenaken"
+    ],
+    "name:nld_x_preferred":[
+        "Kortenaken"
+    ],
+    "name:nor_x_preferred":[
+        "Kortenaken"
+    ],
+    "name:oci_x_preferred":[
+        "Kortenaken"
+    ],
+    "name:pol_x_preferred":[
+        "Kortenaken"
+    ],
+    "name:por_x_preferred":[
+        "Kortenaken"
+    ],
+    "name:ron_x_preferred":[
+        "Kortenaken"
+    ],
+    "name:slk_x_preferred":[
+        "Kortenaken"
+    ],
+    "name:spa_x_preferred":[
+        "Kortenaken"
+    ],
+    "name:swe_x_preferred":[
+        "Kortenaken"
+    ],
+    "name:vie_x_preferred":[
+        "Kortenaken"
+    ],
+    "name:vol_x_preferred":[
+        "Kortenaken"
+    ],
+    "name:war_x_preferred":[
+        "Kortenaken"
+    ],
+    "name:zho_x_preferred":[
+        "\u79d1\u5c14\u6ed5\u7eb3\u80af"
+    ],
     "reversegeo:latitude":50.896226,
     "reversegeo:longitude":5.021955,
     "src:geom":"begov",
@@ -50,7 +119,7 @@
         }
     ],
     "wof:id":1108830345,
-    "wof:lastmodified":1499533634,
+    "wof:lastmodified":1564162822,
     "wof:name":"Kortenaken",
     "wof:parent_id":102049969,
     "wof:placetype":"localadmin",

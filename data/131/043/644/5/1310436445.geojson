@@ -28,6 +28,9 @@
     "iso:country":"BE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Golzinne"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85681699,
@@ -54,7 +57,7 @@
         }
     ],
     "wof:id":1310436445,
-    "wof:lastmodified":1537487567,
+    "wof:lastmodified":1564162944,
     "wof:name":"Golzinne",
     "wof:parent_id":102049931,
     "wof:placetype":"locality",

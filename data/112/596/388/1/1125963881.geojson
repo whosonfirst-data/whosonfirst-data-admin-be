@@ -16,6 +16,96 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bug_x_preferred":[
+        "Meysse"
+    ],
+    "name:cat_x_preferred":[
+        "M\u00e8issa"
+    ],
+    "name:ceb_x_preferred":[
+        "Meysse"
+    ],
+    "name:deu_x_preferred":[
+        "Meysse"
+    ],
+    "name:eus_x_preferred":[
+        "Meysse"
+    ],
+    "name:fra_x_preferred":[
+        "Meysse"
+    ],
+    "name:hun_x_preferred":[
+        "Meysse"
+    ],
+    "name:hye_x_preferred":[
+        "\u0544\u0565\u057d"
+    ],
+    "name:ita_x_preferred":[
+        "Meysse"
+    ],
+    "name:lat_x_preferred":[
+        "Meysse"
+    ],
+    "name:lmo_x_preferred":[
+        "Meysse"
+    ],
+    "name:mlg_x_preferred":[
+        "Meysse"
+    ],
+    "name:msa_x_preferred":[
+        "Meysse"
+    ],
+    "name:nld_x_preferred":[
+        "Meysse"
+    ],
+    "name:oci_x_preferred":[
+        "M\u00e8issa"
+    ],
+    "name:pms_x_preferred":[
+        "Meysse"
+    ],
+    "name:pol_x_preferred":[
+        "Meysse"
+    ],
+    "name:por_x_preferred":[
+        "Meysse"
+    ],
+    "name:ron_x_preferred":[
+        "Meysse"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0435\u0441"
+    ],
+    "name:slk_x_preferred":[
+        "Meysse"
+    ],
+    "name:spa_x_preferred":[
+        "Meysse"
+    ],
+    "name:sqi_x_preferred":[
+        "Meysse"
+    ],
+    "name:swe_x_preferred":[
+        "Meysse"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0435\u0439\u0441\u0441"
+    ],
+    "name:uzb_x_preferred":[
+        "Meysse"
+    ],
+    "name:vie_x_preferred":[
+        "Meysse"
+    ],
+    "name:vol_x_preferred":[
+        "Meysse"
+    ],
+    "name:war_x_preferred":[
+        "Meysse"
+    ],
+    "name:zho_x_preferred":[
+        "\u6885\u65af"
+    ],
     "qs_pg:aaroncc":"BE",
     "qs_pg:gn_country":null,
     "qs_pg:name":"Meysse",
@@ -67,7 +157,7 @@
         }
     ],
     "wof:id":1125963881,
-    "wof:lastmodified":1509403497,
+    "wof:lastmodified":1564163272,
     "wof:name":"Meysse",
     "wof:parent_id":1108830037,
     "wof:placetype":"locality",

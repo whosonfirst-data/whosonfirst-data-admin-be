@@ -28,6 +28,84 @@
     "iso:country":"BE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bre_x_preferred":[
+        "Bouvignies"
+    ],
+    "name:cat_x_preferred":[
+        "Bouvignies"
+    ],
+    "name:ceb_x_preferred":[
+        "Bouvignies"
+    ],
+    "name:deu_x_preferred":[
+        "Bouvignies"
+    ],
+    "name:eus_x_preferred":[
+        "Bouvignies"
+    ],
+    "name:fra_x_preferred":[
+        "Bouvignies"
+    ],
+    "name:hun_x_preferred":[
+        "Bouvignies"
+    ],
+    "name:ind_x_preferred":[
+        "Bouvignies"
+    ],
+    "name:ita_x_preferred":[
+        "Bouvignies"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0411\u0443\u0432\u0438\u043d\u0438"
+    ],
+    "name:lat_x_preferred":[
+        "Bouvignies"
+    ],
+    "name:mlg_x_preferred":[
+        "Bouvignies"
+    ],
+    "name:msa_x_preferred":[
+        "Bouvignies"
+    ],
+    "name:nld_x_preferred":[
+        "Bouvignies"
+    ],
+    "name:oci_x_preferred":[
+        "Bouvignies"
+    ],
+    "name:pol_x_preferred":[
+        "Bouvignies"
+    ],
+    "name:ron_x_preferred":[
+        "Bouvignies"
+    ],
+    "name:slk_x_preferred":[
+        "Bouvignies"
+    ],
+    "name:spa_x_preferred":[
+        "Bouvignies"
+    ],
+    "name:srp_x_preferred":[
+        "\u0411\u0443\u0432\u0438\u045a\u0438"
+    ],
+    "name:swe_x_preferred":[
+        "Bouvignies"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0443\u0432\u0456\u043d\u0456"
+    ],
+    "name:vie_x_preferred":[
+        "Bouvignies"
+    ],
+    "name:vol_x_preferred":[
+        "Bouvignies"
+    ],
+    "name:war_x_preferred":[
+        "Bouvignies"
+    ],
+    "name:zho_x_preferred":[
+        "\u5e03\u7ef4\u5c3c"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85681723,
@@ -53,7 +131,7 @@
         }
     ],
     "wof:id":1260214603,
-    "wof:lastmodified":1536805359,
+    "wof:lastmodified":1564162566,
     "wof:name":"Bouvignies",
     "wof:parent_id":102049949,
     "wof:placetype":"locality",

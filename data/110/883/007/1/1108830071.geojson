@@ -14,7 +14,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00251,
-    "geom:area_square_m":19491101.097528,
+    "geom:area_square_m":19491101.097529,
     "geom:bbox":"3.58629168843,51.0741384779,3.66720964549,51.138970453",
     "geom:latitude":51.101046,
     "geom:longitude":3.625688,
@@ -23,6 +23,78 @@
     "lbl:longitude":3.625107,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bre_x_preferred":[
+        "Lovendegem"
+    ],
+    "name:bul_x_preferred":[
+        "\u041b\u043e\u0432\u0435\u043d\u0434\u0435\u0433\u0435\u043c"
+    ],
+    "name:cat_x_preferred":[
+        "Lovendegem"
+    ],
+    "name:ceb_x_preferred":[
+        "Lovendegem"
+    ],
+    "name:deu_x_preferred":[
+        "Lovendegem"
+    ],
+    "name:epo_x_preferred":[
+        "Lovendegem"
+    ],
+    "name:est_x_preferred":[
+        "Lovendegem"
+    ],
+    "name:fas_x_preferred":[
+        "\u0644\u0648\u0627\u0646\u062f\u0648\u0698\u0645"
+    ],
+    "name:fra_x_preferred":[
+        "Lovendegem"
+    ],
+    "name:ita_x_preferred":[
+        "Lovendegem"
+    ],
+    "name:nld_x_preferred":[
+        "Lovendegem"
+    ],
+    "name:nor_x_preferred":[
+        "Lovendegem"
+    ],
+    "name:oci_x_preferred":[
+        "Lovendegem"
+    ],
+    "name:pol_x_preferred":[
+        "Lovendegem"
+    ],
+    "name:por_x_preferred":[
+        "Lovendegem"
+    ],
+    "name:ron_x_preferred":[
+        "Lovendegem"
+    ],
+    "name:sco_x_preferred":[
+        "Lovendegem"
+    ],
+    "name:slk_x_preferred":[
+        "Lovendegem"
+    ],
+    "name:spa_x_preferred":[
+        "Lovendegem"
+    ],
+    "name:swe_x_preferred":[
+        "Lovendegem"
+    ],
+    "name:vie_x_preferred":[
+        "Lovendegem"
+    ],
+    "name:vol_x_preferred":[
+        "Lovendegem"
+    ],
+    "name:war_x_preferred":[
+        "Lovendegem"
+    ],
+    "name:zho_x_preferred":[
+        "\u6d1b\u82ac\u5fb7\u6d77\u59c6"
+    ],
     "reversegeo:latitude":51.102741,
     "reversegeo:longitude":3.625107,
     "src:geom":"begov",
@@ -50,7 +122,7 @@
         }
     ],
     "wof:id":1108830071,
-    "wof:lastmodified":1499533279,
+    "wof:lastmodified":1564162662,
     "wof:name":"Lovendegem",
     "wof:parent_id":102049989,
     "wof:placetype":"localadmin",

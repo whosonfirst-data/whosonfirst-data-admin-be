@@ -28,6 +28,12 @@
     "iso:country":"BE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Bernt"
+    ],
+    "name:epo_x_preferred":[
+        "Bernt"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85681733,
@@ -55,7 +61,7 @@
         }
     ],
     "wof:id":1193046955,
-    "wof:lastmodified":1536369840,
+    "wof:lastmodified":1564162469,
     "wof:name":"Bernt",
     "wof:parent_id":1108830413,
     "wof:placetype":"locality",

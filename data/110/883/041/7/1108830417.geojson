@@ -14,7 +14,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007254,
-    "geom:area_square_m":56412244.133633,
+    "geom:area_square_m":56412244.13363,
     "geom:bbox":"3.99664722093,50.9851106821,4.19406408725,51.0724174078",
     "geom:latitude":51.027599,
     "geom:longitude":4.090702,
@@ -23,6 +23,144 @@
     "lbl:longitude":4.107148,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:afr_x_preferred":[
+        "Dendermonde"
+    ],
+    "name:bel_x_preferred":[
+        "\u0414\u044d\u043d\u0434\u044d\u0440\u043c\u043e\u043d\u0434\u044d"
+    ],
+    "name:bre_x_preferred":[
+        "Dendermonde"
+    ],
+    "name:bul_x_preferred":[
+        "\u0414\u0435\u043d\u0434\u0435\u0440\u043c\u043e\u043d\u0434\u0435"
+    ],
+    "name:cat_x_preferred":[
+        "Dendermonde"
+    ],
+    "name:ceb_x_preferred":[
+        "Dendermonde"
+    ],
+    "name:ces_x_preferred":[
+        "Dendermonde"
+    ],
+    "name:deu_x_preferred":[
+        "Dendermonde"
+    ],
+    "name:ell_x_preferred":[
+        "\u039d\u03c4\u03b5\u03bd\u03c4\u03b5\u03c1\u03bc\u03cc\u03bd\u03c4\u03b5"
+    ],
+    "name:epo_x_preferred":[
+        "Dendermonde"
+    ],
+    "name:est_x_preferred":[
+        "Dendermonde"
+    ],
+    "name:eus_x_preferred":[
+        "Dendermonde"
+    ],
+    "name:fas_x_preferred":[
+        "\u062f\u0627\u0646\u062f\u0631\u0645\u0648\u0646\u062f"
+    ],
+    "name:fin_x_preferred":[
+        "Dendermonde"
+    ],
+    "name:fra_x_preferred":[
+        "Termonde"
+    ],
+    "name:gle_x_preferred":[
+        "Dendermonde"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d3\u05e0\u05d3\u05e8\u05de\u05d5\u05e0\u05d3\u05d4"
+    ],
+    "name:hun_x_preferred":[
+        "Dendermonde"
+    ],
+    "name:ind_x_preferred":[
+        "Dendermonde"
+    ],
+    "name:ita_x_preferred":[
+        "Dendermonde"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30c7\u30f3\u30c7\u30eb\u30e2\u30f3\u30c7"
+    ],
+    "name:kor_x_preferred":[
+        "\ub374\ub370\ub974\ubaac\ub354"
+    ],
+    "name:lat_x_preferred":[
+        "Teneramonda"
+    ],
+    "name:lim_x_preferred":[
+        "Dendermonde"
+    ],
+    "name:nld_x_preferred":[
+        "Dendermonde"
+    ],
+    "name:nor_x_preferred":[
+        "Dendermonde"
+    ],
+    "name:oci_x_preferred":[
+        "Dendermonde"
+    ],
+    "name:pol_x_preferred":[
+        "Dendermonde"
+    ],
+    "name:por_x_preferred":[
+        "Dendermonde"
+    ],
+    "name:ron_x_preferred":[
+        "Dendermonde"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u0435\u043d\u0434\u0435\u0440\u043c\u043e\u043d\u0434\u0435"
+    ],
+    "name:sco_x_preferred":[
+        "Dendermonde"
+    ],
+    "name:slk_x_preferred":[
+        "Dendermonde"
+    ],
+    "name:spa_x_preferred":[
+        "Dendermonde"
+    ],
+    "name:srp_x_preferred":[
+        "\u0414\u0435\u043d\u0434\u0435\u0440\u043c\u043e\u043d\u0434\u0435"
+    ],
+    "name:swa_x_preferred":[
+        "Dendermonde"
+    ],
+    "name:swe_x_preferred":[
+        "Dendermonde"
+    ],
+    "name:tat_x_preferred":[
+        "\u0414\u0435\u043d\u0434\u0435\u0440\u043c\u043e\u043d\u0434\u0435"
+    ],
+    "name:tur_x_preferred":[
+        "Dendermonde"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0414\u0435\u043d\u0434\u0435\u0440\u043c\u043e\u043d\u0434\u0435"
+    ],
+    "name:vep_x_preferred":[
+        "Dendermonde"
+    ],
+    "name:vie_x_preferred":[
+        "Dendermonde"
+    ],
+    "name:vls_x_preferred":[
+        "Dendermonde"
+    ],
+    "name:vol_x_preferred":[
+        "Dendermonde"
+    ],
+    "name:war_x_preferred":[
+        "Dendermonde"
+    ],
+    "name:zho_x_preferred":[
+        "\u767b\u5fb7\u5c14\u8499\u5fb7"
+    ],
     "reversegeo:latitude":51.038248,
     "reversegeo:longitude":4.107148,
     "src:geom":"begov",
@@ -50,7 +188,7 @@
         }
     ],
     "wof:id":1108830417,
-    "wof:lastmodified":1499533724,
+    "wof:lastmodified":1564162602,
     "wof:name":"Dendermonde",
     "wof:parent_id":102049979,
     "wof:placetype":"localadmin",

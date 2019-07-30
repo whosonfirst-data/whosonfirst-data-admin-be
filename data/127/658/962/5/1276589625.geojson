@@ -28,6 +28,12 @@
     "iso:country":"BE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Grand Bois"
+    ],
+    "name:swe_x_preferred":[
+        "Grand Bois"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85681699,
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":1276589625,
-    "wof:lastmodified":1536933381,
+    "wof:lastmodified":1564162161,
     "wof:name":"Grand Bois",
     "wof:parent_id":102049931,
     "wof:placetype":"locality",

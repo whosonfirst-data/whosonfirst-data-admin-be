@@ -28,8 +28,20 @@
     "iso:country":"BE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Warnant"
+    ],
+    "name:fra_x_preferred":[
+        "Warnant"
+    ],
+    "name:nld_x_preferred":[
+        "Warnant"
+    ],
     "name:und_x_variant":[
         "Anh\u00e9e (Warnant)"
+    ],
+    "name:wln_x_preferred":[
+        "Warnin"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -57,7 +69,7 @@
         }
     ],
     "wof:id":1293134453,
-    "wof:lastmodified":1537586885,
+    "wof:lastmodified":1564161984,
     "wof:name":"Warnant",
     "wof:parent_id":102049919,
     "wof:placetype":"locality",

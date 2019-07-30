@@ -26,6 +26,99 @@
     "iso:country":"BE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0644\u0627\u0628\u0631\u0648\u064a"
+    ],
+    "name:bre_x_preferred":[
+        "Labroye"
+    ],
+    "name:cat_x_preferred":[
+        "Labroye"
+    ],
+    "name:ceb_x_preferred":[
+        "Labroye"
+    ],
+    "name:deu_x_preferred":[
+        "Labroye"
+    ],
+    "name:eus_x_preferred":[
+        "Labroye"
+    ],
+    "name:fra_x_preferred":[
+        "Labroye"
+    ],
+    "name:hun_x_preferred":[
+        "Labroye"
+    ],
+    "name:ind_x_preferred":[
+        "Labroye"
+    ],
+    "name:ita_x_preferred":[
+        "Labroye"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041b\u0430\u0431\u0440\u0443\u0430"
+    ],
+    "name:lat_x_preferred":[
+        "Labroye"
+    ],
+    "name:ltz_x_preferred":[
+        "Labroye"
+    ],
+    "name:mlg_x_preferred":[
+        "Labroye"
+    ],
+    "name:msa_x_preferred":[
+        "Labroye"
+    ],
+    "name:nld_x_preferred":[
+        "Labroye"
+    ],
+    "name:oci_x_preferred":[
+        "Labroye"
+    ],
+    "name:pcd_x_preferred":[
+        "L\u2019Arbroie"
+    ],
+    "name:pms_x_preferred":[
+        "Labroye"
+    ],
+    "name:pol_x_preferred":[
+        "Labroye"
+    ],
+    "name:por_x_preferred":[
+        "Labroye"
+    ],
+    "name:ron_x_preferred":[
+        "Labroye"
+    ],
+    "name:slk_x_preferred":[
+        "Labroye"
+    ],
+    "name:spa_x_preferred":[
+        "Labroye"
+    ],
+    "name:swe_x_preferred":[
+        "Labroye"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041b\u0430\u0431\u0440\u0443\u0430"
+    ],
+    "name:urd_x_preferred":[
+        "\u0644\u0627\u0628\u0631\u0648\u0626\u06d2"
+    ],
+    "name:vie_x_preferred":[
+        "Labroye"
+    ],
+    "name:vol_x_preferred":[
+        "Labroye"
+    ],
+    "name:war_x_preferred":[
+        "Labroye"
+    ],
+    "name:zho_x_preferred":[
+        "\u62c9\u5e03\u7f57\u8036"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85681723,
@@ -51,7 +144,7 @@
         }
     ],
     "wof:id":1277017337,
-    "wof:lastmodified":1536855652,
+    "wof:lastmodified":1564162102,
     "wof:name":"Labroye",
     "wof:parent_id":102049951,
     "wof:placetype":"locality",
