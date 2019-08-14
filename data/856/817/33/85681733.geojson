@@ -19,6 +19,9 @@
     "label:eng_x_preferred_placetype":[
         "province"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "OV"
+    ],
     "lbl:latitude":50.981154,
     "lbl:longitude":3.856605,
     "mps:latitude":50.981154,
@@ -193,7 +196,7 @@
         "fra",
         "deu"
     ],
-    "wof:lastmodified":1553550674,
+    "wof:lastmodified":1565814542,
     "wof:name":"Oost-Vlaanderen",
     "wof:parent_id":404227357,
     "wof:placetype":"region",
@@ -202,7 +205,7 @@
     "wof:population":1432326,
     "wof:population_rank":12,
     "wof:repo":"whosonfirst-data-admin-be",
-    "wof:shortcode":"OVL",
+    "wof:shortcode":"OV",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

@@ -19,6 +19,9 @@
     "label:eng_x_preferred_placetype":[
         "province"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "HT"
+    ],
     "lbl:latitude":50.513411,
     "lbl:longitude":3.92736,
     "mps:latitude":50.513411,
@@ -206,7 +209,7 @@
         "fra",
         "deu"
     ],
-    "wof:lastmodified":1564161847,
+    "wof:lastmodified":1565814523,
     "wof:name":"Hainaut",
     "wof:parent_id":404227353,
     "wof:placetype":"region",
@@ -215,7 +218,7 @@
     "wof:population":1309880,
     "wof:population_rank":12,
     "wof:repo":"whosonfirst-data-admin-be",
-    "wof:shortcode":"HAI",
+    "wof:shortcode":"HT",
     "wof:subdivision":"BE-WHT",
     "wof:superseded_by":[],
     "wof:supersedes":[],

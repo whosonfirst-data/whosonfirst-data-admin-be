@@ -19,6 +19,9 @@
     "label:eng_x_preferred_placetype":[
         "province"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "BW"
+    ],
     "lbl:latitude":50.656119,
     "lbl:longitude":4.576695,
     "mps:latitude":50.656119,
@@ -182,7 +185,7 @@
         "fra",
         "deu"
     ],
-    "wof:lastmodified":1553550675,
+    "wof:lastmodified":1565814498,
     "wof:name":"Brabant wallon",
     "wof:parent_id":404227353,
     "wof:placetype":"region",
@@ -191,7 +194,7 @@
     "wof:population":379515,
     "wof:population_rank":10,
     "wof:repo":"whosonfirst-data-admin-be",
-    "wof:shortcode":"WBR",
+    "wof:shortcode":"BW",
     "wof:subdivision":"BE-WBR",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -19,6 +19,9 @@
     "label:eng_x_preferred_placetype":[
         "province"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "LI"
+    ],
     "lbl:latitude":50.97529,
     "lbl:longitude":5.427647,
     "mps:latitude":50.97529,
@@ -321,7 +324,7 @@
         "fra",
         "deu"
     ],
-    "wof:lastmodified":1564161842,
+    "wof:lastmodified":1565814504,
     "wof:name":"Limburg",
     "wof:parent_id":404227357,
     "wof:placetype":"region",
@@ -330,7 +333,7 @@
     "wof:population":838505,
     "wof:population_rank":11,
     "wof:repo":"whosonfirst-data-admin-be",
-    "wof:shortcode":"LIM",
+    "wof:shortcode":"LI",
     "wof:subdivision":"BE-VLI",
     "wof:superseded_by":[],
     "wof:supersedes":[],

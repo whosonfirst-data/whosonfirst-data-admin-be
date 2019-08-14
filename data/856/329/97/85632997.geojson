@@ -14,6 +14,9 @@
     "itu:country_code":[
         "32"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "BE"
+    ],
     "lbl:latitude":50.780688,
     "lbl:longitude":4.792712,
     "mps:latitude":50.780688,
@@ -1208,7 +1211,7 @@
         "fra",
         "deu"
     ],
-    "wof:lastmodified":1563233939,
+    "wof:lastmodified":1565814488,
     "wof:name":"Belgium",
     "wof:parent_id":102191581,
     "wof:placetype":"country",

@@ -19,6 +19,9 @@
     "label:eng_x_preferred_placetype":[
         "province"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "LG"
+    ],
     "lbl:latitude":50.558223,
     "lbl:longitude":5.725104,
     "mps:latitude":50.558223,
@@ -179,7 +182,7 @@
         "fra",
         "deu"
     ],
-    "wof:lastmodified":1553550676,
+    "wof:lastmodified":1565814494,
     "wof:name":"Liege",
     "wof:parent_id":404227353,
     "wof:placetype":"region",
@@ -188,7 +191,7 @@
     "wof:population":1067685,
     "wof:population_rank":12,
     "wof:repo":"whosonfirst-data-admin-be",
-    "wof:shortcode":"LIE",
+    "wof:shortcode":"LG",
     "wof:subdivision":"BE-WLG",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -19,6 +19,9 @@
     "label:eng_x_preferred_placetype":[
         "province"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "AN"
+    ],
     "lbl:latitude":51.222805,
     "lbl:longitude":4.655059,
     "mps:latitude":51.222805,
@@ -514,7 +517,7 @@
         "fra",
         "deu"
     ],
-    "wof:lastmodified":1563233934,
+    "wof:lastmodified":1565814515,
     "wof:name":"Antwerpen",
     "wof:parent_id":404227357,
     "wof:placetype":"region",
@@ -523,7 +526,7 @@
     "wof:population":1744862,
     "wof:population_rank":12,
     "wof:repo":"whosonfirst-data-admin-be",
-    "wof:shortcode":"ANT",
+    "wof:shortcode":"AN",
     "wof:subdivision":"BE-VAN",
     "wof:superseded_by":[],
     "wof:supersedes":[],
