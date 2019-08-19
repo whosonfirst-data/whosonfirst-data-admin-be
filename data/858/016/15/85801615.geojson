@@ -36,9 +36,6 @@
     "name:deu_x_preferred":[
         "Merksem"
     ],
-    "name:dut_x_variant":[
-        "Merksem"
-    ],
     "name:eng_x_preferred":[
         "Merksem"
     ],
@@ -111,7 +108,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:wordcount":279,
     "wof:belongsto":[
         102191581,
@@ -149,7 +146,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1563233990,
+    "wof:lastmodified":1566247533,
     "wof:name":"Merksem",
     "wof:parent_id":101748099,
     "wof:placetype":"neighbourhood",

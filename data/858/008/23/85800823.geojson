@@ -121,7 +121,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         102191581,
         1108830423,
@@ -158,7 +158,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1563233970,
+    "wof:lastmodified":1566247532,
     "wof:name":"Berchem",
     "wof:parent_id":101748099,
     "wof:placetype":"neighbourhood",

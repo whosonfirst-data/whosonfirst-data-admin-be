@@ -81,9 +81,6 @@
     "name:fra_x_variant":[
         "Ixelles"
     ],
-    "name:fre_x_variant":[
-        "Ixelles"
-    ],
     "name:gle_x_preferred":[
         "Ixelles"
     ],
@@ -239,7 +236,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         102191581,
         85632997,
@@ -274,7 +271,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1563233951,
+    "wof:lastmodified":1566247549,
     "wof:name":"Elsene",
     "wof:parent_id":101751573,
     "wof:placetype":"neighbourhood",

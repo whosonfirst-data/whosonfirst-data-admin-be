@@ -6,18 +6,25 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"4.32424,50.78656,4.32424,50.78656",
-    "geom:latitude":50.78656,
-    "geom:longitude":4.32424,
+    "geom:bbox":"4.335663,50.787993,4.335663,50.787993",
+    "geom:latitude":50.787993,
+    "geom:longitude":4.335663,
     "gn:gn_country":"BE",
     "gn:gn_fcode":"PPL",
     "gn:gn_pop":0,
     "iso:country":"BE",
-    "lbl:latitude":50.78656,
-    "lbl:longitude":4.32424,
+    "lbl:latitude":50.787993,
+    "lbl:longitude":4.335663,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":1,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":13.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "mz:tier_metro":30,
     "name:fra_x_preferred":[
         "Calevoet"
     ],
@@ -48,8 +55,11 @@
     "qs_pg:qs_pg_placetype_gp":"Suburb",
     "qs_pg:woe_adm0":23424757,
     "qs_pg:woe_id":971814,
-    "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "qs_pg"
+    ],
+    "src:lbl_centroid":"whosonfirst",
     "woe:adm0_id":23424757,
     "woe:name_adm0":"Belgique",
     "woe:name_adm1":"Vlaams Brabant",
@@ -71,7 +81,7 @@
     },
     "wof:country":"BE",
     "wof:created":1497312342,
-    "wof:geomhash":"76a3c77fffa3f310c7e23a89787f5cea",
+    "wof:geomhash":"297b04c9e0978b178e71d803fd5a9ff6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,7 +94,7 @@
         }
     ],
     "wof:id":1126083571,
-    "wof:lastmodified":1534379234,
+    "wof:lastmodified":1566247550,
     "wof:name":"Kalevoet",
     "wof:parent_id":101751573,
     "wof:placetype":"neighbourhood",
@@ -96,10 +106,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    4.32424,
-    50.78656,
-    4.32424,
-    50.78656
+    4.335663,
+    50.787993,
+    4.335663,
+    50.787993
 ],
-  "geometry": {"coordinates":[4.32424,50.78656],"type":"Point"}
+  "geometry": {"coordinates":[4.335663,50.787993],"type":"Point"}
 }

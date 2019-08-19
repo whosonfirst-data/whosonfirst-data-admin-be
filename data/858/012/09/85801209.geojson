@@ -57,7 +57,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         102191581,
         1108830529,
@@ -91,7 +91,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1561831362,
+    "wof:lastmodified":1566247566,
     "wof:name":"Grote Bempt",
     "wof:parent_id":101913243,
     "wof:placetype":"neighbourhood",

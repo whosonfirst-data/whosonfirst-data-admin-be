@@ -76,7 +76,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:wordcount":21,
     "wof:belongsto":[
         102191581,
@@ -112,7 +112,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1564161850,
+    "wof:lastmodified":1566247565,
     "wof:name":"Hoek",
     "wof:parent_id":101913231,
     "wof:placetype":"neighbourhood",

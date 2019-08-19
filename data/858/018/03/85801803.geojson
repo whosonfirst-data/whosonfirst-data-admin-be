@@ -27,9 +27,6 @@
     "name:deu_x_preferred":[
         "Quatre-Bras"
     ],
-    "name:dut_x_variant":[
-        "Quatre Bras"
-    ],
     "name:eng_x_preferred":[
         "Quatre Bras"
     ],
@@ -100,7 +97,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:wordcount":152,
     "wof:belongsto":[
         102191581,
@@ -137,7 +134,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1563233973,
+    "wof:lastmodified":1566247566,
     "wof:name":"Quatre Bras",
     "wof:parent_id":101913235,
     "wof:placetype":"neighbourhood",

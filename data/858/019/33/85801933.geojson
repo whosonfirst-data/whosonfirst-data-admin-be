@@ -71,7 +71,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:latitude":50.861703,
     "wd:longitude":4.512678,
     "wd:wordcount":75,
@@ -111,7 +111,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1563233997,
+    "wof:lastmodified":1566247559,
     "wof:name":"Sterrebeek",
     "wof:parent_id":101755517,
     "wof:placetype":"neighbourhood",

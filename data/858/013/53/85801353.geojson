@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000351,
-    "geom:area_square_m":2739680.707758,
+    "geom:area_square_m":2739680.707757,
     "geom:bbox":"4.43847656129,50.8391148456,4.46140958383,50.8597102804",
     "geom:latitude":50.849173,
     "geom:longitude":4.450031,
@@ -59,7 +59,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         102191581,
         85632997,
@@ -93,7 +93,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1497315849,
+    "wof:lastmodified":1566247550,
     "wof:name":"Kapelveld",
     "wof:parent_id":101751573,
     "wof:placetype":"neighbourhood",

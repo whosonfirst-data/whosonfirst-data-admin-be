@@ -24,11 +24,6 @@
     "mz:min_zoom":13.0,
     "mz:tier_locality":1,
     "mz:tier_metro":30,
-    "name:dut_x_variant":[
-        "St-Stevens-Woluwe",
-        "Sint-Stevens-Woluwe",
-        "St.-Stevens-Woluwe"
-    ],
     "name:eng_x_preferred":[
         "Sint-Stevens-Woluwe"
     ],
@@ -42,7 +37,8 @@
         "Sint-Stevens-Woluwe"
     ],
     "name:nld_x_variant":[
-        "St.-Stevens-Woluwe"
+        "St.-Stevens-Woluwe",
+        "St-Stevens-Woluwe"
     ],
     "name:ron_x_preferred":[
         "Sint-Stevens-Woluwe"
@@ -82,7 +78,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:latitude":50.866667,
     "wd:longitude":4.45,
     "wd:wordcount":77,
@@ -122,7 +118,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1563233999,
+    "wof:lastmodified":1566247565,
     "wof:name":"Sint-Stevens-Woluwe",
     "wof:parent_id":101913231,
     "wof:placetype":"neighbourhood",

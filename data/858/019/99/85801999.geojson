@@ -144,7 +144,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "src:population":"geonames",
     "wd:wordcount":440,
     "wof:belongsto":[
@@ -183,7 +183,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1563234000,
+    "wof:lastmodified":1566247560,
     "wof:name":"Wezembeek-Oppem",
     "wof:parent_id":101755517,
     "wof:placetype":"neighbourhood",

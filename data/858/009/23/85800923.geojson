@@ -54,7 +54,7 @@
     "qs:woe_ver":"7.10.0",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         102191581,
         85632997,
@@ -84,7 +84,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1527270048,
+    "wof:lastmodified":1566247549,
     "wof:name":"Bordet",
     "wof:parent_id":101751573,
     "wof:placetype":"neighbourhood",

@@ -57,7 +57,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         102191581,
         1108830453,
@@ -91,7 +91,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1561831367,
+    "wof:lastmodified":1566247559,
     "wof:name":"Warandeberg",
     "wof:parent_id":101755517,
     "wof:placetype":"neighbourhood",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000061,
-    "geom:area_square_m":476316.762992,
+    "geom:area_square_m":476316.762993,
     "geom:bbox":"4.31213378906,50.8300095595,4.32312011719,50.8373855362",
     "geom:latitude":50.833639,
     "geom:longitude":4.317889,
@@ -59,7 +59,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         102191581,
         85632997,
@@ -91,7 +91,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1527269911,
+    "wof:lastmodified":1566247550,
     "wof:name":"La Petite Ile",
     "wof:parent_id":101751573,
     "wof:placetype":"neighbourhood",

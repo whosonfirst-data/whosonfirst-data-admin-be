@@ -64,17 +64,15 @@
     "name:fin_x_preferred":[
         "Woluwe-Saint-Pierre"
     ],
+    "name:fra_x_colloquial":[
+        "Woluwe-Saint-Pierre"
+    ],
     "name:fra_x_preferred":[
         "Woluw\u00e9-St.-Pierre"
     ],
     "name:fra_x_variant":[
         "Woluwe-Saint-Pierre",
-        "Commune de Woluwe-Saint-Pierre"
-    ],
-    "name:fre_x_colloquial":[
-        "Woluwe-Saint-Pierre"
-    ],
-    "name:fre_x_variant":[
+        "Commune de Woluwe-Saint-Pierre",
         "Woluw\u00e9-Saint-Pierre"
     ],
     "name:gle_x_preferred":[
@@ -193,7 +191,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "src:population":"geonames",
     "wd:wordcount":722,
     "wof:belongsto":[
@@ -229,7 +227,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1563233973,
+    "wof:lastmodified":1566247551,
     "wof:name":"Woluwe-St.-Pierre",
     "wof:parent_id":101751573,
     "wof:placetype":"neighbourhood",

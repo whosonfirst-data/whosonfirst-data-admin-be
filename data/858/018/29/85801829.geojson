@@ -61,7 +61,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         102191581,
         85632997,
@@ -94,7 +94,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1497312343,
+    "wof:lastmodified":1566247550,
     "wof:name":"Roodebeek",
     "wof:parent_id":101751573,
     "wof:placetype":"neighbourhood",

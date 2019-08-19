@@ -83,9 +83,6 @@
         "Commune de Molenbeek-Saint-Jean",
         "Molenbeek-Saint-Jean"
     ],
-    "name:fre_x_variant":[
-        "Molenbeek-Saint-Jean"
-    ],
     "name:gle_x_preferred":[
         "Molenbeek-Saint-Jean"
     ],
@@ -224,7 +221,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "src:population":"geonames",
     "wd:wordcount":2401,
     "wof:belongsto":[
@@ -261,7 +258,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1563233976,
+    "wof:lastmodified":1566247550,
     "wof:name":"St-Jans-Molenbeek",
     "wof:parent_id":101751573,
     "wof:placetype":"neighbourhood",

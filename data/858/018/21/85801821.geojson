@@ -57,7 +57,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         102191581,
         1108830631,
@@ -91,7 +91,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1561831365,
+    "wof:lastmodified":1566247559,
     "wof:name":"Robselaerkouter",
     "wof:parent_id":101755411,
     "wof:placetype":"neighbourhood",

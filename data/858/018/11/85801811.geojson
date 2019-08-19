@@ -78,7 +78,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:wordcount":52,
     "wof:belongsto":[
         102191581,
@@ -113,7 +113,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1564161862,
+    "wof:lastmodified":1566247566,
     "wof:name":"Ravenstein",
     "wof:parent_id":101754329,
     "wof:placetype":"neighbourhood",

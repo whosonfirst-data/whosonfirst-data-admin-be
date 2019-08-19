@@ -56,7 +56,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         102191581,
         1108830631,
@@ -88,7 +88,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1561831362,
+    "wof:lastmodified":1566247570,
     "wof:name":"Kisteveld",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

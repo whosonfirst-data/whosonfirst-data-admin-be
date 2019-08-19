@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000104,
-    "geom:area_square_m":813638.648827,
+    "geom:area_square_m":813638.648828,
     "geom:bbox":"4.42749023438,50.8432373308,4.44122314453,50.8562427491",
     "geom:latitude":50.850126,
     "geom:longitude":4.435128,
@@ -58,7 +58,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         102191581,
         85632997,
@@ -92,7 +92,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1497315878,
+    "wof:lastmodified":1566247550,
     "wof:name":"Rodebeek",
     "wof:parent_id":101751573,
     "wof:placetype":"neighbourhood",
