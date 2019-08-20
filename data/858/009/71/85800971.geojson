@@ -33,9 +33,6 @@
     "name:eng_x_preferred":[
         "Broeck"
     ],
-    "name:eng_x_variant":[
-        "Broeck"
-    ],
     "name:fra_x_preferred":[
         "Broek"
     ],
@@ -74,7 +71,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:wordcount":107,
     "wof:belongsto":[
         102191581,
@@ -108,7 +105,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1564161859,
+    "wof:lastmodified":1566247549,
     "wof:name":"Broek",
     "wof:parent_id":101751573,
     "wof:placetype":"neighbourhood",

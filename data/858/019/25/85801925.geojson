@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000283,
-    "geom:area_square_m":2209959.838964,
+    "geom:area_square_m":2209959.838966,
     "geom:bbox":"4.32312011719,50.7803242561,4.35154693393,50.7989914115",
     "geom:latitude":50.79165,
     "geom:longitude":4.336641,
@@ -57,7 +57,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         102191581,
         85632997,
@@ -90,7 +90,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1497309603,
+    "wof:lastmodified":1566247550,
     "wof:name":"Stalle",
     "wof:parent_id":101751573,
     "wof:placetype":"neighbourhood",

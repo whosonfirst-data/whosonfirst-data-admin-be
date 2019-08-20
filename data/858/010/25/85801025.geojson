@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000074,
-    "geom:area_square_m":575905.250983,
+    "geom:area_square_m":575905.250984,
     "geom:bbox":"4.33135986328,50.8319629612,4.34371948242,50.8406358209",
     "geom:latitude":50.83615,
     "geom:longitude":4.336383,
@@ -54,7 +54,7 @@
     "qs:woe_ver":"7.10.0",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         102191581,
         85632997,
@@ -84,7 +84,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1527270440,
+    "wof:lastmodified":1566247549,
     "wof:name":"Curegem",
     "wof:parent_id":101751573,
     "wof:placetype":"neighbourhood",

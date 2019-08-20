@@ -72,7 +72,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         102191581,
         85632997,
@@ -107,7 +107,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1563233990,
+    "wof:lastmodified":1566247550,
     "wof:name":"Ossegem",
     "wof:parent_id":101751573,
     "wof:placetype":"neighbourhood",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000096,
-    "geom:area_square_m":748129.548071,
+    "geom:area_square_m":748129.548072,
     "geom:bbox":"4.31951796715,50.8267584748,4.33685302734,50.8354322989",
     "geom:latitude":50.830833,
     "geom:longitude":4.328676,
@@ -56,7 +56,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         102191581,
         85632997,
@@ -88,7 +88,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1527270404,
+    "wof:lastmodified":1566247550,
     "wof:name":"Midi Zuid",
     "wof:parent_id":101751573,
     "wof:placetype":"neighbourhood",

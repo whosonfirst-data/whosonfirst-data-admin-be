@@ -1,0 +1,16 @@
+{
+  "id": 1126083571,
+  "type": "Feature",
+  "properties": {
+    "src:geom":"qs_pg",
+    "wof:geomhash":"297b04c9e0978b178e71d803fd5a9ff6",
+    "wof:id":1126083571
+},
+  "bbox": [
+    4.335663,
+    50.787993,
+    4.335663,
+    50.787993
+],
+  "geometry": {"coordinates":[4.335663,50.787993],"type":"Point"}
+}

@@ -78,7 +78,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "src:population":"geonames",
     "wd:latitude":50.8942,
     "wd:longitude":4.4356,
@@ -119,7 +119,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1563233991,
+    "wof:lastmodified":1566247565,
     "wof:name":"Diegem",
     "wof:parent_id":101913231,
     "wof:placetype":"neighbourhood",

@@ -59,7 +59,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:wordcount":104,
     "wof:belongsto":[
         102191581,
@@ -92,7 +92,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1527270038,
+    "wof:lastmodified":1566247548,
     "wof:name":"Bascule",
     "wof:parent_id":101751573,
     "wof:placetype":"neighbourhood",

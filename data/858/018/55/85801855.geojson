@@ -96,9 +96,6 @@
     "name:fra_x_variant":[
         "Schaerbeek"
     ],
-    "name:fre_x_variant":[
-        "Schaerbeek"
-    ],
     "name:gle_x_preferred":[
         "Schaerbeek"
     ],
@@ -235,7 +232,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         102191581,
         85632997,
@@ -270,7 +267,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1563233977,
+    "wof:lastmodified":1566247550,
     "wof:name":"Schaarbeek",
     "wof:parent_id":101751573,
     "wof:placetype":"neighbourhood",

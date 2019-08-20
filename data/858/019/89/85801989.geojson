@@ -58,9 +58,6 @@
     "name:fra_x_preferred":[
         "Watermael-Boitsfort"
     ],
-    "name:fre_x_variant":[
-        "Watermael-Boitsfort"
-    ],
     "name:gla_x_preferred":[
         "Watermaal-Boosvorde"
     ],
@@ -171,7 +168,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "src:population":"geonames",
     "wd:wordcount":450,
     "wof:belongsto":[
@@ -207,7 +204,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1563233998,
+    "wof:lastmodified":1566247551,
     "wof:name":"Watermael",
     "wof:parent_id":101751573,
     "wof:placetype":"neighbourhood",

@@ -68,18 +68,15 @@
     "name:fin_x_preferred":[
         "Woluwe-Saint-Lambert"
     ],
+    "name:fra_x_colloquial":[
+        "Woluwe-Saint-Lambert"
+    ],
     "name:fra_x_preferred":[
         "Woluw\u00e9-St.-Lambert"
     ],
     "name:fra_x_variant":[
         "Woluw\u00e9-Saint-Lambert",
         "Woluwe-Saint-Lambert"
-    ],
-    "name:fre_x_colloquial":[
-        "Woluwe-Saint-Lambert"
-    ],
-    "name:fre_x_variant":[
-        "Woluw\u00e9-Saint-Lambert"
     ],
     "name:gle_x_preferred":[
         "Woluwe-Saint-Lambert"
@@ -194,7 +191,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "src:population":"geonames",
     "wd:wordcount":1064,
     "wof:belongsto":[
@@ -231,7 +228,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1563233972,
+    "wof:lastmodified":1566247551,
     "wof:name":"Woluwe-St.-Lambert",
     "wof:parent_id":101751573,
     "wof:placetype":"neighbourhood",

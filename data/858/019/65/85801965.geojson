@@ -60,7 +60,7 @@
     "qs:woe_ver":"7.10.0",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         102191581,
         85632997,
@@ -91,7 +91,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1561831367,
+    "wof:lastmodified":1566247566,
     "wof:name":"Verrewinkel",
     "wof:parent_id":101913249,
     "wof:placetype":"neighbourhood",

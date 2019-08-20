@@ -98,7 +98,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:latitude":50.8936,
     "wd:longitude":4.3853,
     "wd:wordcount":959,
@@ -136,7 +136,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1563233986,
+    "wof:lastmodified":1566247565,
     "wof:name":"Neder-Over-Heembeek",
     "wof:parent_id":101751573,
     "wof:placetype":"neighbourhood",

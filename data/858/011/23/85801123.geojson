@@ -225,7 +225,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:wordcount":1121,
     "wof:belongsto":[
         102191581,
@@ -261,7 +261,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1563233985,
+    "wof:lastmodified":1566247549,
     "wof:name":"Etterbeek",
     "wof:parent_id":101751573,
     "wof:placetype":"neighbourhood",

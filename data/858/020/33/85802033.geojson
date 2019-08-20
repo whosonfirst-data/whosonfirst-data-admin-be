@@ -168,7 +168,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "src:population":"geonames",
     "wd:wordcount":2882,
     "wof:belongsto":[
@@ -207,7 +207,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1563233971,
+    "wof:lastmodified":1566247565,
     "wof:name":"Zaventem",
     "wof:parent_id":101913231,
     "wof:placetype":"neighbourhood",

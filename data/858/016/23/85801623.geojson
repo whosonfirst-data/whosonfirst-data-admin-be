@@ -110,7 +110,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:wordcount":279,
     "wof:belongsto":[
         102191581,
@@ -149,7 +149,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1563233989,
+    "wof:lastmodified":1566247533,
     "wof:name":"Merxem",
     "wof:parent_id":101748099,
     "wof:placetype":"neighbourhood",
