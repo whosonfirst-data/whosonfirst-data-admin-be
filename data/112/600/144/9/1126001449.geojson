@@ -9,15 +9,18 @@
     "geom:bbox":"5.60019,49.67385,5.60019,49.67385",
     "geom:latitude":49.67385,
     "geom:longitude":5.60019,
-    "gn:gn_country":"BE",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":5228,
+    "gn:country":"BE",
+    "gn:fcode":"PPL",
     "gn:population":5228,
     "iso:country":"BE",
+    "lbl:bbox":"5.58019,49.65385,5.62019,49.69385",
     "lbl:latitude":49.67385,
     "lbl:longitude":5.60019,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bar_x_preferred":[
         "\u00c9talle"
@@ -97,9 +100,6 @@
     "name:swe_x_preferred":[
         "\u00c9talle"
     ],
-    "name:unk_x_variant":[
-        "\u00c9talle"
-    ],
     "name:vie_x_preferred":[
         "\u00c9talle"
     ],
@@ -133,7 +133,7 @@
     "qs_pg:woe_adm0":23424757,
     "qs_pg:woe_id":969466,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424757,
     "woe:name_adm0":"Belgique",
@@ -167,7 +167,7 @@
         }
     ],
     "wof:id":1126001449,
-    "wof:lastmodified":1563235931,
+    "wof:lastmodified":1566612184,
     "wof:name":"Etalle",
     "wof:parent_id":102049907,
     "wof:placetype":"locality",

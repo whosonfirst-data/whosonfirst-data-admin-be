@@ -5,17 +5,21 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000257,
-    "geom:area_square_m":2009738.128949,
+    "geom:area_square_m":2009738.128948,
     "geom:bbox":"4.14681786851,50.6990143102,4.18697445183,50.717424076",
     "geom:latitude":50.70686,
     "geom:longitude":4.168246,
     "iso:country":"BE",
     "lbl:latitude":50.708268,
     "lbl:longitude":4.175243,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.708268,
     "mps:longitude":4.175243,
     "mz:hierarchy_label":1,
-    "name:unk_x_variant":[
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
+    "name:und_x_variant":[
         "Sint-Renelde"
     ],
     "qs:a0":"Belgi\u00eb#Belgique#Belgien",
@@ -35,7 +39,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681693,
         102191581,
@@ -47,7 +51,6 @@
     "wof:concordances":{
         "gn:id":2787432,
         "gp:id":976593,
-        "qs:id":806310,
         "qs_pg:id":806310
     },
     "wof:country":"BE",
@@ -63,7 +66,7 @@
         }
     ],
     "wof:id":101755227,
-    "wof:lastmodified":1497290967,
+    "wof:lastmodified":1566611813,
     "wof:name":"Saintes",
     "wof:parent_id":102049945,
     "wof:placetype":"locality",

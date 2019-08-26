@@ -12,10 +12,13 @@
     "iso:country":"BE",
     "lbl:latitude":50.811965,
     "lbl:longitude":4.699168,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.811965,
     "mps:longitude":4.699168,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Hamme-Mille"
     ],
@@ -43,7 +46,7 @@
     "qs:type":"rural point-multi-in-poly-resolved",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681731,
         102191581,
@@ -56,7 +59,7 @@
     "wof:concordances":{
         "gn:id":2796632,
         "gp:id":975277,
-        "qs:id":2,
+        "qs_pg:id":2,
         "wd:id":"Q2207097"
     },
     "wof:country":"BE",
@@ -73,7 +76,7 @@
         }
     ],
     "wof:id":101913259,
-    "wof:lastmodified":1561831419,
+    "wof:lastmodified":1566611900,
     "wof:name":"Hamme-Mille",
     "wof:parent_id":1108830043,
     "wof:placetype":"locality",

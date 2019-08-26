@@ -12,10 +12,13 @@
     "iso:country":"BE",
     "lbl:latitude":51.347605,
     "lbl:longitude":4.324034,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":51.347605,
     "mps:longitude":4.324034,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Berendrecht"
     ],
@@ -34,7 +37,7 @@
     "name:spa_x_preferred":[
         "Berendrecht"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Antwerpen (Berendrecht)"
     ],
     "qs:a0":"Belgi\u00eb#Belgique#Belgien",
@@ -54,7 +57,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":51.3425,
     "wd:longitude":4.3181,
     "wd:wordcount":349,
@@ -71,7 +74,6 @@
         "fct:id":"036a368c-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2802243,
         "gp:id":967142,
-        "qs:id":290253,
         "qs_pg:id":290253,
         "wd:id":"Q2590292",
         "wk:page":"Berendrecht"
@@ -93,7 +95,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1561831434,
+    "wof:lastmodified":1566611968,
     "wof:name":"Berendrecht",
     "wof:parent_id":1108830423,
     "wof:placetype":"locality",

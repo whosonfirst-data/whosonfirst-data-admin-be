@@ -13,10 +13,13 @@
     "iso:country":"BE",
     "lbl:latitude":50.04666,
     "lbl:longitude":4.31833,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":50.04666,
     "mps:longitude":4.31833,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bre_x_preferred":[
         "Chimay"
     ],
@@ -148,7 +151,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":378,
     "wof:belongsto":[
@@ -163,7 +166,6 @@
         "fct:id":"036a72dc-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2800325,
         "gp:id":968349,
-        "qs:id":1169711,
         "qs_pg:id":1169711,
         "wd:id":"Q95380",
         "wk:page":"Chimay"
@@ -184,7 +186,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1563235198,
+    "wof:lastmodified":1566611875,
     "wof:name":"Chimay",
     "wof:parent_id":102049923,
     "wof:placetype":"locality",

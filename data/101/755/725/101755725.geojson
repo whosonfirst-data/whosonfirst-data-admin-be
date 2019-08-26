@@ -5,17 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000408,
-    "geom:area_square_m":3165521.621556,
+    "geom:area_square_m":3165521.621555,
     "geom:bbox":"2.69582785424,51.1234066869,2.73133939984,51.1521857593",
     "geom:latitude":51.140376,
     "geom:longitude":2.714033,
     "iso:country":"BE",
     "lbl:latitude":51.141319,
     "lbl:longitude":2.714033,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":51.141319,
     "mps:longitude":2.714033,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Belgi\u00eb#Belgique#Belgien",
     "qs:a1":"*West-Vlanderen",
     "qs:a1r":"0Vlaams Gewest",
@@ -31,7 +34,7 @@
     "qs:type":"suburbs point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681709,
         102191581,
@@ -43,7 +46,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":974916,
-        "qs:id":3
+        "qs_pg:id":3
     },
     "wof:country":"BE",
     "wof:geomhash":"7fc6a5a5fb9f7d194adccbbb77d4b9de",
@@ -59,7 +62,7 @@
         }
     ],
     "wof:id":101755725,
-    "wof:lastmodified":1499531441,
+    "wof:lastmodified":1566611826,
     "wof:name":"Nieuwpoort-aan-Zee",
     "wof:parent_id":1108830679,
     "wof:placetype":"locality",

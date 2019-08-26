@@ -13,10 +13,13 @@
     "iso:country":"BE",
     "lbl:latitude":50.22548,
     "lbl:longitude":5.344384,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":50.22548,
     "mps:longitude":5.344384,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:bre_x_preferred":[
         "Marche-en-Famenne"
     ],
@@ -154,7 +157,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85681727,
@@ -168,7 +171,6 @@
         "fct:id":"036b8960-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2791744,
         "gp:id":973955,
-        "qs:id":460426,
         "qs_pg:id":460426,
         "wd:id":"Q269908",
         "wk:page":"Marche-en-Famenne"
@@ -189,7 +191,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1563235194,
+    "wof:lastmodified":1566611873,
     "wof:name":"Marche-en-Famenne",
     "wof:parent_id":102049921,
     "wof:placetype":"locality",

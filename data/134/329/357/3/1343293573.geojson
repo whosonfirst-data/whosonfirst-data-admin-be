@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Brussels",
     "iso:country":"BE",
+    "lbl:bbox":"5.39875,50.45914,5.43875,50.49914",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Tinlot (Fraiture)"
     ],
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":1343293573,
-    "wof:lastmodified":1537587038,
+    "wof:lastmodified":1566611047,
     "wof:name":"Fraiture",
     "wof:parent_id":102049925,
     "wof:placetype":"locality",

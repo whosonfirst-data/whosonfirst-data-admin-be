@@ -12,10 +12,13 @@
     "iso:country":"BE",
     "lbl:latitude":50.785039,
     "lbl:longitude":2.827224,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.785039,
     "mps:longitude":2.827224,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bre_x_preferred":[
         "Kemmel"
     ],
@@ -57,7 +60,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681709,
         102191581,
@@ -70,7 +73,6 @@
     "wof:concordances":{
         "gn:id":2794579,
         "gp:id":971957,
-        "qs:id":1120103,
         "qs_pg:id":1120103,
         "wd:id":"Q1024880"
     },
@@ -88,7 +90,7 @@
         }
     ],
     "wof:id":101809275,
-    "wof:lastmodified":1561831428,
+    "wof:lastmodified":1566611942,
     "wof:name":"Kemmel",
     "wof:parent_id":1108830671,
     "wof:placetype":"locality",

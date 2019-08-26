@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Brussels",
     "iso:country":"BE",
+    "lbl:bbox":"4.52296,51.11714,4.56296,51.15714",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Donk"
     ],
@@ -73,7 +77,7 @@
         }
     ],
     "wof:id":1344090533,
-    "wof:lastmodified":1564161700,
+    "wof:lastmodified":1566610978,
     "wof:name":"Donk",
     "wof:parent_id":1108830097,
     "wof:placetype":"locality",

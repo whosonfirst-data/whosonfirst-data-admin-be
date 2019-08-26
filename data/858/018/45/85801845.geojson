@@ -5,13 +5,15 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":8849095.471219,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.569153,50.584908,5.569153,50.584908",
     "geom:latitude":50.584908,
     "geom:longitude":5.569153,
     "iso:country":"BE",
+    "lbl:bbox":"5.564153,50.579908,5.574153,50.589908",
     "lbl:latitude":50.584908,
     "lbl:longitude":5.569153,
+    "lbl:max_zoom":18.0,
     "mps:latitude":50.579212,
     "mps:longitude":5.567641,
     "mz:hierarchy_label":0,
@@ -32,9 +34,6 @@
     ],
     "name:pol_x_preferred":[
         "Country Hall Ethias Li\u00e8ge"
-    ],
-    "name:unk_x_variant":[
-        "Sart Tilman"
     ],
     "qs:gn_adm0_cc":"BE",
     "qs:gn_fcode":"PPL",
@@ -66,20 +65,19 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
-        85681691,
         102191581,
         85632997,
         404227353,
         101748083,
-        102049941
+        102049941,
+        85681691
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2787206,
         "gp:id":976644,
-        "qs:id":182768,
         "qs_pg:id":182768
     },
     "wof:country":"BE",
@@ -99,7 +97,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1531862101,
+    "wof:lastmodified":1566611086,
     "wof:name":"Sart Tilman",
     "wof:parent_id":101748083,
     "wof:placetype":"neighbourhood",

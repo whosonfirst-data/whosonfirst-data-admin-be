@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Brussels",
     "iso:country":"BE",
+    "lbl:bbox":"4.84557,50.75056,4.88557,50.79056",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bre_x_preferred":[
         "Aalst"
     ],
@@ -71,8 +75,7 @@
         "\u0410\u043b\u0441\u0442"
     ],
     "name:und_x_variant":[
-        "Aelst",
-        "Aalst"
+        "Aelst"
     ],
     "name:vls_x_preferred":[
         "Oalst"
@@ -104,7 +107,7 @@
         }
     ],
     "wof:id":1326560861,
-    "wof:lastmodified":1564161520,
+    "wof:lastmodified":1566610855,
     "wof:name":"Aalst",
     "wof:parent_id":1108830281,
     "wof:placetype":"locality",

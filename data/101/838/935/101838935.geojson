@@ -13,10 +13,13 @@
     "iso:country":"BE",
     "lbl:latitude":51.223965,
     "lbl:longitude":5.438649,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":51.223965,
     "mps:longitude":5.438649,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:afr_x_preferred":[
         "Neerpelt"
     ],
@@ -157,7 +160,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":201,
     "wof:belongsto":[
@@ -172,7 +175,6 @@
     "wof:concordances":{
         "gn:id":2790357,
         "gp:id":974786,
-        "qs:id":236959,
         "qs_pg:id":236959,
         "wd:id":"Q651751",
         "wk:page":"Neerpelt"
@@ -191,7 +193,7 @@
         }
     ],
     "wof:id":101838935,
-    "wof:lastmodified":1563235389,
+    "wof:lastmodified":1566611928,
     "wof:name":"Neerpelt",
     "wof:parent_id":1108830205,
     "wof:placetype":"locality",

@@ -12,10 +12,13 @@
     "iso:country":"BE",
     "lbl:latitude":51.276622,
     "lbl:longitude":4.622011,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":51.276622,
     "mps:longitude":4.622011,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Belgi\u00eb#Belgique#Belgien",
     "qs:a1":"*Antwerpen",
     "qs:a1r":"0Vlaams Gewest",
@@ -31,7 +34,7 @@
     "qs:type":"suburbs point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681715,
         102191581,
@@ -43,7 +46,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":977151,
-        "qs:id":6
+        "qs_pg:id":6
     },
     "wof:country":"BE",
     "wof:geomhash":"6a1654ecf3ddce9d85649d3208662b6b",
@@ -59,7 +62,7 @@
         }
     ],
     "wof:id":101755763,
-    "wof:lastmodified":1499530784,
+    "wof:lastmodified":1566611806,
     "wof:name":"Heidemolen",
     "wof:parent_id":1108830185,
     "wof:placetype":"locality",

@@ -12,8 +12,10 @@
     "gn:id":"",
     "gn:population":34443,
     "iso:country":"BE",
+    "lbl:bbox":"4.346325,51.174155,4.356325,51.184155",
     "lbl:latitude":51.179155,
     "lbl:longitude":4.351325,
+    "lbl:max_zoom":18.0,
     "mps:latitude":51.191012,
     "mps:longitude":4.344542,
     "mz:hierarchy_label":0,
@@ -77,9 +79,6 @@
     "name:swe_x_preferred":[
         "Hoboken"
     ],
-    "name:unk_x_variant":[
-        "Hoboken"
-    ],
     "name:war_x_preferred":[
         "Haute Pr\u00e9"
     ],
@@ -130,7 +129,6 @@
         "fct:id":"036e1b26-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2795730,
         "gp:id":971207,
-        "qs:id":1103397,
         "qs_pg:id":1103397,
         "wd:id":"Q267663",
         "wk:page":"Hoboken, Antwerp"
@@ -153,7 +151,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1566247533,
+    "wof:lastmodified":1566611073,
     "wof:name":"Hoboken",
     "wof:parent_id":101748099,
     "wof:placetype":"neighbourhood",

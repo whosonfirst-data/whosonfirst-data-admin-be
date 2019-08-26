@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Brussels",
     "iso:country":"BE",
+    "lbl:bbox":"5.197,51.04072,5.237,51.08072",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632997
@@ -37,7 +41,7 @@
         "gn:id":2793923
     },
     "wof:country":"BE",
-    "wof:geomhash":"ea6b9a3cd25e76260c5154684edb0fb0",
+    "wof:geomhash":"2c0806c14357eb2b56a04db31cc70a77",
     "wof:hierarchy":[
         {
             "country_id":85632997,
@@ -45,7 +49,7 @@
         }
     ],
     "wof:id":1209646245,
-    "wof:lastmodified":1536280726,
+    "wof:lastmodified":1566611339,
     "wof:name":"Kruisbaan",
     "wof:parent_id":85632997,
     "wof:placetype":"locality",
@@ -55,9 +59,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    5.2170000000000005,
+    5.217,
     51.06072,
-    5.2170000000000005,
+    5.217,
     51.06072
 ],
   "geometry": {"coordinates":[5.217,51.06072],"type":"Point"}

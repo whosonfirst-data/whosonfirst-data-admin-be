@@ -13,6 +13,7 @@
     "iso:country":"BE",
     "lbl:latitude":50.874878,
     "lbl:longitude":4.430923,
+    "lbl:max_zoom":18.0,
     "mps:latitude":50.871846,
     "mps:longitude":4.432962,
     "mz:hierarchy_label":0,
@@ -31,9 +32,6 @@
     "name:nld_x_variant":[
         "Woluwe-Saint-Etienne",
         "Woluwe-St-Etienne"
-    ],
-    "name:unk_x_variant":[
-        "Woluwe-St.-Etienne"
     ],
     "qs:gn_id":0,
     "qs:gn_local":0,
@@ -74,7 +72,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":979015,
-        "qs:id":1104359,
         "qs_pg:id":1104359
     },
     "wof:country":"BE",
@@ -95,7 +92,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1566247565,
+    "wof:lastmodified":1566611084,
     "wof:name":"Woluwe-St.-Etienne",
     "wof:parent_id":101913231,
     "wof:placetype":"neighbourhood",

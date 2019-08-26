@@ -13,10 +13,13 @@
     "iso:country":"BE",
     "lbl:latitude":50.648392,
     "lbl:longitude":3.923975,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":50.648392,
     "mps:longitude":3.923975,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bre_x_preferred":[
         "Silly"
     ],
@@ -107,9 +110,6 @@
     "name:swe_x_preferred":[
         "Silly"
     ],
-    "name:unk_x_variant":[
-        "Opzullik"
-    ],
     "name:vie_x_preferred":[
         "Silly"
     ],
@@ -142,7 +142,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":150,
     "wof:belongsto":[
@@ -157,7 +157,6 @@
         "fct:id":"036c3a9a-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2786769,
         "gp:id":976921,
-        "qs:id":564182,
         "qs_pg:id":564182,
         "wd:id":"Q669088"
     },
@@ -177,7 +176,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1563235500,
+    "wof:lastmodified":1566611964,
     "wof:name":"Silly",
     "wof:parent_id":102049943,
     "wof:placetype":"locality",

@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Brussels",
     "iso:country":"BE",
+    "lbl:bbox":"5.50175,49.56526,5.54175,49.60526",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Belle Vue"
     ],
@@ -65,7 +69,7 @@
         }
     ],
     "wof:id":1226681065,
-    "wof:lastmodified":1564163675,
+    "wof:lastmodified":1566612467,
     "wof:name":"Belle Vue",
     "wof:parent_id":102049907,
     "wof:placetype":"locality",

@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Brussels",
     "iso:country":"BE",
+    "lbl:bbox":"3.99731,50.38611,4.03731,50.42611",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Harmignies"
     ],
@@ -69,7 +73,7 @@
         }
     ],
     "wof:id":1260214379,
-    "wof:lastmodified":1564162560,
+    "wof:lastmodified":1566611492,
     "wof:name":"Harmignies",
     "wof:parent_id":102049933,
     "wof:placetype":"locality",

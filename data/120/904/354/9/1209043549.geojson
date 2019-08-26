@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Brussels",
     "iso:country":"BE",
+    "lbl:bbox":"3.90505,51.15931,3.94505,51.19931",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Rijssel",
         "Rijsel"
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":1209043549,
-    "wof:lastmodified":1537586935,
+    "wof:lastmodified":1566611392,
     "wof:name":"Rijsel",
     "wof:parent_id":85632997,
     "wof:placetype":"locality",

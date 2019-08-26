@@ -13,6 +13,7 @@
     "iso:country":"BE",
     "lbl:latitude":50.894463,
     "lbl:longitude":4.483564,
+    "lbl:max_zoom":18.0,
     "mps:latitude":50.898738,
     "mps:longitude":4.484177,
     "mz:hierarchy_label":0,
@@ -124,9 +125,8 @@
     "name:ukr_x_preferred":[
         "\u0417\u0430\u0432\u0435\u043d\u0442\u0435\u043c"
     ],
-    "name:unk_x_variant":[
-        "Saventhem",
-        "Zaventem"
+    "name:und_x_variant":[
+        "Saventhem"
     ],
     "name:vie_x_preferred":[
         "Zaventem"
@@ -184,7 +184,6 @@
     "wof:concordances":{
         "gn:id":2783310,
         "gp:id":979126,
-        "qs:id":806575,
         "qs_pg:id":806575,
         "wd:id":"Q28898",
         "wk:page":"Zaventem"
@@ -207,7 +206,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1566247565,
+    "wof:lastmodified":1566611084,
     "wof:name":"Zaventem",
     "wof:parent_id":101913231,
     "wof:placetype":"neighbourhood",

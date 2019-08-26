@@ -12,10 +12,13 @@
     "iso:country":"BE",
     "lbl:latitude":50.921915,
     "lbl:longitude":5.690122,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.921915,
     "mps:longitude":5.690122,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Rekem"
     ],
@@ -37,7 +40,7 @@
     "name:nld_x_preferred":[
         "Rekem"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Reckheim"
     ],
     "qs:a0":"Belgi\u00eb#Belgique#Belgien",
@@ -57,7 +60,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":48,
     "wof:belongsto":[
         85681705,
@@ -71,7 +74,6 @@
     "wof:concordances":{
         "gn:id":2788231,
         "gp:id":976133,
-        "qs:id":1072096,
         "qs_pg:id":1072096,
         "wd:id":"Q910367"
     },
@@ -89,7 +91,7 @@
         }
     ],
     "wof:id":101755277,
-    "wof:lastmodified":1561831403,
+    "wof:lastmodified":1566611837,
     "wof:name":"Rekem",
     "wof:parent_id":1108830075,
     "wof:placetype":"locality",

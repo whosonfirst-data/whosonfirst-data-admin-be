@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Brussels",
     "iso:country":"BE",
+    "lbl:bbox":"5.56688,50.80986,5.60688,50.84986",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Elcht",
         "Elligt",
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":1310241927,
-    "wof:lastmodified":1537587043,
+    "wof:lastmodified":1566611691,
     "wof:name":"Ellicht",
     "wof:parent_id":1108830103,
     "wof:placetype":"locality",

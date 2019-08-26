@@ -5,15 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000267,
+    "geom:area_square_m":2105115.663174,
     "geom:bbox":"4.25906994247,50.3541295011,4.2912030949,50.379533716",
     "geom:latitude":50.36451,
     "geom:longitude":4.275229,
     "iso:country":"BE",
     "lbl:latitude":50.365845,
     "lbl:longitude":4.273681,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.365845,
     "mps:longitude":4.273681,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Belgi\u00eb#Belgique#Belgien",
     "qs:a1":"*Hainaut",
     "qs:a1r":"0R\u00e9gion wallone",
@@ -29,7 +34,7 @@
     "qs:type":"rural point-multi-in-poly-resolved",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681723,
         102191581,
@@ -41,10 +46,10 @@
     "wof:concordances":{
         "gn:id":2792748,
         "gp:id":973297,
-        "qs:id":1286704
+        "qs_pg:id":1286704
     },
     "wof:country":"BE",
-    "wof:geomhash":"a4fd6dc72c47800a87edd23e393f94b8",
+    "wof:geomhash":"389778d493e4f986f4fb32177b659837",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -56,7 +61,7 @@
         }
     ],
     "wof:id":101839751,
-    "wof:lastmodified":1466626174,
+    "wof:lastmodified":1566611974,
     "wof:name":"Les Bonniers",
     "wof:parent_id":102049923,
     "wof:placetype":"locality",

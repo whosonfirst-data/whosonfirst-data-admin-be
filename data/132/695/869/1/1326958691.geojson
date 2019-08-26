@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Brussels",
     "iso:country":"BE",
+    "lbl:bbox":"5.5005,51.2079,5.5405,51.2479",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Horck",
         "Horrik",
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":1326958691,
-    "wof:lastmodified":1537587011,
+    "wof:lastmodified":1566610873,
     "wof:name":"Hork",
     "wof:parent_id":1108830205,
     "wof:placetype":"locality",

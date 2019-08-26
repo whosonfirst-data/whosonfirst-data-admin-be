@@ -11,12 +11,16 @@
     "geom:longitude":5.425909,
     "gn:population":93,
     "iso:country":"BE",
+    "lbl:bbox":"5.405909,50.706575,5.445909,50.746575",
     "lbl:latitude":50.726575,
     "lbl:longitude":5.425909,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mps:latitude":50.726575,
     "mps:longitude":5.425909,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:afr_x_preferred":[
         "Herstappe"
     ],
@@ -131,7 +135,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":310,
     "wof:belongsto":[
@@ -146,7 +150,6 @@
     "wof:concordances":{
         "gn:id":2795928,
         "gp:id":971075,
-        "qs:id":186879,
         "qs_pg:id":186879,
         "wd:id":"Q499584",
         "wk:page":"Herstappe"
@@ -165,7 +168,7 @@
         }
     ],
     "wof:id":101854561,
-    "wof:lastmodified":1563235468,
+    "wof:lastmodified":1566611954,
     "wof:name":"Herstappe",
     "wof:parent_id":1108830081,
     "wof:placetype":"locality",

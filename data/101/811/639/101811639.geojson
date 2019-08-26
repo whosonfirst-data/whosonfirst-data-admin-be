@@ -13,10 +13,13 @@
     "iso:country":"BE",
     "lbl:latitude":50.270313,
     "lbl:longitude":5.447151,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":50.270313,
     "mps:longitude":5.447151,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bre_x_preferred":[
         "Hotton"
     ],
@@ -127,7 +130,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":50.268333,
     "wd:longitude":5.446667,
@@ -143,7 +146,6 @@
     "wof:concordances":{
         "gn:id":2795337,
         "gp:id":971500,
-        "qs:id":4419,
         "qs_pg:id":4419,
         "wd:id":"Q160709"
     },
@@ -160,7 +162,7 @@
         }
     ],
     "wof:id":101811639,
-    "wof:lastmodified":1563235200,
+    "wof:lastmodified":1566611875,
     "wof:name":"Hotton",
     "wof:parent_id":102049921,
     "wof:placetype":"locality",

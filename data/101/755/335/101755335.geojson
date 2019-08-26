@@ -12,10 +12,13 @@
     "iso:country":"BE",
     "lbl:latitude":50.932998,
     "lbl:longitude":3.978872,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.932998,
     "mps:longitude":3.978872,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Erpe"
     ],
@@ -60,7 +63,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:elevation":0.0,
     "wd:latitude":50.9339,
     "wd:longitude":3.9769,
@@ -77,7 +80,6 @@
     "wof:concordances":{
         "gn:id":2798678,
         "gp:id":969421,
-        "qs:id":182694,
         "qs_pg:id":182694,
         "wd:id":"Q985760",
         "wk:page":"Erpe"
@@ -96,7 +98,7 @@
         }
     ],
     "wof:id":101755335,
-    "wof:lastmodified":1563235061,
+    "wof:lastmodified":1566611833,
     "wof:name":"Erpe",
     "wof:parent_id":1108830215,
     "wof:placetype":"locality",

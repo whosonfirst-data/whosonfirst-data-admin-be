@@ -13,10 +13,13 @@
     "iso:country":"BE",
     "lbl:latitude":50.416315,
     "lbl:longitude":6.110221,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":50.416315,
     "mps:longitude":6.110221,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bre_x_preferred":[
         "Waimes"
     ],
@@ -101,9 +104,6 @@
     "name:swe_x_preferred":[
         "Waimes"
     ],
-    "name:unk_x_variant":[
-        "Weismes"
-    ],
     "name:vie_x_preferred":[
         "Waimes"
     ],
@@ -136,7 +136,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":134,
     "wof:belongsto":[
@@ -150,7 +150,6 @@
     "wof:concordances":{
         "gn:id":2784199,
         "gp:id":978587,
-        "qs:id":918135,
         "qs_pg:id":918135,
         "wd:id":"Q159961"
     },
@@ -167,7 +166,7 @@
         }
     ],
     "wof:id":101811691,
-    "wof:lastmodified":1563235201,
+    "wof:lastmodified":1566611875,
     "wof:name":"Waimes",
     "wof:parent_id":102049935,
     "wof:placetype":"locality",

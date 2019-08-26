@@ -13,10 +13,13 @@
     "iso:country":"BE",
     "lbl:latitude":51.173407,
     "lbl:longitude":3.861696,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":51.173407,
     "mps:longitude":3.861696,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:afr_x_preferred":[
         "Wachtebeke"
     ],
@@ -136,7 +139,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":170,
     "wof:belongsto":[
@@ -152,7 +155,6 @@
         "fct:id":"036934e4-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2784227,
         "gp:id":978575,
-        "qs:id":1037834,
         "qs_pg:id":1037834,
         "wd:id":"Q696349"
     },
@@ -173,7 +175,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1563235440,
+    "wof:lastmodified":1566611945,
     "wof:name":"Wachtebeke",
     "wof:parent_id":1108830059,
     "wof:placetype":"locality",

@@ -5,17 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000476,
-    "geom:area_square_m":3716531.956998,
+    "geom:area_square_m":3716531.956997,
     "geom:bbox":"4.52129502677,50.8250666331,4.57716973741,50.8472683288",
     "geom:latitude":50.836627,
     "geom:longitude":4.548743,
     "iso:country":"BE",
     "lbl:latitude":50.83784,
     "lbl:longitude":4.548743,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.83784,
     "mps:longitude":4.548743,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Belgi\u00eb#Belgique#Belgien",
     "qs:a1":"*Vlaams Brabant",
     "qs:a1r":"0Vlaams Gewest",
@@ -31,7 +34,7 @@
     "qs:type":"suburbs point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681731,
         102191581,
@@ -42,7 +45,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "qs:id":7
+        "qs_pg:id":7
     },
     "wof:country":"BE",
     "wof:geomhash":"4fda7f1769f23674a7af6e9cb1f52f83",
@@ -58,7 +61,7 @@
         }
     ],
     "wof:id":101755411,
-    "wof:lastmodified":1499531361,
+    "wof:lastmodified":1566611840,
     "wof:name":"Leopold II-wijk",
     "wof:parent_id":1108830631,
     "wof:placetype":"locality",

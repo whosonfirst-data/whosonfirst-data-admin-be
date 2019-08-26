@@ -12,10 +12,13 @@
     "iso:country":"BE",
     "lbl:latitude":50.735944,
     "lbl:longitude":5.771155,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.735944,
     "mps:longitude":5.771155,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:arg_x_preferred":[
         "Warsage"
     ],
@@ -52,9 +55,6 @@
     "name:spa_x_preferred":[
         "Warsage"
     ],
-    "name:unk_x_variant":[
-        "Weerst"
-    ],
     "name:wln_x_preferred":[
         "Warsedje"
     ],
@@ -75,7 +75,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681691,
         102191581,
@@ -88,7 +88,6 @@
         "fct:id":"036cad68-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2784024,
         "gp:id":978683,
-        "qs:id":909910,
         "qs_pg:id":909910,
         "wd:id":"Q28671"
     },
@@ -108,7 +107,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1563235497,
+    "wof:lastmodified":1566611963,
     "wof:name":"Warsage",
     "wof:parent_id":102049941,
     "wof:placetype":"locality",

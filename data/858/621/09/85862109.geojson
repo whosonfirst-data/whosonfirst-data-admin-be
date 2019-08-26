@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":1632079.615875,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.548708,50.61465,5.548708,50.61465",
     "geom:latitude":50.61465,
     "geom:longitude":5.548708,
     "gn:id":"",
     "iso:country":"BE",
+    "lbl:bbox":"5.543708,50.60965,5.553708,50.61965",
     "lbl:latitude":50.61465,
     "lbl:longitude":5.548708,
+    "lbl:max_zoom":18.0,
     "mps:latitude":50.620971,
     "mps:longitude":5.540324,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":16.0,
     "mz:tier_locality":3,
     "name:fra_x_preferred":[
-        "Sous-les-vignes"
-    ],
-    "name:unk_x_variant":[
         "Sous-les-vignes"
     ],
     "qs:gn_adm0_cc":"BE",
@@ -59,19 +58,18 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
-        85681691,
         102191581,
         85632997,
         404227353,
         101748083,
-        102049941
+        102049941,
+        85681691
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":20098368,
-        "qs:id":221646,
         "qs_pg:id":221646
     },
     "wof:country":"BE",
@@ -91,7 +89,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1531870543,
+    "wof:lastmodified":1566611075,
     "wof:name":"Sous-les-vignes",
     "wof:parent_id":101748083,
     "wof:placetype":"neighbourhood",

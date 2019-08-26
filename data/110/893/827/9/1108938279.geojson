@@ -10,9 +10,12 @@
     "geom:latitude":50.837213,
     "geom:longitude":4.346871,
     "iso:country":"BE",
+    "lbl:bbox":"4.34187069497,50.8322133966,4.35187069497,50.8422133966",
     "lbl:latitude":50.837213,
     "lbl:longitude":4.346871,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "mz:is_funky":0,
     "mz:is_hard_boundary":0,
     "mz:is_landuse_aoi":0,
@@ -29,7 +32,7 @@
     "name:fre_x_variant":[
         "dut"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         102191581,
         85632997,
@@ -55,7 +58,7 @@
         }
     ],
     "wof:id":1108938279,
-    "wof:lastmodified":1497292345,
+    "wof:lastmodified":1566611505,
     "wof:name":"Les Marolles",
     "wof:parent_id":101751573,
     "wof:placetype":"neighbourhood",

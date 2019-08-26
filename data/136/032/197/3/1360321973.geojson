@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Brussels",
     "iso:country":"BE",
+    "lbl:bbox":"5.03,51.03,5.07,51.07",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Gerhaegen",
         "Gerhagen"
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1360321973,
-    "wof:lastmodified":1537587034,
+    "wof:lastmodified":1566611799,
     "wof:name":"Gerhagen",
     "wof:parent_id":1108830641,
     "wof:placetype":"locality",

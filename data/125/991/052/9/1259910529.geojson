@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Brussels",
     "iso:country":"BE",
+    "lbl:bbox":"3.48626,50.54327,3.52626,50.58327",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Bouchegniette",
         "Bouchegnette"
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1259910529,
-    "wof:lastmodified":1537587067,
+    "wof:lastmodified":1566612376,
     "wof:name":"Bouchegnette",
     "wof:parent_id":102049951,
     "wof:placetype":"locality",

@@ -13,10 +13,13 @@
     "iso:country":"BE",
     "lbl:latitude":50.636756,
     "lbl:longitude":4.916114,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":50.636756,
     "mps:longitude":4.916114,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bre_x_preferred":[
         "Ramillies"
     ],
@@ -124,7 +127,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":124,
     "wof:belongsto":[
@@ -138,7 +141,6 @@
     "wof:concordances":{
         "gn:id":2788381,
         "gp:id":976036,
-        "qs:id":187019,
         "qs_pg:id":187019,
         "wd:id":"Q531456"
     },
@@ -155,7 +157,7 @@
         }
     ],
     "wof:id":101810507,
-    "wof:lastmodified":1563235242,
+    "wof:lastmodified":1566611887,
     "wof:name":"Ramillies-Offus",
     "wof:parent_id":102049945,
     "wof:placetype":"locality",

@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Brussels",
     "iso:country":"BE",
+    "lbl:bbox":"5.65416,50.64871,5.69416,50.68871",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Raboz\u00e9e",
         "Rabez\u00e9e",
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1209449131,
-    "wof:lastmodified":1537586939,
+    "wof:lastmodified":1566611423,
     "wof:name":"Rabosee",
     "wof:parent_id":85632997,
     "wof:placetype":"locality",

@@ -12,10 +12,13 @@
     "iso:country":"BE",
     "lbl:latitude":51.267641,
     "lbl:longitude":4.867548,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":51.267641,
     "mps:longitude":4.867548,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Gierle"
     ],
@@ -31,7 +34,7 @@
     "name:rus_x_preferred":[
         "\u0413\u044c\u0435\u0440\u043b\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Lille (Gierle)"
     ],
     "qs:a0":"Belgi\u00eb#Belgique#Belgien",
@@ -52,7 +55,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":51.2678,
     "wd:longitude":4.8678,
     "wd:wordcount":119,
@@ -68,7 +71,6 @@
     "wof:concordances":{
         "gn:id":2797552,
         "gp:id":970075,
-        "qs:id":1211101,
         "qs_pg:id":1211101,
         "wd:id":"Q2217028"
     },
@@ -86,7 +88,7 @@
         }
     ],
     "wof:id":101809473,
-    "wof:lastmodified":1563235453,
+    "wof:lastmodified":1566611950,
     "wof:name":"Gierle",
     "wof:parent_id":1108830113,
     "wof:placetype":"locality",

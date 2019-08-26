@@ -13,10 +13,13 @@
     "iso:country":"BE",
     "lbl:latitude":51.215341,
     "lbl:longitude":4.662149,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":51.215341,
     "mps:longitude":4.662149,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:bre_x_preferred":[
         "Zandhoven"
     ],
@@ -89,9 +92,6 @@
     "name:swe_x_preferred":[
         "Zandhoven"
     ],
-    "name:unk_x_variant":[
-        "Santhoven"
-    ],
     "name:vie_x_preferred":[
         "Zandhoven"
     ],
@@ -121,7 +121,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85681715,
@@ -136,7 +136,6 @@
         "fct:id":"036ccbea-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2783347,
         "gp:id":979102,
-        "qs:id":4879,
         "qs_pg:id":4879,
         "wd:id":"Q146656"
     },
@@ -157,7 +156,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1563235038,
+    "wof:lastmodified":1566611827,
     "wof:name":"Zandhoven",
     "wof:parent_id":1108830405,
     "wof:placetype":"locality",

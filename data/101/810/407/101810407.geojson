@@ -13,10 +13,13 @@
     "iso:country":"BE",
     "lbl:latitude":50.370165,
     "lbl:longitude":5.025105,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":50.370165,
     "mps:longitude":5.025105,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bre_x_preferred":[
         "Assesse"
     ],
@@ -127,7 +130,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":124,
     "wof:belongsto":[
@@ -142,7 +145,6 @@
         "fct:id":"036a17e2-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2803018,
         "gp:id":966663,
-        "qs:id":1037946,
         "qs_pg:id":1037946,
         "wd:id":"Q715246"
     },
@@ -162,7 +164,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1563235230,
+    "wof:lastmodified":1566611883,
     "wof:name":"Assesse",
     "wof:parent_id":102049931,
     "wof:placetype":"locality",

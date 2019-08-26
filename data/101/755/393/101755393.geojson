@@ -12,10 +12,13 @@
     "iso:country":"BE",
     "lbl:latitude":51.000365,
     "lbl:longitude":4.679362,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":51.000365,
     "mps:longitude":4.679362,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Ninde"
     ],
@@ -42,7 +45,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681731,
         102191581,
@@ -55,7 +58,6 @@
     "wof:concordances":{
         "gn:id":2790117,
         "gp:id":974936,
-        "qs:id":1169850,
         "qs_pg:id":1169850,
         "wd:id":"Q2157027"
     },
@@ -73,7 +75,7 @@
         }
     ],
     "wof:id":101755393,
-    "wof:lastmodified":1561831403,
+    "wof:lastmodified":1566611835,
     "wof:name":"Ninde",
     "wof:parent_id":1108830055,
     "wof:placetype":"locality",

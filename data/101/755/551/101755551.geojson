@@ -12,10 +12,13 @@
     "iso:country":"BE",
     "lbl:latitude":50.714876,
     "lbl:longitude":4.219935,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.714876,
     "mps:longitude":4.219935,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0644\u0645\u0628\u064a\u0643"
     ],
@@ -46,7 +49,7 @@
     "name:ukr_x_preferred":[
         "\u041b\u0435\u043c\u0431\u0435\u043a"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Lembecq"
     ],
     "qs:a0":"Belgi\u00eb#Belgique#Belgien",
@@ -66,7 +69,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":50.716667,
     "wd:longitude":4.216667,
     "wd:wordcount":94,
@@ -82,7 +85,6 @@
     "wof:concordances":{
         "gn:id":2792898,
         "gp:id":973239,
-        "qs:id":213320,
         "qs_pg:id":213320,
         "wd:id":"Q2135724",
         "wk:page":"Lembeek"
@@ -101,7 +103,7 @@
         }
     ],
     "wof:id":101755551,
-    "wof:lastmodified":1561831396,
+    "wof:lastmodified":1566611806,
     "wof:name":"Lembeek",
     "wof:parent_id":1108830437,
     "wof:placetype":"locality",

@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Brussels",
     "iso:country":"BE",
+    "lbl:bbox":"5.47757,50.26278,5.51757,50.30278",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Melinnes",
         "Melinne",
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":1242708773,
-    "wof:lastmodified":1537586967,
+    "wof:lastmodified":1566612328,
     "wof:name":"Melines",
     "wof:parent_id":102049921,
     "wof:placetype":"locality",

@@ -12,10 +12,13 @@
     "iso:country":"BE",
     "lbl:latitude":51.258489,
     "lbl:longitude":3.718178,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":51.258489,
     "mps:longitude":3.718178,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Boekhoute"
     ],
@@ -46,7 +49,7 @@
     "name:spa_x_preferred":[
         "Boekhoute"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Bouchaute"
     ],
     "qs:a0":"Belgi\u00eb#Belgique#Belgien",
@@ -67,7 +70,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681733,
         102191581,
@@ -80,7 +83,6 @@
     "wof:concordances":{
         "gn:id":2801729,
         "gp:id":967456,
-        "qs:id":360345,
         "qs_pg:id":360345,
         "wd:id":"Q12986"
     },
@@ -98,7 +100,7 @@
         }
     ],
     "wof:id":101809415,
-    "wof:lastmodified":1561831428,
+    "wof:lastmodified":1566611942,
     "wof:name":"Boekhoute",
     "wof:parent_id":1108830271,
     "wof:placetype":"locality",

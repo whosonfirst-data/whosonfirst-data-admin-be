@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Brussels",
     "iso:country":"BE",
+    "lbl:bbox":"5.21918,50.1053,5.25918,50.1453",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85681699,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1360115987,
-    "wof:lastmodified":1536901207,
+    "wof:lastmodified":1566611788,
     "wof:name":"Tilleul de la Chapelle",
     "wof:parent_id":102049919,
     "wof:placetype":"locality",

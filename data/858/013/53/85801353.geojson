@@ -13,6 +13,7 @@
     "iso:country":"BE",
     "lbl:latitude":50.848256,
     "lbl:longitude":4.450383,
+    "lbl:max_zoom":18.0,
     "mps:latitude":50.8499,
     "mps:longitude":4.449103,
     "mz:hierarchy_label":1,
@@ -28,9 +29,8 @@
     "name:nld_x_preferred":[
         "Kapelveld"
     ],
-    "name:unk_x_variant":[
-        "Kapelleveld",
-        "Kapelveld"
+    "name:und_x_variant":[
+        "Kapelleveld"
     ],
     "qs:gn_fcode":"PPLX",
     "qs:gn_local":0,
@@ -73,7 +73,6 @@
         "fct:id":"036dfa74-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2794723,
         "gp:id":971876,
-        "qs:id":1103493,
         "qs_pg:id":1103493
     },
     "wof:country":"BE",
@@ -93,7 +92,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1566247550,
+    "wof:lastmodified":1566611076,
     "wof:name":"Kapelveld",
     "wof:parent_id":101751573,
     "wof:placetype":"neighbourhood",

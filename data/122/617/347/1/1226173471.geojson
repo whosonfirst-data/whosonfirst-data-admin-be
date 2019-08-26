@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Brussels",
     "iso:country":"BE",
+    "lbl:bbox":"3.98052,50.73253,4.02052,50.77253",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85681731,
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1226173471,
-    "wof:lastmodified":1537036230,
+    "wof:lastmodified":1566612443,
     "wof:name":"Nemerkendries",
     "wof:parent_id":1108830579,
     "wof:placetype":"locality",

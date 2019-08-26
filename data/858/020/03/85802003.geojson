@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":8477400.108367,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.708563,50.689974,5.708563,50.689974",
     "geom:latitude":50.689974,
     "geom:longitude":5.708563,
     "gn:id":"",
     "iso:country":"BE",
+    "lbl:bbox":"5.703563,50.684974,5.713563,50.694974",
     "lbl:latitude":50.689974,
     "lbl:longitude":5.708563,
+    "lbl:max_zoom":18.0,
     "mps:latitude":50.684799,
     "mps:longitude":5.702267,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":1,
     "name:fra_x_preferred":[
-        "Wihou"
-    ],
-    "name:unk_x_variant":[
         "Wihou"
     ],
     "qs:gn_adm0_cc":"BE",
@@ -60,7 +59,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191581,
         85632997,
@@ -73,7 +72,6 @@
     ],
     "wof:concordances":{
         "gp:id":978885,
-        "qs:id":1104348,
         "qs_pg:id":1104348
     },
     "wof:country":"BE",
@@ -93,7 +91,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1531862115,
+    "wof:lastmodified":1566611084,
     "wof:name":"Wihou",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

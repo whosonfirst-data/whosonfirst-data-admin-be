@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Brussels",
     "iso:country":"BE",
+    "lbl:bbox":"2.89229,51.0225,2.93229,51.0625",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85681709,
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1293717687,
-    "wof:lastmodified":1536952849,
+    "wof:lastmodified":1566611150,
     "wof:name":"De Broekagie",
     "wof:parent_id":1108830401,
     "wof:placetype":"locality",

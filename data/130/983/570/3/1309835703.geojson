@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Brussels",
     "iso:country":"BE",
+    "lbl:bbox":"5.33654,50.82261,5.37654,50.86261",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85681705,
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1309835703,
-    "wof:lastmodified":1536887647,
+    "wof:lastmodified":1566611985,
     "wof:name":"Kukelberg",
     "wof:parent_id":1108830011,
     "wof:placetype":"locality",

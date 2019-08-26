@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Brussels",
     "iso:country":"BE",
+    "lbl:bbox":"5.49359,50.88022,5.53359,50.92022",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Eik"
     ],
@@ -45,8 +49,7 @@
     ],
     "name:und_x_variant":[
         "Eyck",
-        "Eick",
-        "Eik"
+        "Eick"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -75,7 +78,7 @@
         }
     ],
     "wof:id":1293726023,
-    "wof:lastmodified":1564162082,
+    "wof:lastmodified":1566611219,
     "wof:name":"Eik",
     "wof:parent_id":1108830245,
     "wof:placetype":"locality",

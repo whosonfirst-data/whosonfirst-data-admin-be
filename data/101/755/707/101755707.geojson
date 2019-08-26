@@ -5,17 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000166,
-    "geom:area_square_m":1286782.243291,
+    "geom:area_square_m":1286782.243292,
     "geom:bbox":"3.66860248827,51.1007154854,3.69814362857,51.1241770632",
     "geom:latitude":51.111474,
     "geom:longitude":3.68565,
     "iso:country":"BE",
     "lbl:latitude":51.10516,
     "lbl:longitude":3.682183,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":51.10516,
     "mps:longitude":3.682183,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Belgi\u00eb#Belgique#Belgien",
     "qs:a1":"*Oost-Vlanderen",
     "qs:a1r":"0Vlaams Gewest",
@@ -31,7 +34,7 @@
     "qs:type":"suburbs point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681733,
         102191581,
@@ -43,7 +46,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":970013,
-        "qs:id":3
+        "qs_pg:id":3
     },
     "wof:country":"BE",
     "wof:geomhash":"01248ef07c1010dd3a6692b4f5c52c37",
@@ -59,7 +62,7 @@
         }
     ],
     "wof:id":101755707,
-    "wof:lastmodified":1499531071,
+    "wof:lastmodified":1566611812,
     "wof:name":"Asschout",
     "wof:parent_id":1108830413,
     "wof:placetype":"locality",

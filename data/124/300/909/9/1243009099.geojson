@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Brussels",
     "iso:country":"BE",
+    "lbl:bbox":"4.39075,50.51809,4.43075,50.55809",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Les Bons Villers (R\u00e8ves)"
     ],
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":1243009099,
-    "wof:lastmodified":1537586936,
+    "wof:lastmodified":1566612258,
     "wof:name":"Reves",
     "wof:parent_id":102049927,
     "wof:placetype":"locality",

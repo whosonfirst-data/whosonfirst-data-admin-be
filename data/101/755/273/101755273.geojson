@@ -5,18 +5,21 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000264,
-    "geom:area_square_m":2058243.230374,
+    "geom:area_square_m":2058243.230375,
     "geom:bbox":"5.65033403934,50.8768362749,5.68412828513,50.895874205",
     "geom:latitude":50.88555,
     "geom:longitude":5.668919,
     "iso:country":"BE",
     "lbl:latitude":50.886446,
     "lbl:longitude":5.670071,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.886446,
     "mps:longitude":5.670071,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":12.0,
+    "name:und_x_variant":[
         "Smeermaus"
     ],
     "qs:a0":"Belgi\u00eb#Belgique#Belgien",
@@ -36,7 +39,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681705,
         102191581,
@@ -49,7 +52,6 @@
     "wof:concordances":{
         "gn:id":2786477,
         "gp:id":976979,
-        "qs:id":326515,
         "qs_pg:id":326515
     },
     "wof:country":"BE",
@@ -66,7 +68,7 @@
         }
     ],
     "wof:id":101755273,
-    "wof:lastmodified":1497302501,
+    "wof:lastmodified":1566611814,
     "wof:name":"Smeermaas",
     "wof:parent_id":1108830075,
     "wof:placetype":"locality",

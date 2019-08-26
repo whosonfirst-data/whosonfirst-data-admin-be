@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Brussels",
     "iso:country":"BE",
+    "lbl:bbox":"3.26558,50.77936,3.30558,50.81936",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "'T Hooghe",
         "'t Hoge"
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1344090833,
-    "wof:lastmodified":1537586901,
+    "wof:lastmodified":1566610978,
     "wof:name":"'t Hoge",
     "wof:parent_id":1108830299,
     "wof:placetype":"locality",

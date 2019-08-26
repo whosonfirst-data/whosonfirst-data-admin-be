@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Brussels",
     "iso:country":"BE",
+    "lbl:bbox":"5.41978,50.92826,5.45978,50.96826",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fry_x_preferred":[
         "De Maten"
     ],
@@ -38,8 +42,7 @@
         "De Maten"
     ],
     "name:und_x_variant":[
-        "De Maeten",
-        "De Maten"
+        "De Maeten"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -68,7 +71,7 @@
         }
     ],
     "wof:id":1293323831,
-    "wof:lastmodified":1564162023,
+    "wof:lastmodified":1566611185,
     "wof:name":"De Maten",
     "wof:parent_id":1108830655,
     "wof:placetype":"locality",

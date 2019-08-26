@@ -13,10 +13,13 @@
     "iso:country":"BE",
     "lbl:latitude":50.76802,
     "lbl:longitude":3.876151,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":50.76802,
     "mps:longitude":3.876151,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:bre_x_preferred":[
         "Geraardsbergen"
     ],
@@ -119,7 +122,7 @@
     "name:swe_x_preferred":[
         "Geraardsbergen"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Geeraardsbergen"
     ],
     "name:vie_x_preferred":[
@@ -152,7 +155,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":539,
     "wof:belongsto":[
@@ -168,7 +171,6 @@
         "fct:id":"03692468-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2797638,
         "gp:id":970022,
-        "qs:id":1250462,
         "qs_pg:id":1250462,
         "wd:id":"Q499532"
     },
@@ -189,7 +191,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1563235382,
+    "wof:lastmodified":1566611925,
     "wof:name":"Geraardsbergen",
     "wof:parent_id":1108830521,
     "wof:placetype":"locality",

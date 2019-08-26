@@ -13,10 +13,13 @@
     "iso:country":"BE",
     "lbl:latitude":50.840535,
     "lbl:longitude":5.339953,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":50.840535,
     "mps:longitude":5.339953,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:afr_x_preferred":[
         "Wellen"
     ],
@@ -124,7 +127,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":171,
     "wof:belongsto":[
@@ -139,7 +142,6 @@
     "wof:concordances":{
         "gn:id":2783864,
         "gp:id":978775,
-        "qs:id":1037823,
         "qs_pg:id":1037823,
         "wd:id":"Q119331"
     },
@@ -157,7 +159,7 @@
         }
     ],
     "wof:id":101838701,
-    "wof:lastmodified":1563235352,
+    "wof:lastmodified":1566611914,
     "wof:name":"Wellen",
     "wof:parent_id":1108830011,
     "wof:placetype":"locality",

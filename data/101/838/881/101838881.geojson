@@ -12,11 +12,14 @@
     "iso:country":"BE",
     "lbl:latitude":51.174647,
     "lbl:longitude":3.761886,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":51.174647,
     "mps:longitude":3.761886,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":12.0,
+    "name:und_x_variant":[
         "Hooge-Avrye"
     ],
     "qs:a0":"Belgi\u00eb#Belgique#Belgien",
@@ -34,7 +37,7 @@
     "qs:type":"rural point-multi-in-poly-resolved",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681733,
         102191581,
@@ -47,7 +50,7 @@
     "wof:concordances":{
         "gn:id":2795607,
         "gp:id":976220,
-        "qs:id":1
+        "qs_pg:id":1
     },
     "wof:country":"BE",
     "wof:geomhash":"753f6da76c0bc8003fcb510417ae6eb0",
@@ -63,7 +66,7 @@
         }
     ],
     "wof:id":101838881,
-    "wof:lastmodified":1501264133,
+    "wof:lastmodified":1566611920,
     "wof:name":"Hoge Avrije",
     "wof:parent_id":1108830413,
     "wof:placetype":"locality",

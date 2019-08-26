@@ -27,8 +27,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Brussels",
     "iso:country":"BE",
+    "lbl:bbox":"5.66723,50.00274,5.70723,50.04274",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Hemroule"
     ],
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1209745963,
-    "wof:lastmodified":1537587019,
+    "wof:lastmodified":1566611415,
     "wof:name":"Hemroulle",
     "wof:parent_id":102049915,
     "wof:placetype":"locality",

@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Brussels",
     "iso:country":"BE",
+    "lbl:bbox":"3.75378,50.70832,3.79378,50.74832",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85681723,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1343390415,
-    "wof:lastmodified":1536846271,
+    "wof:lastmodified":1566610960,
     "wof:name":"Le Ponchau",
     "wof:parent_id":102049943,
     "wof:placetype":"locality",

@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Brussels",
     "iso:country":"BE",
+    "lbl:bbox":"2.87323,50.97985,2.91323,51.01985",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Sint-Pieters-op-de-Dijk"
     ],
@@ -41,8 +45,7 @@
         "Sint-Pieters-op-den-Dijk"
     ],
     "name:und_x_variant":[
-        "Sint-Pieters-Cappelle",
-        "Sint-Pieters"
+        "Sint-Pieters-Cappelle"
     ],
     "name:vls_x_preferred":[
         "Sinte-Pieters"
@@ -74,7 +77,7 @@
         }
     ],
     "wof:id":1326565947,
-    "wof:lastmodified":1564161511,
+    "wof:lastmodified":1566610849,
     "wof:name":"Sint-Pieters",
     "wof:parent_id":1108830335,
     "wof:placetype":"locality",

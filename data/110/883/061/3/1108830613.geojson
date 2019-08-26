@@ -21,8 +21,11 @@
     "iso:country":"BE",
     "lbl:latitude":51.065528,
     "lbl:longitude":5.225114,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:als_x_preferred":[
         "Beringen"
     ],
@@ -74,7 +77,7 @@
     "reversegeo:latitude":51.065528,
     "reversegeo:longitude":5.225114,
     "src:geom":"begov",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681705,
         102191581,
@@ -98,7 +101,7 @@
         }
     ],
     "wof:id":1108830613,
-    "wof:lastmodified":1564162801,
+    "wof:lastmodified":1566611649,
     "wof:name":"Beringen",
     "wof:parent_id":102049975,
     "wof:placetype":"localadmin",

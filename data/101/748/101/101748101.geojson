@@ -12,10 +12,13 @@
     "iso:country":"BE",
     "lbl:latitude":51.286602,
     "lbl:longitude":4.429981,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":51.286602,
     "mps:longitude":4.429981,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "\u098f\u0995\u09c7\u09b0\u09c7\u09a8"
     ],
@@ -58,9 +61,6 @@
     "name:swe_x_preferred":[
         "Ekeren"
     ],
-    "name:unk_x_variant":[
-        "Eeckeren"
-    ],
     "qs:a0":"Belgi\u00eb#Belgique#Belgien",
     "qs:a1":"*Antwerpen",
     "qs:a1r":"0Vlaams Gewest",
@@ -78,7 +78,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":478,
     "wof:belongsto":[
         85681715,
@@ -93,7 +93,6 @@
         "fct:id":"036a9ce4-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2798873,
         "gp:id":969312,
-        "qs:id":901014,
         "qs_pg:id":901014,
         "wd:id":"Q1797837",
         "wk:page":"Ekeren"
@@ -115,7 +114,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1563235273,
+    "wof:lastmodified":1566611895,
     "wof:name":"Ekeren",
     "wof:parent_id":1108830423,
     "wof:placetype":"locality",

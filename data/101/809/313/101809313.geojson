@@ -12,10 +12,13 @@
     "iso:country":"BE",
     "lbl:latitude":51.066681,
     "lbl:longitude":4.152296,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":51.066681,
     "mps:longitude":4.152296,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u041c\u043e\u0435\u0440\u0437\u0435\u043a\u0435"
     ],
@@ -37,7 +40,7 @@
     "name:swe_x_preferred":[
         "Moerzeke"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Moerseke"
     ],
     "qs:a0":"Belgi\u00eb#Belgique#Belgien",
@@ -57,7 +60,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":51.0628,
     "wd:longitude":4.1531,
     "wd:wordcount":320,
@@ -73,7 +76,6 @@
     "wof:concordances":{
         "gn:id":2791090,
         "gp:id":974359,
-        "qs:id":366491,
         "qs_pg:id":366491,
         "wd:id":"Q724573",
         "wk:page":"Moerzeke"
@@ -92,7 +94,7 @@
         }
     ],
     "wof:id":101809313,
-    "wof:lastmodified":1561831429,
+    "wof:lastmodified":1566611945,
     "wof:name":"Moerzeke",
     "wof:parent_id":1108830161,
     "wof:placetype":"locality",

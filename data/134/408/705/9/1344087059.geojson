@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Brussels",
     "iso:country":"BE",
+    "lbl:bbox":"3.74424,50.49018,3.78424,50.53018",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85681723,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1344087059,
-    "wof:lastmodified":1536836299,
+    "wof:lastmodified":1566610975,
     "wof:name":"Gorrier",
     "wof:parent_id":102049933,
     "wof:placetype":"locality",

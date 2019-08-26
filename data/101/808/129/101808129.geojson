@@ -13,10 +13,13 @@
     "iso:country":"BE",
     "lbl:latitude":51.393154,
     "lbl:longitude":4.593762,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":51.393154,
     "mps:longitude":4.593762,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:bre_x_preferred":[
         "Wuustwezel"
     ],
@@ -86,9 +89,6 @@
     "name:swe_x_preferred":[
         "Wuustwezel"
     ],
-    "name:unk_x_variant":[
-        "Wuestwezel"
-    ],
     "name:vie_x_preferred":[
         "Wuustwezel"
     ],
@@ -118,7 +118,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":166,
     "wof:belongsto":[
@@ -134,7 +134,6 @@
         "fct:id":"036cc97e-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2783416,
         "gp:id":979054,
-        "qs:id":182805,
         "qs_pg:id":182805,
         "wd:id":"Q912045"
     },
@@ -155,7 +154,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1563235498,
+    "wof:lastmodified":1566611963,
     "wof:name":"Wuustwezel",
     "wof:parent_id":1108830509,
     "wof:placetype":"locality",

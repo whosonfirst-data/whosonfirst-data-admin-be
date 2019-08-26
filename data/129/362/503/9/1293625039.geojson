@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Brussels",
     "iso:country":"BE",
+    "lbl:bbox":"3.13,51.13,3.17,51.17",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Pleyn",
         "Pleyne",
@@ -61,7 +65,7 @@
         }
     ],
     "wof:id":1293625039,
-    "wof:lastmodified":1537587052,
+    "wof:lastmodified":1566611110,
     "wof:name":"De Pleine",
     "wof:parent_id":1108830317,
     "wof:placetype":"locality",

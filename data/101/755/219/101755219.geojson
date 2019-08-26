@@ -5,17 +5,21 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0011,
-    "geom:area_square_m":8646864.855221,
+    "geom:area_square_m":8646864.855219,
     "geom:bbox":"3.96432787321,50.4843228727,4.02352399934,50.5257529572",
     "geom:latitude":50.506269,
     "geom:longitude":3.993881,
-    "geonames:id":"2792742,2793732",
+    "gn:id":"2792742,2793732",
     "iso:country":"BE",
     "lbl:latitude":50.506299,
     "lbl:longitude":3.999207,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.506299,
     "mps:longitude":3.999207,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Sent Ginhan"
     ],
@@ -61,7 +65,7 @@
     "qs:type":"suburbs point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681723,
         102191581,
@@ -72,10 +76,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":974484,
-        "qs:id":4
+        "qs_pg:id":4
     },
     "wof:country":"BE",
-    "wof:geomhash":"5174f44075c54d3e522c7c8715846f25",
+    "wof:geomhash":"3fa25537a6e8b3d576f722ff0cb3b245",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -87,7 +91,7 @@
         }
     ],
     "wof:id":101755219,
-    "wof:lastmodified":1479890871,
+    "wof:lastmodified":1566611816,
     "wof:name":"Les Bruy\u00e8res",
     "wof:parent_id":102049943,
     "wof:placetype":"locality",

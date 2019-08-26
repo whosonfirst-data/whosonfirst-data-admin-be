@@ -11,8 +11,10 @@
     "geom:longitude":4.268534,
     "gn:id":"",
     "iso:country":"BE",
+    "lbl:bbox":"4.263534,50.74959,4.273534,50.75959",
     "lbl:latitude":50.75459,
     "lbl:longitude":4.268534,
+    "lbl:max_zoom":18.0,
     "mps:latitude":50.753371,
     "mps:longitude":4.261232,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":13.0,
     "mz:tier_locality":1,
     "name:nld_x_preferred":[
-        "Zwarte Poort"
-    ],
-    "name:unk_x_variant":[
         "Zwarte Poort"
     ],
     "qs:gn_id":0,
@@ -56,7 +55,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191581,
         1108830253,
@@ -69,7 +68,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":979251,
-        "qs:id":1104407,
         "qs_pg:id":1104407
     },
     "wof:country":"BE",
@@ -90,7 +88,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1561831364,
+    "wof:lastmodified":1566611084,
     "wof:name":"Zwarte Poort",
     "wof:parent_id":101755547,
     "wof:placetype":"neighbourhood",

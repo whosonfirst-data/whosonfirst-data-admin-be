@@ -13,10 +13,13 @@
     "iso:country":"BE",
     "lbl:latitude":50.737819,
     "lbl:longitude":3.742072,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":50.737819,
     "mps:longitude":3.742072,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:afr_x_preferred":[
         "Flobecq"
     ],
@@ -212,9 +215,6 @@
     "name:swe_x_preferred":[
         "Flobecq"
     ],
-    "name:unk_x_variant":[
-        "Vloesberg"
-    ],
     "name:vec_x_preferred":[
         "Flobecq"
     ],
@@ -256,7 +256,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":242,
     "wof:belongsto":[
@@ -271,7 +271,6 @@
         "fct:id":"03695212-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2798290,
         "gp:id":969633,
-        "qs:id":1037907,
         "qs_pg:id":1037907,
         "wd:id":"Q666559",
         "wk:page":"Flobecq"
@@ -292,7 +291,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1563235234,
+    "wof:lastmodified":1566611884,
     "wof:name":"Flobecq",
     "wof:parent_id":102049949,
     "wof:placetype":"locality",

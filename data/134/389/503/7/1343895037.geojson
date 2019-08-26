@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Brussels",
     "iso:country":"BE",
+    "lbl:bbox":"3.79667,51.08,3.83667,51.12",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85681733,
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1343895037,
-    "wof:lastmodified":1536614226,
+    "wof:lastmodified":1566611052,
     "wof:name":"Bundermolen",
     "wof:parent_id":1108830047,
     "wof:placetype":"locality",

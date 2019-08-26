@@ -12,6 +12,7 @@
     "iso:country":"BE",
     "lbl:latitude":50.901216,
     "lbl:longitude":4.422633,
+    "lbl:max_zoom":18.0,
     "mps:latitude":50.902636,
     "mps:longitude":4.41974,
     "mz:hierarchy_label":1,
@@ -96,9 +97,6 @@
     "name:ukr_x_preferred":[
         "\u0411\u043e\u043b\u044c\u0454"
     ],
-    "name:unk_x_variant":[
-        "Beaulieu"
-    ],
     "name:zho_x_preferred":[
         "\u535a\u7565"
     ],
@@ -142,7 +140,6 @@
     "wof:concordances":{
         "gn:id":2802493,
         "gp:id":966970,
-        "qs:id":208593,
         "qs_pg:id":208593
     },
     "wof:country":"BE",
@@ -162,7 +159,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1566247548,
+    "wof:lastmodified":1566611079,
     "wof:name":"Beaulieu",
     "wof:parent_id":101751573,
     "wof:placetype":"neighbourhood",

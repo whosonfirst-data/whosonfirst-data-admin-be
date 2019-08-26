@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Brussels",
     "iso:country":"BE",
+    "lbl:bbox":"3.56822,51.18262,3.60822,51.22262",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Bus"
     ],
@@ -311,8 +315,7 @@
         "\u0410\u0432\u0442\u043e\u0431\u0443\u0441"
     ],
     "name:und_x_variant":[
-        "Busch",
-        "Bus"
+        "Busch"
     ],
     "name:uzb_x_preferred":[
         "Avtobus"
@@ -359,7 +362,7 @@
         }
     ],
     "wof:id":1276265631,
-    "wof:lastmodified":1564162121,
+    "wof:lastmodified":1566611239,
     "wof:name":"Bus",
     "wof:parent_id":1108830365,
     "wof:placetype":"locality",

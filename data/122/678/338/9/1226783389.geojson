@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Brussels",
     "iso:country":"BE",
+    "lbl:bbox":"5.04234,50.40722,5.08234,50.44722",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85681699,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1226783389,
-    "wof:lastmodified":1536661375,
+    "wof:lastmodified":1566612514,
     "wof:name":"Haute Arche",
     "wof:parent_id":102049931,
     "wof:placetype":"locality",

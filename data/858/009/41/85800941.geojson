@@ -10,8 +10,10 @@
     "geom:latitude":50.947111,
     "geom:longitude":4.231614,
     "iso:country":"BE",
+    "lbl:bbox":"4.226614,50.942111,4.236614,50.952111",
     "lbl:latitude":50.947111,
     "lbl:longitude":4.231614,
+    "lbl:max_zoom":18.0,
     "mps:latitude":50.933199,
     "mps:longitude":4.224219,
     "mz:hierarchy_label":0,
@@ -24,9 +26,6 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":1,
     "name:nld_x_preferred":[
-        "Boschbeek"
-    ],
-    "name:unk_x_variant":[
         "Boschbeek"
     ],
     "qs:gn_id":0,
@@ -55,7 +54,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191581,
         1108830297,
@@ -86,7 +85,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1561831364,
+    "wof:lastmodified":1566611082,
     "wof:name":"Boschbeek",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

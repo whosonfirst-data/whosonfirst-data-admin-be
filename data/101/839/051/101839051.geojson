@@ -12,10 +12,13 @@
     "iso:country":"BE",
     "lbl:latitude":51.055912,
     "lbl:longitude":3.115367,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":51.055912,
     "mps:longitude":3.115367,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Belgi\u00eb#Belgique#Belgien",
     "qs:a1":"*West-Vlanderen",
     "qs:a1r":"0Vlaams Gewest",
@@ -31,7 +34,7 @@
     "qs:type":"rural point-multi-in-poly-resolved",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681709,
         102191581,
@@ -43,7 +46,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":977858,
-        "qs:id":7
+        "qs_pg:id":7
     },
     "wof:country":"BE",
     "wof:geomhash":"2eece87fce0b54dd24f7d3e85127d1e7",
@@ -59,7 +62,7 @@
         }
     ],
     "wof:id":101839051,
-    "wof:lastmodified":1499530975,
+    "wof:lastmodified":1566611978,
     "wof:name":"Goede Herder",
     "wof:parent_id":1108830333,
     "wof:placetype":"locality",

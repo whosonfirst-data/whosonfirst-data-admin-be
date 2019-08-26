@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Brussels",
     "iso:country":"BE",
+    "lbl:bbox":"3.00934,51.06112,3.04934,51.10112",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632997
@@ -37,7 +41,7 @@
         "gn:id":2788252
     },
     "wof:country":"BE",
-    "wof:geomhash":"ca329657c7a81c2280fa6315de549c93",
+    "wof:geomhash":"c45ebd2a39dacdc1baaeea5f2d919c53",
     "wof:hierarchy":[
         {
             "country_id":85632997,
@@ -45,7 +49,7 @@
         }
     ],
     "wof:id":1209041425,
-    "wof:lastmodified":1536299533,
+    "wof:lastmodified":1566611395,
     "wof:name":"Reiger",
     "wof:parent_id":85632997,
     "wof:placetype":"locality",
@@ -55,9 +59,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    3.0293400000000004,
+    3.02934,
     51.08112,
-    3.0293400000000004,
+    3.02934,
     51.08112
 ],
   "geometry": {"coordinates":[3.02934,51.08112],"type":"Point"}

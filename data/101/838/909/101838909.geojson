@@ -12,10 +12,13 @@
     "iso:country":"BE",
     "lbl:latitude":50.948324,
     "lbl:longitude":3.683346,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.948324,
     "mps:longitude":3.683346,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Semmerzake"
     ],
@@ -28,7 +31,7 @@
     "name:nld_x_preferred":[
         "Semmerzake"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Semmersaeke"
     ],
     "qs:a0":"Belgi\u00eb#Belgique#Belgien",
@@ -46,7 +49,7 @@
     "qs:type":"rural point-multi-in-poly-resolved",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681733,
         102191581,
@@ -59,7 +62,7 @@
     "wof:concordances":{
         "gn:id":2786857,
         "gp:id":978549,
-        "qs:id":6,
+        "qs_pg:id":6,
         "wd:id":"Q2550957"
     },
     "wof:country":"BE",
@@ -76,7 +79,7 @@
         }
     ],
     "wof:id":101838909,
-    "wof:lastmodified":1561831422,
+    "wof:lastmodified":1566611913,
     "wof:name":"Semmerzake",
     "wof:parent_id":1108830425,
     "wof:placetype":"locality",

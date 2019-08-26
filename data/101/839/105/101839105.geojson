@@ -12,10 +12,13 @@
     "iso:country":"BE",
     "lbl:latitude":51.272541,
     "lbl:longitude":5.075561,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":51.272541,
     "mps:longitude":5.075561,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Belgi\u00eb#Belgique#Belgien",
     "qs:a1":"*Antwerpen",
     "qs:a1r":"0Vlaams Gewest",
@@ -31,7 +34,7 @@
     "qs:type":"rural point-multi-in-poly-resolved",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681715,
         102191581,
@@ -44,7 +47,7 @@
     "wof:concordances":{
         "gn:id":2795349,
         "gp:id":976194,
-        "qs:id":5
+        "qs_pg:id":5
     },
     "wof:country":"BE",
     "wof:geomhash":"0ea3c45ffa45d87c5434ad7a7251f6f4",
@@ -60,7 +63,7 @@
         }
     ],
     "wof:id":101839105,
-    "wof:lastmodified":1499530838,
+    "wof:lastmodified":1566611966,
     "wof:name":"Horzeleind",
     "wof:parent_id":1108830225,
     "wof:placetype":"locality",

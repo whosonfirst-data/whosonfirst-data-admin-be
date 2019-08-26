@@ -12,10 +12,13 @@
     "iso:country":"BE",
     "lbl:latitude":51.066871,
     "lbl:longitude":3.988727,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":51.066871,
     "mps:longitude":3.988727,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0425\u0435\u0438\u043a\u0430\u043d\u0442"
     ],
@@ -63,7 +66,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":300,
     "wof:belongsto":[
         85681733,
@@ -77,7 +80,6 @@
     "wof:concordances":{
         "gn:id":2796212,
         "gp:id":970896,
-        "qs:id":273165,
         "qs_pg:id":273165,
         "wd:id":"Q2350682"
     },
@@ -95,7 +97,7 @@
         }
     ],
     "wof:id":101837543,
-    "wof:lastmodified":1563235480,
+    "wof:lastmodified":1566611959,
     "wof:name":"Heikant",
     "wof:parent_id":1108830229,
     "wof:placetype":"locality",

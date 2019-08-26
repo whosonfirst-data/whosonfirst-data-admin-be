@@ -13,10 +13,13 @@
     "iso:country":"BE",
     "lbl:latitude":51.056359,
     "lbl:longitude":4.626548,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":51.056359,
     "mps:longitude":4.626548,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":10.0,
     "name:bre_x_preferred":[
         "Putte"
     ],
@@ -118,7 +121,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":136,
     "wof:belongsto":[
@@ -133,7 +136,6 @@
     "wof:concordances":{
         "gn:id":2788521,
         "gp:id":975941,
-        "qs:id":875196,
         "qs_pg:id":875196,
         "wd:id":"Q929397"
     },
@@ -151,7 +153,7 @@
         }
     ],
     "wof:id":101755673,
-    "wof:lastmodified":1563235010,
+    "wof:lastmodified":1566611818,
     "wof:name":"Putte",
     "wof:parent_id":1108830381,
     "wof:placetype":"locality",

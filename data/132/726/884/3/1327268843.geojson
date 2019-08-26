@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Brussels",
     "iso:country":"BE",
+    "lbl:bbox":"4.51815,51.19487,4.55815,51.23487",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Keer"
     ],
@@ -61,7 +65,7 @@
         }
     ],
     "wof:id":1327268843,
-    "wof:lastmodified":1564161614,
+    "wof:lastmodified":1566610922,
     "wof:name":"Keer",
     "wof:parent_id":1108830431,
     "wof:placetype":"locality",

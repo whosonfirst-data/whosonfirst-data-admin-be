@@ -26,14 +26,17 @@
     "gn:population":0,
     "gn:timezone":"Europe/Brussels",
     "iso:country":"BE",
+    "lbl:bbox":"5.0114,50.76637,5.0514,50.80637",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bar_x_preferred":[
         "Wange"
     ],
     "name:und_x_variant":[
-        "Wanghe",
-        "Wange"
+        "Wanghe"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -62,7 +65,7 @@
         }
     ],
     "wof:id":1293425835,
-    "wof:lastmodified":1564162062,
+    "wof:lastmodified":1566611207,
     "wof:name":"Wange",
     "wof:parent_id":1108830259,
     "wof:placetype":"locality",

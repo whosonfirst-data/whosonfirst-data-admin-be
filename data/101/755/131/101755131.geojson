@@ -12,10 +12,13 @@
     "iso:country":"BE",
     "lbl:latitude":50.505588,
     "lbl:longitude":3.774535,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.505588,
     "mps:longitude":3.774535,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Sirault"
     ],
@@ -45,7 +48,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681723,
         102191581,
@@ -57,7 +60,6 @@
     "wof:concordances":{
         "gn:id":2786537,
         "gp:id":976935,
-        "qs:id":1172240,
         "qs_pg:id":1172240,
         "wd:id":"Q2512301"
     },
@@ -74,7 +76,7 @@
         }
     ],
     "wof:id":101755131,
-    "wof:lastmodified":1561831402,
+    "wof:lastmodified":1566611832,
     "wof:name":"Sirault",
     "wof:parent_id":102049933,
     "wof:placetype":"locality",

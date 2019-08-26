@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Brussels",
     "iso:country":"BE",
+    "lbl:bbox":"5.56859,50.77204,5.60859,50.81204",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Meer"
     ],
@@ -54,8 +58,7 @@
     ],
     "name:und_x_variant":[
         "Mheer",
-        "Mheerberg",
-        "Meer"
+        "Mheerberg"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -74,7 +77,7 @@
         }
     ],
     "wof:id":1209646465,
-    "wof:lastmodified":1564162291,
+    "wof:lastmodified":1566611339,
     "wof:name":"Meer",
     "wof:parent_id":85632997,
     "wof:placetype":"locality",

@@ -9,15 +9,18 @@
     "geom:bbox":"5.51926,50.01723,5.51926,50.01723",
     "geom:latitude":50.01723,
     "geom:longitude":5.51926,
-    "gn:gn_country":"BE",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":2310,
+    "gn:country":"BE",
+    "gn:fcode":"PPL",
     "gn:population":2310,
     "iso:country":"BE",
+    "lbl:bbox":"5.49926,49.99723,5.53926,50.03723",
     "lbl:latitude":50.01723,
     "lbl:longitude":5.51926,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bel_x_preferred":[
         "\u0421\u0435\u043d\u0442-\u041e\u0434"
@@ -100,7 +103,7 @@
     "name:spa_x_preferred":[
         "Sainte-Ode"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Saint-Ode"
     ],
     "name:urd_x_preferred":[
@@ -130,7 +133,7 @@
     "qs_pg:qs_id":279132,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         85681727,
@@ -159,7 +162,7 @@
         }
     ],
     "wof:id":1125860167,
-    "wof:lastmodified":1563235730,
+    "wof:lastmodified":1566612081,
     "wof:name":"Sainte-Ode",
     "wof:parent_id":102049915,
     "wof:placetype":"locality",

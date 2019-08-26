@@ -12,10 +12,13 @@
     "iso:country":"BE",
     "lbl:latitude":50.726778,
     "lbl:longitude":4.552379,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.726778,
     "mps:longitude":4.552379,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Belgi\u00eb#Belgique#Belgien",
     "qs:a1":"*Brabant wallon",
     "qs:a1r":"0R\u00e9gion wallone",
@@ -31,7 +34,7 @@
     "qs:type":"suburbs point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681693,
         102191581,
@@ -42,7 +45,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":976285,
-        "qs:id":1
+        "qs_pg:id":1
     },
     "wof:country":"BE",
     "wof:geomhash":"b3f4b0f8df3bfd4f70326a991fb1f9e4",
@@ -57,7 +60,7 @@
         }
     ],
     "wof:id":101755253,
-    "wof:lastmodified":1535390420,
+    "wof:lastmodified":1566611846,
     "wof:name":"Grand Cortil",
     "wof:parent_id":102049945,
     "wof:placetype":"locality",

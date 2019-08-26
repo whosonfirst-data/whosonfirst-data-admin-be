@@ -13,10 +13,13 @@
     "iso:country":"BE",
     "lbl:latitude":51.13374,
     "lbl:longitude":4.566716,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":51.13374,
     "mps:longitude":4.566716,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:bel_x_preferred":[
         "\u041b\u0456\u0440"
     ],
@@ -190,7 +193,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":51.133333,
     "wd:longitude":4.566667,
@@ -207,7 +210,6 @@
     "wof:concordances":{
         "gn:id":2792397,
         "gp:id":973547,
-        "qs:id":1037861,
         "qs_pg:id":1037861,
         "wd:id":"Q12460",
         "wk:page":"Lier, Belgium"
@@ -226,7 +228,7 @@
         }
     ],
     "wof:id":101754363,
-    "wof:lastmodified":1563235134,
+    "wof:lastmodified":1566611859,
     "wof:name":"Lier",
     "wof:parent_id":1108830097,
     "wof:placetype":"locality",

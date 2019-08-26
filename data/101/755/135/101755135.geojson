@@ -13,10 +13,13 @@
     "iso:country":"BE",
     "lbl:latitude":50.658648,
     "lbl:longitude":5.980893,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":50.658648,
     "mps:longitude":5.980893,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bre_x_preferred":[
         "Welkenraedt"
     ],
@@ -133,7 +136,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":110,
     "wof:belongsto":[
@@ -147,7 +150,6 @@
     "wof:concordances":{
         "gn:id":2783870,
         "gp:id":978773,
-        "qs:id":339896,
         "qs_pg:id":339896,
         "wd:id":"Q152743",
         "wk:page":"Welkenraedt"
@@ -165,7 +167,7 @@
         }
     ],
     "wof:id":101755135,
-    "wof:lastmodified":1563234982,
+    "wof:lastmodified":1566611805,
     "wof:name":"Welkenraedt",
     "wof:parent_id":102049935,
     "wof:placetype":"locality",

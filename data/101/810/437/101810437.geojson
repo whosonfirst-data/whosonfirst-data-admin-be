@@ -13,10 +13,13 @@
     "iso:country":"BE",
     "lbl:latitude":50.663437,
     "lbl:longitude":5.259302,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":50.663437,
     "mps:longitude":5.259302,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bre_x_preferred":[
         "Faimes"
     ],
@@ -124,7 +127,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":101,
     "wof:belongsto":[
@@ -138,7 +141,6 @@
     "wof:concordances":{
         "gn:id":2798512,
         "gp:id":969504,
-        "qs:id":279143,
         "qs_pg:id":279143,
         "wd:id":"Q682441"
     },
@@ -155,7 +157,7 @@
         }
     ],
     "wof:id":101810437,
-    "wof:lastmodified":1563235226,
+    "wof:lastmodified":1566611882,
     "wof:name":"Faimes",
     "wof:parent_id":102049937,
     "wof:placetype":"locality",

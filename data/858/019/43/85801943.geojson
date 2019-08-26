@@ -12,6 +12,7 @@
     "iso:country":"BE",
     "lbl:latitude":50.803164,
     "lbl:longitude":4.429256,
+    "lbl:max_zoom":18.0,
     "mps:latitude":50.809851,
     "mps:longitude":4.440405,
     "mz:hierarchy_label":1,
@@ -27,9 +28,8 @@
     "name:nld_x_preferred":[
         "Tenreuken"
     ],
-    "name:unk_x_variant":[
-        "Terecken",
-        "Tenreuken"
+    "name:und_x_variant":[
+        "Terecken"
     ],
     "qs:gn_fcode":"PPL",
     "qs:gn_local":0,
@@ -71,7 +71,6 @@
     "wof:concordances":{
         "gn:id":2785715,
         "gp:id":977656,
-        "qs:id":1116044,
         "qs_pg:id":1116044
     },
     "wof:country":"BE",
@@ -91,7 +90,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1566247551,
+    "wof:lastmodified":1566611097,
     "wof:name":"Tenreuken",
     "wof:parent_id":101751573,
     "wof:placetype":"neighbourhood",

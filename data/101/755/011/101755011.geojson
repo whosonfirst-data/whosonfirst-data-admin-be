@@ -13,10 +13,13 @@
     "iso:country":"BE",
     "lbl:latitude":50.454228,
     "lbl:longitude":4.240651,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":50.454228,
     "mps:longitude":4.240651,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":10.0,
     "name:ceb_x_preferred":[
         "Morlanwelz-Mariemont"
     ],
@@ -41,9 +44,6 @@
     "name:swe_x_preferred":[
         "Morlanwelz-Mariemont"
     ],
-    "name:unk_x_variant":[
-        "Morlanwelz-Mariemont"
-    ],
     "name:wln_x_preferred":[
         "Marlanw\u00e9-Marimont"
     ],
@@ -63,7 +63,7 @@
     "qs:type":"suburbs point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85681723,
@@ -77,7 +77,7 @@
         "fct:id":"036999fc-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2790697,
         "gp:id":974587,
-        "qs:id":1286952,
+        "qs_pg:id":1286952,
         "wd:id":"Q2358095"
     },
     "wof:country":"BE",
@@ -96,7 +96,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1563235079,
+    "wof:lastmodified":1566611840,
     "wof:name":"Morlanwelz",
     "wof:parent_id":102049923,
     "wof:placetype":"locality",

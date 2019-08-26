@@ -5,17 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000873,
-    "geom:area_square_m":6802971.623194,
+    "geom:area_square_m":6802971.623195,
     "geom:bbox":"5.38610536209,50.9173072056,5.4405420251,50.9548583231",
     "geom:latitude":50.937154,
     "geom:longitude":5.414721,
     "iso:country":"BE",
     "lbl:latitude":50.947099,
     "lbl:longitude":5.403194,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.947099,
     "mps:longitude":5.403194,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Belgi\u00eb#Belgique#Belgien",
     "qs:a1":"*Limburg",
     "qs:a1r":"0Vlaams Gewest",
@@ -31,7 +34,7 @@
     "qs:type":"rural point-multi-in-poly-resolved",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681705,
         102191581,
@@ -44,7 +47,7 @@
     "wof:concordances":{
         "gn:id":2799242,
         "gp:id":969055,
-        "qs:id":1286066
+        "qs_pg:id":1286066
     },
     "wof:country":"BE",
     "wof:geomhash":"a8b9f015b77d94fe3b1d24c2c52da818",
@@ -60,7 +63,7 @@
         }
     ],
     "wof:id":101838787,
-    "wof:lastmodified":1499531400,
+    "wof:lastmodified":1566611936,
     "wof:name":"Dorpsheide",
     "wof:parent_id":1108830649,
     "wof:placetype":"locality",

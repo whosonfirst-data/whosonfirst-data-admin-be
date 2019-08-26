@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Brussels",
     "iso:country":"BE",
+    "lbl:bbox":"5.06976,50.32376,5.10976,50.36376",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85681699,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1293624757,
-    "wof:lastmodified":1537083114,
+    "wof:lastmodified":1566611115,
     "wof:name":"Skeuvre",
     "wof:parent_id":102049919,
     "wof:placetype":"locality",

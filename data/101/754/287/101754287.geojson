@@ -13,10 +13,13 @@
     "iso:country":"BE",
     "lbl:latitude":50.660571,
     "lbl:longitude":4.561671,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":50.660571,
     "mps:longitude":4.561671,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bre_x_preferred":[
         "Ottignies-Louvain-la-Neuve"
     ],
@@ -119,7 +122,7 @@
     "name:szl_x_preferred":[
         "Ottignies-Louvain-la-Neuve"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ottignies-Louvain-la-Neuve (Ottignies)"
     ],
     "name:vie_x_preferred":[
@@ -154,7 +157,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":271,
     "wof:belongsto":[
@@ -169,9 +172,11 @@
         "fct:id":"036cf93a-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":7647765,
         "gp:id":56122840,
-        "qs:id":221773,
-        "qs_pg:id":1151654,
+        "qs_pg:id":221773,
         "wd:id":"Q329642"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1151654
     },
     "wof:country":"BE",
     "wof:geomhash":"29a94f77b2a3b63032fb7e4257258304",
@@ -189,7 +194,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1563235136,
+    "wof:lastmodified":1566611859,
     "wof:name":"Ottignies-Louvain-la-Neuve",
     "wof:parent_id":102049945,
     "wof:placetype":"locality",

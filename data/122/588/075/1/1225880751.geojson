@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Brussels",
     "iso:country":"BE",
+    "lbl:bbox":"4.49997,50.7392,4.53997,50.7792",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Den Hagaerd",
         "De Hagaard",
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":1225880751,
-    "wof:lastmodified":1537587026,
+    "wof:lastmodified":1566612483,
     "wof:name":"Hagaard",
     "wof:parent_id":1108830581,
     "wof:placetype":"locality",

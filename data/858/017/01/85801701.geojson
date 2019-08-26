@@ -10,8 +10,10 @@
     "geom:latitude":50.842338,
     "geom:longitude":4.662261,
     "iso:country":"BE",
+    "lbl:bbox":"4.657261,50.837338,4.667261,50.847338",
     "lbl:latitude":50.842338,
     "lbl:longitude":4.662261,
+    "lbl:max_zoom":18.0,
     "mps:latitude":50.841445,
     "mps:longitude":4.666907,
     "mz:hierarchy_label":0,
@@ -30,10 +32,6 @@
         "Oppem"
     ],
     "name:nld_x_preferred":[
-        "Ophem"
-    ],
-    "name:unk_x_variant":[
-        "Oppem",
         "Ophem"
     ],
     "qs:gn_adm0_cc":"BE",
@@ -67,7 +65,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191581,
         1108830043,
@@ -80,7 +78,9 @@
     "wof:concordances":{
         "gn:id":2789678,
         "gp:id":975189,
-        "qs:id":187002,
+        "qs_pg:id":187002
+    },
+    "wof:concordances_alt":{
         "qs_pg:id":410908
     },
     "wof:country":"BE",
@@ -101,7 +101,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1561831366,
+    "wof:lastmodified":1566611093,
     "wof:name":"Ophem",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

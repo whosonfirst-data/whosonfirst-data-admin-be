@@ -13,10 +13,13 @@
     "iso:country":"BE",
     "lbl:latitude":50.766056,
     "lbl:longitude":4.470707,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":50.766056,
     "mps:longitude":4.470707,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:bar_x_preferred":[
         "Hoeilaart"
     ],
@@ -104,7 +107,7 @@
     "name:tur_x_preferred":[
         "Hoeilaart"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Hoeylaert"
     ],
     "name:vie_x_preferred":[
@@ -139,7 +142,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":209,
     "wof:belongsto":[
@@ -154,7 +157,6 @@
     "wof:concordances":{
         "gn:id":2795699,
         "gp:id":971230,
-        "qs:id":1037874,
         "qs_pg:id":1037874,
         "wd:id":"Q641278"
     },
@@ -172,7 +174,7 @@
         }
     ],
     "wof:id":101755543,
-    "wof:lastmodified":1563235039,
+    "wof:lastmodified":1566611827,
     "wof:name":"Hoeilaart",
     "wof:parent_id":1108830459,
     "wof:placetype":"locality",

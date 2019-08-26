@@ -12,10 +12,13 @@
     "iso:country":"BE",
     "lbl:latitude":50.159448,
     "lbl:longitude":5.262373,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.159448,
     "mps:longitude":5.262373,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Jemelle"
     ],
@@ -37,7 +40,7 @@
     "name:pcd_x_preferred":[
         "Djim\u00e8le"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Rochefort (Jemelle)"
     ],
     "name:wln_x_preferred":[
@@ -60,7 +63,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681699,
         102191581,
@@ -73,7 +76,6 @@
     "wof:concordances":{
         "gn:id":2794934,
         "gp:id":971741,
-        "qs:id":343200,
         "qs_pg:id":343200,
         "wd:id":"Q2465020"
     },
@@ -90,7 +92,7 @@
         }
     ],
     "wof:id":1175610553,
-    "wof:lastmodified":1561831393,
+    "wof:lastmodified":1566611689,
     "wof:name":"Jemelle",
     "wof:parent_id":102049919,
     "wof:placetype":"locality",

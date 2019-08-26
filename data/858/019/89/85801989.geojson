@@ -13,6 +13,7 @@
     "iso:country":"BE",
     "lbl:latitude":50.809617,
     "lbl:longitude":4.401701,
+    "lbl:max_zoom":18.0,
     "mps:latitude":50.811333,
     "mps:longitude":4.408218,
     "mz:hierarchy_label":1,
@@ -125,9 +126,6 @@
     "name:ukr_x_preferred":[
         "\u0412\u0430\u0442\u0435\u0440\u043c\u0430\u043b\u044c-\u0411\u0443\u0430\u0444\u043e\u0440"
     ],
-    "name:unk_x_variant":[
-        "Watermael-Boitsfort"
-    ],
     "name:urd_x_preferred":[
         "\u0648\u0627\u0679\u0631\u0645\u0627\u0626\u0644 \u0628\u0648\u0626\u0679\u0633\u0641\u0648\u0631\u0679"
     ],
@@ -183,7 +181,6 @@
     "wof:concordances":{
         "gn:id":2783980,
         "gp:id":978714,
-        "qs:id":1136705,
         "qs_pg:id":1136705,
         "wd:id":"Q272262"
     },
@@ -204,7 +201,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1566247551,
+    "wof:lastmodified":1566611096,
     "wof:name":"Watermael",
     "wof:parent_id":101751573,
     "wof:placetype":"neighbourhood",

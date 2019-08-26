@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Brussels",
     "iso:country":"BE",
+    "lbl:bbox":"4.5252,50.59433,4.5652,50.63433",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85681693,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1242714191,
-    "wof:lastmodified":1536865660,
+    "wof:lastmodified":1566612332,
     "wof:name":"Bruyere du Sart",
     "wof:parent_id":102049945,
     "wof:placetype":"locality",

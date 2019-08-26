@@ -13,10 +13,13 @@
     "iso:country":"BE",
     "lbl:latitude":51.093271,
     "lbl:longitude":2.64758,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":51.093271,
     "mps:longitude":2.64758,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:bre_x_preferred":[
         "Koksijde"
     ],
@@ -116,9 +119,6 @@
     "name:swe_x_preferred":[
         "Koksijde"
     ],
-    "name:unk_x_variant":[
-        "Coxyde"
-    ],
     "name:vie_x_preferred":[
         "Koksijde"
     ],
@@ -151,7 +151,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":396,
     "wof:belongsto":[
@@ -167,7 +167,6 @@
         "fct:id":"036b40f4-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2794166,
         "gp:id":972217,
-        "qs:id":186912,
         "qs_pg:id":186912,
         "wd:id":"Q465545",
         "wk:page":"Koksijde"
@@ -189,7 +188,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1563235414,
+    "wof:lastmodified":1566611936,
     "wof:name":"Koksijde",
     "wof:parent_id":1108830673,
     "wof:placetype":"locality",

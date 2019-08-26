@@ -12,10 +12,13 @@
     "iso:country":"BE",
     "lbl:latitude":50.79475,
     "lbl:longitude":5.667156,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.79475,
     "mps:longitude":5.667156,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u041a\u0430\u043d\u0435"
     ],
@@ -49,7 +52,7 @@
     "name:swe_x_preferred":[
         "Kanne"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Riemst (Kanne)"
     ],
     "qs:a0":"Belgi\u00eb#Belgique#Belgien",
@@ -67,7 +70,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":477,
     "wof:belongsto":[
         85681691,
@@ -81,10 +84,12 @@
     "wof:concordances":{
         "gn:id":2794752,
         "gp:id":969202,
-        "qs:id":2,
-        "qs_pg:id":182720,
+        "qs_pg:id":2,
         "wd:id":"Q2161364",
         "wk:page":"Kanne"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":182720
     },
     "wof:country":"BE",
     "wof:geomhash":"9aa4710f62feafc4871083b57276bbb6",
@@ -99,7 +104,7 @@
         }
     ],
     "wof:id":1175610547,
-    "wof:lastmodified":1563234789,
+    "wof:lastmodified":1566611688,
     "wof:name":"Kanne",
     "wof:parent_id":102049941,
     "wof:placetype":"locality",

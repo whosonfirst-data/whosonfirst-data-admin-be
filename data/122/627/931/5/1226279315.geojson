@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Brussels",
     "iso:country":"BE",
+    "lbl:bbox":"4.65693,50.10776,4.69693,50.14776",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bel_x_preferred":[
         "\u0411\u0430\u0441\u043a\u0435\u0442"
     ],
@@ -86,7 +90,7 @@
         }
     ],
     "wof:id":1226279315,
-    "wof:lastmodified":1564163646,
+    "wof:lastmodified":1566612447,
     "wof:name":"Bosquet",
     "wof:parent_id":102049917,
     "wof:placetype":"locality",

@@ -10,8 +10,10 @@
     "geom:latitude":50.870682,
     "geom:longitude":4.460571,
     "iso:country":"BE",
+    "lbl:bbox":"4.455571,50.865682,4.465571,50.875682",
     "lbl:latitude":50.870682,
     "lbl:longitude":4.460571,
+    "lbl:max_zoom":18.0,
     "mps:latitude":50.867511,
     "mps:longitude":4.45068,
     "mz:hierarchy_label":0,
@@ -46,9 +48,8 @@
     "name:rus_x_preferred":[
         "\u0421\u0438\u043d\u0442-\u0421\u0442\u0435\u0432\u0435\u043d\u0441-\u0412\u043e\u043b\u044e\u0432\u0435"
     ],
-    "name:unk_x_variant":[
-        "Woluwe-Saint-Etienne",
-        "St.-Stevens-Woluwe"
+    "name:und_x_variant":[
+        "Woluwe-Saint-Etienne"
     ],
     "qs:gn_fcode":"PPL",
     "qs:gn_local":0,
@@ -95,7 +96,6 @@
     "wof:concordances":{
         "gn:id":2786548,
         "gp:id":977303,
-        "qs:id":349039,
         "qs_pg:id":349039,
         "wd:id":"Q2083877",
         "wk:page":"Sint-Stevens-Woluwe"
@@ -118,7 +118,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1566247565,
+    "wof:lastmodified":1566611096,
     "wof:name":"Sint-Stevens-Woluwe",
     "wof:parent_id":101913231,
     "wof:placetype":"neighbourhood",

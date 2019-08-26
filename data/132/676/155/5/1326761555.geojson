@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Brussels",
     "iso:country":"BE",
+    "lbl:bbox":"5.98836,50.17578,6.02836,50.21578",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Deiffelt"
     ],
@@ -45,8 +49,7 @@
     ],
     "name:und_x_variant":[
         "Deyfeld",
-        "Deyfeldt",
-        "Deiffelt"
+        "Deyfeldt"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -73,7 +76,7 @@
         }
     ],
     "wof:id":1326761555,
-    "wof:lastmodified":1564161577,
+    "wof:lastmodified":1566610896,
     "wof:name":"Deiffelt",
     "wof:parent_id":102049915,
     "wof:placetype":"locality",

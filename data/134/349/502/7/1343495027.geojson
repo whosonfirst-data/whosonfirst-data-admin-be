@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Brussels",
     "iso:country":"BE",
+    "lbl:bbox":"5.17979,50.63605,5.21979,50.67605",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ell_x_preferred":[
         "\u039f\u03bc\u03ac\u03bb"
     ],
@@ -62,7 +66,7 @@
         }
     ],
     "wof:id":1343495027,
-    "wof:lastmodified":1564161730,
+    "wof:lastmodified":1566610998,
     "wof:name":"Omal",
     "wof:parent_id":102049937,
     "wof:placetype":"locality",

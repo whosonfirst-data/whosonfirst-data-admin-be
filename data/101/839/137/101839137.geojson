@@ -12,10 +12,13 @@
     "iso:country":"BE",
     "lbl:latitude":51.183901,
     "lbl:longitude":5.093005,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":51.183901,
     "mps:longitude":5.093005,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Ezaart"
     ],
@@ -25,7 +28,7 @@
     "name:nld_x_preferred":[
         "Ezaart"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Esaert"
     ],
     "qs:a0":"Belgi\u00eb#Belgique#Belgien",
@@ -43,7 +46,7 @@
     "qs:type":"rural point-multi-in-poly-resolved",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":352,
     "wof:belongsto":[
         85681715,
@@ -57,7 +60,7 @@
     "wof:concordances":{
         "gn:id":2798538,
         "gp:id":974313,
-        "qs:id":5,
+        "qs_pg:id":5,
         "wd:id":"Q3049679",
         "wk:page":"Ezaart"
     },
@@ -75,7 +78,7 @@
         }
     ],
     "wof:id":101839137,
-    "wof:lastmodified":1563235531,
+    "wof:lastmodified":1566611975,
     "wof:name":"Ezaart",
     "wof:parent_id":1108830147,
     "wof:placetype":"locality",

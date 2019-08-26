@@ -13,6 +13,7 @@
     "iso:country":"BE",
     "lbl:latitude":50.844643,
     "lbl:longitude":4.426121,
+    "lbl:max_zoom":18.0,
     "mps:latitude":50.843488,
     "mps:longitude":4.427028,
     "mz:hierarchy_label":1,
@@ -30,9 +31,6 @@
     ],
     "name:nld_x_variant":[
         "St-Lambrechts-Woluwe"
-    ],
-    "name:unk_x_variant":[
-        "St.-Lambrechts-Woluwe"
     ],
     "qs:gn_adm0_cc":"BE",
     "qs:gn_fcode":"ADM4",
@@ -76,7 +74,6 @@
     "wof:concordances":{
         "gn:id":2783477,
         "gp:id":977234,
-        "qs:id":1145614,
         "qs_pg:id":1145614
     },
     "wof:country":"BE",
@@ -96,7 +93,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1566247550,
+    "wof:lastmodified":1566611097,
     "wof:name":"St.-Lambrechts-Woluwe",
     "wof:parent_id":101751573,
     "wof:placetype":"neighbourhood",

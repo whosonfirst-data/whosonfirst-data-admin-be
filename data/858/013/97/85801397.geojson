@@ -12,6 +12,7 @@
     "iso:country":"BE",
     "lbl:latitude":50.871681,
     "lbl:longitude":4.488433,
+    "lbl:max_zoom":18.0,
     "mps:latitude":50.869787,
     "mps:longitude":4.486935,
     "mz:hierarchy_label":0,
@@ -32,9 +33,6 @@
     ],
     "name:slv_x_preferred":[
         "NK Ver\u017eej"
-    ],
-    "name:unk_x_variant":[
-        "Kouter"
     ],
     "qs:gn_fcode":"PPL",
     "qs:gn_local":0,
@@ -78,7 +76,6 @@
     "wof:concordances":{
         "gn:id":2794039,
         "gp:id":972301,
-        "qs:id":186920,
         "qs_pg:id":186920
     },
     "wof:country":"BE",
@@ -99,7 +96,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1566247565,
+    "wof:lastmodified":1566611076,
     "wof:name":"Kouter",
     "wof:parent_id":101913231,
     "wof:placetype":"neighbourhood",

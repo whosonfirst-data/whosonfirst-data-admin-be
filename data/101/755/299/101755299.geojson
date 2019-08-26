@@ -12,10 +12,13 @@
     "iso:country":"BE",
     "lbl:latitude":50.881882,
     "lbl:longitude":3.352958,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.881882,
     "mps:longitude":3.352958,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Desselgem"
     ],
@@ -34,7 +37,7 @@
     "name:por_x_preferred":[
         "Desselgem"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Desselghem"
     ],
     "name:vls_x_preferred":[
@@ -57,7 +60,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681709,
         102191581,
@@ -70,7 +73,6 @@
     "wof:concordances":{
         "gn:id":2799509,
         "gp:id":968921,
-        "qs:id":1188851,
         "qs_pg:id":1188851,
         "wd:id":"Q2090721"
     },
@@ -88,7 +90,7 @@
         }
     ],
     "wof:id":101755299,
-    "wof:lastmodified":1561831406,
+    "wof:lastmodified":1566611851,
     "wof:name":"Desselgem",
     "wof:parent_id":1108830341,
     "wof:placetype":"locality",

@@ -5,17 +5,21 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001121,
-    "geom:area_square_m":8780168.816123,
+    "geom:area_square_m":8780168.816124,
     "geom:bbox":"4.4261403076,50.6785377606,4.47853331944,50.7320146091",
     "geom:latitude":50.705119,
     "geom:longitude":4.447211,
     "iso:country":"BE",
     "lbl:latitude":50.689762,
     "lbl:longitude":4.449802,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.689762,
     "mps:longitude":4.449802,
     "mz:hierarchy_label":1,
-    "name:unk_x_variant":[
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
+    "name:und_x_variant":[
         "Ransb\u00eache"
     ],
     "qs:a0":"Belgi\u00eb#Belgique#Belgien",
@@ -34,7 +38,7 @@
     "qs:type":"suburbs point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681693,
         102191581,
@@ -46,7 +50,7 @@
     "wof:concordances":{
         "gn:id":2796390,
         "gp:id":970730,
-        "qs:id":1024145
+        "qs_pg:id":1024145
     },
     "wof:country":"BE",
     "wof:geomhash":"f4605ac8cf2bcbdc455095317b8ec207",
@@ -61,7 +65,7 @@
         }
     ],
     "wof:id":101755243,
-    "wof:lastmodified":1501264133,
+    "wof:lastmodified":1566611818,
     "wof:name":"Ransb\u00e8che",
     "wof:parent_id":102049945,
     "wof:placetype":"locality",

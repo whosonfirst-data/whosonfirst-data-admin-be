@@ -13,10 +13,13 @@
     "iso:country":"BE",
     "lbl:latitude":50.706575,
     "lbl:longitude":5.713986,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":50.706575,
     "mps:longitude":5.713986,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u062f\u0627\u0644\u0647\u064a\u0645"
     ],
@@ -124,7 +127,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85681691,
@@ -138,7 +141,6 @@
         "fct:id":"036a80b0-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2799897,
         "gp:id":968617,
-        "qs:id":223030,
         "qs_pg:id":223030,
         "wd:id":"Q846182",
         "wk:page":"Dalhem"
@@ -159,7 +161,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1563235056,
+    "wof:lastmodified":1566611832,
     "wof:name":"Dalhem",
     "wof:parent_id":102049941,
     "wof:placetype":"locality",

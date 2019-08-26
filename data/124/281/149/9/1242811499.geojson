@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Brussels",
     "iso:country":"BE",
+    "lbl:bbox":"4.59667,50.13,4.63667,50.17",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85681699,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1242811499,
-    "wof:lastmodified":1536727263,
+    "wof:lastmodified":1566612295,
     "wof:name":"Roulotte",
     "wof:parent_id":102049917,
     "wof:placetype":"locality",

@@ -5,15 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":12632934.258449,
+    "geom:area_square_m":0.0,
     "geom:bbox":"6.058216,50.891282,6.058216,50.891282",
     "geom:latitude":50.891282,
     "geom:longitude":6.058216,
     "gn:latitude":50.92597,
     "gn:longitude":5.15906,
     "iso:country":"BE",
+    "lbl:bbox":"6.053216,50.886282,6.063216,50.896282",
     "lbl:latitude":50.891282,
     "lbl:longitude":6.058216,
+    "lbl:max_zoom":18.0,
     "mps:latitude":50.894283,
     "mps:longitude":6.080244,
     "mz:hierarchy_label":0,
@@ -28,9 +30,8 @@
     "name:nld_x_preferred":[
         "Geitberg"
     ],
-    "name:unk_x_variant":[
-        "Kaiberg",
-        "Geitberg"
+    "name:und_x_variant":[
+        "Kaiberg"
     ],
     "qs:gn_fcode":"PPL",
     "qs:gn_local":0,
@@ -58,19 +59,19 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
-        85687033,
         102191581,
         404474489,
         85633337,
-        1158817899
+        1158817899,
+        85687033
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2794609,
         "gp:id":729347,
-        "qs:id":1080757
+        "qs_pg:id":1080757
     },
     "wof:country":"BE",
     "wof:geomhash":"a3df5fd427eb66a9d1a3d73fe1cb0bc4",
@@ -88,7 +89,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1531861890,
+    "wof:lastmodified":1566611066,
     "wof:name":"Geitberg",
     "wof:parent_id":1158817899,
     "wof:placetype":"neighbourhood",

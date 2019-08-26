@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Brussels",
     "iso:country":"BE",
+    "lbl:bbox":"5.66453,49.65621,5.70453,49.69621",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Villers-Tortru",
         "Villers-Tortrue"
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1293818981,
-    "wof:lastmodified":1537586891,
+    "wof:lastmodified":1566611214,
     "wof:name":"Villers-Tortrue",
     "wof:parent_id":102049907,
     "wof:placetype":"locality",

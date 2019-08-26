@@ -5,17 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000366,
-    "geom:area_square_m":2837336.502603,
+    "geom:area_square_m":2837336.502604,
     "geom:bbox":"3.44117842103,51.1913329933,3.47368682627,51.2180172531",
     "geom:latitude":51.20223,
     "geom:longitude":3.460489,
     "iso:country":"BE",
     "lbl:latitude":51.202363,
     "lbl:longitude":3.459141,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":51.202363,
     "mps:longitude":3.459141,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Belgi\u00eb#Belgique#Belgien",
     "qs:a1":"*Oost-Vlanderen",
     "qs:a1r":"0Vlaams Gewest",
@@ -31,7 +34,7 @@
     "qs:type":"rural point-multi-in-poly-resolved",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681733,
         102191581,
@@ -44,7 +47,7 @@
     "wof:concordances":{
         "gn:id":2798980,
         "gp:id":973882,
-        "qs:id":3
+        "qs_pg:id":3
     },
     "wof:country":"BE",
     "wof:geomhash":"dabc42ca695faefd640374aae3397ff7",
@@ -60,7 +63,7 @@
         }
     ],
     "wof:id":101838975,
-    "wof:lastmodified":1499531230,
+    "wof:lastmodified":1566611937,
     "wof:name":"Eelvelde",
     "wof:parent_id":1108830541,
     "wof:placetype":"locality",

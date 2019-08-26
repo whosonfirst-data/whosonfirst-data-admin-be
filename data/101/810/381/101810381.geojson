@@ -13,10 +13,13 @@
     "iso:country":"BE",
     "lbl:latitude":50.401335,
     "lbl:longitude":5.608557,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":50.401335,
     "mps:longitude":5.608557,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bre_x_preferred":[
         "Ferri\u00e8res"
     ],
@@ -121,7 +124,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":246,
     "wof:belongsto":[
@@ -135,7 +138,6 @@
     "wof:concordances":{
         "gn:id":2798365,
         "gp:id":969593,
-        "qs:id":213392,
         "qs_pg:id":213392,
         "wd:id":"Q682570"
     },
@@ -152,7 +154,7 @@
         }
     ],
     "wof:id":101810381,
-    "wof:lastmodified":1563235260,
+    "wof:lastmodified":1566611892,
     "wof:name":"Ferri\u00e8res",
     "wof:parent_id":102049925,
     "wof:placetype":"locality",

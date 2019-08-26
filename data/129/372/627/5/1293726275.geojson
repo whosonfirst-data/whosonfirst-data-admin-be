@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Brussels",
     "iso:country":"BE",
+    "lbl:bbox":"5.43986,50.83635,5.47986,50.87635",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Hoeselt (Romershoven)"
     ],
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":1293726275,
-    "wof:lastmodified":1537586932,
+    "wof:lastmodified":1566611218,
     "wof:name":"Romershoven",
     "wof:parent_id":1108830661,
     "wof:placetype":"locality",

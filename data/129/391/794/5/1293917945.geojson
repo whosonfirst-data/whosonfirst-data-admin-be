@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Brussels",
     "iso:country":"BE",
+    "lbl:bbox":"4.8501,50.22681,4.8901,50.26681",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bug_x_preferred":[
         "Melin"
     ],
@@ -125,7 +129,7 @@
         }
     ],
     "wof:id":1293917945,
-    "wof:lastmodified":1564161882,
+    "wof:lastmodified":1566611105,
     "wof:name":"Melin",
     "wof:parent_id":102049919,
     "wof:placetype":"locality",

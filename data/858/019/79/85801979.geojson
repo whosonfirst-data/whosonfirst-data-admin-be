@@ -5,13 +5,15 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":10446919.721913,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.670169,50.681253,5.670169,50.681253",
     "geom:latitude":50.681253,
     "geom:longitude":5.670169,
     "iso:country":"BE",
+    "lbl:bbox":"5.665169,50.676253,5.675169,50.686253",
     "lbl:latitude":50.681253,
     "lbl:longitude":5.670169,
+    "lbl:max_zoom":18.0,
     "mps:latitude":50.676058,
     "mps:longitude":5.672794,
     "mz:hierarchy_label":0,
@@ -26,9 +28,8 @@
     "name:fra_x_preferred":[
         "Wandre"
     ],
-    "name:unk_x_variant":[
-        "Li\u00e8ge (Wandre)",
-        "Wandre"
+    "name:und_x_variant":[
+        "Li\u00e8ge (Wandre)"
     ],
     "qs:gn_adm0_cc":"BE",
     "qs:gn_fcode":"PPL",
@@ -60,20 +61,19 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
-        85681691,
         102191581,
         85632997,
         404227353,
         101748083,
-        102049941
+        102049941,
+        85681691
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2784114,
         "gp:id":978631,
-        "qs:id":481516,
         "qs_pg:id":481516
     },
     "wof:country":"BE",
@@ -93,7 +93,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1531862111,
+    "wof:lastmodified":1566611097,
     "wof:name":"Wandre",
     "wof:parent_id":101748083,
     "wof:placetype":"neighbourhood",

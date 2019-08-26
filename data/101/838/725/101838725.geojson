@@ -5,17 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000283,
-    "geom:area_square_m":2206906.696473,
+    "geom:area_square_m":2206906.696472,
     "geom:bbox":"3.85943693967,50.897214548,3.90562192255,50.9131885067",
     "geom:latitude":50.903166,
     "geom:longitude":3.88473,
     "iso:country":"BE",
     "lbl:latitude":50.901909,
     "lbl:longitude":3.884747,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.901909,
     "mps:longitude":3.884747,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Belgi\u00eb#Belgique#Belgien",
     "qs:a1":"*Oost-Vlanderen",
     "qs:a1r":"0Vlaams Gewest",
@@ -33,7 +36,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681733,
         102191581,
@@ -46,7 +49,6 @@
     "wof:concordances":{
         "gn:id":2801436,
         "gp:id":967638,
-        "qs:id":191790,
         "qs_pg:id":191790
     },
     "wof:country":"BE",
@@ -63,7 +65,7 @@
         }
     ],
     "wof:id":101838725,
-    "wof:lastmodified":1497292173,
+    "wof:lastmodified":1566611923,
     "wof:name":"Borsbeke",
     "wof:parent_id":1108830361,
     "wof:placetype":"locality",

@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Brussels",
     "iso:country":"BE",
+    "lbl:bbox":"3.09921,51.14776,3.13921,51.18776",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bre_x_preferred":[
         "Snellegem"
     ],
@@ -42,8 +46,7 @@
     ],
     "name:und_x_variant":[
         "Smellegem",
-        "Snelleghem",
-        "Snellegem"
+        "Snelleghem"
     ],
     "name:vls_x_preferred":[
         "Snellegem"
@@ -66,7 +69,7 @@
         }
     ],
     "wof:id":1209351223,
-    "wof:lastmodified":1564162372,
+    "wof:lastmodified":1566611387,
     "wof:name":"Snellegem",
     "wof:parent_id":85632997,
     "wof:placetype":"locality",

@@ -13,10 +13,13 @@
     "iso:country":"BE",
     "lbl:latitude":50.908538,
     "lbl:longitude":5.193259,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":50.908538,
     "mps:longitude":5.193259,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:afr_x_preferred":[
         "Herk-de-Stad"
     ],
@@ -143,7 +146,7 @@
     "qs:type":"rural point-multi-in-poly-resolved",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":221,
     "wof:belongsto":[
@@ -158,7 +161,7 @@
     "wof:concordances":{
         "gn:id":2795985,
         "gp:id":976703,
-        "qs:id":2,
+        "qs_pg:id":2,
         "wd:id":"Q696585"
     },
     "wof:country":"BE",
@@ -175,7 +178,7 @@
         }
     ],
     "wof:id":101913599,
-    "wof:lastmodified":1563235307,
+    "wof:lastmodified":1566611902,
     "wof:name":"Herk-de-Stad",
     "wof:parent_id":1108830495,
     "wof:placetype":"locality",

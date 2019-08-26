@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Brussels",
     "iso:country":"BE",
+    "lbl:bbox":"3.24667,50.76333,3.28667,50.80333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Knock",
         "Knok"
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1310538397,
-    "wof:lastmodified":1537586999,
+    "wof:lastmodified":1566611724,
     "wof:name":"Knok",
     "wof:parent_id":1108830299,
     "wof:placetype":"locality",

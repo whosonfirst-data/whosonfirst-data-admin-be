@@ -9,13 +9,14 @@
     "geom:bbox":"4.312483,51.165426,4.312483,51.165426",
     "geom:latitude":51.165426,
     "geom:longitude":4.312483,
-    "gn:gn_country":"BE",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":34443,
+    "gn:country":"BE",
+    "gn:fcode":"PPL",
     "gn:population":34443,
     "iso:country":"BE",
+    "lbl:bbox":"4.307483,51.160426,4.317483,51.170426",
     "lbl:latitude":51.165426,
     "lbl:longitude":4.312483,
+    "lbl:max_zoom":18.0,
     "mps:latitude":51.171468,
     "mps:longitude":4.310294,
     "mz:hierarchy_label":0,
@@ -82,9 +83,8 @@
     "name:swe_x_preferred":[
         "Hoboken"
     ],
-    "name:unk_x_variant":[
-        "Antwerp (Hoboken)",
-        "Hoboken-lez-Anvers"
+    "name:und_x_variant":[
+        "Antwerp (Hoboken)"
     ],
     "qs:gn_adm0_cc":"BE",
     "qs:gn_fcode":"PPL",
@@ -135,7 +135,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -150,7 +150,6 @@
     "wof:concordances":{
         "gn:id":2795730,
         "gp:id":971208,
-        "qs:id":1037875,
         "qs_pg:id":1037875,
         "wd:id":"Q267663",
         "wk:page":"Hoboken, Antwerp"
@@ -173,7 +172,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1563233945,
+    "wof:lastmodified":1566611073,
     "wof:name":"Hoboken-lez-Anvers",
     "wof:parent_id":101839013,
     "wof:placetype":"neighbourhood",

@@ -12,10 +12,13 @@
     "iso:country":"BE",
     "lbl:latitude":50.546883,
     "lbl:longitude":5.473004,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.546883,
     "mps:longitude":5.473004,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bre_x_preferred":[
         "Neupr\u00e9"
     ],
@@ -118,7 +121,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":132,
     "wof:belongsto":[
         85681691,
@@ -132,7 +135,7 @@
         "fct:id":"036cdbee-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":7729796,
         "gp:id":20098328,
-        "qs:id":51534,
+        "qs_pg:id":51534,
         "wd:id":"Q710316"
     },
     "wof:country":"BE",
@@ -151,7 +154,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1563235231,
+    "wof:lastmodified":1566611884,
     "wof:name":"Neupr\u00e9",
     "wof:parent_id":102049941,
     "wof:placetype":"locality",

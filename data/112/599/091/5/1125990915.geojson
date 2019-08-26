@@ -9,14 +9,18 @@
     "geom:bbox":"3.44542,51.0394,3.44542,51.0394",
     "geom:latitude":51.0394,
     "geom:longitude":3.44542,
-    "gn:gn_country":"BE",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"BE",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"BE",
+    "lbl:bbox":"3.42542,51.0194,3.46542,51.0594",
     "lbl:latitude":51.0394,
     "lbl:longitude":3.44542,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Poeke"
@@ -33,7 +37,7 @@
     "name:nld_x_preferred":[
         "Poeke"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Poucques"
     ],
     "qs_pg:aaroncc":"BE",
@@ -57,7 +61,7 @@
     "qs_pg:woe_adm0":23424757,
     "qs_pg:woe_id":975743,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424757,
     "woe:name_adm0":"Belgique",
     "woe:name_adm1":"Oost-Vlaanderen",
@@ -92,7 +96,7 @@
         }
     ],
     "wof:id":1125990915,
-    "wof:lastmodified":1561831461,
+    "wof:lastmodified":1566612131,
     "wof:name":"Poeke",
     "wof:parent_id":1108830383,
     "wof:placetype":"locality",

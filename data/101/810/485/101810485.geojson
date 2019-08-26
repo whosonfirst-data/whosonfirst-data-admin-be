@@ -13,10 +13,13 @@
     "iso:country":"BE",
     "lbl:latitude":50.778175,
     "lbl:longitude":4.745815,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":50.778175,
     "mps:longitude":4.745815,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:afr_x_preferred":[
         "Beauvechain"
     ],
@@ -101,9 +104,6 @@
     "name:swe_x_preferred":[
         "Beauvechain"
     ],
-    "name:unk_x_variant":[
-        "Bevekom"
-    ],
     "name:vie_x_preferred":[
         "Beauvechain"
     ],
@@ -136,7 +136,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":163,
     "wof:belongsto":[
@@ -150,7 +150,6 @@
     "wof:concordances":{
         "gn:id":2802483,
         "gp:id":966989,
-        "qs:id":141539,
         "qs_pg:id":141539,
         "wd:id":"Q276266",
         "wk:page":"Beauvechain"
@@ -168,7 +167,7 @@
         }
     ],
     "wof:id":101810485,
-    "wof:lastmodified":1563235220,
+    "wof:lastmodified":1566611881,
     "wof:name":"Beauvechain",
     "wof:parent_id":102049945,
     "wof:placetype":"locality",

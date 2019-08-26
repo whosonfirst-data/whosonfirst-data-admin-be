@@ -13,10 +13,13 @@
     "iso:country":"BE",
     "lbl:latitude":51.091217,
     "lbl:longitude":3.82468,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":51.091217,
     "mps:longitude":3.82468,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:ast_x_preferred":[
         "Lochristi"
     ],
@@ -98,7 +101,7 @@
     "name:swe_x_preferred":[
         "Lochristi"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Loochristi"
     ],
     "name:vie_x_preferred":[
@@ -133,7 +136,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":84,
     "wof:belongsto":[
@@ -149,7 +152,6 @@
         "fct:id":"036b72a4-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2792235,
         "gp:id":973650,
-        "qs:id":1176037,
         "qs_pg:id":1176037,
         "wd:id":"Q735827",
         "wk:page":"Lochristi"
@@ -171,7 +173,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1563235122,
+    "wof:lastmodified":1566611856,
     "wof:name":"Lochristi",
     "wof:parent_id":1108830047,
     "wof:placetype":"locality",

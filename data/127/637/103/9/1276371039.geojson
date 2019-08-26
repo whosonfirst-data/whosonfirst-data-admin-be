@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Brussels",
     "iso:country":"BE",
+    "lbl:bbox":"3.36333,50.83,3.40333,50.87",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Knokke"
     ],
@@ -44,8 +48,7 @@
         "Knokke"
     ],
     "name:und_x_variant":[
-        "Knock",
-        "Knokke"
+        "Knock"
     ],
     "name:vls_x_preferred":[
         "Knokke"
@@ -77,7 +80,7 @@
         }
     ],
     "wof:id":1276371039,
-    "wof:lastmodified":1564162227,
+    "wof:lastmodified":1566611301,
     "wof:name":"Knokke",
     "wof:parent_id":1108830557,
     "wof:placetype":"locality",

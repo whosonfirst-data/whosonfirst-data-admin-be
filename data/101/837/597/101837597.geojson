@@ -13,10 +13,13 @@
     "iso:country":"BE",
     "lbl:latitude":51.215269,
     "lbl:longitude":4.330309,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":51.215269,
     "mps:longitude":4.330309,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:bre_x_preferred":[
         "Zwijndrecht"
     ],
@@ -107,7 +110,7 @@
     "name:ukr_x_preferred":[
         "\u0417\u0432\u0435\u0439\u043d\u0434\u0440\u0435\u0445\u0442"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Zwyndrecht"
     ],
     "name:vie_x_preferred":[
@@ -140,7 +143,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":1709,
     "wof:belongsto":[
@@ -156,7 +159,6 @@
         "fct:id":"036cd5f4-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2783081,
         "gp:id":979267,
-        "qs:id":141427,
         "qs_pg:id":141427,
         "wd:id":"Q244690",
         "wk:page":"Zwijndrecht, Belgium"
@@ -178,7 +180,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1563235485,
+    "wof:lastmodified":1566611960,
     "wof:name":"Zwijndrecht",
     "wof:parent_id":1108830433,
     "wof:placetype":"locality",

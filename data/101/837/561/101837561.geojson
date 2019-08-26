@@ -12,10 +12,13 @@
     "iso:country":"BE",
     "lbl:latitude":51.131644,
     "lbl:longitude":4.227179,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":51.131644,
     "mps:longitude":4.227179,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Belgi\u00eb#Belgique#Belgien",
     "qs:a1":"*Oost-Vlanderen",
     "qs:a1r":"0Vlaams Gewest",
@@ -31,7 +34,7 @@
     "qs:type":"rural point-multi-in-poly-resolved",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681733,
         102191581,
@@ -44,7 +47,7 @@
     "wof:concordances":{
         "gn:id":2795538,
         "gp:id":977628,
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BE",
     "wof:geomhash":"c6eded39aeefcdf5313412a5b32642c1",
@@ -60,7 +63,7 @@
         }
     ],
     "wof:id":101837561,
-    "wof:lastmodified":1535390523,
+    "wof:lastmodified":1566611956,
     "wof:name":"Hollebeek",
     "wof:parent_id":1108830387,
     "wof:placetype":"locality",

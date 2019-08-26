@@ -13,10 +13,13 @@
     "iso:country":"BE",
     "lbl:latitude":50.395442,
     "lbl:longitude":5.936762,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":50.395442,
     "mps:longitude":5.936762,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:afr_x_preferred":[
         "Stavelot"
     ],
@@ -116,7 +119,7 @@
     "name:tur_x_preferred":[
         "Stavelot"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Stablo"
     ],
     "name:vie_x_preferred":[
@@ -151,7 +154,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":670,
     "wof:belongsto":[
@@ -165,7 +168,6 @@
     "wof:concordances":{
         "gn:id":2786185,
         "gp:id":977345,
-        "qs:id":4809,
         "qs_pg:id":4809,
         "wd:id":"Q468920",
         "wk:page":"Stavelot"
@@ -183,7 +185,7 @@
         }
     ],
     "wof:id":101811697,
-    "wof:lastmodified":1563235200,
+    "wof:lastmodified":1566611875,
     "wof:name":"Stavelot",
     "wof:parent_id":102049935,
     "wof:placetype":"locality",

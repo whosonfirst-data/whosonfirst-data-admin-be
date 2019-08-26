@@ -9,14 +9,18 @@
     "geom:bbox":"4.78406,50.63485,4.78406,50.63485",
     "geom:latitude":50.63485,
     "geom:longitude":4.78406,
-    "gn:gn_country":"BE",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"BE",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"BE",
+    "lbl:bbox":"4.76406,50.61485,4.80406,50.65485",
     "lbl:latitude":50.63485,
     "lbl:longitude":4.78406,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Thorembais-Saint-Trond"
@@ -31,9 +35,6 @@
         "Thorembais-Saint-Trond"
     ],
     "name:nld_x_preferred":[
-        "Thorembais-Saint-Trond"
-    ],
-    "name:unk_x_variant":[
         "Thorembais-Saint-Trond"
     ],
     "qs_pg:aaroncc":"BE",
@@ -55,7 +56,7 @@
     "qs_pg:woe_adm0":23424757,
     "qs_pg:woe_id":977771,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424757,
     "woe:name_adm0":"Belgique",
     "woe:name_adm1":"Brabant Wallon",
@@ -88,7 +89,7 @@
         }
     ],
     "wof:id":1126058905,
-    "wof:lastmodified":1563235681,
+    "wof:lastmodified":1566612059,
     "wof:name":"Thorembais-St.-Trond",
     "wof:parent_id":102049945,
     "wof:placetype":"locality",

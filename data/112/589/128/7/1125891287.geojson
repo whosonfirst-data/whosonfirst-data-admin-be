@@ -9,14 +9,18 @@
     "geom:bbox":"3.40067,50.65429,3.40067,50.65429",
     "geom:latitude":50.65429,
     "geom:longitude":3.40067,
-    "gn:gn_country":"BE",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"BE",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"BE",
+    "lbl:bbox":"3.38067,50.63429,3.42067,50.67429",
     "lbl:latitude":50.65429,
     "lbl:longitude":3.40067,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Mont-Saint-Aubert"
@@ -28,9 +32,6 @@
         "Mont-Saint-Aubert"
     ],
     "name:nld_x_preferred":[
-        "Mont-Saint-Aubert"
-    ],
-    "name:unk_x_variant":[
         "Mont-Saint-Aubert"
     ],
     "qs_pg:aaroncc":"BE",
@@ -54,7 +55,7 @@
     "qs_pg:woe_adm0":23424757,
     "qs_pg:woe_id":974526,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424757,
     "woe:name_adm0":"Belgique",
     "woe:name_adm1":"Hainaut",
@@ -87,7 +88,7 @@
         }
     ],
     "wof:id":1125891287,
-    "wof:lastmodified":1561831456,
+    "wof:lastmodified":1566612104,
     "wof:name":"Mont-St.-Aubert",
     "wof:parent_id":102049951,
     "wof:placetype":"locality",

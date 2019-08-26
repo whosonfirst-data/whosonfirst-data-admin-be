@@ -12,10 +12,13 @@
     "iso:country":"BE",
     "lbl:latitude":50.972797,
     "lbl:longitude":4.068666,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.972797,
     "mps:longitude":4.068666,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Herdersem"
     ],
@@ -45,7 +48,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681733,
         102191581,
@@ -58,7 +61,6 @@
     "wof:concordances":{
         "gn:id":2796020,
         "gp:id":971025,
-        "qs:id":1043784,
         "qs_pg:id":1043784,
         "wd:id":"Q842744"
     },
@@ -76,7 +78,7 @@
         }
     ],
     "wof:id":101755357,
-    "wof:lastmodified":1561831402,
+    "wof:lastmodified":1566611832,
     "wof:name":"Herdersem",
     "wof:parent_id":1108830515,
     "wof:placetype":"locality",

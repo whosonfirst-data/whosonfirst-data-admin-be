@@ -12,10 +12,13 @@
     "iso:country":"BE",
     "lbl:latitude":51.327676,
     "lbl:longitude":4.528161,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":51.327676,
     "mps:longitude":4.528161,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Belgi\u00eb#Belgique#Belgien",
     "qs:a1":"*Antwerpen",
     "qs:a1r":"0Vlaams Gewest",
@@ -31,7 +34,7 @@
     "qs:type":"suburbs point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681715,
         102191581,
@@ -44,7 +47,7 @@
     "wof:concordances":{
         "gn:id":2791692,
         "gp:id":973978,
-        "qs:id":192168
+        "qs_pg:id":192168
     },
     "wof:country":"BE",
     "wof:geomhash":"2f0eb6aa9798a747a1f2f6b5226774b1",
@@ -60,7 +63,7 @@
         }
     ],
     "wof:id":101755757,
-    "wof:lastmodified":1499531340,
+    "wof:lastmodified":1566611835,
     "wof:name":"Maria ter Heide",
     "wof:parent_id":1108830619,
     "wof:placetype":"locality",

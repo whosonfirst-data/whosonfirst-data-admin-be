@@ -12,10 +12,13 @@
     "iso:country":"BE",
     "lbl:latitude":50.513082,
     "lbl:longitude":4.575246,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.513082,
     "mps:longitude":4.575246,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Ligny"
     ],
@@ -70,7 +73,7 @@
     "name:swe_x_preferred":[
         "Ligny"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Sombreffe (Ligny)"
     ],
     "name:wln_x_preferred":[
@@ -94,7 +97,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":50.5122,
     "wd:longitude":4.5667,
     "wd:wordcount":91,
@@ -110,7 +113,6 @@
         "fct:id":"036b6b88-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2792369,
         "gp:id":973562,
-        "qs:id":383746,
         "qs_pg:id":383746,
         "wd:id":"Q1642281",
         "wk:page":"Ligny"
@@ -131,7 +133,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1563235529,
+    "wof:lastmodified":1566611973,
     "wof:name":"Ligny",
     "wof:parent_id":102049931,
     "wof:placetype":"locality",

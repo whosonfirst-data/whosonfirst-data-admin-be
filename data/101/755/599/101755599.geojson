@@ -13,10 +13,13 @@
     "iso:country":"BE",
     "lbl:latitude":51.029246,
     "lbl:longitude":3.854842,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":51.029246,
     "mps:longitude":3.854842,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:bre_x_preferred":[
         "Laarne"
     ],
@@ -98,9 +101,6 @@
     "name:swe_x_preferred":[
         "Laarne"
     ],
-    "name:unk_x_variant":[
-        "Laerne"
-    ],
     "name:vie_x_preferred":[
         "Laarne"
     ],
@@ -130,7 +130,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":247,
     "wof:belongsto":[
@@ -145,7 +145,6 @@
     "wof:concordances":{
         "gn:id":2793797,
         "gp:id":972795,
-        "qs:id":1256476,
         "qs_pg:id":1256476,
         "wd:id":"Q730696"
     },
@@ -163,7 +162,7 @@
         }
     ],
     "wof:id":101755599,
-    "wof:lastmodified":1563235059,
+    "wof:lastmodified":1566611833,
     "wof:name":"Laarne",
     "wof:parent_id":1108830027,
     "wof:placetype":"locality",

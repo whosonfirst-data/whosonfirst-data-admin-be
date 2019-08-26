@@ -13,10 +13,13 @@
     "iso:country":"BE",
     "lbl:latitude":51.111079,
     "lbl:longitude":3.709719,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":51.111079,
     "mps:longitude":3.709719,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:ast_x_preferred":[
         "Evergem"
     ],
@@ -116,9 +119,6 @@
     "name:tur_x_preferred":[
         "Evergem"
     ],
-    "name:unk_x_variant":[
-        "Everghem Rabot"
-    ],
     "name:vie_x_preferred":[
         "Evergem"
     ],
@@ -148,7 +148,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":186,
     "wof:belongsto":[
@@ -164,7 +164,6 @@
         "fct:id":"036aad92-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2798551,
         "gp:id":969485,
-        "qs:id":460353,
         "qs_pg:id":460353,
         "wd:id":"Q12997",
         "wk:page":"Evergem"
@@ -186,7 +185,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1563235145,
+    "wof:lastmodified":1566611861,
     "wof:name":"Evergem",
     "wof:parent_id":1108830413,
     "wof:placetype":"locality",

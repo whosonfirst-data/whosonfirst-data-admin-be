@@ -13,10 +13,13 @@
     "iso:country":"BE",
     "lbl:latitude":50.541011,
     "lbl:longitude":5.089114,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":50.541011,
     "mps:longitude":5.089114,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bre_x_preferred":[
         "H\u00e9ron"
     ],
@@ -86,7 +89,7 @@
     "name:swe_x_preferred":[
         "H\u00e9ron"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Heron"
     ],
     "name:vie_x_preferred":[
@@ -121,7 +124,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":110,
     "wof:belongsto":[
@@ -135,7 +138,6 @@
     "wof:concordances":{
         "gn:id":2795949,
         "gp:id":971064,
-        "qs:id":484563,
         "qs_pg:id":484563,
         "wd:id":"Q683321"
     },
@@ -152,7 +154,7 @@
         }
     ],
     "wof:id":101810359,
-    "wof:lastmodified":1563235237,
+    "wof:lastmodified":1566611885,
     "wof:name":"H\u00e9ron",
     "wof:parent_id":102049925,
     "wof:placetype":"locality",

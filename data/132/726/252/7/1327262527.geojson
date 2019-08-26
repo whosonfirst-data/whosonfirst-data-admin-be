@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Brussels",
     "iso:country":"BE",
+    "lbl:bbox":"3.57629,50.58751,3.61629,50.62751",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Coron"
     ],
@@ -53,8 +57,7 @@
         "\u041a\u043e\u0440\u043e\u043d"
     ],
     "name:und_x_variant":[
-        "Le Coron",
-        "Coron"
+        "Le Coron"
     ],
     "name:war_x_preferred":[
         "Coron"
@@ -84,7 +87,7 @@
         }
     ],
     "wof:id":1327262527,
-    "wof:lastmodified":1564161617,
+    "wof:lastmodified":1566610924,
     "wof:name":"Coron",
     "wof:parent_id":102049951,
     "wof:placetype":"locality",

@@ -12,10 +12,13 @@
     "iso:country":"BE",
     "lbl:latitude":50.43368,
     "lbl:longitude":4.325433,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.43368,
     "mps:longitude":4.325433,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Forchies-la-Marche"
     ],
@@ -28,7 +31,7 @@
     "name:nld_x_preferred":[
         "Forchies-la-Marche"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Fontaine-l'\u00c9v\u00eaque (Forchies-la-Marche)"
     ],
     "qs:a0":"Belgi\u00eb#Belgique#Belgien",
@@ -48,7 +51,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681723,
         102191581,
@@ -60,7 +63,6 @@
     "wof:concordances":{
         "gn:id":2798145,
         "gp:id":969719,
-        "qs:id":385643,
         "qs_pg:id":385643,
         "wd:id":"Q2328062"
     },
@@ -77,7 +79,7 @@
         }
     ],
     "wof:id":101755057,
-    "wof:lastmodified":1561831405,
+    "wof:lastmodified":1566611847,
     "wof:name":"Forchies-la-Marche",
     "wof:parent_id":102049927,
     "wof:placetype":"locality",

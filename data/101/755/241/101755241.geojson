@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000209,
-    "geom:area_square_m":1635572.725005,
+    "geom:area_square_m":1635572.725004,
     "geom:bbox":"4.11462797555,50.6567374553,4.14926696925,50.6738252336",
     "geom:latitude":50.664856,
     "geom:longitude":4.133284,
@@ -13,11 +13,14 @@
     "iso:country":"BE",
     "lbl:latitude":50.66435,
     "lbl:longitude":4.133546,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":50.66435,
     "mps:longitude":4.133546,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":10.0,
+    "name:und_x_variant":[
         "Rebecq (Rebecq-Rognon)"
     ],
     "qs:a0":"Belgi\u00eb#Belgique#Belgien",
@@ -37,7 +40,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85681693,
@@ -50,7 +53,6 @@
     "wof:concordances":{
         "gn:id":2788299,
         "gp:id":976088,
-        "qs:id":232214,
         "qs_pg:id":232214
     },
     "wof:country":"BE",
@@ -66,7 +68,7 @@
         }
     ],
     "wof:id":101755241,
-    "wof:lastmodified":1505337747,
+    "wof:lastmodified":1566611838,
     "wof:name":"Rebecq-Rognon",
     "wof:parent_id":102049945,
     "wof:placetype":"locality",

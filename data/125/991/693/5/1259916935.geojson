@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Brussels",
     "iso:country":"BE",
+    "lbl:bbox":"4.73631,50.16426,4.77631,50.20426",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Doische (Gochen\u00e9e)"
     ],
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":1259916935,
-    "wof:lastmodified":1537587033,
+    "wof:lastmodified":1566612376,
     "wof:name":"Gochenee",
     "wof:parent_id":102049917,
     "wof:placetype":"locality",

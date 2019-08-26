@@ -9,14 +9,18 @@
     "geom:bbox":"3.06994,51.16645,3.06994,51.16645",
     "geom:latitude":51.16645,
     "geom:longitude":3.06994,
-    "gn:gn_country":"BE",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"BE",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"BE",
+    "lbl:bbox":"3.04994,51.14645,3.08994,51.18645",
     "lbl:latitude":51.16645,
     "lbl:longitude":3.06994,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bre_x_preferred":[
         "Zerkegem"
@@ -39,7 +43,7 @@
     "name:por_x_preferred":[
         "Zerkegem"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Zerkeghem"
     ],
     "name:vls_x_preferred":[
@@ -64,7 +68,7 @@
     "qs_pg:woe_adm0":23424757,
     "qs_pg:woe_id":979149,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424757,
     "woe:name_adm0":"Belgique",
     "woe:name_adm1":"West-Vlaanderen",
@@ -99,7 +103,7 @@
         }
     ],
     "wof:id":1125893165,
-    "wof:lastmodified":1563235787,
+    "wof:lastmodified":1566612106,
     "wof:name":"Zerkegem",
     "wof:parent_id":1108830157,
     "wof:placetype":"locality",

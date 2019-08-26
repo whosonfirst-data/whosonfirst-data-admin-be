@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Brussels",
     "iso:country":"BE",
+    "lbl:bbox":"3.28658,51.16043,3.32658,51.20043",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Vliegendepaard",
         "Vliegendpaard"
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1209750443,
-    "wof:lastmodified":1537586890,
+    "wof:lastmodified":1566611429,
     "wof:name":"Vliegendpaard",
     "wof:parent_id":1108830289,
     "wof:placetype":"locality",

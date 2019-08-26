@@ -9,14 +9,18 @@
     "geom:bbox":"4.41599,51.04722,4.41599,51.04722",
     "geom:latitude":51.04722,
     "geom:longitude":4.41599,
-    "gn:gn_country":"BE",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"BE",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"BE",
+    "lbl:bbox":"4.39599,51.02722,4.43599,51.06722",
     "lbl:latitude":51.04722,
     "lbl:longitude":4.41599,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bul_x_preferred":[
         "\u0425\u0435\u0444\u0435\u043d"
@@ -39,7 +43,7 @@
     "name:swe_x_preferred":[
         "Heffen"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Mechelen (Heffen)"
     ],
     "qs_pg:aaroncc":"BE",
@@ -63,7 +67,7 @@
     "qs_pg:woe_adm0":23424757,
     "qs_pg:woe_id":970830,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424757,
     "woe:name_adm0":"Belgique",
     "woe:name_adm1":"Antwerpen",
@@ -98,7 +102,7 @@
         }
     ],
     "wof:id":1125933667,
-    "wof:lastmodified":1563235611,
+    "wof:lastmodified":1566612020,
     "wof:name":"Heffen",
     "wof:parent_id":1108830407,
     "wof:placetype":"locality",

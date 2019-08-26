@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Brussels",
     "iso:country":"BE",
+    "lbl:bbox":"3.03987,51.00346,3.07987,51.04346",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Elle"
     ],
@@ -62,8 +66,7 @@
         "Elle"
     ],
     "name:und_x_variant":[
-        "Cortemarck-Elle",
-        "Elle"
+        "Cortemarck-Elle"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -92,7 +95,7 @@
         }
     ],
     "wof:id":1310238959,
-    "wof:lastmodified":1564162874,
+    "wof:lastmodified":1566611697,
     "wof:name":"Elle",
     "wof:parent_id":1108830511,
     "wof:placetype":"locality",

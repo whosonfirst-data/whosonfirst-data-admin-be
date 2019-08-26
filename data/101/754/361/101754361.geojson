@@ -12,10 +12,13 @@
     "iso:country":"BE",
     "lbl:latitude":51.141849,
     "lbl:longitude":4.635483,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":51.141849,
     "mps:longitude":4.635483,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Kessel"
     ],
@@ -34,7 +37,7 @@
     "name:swe_x_preferred":[
         "Kessel"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Nijlen (Kessel)"
     ],
     "qs:a0":"Belgi\u00eb#Belgique#Belgien",
@@ -54,7 +57,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":234,
     "wof:belongsto":[
         85681715,
@@ -68,7 +71,6 @@
     "wof:concordances":{
         "gn:id":2794510,
         "gp:id":971999,
-        "qs:id":348974,
         "qs_pg:id":348974,
         "wd:id":"Q1951749",
         "wk:page":"Kessel, Belgium"
@@ -87,7 +89,7 @@
         }
     ],
     "wof:id":101754361,
-    "wof:lastmodified":1563235152,
+    "wof:lastmodified":1566611863,
     "wof:name":"Kessel",
     "wof:parent_id":1108830199,
     "wof:placetype":"locality",

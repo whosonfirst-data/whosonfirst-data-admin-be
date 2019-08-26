@@ -5,17 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000331,
-    "geom:area_square_m":2575370.129401,
+    "geom:area_square_m":2575370.129402,
     "geom:bbox":"5.23267267063,51.0171963377,5.25991637922,51.0685188234",
     "geom:latitude":51.044828,
     "geom:longitude":5.246731,
     "iso:country":"BE",
     "lbl:latitude":51.054834,
     "lbl:longitude":5.248337,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":51.054834,
     "mps:longitude":5.248337,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Belgi\u00eb#Belgique#Belgien",
     "qs:a1":"*Limburg",
     "qs:a1r":"0Vlaams Gewest",
@@ -31,7 +34,7 @@
     "qs:type":"rural point-multi-in-poly-resolved",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681705,
         102191581,
@@ -43,7 +46,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":972209,
-        "qs:id":1
+        "qs_pg:id":1
     },
     "wof:country":"BE",
     "wof:geomhash":"2a0336a5037763825860714a7eaf4947",
@@ -59,7 +62,7 @@
         }
     ],
     "wof:id":101838841,
-    "wof:lastmodified":1499531330,
+    "wof:lastmodified":1566611929,
     "wof:name":"Steenveld",
     "wof:parent_id":1108830613,
     "wof:placetype":"locality",

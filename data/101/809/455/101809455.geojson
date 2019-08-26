@@ -5,17 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000394,
-    "geom:area_square_m":3048972.915655,
+    "geom:area_square_m":3048972.915657,
     "geom:bbox":"4.36846399953,51.2126955767,4.39713677767,51.2373653866",
     "geom:latitude":51.226714,
     "geom:longitude":4.383227,
     "iso:country":"BE",
     "lbl:latitude":51.226787,
     "lbl:longitude":4.38301,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":51.226787,
     "mps:longitude":4.38301,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Belgi\u00eb#Belgique#Belgien",
     "qs:a1":"*Antwerpen",
     "qs:a1r":"0Vlaams Gewest",
@@ -33,7 +36,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681715,
         102191581,
@@ -45,7 +48,9 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":22656682,
-        "qs:id":5,
+        "qs_pg:id":5
+    },
+    "wof:concordances_alt":{
         "qs_pg:id":893496
     },
     "wof:country":"BE",
@@ -62,7 +67,7 @@
         }
     ],
     "wof:id":101809455,
-    "wof:lastmodified":1497289969,
+    "wof:lastmodified":1566611944,
     "wof:name":"Antwerpen Linkeroever",
     "wof:parent_id":1108830423,
     "wof:placetype":"locality",

@@ -9,14 +9,18 @@
     "geom:bbox":"4.45427,49.96248,4.45427,49.96248",
     "geom:latitude":49.96248,
     "geom:longitude":4.45427,
-    "gn:gn_country":"BE",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"BE",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"BE",
+    "lbl:bbox":"4.43427,49.94248,4.47427,49.98248",
     "lbl:latitude":49.96248,
     "lbl:longitude":4.45427,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Cul-des-Sarts"
@@ -27,7 +31,7 @@
     "name:nld_x_preferred":[
         "Cul-des-Sarts"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Couvin (Cul-des-Sarts)"
     ],
     "name:wln_x_preferred":[
@@ -52,7 +56,7 @@
     "qs_pg:woe_adm0":23424757,
     "qs_pg:woe_id":968581,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424757,
     "woe:name_adm0":"Belgique",
     "woe:name_adm1":"Namur",
@@ -85,7 +89,7 @@
         }
     ],
     "wof:id":1125863779,
-    "wof:lastmodified":1561831452,
+    "wof:lastmodified":1566612079,
     "wof:name":"Cul-des-Sarts",
     "wof:parent_id":102049917,
     "wof:placetype":"locality",

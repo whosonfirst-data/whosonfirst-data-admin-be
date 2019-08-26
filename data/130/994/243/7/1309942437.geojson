@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Brussels",
     "iso:country":"BE",
+    "lbl:bbox":"5.79667,50.66333,5.83667,50.70333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Championet",
         "Champiomont"
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1309942437,
-    "wof:lastmodified":1537587062,
+    "wof:lastmodified":1566611996,
     "wof:name":"Champiomont",
     "wof:parent_id":102049935,
     "wof:placetype":"locality",

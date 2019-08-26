@@ -13,10 +13,13 @@
     "iso:country":"BE",
     "lbl:latitude":50.88709,
     "lbl:longitude":4.070904,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":50.88709,
     "mps:longitude":4.070904,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:bre_x_preferred":[
         "Denderleeuw"
     ],
@@ -127,7 +130,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":90,
     "wof:belongsto":[
@@ -143,7 +146,6 @@
         "fct:id":"036a86be-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2799647,
         "gp:id":968898,
-        "qs:id":4293,
         "qs_pg:id":4293,
         "wd:id":"Q696825"
     },
@@ -164,7 +166,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1563235151,
+    "wof:lastmodified":1566611863,
     "wof:name":"Denderleeuw",
     "wof:parent_id":1108830457,
     "wof:placetype":"locality",

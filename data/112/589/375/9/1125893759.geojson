@@ -9,15 +9,18 @@
     "geom:bbox":"4.7212,50.67753,4.7212,50.67753",
     "geom:latitude":50.67753,
     "geom:longitude":4.7212,
-    "gn:gn_country":"BE",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":10943,
+    "gn:country":"BE",
+    "gn:fcode":"PPL",
     "gn:population":10943,
     "iso:country":"BE",
+    "lbl:bbox":"4.7012,50.65753,4.7412,50.69753",
     "lbl:latitude":50.67753,
     "lbl:longitude":4.7212,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":10.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bre_x_preferred":[
         "Chaumont-Gistoux"
@@ -85,7 +88,7 @@
     "name:swe_x_preferred":[
         "Chaumont-Gistoux"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Chaumont"
     ],
     "name:vie_x_preferred":[
@@ -118,7 +121,7 @@
     "qs_pg:qs_id":1037928,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         85681693,
@@ -146,7 +149,7 @@
         }
     ],
     "wof:id":1125893759,
-    "wof:lastmodified":1564163240,
+    "wof:lastmodified":1566612107,
     "wof:name":"Chaumont-Gistoux",
     "wof:parent_id":102049945,
     "wof:placetype":"locality",

@@ -13,10 +13,13 @@
     "iso:country":"BE",
     "lbl:latitude":50.410548,
     "lbl:longitude":5.065211,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":50.410548,
     "mps:longitude":5.065211,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bre_x_preferred":[
         "Gesves"
     ],
@@ -124,7 +127,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":105,
     "wof:belongsto":[
@@ -139,7 +142,6 @@
         "fct:id":"036ad18c-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2797581,
         "gp:id":970056,
-        "qs:id":507233,
         "qs_pg:id":507233,
         "wd:id":"Q388879"
     },
@@ -159,7 +161,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1563235226,
+    "wof:lastmodified":1566611882,
     "wof:name":"Gesves",
     "wof:parent_id":102049931,
     "wof:placetype":"locality",

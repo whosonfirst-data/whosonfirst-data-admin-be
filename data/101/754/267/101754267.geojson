@@ -12,10 +12,13 @@
     "iso:country":"BE",
     "lbl:latitude":50.46324,
     "lbl:longitude":4.334662,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.46324,
     "mps:longitude":4.334662,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bre_x_preferred":[
         "Trazegnies"
     ],
@@ -46,7 +49,7 @@
     "name:swe_x_preferred":[
         "Trazegnies"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Courcelles (Trazegnies)"
     ],
     "qs:a0":"Belgi\u00eb#Belgique#Belgien",
@@ -66,7 +69,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681723,
         102191581,
@@ -78,7 +81,6 @@
     "wof:concordances":{
         "gn:id":2785305,
         "gp:id":977890,
-        "qs:id":326559,
         "qs_pg:id":326559,
         "wd:id":"Q934704"
     },
@@ -95,7 +97,7 @@
         }
     ],
     "wof:id":101754267,
-    "wof:lastmodified":1563235143,
+    "wof:lastmodified":1566611861,
     "wof:name":"Trazegnies",
     "wof:parent_id":102049927,
     "wof:placetype":"locality",

@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Brussels",
     "iso:country":"BE",
+    "lbl:bbox":"5.69524,50.66348,5.73524,50.70348",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Waide",
         "La Waide"
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1293032389,
-    "wof:lastmodified":1537586985,
+    "wof:lastmodified":1566611178,
     "wof:name":"La Waide",
     "wof:parent_id":102049941,
     "wof:placetype":"locality",

@@ -12,10 +12,13 @@
     "iso:country":"BE",
     "lbl:latitude":50.644647,
     "lbl:longitude":3.281644,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.644647,
     "mps:longitude":3.281644,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Templeuve"
     ],
@@ -45,7 +48,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681723,
         102191581,
@@ -57,7 +60,6 @@
     "wof:concordances":{
         "gn:id":2785784,
         "gp:id":977626,
-        "qs:id":1059268,
         "qs_pg:id":1059268,
         "wd:id":"Q2017080"
     },
@@ -74,7 +76,7 @@
         }
     ],
     "wof:id":101810533,
-    "wof:lastmodified":1561831413,
+    "wof:lastmodified":1566611878,
     "wof:name":"Templeuve",
     "wof:parent_id":102049951,
     "wof:placetype":"locality",

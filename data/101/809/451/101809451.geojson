@@ -5,17 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000318,
-    "geom:area_square_m":2451023.646833,
+    "geom:area_square_m":2451023.646834,
     "geom:bbox":"4.48411924262,51.4240547003,4.53251617408,51.4532803795",
     "geom:latitude":51.439052,
     "geom:longitude":4.507795,
     "iso:country":"BE",
     "lbl:latitude":51.448843,
     "lbl:longitude":4.501379,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":51.448843,
     "mps:longitude":4.501379,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Belgi\u00eb#Belgique#Belgien",
     "qs:a1":"*Antwerpen",
     "qs:a1r":"0Vlaams Gewest",
@@ -33,7 +36,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681715,
         102191581,
@@ -46,7 +49,6 @@
     "wof:concordances":{
         "gn:id":2790157,
         "gp:id":974910,
-        "qs:id":326429,
         "qs_pg:id":326429
     },
     "wof:country":"BE",
@@ -63,7 +65,7 @@
         }
     ],
     "wof:id":101809451,
-    "wof:lastmodified":1497302484,
+    "wof:lastmodified":1566611950,
     "wof:name":"Nieuwmoer",
     "wof:parent_id":1108830513,
     "wof:placetype":"locality",

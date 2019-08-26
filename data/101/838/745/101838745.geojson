@@ -9,15 +9,18 @@
     "geom:bbox":"4.90746207071,50.8337997019,5.03629047633,50.9380913212",
     "geom:latitude":50.877632,
     "geom:longitude":4.97382,
-    "geonames:id":"2797500,2797502",
+    "gn:id":"2797500,2797502",
     "gn:population":5070,
     "iso:country":"BE",
     "lbl:latitude":50.848986,
     "lbl:longitude":4.952203,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":50.848986,
     "mps:longitude":4.952203,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bre_x_preferred":[
         "Glabbeek"
     ],
@@ -87,7 +90,7 @@
     "name:swe_x_preferred":[
         "Glabbeek-Zuurbemde"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Glabbeek-Suerbempde"
     ],
     "name:vie_x_preferred":[
@@ -117,7 +120,7 @@
     "qs:type":"rural point-multi-in-poly-resolved",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":81,
     "wof:belongsto":[
@@ -132,7 +135,7 @@
     "wof:concordances":{
         "gn:id":2797500,
         "gp:id":970105,
-        "qs:id":471734,
+        "qs_pg:id":471734,
         "wd:id":"Q984868"
     },
     "wof:country":"BE",
@@ -149,7 +152,7 @@
         }
     ],
     "wof:id":101838745,
-    "wof:lastmodified":1563235416,
+    "wof:lastmodified":1566611936,
     "wof:name":"Glabbeek",
     "wof:parent_id":1108830653,
     "wof:placetype":"locality",

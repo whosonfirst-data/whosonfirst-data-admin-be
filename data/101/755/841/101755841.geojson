@@ -13,10 +13,13 @@
     "iso:country":"BE",
     "lbl:latitude":51.053944,
     "lbl:longitude":4.881408,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":51.053944,
     "mps:longitude":4.881408,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:bre_x_preferred":[
         "Herselt"
     ],
@@ -86,7 +89,7 @@
     "name:swe_x_preferred":[
         "Herselt"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Hersselt"
     ],
     "name:vie_x_preferred":[
@@ -118,7 +121,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":80,
     "wof:belongsto":[
@@ -133,7 +136,6 @@
     "wof:concordances":{
         "gn:id":2795933,
         "gp:id":971073,
-        "qs:id":4407,
         "qs_pg:id":4407,
         "wd:id":"Q280182"
     },
@@ -151,7 +153,7 @@
         }
     ],
     "wof:id":101755841,
-    "wof:lastmodified":1563235070,
+    "wof:lastmodified":1566611836,
     "wof:name":"Herselt",
     "wof:parent_id":1108830551,
     "wof:placetype":"locality",

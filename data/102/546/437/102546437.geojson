@@ -12,6 +12,7 @@
     "iso:country":"BE",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":13.0,
     "name:ceb_x_preferred":[
         "Koksijde"
     ],
@@ -75,7 +76,7 @@
         }
     ],
     "wof:id":102546437,
-    "wof:lastmodified":1563233749,
+    "wof:lastmodified":1566610952,
     "wof:name":"Koksijde Airport",
     "wof:parent_id":85681709,
     "wof:placetype":"campus",

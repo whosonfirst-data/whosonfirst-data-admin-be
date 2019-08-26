@@ -12,10 +12,13 @@
     "iso:country":"BE",
     "lbl:latitude":50.8951,
     "lbl:longitude":4.231328,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.8951,
     "mps:longitude":4.231328,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Belgi\u00eb#Belgique#Belgien",
     "qs:a1":"*Vlaams Brabant",
     "qs:a1r":"0Vlaams Gewest",
@@ -31,7 +34,7 @@
     "qs:type":"suburbs point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681731,
         102191581,
@@ -44,7 +47,7 @@
     "wof:concordances":{
         "gn:id":2784171,
         "gp:id":966651,
-        "qs:id":7
+        "qs_pg:id":7
     },
     "wof:country":"BE",
     "wof:geomhash":"ea82ad488e8cb9fa56a88e6b65cbcc2e",
@@ -60,7 +63,7 @@
         }
     ],
     "wof:id":101755507,
-    "wof:lastmodified":1499531086,
+    "wof:lastmodified":1566611834,
     "wof:name":"Walfergem",
     "wof:parent_id":1108830421,
     "wof:placetype":"locality",

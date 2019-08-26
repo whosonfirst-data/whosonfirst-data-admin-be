@@ -9,15 +9,18 @@
     "geom:bbox":"4.66421,50.83522,4.66421,50.83522",
     "geom:latitude":50.83522,
     "geom:longitude":4.66421,
-    "gn:gn_country":"BE",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":10533,
+    "gn:country":"BE",
+    "gn:fcode":"PPL",
     "gn:population":10533,
     "iso:country":"BE",
+    "lbl:bbox":"4.64421,50.81522,4.68421,50.85522",
     "lbl:latitude":50.83522,
     "lbl:longitude":4.66421,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bre_x_preferred":[
         "Oud-Heverlee"
@@ -97,7 +100,7 @@
     "name:ukr_x_preferred":[
         "\u0410\u0443\u0434-\u0413\u0435\u0432\u0435\u0440\u043b\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Vieux-H\u00e9verl\u00e9"
     ],
     "name:vie_x_preferred":[
@@ -133,7 +136,7 @@
     "qs_pg:woe_adm0":23424757,
     "qs_pg:woe_id":975277,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424757,
     "woe:name_adm0":"Belgique",
@@ -169,7 +172,7 @@
         }
     ],
     "wof:id":1126016603,
-    "wof:lastmodified":1563235905,
+    "wof:lastmodified":1566612173,
     "wof:name":"Oud-Heverlee",
     "wof:parent_id":1108830043,
     "wof:placetype":"locality",

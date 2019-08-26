@@ -13,10 +13,13 @@
     "iso:country":"BE",
     "lbl:latitude":50.815373,
     "lbl:longitude":3.338685,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":50.815373,
     "mps:longitude":3.338685,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:bre_x_preferred":[
         "Zwevegem"
     ],
@@ -101,9 +104,6 @@
     "name:swe_x_preferred":[
         "Zwevegem"
     ],
-    "name:unk_x_variant":[
-        "Sweveghem"
-    ],
     "name:vls_x_preferred":[
         "Zwevehem"
     ],
@@ -136,7 +136,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":107,
     "wof:belongsto":[
@@ -152,7 +152,6 @@
         "fct:id":"036cd554-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2783089,
         "gp:id":979262,
-        "qs:id":806611,
         "qs_pg:id":806611,
         "wd:id":"Q244513",
         "wk:page":"Zwevegem"
@@ -174,7 +173,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1563235154,
+    "wof:lastmodified":1566611863,
     "wof:name":"Zwevegem",
     "wof:parent_id":1108830095,
     "wof:placetype":"locality",

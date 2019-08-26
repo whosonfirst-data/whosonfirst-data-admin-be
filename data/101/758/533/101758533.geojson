@@ -13,10 +13,13 @@
     "iso:country":"BE",
     "lbl:latitude":50.983342,
     "lbl:longitude":4.458495,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":50.983342,
     "mps:longitude":4.458495,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:bre_x_preferred":[
         "Zemst"
     ],
@@ -98,7 +101,7 @@
     "name:swe_x_preferred":[
         "Zemst"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Sempst"
     ],
     "name:vie_x_preferred":[
@@ -130,7 +133,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":84,
     "wof:belongsto":[
@@ -145,7 +148,6 @@
     "wof:concordances":{
         "gn:id":2783274,
         "gp:id":979147,
-        "qs:id":1145654,
         "qs_pg:id":1145654,
         "wd:id":"Q179249",
         "wk:page":"Zemst"
@@ -164,7 +166,7 @@
         }
     ],
     "wof:id":101758533,
-    "wof:lastmodified":1563235328,
+    "wof:lastmodified":1566611908,
     "wof:name":"Zemst",
     "wof:parent_id":1108830589,
     "wof:placetype":"locality",

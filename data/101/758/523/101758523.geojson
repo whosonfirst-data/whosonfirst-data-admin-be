@@ -5,17 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000319,
-    "geom:area_square_m":2479914.521769,
+    "geom:area_square_m":2479914.52177,
     "geom:bbox":"4.62307175742,51.0136297327,4.66656983154,51.0346880082",
     "geom:latitude":51.02417,
     "geom:longitude":4.643127,
     "iso:country":"BE",
     "lbl:latitude":51.02464,
     "lbl:longitude":4.646751,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":51.02464,
     "mps:longitude":4.646751,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Belgi\u00eb#Belgique#Belgien",
     "qs:a1":"*Antwerpen",
     "qs:a1r":"0Vlaams Gewest",
@@ -31,7 +34,7 @@
     "qs:type":"suburbs point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681715,
         102191581,
@@ -44,7 +47,7 @@
     "wof:concordances":{
         "gn:id":2794061,
         "gp:id":12602665,
-        "qs:id":2
+        "qs_pg:id":2
     },
     "wof:country":"BE",
     "wof:geomhash":"5d4e9adcfb263c9681da516505055c0c",
@@ -60,7 +63,7 @@
         }
     ],
     "wof:id":101758523,
-    "wof:lastmodified":1499531026,
+    "wof:lastmodified":1566611910,
     "wof:name":"Korte Welvaart",
     "wof:parent_id":1108830381,
     "wof:placetype":"locality",

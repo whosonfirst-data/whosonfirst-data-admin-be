@@ -5,17 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00023,
-    "geom:area_square_m":1784087.672484,
+    "geom:area_square_m":1784087.672483,
     "geom:bbox":"2.72354511258,51.1269934396,2.74498284912,51.1473591783",
     "geom:latitude":51.137188,
     "geom:longitude":2.735818,
     "iso:country":"BE",
     "lbl:latitude":51.13758,
     "lbl:longitude":2.739553,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":51.13758,
     "mps:longitude":2.739553,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Belgi\u00eb#Belgique#Belgien",
     "qs:a1":"*West-Vlanderen",
     "qs:a1r":"0Vlaams Gewest",
@@ -31,7 +34,7 @@
     "qs:type":"suburbs point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681709,
         102191581,
@@ -43,7 +46,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":974914,
-        "qs:id":3
+        "qs_pg:id":3
     },
     "wof:country":"BE",
     "wof:geomhash":"16412f29860e1a86366b4a27e185a278",
@@ -59,7 +62,7 @@
         }
     ],
     "wof:id":101755723,
-    "wof:lastmodified":1499531441,
+    "wof:lastmodified":1566611829,
     "wof:name":"Jachthavenwijk",
     "wof:parent_id":1108830679,
     "wof:placetype":"locality",

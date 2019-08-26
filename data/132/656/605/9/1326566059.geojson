@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Brussels",
     "iso:country":"BE",
+    "lbl:bbox":"5.4844,50.33569,5.5244,50.37569",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85681727,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1326566059,
-    "wof:lastmodified":1536935934,
+    "wof:lastmodified":1566610851,
     "wof:name":"Petit Barvaux",
     "wof:parent_id":102049921,
     "wof:placetype":"locality",

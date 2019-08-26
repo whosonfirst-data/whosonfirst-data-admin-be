@@ -12,10 +12,13 @@
     "iso:country":"BE",
     "lbl:latitude":50.781989,
     "lbl:longitude":5.131442,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.781989,
     "mps:longitude":5.131442,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0412\u0435\u043b\u043c"
     ],
@@ -43,7 +46,7 @@
     "name:swe_x_preferred":[
         "Velm"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Sint-Truiden (Velm)"
     ],
     "qs:a0":"Belgi\u00eb#Belgique#Belgien",
@@ -63,7 +66,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":50.7744,
     "wd:longitude":5.135,
     "wd:wordcount":327,
@@ -79,7 +82,6 @@
     "wof:concordances":{
         "gn:id":2784914,
         "gp:id":978166,
-        "qs:id":1187706,
         "qs_pg:id":1187706,
         "wd:id":"Q3474450",
         "wk:page":"Velm"
@@ -98,7 +100,7 @@
         }
     ],
     "wof:id":101810561,
-    "wof:lastmodified":1561831414,
+    "wof:lastmodified":1566611879,
     "wof:name":"Velm",
     "wof:parent_id":1108830223,
     "wof:placetype":"locality",

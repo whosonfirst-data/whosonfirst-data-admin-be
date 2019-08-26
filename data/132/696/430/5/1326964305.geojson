@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Brussels",
     "iso:country":"BE",
+    "lbl:bbox":"5.12608,50.69814,5.16608,50.73814",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Petit-Fresin",
         "Klein Vorsen"
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1326964305,
-    "wof:lastmodified":1537587000,
+    "wof:lastmodified":1566610910,
     "wof:name":"Klein Vorsen",
     "wof:parent_id":1108830599,
     "wof:placetype":"locality",

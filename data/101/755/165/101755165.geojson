@@ -13,10 +13,13 @@
     "iso:country":"BE",
     "lbl:latitude":50.594217,
     "lbl:longitude":5.752113,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":50.594217,
     "mps:longitude":5.752113,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0623\u0648\u0644\u0646"
     ],
@@ -125,7 +128,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":97,
     "wof:belongsto":[
@@ -139,7 +142,6 @@
     "wof:concordances":{
         "gn:id":2789869,
         "gp:id":975080,
-        "qs:id":1277173,
         "qs_pg:id":1277173,
         "wd:id":"Q710358",
         "wk:page":"Olne"
@@ -157,7 +159,7 @@
         }
     ],
     "wof:id":101755165,
-    "wof:lastmodified":1563235056,
+    "wof:lastmodified":1566611832,
     "wof:name":"Olne",
     "wof:parent_id":102049935,
     "wof:placetype":"locality",

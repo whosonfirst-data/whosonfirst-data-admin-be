@@ -12,10 +12,13 @@
     "iso:country":"BE",
     "lbl:latitude":50.983712,
     "lbl:longitude":3.567527,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.983712,
     "mps:longitude":3.567527,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Astene"
     ],
@@ -51,7 +54,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681733,
         102191581,
@@ -64,7 +67,6 @@
     "wof:concordances":{
         "gn:id":2803014,
         "gp:id":966664,
-        "qs:id":1003031,
         "qs_pg:id":1003031,
         "wd:id":"Q2868389"
     },
@@ -82,7 +84,7 @@
         }
     ],
     "wof:id":101838887,
-    "wof:lastmodified":1561831423,
+    "wof:lastmodified":1566611918,
     "wof:name":"Astene",
     "wof:parent_id":1108830629,
     "wof:placetype":"locality",

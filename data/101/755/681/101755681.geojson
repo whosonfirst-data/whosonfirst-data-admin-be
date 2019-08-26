@@ -12,10 +12,13 @@
     "iso:country":"BE",
     "lbl:latitude":51.005548,
     "lbl:longitude":3.711205,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":51.005548,
     "mps:longitude":3.711205,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bre_x_preferred":[
         "Zwijnaarde"
     ],
@@ -52,7 +55,7 @@
     "name:swe_x_preferred":[
         "Zwijnaarde"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Zwynaerde"
     ],
     "qs:a0":"Belgi\u00eb#Belgique#Belgien",
@@ -72,7 +75,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":51.0006,
     "wd:longitude":3.7133,
     "wd:wordcount":145,
@@ -88,7 +91,6 @@
     "wof:concordances":{
         "gn:id":2783084,
         "gp:id":979265,
-        "qs:id":1145653,
         "qs_pg:id":1145653,
         "wd:id":"Q2176982",
         "wk:page":"Zwijnaarde"
@@ -107,7 +109,7 @@
         }
     ],
     "wof:id":101755681,
-    "wof:lastmodified":1563234999,
+    "wof:lastmodified":1566611813,
     "wof:name":"Zwijnaarde",
     "wof:parent_id":1108830083,
     "wof:placetype":"locality",

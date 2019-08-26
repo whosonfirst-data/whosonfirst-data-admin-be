@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Brussels",
     "iso:country":"BE",
+    "lbl:bbox":"5.70713,50.35026,5.74713,50.39026",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Nency",
         "Neucy"
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1327468639,
-    "wof:lastmodified":1537586957,
+    "wof:lastmodified":1566610889,
     "wof:name":"Neucy",
     "wof:parent_id":102049935,
     "wof:placetype":"locality",

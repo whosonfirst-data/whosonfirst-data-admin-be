@@ -12,10 +12,13 @@
     "iso:country":"BE",
     "lbl:latitude":49.557328,
     "lbl:longitude":5.741856,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.557328,
     "mps:longitude":5.741856,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Halanzy"
     ],
@@ -51,7 +54,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681727,
         102191581,
@@ -63,7 +66,6 @@
     "wof:concordances":{
         "gn:id":2796722,
         "gp:id":970548,
-        "qs:id":114317,
         "qs_pg:id":114317,
         "wd:id":"Q2340066"
     },
@@ -80,7 +82,7 @@
         }
     ],
     "wof:id":101839735,
-    "wof:lastmodified":1561831435,
+    "wof:lastmodified":1566611974,
     "wof:name":"Halanzy",
     "wof:parent_id":102049909,
     "wof:placetype":"locality",

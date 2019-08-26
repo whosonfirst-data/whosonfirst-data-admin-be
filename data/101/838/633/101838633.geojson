@@ -13,10 +13,13 @@
     "iso:country":"BE",
     "lbl:latitude":50.217336,
     "lbl:longitude":4.827094,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":50.217336,
     "mps:longitude":4.827094,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bre_x_preferred":[
         "Hasti\u00e8re"
     ],
@@ -47,7 +50,7 @@
     "name:spa_x_preferred":[
         "Hasti\u00e8re"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Hasti\u00e8re (Hasti\u00e8re-par-del\u00e0)"
     ],
     "qs:a0":"Belgi\u00eb#Belgique#Belgien",
@@ -67,7 +70,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85681699,
@@ -80,7 +83,9 @@
     "wof:concordances":{
         "gn:id":2796482,
         "gp:id":970698,
-        "qs:id":247389,
+        "qs_pg:id":247389
+    },
+    "wof:concordances_alt":{
         "qs_pg:id":1037893
     },
     "wof:country":"BE",
@@ -96,7 +101,7 @@
         }
     ],
     "wof:id":101838633,
-    "wof:lastmodified":1505338255,
+    "wof:lastmodified":1566611920,
     "wof:name":"Hasti\u00e8re-Lavaux",
     "wof:parent_id":102049919,
     "wof:placetype":"locality",

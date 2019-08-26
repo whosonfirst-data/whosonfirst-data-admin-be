@@ -13,10 +13,13 @@
     "iso:country":"BE",
     "lbl:latitude":51.087091,
     "lbl:longitude":3.446034,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":51.087091,
     "mps:longitude":3.446034,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:bre_x_preferred":[
         "Aalter"
     ],
@@ -134,7 +137,7 @@
     "name:tur_x_preferred":[
         "Aalter"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Aeltrebrugge"
     ],
     "name:urd_x_preferred":[
@@ -172,7 +175,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":135,
     "wof:belongsto":[
@@ -188,9 +191,11 @@
         "fct:id":"036a04d2-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2803443,
         "gp:id":966413,
-        "qs:id":1285579,
         "qs_pg:id":172125,
         "wd:id":"Q300970"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1285579
     },
     "wof:country":"BE",
     "wof:geomhash":"1a6247a5aea8c449b051885b368e3263",
@@ -209,7 +214,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1563235491,
+    "wof:lastmodified":1566611961,
     "wof:name":"Aalter",
     "wof:parent_id":1108830383,
     "wof:placetype":"locality",

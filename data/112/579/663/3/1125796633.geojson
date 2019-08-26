@@ -9,14 +9,18 @@
     "geom:bbox":"5.76104,50.06386,5.76104,50.06386",
     "geom:latitude":50.06386,
     "geom:longitude":5.76104,
-    "gn:gn_country":"BE",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"BE",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"BE",
+    "lbl:bbox":"5.74104,50.04386,5.78104,50.08386",
     "lbl:latitude":50.06386,
     "lbl:longitude":5.76104,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Noville"
@@ -33,7 +37,7 @@
     "name:nld_x_preferred":[
         "Noville"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Bastogne (Noville)"
     ],
     "name:wln_x_preferred":[
@@ -58,7 +62,7 @@
     "qs_pg:woe_adm0":23424757,
     "qs_pg:woe_id":975005,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424757,
     "woe:name_adm0":"Belgique",
     "woe:name_adm1":"Luxembourg",
@@ -91,7 +95,7 @@
         }
     ],
     "wof:id":1125796633,
-    "wof:lastmodified":1561831482,
+    "wof:lastmodified":1566612226,
     "wof:name":"Noville",
     "wof:parent_id":102049915,
     "wof:placetype":"locality",

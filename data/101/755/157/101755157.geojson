@@ -13,10 +13,13 @@
     "iso:country":"BE",
     "lbl:latitude":50.720042,
     "lbl:longitude":6.014814,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":50.720042,
     "mps:longitude":6.014814,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":10.0,
     "name:ara_x_preferred":[
         "\u0643\u064a\u0644\u0645\u064a\u0633"
     ],
@@ -145,7 +148,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":225,
     "wof:belongsto":[
@@ -159,10 +162,12 @@
     "wof:concordances":{
         "gn:id":2793722,
         "gp:id":972530,
-        "qs:id":1243812,
         "qs_pg:id":1103537,
         "wd:id":"Q159864",
         "wk:page":"Kelmis"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1243812
     },
     "wof:country":"BE",
     "wof:geomhash":"ce3bc86b8711069b06a60abeacfb26f0",
@@ -177,7 +182,7 @@
         }
     ],
     "wof:id":101755157,
-    "wof:lastmodified":1563234987,
+    "wof:lastmodified":1566611808,
     "wof:name":"Kelmis",
     "wof:parent_id":102049935,
     "wof:placetype":"locality",

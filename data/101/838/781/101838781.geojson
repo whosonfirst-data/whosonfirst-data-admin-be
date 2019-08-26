@@ -12,10 +12,13 @@
     "iso:country":"BE",
     "lbl:latitude":50.986283,
     "lbl:longitude":5.416006,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.986283,
     "mps:longitude":5.416006,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Belgi\u00eb#Belgique#Belgien",
     "qs:a1":"*Limburg",
     "qs:a1r":"0Vlaams Gewest",
@@ -31,7 +34,7 @@
     "qs:type":"rural point-multi-in-poly-resolved",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681705,
         102191581,
@@ -43,7 +46,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":974378,
-        "qs:id":8
+        "qs_pg:id":8
     },
     "wof:country":"BE",
     "wof:geomhash":"b933c66a04cd8a41b5f5cbbe1c332eb7",
@@ -59,7 +62,7 @@
         }
     ],
     "wof:id":101838781,
-    "wof:lastmodified":1499530744,
+    "wof:lastmodified":1566611935,
     "wof:name":"Termolen",
     "wof:parent_id":1108830153,
     "wof:placetype":"locality",

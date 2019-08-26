@@ -12,10 +12,13 @@
     "iso:country":"BE",
     "lbl:latitude":50.882035,
     "lbl:longitude":4.588007,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.882035,
     "mps:longitude":4.588007,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Meerbeek"
     ],
@@ -54,7 +57,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":50.8822,
     "wd:longitude":4.5856,
     "wd:wordcount":46,
@@ -70,7 +73,6 @@
     "wof:concordances":{
         "gn:id":2791513,
         "gp:id":974086,
-        "qs:id":4527,
         "qs_pg:id":4527,
         "wd:id":"Q2135796",
         "wk:page":"Meerbeek"
@@ -89,7 +91,7 @@
         }
     ],
     "wof:id":101755423,
-    "wof:lastmodified":1563235013,
+    "wof:lastmodified":1566611819,
     "wof:name":"Meerbeek",
     "wof:parent_id":1108830227,
     "wof:placetype":"locality",

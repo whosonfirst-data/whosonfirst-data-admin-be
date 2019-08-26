@@ -13,10 +13,13 @@
     "iso:country":"BE",
     "lbl:latitude":50.873292,
     "lbl:longitude":3.821411,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":50.873292,
     "mps:longitude":3.821411,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:bre_x_preferred":[
         "Zottegem"
     ],
@@ -116,7 +119,7 @@
     "name:tur_x_preferred":[
         "Zottegem"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Sottegem"
     ],
     "name:vie_x_preferred":[
@@ -148,7 +151,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":221,
     "wof:belongsto":[
@@ -164,7 +167,6 @@
         "fct:id":"03695316-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2783175,
         "gp:id":979210,
-        "qs:id":141428,
         "qs_pg:id":141428,
         "wd:id":"Q226941",
         "wk:page":"Zottegem"
@@ -186,7 +188,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1563235478,
+    "wof:lastmodified":1566611958,
     "wof:name":"Zottegem",
     "wof:parent_id":1108830019,
     "wof:placetype":"locality",

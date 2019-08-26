@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Brussels",
     "iso:country":"BE",
+    "lbl:bbox":"5.09954,50.53053,5.13954,50.57053",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bre_x_preferred":[
         "Poull-kanna\u00f1"
     ],
@@ -92,7 +96,7 @@
         }
     ],
     "wof:id":1242613527,
-    "wof:lastmodified":1564163406,
+    "wof:lastmodified":1566612296,
     "wof:name":"Lavoir",
     "wof:parent_id":102049925,
     "wof:placetype":"locality",

@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Brussels",
     "iso:country":"BE",
+    "lbl:bbox":"2.88,50.89667,2.92,50.93667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Wydendreft",
         "Weidendrift"
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1343892189,
-    "wof:lastmodified":1537586884,
+    "wof:lastmodified":1566611053,
     "wof:name":"Weidendrift",
     "wof:parent_id":1108830263,
     "wof:placetype":"locality",

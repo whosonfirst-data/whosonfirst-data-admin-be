@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Brussels",
     "iso:country":"BE",
+    "lbl:bbox":"5.01805,51.2695,5.05805,51.3095",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Kindschot",
         "Kinschot"
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1276696111,
-    "wof:lastmodified":1537587003,
+    "wof:lastmodified":1566611253,
     "wof:name":"Kinschot",
     "wof:parent_id":1108830225,
     "wof:placetype":"locality",

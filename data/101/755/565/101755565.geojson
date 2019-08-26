@@ -12,10 +12,13 @@
     "iso:country":"BE",
     "lbl:latitude":50.919316,
     "lbl:longitude":3.191062,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.919316,
     "mps:longitude":3.191062,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bos_x_preferred":[
         "Mol"
     ],
@@ -136,7 +139,7 @@
     "qs:type":"suburbs point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":360,
     "wof:belongsto":[
         85681709,
@@ -149,7 +152,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":971707,
-        "qs:id":4
+        "qs_pg:id":4
     },
     "wof:country":"BE",
     "wof:geomhash":"914e0d34e4370113ce7d59be97cb1b67",
@@ -165,7 +168,7 @@
         }
     ],
     "wof:id":101755565,
-    "wof:lastmodified":1564163083,
+    "wof:lastmodified":1566611835,
     "wof:name":"Mol",
     "wof:parent_id":1108830151,
     "wof:placetype":"locality",

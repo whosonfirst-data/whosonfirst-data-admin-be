@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Brussels",
     "iso:country":"BE",
+    "lbl:bbox":"4.43,51.16333,4.47,51.20333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Waesdonck",
         "Waesdonk",
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":1276690415,
-    "wof:lastmodified":1537586886,
+    "wof:lastmodified":1566611252,
     "wof:name":"Waasdonk",
     "wof:parent_id":1108830135,
     "wof:placetype":"locality",

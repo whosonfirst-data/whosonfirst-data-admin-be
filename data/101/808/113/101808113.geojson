@@ -13,10 +13,13 @@
     "iso:country":"BE",
     "lbl:latitude":51.028548,
     "lbl:longitude":2.868107,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":51.028548,
     "mps:longitude":2.868107,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:afr_x_preferred":[
         "Diksmuide"
     ],
@@ -225,9 +228,6 @@
     "name:swe_x_preferred":[
         "Diksmuide"
     ],
-    "name:unk_x_variant":[
-        "Dixmude"
-    ],
     "name:vec_x_preferred":[
         "Diksmuide"
     ],
@@ -275,7 +275,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85681709,
@@ -290,7 +290,6 @@
         "fct:id":"036a8c54-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2799369,
         "gp:id":968976,
-        "qs:id":141514,
         "qs_pg:id":141514,
         "wd:id":"Q215244"
     },
@@ -311,7 +310,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1563235503,
+    "wof:lastmodified":1566611964,
     "wof:name":"Diksmuide",
     "wof:parent_id":1108830401,
     "wof:placetype":"locality",

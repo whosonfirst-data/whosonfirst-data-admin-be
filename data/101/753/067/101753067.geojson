@@ -12,10 +12,13 @@
     "iso:country":"BE",
     "lbl:latitude":50.687857,
     "lbl:longitude":3.264654,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.687857,
     "mps:longitude":3.264654,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Leers-Nord"
     ],
@@ -51,7 +54,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681723,
         102191581,
@@ -63,7 +66,6 @@
     "wof:concordances":{
         "gn:id":2793025,
         "gp:id":973208,
-        "qs:id":1162223,
         "qs_pg:id":1162223,
         "wd:id":"Q2538750"
     },
@@ -80,7 +82,7 @@
         }
     ],
     "wof:id":101753067,
-    "wof:lastmodified":1563235172,
+    "wof:lastmodified":1566611868,
     "wof:name":"Leers-Nord",
     "wof:parent_id":102049951,
     "wof:placetype":"locality",

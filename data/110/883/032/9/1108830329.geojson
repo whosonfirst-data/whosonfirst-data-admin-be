@@ -21,8 +21,11 @@
     "iso:country":"BE",
     "lbl:latitude":50.993787,
     "lbl:longitude":3.870239,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bre_x_preferred":[
         "Wetteren"
     ],
@@ -110,7 +113,7 @@
     "reversegeo:latitude":50.993787,
     "reversegeo:longitude":3.870239,
     "src:geom":"begov",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681733,
         102191581,
@@ -134,7 +137,7 @@
         }
     ],
     "wof:id":1108830329,
-    "wof:lastmodified":1564162791,
+    "wof:lastmodified":1566611640,
     "wof:name":"Wetteren",
     "wof:parent_id":102049979,
     "wof:placetype":"localadmin",

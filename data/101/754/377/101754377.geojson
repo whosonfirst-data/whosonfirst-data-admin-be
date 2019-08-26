@@ -12,10 +12,13 @@
     "iso:country":"BE",
     "lbl:latitude":51.050412,
     "lbl:longitude":3.653913,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":51.050412,
     "mps:longitude":3.653913,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0414\u0440\u043e\u043d\u0433\u0435\u043d"
     ],
@@ -58,9 +61,6 @@
     "name:swe_x_preferred":[
         "Drongen"
     ],
-    "name:unk_x_variant":[
-        "Tronchiennes"
-    ],
     "qs:a0":"Belgi\u00eb#Belgique#Belgien",
     "qs:a1":"*Oost-Vlanderen",
     "qs:a1r":"0Vlaams Gewest",
@@ -78,7 +78,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":243,
     "wof:belongsto":[
         85681733,
@@ -92,7 +92,6 @@
     "wof:concordances":{
         "gn:id":2799108,
         "gp:id":969153,
-        "qs:id":1211048,
         "qs_pg:id":1211048,
         "wd:id":"Q1260195",
         "wk:page":"Drongen"
@@ -111,7 +110,7 @@
         }
     ],
     "wof:id":101754377,
-    "wof:lastmodified":1563235147,
+    "wof:lastmodified":1566611862,
     "wof:name":"Drongen",
     "wof:parent_id":1108830083,
     "wof:placetype":"locality",

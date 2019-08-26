@@ -10,8 +10,10 @@
     "geom:latitude":50.859615,
     "geom:longitude":4.513702,
     "iso:country":"BE",
+    "lbl:bbox":"4.508702,50.854615,4.518702,50.864615",
     "lbl:latitude":50.859615,
     "lbl:longitude":4.513702,
+    "lbl:max_zoom":18.0,
     "mps:latitude":50.857376,
     "mps:longitude":4.517813,
     "mz:hierarchy_label":0,
@@ -39,9 +41,8 @@
     "name:ron_x_preferred":[
         "Sterrebeek"
     ],
-    "name:unk_x_variant":[
-        "Zaventem (Sterrebeek)",
-        "Sterrebeek"
+    "name:und_x_variant":[
+        "Zaventem (Sterrebeek)"
     ],
     "qs:gn_fcode":"PPL",
     "qs:gn_local":0,
@@ -88,7 +89,6 @@
     "wof:concordances":{
         "gn:id":2786055,
         "gp:id":977446,
-        "qs:id":1003567,
         "qs_pg:id":1003567,
         "wd:id":"Q2872437",
         "wk:page":"Sterrebeek"
@@ -111,7 +111,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1566247559,
+    "wof:lastmodified":1566611096,
     "wof:name":"Sterrebeek",
     "wof:parent_id":101755517,
     "wof:placetype":"neighbourhood",

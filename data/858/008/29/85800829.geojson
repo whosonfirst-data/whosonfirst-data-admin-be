@@ -12,6 +12,7 @@
     "iso:country":"BE",
     "lbl:latitude":50.867495,
     "lbl:longitude":4.292965,
+    "lbl:max_zoom":18.0,
     "mps:latitude":50.86413,
     "mps:longitude":4.294872,
     "mz:hierarchy_label":1,
@@ -151,10 +152,6 @@
     "name:ukr_x_preferred":[
         "\u0411\u0435\u0440\u043a\u0435\u043c-\u0421\u0435\u043d\u0442-\u0410\u0433\u0430\u0442"
     ],
-    "name:unk_x_variant":[
-        "Sint-Agatha-Berchem",
-        "Berchem-Ste.-Agathe"
-    ],
     "name:vls_x_preferred":[
         "Sint-Agatha-Berchem"
     ],
@@ -209,7 +206,6 @@
     "wof:concordances":{
         "gn:id":2802247,
         "gp:id":967139,
-        "qs:id":1159345,
         "qs_pg:id":1159345,
         "wd:id":"Q272272",
         "wk:page":"Sint-Agatha-Berchem"
@@ -231,7 +227,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1566247549,
+    "wof:lastmodified":1566611083,
     "wof:name":"Berchem-Ste.-Agathe",
     "wof:parent_id":101751573,
     "wof:placetype":"neighbourhood",

@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Brussels",
     "iso:country":"BE",
+    "lbl:bbox":"5.14667,51.26333,5.18667,51.30333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Maslen-Bogt",
         "Mastenbocht",
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1209139783,
-    "wof:lastmodified":1537586970,
+    "wof:lastmodified":1566611367,
     "wof:name":"Maslenbocht",
     "wof:parent_id":85632997,
     "wof:placetype":"locality",

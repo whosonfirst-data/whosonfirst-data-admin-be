@@ -5,17 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000392,
-    "geom:area_square_m":3028660.902092,
+    "geom:area_square_m":3028660.902093,
     "geom:bbox":"4.95751026737,51.3207710483,4.98918095792,51.3548682322",
     "geom:latitude":51.337799,
     "geom:longitude":4.972165,
     "iso:country":"BE",
     "lbl:latitude":51.337304,
     "lbl:longitude":4.97214,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":51.337304,
     "mps:longitude":4.97214,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Belgi\u00eb#Belgique#Belgien",
     "qs:a1":"*Antwerpen",
     "qs:a1r":"0Vlaams Gewest",
@@ -33,7 +36,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681715,
         102191581,
@@ -46,7 +49,6 @@
     "wof:concordances":{
         "gn:id":2789754,
         "gp:id":975152,
-        "qs:id":326469,
         "qs_pg:id":326469
     },
     "wof:country":"BE",
@@ -63,7 +65,7 @@
         }
     ],
     "wof:id":101839087,
-    "wof:lastmodified":1497302491,
+    "wof:lastmodified":1566611975,
     "wof:name":"Oosthoven",
     "wof:parent_id":1108830455,
     "wof:placetype":"locality",

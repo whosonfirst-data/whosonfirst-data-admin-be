@@ -13,10 +13,13 @@
     "iso:country":"BE",
     "lbl:latitude":51.20722,
     "lbl:longitude":4.039584,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":51.20722,
     "mps:longitude":4.039584,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:ara_x_preferred":[
         "\u0633\u062a\u0643\u064a\u0646\u0647"
     ],
@@ -124,7 +127,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":213,
     "wof:belongsto":[
@@ -140,7 +143,6 @@
         "fct:id":"036c6038-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2786087,
         "gp:id":977423,
-        "qs:id":239975,
         "qs_pg:id":239975,
         "wd:id":"Q735851",
         "wk:page":"Stekene"
@@ -162,7 +164,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1563235357,
+    "wof:lastmodified":1566611916,
     "wof:name":"Stekene",
     "wof:parent_id":1108830283,
     "wof:placetype":"locality",

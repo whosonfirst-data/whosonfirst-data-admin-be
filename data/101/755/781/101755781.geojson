@@ -13,10 +13,13 @@
     "iso:country":"BE",
     "lbl:latitude":51.241981,
     "lbl:longitude":4.646635,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":51.241981,
     "mps:longitude":4.646635,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":9.0,
     "name:afr_x_preferred":[
         "Halle"
     ],
@@ -289,7 +292,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":156,
     "wof:belongsto":[
@@ -304,9 +307,11 @@
     "wof:concordances":{
         "gn:id":2796694,
         "gp:id":970564,
-        "qs:id":1032655,
         "qs_pg:id":191985,
         "wd:id":"Q108656"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1032655
     },
     "wof:country":"BE",
     "wof:geomhash":"58ae1fb2448ddfe86e7c83c680a0da52",
@@ -322,7 +327,7 @@
         }
     ],
     "wof:id":101755781,
-    "wof:lastmodified":1563235112,
+    "wof:lastmodified":1566611852,
     "wof:name":"Halle",
     "wof:parent_id":1108830221,
     "wof:placetype":"locality",

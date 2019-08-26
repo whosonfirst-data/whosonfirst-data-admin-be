@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Brussels",
     "iso:country":"BE",
+    "lbl:bbox":"3.41606,50.84436,3.45606,50.88436",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Poteghem",
         "Potegem"
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1276481855,
-    "wof:lastmodified":1537586942,
+    "wof:lastmodified":1566611296,
     "wof:name":"Potegem",
     "wof:parent_id":1108830341,
     "wof:placetype":"locality",

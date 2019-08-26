@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Brussels",
     "iso:country":"BE",
+    "lbl:bbox":"5.54961,50.12172,5.58961,50.16172",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:als_x_preferred":[
         "Lavaux"
     ],
@@ -128,7 +132,7 @@
         }
     ],
     "wof:id":1243293467,
-    "wof:lastmodified":1564163512,
+    "wof:lastmodified":1566612361,
     "wof:name":"Lavaux",
     "wof:parent_id":102049921,
     "wof:placetype":"locality",

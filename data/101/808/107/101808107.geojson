@@ -12,10 +12,13 @@
     "iso:country":"BE",
     "lbl:latitude":50.713682,
     "lbl:longitude":5.467854,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.713682,
     "mps:longitude":5.467854,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Schlacht von Oth\u00e9e"
     ],
@@ -41,9 +44,6 @@
     "name:nor_x_preferred":[
         "Slaget ved Oth\u00e9e"
     ],
-    "name:unk_x_variant":[
-        "Elch"
-    ],
     "name:wln_x_preferred":[
         "\u00d4t\u00eaye"
     ],
@@ -64,7 +64,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681691,
         102191581,
@@ -77,7 +77,6 @@
         "fct:id":"0369fac8-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2789584,
         "gp:id":975259,
-        "qs:id":1060844,
         "qs_pg:id":1060844,
         "wd:id":"Q2176642"
     },
@@ -97,7 +96,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1561831433,
+    "wof:lastmodified":1566611964,
     "wof:name":"Oth\u00e9e",
     "wof:parent_id":102049941,
     "wof:placetype":"locality",

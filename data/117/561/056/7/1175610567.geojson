@@ -13,10 +13,13 @@
     "iso:country":"BE",
     "lbl:latitude":51.172193,
     "lbl:longitude":5.17118,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":51.172193,
     "mps:longitude":5.17118,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:afr_x_preferred":[
         "Balen"
     ],
@@ -95,7 +98,7 @@
     "name:swe_x_preferred":[
         "Balen"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Baelen"
     ],
     "name:vie_x_preferred":[
@@ -127,7 +130,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":95,
     "wof:belongsto":[
@@ -143,7 +146,6 @@
     "wof:concordances":{
         "gn:id":2802743,
         "gp:id":966828,
-        "qs:id":186744,
         "qs_pg:id":186744,
         "wd:id":"Q723651",
         "wk:page":"Balen"
@@ -162,7 +164,7 @@
         }
     ],
     "wof:id":1175610567,
-    "wof:lastmodified":1563234799,
+    "wof:lastmodified":1566611690,
     "wof:name":"Balen",
     "wof:parent_id":1108830443,
     "wof:placetype":"locality",

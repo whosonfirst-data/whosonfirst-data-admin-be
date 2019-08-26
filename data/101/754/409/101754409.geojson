@@ -12,10 +12,13 @@
     "iso:country":"BE",
     "lbl:latitude":51.136702,
     "lbl:longitude":4.845033,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":51.136702,
     "mps:longitude":4.845033,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Noorderwijk"
     ],
@@ -196,7 +199,7 @@
     "name:swe_x_preferred":[
         "Noorderwijk"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Norderwyck"
     ],
     "name:vec_x_preferred":[
@@ -237,7 +240,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681715,
         102191581,
@@ -250,7 +253,6 @@
     "wof:concordances":{
         "gn:id":2790043,
         "gp:id":974978,
-        "qs:id":4621,
         "qs_pg:id":4621,
         "wd:id":"Q2346321"
     },
@@ -268,7 +270,7 @@
         }
     ],
     "wof:id":101754409,
-    "wof:lastmodified":1563235142,
+    "wof:lastmodified":1566611861,
     "wof:name":"Noorderwijk",
     "wof:parent_id":1108830061,
     "wof:placetype":"locality",

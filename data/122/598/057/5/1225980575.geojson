@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Brussels",
     "iso:country":"BE",
+    "lbl:bbox":"5.26333,49.81333,5.30333,49.85333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Nouvel\u00ee-des-Loups",
         "Nouvelly des Loups"
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1225980575,
-    "wof:lastmodified":1537586954,
+    "wof:lastmodified":1566612502,
     "wof:name":"Nouvelly des Loups",
     "wof:parent_id":102049913,
     "wof:placetype":"locality",

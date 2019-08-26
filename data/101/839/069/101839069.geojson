@@ -12,10 +12,13 @@
     "iso:country":"BE",
     "lbl:latitude":51.346597,
     "lbl:longitude":4.678616,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":51.346597,
     "mps:longitude":4.678616,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:dut_x_colloquial":[
         "Saint-Leonard",
         "St-Leonard",
@@ -43,9 +46,6 @@
     "name:nld_x_variant":[
         "Sint-Lenaarts"
     ],
-    "name:unk_x_variant":[
-        "Saint-L\u00e9onard"
-    ],
     "qs:a0":"Belgi\u00eb#Belgique#Belgien",
     "qs:a1":"*Antwerpen",
     "qs:a1r":"0Vlaams Gewest",
@@ -64,7 +64,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681715,
         102191581,
@@ -78,7 +78,6 @@
         "fct:id":"036c5282-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2786622,
         "gp:id":977240,
-        "qs:id":886122,
         "qs_pg:id":886122,
         "wd:id":"Q2340437"
     },
@@ -99,7 +98,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1563235540,
+    "wof:lastmodified":1566611978,
     "wof:name":"Sint-Lenaarts",
     "wof:parent_id":1108830385,
     "wof:placetype":"locality",

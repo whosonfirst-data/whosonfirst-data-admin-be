@@ -13,10 +13,13 @@
     "iso:country":"BE",
     "lbl:latitude":51.465593,
     "lbl:longitude":4.467314,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":51.465593,
     "mps:longitude":4.467314,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:ara_x_preferred":[
         "\u0625\u064a\u0633\u0646\u060c \u0628\u0644\u062c\u064a\u0643\u0627"
     ],
@@ -113,9 +116,6 @@
     "name:ukr_x_preferred":[
         "\u0415\u0441\u0441\u0435\u043d"
     ],
-    "name:unk_x_variant":[
-        "Esschen"
-    ],
     "name:vie_x_preferred":[
         "Essen"
     ],
@@ -145,7 +145,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85681715,
@@ -160,7 +160,6 @@
         "fct:id":"036aaa04-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2798615,
         "gp:id":969453,
-        "qs:id":186820,
         "qs_pg:id":186820,
         "wd:id":"Q724283"
     },
@@ -181,7 +180,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1563235487,
+    "wof:lastmodified":1566611961,
     "wof:name":"Essen",
     "wof:parent_id":1108830513,
     "wof:placetype":"locality",

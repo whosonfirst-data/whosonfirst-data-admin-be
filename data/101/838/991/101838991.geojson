@@ -13,10 +13,13 @@
     "iso:country":"BE",
     "lbl:latitude":51.218797,
     "lbl:longitude":4.125177,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":51.218797,
     "mps:longitude":4.125177,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:ara_x_preferred":[
         "\u0633\u064a\u0646\u062a- \u062e\u064a\u0644\u064a\u0633- \u0641\u0627\u0633"
     ],
@@ -114,7 +117,7 @@
     "name:swe_x_preferred":[
         "Sint-Gillis-Waas"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Saint-Gillis-Waas"
     ],
     "name:vie_x_preferred":[
@@ -146,7 +149,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":99,
     "wof:belongsto":[
@@ -162,7 +165,6 @@
         "fct:id":"03692634-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2786694,
         "gp:id":977184,
-        "qs:id":806374,
         "qs_pg:id":806374,
         "wd:id":"Q430510",
         "wk:page":"Sint-Gillis-Waas"
@@ -184,7 +186,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1563235353,
+    "wof:lastmodified":1566611915,
     "wof:name":"Sint-Gillis-Waas",
     "wof:parent_id":1108830193,
     "wof:placetype":"locality",

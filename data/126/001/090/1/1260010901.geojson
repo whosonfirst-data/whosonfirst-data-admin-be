@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Brussels",
     "iso:country":"BE",
+    "lbl:bbox":"3.38,51.09667,3.42,51.13667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Baessels",
         "Baassels"
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1260010901,
-    "wof:lastmodified":1537587082,
+    "wof:lastmodified":1566611471,
     "wof:name":"Baassels",
     "wof:parent_id":1108830533,
     "wof:placetype":"locality",

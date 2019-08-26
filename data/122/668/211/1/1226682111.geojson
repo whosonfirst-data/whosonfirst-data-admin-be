@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Brussels",
     "iso:country":"BE",
+    "lbl:bbox":"4.0793,50.91952,4.1193,50.95952",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Waver"
     ],
@@ -44,8 +48,7 @@
         "Waver"
     ],
     "name:und_x_variant":[
-        "Wavre",
-        "Waver"
+        "Wavre"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -74,7 +77,7 @@
         }
     ],
     "wof:id":1226682111,
-    "wof:lastmodified":1564163670,
+    "wof:lastmodified":1566612465,
     "wof:name":"Waver",
     "wof:parent_id":1108830515,
     "wof:placetype":"locality",

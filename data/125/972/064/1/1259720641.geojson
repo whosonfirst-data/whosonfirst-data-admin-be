@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Brussels",
     "iso:country":"BE",
+    "lbl:bbox":"5.05637,50.8383,5.09637,50.8783",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Terhaegen",
         "Terhaagen",
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":1259720641,
-    "wof:lastmodified":1537586904,
+    "wof:lastmodified":1566612438,
     "wof:name":"Terhagen",
     "wof:parent_id":1108830427,
     "wof:placetype":"locality",

@@ -10,8 +10,10 @@
     "geom:latitude":51.014333,
     "geom:longitude":3.665007,
     "iso:country":"BE",
+    "lbl:bbox":"3.660007,51.009333,3.670007,51.019333",
     "lbl:latitude":51.014333,
     "lbl:longitude":3.665007,
+    "lbl:max_zoom":18.0,
     "mps:latitude":51.003501,
     "mps:longitude":3.653669,
     "mz:hierarchy_label":0,
@@ -66,10 +68,6 @@
     "name:swe_x_preferred":[
         "Sint-Denijs-Westrem"
     ],
-    "name:unk_x_variant":[
-        "Saint Denis-Westrem",
-        "St. Denis-Westrem"
-    ],
     "qs:gn_adm0_cc":"BE",
     "qs:gn_fcode":"PPL",
     "qs:gn_local":2797656,
@@ -100,7 +98,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191581,
         1108830083,
@@ -114,7 +112,6 @@
     "wof:concordances":{
         "gn:id":2786713,
         "gp:id":977125,
-        "qs:id":1145606,
         "qs_pg:id":1145606,
         "wd:id":"Q2538413",
         "wk:page":"Sint-Denijs-Westrem"
@@ -137,7 +134,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1563233978,
+    "wof:lastmodified":1566611087,
     "wof:name":"St. Denis-Westrem",
     "wof:parent_id":101755699,
     "wof:placetype":"neighbourhood",

@@ -9,14 +9,18 @@
     "geom:bbox":"3.92647,50.84979,3.92647,50.84979",
     "geom:latitude":50.84979,
     "geom:longitude":3.92647,
-    "gn:gn_country":"BE",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"BE",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"BE",
+    "lbl:bbox":"3.90647,50.82979,3.94647,50.86979",
     "lbl:latitude":50.84979,
     "lbl:longitude":3.92647,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Sint-Antelinks"
@@ -29,9 +33,6 @@
     ],
     "name:nld_x_preferred":[
         "Sint-Antelinks"
-    ],
-    "name:unk_x_variant":[
-        "Saint-Antelinkx"
     ],
     "qs_pg:aaroncc":"BE",
     "qs_pg:gn_country":"BE",
@@ -54,7 +55,7 @@
     "qs_pg:woe_adm0":23424757,
     "qs_pg:woe_id":977147,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424757,
     "woe:name_adm0":"Belgique",
     "woe:name_adm1":"Oost-Vlaanderen",
@@ -89,7 +90,7 @@
         }
     ],
     "wof:id":1126051321,
-    "wof:lastmodified":1561831446,
+    "wof:lastmodified":1566612050,
     "wof:name":"St.-Antelinks",
     "wof:parent_id":1108830361,
     "wof:placetype":"locality",

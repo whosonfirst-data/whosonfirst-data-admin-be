@@ -13,10 +13,13 @@
     "iso:country":"BE",
     "lbl:latitude":50.229365,
     "lbl:longitude":4.648325,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":50.229365,
     "mps:longitude":4.648325,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:ast_x_preferred":[
         "Florennes"
     ],
@@ -136,7 +139,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":198,
     "wof:belongsto":[
@@ -150,7 +153,6 @@
     "wof:concordances":{
         "gn:id":2798276,
         "gp:id":969641,
-        "qs:id":217473,
         "qs_pg:id":217473,
         "wd:id":"Q720429",
         "wk:page":"Florennes"
@@ -168,7 +170,7 @@
         }
     ],
     "wof:id":101811563,
-    "wof:lastmodified":1563235191,
+    "wof:lastmodified":1566611873,
     "wof:name":"Florennes",
     "wof:parent_id":102049917,
     "wof:placetype":"locality",

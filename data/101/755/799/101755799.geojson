@@ -5,17 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000427,
-    "geom:area_square_m":3312530.978961,
+    "geom:area_square_m":3312530.978964,
     "geom:bbox":"4.81233160005,51.1831263215,4.86372263461,51.2063079248",
     "geom:latitude":51.193114,
     "geom:longitude":4.834554,
     "iso:country":"BE",
     "lbl:latitude":51.190173,
     "lbl:longitude":4.833943,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":51.190173,
     "mps:longitude":4.833943,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Belgi\u00eb#Belgique#Belgien",
     "qs:a1":"*Antwerpen",
     "qs:a1r":"0Vlaams Gewest",
@@ -31,7 +34,7 @@
     "qs:type":"suburbs point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681715,
         102191581,
@@ -43,7 +46,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":971030,
-        "qs:id":3
+        "qs_pg:id":3
     },
     "wof:country":"BE",
     "wof:geomhash":"ffd9958a17d98a93cd63ca6a2de33425",
@@ -59,7 +62,7 @@
         }
     ],
     "wof:id":101755799,
-    "wof:lastmodified":1499530585,
+    "wof:lastmodified":1566611806,
     "wof:name":"Kapelleblok",
     "wof:parent_id":1108830061,
     "wof:placetype":"locality",

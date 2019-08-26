@@ -10,8 +10,10 @@
     "geom:latitude":51.081004,
     "geom:longitude":3.720677,
     "iso:country":"BE",
+    "lbl:bbox":"3.715677,51.076004,3.725677,51.086004",
     "lbl:latitude":51.081004,
     "lbl:longitude":3.720677,
+    "lbl:max_zoom":18.0,
     "mps:latitude":51.082887,
     "mps:longitude":3.716252,
     "mz:hierarchy_label":0,
@@ -206,9 +208,8 @@
     "name:swe_x_preferred":[
         "Wondelgem"
     ],
-    "name:unk_x_variant":[
-        "Wendelghem",
-        "Wondelgem"
+    "name:und_x_variant":[
+        "Wendelghem"
     ],
     "name:vec_x_preferred":[
         "Wondelgem"
@@ -261,7 +262,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:latitude":51.088889,
     "wd:longitude":3.713056,
     "wd:wordcount":79,
@@ -278,7 +279,6 @@
     "wof:concordances":{
         "gn:id":2783456,
         "gp:id":979031,
-        "qs:id":1145646,
         "qs_pg:id":1145646,
         "wd:id":"Q2332648",
         "wk:page":"Wondelgem"
@@ -301,7 +301,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1563233972,
+    "wof:lastmodified":1566611084,
     "wof:name":"Wondelgem",
     "wof:parent_id":101748093,
     "wof:placetype":"neighbourhood",

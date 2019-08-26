@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Brussels",
     "iso:country":"BE",
+    "lbl:bbox":"5.14057,49.80549,5.18057,49.84549",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "La Cornette"
     ],
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1276586369,
-    "wof:lastmodified":1564162175,
+    "wof:lastmodified":1566611270,
     "wof:name":"La Cornette",
     "wof:parent_id":102049913,
     "wof:placetype":"locality",

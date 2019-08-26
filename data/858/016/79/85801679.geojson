@@ -10,8 +10,10 @@
     "geom:latitude":51.164457,
     "geom:longitude":4.390179,
     "iso:country":"BE",
+    "lbl:bbox":"4.385179,51.159457,4.395179,51.169457",
     "lbl:latitude":51.164457,
     "lbl:longitude":4.390179,
+    "lbl:max_zoom":18.0,
     "mps:latitude":51.157064,
     "mps:longitude":4.38949,
     "mz:hierarchy_label":0,
@@ -32,9 +34,6 @@
     ],
     "name:nor_x_preferred":[
         "\u00d8ystein Neerland"
-    ],
-    "name:unk_x_variant":[
-        "Neerland"
     ],
     "qs:gn_adm0_cc":"BE",
     "qs:gn_fcode":"PPL",
@@ -80,7 +79,6 @@
     "wof:concordances":{
         "gn:id":2790367,
         "gp:id":974781,
-        "qs:id":1141348,
         "qs_pg:id":1141348
     },
     "wof:country":"BE",
@@ -101,7 +99,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1566247533,
+    "wof:lastmodified":1566611091,
     "wof:name":"Neerland",
     "wof:parent_id":101748099,
     "wof:placetype":"neighbourhood",

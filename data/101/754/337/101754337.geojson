@@ -13,10 +13,13 @@
     "iso:country":"BE",
     "lbl:latitude":50.903102,
     "lbl:longitude":4.311749,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":50.903102,
     "mps:longitude":4.311749,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:bre_x_preferred":[
         "Wemmel"
     ],
@@ -127,7 +130,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":566,
     "wof:belongsto":[
@@ -142,7 +145,6 @@
     "wof:concordances":{
         "gn:id":2783856,
         "gp:id":978780,
-        "qs:id":239966,
         "qs_pg:id":239966,
         "wd:id":"Q913195"
     },
@@ -160,7 +162,7 @@
         }
     ],
     "wof:id":101754337,
-    "wof:lastmodified":1563235130,
+    "wof:lastmodified":1566611858,
     "wof:name":"Wemmel",
     "wof:parent_id":1108830553,
     "wof:placetype":"locality",

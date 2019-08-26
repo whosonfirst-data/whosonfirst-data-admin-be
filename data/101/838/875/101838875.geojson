@@ -12,10 +12,13 @@
     "iso:country":"BE",
     "lbl:latitude":51.028165,
     "lbl:longitude":3.004353,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":51.028165,
     "mps:longitude":3.004353,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0425\u0430\u043d\u0434\u0437\u0430\u043c\u0435"
     ],
@@ -49,7 +52,7 @@
     "name:swe_x_preferred":[
         "Handzame"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Handzaeme"
     ],
     "name:vls_x_preferred":[
@@ -75,7 +78,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":51,
     "wof:belongsto":[
         85681709,
@@ -89,7 +92,6 @@
     "wof:concordances":{
         "gn:id":2796603,
         "gp:id":970626,
-        "qs:id":1161361,
         "qs_pg:id":1161361,
         "wd:id":"Q2741641",
         "wk:page":"Handzame"
@@ -108,7 +110,7 @@
         }
     ],
     "wof:id":101838875,
-    "wof:lastmodified":1563235366,
+    "wof:lastmodified":1566611920,
     "wof:name":"Handzame",
     "wof:parent_id":1108830511,
     "wof:placetype":"locality",

@@ -10,12 +10,16 @@
     "geom:latitude":50.821354,
     "geom:longitude":2.668403,
     "iso:country":"BE",
+    "lbl:bbox":"2.648403,50.801354,2.688403,50.841354",
     "lbl:latitude":50.821354,
     "lbl:longitude":2.668403,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.821354,
     "mps:longitude":2.668403,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bre_x_preferred":[
         "Abele"
     ],
@@ -30,9 +34,6 @@
     ],
     "name:nld_x_preferred":[
         "Abele"
-    ],
-    "name:unk_x_variant":[
-        "Abeele"
     ],
     "name:vls_x_preferred":[
         "Ab\u00eale"
@@ -55,7 +56,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":234,
     "wof:belongsto":[
         85681709,
@@ -76,7 +77,6 @@
     "wof:concordances":{
         "gn:id":2803400,
         "gp:id":966438,
-        "qs:id":1143723,
         "qs_pg:id":1143723,
         "wd:id":"Q2480805",
         "wk:page":"Abele"
@@ -106,7 +106,7 @@
         }
     ],
     "wof:id":101854563,
-    "wof:lastmodified":1563235468,
+    "wof:lastmodified":1566611954,
     "wof:name":"Abele",
     "wof:parent_id":-4,
     "wof:placetype":"locality",

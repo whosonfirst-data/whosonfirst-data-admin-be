@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Brussels",
     "iso:country":"BE",
+    "lbl:bbox":"5.07156,51.16795,5.11156,51.20795",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632997
@@ -37,7 +41,7 @@
         "gn:id":2795615
     },
     "wof:country":"BE",
-    "wof:geomhash":"3e55a079293879f2a39719f4875adc27",
+    "wof:geomhash":"ff879702b096dd37cbf0a7fed9eaaae1",
     "wof:hierarchy":[
         {
             "country_id":85632997,
@@ -45,7 +49,7 @@
         }
     ],
     "wof:id":1209649073,
-    "wof:lastmodified":1536280638,
+    "wof:lastmodified":1566611336,
     "wof:name":"Hofstede",
     "wof:parent_id":85632997,
     "wof:placetype":"locality",
@@ -55,9 +59,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    5.0915599999999985,
+    5.09156,
     51.18795,
-    5.0915599999999985,
+    5.09156,
     51.18795
 ],
   "geometry": {"coordinates":[5.09156,51.18795],"type":"Point"}

@@ -12,6 +12,7 @@
     "iso:country":"BE",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":13.0,
     "name:ceb_x_preferred":[
         "Weelde Military"
     ],
@@ -75,7 +76,7 @@
         }
     ],
     "wof:id":102546449,
-    "wof:lastmodified":1563233749,
+    "wof:lastmodified":1566610952,
     "wof:name":"Weelde Airport",
     "wof:parent_id":85681715,
     "wof:placetype":"campus",

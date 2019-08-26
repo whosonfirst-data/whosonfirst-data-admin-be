@@ -13,10 +13,13 @@
     "iso:country":"BE",
     "lbl:latitude":50.854239,
     "lbl:longitude":3.60258,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":50.854239,
     "mps:longitude":3.60258,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:afr_x_preferred":[
         "Oudenaarde"
     ],
@@ -173,9 +176,6 @@
     "name:ukr_x_preferred":[
         "\u0410\u0443\u0434\u0435\u043d\u0430\u0440\u0434\u0435"
     ],
-    "name:unk_x_variant":[
-        "Audenaarde"
-    ],
     "name:vie_x_preferred":[
         "Oudenaarde"
     ],
@@ -208,7 +208,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85681733,
@@ -224,7 +224,6 @@
         "gn:id":2789529,
         "gp:id":975296,
         "loc:id":"n80002955",
-        "qs:id":187003,
         "qs_pg:id":187003,
         "wd:id":"Q12992",
         "wk:page":"Oudenaarde"
@@ -246,7 +245,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1563235477,
+    "wof:lastmodified":1566611957,
     "wof:name":"Oudenaarde",
     "wof:parent_id":1108830311,
     "wof:placetype":"locality",

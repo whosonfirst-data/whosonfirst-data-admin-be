@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Brussels",
     "iso:country":"BE",
+    "lbl:bbox":"5.78092,50.65713,5.82092,50.69713",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Faweux",
         "Fawes"
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1344092999,
-    "wof:lastmodified":1537587041,
+    "wof:lastmodified":1566610982,
     "wof:name":"Fawes",
     "wof:parent_id":102049935,
     "wof:placetype":"locality",

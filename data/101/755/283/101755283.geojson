@@ -12,10 +12,13 @@
     "iso:country":"BE",
     "lbl:latitude":50.881666,
     "lbl:longitude":5.572218,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.881666,
     "mps:longitude":5.572218,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Locht"
     ],
@@ -55,7 +58,7 @@
     "qs:type":"suburbs point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681705,
         102191581,
@@ -68,7 +71,7 @@
     "wof:concordances":{
         "gn:id":2792234,
         "gp:id":969269,
-        "qs:id":4,
+        "qs_pg:id":4,
         "wd:id":"Q2795295"
     },
     "wof:country":"BE",
@@ -85,7 +88,7 @@
         }
     ],
     "wof:id":101755283,
-    "wof:lastmodified":1563235070,
+    "wof:lastmodified":1566611836,
     "wof:name":"Locht",
     "wof:parent_id":1108830245,
     "wof:placetype":"locality",

@@ -12,10 +12,13 @@
     "iso:country":"BE",
     "lbl:latitude":50.946101,
     "lbl:longitude":5.363932,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.946101,
     "mps:longitude":5.363932,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Kiewit"
     ],
@@ -42,7 +45,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":297,
     "wof:belongsto":[
         85681705,
@@ -56,9 +59,11 @@
     "wof:concordances":{
         "gn:id":2794461,
         "gp:id":20098286,
-        "qs:id":1,
-        "qs_pg:id":210697,
+        "qs_pg:id":1,
         "wd:id":"Q2526460"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":210697
     },
     "wof:country":"BE",
     "wof:geomhash":"ddf108cc978afc0e9446c5142fcc3313",
@@ -74,7 +79,7 @@
         }
     ],
     "wof:id":101838859,
-    "wof:lastmodified":1561831424,
+    "wof:lastmodified":1566611920,
     "wof:name":"Kiewit",
     "wof:parent_id":1108830649,
     "wof:placetype":"locality",

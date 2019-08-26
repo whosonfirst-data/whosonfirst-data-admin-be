@@ -12,10 +12,13 @@
     "iso:country":"BE",
     "lbl:latitude":50.873006,
     "lbl:longitude":4.052865,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.873006,
     "mps:longitude":4.052865,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Iddergem"
     ],
@@ -45,7 +48,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681733,
         102191581,
@@ -58,7 +61,6 @@
     "wof:concordances":{
         "gn:id":2795104,
         "gp:id":971650,
-        "qs:id":239959,
         "qs_pg:id":239959,
         "wd:id":"Q3472457"
     },
@@ -76,7 +78,7 @@
         }
     ],
     "wof:id":101755345,
-    "wof:lastmodified":1561831407,
+    "wof:lastmodified":1566611853,
     "wof:name":"Iddergem",
     "wof:parent_id":1108830457,
     "wof:placetype":"locality",

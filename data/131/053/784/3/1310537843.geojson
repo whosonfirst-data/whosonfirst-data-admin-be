@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Brussels",
     "iso:country":"BE",
+    "lbl:bbox":"5.37763,51.00779,5.41763,51.04779",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85681705,
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1310537843,
-    "wof:lastmodified":1536869054,
+    "wof:lastmodified":1566611721,
     "wof:name":"Tenhout",
     "wof:parent_id":1108830235,
     "wof:placetype":"locality",

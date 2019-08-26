@@ -13,10 +13,13 @@
     "iso:country":"BE",
     "lbl:latitude":51.09063,
     "lbl:longitude":2.975702,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":51.09063,
     "mps:longitude":2.975702,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bre_x_preferred":[
         "Koekelare"
     ],
@@ -101,7 +104,7 @@
     "name:swe_x_preferred":[
         "Koekelare"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Couckelaere"
     ],
     "name:vie_x_preferred":[
@@ -136,7 +139,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":196,
     "wof:belongsto":[
@@ -151,7 +154,6 @@
     "wof:concordances":{
         "gn:id":2794194,
         "gp:id":972199,
-        "qs:id":1256262,
         "qs_pg:id":1256262,
         "wd:id":"Q822795"
     },
@@ -169,7 +171,7 @@
         }
     ],
     "wof:id":101809357,
-    "wof:lastmodified":1563235443,
+    "wof:lastmodified":1566611946,
     "wof:name":"Koekelare",
     "wof:parent_id":1108830305,
     "wof:placetype":"locality",

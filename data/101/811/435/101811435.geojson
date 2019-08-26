@@ -5,15 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000071,
+    "geom:area_square_m":558098.1805,
     "geom:bbox":"3.72453304472,50.3360973149,3.7394639305,50.351266468",
     "geom:latitude":50.345396,
     "geom:longitude":3.730836,
     "iso:country":"BE",
     "lbl:latitude":50.347712,
     "lbl:longitude":3.731967,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.347712,
     "mps:longitude":3.731967,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Belgi\u00eb#Belgique#Belgien",
     "qs:a1":"*Hainaut",
     "qs:a1r":"0R\u00e9gion wallone",
@@ -31,7 +36,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681723,
         102191581,
@@ -43,7 +48,6 @@
     "wof:concordances":{
         "gn:id":2802908,
         "gp:id":966733,
-        "qs:id":186740,
         "qs_pg:id":186740
     },
     "wof:country":"BE",
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":101811435,
-    "wof:lastmodified":1497291286,
+    "wof:lastmodified":1566611876,
     "wof:name":"Autreppe",
     "wof:parent_id":102049933,
     "wof:placetype":"locality",

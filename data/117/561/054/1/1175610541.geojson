@@ -13,10 +13,13 @@
     "iso:country":"BE",
     "lbl:latitude":50.781301,
     "lbl:longitude":4.348637,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":50.781301,
     "mps:longitude":4.348637,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bre_x_preferred":[
         "Linkebeek"
     ],
@@ -126,7 +129,7 @@
     "qs:type":"suburbs point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":417,
     "wof:belongsto":[
@@ -141,7 +144,6 @@
     "wof:concordances":{
         "gn:id":2792301,
         "gp:id":973609,
-        "qs:id":444904,
         "qs_pg:id":444904,
         "wd:id":"Q631639",
         "wk:page":"Linkebeek"
@@ -159,7 +161,7 @@
         }
     ],
     "wof:id":1175610541,
-    "wof:lastmodified":1563234790,
+    "wof:lastmodified":1566611688,
     "wof:name":"Linkebeek",
     "wof:parent_id":102049957,
     "wof:placetype":"locality",

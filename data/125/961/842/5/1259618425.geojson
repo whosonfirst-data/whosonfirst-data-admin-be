@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Brussels",
     "iso:country":"BE",
+    "lbl:bbox":"4.68,50.79667,4.72,50.83667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "La Plaine"
     ],
@@ -53,8 +57,7 @@
         "La Plaine"
     ],
     "name:und_x_variant":[
-        "De Plein",
-        "La Plaine"
+        "De Plein"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -83,7 +86,7 @@
         }
     ],
     "wof:id":1259618425,
-    "wof:lastmodified":1564163586,
+    "wof:lastmodified":1566612408,
     "wof:name":"La Plaine",
     "wof:parent_id":1108830043,
     "wof:placetype":"locality",

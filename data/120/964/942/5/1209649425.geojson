@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Brussels",
     "iso:country":"BE",
+    "lbl:bbox":"6.10194,50.23583,6.14194,50.27583",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632997
@@ -45,7 +49,7 @@
         }
     ],
     "wof:id":1209649425,
-    "wof:lastmodified":1536280627,
+    "wof:lastmodified":1566611341,
     "wof:name":"Galhausen",
     "wof:parent_id":85632997,
     "wof:placetype":"locality",

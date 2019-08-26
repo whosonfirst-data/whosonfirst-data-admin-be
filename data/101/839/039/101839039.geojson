@@ -13,10 +13,13 @@
     "iso:country":"BE",
     "lbl:latitude":51.094223,
     "lbl:longitude":3.013316,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":51.094223,
     "mps:longitude":3.013316,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:bre_x_preferred":[
         "Ichtegem"
     ],
@@ -101,9 +104,6 @@
     "name:swe_x_preferred":[
         "Ichtegem"
     ],
-    "name:unk_x_variant":[
-        "Ichteghem"
-    ],
     "name:vie_x_preferred":[
         "Ichtegem"
     ],
@@ -136,7 +136,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":112,
     "wof:belongsto":[
@@ -152,7 +152,6 @@
         "fct:id":"036b25ba-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2795106,
         "gp:id":971649,
-        "qs:id":141493,
         "qs_pg:id":141493,
         "wd:id":"Q281181"
     },
@@ -173,7 +172,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1563235517,
+    "wof:lastmodified":1566611970,
     "wof:name":"Ichtegem",
     "wof:parent_id":1108830057,
     "wof:placetype":"locality",

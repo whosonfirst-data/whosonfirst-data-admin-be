@@ -5,18 +5,21 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000954,
-    "geom:area_square_m":2935058.878986,
+    "geom:area_square_m":7459255.994513,
     "geom:bbox":"4.35446301469,50.7339608436,4.39194216621,50.788635",
     "geom:latitude":50.764169,
     "geom:longitude":4.373466,
     "iso:country":"BE",
     "lbl:latitude":50.779692,
     "lbl:longitude":4.370746,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.779692,
     "mps:longitude":4.370746,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":12.0,
+    "name:und_x_variant":[
         "Midden Hut"
     ],
     "qs:a0":"Belgi\u00eb#Belgique#Belgien",
@@ -34,7 +37,7 @@
     "qs:type":"suburbs point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681713,
         102191581,
@@ -47,7 +50,7 @@
     "wof:concordances":{
         "gn:id":2800597,
         "gp:id":977173,
-        "qs:id":5
+        "qs_pg:id":5
     },
     "wof:country":"BE",
     "wof:geomhash":"65c63063384ad7a9f71f1638673054d6",
@@ -62,7 +65,7 @@
         }
     ],
     "wof:id":1175610535,
-    "wof:lastmodified":1534985844,
+    "wof:lastmodified":1566611689,
     "wof:name":"Middenhut",
     "wof:parent_id":102049957,
     "wof:placetype":"locality",

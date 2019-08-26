@@ -13,10 +13,13 @@
     "iso:country":"BE",
     "lbl:latitude":50.97973,
     "lbl:longitude":2.940219,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":50.97973,
     "mps:longitude":2.940219,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bre_x_preferred":[
         "Houthulst"
     ],
@@ -98,7 +101,7 @@
     "name:swe_x_preferred":[
         "Houthulst"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Houthuls"
     ],
     "name:vie_x_preferred":[
@@ -137,7 +140,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":152,
     "wof:belongsto":[
@@ -152,7 +155,6 @@
     "wof:concordances":{
         "gn:id":2795255,
         "gp:id":971552,
-        "qs:id":141500,
         "qs_pg:id":141500,
         "wd:id":"Q696942",
         "wk:page":"Houthulst"
@@ -171,7 +173,7 @@
         }
     ],
     "wof:id":101809353,
-    "wof:lastmodified":1563235421,
+    "wof:lastmodified":1566611938,
     "wof:name":"Houthulst",
     "wof:parent_id":1108830335,
     "wof:placetype":"locality",

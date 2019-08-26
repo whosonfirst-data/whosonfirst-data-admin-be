@@ -5,17 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0004,
-    "geom:area_square_m":3093749.744892,
+    "geom:area_square_m":3093749.744891,
     "geom:bbox":"4.5659302374,51.3037396552,4.61008850259,51.3313778309",
     "geom:latitude":51.321856,
     "geom:longitude":4.585364,
     "iso:country":"BE",
     "lbl:latitude":51.32038,
     "lbl:longitude":4.588679,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":51.32038,
     "mps:longitude":4.588679,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Belgi\u00eb#Belgique#Belgien",
     "qs:a1":"*Antwerpen",
     "qs:a1r":"0Vlaams Gewest",
@@ -31,7 +34,7 @@
     "qs:type":"rural point-multi-in-poly-resolved",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681715,
         102191581,
@@ -43,7 +46,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":29374933,
-        "qs:id":3
+        "qs_pg:id":3
     },
     "wof:country":"BE",
     "wof:geomhash":"f43f35b8d217ad81578064368eee5809",
@@ -59,7 +62,7 @@
         }
     ],
     "wof:id":101839073,
-    "wof:lastmodified":1499531030,
+    "wof:lastmodified":1566611975,
     "wof:name":"Hoge Heide",
     "wof:parent_id":1108830385,
     "wof:placetype":"locality",

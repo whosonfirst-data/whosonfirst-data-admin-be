@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Brussels",
     "iso:country":"BE",
+    "lbl:bbox":"3.10916,50.84099,3.14916,50.88099",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85681709,
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1293426471,
-    "wof:lastmodified":1536873953,
+    "wof:lastmodified":1566611203,
     "wof:name":"Boonhoek",
     "wof:parent_id":1108830277,
     "wof:placetype":"locality",

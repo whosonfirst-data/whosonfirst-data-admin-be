@@ -9,14 +9,18 @@
     "geom:bbox":"2.74647,50.79722,2.74647,50.79722",
     "geom:latitude":50.79722,
     "geom:longitude":2.74647,
-    "gn:gn_country":"BE",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"BE",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"BE",
+    "lbl:bbox":"2.72647,50.77722,2.76647,50.81722",
     "lbl:latitude":50.79722,
     "lbl:longitude":2.74647,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bre_x_preferred":[
         "Westouter"
@@ -36,7 +40,7 @@
     "name:nld_x_preferred":[
         "Westouter"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Westoutre"
     ],
     "name:vls_x_preferred":[
@@ -63,7 +67,7 @@
     "qs_pg:woe_adm0":23424757,
     "qs_pg:woe_id":978828,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424757,
     "woe:name_adm0":"Belgique",
     "woe:name_adm1":"West-Vlaanderen",
@@ -98,7 +102,7 @@
         }
     ],
     "wof:id":1125879789,
-    "wof:lastmodified":1561831458,
+    "wof:lastmodified":1566612114,
     "wof:name":"Westouter",
     "wof:parent_id":1108830671,
     "wof:placetype":"locality",

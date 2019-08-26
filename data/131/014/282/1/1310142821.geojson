@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Brussels",
     "iso:country":"BE",
+    "lbl:bbox":"4.184,50.46972,4.224,50.50972",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85681723,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1310142821,
-    "wof:lastmodified":1536943156,
+    "wof:lastmodified":1566611712,
     "wof:name":"La Croyere",
     "wof:parent_id":102049943,
     "wof:placetype":"locality",

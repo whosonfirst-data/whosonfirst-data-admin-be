@@ -13,10 +13,13 @@
     "iso:country":"BE",
     "lbl:latitude":51.050571,
     "lbl:longitude":5.21926,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":51.050571,
     "mps:longitude":5.21926,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":9.0,
     "name:afr_x_preferred":[
         "Beringen"
     ],
@@ -134,7 +137,7 @@
     "name:tur_x_preferred":[
         "Beringen"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Beeringen"
     ],
     "name:vie_x_preferred":[
@@ -167,7 +170,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":501,
     "wof:belongsto":[
@@ -182,7 +185,6 @@
     "wof:concordances":{
         "gn:id":2802170,
         "gp:id":967195,
-        "qs:id":232199,
         "qs_pg:id":232199,
         "wd:id":"Q242407",
         "wk:page":"Beringen, Belgium"
@@ -201,7 +203,7 @@
         }
     ],
     "wof:id":101838849,
-    "wof:lastmodified":1563235398,
+    "wof:lastmodified":1566611931,
     "wof:name":"Beringen",
     "wof:parent_id":1108830613,
     "wof:placetype":"locality",

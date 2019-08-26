@@ -5,18 +5,21 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001015,
-    "geom:area_square_m":7901822.73695,
+    "geom:area_square_m":7901822.736953,
     "geom:bbox":"4.7102842668,50.9827586267,4.77590324576,51.0179760648",
     "geom:latitude":50.998482,
     "geom:longitude":4.741875,
     "iso:country":"BE",
     "lbl:latitude":50.995508,
     "lbl:longitude":4.743261,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.995508,
     "mps:longitude":4.743261,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":12.0,
+    "name:und_x_variant":[
         "Veldonck"
     ],
     "qs:a0":"Belgi\u00eb#Belgique#Belgien",
@@ -34,7 +37,7 @@
     "qs:type":"suburbs point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681731,
         102191581,
@@ -47,7 +50,7 @@
     "wof:concordances":{
         "gn:id":2784932,
         "gp:id":966781,
-        "qs:id":1
+        "qs_pg:id":1
     },
     "wof:country":"BE",
     "wof:geomhash":"8531c56f1f21f56c8192c22907c9a71c",
@@ -63,7 +66,7 @@
         }
     ],
     "wof:id":101755399,
-    "wof:lastmodified":1501264103,
+    "wof:lastmodified":1566611811,
     "wof:name":"Veldonk",
     "wof:parent_id":1108830035,
     "wof:placetype":"locality",

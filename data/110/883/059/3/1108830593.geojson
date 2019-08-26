@@ -21,8 +21,11 @@
     "iso:country":"BE",
     "lbl:latitude":50.88773,
     "lbl:longitude":3.999603,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bar_x_preferred":[
         "Haaltert"
     ],
@@ -101,7 +104,7 @@
     "reversegeo:latitude":50.88773,
     "reversegeo:longitude":3.999603,
     "src:geom":"begov",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681733,
         102191581,
@@ -125,7 +128,7 @@
         }
     ],
     "wof:id":1108830593,
-    "wof:lastmodified":1564162808,
+    "wof:lastmodified":1566611655,
     "wof:name":"Haaltert",
     "wof:parent_id":102049967,
     "wof:placetype":"localadmin",

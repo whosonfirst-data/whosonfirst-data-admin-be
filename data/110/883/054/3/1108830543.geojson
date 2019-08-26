@@ -21,8 +21,11 @@
     "iso:country":"BE",
     "lbl:latitude":50.892105,
     "lbl:longitude":5.13207,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bre_x_preferred":[
         "Geetbets"
     ],
@@ -98,7 +101,7 @@
     "reversegeo:latitude":50.892105,
     "reversegeo:longitude":5.13207,
     "src:geom":"begov",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681731,
         102191581,
@@ -122,7 +125,7 @@
         }
     ],
     "wof:id":1108830543,
-    "wof:lastmodified":1564162651,
+    "wof:lastmodified":1566611550,
     "wof:name":"Geetbets",
     "wof:parent_id":102049969,
     "wof:placetype":"localadmin",

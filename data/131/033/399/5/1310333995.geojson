@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Brussels",
     "iso:country":"BE",
+    "lbl:bbox":"4.21364,50.90442,4.25364,50.94442",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Velm"
     ],
@@ -70,7 +74,7 @@
         }
     ],
     "wof:id":1310333995,
-    "wof:lastmodified":1564162986,
+    "wof:lastmodified":1566611758,
     "wof:name":"Velm",
     "wof:parent_id":1108830421,
     "wof:placetype":"locality",

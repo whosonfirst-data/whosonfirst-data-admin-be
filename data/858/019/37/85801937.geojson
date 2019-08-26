@@ -12,6 +12,7 @@
     "iso:country":"BE",
     "lbl:latitude":50.840226,
     "lbl:longitude":4.465358,
+    "lbl:max_zoom":18.0,
     "mps:latitude":50.837645,
     "mps:longitude":4.464734,
     "mz:hierarchy_label":1,
@@ -38,9 +39,6 @@
     ],
     "name:nld_x_variant":[
         "Stokkel"
-    ],
-    "name:unk_x_variant":[
-        "Stockel"
     ],
     "qs:gn_fcode":"PPLX",
     "qs:gn_local":0,
@@ -83,7 +81,6 @@
     "wof:concordances":{
         "gn:id":2786033,
         "gp:id":977461,
-        "qs:id":1169861,
         "qs_pg:id":1169861,
         "wd:id":"Q589935",
         "wk:page":"Stokkel/Stockel metro station"
@@ -105,7 +102,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1566247550,
+    "wof:lastmodified":1566611097,
     "wof:name":"Stokkel",
     "wof:parent_id":101751573,
     "wof:placetype":"neighbourhood",

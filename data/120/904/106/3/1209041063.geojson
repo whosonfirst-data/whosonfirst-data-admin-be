@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Brussels",
     "iso:country":"BE",
+    "lbl:bbox":"4.16333,51.06333,4.20333,51.10333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632997
@@ -37,7 +41,7 @@
         "gn:id":2788922
     },
     "wof:country":"BE",
-    "wof:geomhash":"68ae4066bd2dec0aa6ac19a6987f78a8",
+    "wof:geomhash":"904ecb0345eb992561280a060c354632",
     "wof:hierarchy":[
         {
             "country_id":85632997,
@@ -45,7 +49,7 @@
         }
     ],
     "wof:id":1209041063,
-    "wof:lastmodified":1536299544,
+    "wof:lastmodified":1566611396,
     "wof:name":"Plaat",
     "wof:parent_id":85632997,
     "wof:placetype":"locality",
@@ -55,9 +59,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    4.1833300000000015,
+    4.18333,
     51.08333,
-    4.1833300000000015,
+    4.18333,
     51.08333
 ],
   "geometry": {"coordinates":[4.18333,51.08333],"type":"Point"}

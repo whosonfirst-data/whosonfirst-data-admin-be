@@ -12,10 +12,13 @@
     "iso:country":"BE",
     "lbl:latitude":50.974441,
     "lbl:longitude":3.660182,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.974441,
     "mps:longitude":3.660182,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Belgi\u00eb#Belgique#Belgien",
     "qs:a1":"*Oost-Vlanderen",
     "qs:a1r":"0Vlaams Gewest",
@@ -31,7 +34,7 @@
     "qs:type":"suburbs point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681733,
         102191581,
@@ -43,7 +46,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":970013,
-        "qs:id":5
+        "qs_pg:id":5
     },
     "wof:country":"BE",
     "wof:geomhash":"8f29d5b8b1453d3dbd4b4ec48c08360f",
@@ -59,7 +62,7 @@
         }
     ],
     "wof:id":101755685,
-    "wof:lastmodified":1499531308,
+    "wof:lastmodified":1566611838,
     "wof:name":"Kruiske",
     "wof:parent_id":1108830601,
     "wof:placetype":"locality",

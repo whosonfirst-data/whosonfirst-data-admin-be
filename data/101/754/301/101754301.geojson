@@ -13,10 +13,13 @@
     "iso:country":"BE",
     "lbl:latitude":50.852343,
     "lbl:longitude":3.3567,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":50.852343,
     "mps:longitude":3.3567,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:bre_x_preferred":[
         "Deerlijk"
     ],
@@ -101,9 +104,6 @@
     "name:swe_x_preferred":[
         "Deerlijk"
     ],
-    "name:unk_x_variant":[
-        "Deerlyck"
-    ],
     "name:vie_x_preferred":[
         "Deerlijk"
     ],
@@ -136,7 +136,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":73,
     "wof:belongsto":[
@@ -152,7 +152,6 @@
         "fct:id":"036a84b6-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2799797,
         "gp:id":968821,
-        "qs:id":805494,
         "qs_pg:id":805494,
         "wd:id":"Q822771"
     },
@@ -173,7 +172,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1563235130,
+    "wof:lastmodified":1566611858,
     "wof:name":"Deerlijk",
     "wof:parent_id":1108830557,
     "wof:placetype":"locality",

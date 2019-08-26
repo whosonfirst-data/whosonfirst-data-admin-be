@@ -12,6 +12,7 @@
     "iso:country":"BE",
     "lbl:latitude":50.831397,
     "lbl:longitude":4.306841,
+    "lbl:max_zoom":18.0,
     "mps:latitude":50.829407,
     "mps:longitude":4.305184,
     "mz:hierarchy_label":1,
@@ -41,10 +42,6 @@
     ],
     "name:nld_x_variant":[
         "Weeweide"
-    ],
-    "name:unk_x_variant":[
-        "Weeweide",
-        "Veeweide"
     ],
     "qs:gn_fcode":"PPL",
     "qs:gn_local":0,
@@ -87,7 +84,6 @@
     "wof:concordances":{
         "gn:id":2784975,
         "gp:id":978119,
-        "qs:id":1114880,
         "qs_pg:id":1114880,
         "wd:id":"Q690493",
         "wk:page":"Veeweyde/Veeweide metro station"
@@ -109,7 +105,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1566247551,
+    "wof:lastmodified":1566611095,
     "wof:name":"Veeweyde",
     "wof:parent_id":101751573,
     "wof:placetype":"neighbourhood",

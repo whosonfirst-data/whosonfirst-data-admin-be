@@ -11,8 +11,10 @@
     "geom:longitude":4.315796,
     "gn:population":4843,
     "iso:country":"BE",
+    "lbl:bbox":"4.310796,50.782224,4.320796,50.792224",
     "lbl:latitude":50.787224,
     "lbl:longitude":4.315796,
+    "lbl:max_zoom":18.0,
     "mps:latitude":50.785561,
     "mps:longitude":4.3169,
     "mz:hierarchy_label":0,
@@ -111,9 +113,8 @@
     "name:tur_x_preferred":[
         "Drogenbos"
     ],
-    "name:unk_x_variant":[
-        "Drogenbosch",
-        "Drogenbos"
+    "name:und_x_variant":[
+        "Drogenbosch"
     ],
     "name:vie_x_preferred":[
         "Drogenbos"
@@ -155,7 +156,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "src:population":"geonames",
     "wd:wordcount":139,
     "wof:belongsto":[
@@ -171,7 +172,6 @@
     "wof:concordances":{
         "gn:id":2799114,
         "gp:id":969146,
-        "qs:id":896396,
         "qs_pg:id":896396,
         "wd:id":"Q688377",
         "wk:page":"Drogenbos"
@@ -194,7 +194,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1563233994,
+    "wof:lastmodified":1566611094,
     "wof:name":"Drogenbos",
     "wof:parent_id":101913243,
     "wof:placetype":"neighbourhood",

@@ -12,10 +12,13 @@
     "iso:country":"BE",
     "lbl:latitude":51.299925,
     "lbl:longitude":4.56618,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":51.299925,
     "mps:longitude":4.56618,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:dut_x_variant":[
         "Sint-Job-in-'t-Goor",
         "St-Job-in-'t-Goor"
@@ -38,7 +41,7 @@
     "name:nld_x_variant":[
         "St.-Job-in-'t-Goor"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Saint-Job-in 't-Goor"
     ],
     "qs:a0":"Belgi\u00eb#Belgique#Belgien",
@@ -58,7 +61,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":45,
     "wof:belongsto":[
         85681715,
@@ -73,7 +76,6 @@
         "fct:id":"036c4e7c-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2786659,
         "gp:id":977209,
-        "qs:id":114806,
         "qs_pg:id":114806,
         "wd:id":"Q2686049"
     },
@@ -94,7 +96,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1563235509,
+    "wof:lastmodified":1566611967,
     "wof:name":"Sint-Job-in-'t Goor",
     "wof:parent_id":1108830385,
     "wof:placetype":"locality",

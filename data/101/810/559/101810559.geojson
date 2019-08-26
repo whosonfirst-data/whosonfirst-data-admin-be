@@ -12,10 +12,13 @@
     "iso:country":"BE",
     "lbl:latitude":50.716948,
     "lbl:longitude":3.937227,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.716948,
     "mps:longitude":3.937227,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bre_x_preferred":[
         "Bever"
     ],
@@ -129,7 +132,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":80,
     "wof:belongsto":[
         85681731,
@@ -143,9 +146,11 @@
     "wof:concordances":{
         "gn:id":2802051,
         "gp:id":967263,
-        "qs:id":384950,
-        "qs_pg:id":1285760,
+        "qs_pg:id":384950,
         "wd:id":"Q839017"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1285760
     },
     "wof:country":"BE",
     "wof:geomhash":"0d88d7a256117fa8facfae6c83e968cd",
@@ -161,7 +166,7 @@
         }
     ],
     "wof:id":101810559,
-    "wof:lastmodified":1563235214,
+    "wof:lastmodified":1566611879,
     "wof:name":"Bever",
     "wof:parent_id":1108830485,
     "wof:placetype":"locality",

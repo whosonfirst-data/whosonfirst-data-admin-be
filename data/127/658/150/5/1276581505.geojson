@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Brussels",
     "iso:country":"BE",
+    "lbl:bbox":"3.28195,51.11924,3.32195,51.15924",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Gevaerts",
         "Gevaarts"
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1276581505,
-    "wof:lastmodified":1537587033,
+    "wof:lastmodified":1566611261,
     "wof:name":"Gevaarts",
     "wof:parent_id":1108830289,
     "wof:placetype":"locality",

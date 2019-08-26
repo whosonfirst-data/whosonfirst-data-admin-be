@@ -13,10 +13,13 @@
     "iso:country":"BE",
     "lbl:latitude":51.184369,
     "lbl:longitude":2.81923,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":51.184369,
     "mps:longitude":2.81923,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:bre_x_preferred":[
         "Middelkerke"
     ],
@@ -102,9 +105,6 @@
     "name:spa_x_preferred":[
         "Middelkerke"
     ],
-    "name:unk_x_variant":[
-        "Middelkerke-Baden"
-    ],
     "name:vie_x_preferred":[
         "Middelkerke"
     ],
@@ -137,7 +137,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":121,
     "wof:belongsto":[
@@ -153,7 +153,6 @@
         "fct:id":"036ba31e-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2791194,
         "gp:id":974293,
-        "qs:id":114626,
         "qs_pg:id":114626,
         "wd:id":"Q492369",
         "wk:page":"Middelkerke"
@@ -175,7 +174,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1563235123,
+    "wof:lastmodified":1566611856,
     "wof:name":"Middelkerke",
     "wof:parent_id":1108830695,
     "wof:placetype":"locality",

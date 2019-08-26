@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Brussels",
     "iso:country":"BE",
+    "lbl:bbox":"4.76012,51.18682,4.80012,51.22682",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "'t Zand"
     ],
@@ -38,8 +42,7 @@
         "'t Zand"
     ],
     "name:und_x_variant":[
-        "Zand",
-        "'t Zand"
+        "Zand"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -68,7 +71,7 @@
         }
     ],
     "wof:id":1226176615,
-    "wof:lastmodified":1564163634,
+    "wof:lastmodified":1566612442,
     "wof:name":"'t Zand",
     "wof:parent_id":1108830237,
     "wof:placetype":"locality",

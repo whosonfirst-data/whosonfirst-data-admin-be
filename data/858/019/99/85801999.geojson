@@ -13,6 +13,7 @@
     "iso:country":"BE",
     "lbl:latitude":50.841194,
     "lbl:longitude":4.494585,
+    "lbl:max_zoom":18.0,
     "mps:latitude":50.839654,
     "mps:longitude":4.498562,
     "mz:hierarchy_label":0,
@@ -100,9 +101,8 @@
     "name:swe_x_preferred":[
         "Wezembeek-Oppem"
     ],
-    "name:unk_x_variant":[
-        "Wesembeek",
-        "Wezembeek-Oppem"
+    "name:und_x_variant":[
+        "Wesembeek"
     ],
     "name:vie_x_preferred":[
         "Wezembeek-Oppem"
@@ -160,7 +160,6 @@
     "wof:concordances":{
         "gn:id":2783737,
         "gp:id":978859,
-        "qs:id":1239264,
         "qs_pg:id":1239264,
         "wd:id":"Q912091",
         "wk:page":"Wezembeek-Oppem"
@@ -183,7 +182,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1566247560,
+    "wof:lastmodified":1566611097,
     "wof:name":"Wezembeek-Oppem",
     "wof:parent_id":101755517,
     "wof:placetype":"neighbourhood",

@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Brussels",
     "iso:country":"BE",
+    "lbl:bbox":"5.53805,51.15891,5.57805,51.19891",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Hees",
         "De Hees"
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1226476265,
-    "wof:lastmodified":1537587056,
+    "wof:lastmodified":1566612505,
     "wof:name":"De Hees",
     "wof:parent_id":1108830639,
     "wof:placetype":"locality",

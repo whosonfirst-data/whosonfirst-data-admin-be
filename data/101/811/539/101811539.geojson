@@ -13,10 +13,13 @@
     "iso:country":"BE",
     "lbl:latitude":50.168555,
     "lbl:longitude":4.413787,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":50.168555,
     "mps:longitude":4.413787,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bre_x_preferred":[
         "Cerfontaine"
     ],
@@ -67,7 +70,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":40,
     "wof:belongsto":[
@@ -81,7 +84,6 @@
     "wof:concordances":{
         "gn:id":2800591,
         "gp:id":968188,
-        "qs:id":884056,
         "qs_pg:id":884056,
         "wd:id":"Q354499"
     },
@@ -98,7 +100,7 @@
         }
     ],
     "wof:id":101811539,
-    "wof:lastmodified":1563235190,
+    "wof:lastmodified":1566611873,
     "wof:name":"Cerfontaine",
     "wof:parent_id":102049917,
     "wof:placetype":"locality",

@@ -12,10 +12,13 @@
     "iso:country":"BE",
     "lbl:latitude":50.260823,
     "lbl:longitude":4.50897,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.260823,
     "mps:longitude":4.50897,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Fraire"
     ],
@@ -46,7 +49,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681699,
         102191581,
@@ -58,7 +61,7 @@
     "wof:concordances":{
         "gn:id":2798031,
         "gp:id":969785,
-        "qs:id":1008208,
+        "qs_pg:id":1008208,
         "wd:id":"Q2390265"
     },
     "wof:country":"BE",
@@ -74,7 +77,7 @@
         }
     ],
     "wof:id":101811559,
-    "wof:lastmodified":1561831411,
+    "wof:lastmodified":1566611869,
     "wof:name":"Fraire",
     "wof:parent_id":102049917,
     "wof:placetype":"locality",

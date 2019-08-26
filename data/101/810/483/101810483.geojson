@@ -12,9 +12,13 @@
     "iso:country":"BE",
     "lbl:latitude":50.510624,
     "lbl:longitude":4.197069,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.510624,
     "mps:longitude":4.197069,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Belgi\u00eb#Belgique#Belgien",
     "qs:a1":"*Hainaut",
     "qs:a1r":"0R\u00e9gion wallone",
@@ -30,7 +34,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681723,
         102191581,
@@ -42,10 +46,10 @@
     "wof:concordances":{
         "gn:id":2802093,
         "gp:id":967238,
-        "qs:id":186765
+        "qs_pg:id":186765
     },
     "wof:country":"BE",
-    "wof:geomhash":"87d97ef3054b707d5244134be5148477",
+    "wof:geomhash":"54188aee6f122cee9168ca617f93d235",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101810483,
-    "wof:lastmodified":1479890872,
+    "wof:lastmodified":1566611881,
     "wof:name":"Besonrieux",
     "wof:parent_id":102049943,
     "wof:placetype":"locality",

@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Brussels",
     "iso:country":"BE",
+    "lbl:bbox":"2.89854,50.97551,2.93854,51.01551",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Clercken Smisse",
         "Smisse"
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1209746563,
-    "wof:lastmodified":1537586912,
+    "wof:lastmodified":1566611412,
     "wof:name":"Smisse",
     "wof:parent_id":1108830335,
     "wof:placetype":"locality",

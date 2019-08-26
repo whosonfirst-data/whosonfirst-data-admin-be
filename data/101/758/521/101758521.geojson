@@ -13,10 +13,13 @@
     "iso:country":"BE",
     "lbl:latitude":50.581932,
     "lbl:longitude":5.639682,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":50.581932,
     "mps:longitude":5.639682,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:bel_x_preferred":[
         "\u0428\u0430\u0444\u0430\u043d\u0442\u044d\u043d"
     ],
@@ -133,7 +136,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":119,
     "wof:belongsto":[
@@ -148,7 +151,6 @@
         "fct:id":"036a6f44-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2800438,
         "gp:id":968283,
-        "qs:id":141516,
         "qs_pg:id":141516,
         "wd:id":"Q503363",
         "wk:page":"Chaudfontaine"
@@ -169,7 +171,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1561831421,
+    "wof:lastmodified":1566611908,
     "wof:name":"Chaudfontaine",
     "wof:parent_id":102049941,
     "wof:placetype":"locality",

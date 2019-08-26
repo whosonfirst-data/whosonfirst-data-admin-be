@@ -5,13 +5,15 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":4979149.690695,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.531897,50.65047,5.531897,50.65047",
     "geom:latitude":50.65047,
     "geom:longitude":5.531897,
     "iso:country":"BE",
+    "lbl:bbox":"5.526897,50.64547,5.536897,50.65547",
     "lbl:latitude":50.65047,
     "lbl:longitude":5.531897,
+    "lbl:max_zoom":18.0,
     "mps:latitude":50.654763,
     "mps:longitude":5.535634,
     "mz:hierarchy_label":0,
@@ -26,9 +28,8 @@
     "name:fra_x_preferred":[
         "Glain"
     ],
-    "name:unk_x_variant":[
-        "Li\u00e8ge (Glain)",
-        "Glain"
+    "name:und_x_variant":[
+        "Li\u00e8ge (Glain)"
     ],
     "qs:gn_adm0_cc":"BE",
     "qs:gn_fcode":"PPL",
@@ -60,20 +61,19 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
-        85681691,
         102191581,
         85632997,
         404227353,
         101748083,
-        102049941
+        102049941,
+        85681691
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2797496,
         "gp:id":970107,
-        "qs:id":1169785,
         "qs_pg:id":1169785
     },
     "wof:country":"BE",
@@ -93,7 +93,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1531862067,
+    "wof:lastmodified":1566611090,
     "wof:name":"Glain",
     "wof:parent_id":101748083,
     "wof:placetype":"neighbourhood",

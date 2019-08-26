@@ -12,10 +12,13 @@
     "iso:country":"BE",
     "lbl:latitude":50.463659,
     "lbl:longitude":4.61582,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.463659,
     "mps:longitude":4.61582,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Velaine"
     ],
@@ -42,7 +45,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681699,
         102191581,
@@ -54,7 +57,9 @@
     "wof:concordances":{
         "gn:id":2784970,
         "gp:id":978126,
-        "qs:id":6,
+        "qs_pg:id":6
+    },
+    "wof:concordances_alt":{
         "qs_pg:id":1162381
     },
     "wof:country":"BE",
@@ -70,7 +75,7 @@
         }
     ],
     "wof:id":101755091,
-    "wof:lastmodified":1564163072,
+    "wof:lastmodified":1566611820,
     "wof:name":"Velaine",
     "wof:parent_id":102049931,
     "wof:placetype":"locality",

@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Brussels",
     "iso:country":"BE",
+    "lbl:bbox":"4.86145,50.6281,4.90145,50.6681",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Ramillies (G\u00e9rompont)"
     ],
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":1360016897,
-    "wof:lastmodified":1537587088,
+    "wof:lastmodified":1566611778,
     "wof:name":"Gerompont",
     "wof:parent_id":102049945,
     "wof:placetype":"locality",

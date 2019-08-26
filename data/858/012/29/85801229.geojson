@@ -5,13 +5,15 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":1920069.838484,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.539186,50.593723,5.539186,50.593723",
     "geom:latitude":50.593723,
     "geom:longitude":5.539186,
     "iso:country":"BE",
+    "lbl:bbox":"5.534186,50.588723,5.544186,50.598723",
     "lbl:latitude":50.593723,
     "lbl:longitude":5.539186,
+    "lbl:max_zoom":18.0,
     "mps:latitude":50.589509,
     "mps:longitude":5.542733,
     "mz:hierarchy_label":0,
@@ -33,9 +35,6 @@
         "Haute Pre"
     ],
     "name:fra_x_preferred":[
-        "Haute Pr\u00e9"
-    ],
-    "name:unk_x_variant":[
         "Haute Pr\u00e9"
     ],
     "qs:gn_adm0_cc":"BE",
@@ -69,20 +68,19 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
-        85681691,
         102191581,
         85632997,
         404227353,
         101748083,
-        102049941
+        102049941,
+        85681691
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2796418,
         "gp:id":970757,
-        "qs:id":186864,
         "qs_pg:id":186864
     },
     "wof:country":"BE",
@@ -102,7 +100,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1531862070,
+    "wof:lastmodified":1566611073,
     "wof:name":"Haute Pr\u00e9",
     "wof:parent_id":101748083,
     "wof:placetype":"neighbourhood",

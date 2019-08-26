@@ -13,10 +13,13 @@
     "iso:country":"BE",
     "lbl:latitude":50.875612,
     "lbl:longitude":5.305845,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":50.875612,
     "mps:longitude":5.305845,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:afr_x_preferred":[
         "Alken"
     ],
@@ -139,7 +142,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":55,
     "wof:belongsto":[
@@ -154,7 +157,6 @@
     "wof:concordances":{
         "gn:id":2803285,
         "gp:id":966511,
-        "qs:id":210733,
         "qs_pg:id":210733,
         "wd:id":"Q499604"
     },
@@ -172,7 +174,7 @@
         }
     ],
     "wof:id":101839697,
-    "wof:lastmodified":1563235537,
+    "wof:lastmodified":1566611977,
     "wof:name":"Alken",
     "wof:parent_id":1108830441,
     "wof:placetype":"locality",

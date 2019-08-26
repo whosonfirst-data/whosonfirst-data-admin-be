@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Brussels",
     "iso:country":"BE",
+    "lbl:bbox":"6.13132,50.16669,6.17132,50.20669",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85681691,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1293323657,
-    "wof:lastmodified":1537022335,
+    "wof:lastmodified":1566611181,
     "wof:name":"Weidig",
     "wof:parent_id":102049935,
     "wof:placetype":"locality",

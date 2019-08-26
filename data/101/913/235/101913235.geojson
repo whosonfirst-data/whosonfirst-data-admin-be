@@ -13,10 +13,13 @@
     "iso:country":"BE",
     "lbl:latitude":50.808226,
     "lbl:longitude":4.473994,
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":6.0,
     "mps:latitude":50.808226,
     "mps:longitude":4.473994,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":4.0,
     "name:afr_x_preferred":[
         "Brussel"
     ],
@@ -554,7 +557,7 @@
     "qs:type":"urban core",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85681731,
@@ -568,7 +571,7 @@
     "wof:concordances":{
         "gn:id":2800866,
         "gp:id":968019,
-        "qs:id":1,
+        "qs_pg:id":1,
         "wd:id":"Q239",
         "wk:page":"City of Brussels"
     },
@@ -586,7 +589,7 @@
         }
     ],
     "wof:id":101913235,
-    "wof:lastmodified":1563235299,
+    "wof:lastmodified":1566611900,
     "wof:name":"Brussel",
     "wof:parent_id":1108830631,
     "wof:placetype":"locality",

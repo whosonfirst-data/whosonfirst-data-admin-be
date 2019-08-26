@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Brussels",
     "iso:country":"BE",
+    "lbl:bbox":"3.20702,51.02943,3.24702,51.06943",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Hille"
     ],
@@ -82,7 +86,7 @@
         }
     ],
     "wof:id":1277020023,
-    "wof:lastmodified":1564162180,
+    "wof:lastmodified":1566611273,
     "wof:name":"Hille",
     "wof:parent_id":1108830065,
     "wof:placetype":"locality",

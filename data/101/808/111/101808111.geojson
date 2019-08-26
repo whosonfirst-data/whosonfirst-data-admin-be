@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000786,
-    "geom:area_square_m":6158518.540914,
+    "geom:area_square_m":6158518.540916,
     "geom:bbox":"4.66104900367,50.6580596101,4.73494064362,50.6958495388",
     "geom:latitude":50.680765,
     "geom:longitude":4.699969,
     "iso:country":"BE",
     "lbl:latitude":50.684352,
     "lbl:longitude":4.69633,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.684352,
     "mps:longitude":4.69633,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Belgi\u00eb#Belgique#Belgien",
     "qs:a1":"*Brabant wallon",
     "qs:a1r":"0R\u00e9gion wallone",
@@ -30,7 +34,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681693,
         102191581,
@@ -42,10 +46,10 @@
     "wof:concordances":{
         "gn:id":2797515,
         "gp:id":970095,
-        "qs:id":942669
+        "qs_pg:id":942669
     },
     "wof:country":"BE",
-    "wof:geomhash":"eb0989cb90b8f68ee38c004e55b0874b",
+    "wof:geomhash":"2d8e69c3be4849d91dce0ca759f6c8d4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":101808111,
-    "wof:lastmodified":1479892058,
+    "wof:lastmodified":1566611963,
     "wof:name":"Gistoux",
     "wof:parent_id":102049945,
     "wof:placetype":"locality",

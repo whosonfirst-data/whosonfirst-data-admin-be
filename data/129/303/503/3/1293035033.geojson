@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Brussels",
     "iso:country":"BE",
+    "lbl:bbox":"3.34307,50.77762,3.38307,50.81762",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Knokke"
     ],
@@ -73,7 +77,7 @@
         }
     ],
     "wof:id":1293035033,
-    "wof:lastmodified":1564161999,
+    "wof:lastmodified":1566611172,
     "wof:name":"Knokke",
     "wof:parent_id":1108830095,
     "wof:placetype":"locality",

@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Brussels",
     "iso:country":"BE",
+    "lbl:bbox":"3.63795,50.79162,3.67795,50.83162",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Rattepoelmeersch",
         "Rattenpoel",
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":1277019275,
-    "wof:lastmodified":1537586938,
+    "wof:lastmodified":1566611233,
     "wof:name":"Rattepoelmeers",
     "wof:parent_id":1108830139,
     "wof:placetype":"locality",

@@ -13,10 +13,13 @@
     "iso:country":"BE",
     "lbl:latitude":51.165999,
     "lbl:longitude":3.56687,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":51.165999,
     "mps:longitude":3.56687,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u0406\u043a\u043b\u0430"
     ],
@@ -129,9 +132,6 @@
     "name:ukr_x_preferred":[
         "\u0415\u043a\u043b\u043e"
     ],
-    "name:unk_x_variant":[
-        "Eekloo"
-    ],
     "name:vie_x_preferred":[
         "Eeklo"
     ],
@@ -162,7 +162,7 @@
     "qs:type":"rural point-multi-in-poly-resolved",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85681733,
@@ -178,7 +178,6 @@
         "fct:id":"036a9956-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2798987,
         "gp:id":969229,
-        "qs:id":4323,
         "qs_pg:id":4323,
         "wd:id":"Q12440",
         "wk:page":"Eeklo"
@@ -197,7 +196,7 @@
         }
     ],
     "wof:id":1175610575,
-    "wof:lastmodified":1563234796,
+    "wof:lastmodified":1566611690,
     "wof:name":"Eeklo",
     "wof:parent_id":1108830371,
     "wof:placetype":"locality",

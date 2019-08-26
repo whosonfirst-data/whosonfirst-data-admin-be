@@ -5,17 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000755,
-    "geom:area_square_m":5843581.510266,
+    "geom:area_square_m":5843581.510267,
     "geom:bbox":"4.50791255552,51.2320661972,4.54678140081,51.2744824157",
     "geom:latitude":51.253757,
     "geom:longitude":4.526998,
     "iso:country":"BE",
     "lbl:latitude":51.2551,
     "lbl:longitude":4.525675,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":51.2551,
     "mps:longitude":4.525675,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Belgi\u00eb#Belgique#Belgien",
     "qs:a1":"*Antwerpen",
     "qs:a1r":"0Vlaams Gewest",
@@ -31,7 +34,7 @@
     "qs:type":"suburbs point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681715,
         102191581,
@@ -43,7 +46,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":976815,
-        "qs:id":8
+        "qs_pg:id":8
     },
     "wof:country":"BE",
     "wof:geomhash":"046d22efffa842f981e5341d29b87586",
@@ -59,7 +62,7 @@
         }
     ],
     "wof:id":101755775,
-    "wof:lastmodified":1499530746,
+    "wof:lastmodified":1566611852,
     "wof:name":"Koningshof",
     "wof:parent_id":1108830155,
     "wof:placetype":"locality",

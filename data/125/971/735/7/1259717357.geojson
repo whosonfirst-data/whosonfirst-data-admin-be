@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Brussels",
     "iso:country":"BE",
+    "lbl:bbox":"3.65339,50.91043,3.69339,50.95043",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Middelwyk",
         "Middelwijk"
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1259717357,
-    "wof:lastmodified":1537586965,
+    "wof:lastmodified":1566612402,
     "wof:name":"Middelwijk",
     "wof:parent_id":1108830425,
     "wof:placetype":"locality",

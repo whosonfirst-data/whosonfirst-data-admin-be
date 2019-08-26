@@ -9,14 +9,18 @@
     "geom:bbox":"2.7992,50.99964,2.7992,50.99964",
     "geom:latitude":50.99964,
     "geom:longitude":2.7992,
-    "gn:gn_country":"BE",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"BE",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"BE",
+    "lbl:bbox":"2.7792,50.97964,2.8192,51.01964",
     "lbl:latitude":50.99964,
     "lbl:longitude":2.7992,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bre_x_preferred":[
         "Nieuwkapelle"
@@ -42,7 +46,7 @@
     "name:swe_x_preferred":[
         "Nieuwkapelle"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Nieucappelle"
     ],
     "name:vls_x_preferred":[
@@ -67,7 +71,7 @@
     "qs_pg:woe_adm0":23424757,
     "qs_pg:woe_id":974904,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424757,
     "woe:name_adm0":"Belgique",
     "woe:name_adm1":"West-Vlaanderen",
@@ -102,7 +106,7 @@
         }
     ],
     "wof:id":1125857977,
-    "wof:lastmodified":1563235975,
+    "wof:lastmodified":1566612202,
     "wof:name":"Nieuwkapelle",
     "wof:parent_id":1108830401,
     "wof:placetype":"locality",

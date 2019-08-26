@@ -9,14 +9,18 @@
     "geom:bbox":"4.30707,50.97383,4.30707,50.97383",
     "geom:latitude":50.97383,
     "geom:longitude":4.30707,
-    "gn:gn_country":"BE",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"BE",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"BE",
+    "lbl:bbox":"4.28707,50.95383,4.32707,50.99383",
     "lbl:latitude":50.97383,
     "lbl:longitude":4.30707,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:deu_x_preferred":[
         "Impe"
@@ -36,9 +40,6 @@
     "name:spa_x_preferred":[
         "Impe"
     ],
-    "name:unk_x_variant":[
-        "Impe"
-    ],
     "qs_pg:aaroncc":"BE",
     "qs_pg:gn_country":"BE",
     "qs_pg:gn_fcode":"PPL",
@@ -56,7 +57,7 @@
     "qs_pg:woe_adm0":23424757,
     "qs_pg:woe_id":971671,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424757,
     "woe:name_adm0":"Belgique",
     "woe:name_adm1":"Vlaams Brabant",
@@ -91,7 +92,7 @@
         }
     ],
     "wof:id":1125778259,
-    "wof:lastmodified":1561831487,
+    "wof:lastmodified":1566612248,
     "wof:name":"Impde",
     "wof:parent_id":1108830037,
     "wof:placetype":"locality",

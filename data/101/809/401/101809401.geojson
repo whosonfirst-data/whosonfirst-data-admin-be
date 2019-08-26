@@ -12,10 +12,13 @@
     "iso:country":"BE",
     "lbl:latitude":51.068334,
     "lbl:longitude":5.75329,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":51.068334,
     "mps:longitude":5.75329,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bre_x_preferred":[
         "Elen"
     ],
@@ -40,7 +43,7 @@
     "name:pol_x_preferred":[
         "Elen"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Eelen"
     ],
     "qs:a0":"Belgi\u00eb#Belgique#Belgien",
@@ -60,7 +63,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":46,
     "wof:belongsto":[
         85681705,
@@ -74,7 +77,6 @@
     "wof:concordances":{
         "gn:id":2798852,
         "gp:id":969327,
-        "qs:id":1059258,
         "qs_pg:id":1059258,
         "wd:id":"Q3050605"
     },
@@ -92,7 +94,7 @@
         }
     ],
     "wof:id":101809401,
-    "wof:lastmodified":1561831428,
+    "wof:lastmodified":1566611942,
     "wof:name":"Elen",
     "wof:parent_id":1108830389,
     "wof:placetype":"locality",

@@ -5,18 +5,21 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001664,
-    "geom:area_square_m":12935898.634087,
+    "geom:area_square_m":12935898.634088,
     "geom:bbox":"5.134757345,51.02496799,5.21360986191,51.0827927656",
     "geom:latitude":51.050381,
     "geom:longitude":5.175809,
     "iso:country":"BE",
     "lbl:latitude":51.040159,
     "lbl:longitude":5.168637,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":51.040159,
     "mps:longitude":5.168637,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":12.0,
+    "name:und_x_variant":[
         "Tervaent"
     ],
     "qs:a0":"Belgi\u00eb#Belgique#Belgien",
@@ -34,7 +37,7 @@
     "qs:type":"rural point-multi-in-poly-resolved",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681705,
         102191581,
@@ -47,7 +50,7 @@
     "wof:concordances":{
         "gn:id":2785629,
         "gp:id":975379,
-        "qs:id":2
+        "qs_pg:id":2
     },
     "wof:country":"BE",
     "wof:geomhash":"c52e46653dcb4d79e248a332cb550a99",
@@ -63,7 +66,7 @@
         }
     ],
     "wof:id":101838837,
-    "wof:lastmodified":1501264105,
+    "wof:lastmodified":1566611933,
     "wof:name":"Tervant",
     "wof:parent_id":1108830613,
     "wof:placetype":"locality",

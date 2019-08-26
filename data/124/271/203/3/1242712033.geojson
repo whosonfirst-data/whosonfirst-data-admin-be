@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Brussels",
     "iso:country":"BE",
+    "lbl:bbox":"3.8628,50.73968,3.9028,50.77968",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Kleine Buizemont",
         "Kleinen-Buisemont",
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":1242712033,
-    "wof:lastmodified":1537587002,
+    "wof:lastmodified":1566612330,
     "wof:name":"Kleinen Buizemont",
     "wof:parent_id":1108830521,
     "wof:placetype":"locality",

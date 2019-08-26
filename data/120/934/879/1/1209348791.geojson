@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Brussels",
     "iso:country":"BE",
+    "lbl:bbox":"4.91333,50.89667,4.95333,50.93667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632997
@@ -37,7 +41,7 @@
         "gn:id":2796273
     },
     "wof:country":"BE",
-    "wof:geomhash":"f299d80d06c459adb8a5b39e57d75632",
+    "wof:geomhash":"ba9056477121413e3db8fdcf16c9313a",
     "wof:hierarchy":[
         {
             "country_id":85632997,
@@ -45,7 +49,7 @@
         }
     ],
     "wof:id":1209348791,
-    "wof:lastmodified":1536289817,
+    "wof:lastmodified":1566611408,
     "wof:name":"Heiblok",
     "wof:parent_id":85632997,
     "wof:placetype":"locality",
@@ -55,9 +59,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    4.9333300000000015,
+    4.93333,
     50.91667,
-    4.9333300000000015,
+    4.93333,
     50.91667
 ],
   "geometry": {"coordinates":[4.93333,50.91667],"type":"Point"}

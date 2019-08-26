@@ -12,10 +12,13 @@
     "iso:country":"BE",
     "lbl:latitude":50.347499,
     "lbl:longitude":5.495288,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.347499,
     "mps:longitude":5.495288,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Barvaux-sur-Ourthe"
     ],
@@ -48,7 +51,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681727,
         102191581,
@@ -60,7 +63,6 @@
     "wof:concordances":{
         "gn:id":2802653,
         "gp:id":966878,
-        "qs:id":4224,
         "qs_pg:id":4224,
         "wd:id":"Q2480370",
         "wk:page":"Barvaux-sur-Ourthe"
@@ -78,7 +80,7 @@
         }
     ],
     "wof:id":101839745,
-    "wof:lastmodified":1561831436,
+    "wof:lastmodified":1566611979,
     "wof:name":"Barvaux",
     "wof:parent_id":102049921,
     "wof:placetype":"locality",

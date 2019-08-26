@@ -5,13 +5,15 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":9151083.452641,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.493933,50.663737,5.493933,50.663737",
     "geom:latitude":50.663737,
     "geom:longitude":5.493933,
     "iso:country":"BE",
+    "lbl:bbox":"5.488933,50.658737,5.498933,50.668737",
     "lbl:latitude":50.663737,
     "lbl:longitude":5.493933,
+    "lbl:max_zoom":18.0,
     "mps:latitude":50.6631,
     "mps:longitude":5.475647,
     "mz:hierarchy_label":0,
@@ -26,9 +28,8 @@
     "name:fra_x_preferred":[
         "Loncin"
     ],
-    "name:unk_x_variant":[
-        "Ans (Loncin)",
-        "Loncin"
+    "name:und_x_variant":[
+        "Ans (Loncin)"
     ],
     "qs:gn_adm0_cc":"BE",
     "qs:gn_fcode":"PPL",
@@ -60,20 +61,19 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
-        85681691,
         102191581,
         85632997,
         404227353,
         101748083,
-        102049941
+        102049941,
+        85681691
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2792167,
         "gp:id":973687,
-        "qs:id":1145541,
         "qs_pg:id":1145541
     },
     "wof:country":"BE",
@@ -93,7 +93,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1531862085,
+    "wof:lastmodified":1566611071,
     "wof:name":"Loncin",
     "wof:parent_id":101748083,
     "wof:placetype":"neighbourhood",

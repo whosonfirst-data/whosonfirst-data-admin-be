@@ -12,10 +12,13 @@
     "iso:country":"BE",
     "lbl:latitude":50.428503,
     "lbl:longitude":3.741702,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.428503,
     "mps:longitude":3.741702,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Thulin"
     ],
@@ -51,7 +54,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":119,
     "wof:belongsto":[
         85681723,
@@ -64,7 +67,6 @@
     "wof:concordances":{
         "gn:id":2785514,
         "gp:id":977777,
-        "qs:id":1116461,
         "qs_pg:id":1116461,
         "wd:id":"Q2568477"
     },
@@ -81,7 +83,7 @@
         }
     ],
     "wof:id":101755119,
-    "wof:lastmodified":1561831401,
+    "wof:lastmodified":1566611830,
     "wof:name":"Thulin",
     "wof:parent_id":102049933,
     "wof:placetype":"locality",

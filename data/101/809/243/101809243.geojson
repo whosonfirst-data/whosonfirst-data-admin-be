@@ -12,10 +12,13 @@
     "iso:country":"BE",
     "lbl:latitude":50.790719,
     "lbl:longitude":3.508479,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.790719,
     "mps:longitude":3.508479,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Berchem"
     ],
@@ -48,7 +51,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":602,
     "wof:belongsto":[
         85681733,
@@ -62,7 +65,6 @@
     "wof:concordances":{
         "gn:id":2802251,
         "gp:id":967136,
-        "qs:id":1159346,
         "qs_pg:id":1159346,
         "wd:id":"Q2896939"
     },
@@ -80,7 +82,7 @@
         }
     ],
     "wof:id":101809243,
-    "wof:lastmodified":1561831428,
+    "wof:lastmodified":1566611942,
     "wof:name":"Berchem",
     "wof:parent_id":1108830129,
     "wof:placetype":"locality",

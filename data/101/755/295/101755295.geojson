@@ -12,10 +12,13 @@
     "iso:country":"BE",
     "lbl:latitude":50.899829,
     "lbl:longitude":3.404695,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.899829,
     "mps:longitude":3.404695,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Sint-Eloois-Vijve"
     ],
@@ -34,9 +37,6 @@
     "name:rus_x_preferred":[
         "\u0421\u0438\u043d\u0442-\u042d\u043b\u043e\u0439\u0441-\u0412\u0435\u0439\u0432\u0435"
     ],
-    "name:unk_x_variant":[
-        "Vive-Saint-\u00c9loi"
-    ],
     "qs:a0":"Belgi\u00eb#Belgique#Belgien",
     "qs:a1":"*West-Vlanderen",
     "qs:a1r":"0Vlaams Gewest",
@@ -52,7 +52,7 @@
     "qs:type":"suburbs point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681709,
         102191581,
@@ -65,7 +65,7 @@
     "wof:concordances":{
         "gn:id":2786707,
         "gp:id":977166,
-        "qs:id":268909,
+        "qs_pg:id":268909,
         "wd:id":"Q2320749"
     },
     "wof:country":"BE",
@@ -82,7 +82,7 @@
         }
     ],
     "wof:id":101755295,
-    "wof:lastmodified":1563235018,
+    "wof:lastmodified":1566611821,
     "wof:name":"Sint-Eloois-Vijve",
     "wof:parent_id":1108830341,
     "wof:placetype":"locality",

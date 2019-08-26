@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Brussels",
     "iso:country":"BE",
+    "lbl:bbox":"4.73878,50.70474,4.77878,50.74474",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85681693,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1260323071,
-    "wof:lastmodified":1536658844,
+    "wof:lastmodified":1566611498,
     "wof:name":"Basse Roux Miroir",
     "wof:parent_id":102049945,
     "wof:placetype":"locality",

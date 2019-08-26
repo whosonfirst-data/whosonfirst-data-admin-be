@@ -12,10 +12,13 @@
     "iso:country":"BE",
     "lbl:latitude":51.064197,
     "lbl:longitude":5.725891,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":51.064197,
     "mps:longitude":5.725891,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Rotem"
     ],
@@ -37,7 +40,7 @@
     "name:rus_x_preferred":[
         "\u0420\u043e\u0442\u0435\u043c"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Dilsen-Stokkem (Rotem)"
     ],
     "qs:a0":"Belgi\u00eb#Belgique#Belgien",
@@ -57,7 +60,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":133,
     "wof:belongsto":[
         85681705,
@@ -71,7 +74,6 @@
     "wof:concordances":{
         "gn:id":2787666,
         "gp:id":976469,
-        "qs:id":1291604,
         "qs_pg:id":1291604,
         "wd:id":"Q3442961"
     },
@@ -89,7 +91,7 @@
         }
     ],
     "wof:id":101838971,
-    "wof:lastmodified":1561831425,
+    "wof:lastmodified":1566611924,
     "wof:name":"Rotem",
     "wof:parent_id":1108830389,
     "wof:placetype":"locality",

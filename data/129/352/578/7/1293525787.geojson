@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Brussels",
     "iso:country":"BE",
+    "lbl:bbox":"5.39537,50.53512,5.43537,50.57512",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bre_x_preferred":[
         "Sainte-Barbe"
     ],
@@ -95,7 +99,7 @@
         }
     ],
     "wof:id":1293525787,
-    "wof:lastmodified":1564161912,
+    "wof:lastmodified":1566611123,
     "wof:name":"Sainte-Barbe",
     "wof:parent_id":102049925,
     "wof:placetype":"locality",

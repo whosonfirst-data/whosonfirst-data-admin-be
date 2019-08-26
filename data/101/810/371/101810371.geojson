@@ -13,10 +13,13 @@
     "iso:country":"BE",
     "lbl:latitude":50.611495,
     "lbl:longitude":5.315088,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":50.611495,
     "mps:longitude":5.315088,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0641\u064a\u0631\u0644\u064a\u0646"
     ],
@@ -124,7 +127,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":102,
     "wof:belongsto":[
@@ -138,7 +141,6 @@
     "wof:concordances":{
         "gn:id":2784856,
         "gp:id":978203,
-        "qs:id":141442,
         "qs_pg:id":141442,
         "wd:id":"Q711292"
     },
@@ -155,7 +157,7 @@
         }
     ],
     "wof:id":101810371,
-    "wof:lastmodified":1563235235,
+    "wof:lastmodified":1566611885,
     "wof:name":"Verlaine",
     "wof:parent_id":102049925,
     "wof:placetype":"locality",

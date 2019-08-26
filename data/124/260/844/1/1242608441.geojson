@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Brussels",
     "iso:country":"BE",
+    "lbl:bbox":"3.4535,50.90541,3.4935,50.94541",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Boschwegel",
         "Boswegel"
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1242608441,
-    "wof:lastmodified":1537587068,
+    "wof:lastmodified":1566612303,
     "wof:name":"Boswegel",
     "wof:parent_id":1108830563,
     "wof:placetype":"locality",

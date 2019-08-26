@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Brussels",
     "iso:country":"BE",
+    "lbl:bbox":"5.76109,51.11023,5.80109,51.15023",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:dan_x_preferred":[
         "Birk"
     ],
@@ -73,7 +77,7 @@
         }
     ],
     "wof:id":1276905935,
-    "wof:lastmodified":1564162219,
+    "wof:lastmodified":1566611296,
     "wof:name":"Birk",
     "wof:parent_id":1108830217,
     "wof:placetype":"locality",

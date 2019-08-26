@@ -10,8 +10,10 @@
     "geom:latitude":50.640385,
     "geom:longitude":5.652032,
     "iso:country":"BE",
+    "lbl:bbox":"5.647032,50.635385,5.657032,50.645385",
     "lbl:latitude":50.640385,
     "lbl:longitude":5.652032,
+    "lbl:max_zoom":18.0,
     "mps:latitude":50.639648,
     "mps:longitude":5.650844,
     "mz:hierarchy_label":0,
@@ -56,9 +58,6 @@
     "name:swe_x_preferred":[
         "Bellaire"
     ],
-    "name:unk_x_variant":[
-        "Bellaire"
-    ],
     "name:vol_x_preferred":[
         "Bellaire"
     ],
@@ -92,7 +91,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":53,
     "wof:belongsto":[
         102191581,
@@ -106,7 +105,6 @@
     "wof:concordances":{
         "gn:id":2802352,
         "gp:id":967077,
-        "qs:id":1091317,
         "qs_pg:id":1091317
     },
     "wof:country":"BE",
@@ -126,7 +124,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1564161860,
+    "wof:lastmodified":1566611083,
     "wof:name":"Bellaire",
     "wof:parent_id":101755201,
     "wof:placetype":"neighbourhood",

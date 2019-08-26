@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Brussels",
     "iso:country":"BE",
+    "lbl:bbox":"5.42446,50.79092,5.46446,50.83092",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85681705,
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1277113593,
-    "wof:lastmodified":1536723433,
+    "wof:lastmodified":1566611324,
     "wof:name":"Neerrepen",
     "wof:parent_id":1108830031,
     "wof:placetype":"locality",

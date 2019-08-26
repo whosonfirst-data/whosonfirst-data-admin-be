@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000669,
-    "geom:area_square_m":5235389.860171,
+    "geom:area_square_m":5235389.860172,
     "geom:bbox":"4.4746929945,50.6862052475,4.52700800299,50.7217628836",
     "geom:latitude":50.704855,
     "geom:longitude":4.504726,
     "iso:country":"BE",
     "lbl:latitude":50.706638,
     "lbl:longitude":4.508216,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.706638,
     "mps:longitude":4.508216,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Belgi\u00eb#Belgique#Belgien",
     "qs:a1":"*Brabant wallon",
     "qs:a1r":"0R\u00e9gion wallone",
@@ -30,7 +34,7 @@
     "qs:type":"suburbs point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681693,
         102191581,
@@ -41,10 +45,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":976285,
-        "qs:id":7
+        "qs_pg:id":7
     },
     "wof:country":"BE",
-    "wof:geomhash":"08bd14fc7f01a6efea6c4e2459afaad9",
+    "wof:geomhash":"9a1cc6656cd610a9f8e0bd4fa47df188",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":101755261,
-    "wof:lastmodified":1479892059,
+    "wof:lastmodified":1566611820,
     "wof:name":"Glain",
     "wof:parent_id":102049945,
     "wof:placetype":"locality",

@@ -13,10 +13,13 @@
     "iso:country":"BE",
     "lbl:latitude":50.842698,
     "lbl:longitude":4.830619,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":50.842698,
     "mps:longitude":4.830619,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bre_x_preferred":[
         "Boutersem"
     ],
@@ -86,7 +89,7 @@
     "name:swe_x_preferred":[
         "Boutersem"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Bautersem"
     ],
     "name:vie_x_preferred":[
@@ -118,7 +121,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":77,
     "wof:belongsto":[
@@ -133,7 +136,6 @@
     "wof:concordances":{
         "gn:id":2801215,
         "gp:id":967792,
-        "qs:id":238307,
         "qs_pg:id":238307,
         "wd:id":"Q895293"
     },
@@ -151,7 +153,7 @@
         }
     ],
     "wof:id":101838743,
-    "wof:lastmodified":1563235411,
+    "wof:lastmodified":1566611935,
     "wof:name":"Boutersem",
     "wof:parent_id":1108830471,
     "wof:placetype":"locality",

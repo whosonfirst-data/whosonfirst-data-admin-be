@@ -5,18 +5,21 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000091,
-    "geom:area_square_m":713641.154803,
+    "geom:area_square_m":713641.154802,
     "geom:bbox":"3.16308865886,50.7677734548,3.18171208356,50.7786197519",
     "geom:latitude":50.772971,
     "geom:longitude":3.171128,
     "iso:country":"BE",
     "lbl:latitude":50.773456,
     "lbl:longitude":3.170494,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.773456,
     "mps:longitude":3.170494,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":12.0,
+    "name:und_x_variant":[
         "Dronckaert"
     ],
     "qs:a0":"Belgi\u00eb#Belgique#Belgien",
@@ -34,7 +37,7 @@
     "qs:type":"suburbs point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681709,
         102191581,
@@ -47,7 +50,7 @@
     "wof:concordances":{
         "gn:id":2799104,
         "gp:id":976136,
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BE",
     "wof:geomhash":"f9aa51e127dacbfa239b1355068c1873",
@@ -63,7 +66,7 @@
         }
     ],
     "wof:id":101755321,
-    "wof:lastmodified":1501264140,
+    "wof:lastmodified":1566611855,
     "wof:name":"Dronkaard",
     "wof:parent_id":1108830067,
     "wof:placetype":"locality",

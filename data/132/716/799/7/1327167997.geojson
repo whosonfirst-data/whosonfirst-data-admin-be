@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Brussels",
     "iso:country":"BE",
+    "lbl:bbox":"5.29779,50.5409,5.33779,50.5809",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Richemont"
     ],
@@ -101,7 +105,7 @@
         }
     ],
     "wof:id":1327167997,
-    "wof:lastmodified":1564161627,
+    "wof:lastmodified":1566610930,
     "wof:name":"Richemont",
     "wof:parent_id":102049925,
     "wof:placetype":"locality",

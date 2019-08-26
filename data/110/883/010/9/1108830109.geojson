@@ -21,8 +21,11 @@
     "iso:country":"BE",
     "lbl:latitude":50.903905,
     "lbl:longitude":4.122592,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Affligem"
     ],
@@ -104,7 +107,7 @@
     "reversegeo:latitude":50.903905,
     "reversegeo:longitude":4.122592,
     "src:geom":"begov",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681731,
         102191581,
@@ -128,7 +131,7 @@
         }
     ],
     "wof:id":1108830109,
-    "wof:lastmodified":1564162769,
+    "wof:lastmodified":1566611625,
     "wof:name":"Affligem",
     "wof:parent_id":102049973,
     "wof:placetype":"localadmin",

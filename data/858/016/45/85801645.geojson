@@ -5,13 +5,15 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":3863273.413994,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.51618,50.640427,5.51618,50.640427",
     "geom:latitude":50.640427,
     "geom:longitude":5.51618,
     "iso:country":"BE",
+    "lbl:bbox":"5.51118,50.635427,5.52118,50.645427",
     "lbl:latitude":50.640427,
     "lbl:longitude":5.51618,
+    "lbl:max_zoom":18.0,
     "mps:latitude":50.645932,
     "mps:longitude":5.464844,
     "mz:hierarchy_label":0,
@@ -59,9 +61,8 @@
     "name:ita_x_preferred":[
         "Saint-Nicolas"
     ],
-    "name:unk_x_variant":[
-        "Saint-Nicolas (Montegn\u00e9e)",
-        "Montegn\u00e9e"
+    "name:und_x_variant":[
+        "Saint-Nicolas (Montegn\u00e9e)"
     ],
     "qs:gn_adm0_cc":"BE",
     "qs:gn_fcode":"PPL",
@@ -93,14 +94,14 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
-        85681691,
         102191581,
         85632997,
         404227353,
         101748083,
-        102049941
+        102049941,
+        85681691
     ],
     "wof:breaches":[
         85801183
@@ -108,7 +109,6 @@
     "wof:concordances":{
         "gn:id":2790824,
         "gp:id":974533,
-        "qs:id":392948,
         "qs_pg:id":392948
     },
     "wof:country":"BE",
@@ -128,7 +128,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1531862090,
+    "wof:lastmodified":1566611091,
     "wof:name":"Montegn\u00e9e",
     "wof:parent_id":101748083,
     "wof:placetype":"neighbourhood",

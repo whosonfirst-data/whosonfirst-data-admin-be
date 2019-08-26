@@ -9,15 +9,18 @@
     "geom:bbox":"4.16629397249,50.8607697935,4.20442231763,50.881376716",
     "geom:latitude":50.872187,
     "geom:longitude":4.182661,
-    "geonames:id":"2785654,2785655",
+    "gn:id":"2785654,2785655",
     "gn:population":14569,
     "iso:country":"BE",
     "lbl:latitude":50.873108,
     "lbl:longitude":4.180784,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":50.873108,
     "mps:longitude":4.180784,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:bre_x_preferred":[
         "Ternat"
     ],
@@ -87,7 +90,7 @@
     "name:swe_x_preferred":[
         "Ternat"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ternath"
     ],
     "name:vie_x_preferred":[
@@ -119,7 +122,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":143,
     "wof:belongsto":[
@@ -134,7 +137,6 @@
     "wof:concordances":{
         "gn:id":2785654,
         "gp:id":977708,
-        "qs:id":4820,
         "qs_pg:id":4820,
         "wd:id":"Q930249"
     },
@@ -152,7 +154,7 @@
         }
     ],
     "wof:id":101755453,
-    "wof:lastmodified":1563235028,
+    "wof:lastmodified":1566611824,
     "wof:name":"Ternat",
     "wof:parent_id":1108830119,
     "wof:placetype":"locality",

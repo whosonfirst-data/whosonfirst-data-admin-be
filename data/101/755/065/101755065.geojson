@@ -13,10 +13,13 @@
     "iso:country":"BE",
     "lbl:latitude":50.336948,
     "lbl:longitude":4.530336,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":50.336948,
     "mps:longitude":4.530336,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:bre_x_preferred":[
         "Gerpinnes"
     ],
@@ -130,7 +133,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":126,
     "wof:belongsto":[
@@ -145,7 +148,6 @@
         "fct:id":"036ad11e-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2797598,
         "gp:id":970047,
-        "qs:id":1037895,
         "qs_pg:id":1037895,
         "wd:id":"Q666902"
     },
@@ -165,7 +167,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1563235015,
+    "wof:lastmodified":1566611819,
     "wof:name":"Gerpinnes",
     "wof:parent_id":102049927,
     "wof:placetype":"locality",

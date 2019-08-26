@@ -13,10 +13,13 @@
     "iso:country":"BE",
     "lbl:latitude":50.534378,
     "lbl:longitude":5.813968,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":50.534378,
     "mps:longitude":5.813968,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:bre_x_preferred":[
         "Theux"
     ],
@@ -95,7 +98,7 @@
     "name:spa_x_preferred":[
         "Theux"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Thieux"
     ],
     "name:vie_x_preferred":[
@@ -130,7 +133,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":145,
     "wof:belongsto":[
@@ -144,7 +147,6 @@
     "wof:concordances":{
         "gn:id":2785593,
         "gp:id":977739,
-        "qs:id":460487,
         "qs_pg:id":460487,
         "wd:id":"Q711079",
         "wk:page":"Theux"
@@ -162,7 +164,7 @@
         }
     ],
     "wof:id":101755151,
-    "wof:lastmodified":1563234996,
+    "wof:lastmodified":1566611811,
     "wof:name":"Theux",
     "wof:parent_id":102049935,
     "wof:placetype":"locality",

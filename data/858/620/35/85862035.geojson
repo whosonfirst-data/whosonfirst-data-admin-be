@@ -10,8 +10,10 @@
     "geom:latitude":51.047003,
     "geom:longitude":3.716889,
     "iso:country":"BE",
+    "lbl:bbox":"3.711889,51.042003,3.721889,51.052003",
     "lbl:latitude":51.047003,
     "lbl:longitude":3.716889,
+    "lbl:max_zoom":18.0,
     "mps:latitude":51.048902,
     "mps:longitude":3.712275,
     "mz:hierarchy_label":0,
@@ -54,7 +56,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191581,
         1108830083,
@@ -87,7 +89,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1561831363,
+    "wof:lastmodified":1566611078,
     "wof:name":"Ekkergem",
     "wof:parent_id":101748093,
     "wof:placetype":"neighbourhood",

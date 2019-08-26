@@ -12,10 +12,13 @@
     "iso:country":"BE",
     "lbl:latitude":51.206494,
     "lbl:longitude":3.313255,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":51.206494,
     "mps:longitude":3.313255,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Sijsele"
     ],
@@ -37,7 +40,7 @@
     "name:swe_x_preferred":[
         "Sijsele"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Sysseele"
     ],
     "name:vls_x_preferred":[
@@ -60,7 +63,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":59,
     "wof:belongsto":[
         85681709,
@@ -74,7 +77,6 @@
     "wof:concordances":{
         "gn:id":2786777,
         "gp:id":976917,
-        "qs:id":901019,
         "qs_pg:id":901019,
         "wd:id":"Q3110841",
         "wk:page":"Sijsele"
@@ -93,7 +95,7 @@
         }
     ],
     "wof:id":101808127,
-    "wof:lastmodified":1561831433,
+    "wof:lastmodified":1566611963,
     "wof:name":"Sijsele",
     "wof:parent_id":1108830063,
     "wof:placetype":"locality",

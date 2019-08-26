@@ -12,10 +12,13 @@
     "iso:country":"BE",
     "lbl:latitude":51.061077,
     "lbl:longitude":4.839161,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":51.061077,
     "mps:longitude":4.839161,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Westmeerbeek"
     ],
@@ -45,7 +48,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681715,
         102191581,
@@ -58,7 +61,6 @@
     "wof:concordances":{
         "gn:id":2783784,
         "gp:id":978827,
-        "qs:id":889146,
         "qs_pg:id":889146,
         "wd:id":"Q2542974"
     },
@@ -76,7 +78,7 @@
         }
     ],
     "wof:id":101755839,
-    "wof:lastmodified":1561831406,
+    "wof:lastmodified":1566611849,
     "wof:name":"Westmeerbeek",
     "wof:parent_id":1108830503,
     "wof:placetype":"locality",

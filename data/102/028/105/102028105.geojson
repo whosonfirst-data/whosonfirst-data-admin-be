@@ -14,10 +14,13 @@
     "iso:country":"BE",
     "lbl:latitude":50.814613,
     "lbl:longitude":3.213501,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.814613,
     "mps:longitude":3.213501,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bod_x_preferred":[
         "B\u00eacun"
     ],
@@ -117,7 +120,7 @@
     "name:ukr_x_preferred":[
         "BI"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Bicun"
     ],
     "name:vie_x_preferred":[
@@ -141,7 +144,7 @@
     "qs:source":"Nquattroshapes",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":303,
     "wof:belongsto":[
         85681709,
@@ -172,7 +175,7 @@
         }
     ],
     "wof:id":102028105,
-    "wof:lastmodified":1527637784,
+    "wof:lastmodified":1566610951,
     "wof:name":"Bi",
     "wof:parent_id":1108830127,
     "wof:placetype":"locality",

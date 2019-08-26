@@ -12,6 +12,7 @@
     "iso:country":"BE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":13.0,
     "name:ceb_x_preferred":[
         "Wevelgem Airport"
     ],
@@ -84,7 +85,7 @@
         }
     ],
     "wof:id":102546427,
-    "wof:lastmodified":1563233750,
+    "wof:lastmodified":1566610953,
     "wof:name":"Kortrijk Wevelgem Airport",
     "wof:parent_id":-1,
     "wof:placetype":"campus",

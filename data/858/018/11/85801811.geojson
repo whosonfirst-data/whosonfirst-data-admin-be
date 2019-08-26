@@ -11,8 +11,10 @@
     "geom:longitude":4.493065,
     "gn:id":"",
     "iso:country":"BE",
+    "lbl:bbox":"4.488065,50.811462,4.498065,50.821462",
     "lbl:latitude":50.816462,
     "lbl:longitude":4.493065,
+    "lbl:max_zoom":18.0,
     "mps:latitude":50.801325,
     "mps:longitude":4.487177,
     "mz:hierarchy_label":0,
@@ -47,9 +49,6 @@
         "Ravenstein"
     ],
     "name:swe_x_preferred":[
-        "Ravenstein"
-    ],
-    "name:unk_x_variant":[
         "Ravenstein"
     ],
     "qs:gn_id":0,
@@ -92,7 +91,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":976083,
-        "qs:id":1103948,
         "qs_pg:id":1103948
     },
     "wof:country":"BE",
@@ -113,7 +111,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1566247566,
+    "wof:lastmodified":1566611086,
     "wof:name":"Ravenstein",
     "wof:parent_id":101754329,
     "wof:placetype":"neighbourhood",

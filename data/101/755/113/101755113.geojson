@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001113,
-    "geom:area_square_m":8770456.134445,
+    "geom:area_square_m":8770456.134446,
     "geom:bbox":"4.83999460289,50.3921922466,4.88912370829,50.4369470757",
     "geom:latitude":50.418747,
     "geom:longitude":4.865581,
     "iso:country":"BE",
     "lbl:latitude":50.423374,
     "lbl:longitude":4.865761,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.423374,
     "mps:longitude":4.865761,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Belgi\u00eb#Belgique#Belgien",
     "qs:a1":"*Namur",
     "qs:a1r":"0R\u00e9gion wallone",
@@ -30,7 +34,7 @@
     "qs:type":"suburbs point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681699,
         102191581,
@@ -41,10 +45,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":978783,
-        "qs:id":6
+        "qs_pg:id":6
     },
     "wof:country":"BE",
-    "wof:geomhash":"412af8b6d8eb7d5f3514414cd01692ad",
+    "wof:geomhash":"97ad57aaea14f07d1ecec974fba0d689",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":101755113,
-    "wof:lastmodified":1479887919,
+    "wof:lastmodified":1566611855,
     "wof:name":"Fooz",
     "wof:parent_id":102049931,
     "wof:placetype":"locality",

@@ -9,14 +9,17 @@
     "geom:bbox":"3.9420408266,50.9063924062,3.98609705685,50.9484019991",
     "geom:latitude":50.925841,
     "geom:longitude":3.963592,
-    "geonames:id":"2791317,2791318",
+    "gn:id":"2791317,2791318",
     "iso:country":"BE",
     "lbl:latitude":50.932286,
     "lbl:longitude":3.960245,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.932286,
     "mps:longitude":3.960245,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Mere"
     ],
@@ -41,7 +44,7 @@
     "name:swe_x_preferred":[
         "Mere"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Meire"
     ],
     "qs:a0":"Belgi\u00eb#Belgique#Belgien",
@@ -61,7 +64,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:elevation":0.0,
     "wd:latitude":50.9228,
     "wd:longitude":3.9714,
@@ -78,7 +81,6 @@
     "wof:concordances":{
         "gn:id":2791317,
         "gp:id":974213,
-        "qs:id":297737,
         "qs_pg:id":297737,
         "wd:id":"Q985789",
         "wk:page":"Mere, Belgium"
@@ -97,7 +99,7 @@
         }
     ],
     "wof:id":101755339,
-    "wof:lastmodified":1563234992,
+    "wof:lastmodified":1566611810,
     "wof:name":"Mere",
     "wof:parent_id":1108830215,
     "wof:placetype":"locality",

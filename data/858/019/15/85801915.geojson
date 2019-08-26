@@ -13,6 +13,7 @@
     "iso:country":"BE",
     "lbl:latitude":51.223234,
     "lbl:longitude":3.196774,
+    "lbl:max_zoom":18.0,
     "mps:latitude":51.234335,
     "mps:longitude":3.200727,
     "mz:hierarchy_label":1,
@@ -32,9 +33,8 @@
     "name:nld_x_preferred":[
         "St.-Pieters Op de Dijk"
     ],
-    "name:unk_x_variant":[
-        "Saint Pierre-sur-la-Digue",
-        "St.-Pieters Op de Dijk"
+    "name:und_x_variant":[
+        "Saint Pierre-sur-la-Digue"
     ],
     "qs:gn_adm0_cc":"BE",
     "qs:gn_fcode":"PPL",
@@ -65,7 +65,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191581,
         1108830689,
@@ -80,7 +80,6 @@
         "fct:id":"036e08fc-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2786558,
         "gp:id":977281,
-        "qs:id":1104098,
         "qs_pg:id":1104098
     },
     "wof:country":"BE",
@@ -101,7 +100,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1561831367,
+    "wof:lastmodified":1566611097,
     "wof:name":"St.-Pieters Op de Dijk",
     "wof:parent_id":101748097,
     "wof:placetype":"neighbourhood",

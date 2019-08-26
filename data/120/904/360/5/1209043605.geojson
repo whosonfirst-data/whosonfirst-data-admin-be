@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Brussels",
     "iso:country":"BE",
+    "lbl:bbox":"4.82892,51.01197,4.86892,51.05197",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bak_x_preferred":[
         "\u0412\u0435\u043d\u0443\u0441\u0431\u0435\u0440\u0433"
     ],
@@ -69,7 +73,7 @@
         }
     ],
     "wof:id":1209043605,
-    "wof:lastmodified":1564162391,
+    "wof:lastmodified":1566611396,
     "wof:name":"Venusberg",
     "wof:parent_id":85632997,
     "wof:placetype":"locality",

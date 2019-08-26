@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Brussels",
     "iso:country":"BE",
+    "lbl:bbox":"3.62866,50.51765,3.66866,50.55765",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Wadelincourt"
     ],
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1242907337,
-    "wof:lastmodified":1564163485,
+    "wof:lastmodified":1566612344,
     "wof:name":"Wadelincourt",
     "wof:parent_id":102049949,
     "wof:placetype":"locality",

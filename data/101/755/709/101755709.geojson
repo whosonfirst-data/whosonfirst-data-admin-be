@@ -13,10 +13,13 @@
     "iso:country":"BE",
     "lbl:latitude":51.096116,
     "lbl:longitude":3.607723,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":51.096116,
     "mps:longitude":3.607723,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bre_x_preferred":[
         "Lovendegem"
     ],
@@ -130,7 +133,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":149,
     "wof:belongsto":[
@@ -146,7 +149,6 @@
         "fct:id":"036967ca-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2792057,
         "gp:id":973754,
-        "qs:id":805987,
         "qs_pg:id":805987,
         "wd:id":"Q840968"
     },
@@ -167,7 +169,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1563234993,
+    "wof:lastmodified":1566611810,
     "wof:name":"Lovendegem",
     "wof:parent_id":1108830071,
     "wof:placetype":"locality",

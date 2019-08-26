@@ -21,8 +21,11 @@
     "iso:country":"BE",
     "lbl:latitude":50.712394,
     "lbl:longitude":3.928671,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Bever"
     ],
@@ -74,7 +77,7 @@
     "reversegeo:latitude":50.712394,
     "reversegeo:longitude":3.928671,
     "src:geom":"begov",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681731,
         102191581,
@@ -98,7 +101,7 @@
         }
     ],
     "wof:id":1108830485,
-    "wof:lastmodified":1564162607,
+    "wof:lastmodified":1566611521,
     "wof:name":"Bever",
     "wof:parent_id":102049973,
     "wof:placetype":"localadmin",

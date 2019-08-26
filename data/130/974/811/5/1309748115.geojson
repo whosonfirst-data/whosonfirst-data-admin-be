@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Brussels",
     "iso:country":"BE",
+    "lbl:bbox":"3.70428,51.00028,3.74428,51.04028",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Zwynaerdschedries",
         "Zwijnaardsedries"
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1309748115,
-    "wof:lastmodified":1537586875,
+    "wof:lastmodified":1566612002,
     "wof:name":"Zwijnaardsedries",
     "wof:parent_id":1108830083,
     "wof:placetype":"locality",

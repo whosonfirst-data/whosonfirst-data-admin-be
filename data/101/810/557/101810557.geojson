@@ -13,10 +13,13 @@
     "iso:country":"BE",
     "lbl:latitude":50.760626,
     "lbl:longitude":4.166366,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":50.760626,
     "mps:longitude":4.166366,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bre_x_preferred":[
         "Pepingen"
     ],
@@ -89,7 +92,7 @@
     "name:tur_x_preferred":[
         "Pepingen"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Pepinghen"
     ],
     "name:vie_x_preferred":[
@@ -121,7 +124,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":79,
     "wof:belongsto":[
@@ -136,7 +139,6 @@
     "wof:concordances":{
         "gn:id":2789192,
         "gp:id":975500,
-        "qs:id":4662,
         "qs_pg:id":4662,
         "wd:id":"Q646037"
     },
@@ -154,7 +156,7 @@
         }
     ],
     "wof:id":101810557,
-    "wof:lastmodified":1563235215,
+    "wof:lastmodified":1566611879,
     "wof:name":"Pepingen",
     "wof:parent_id":1108830351,
     "wof:placetype":"locality",

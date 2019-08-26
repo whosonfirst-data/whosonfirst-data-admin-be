@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Brussels",
     "iso:country":"BE",
+    "lbl:bbox":"5.97538,50.35997,6.01538,50.39997",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bre_x_preferred":[
         "Beaumont"
     ],
@@ -161,7 +165,7 @@
         }
     ],
     "wof:id":1310236431,
-    "wof:lastmodified":1564162873,
+    "wof:lastmodified":1566611697,
     "wof:name":"Beaumont",
     "wof:parent_id":102049935,
     "wof:placetype":"locality",

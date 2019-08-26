@@ -12,10 +12,13 @@
     "iso:country":"BE",
     "lbl:latitude":50.423054,
     "lbl:longitude":4.624318,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.423054,
     "mps:longitude":4.624318,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0424\u0430\u043b\u0438\u0441\u043e\u043b\u0435"
     ],
@@ -43,7 +46,7 @@
     "name:swe_x_preferred":[
         "Falisolle"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Sambreville (Falisolle)"
     ],
     "name:urd_x_preferred":[
@@ -69,7 +72,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":259,
     "wof:belongsto":[
         85681699,
@@ -83,7 +86,6 @@
         "fct:id":"036aaffe-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2798501,
         "gp:id":969511,
-        "qs:id":345480,
         "qs_pg:id":345480,
         "wd:id":"Q1865805",
         "wk:page":"Falisolle"
@@ -104,7 +106,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1563234989,
+    "wof:lastmodified":1566611809,
     "wof:name":"Falisolle",
     "wof:parent_id":102049931,
     "wof:placetype":"locality",

@@ -13,10 +13,13 @@
     "iso:country":"BE",
     "lbl:latitude":50.67862,
     "lbl:longitude":5.462109,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":50.67862,
     "mps:longitude":5.462109,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bre_x_preferred":[
         "Awans"
     ],
@@ -124,7 +127,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":105,
     "wof:belongsto":[
@@ -139,7 +142,6 @@
         "fct:id":"036a1f9e-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2802849,
         "gp:id":966770,
-        "qs:id":256237,
         "qs_pg:id":256237,
         "wd:id":"Q680564",
         "wk:page":"Awans"
@@ -160,7 +162,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1563235044,
+    "wof:lastmodified":1566611828,
     "wof:name":"Awans",
     "wof:parent_id":102049941,
     "wof:placetype":"locality",

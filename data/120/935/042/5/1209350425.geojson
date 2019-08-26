@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Brussels",
     "iso:country":"BE",
+    "lbl:bbox":"5.63478,50.49686,5.67478,50.53686",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Ogn'e",
         "Ogn\u00e9e"
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":1209350425,
-    "wof:lastmodified":1537586953,
+    "wof:lastmodified":1566611386,
     "wof:name":"Ognee",
     "wof:parent_id":85632997,
     "wof:placetype":"locality",

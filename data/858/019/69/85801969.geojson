@@ -10,8 +10,10 @@
     "geom:latitude":51.276797,
     "geom:longitude":4.449411,
     "iso:country":"BE",
+    "lbl:bbox":"4.444411,51.271797,4.454411,51.281797",
     "lbl:latitude":51.276797,
     "lbl:longitude":4.449411,
+    "lbl:max_zoom":18.0,
     "mps:latitude":51.278825,
     "mps:longitude":4.463696,
     "mz:hierarchy_label":0,
@@ -27,9 +29,6 @@
         "Vriesdonk"
     ],
     "name:nld_x_preferred":[
-        "Vriesdonck"
-    ],
-    "name:unk_x_variant":[
         "Vriesdonck"
     ],
     "qs:gn_adm0_cc":"BE",
@@ -61,7 +60,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191581,
         1108830423,
@@ -93,7 +92,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1561831366,
+    "wof:lastmodified":1566611095,
     "wof:name":"Vriesdonck",
     "wof:parent_id":101748101,
     "wof:placetype":"neighbourhood",

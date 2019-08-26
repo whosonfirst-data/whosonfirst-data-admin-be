@@ -12,10 +12,13 @@
     "iso:country":"BE",
     "lbl:latitude":50.70298,
     "lbl:longitude":4.99148,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.70298,
     "mps:longitude":4.99148,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bre_x_preferred":[
         "Orp-le-Grand"
     ],
@@ -87,7 +90,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681693,
         102191581,
@@ -99,7 +102,6 @@
     "wof:concordances":{
         "gn:id":2789621,
         "gp:id":975232,
-        "qs:id":1159742,
         "qs_pg:id":1159742,
         "wd:id":"Q3356632"
     },
@@ -116,7 +118,7 @@
         }
     ],
     "wof:id":101810487,
-    "wof:lastmodified":1563235248,
+    "wof:lastmodified":1566611889,
     "wof:name":"Orp-le-Grand",
     "wof:parent_id":102049945,
     "wof:placetype":"locality",

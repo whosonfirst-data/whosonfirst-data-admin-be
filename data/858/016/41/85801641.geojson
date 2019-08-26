@@ -11,8 +11,10 @@
     "geom:longitude":3.769457,
     "gn:id":"",
     "iso:country":"BE",
+    "lbl:bbox":"3.764457,51.0657,3.774457,51.0757",
     "lbl:latitude":51.0707,
     "lbl:longitude":3.769457,
+    "lbl:max_zoom":18.0,
     "mps:latitude":51.081901,
     "mps:longitude":3.786826,
     "mz:hierarchy_label":0,
@@ -29,9 +31,6 @@
         "Mont-St Amand"
     ],
     "name:nld_x_preferred":[
-        "Mont-St. Amand"
-    ],
-    "name:unk_x_variant":[
         "Mont-St. Amand"
     ],
     "qs:gn_adm0_cc":"BE",
@@ -63,7 +62,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191581,
         1108830083,
@@ -76,7 +75,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":974524,
-        "qs:id":1103727,
         "qs_pg:id":1103727
     },
     "wof:country":"BE",
@@ -97,7 +95,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1561831365,
+    "wof:lastmodified":1566611092,
     "wof:name":"Mont-St. Amand",
     "wof:parent_id":101748093,
     "wof:placetype":"neighbourhood",

@@ -13,10 +13,13 @@
     "iso:country":"BE",
     "lbl:latitude":50.918753,
     "lbl:longitude":3.452081,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":50.918753,
     "mps:longitude":3.452081,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:bre_x_preferred":[
         "Zulte"
     ],
@@ -127,7 +130,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":136,
     "wof:belongsto":[
@@ -143,7 +146,6 @@
         "fct:id":"03692832-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2783151,
         "gp:id":979226,
-        "qs:id":187124,
         "qs_pg:id":187124,
         "wd:id":"Q228863"
     },
@@ -164,7 +166,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1563235011,
+    "wof:lastmodified":1566611818,
     "wof:name":"Zulte",
     "wof:parent_id":1108830563,
     "wof:placetype":"locality",

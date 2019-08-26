@@ -12,10 +12,13 @@
     "iso:country":"BE",
     "lbl:latitude":50.598703,
     "lbl:longitude":3.622796,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.598703,
     "mps:longitude":3.622796,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Leuze"
     ],
@@ -54,7 +57,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":43,
     "wof:belongsto":[
         85681723,
@@ -67,7 +70,6 @@
     "wof:concordances":{
         "gn:id":2792474,
         "gp:id":973507,
-        "qs:id":186935,
         "qs_pg:id":186935
     },
     "wof:country":"BE",
@@ -83,7 +85,7 @@
         }
     ],
     "wof:id":101810531,
-    "wof:lastmodified":1564163104,
+    "wof:lastmodified":1566611887,
     "wof:name":"Leuze",
     "wof:parent_id":102049951,
     "wof:placetype":"locality",

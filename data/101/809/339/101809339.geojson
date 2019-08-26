@@ -13,10 +13,13 @@
     "iso:country":"BE",
     "lbl:latitude":50.965091,
     "lbl:longitude":3.414195,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":50.965091,
     "mps:longitude":3.414195,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bre_x_preferred":[
         "Dentergem"
     ],
@@ -92,7 +95,7 @@
     "name:spa_x_preferred":[
         "Dentergem"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Denterghem"
     ],
     "name:vie_x_preferred":[
@@ -130,7 +133,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":76,
     "wof:belongsto":[
@@ -146,7 +149,6 @@
         "fct:id":"036990ba-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2799586,
         "gp:id":968903,
-        "qs:id":1077657,
         "qs_pg:id":1077657,
         "wd:id":"Q742906",
         "wk:page":"Dentergem"
@@ -168,7 +170,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1563235422,
+    "wof:lastmodified":1566611939,
     "wof:name":"Dentergem",
     "wof:parent_id":1108830197,
     "wof:placetype":"locality",

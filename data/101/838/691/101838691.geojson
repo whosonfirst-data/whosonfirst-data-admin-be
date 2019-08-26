@@ -13,10 +13,13 @@
     "iso:country":"BE",
     "lbl:latitude":50.802445,
     "lbl:longitude":5.355856,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":50.802445,
     "mps:longitude":5.355856,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:afr_x_preferred":[
         "Borgloon"
     ],
@@ -107,9 +110,6 @@
     "name:tha_x_preferred":[
         "\u0e1a\u0e2d\u0e23\u0e4c\u0e04\u0e42\u0e25\u0e19"
     ],
-    "name:unk_x_variant":[
-        "Looz"
-    ],
     "name:vie_x_preferred":[
         "Borgloon"
     ],
@@ -142,7 +142,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":102,
     "wof:belongsto":[
@@ -157,7 +157,6 @@
     "wof:concordances":{
         "gn:id":2801467,
         "gp:id":967621,
-        "qs:id":141525,
         "qs_pg:id":141525,
         "wd:id":"Q499609"
     },
@@ -175,7 +174,7 @@
         }
     ],
     "wof:id":101838691,
-    "wof:lastmodified":1563235407,
+    "wof:lastmodified":1566611933,
     "wof:name":"Borgloon",
     "wof:parent_id":1108830359,
     "wof:placetype":"locality",

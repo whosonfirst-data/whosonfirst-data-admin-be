@@ -12,10 +12,13 @@
     "iso:country":"BE",
     "lbl:latitude":50.921637,
     "lbl:longitude":4.319218,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.921637,
     "mps:longitude":4.319218,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bre_x_preferred":[
         "Boechout"
     ],
@@ -91,7 +94,7 @@
     "name:swe_x_preferred":[
         "Boechout"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Bouchout"
     ],
     "name:vie_x_preferred":[
@@ -121,7 +124,7 @@
     "qs:type":"suburbs point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681731,
         102191581,
@@ -134,7 +137,7 @@
     "wof:concordances":{
         "gn:id":2801743,
         "gp:id":967444,
-        "qs:id":5,
+        "qs_pg:id":5,
         "wd:id":"Q723822"
     },
     "wof:country":"BE",
@@ -151,7 +154,7 @@
         }
     ],
     "wof:id":101755477,
-    "wof:lastmodified":1563235006,
+    "wof:lastmodified":1566611816,
     "wof:name":"Boechout",
     "wof:parent_id":1108830553,
     "wof:placetype":"locality",

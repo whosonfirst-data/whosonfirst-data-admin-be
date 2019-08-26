@@ -13,10 +13,13 @@
     "iso:country":"BE",
     "lbl:latitude":49.781005,
     "lbl:longitude":5.237202,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":49.781005,
     "mps:longitude":5.237202,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bre_x_preferred":[
         "Herbeumont"
     ],
@@ -130,7 +133,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":146,
     "wof:belongsto":[
@@ -144,7 +147,6 @@
     "wof:concordances":{
         "gn:id":2796037,
         "gp:id":971015,
-        "qs:id":141503,
         "qs_pg:id":141503,
         "wd:id":"Q713353",
         "wk:page":"Herbeumont"
@@ -162,7 +164,7 @@
         }
     ],
     "wof:id":101812847,
-    "wof:lastmodified":1563235342,
+    "wof:lastmodified":1566611912,
     "wof:name":"Herbeumont",
     "wof:parent_id":102049913,
     "wof:placetype":"locality",

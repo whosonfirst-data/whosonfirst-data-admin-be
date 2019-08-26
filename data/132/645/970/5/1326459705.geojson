@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Brussels",
     "iso:country":"BE",
+    "lbl:bbox":"5.51568,50.63094,5.55568,50.67094",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "En Ster",
         "En Sterre"
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1326459705,
-    "wof:lastmodified":1537587042,
+    "wof:lastmodified":1566610847,
     "wof:name":"En Sterre",
     "wof:parent_id":102049941,
     "wof:placetype":"locality",

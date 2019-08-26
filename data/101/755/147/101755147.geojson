@@ -12,10 +12,13 @@
     "iso:country":"BE",
     "lbl:latitude":50.666641,
     "lbl:longitude":5.843895,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.666641,
     "mps:longitude":5.843895,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Thimister"
     ],
@@ -40,7 +43,7 @@
     "qs:type":"suburbs point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681691,
         102191581,
@@ -52,7 +55,7 @@
     "wof:concordances":{
         "gn:id":7732060,
         "gp:id":29374897,
-        "qs:id":911213,
+        "qs_pg:id":911213,
         "wd:id":"Q2369893"
     },
     "wof:country":"BE",
@@ -68,7 +71,7 @@
         }
     ],
     "wof:id":101755147,
-    "wof:lastmodified":1561831407,
+    "wof:lastmodified":1566611855,
     "wof:name":"Thimister",
     "wof:parent_id":102049935,
     "wof:placetype":"locality",

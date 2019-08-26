@@ -13,10 +13,13 @@
     "iso:country":"BE",
     "lbl:latitude":50.73479,
     "lbl:longitude":3.678386,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":50.73479,
     "mps:longitude":3.678386,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bre_x_preferred":[
         "Ellezelles"
     ],
@@ -98,9 +101,6 @@
     "name:swe_x_preferred":[
         "Ellezelles"
     ],
-    "name:unk_x_variant":[
-        "Elzele"
-    ],
     "name:vie_x_preferred":[
         "Ellezelles"
     ],
@@ -127,7 +127,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":79,
     "wof:belongsto":[
@@ -142,7 +142,6 @@
         "fct:id":"03693886-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2798836,
         "gp:id":969336,
-        "qs:id":1037910,
         "qs_pg:id":1037910,
         "wd:id":"Q665992",
         "wk:page":"Ellezelles"
@@ -163,7 +162,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1563235374,
+    "wof:lastmodified":1566611922,
     "wof:name":"Ellezelles",
     "wof:parent_id":102049949,
     "wof:placetype":"locality",

@@ -5,17 +5,21 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0004,
-    "geom:area_square_m":3131735.335906,
+    "geom:area_square_m":3131735.335908,
     "geom:bbox":"3.83688127569,50.6724708908,3.87877960198,50.7272712191",
     "geom:latitude":50.697915,
     "geom:longitude":3.85457,
     "iso:country":"BE",
     "lbl:latitude":50.685307,
     "lbl:longitude":3.861811,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.685307,
     "mps:longitude":3.861811,
     "mz:hierarchy_label":1,
-    "name:unk_x_variant":[
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
+    "name:und_x_variant":[
         "Mouplan"
     ],
     "qs:a0":"Belgi\u00eb#Belgique#Belgien",
@@ -33,7 +37,7 @@
     "qs:type":"rural point-multi-in-poly-resolved",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681723,
         102191581,
@@ -45,7 +49,7 @@
     "wof:concordances":{
         "gn:id":2790599,
         "gp:id":975075,
-        "qs:id":1
+        "qs_pg:id":1
     },
     "wof:country":"BE",
     "wof:geomhash":"a0bbf2403e69b9c06a1eb32d359d53d4",
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":101839691,
-    "wof:lastmodified":1501264115,
+    "wof:lastmodified":1566611977,
     "wof:name":"Mouplon",
     "wof:parent_id":102049943,
     "wof:placetype":"locality",

@@ -13,10 +13,13 @@
     "iso:country":"BE",
     "lbl:latitude":49.606292,
     "lbl:longitude":5.480475,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":49.606292,
     "mps:longitude":5.480475,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bar_x_preferred":[
         "Meix-devant-Virton"
     ],
@@ -131,7 +134,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":98,
     "wof:belongsto":[
@@ -145,7 +148,6 @@
     "wof:concordances":{
         "gn:id":2791419,
         "gp:id":974155,
-        "qs:id":279137,
         "qs_pg:id":279137,
         "wd:id":"Q669134",
         "wk:page":"Meix-devant-Virton"
@@ -163,7 +165,7 @@
         }
     ],
     "wof:id":101812821,
-    "wof:lastmodified":1563235338,
+    "wof:lastmodified":1566611911,
     "wof:name":"Meix-devant-Virton",
     "wof:parent_id":102049907,
     "wof:placetype":"locality",

@@ -12,10 +12,13 @@
     "iso:country":"BE",
     "lbl:latitude":51.040488,
     "lbl:longitude":5.547667,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":51.040488,
     "mps:longitude":5.547667,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Belgi\u00eb#Belgique#Belgien",
     "qs:a1":"*Limburg",
     "qs:a1r":"0Vlaams Gewest",
@@ -31,7 +34,7 @@
     "qs:type":"rural point-multi-in-poly-resolved",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681705,
         102191581,
@@ -43,7 +46,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":12602291,
-        "qs:id":4
+        "qs_pg:id":4
     },
     "wof:country":"BE",
     "wof:geomhash":"7a56d1a5253b86d2289540fb5776e272",
@@ -59,7 +62,7 @@
         }
     ],
     "wof:id":101838813,
-    "wof:lastmodified":1499530898,
+    "wof:lastmodified":1566611931,
     "wof:name":"Nieuwe Kempen",
     "wof:parent_id":1108830279,
     "wof:placetype":"locality",

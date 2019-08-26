@@ -13,10 +13,13 @@
     "iso:country":"BE",
     "lbl:latitude":50.048625,
     "lbl:longitude":4.500747,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":50.048625,
     "mps:longitude":4.500747,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:bre_x_preferred":[
         "Couvin"
     ],
@@ -142,7 +145,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":135,
     "wof:belongsto":[
@@ -156,7 +159,6 @@
     "wof:concordances":{
         "gn:id":2800025,
         "gp:id":968525,
-        "qs:id":980336,
         "qs_pg:id":980336,
         "wd:id":"Q326771",
         "wk:page":"Couvin"
@@ -174,7 +176,7 @@
         }
     ],
     "wof:id":101811577,
-    "wof:lastmodified":1563235208,
+    "wof:lastmodified":1566611877,
     "wof:name":"Couvin",
     "wof:parent_id":102049917,
     "wof:placetype":"locality",

@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":10399767.843653,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.687073,50.588642,5.687073,50.588642",
     "geom:latitude":50.588642,
     "geom:longitude":5.687073,
     "gn:id":"",
     "iso:country":"BE",
+    "lbl:bbox":"5.682073,50.583642,5.692073,50.593642",
     "lbl:latitude":50.588642,
     "lbl:longitude":5.687073,
+    "lbl:max_zoom":18.0,
     "mps:latitude":50.587144,
     "mps:longitude":5.693155,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":16.0,
     "mz:tier_locality":3,
     "name:fra_x_preferred":[
-        "El' Heur"
-    ],
-    "name:unk_x_variant":[
         "El' Heur"
     ],
     "qs:gn_adm0_cc":"BE",
@@ -59,19 +58,18 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
-        85681691,
         102191581,
         85632997,
         404227353,
         101758521,
-        102049941
+        102049941,
+        85681691
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":969322,
-        "qs:id":262712,
         "qs_pg:id":262712
     },
     "wof:country":"BE",
@@ -91,7 +89,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1531862063,
+    "wof:lastmodified":1566611089,
     "wof:name":"El' Heur",
     "wof:parent_id":101758521,
     "wof:placetype":"neighbourhood",

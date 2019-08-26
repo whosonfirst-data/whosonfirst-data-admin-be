@@ -13,10 +13,13 @@
     "iso:country":"BE",
     "lbl:latitude":50.724735,
     "lbl:longitude":3.611191,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":50.724735,
     "mps:longitude":3.611191,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:afr_x_preferred":[
         "Ronse"
     ],
@@ -134,9 +137,6 @@
     "name:tur_x_preferred":[
         "Ronse"
     ],
-    "name:unk_x_variant":[
-        "Renaix"
-    ],
     "name:vie_x_preferred":[
         "Ronse"
     ],
@@ -167,7 +167,7 @@
     "qs:type":"rural point-multi-in-poly-resolved",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":1081,
     "wof:belongsto":[
@@ -183,7 +183,6 @@
         "fct:id":"036952da-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2787769,
         "gp:id":976405,
-        "qs:id":239970,
         "qs_pg:id":239970,
         "wd:id":"Q268219",
         "wk:page":"Ronse"
@@ -204,7 +203,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1563234795,
+    "wof:lastmodified":1566611689,
     "wof:name":"Ronse",
     "wof:parent_id":102049949,
     "wof:placetype":"locality",

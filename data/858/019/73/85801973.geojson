@@ -13,6 +13,7 @@
     "iso:country":"BE",
     "lbl:latitude":50.829781,
     "lbl:longitude":4.518323,
+    "lbl:max_zoom":18.0,
     "mps:latitude":50.832767,
     "mps:longitude":4.517425,
     "mz:hierarchy_label":0,
@@ -26,9 +27,6 @@
     "mz:tier_locality":1,
     "mz:tier_metro":30,
     "name:nld_x_preferred":[
-        "Vurenveld"
-    ],
-    "name:unk_x_variant":[
         "Vurenveld"
     ],
     "qs:gn_id":0,
@@ -70,7 +68,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":978547,
-        "qs:id":1104261,
         "qs_pg:id":1104261
     },
     "wof:country":"BE",
@@ -91,7 +88,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1566247559,
+    "wof:lastmodified":1566611096,
     "wof:name":"Vurenveld",
     "wof:parent_id":101754329,
     "wof:placetype":"neighbourhood",

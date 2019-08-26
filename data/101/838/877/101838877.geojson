@@ -12,10 +12,13 @@
     "iso:country":"BE",
     "lbl:latitude":51.178349,
     "lbl:longitude":3.742558,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":51.178349,
     "mps:longitude":3.742558,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0415\u0440\u0442\u0432\u0435\u043b\u0434\u0435"
     ],
@@ -54,7 +57,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":63,
     "wof:belongsto":[
         85681733,
@@ -68,7 +71,6 @@
     "wof:concordances":{
         "gn:id":2798652,
         "gp:id":969438,
-        "qs:id":1211058,
         "qs_pg:id":1211058,
         "wd:id":"Q2026366",
         "wk:page":"Ertvelde"
@@ -87,7 +89,7 @@
         }
     ],
     "wof:id":101838877,
-    "wof:lastmodified":1561831425,
+    "wof:lastmodified":1566611929,
     "wof:name":"Ertvelde",
     "wof:parent_id":1108830413,
     "wof:placetype":"locality",

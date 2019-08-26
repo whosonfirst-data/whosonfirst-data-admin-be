@@ -10,8 +10,10 @@
     "geom:latitude":50.610085,
     "geom:longitude":5.599482,
     "iso:country":"BE",
+    "lbl:bbox":"5.594482,50.605085,5.604482,50.615085",
     "lbl:latitude":50.610085,
     "lbl:longitude":5.599482,
+    "lbl:max_zoom":18.0,
     "mps:latitude":50.602849,
     "mps:longitude":5.601285,
     "mz:hierarchy_label":0,
@@ -53,9 +55,8 @@
     "name:swe_x_preferred":[
         "Angleur"
     ],
-    "name:unk_x_variant":[
-        "Li\u00e8ge (Angleur)",
-        "Angleur"
+    "name:und_x_variant":[
+        "Li\u00e8ge (Angleur)"
     ],
     "name:wln_x_preferred":[
         "Angleur"
@@ -90,7 +91,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":109,
     "wof:belongsto":[
         102191581,
@@ -104,7 +105,6 @@
     "wof:concordances":{
         "gn:id":2803183,
         "gp:id":966569,
-        "qs:id":1077898,
         "qs_pg:id":1077898,
         "wd:id":"Q540710",
         "wk:page":"Angleur"
@@ -126,7 +126,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1563233963,
+    "wof:lastmodified":1566611081,
     "wof:name":"Angleur",
     "wof:parent_id":101748083,
     "wof:placetype":"neighbourhood",

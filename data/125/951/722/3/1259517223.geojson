@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Brussels",
     "iso:country":"BE",
+    "lbl:bbox":"3.49667,51.14667,3.53667,51.18667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Kerselaer",
         "Kerselaar"
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1259517223,
-    "wof:lastmodified":1537587003,
+    "wof:lastmodified":1566612420,
     "wof:name":"Kerselaar",
     "wof:parent_id":1108830541,
     "wof:placetype":"locality",

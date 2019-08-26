@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Brussels",
     "iso:country":"BE",
+    "lbl:bbox":"5.46323,50.72536,5.50323,50.76536",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Diets-Heur"
     ],
@@ -42,8 +46,7 @@
     ],
     "name:und_x_variant":[
         "Heur-le-Tiexhe",
-        "Dietsch-Heur",
-        "Diets-Heur"
+        "Dietsch-Heur"
     ],
     "name:wln_x_preferred":[
         "Eur-li-T\u00eexhe"
@@ -76,7 +79,7 @@
         }
     ],
     "wof:id":1310036861,
-    "wof:lastmodified":1564162956,
+    "wof:lastmodified":1566611743,
     "wof:name":"Diets-Heur",
     "wof:parent_id":1108830031,
     "wof:placetype":"locality",

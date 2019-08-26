@@ -13,10 +13,13 @@
     "iso:country":"BE",
     "lbl:latitude":50.990974,
     "lbl:longitude":4.496987,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mps:latitude":50.990974,
     "mps:longitude":4.496987,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":8.0,
     "name:afr_x_preferred":[
         "Mechelen"
     ],
@@ -197,9 +200,6 @@
     "name:ukr_x_preferred":[
         "\u041c\u0435\u0445\u0435\u043b\u0435\u043d"
     ],
-    "name:unk_x_variant":[
-        "Malines"
-    ],
     "name:vie_x_preferred":[
         "Mechelen"
     ],
@@ -230,7 +230,7 @@
     "qs:type":"urban core",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":51.016667,
     "wd:longitude":4.466667,
@@ -248,7 +248,7 @@
         "fct:id":"036b85c8-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2791537,
         "gp:id":973897,
-        "qs:id":3,
+        "qs_pg:id":3,
         "wd:id":"Q162022",
         "wk:page":"Mechelen"
     },
@@ -266,7 +266,7 @@
         }
     ],
     "wof:id":101913271,
-    "wof:lastmodified":1563235317,
+    "wof:lastmodified":1566611904,
     "wof:name":"Mechelen",
     "wof:parent_id":1108830589,
     "wof:placetype":"locality",

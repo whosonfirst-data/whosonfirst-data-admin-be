@@ -12,11 +12,14 @@
     "iso:country":"BE",
     "lbl:latitude":50.932565,
     "lbl:longitude":4.15565,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.932565,
     "mps:longitude":4.15565,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":12.0,
+    "name:und_x_variant":[
         "Terheide"
     ],
     "qs:a0":"Belgi\u00eb#Belgique#Belgien",
@@ -34,7 +37,7 @@
     "qs:type":"suburbs point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681733,
         102191581,
@@ -48,7 +51,7 @@
     "wof:concordances":{
         "gn:id":2803017,
         "gp:id":966653,
-        "qs:id":5
+        "qs_pg:id":5
     },
     "wof:country":"BE",
     "wof:geomhash":"f92f6fe2b4669154026ca51653ff57b5",
@@ -64,7 +67,7 @@
         }
     ],
     "wof:id":1175610539,
-    "wof:lastmodified":1535390412,
+    "wof:lastmodified":1566611688,
     "wof:name":"Asse-Ter-Heide",
     "wof:parent_id":1108830515,
     "wof:placetype":"locality",

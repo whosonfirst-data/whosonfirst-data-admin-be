@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Brussels",
     "iso:country":"BE",
+    "lbl:bbox":"5.84667,50.61333,5.88667,50.65333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Plenesses",
         "Les Plenesses"
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1243484553,
-    "wof:lastmodified":1537586979,
+    "wof:lastmodified":1566612307,
     "wof:name":"Les Plenesses",
     "wof:parent_id":102049935,
     "wof:placetype":"locality",

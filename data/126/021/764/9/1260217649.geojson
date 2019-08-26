@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Brussels",
     "iso:country":"BE",
+    "lbl:bbox":"3.96333,50.69667,4.00333,50.73667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Hand-Kerselaare",
         "Hand Kerselare"
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1260217649,
-    "wof:lastmodified":1537587024,
+    "wof:lastmodified":1566611489,
     "wof:name":"Hand Kerselare",
     "wof:parent_id":1108830399,
     "wof:placetype":"locality",
