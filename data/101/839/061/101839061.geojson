@@ -12,10 +12,13 @@
     "iso:country":"BE",
     "lbl:latitude":51.365086,
     "lbl:longitude":4.462692,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":51.365086,
     "mps:longitude":4.462692,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Heide"
     ],
@@ -38,7 +41,7 @@
     "qs:type":"rural point-multi-in-poly-resolved",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":54.196111,
     "wd:longitude":9.093333,
     "wd:wordcount":255,
@@ -68,7 +71,7 @@
         }
     ],
     "wof:id":101839061,
-    "wof:lastmodified":1561831436,
+    "wof:lastmodified":1566611977,
     "wof:name":"Heide",
     "wof:parent_id":1108830415,
     "wof:placetype":"locality",

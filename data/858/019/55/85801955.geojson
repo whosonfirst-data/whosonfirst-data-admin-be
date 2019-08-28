@@ -13,6 +13,7 @@
     "iso:country":"BE",
     "lbl:latitude":50.818553,
     "lbl:longitude":4.429784,
+    "lbl:max_zoom":18.0,
     "mps:latitude":50.819817,
     "mps:longitude":4.427312,
     "mz:hierarchy_label":1,
@@ -29,9 +30,6 @@
         "Val Duchesse Hertoginnend"
     ],
     "name:nld_x_preferred":[
-        "Val Duchesse Hertoginnend"
-    ],
-    "name:unk_x_variant":[
         "Val Duchesse Hertoginnend"
     ],
     "qs:gn_id":0,
@@ -71,7 +69,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":978061,
-        "qs:id":1104170,
         "qs_pg:id":1104170
     },
     "wof:country":"BE",
@@ -91,7 +88,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1566247551,
+    "wof:lastmodified":1566611097,
     "wof:name":"Val Duchesse",
     "wof:parent_id":101751573,
     "wof:placetype":"neighbourhood",

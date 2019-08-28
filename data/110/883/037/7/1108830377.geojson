@@ -21,8 +21,11 @@
     "iso:country":"BE",
     "lbl:latitude":51.326951,
     "lbl:longitude":4.372288,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bel_x_preferred":[
         "\u0421\u0442\u0430\u0431\u0440\u0443\u043a"
     ],
@@ -101,7 +104,7 @@
     "reversegeo:latitude":51.326951,
     "reversegeo:longitude":4.372288,
     "src:geom":"begov",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681715,
         102191581,
@@ -125,7 +128,7 @@
         }
     ],
     "wof:id":1108830377,
-    "wof:lastmodified":1564162705,
+    "wof:lastmodified":1566611585,
     "wof:name":"Stabroek",
     "wof:parent_id":102050005,
     "wof:placetype":"localadmin",

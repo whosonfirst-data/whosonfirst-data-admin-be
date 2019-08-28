@@ -13,10 +13,13 @@
     "iso:country":"BE",
     "lbl:latitude":50.741067,
     "lbl:longitude":4.342674,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":50.741067,
     "mps:longitude":4.342674,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:afr_x_preferred":[
         "Sint-Genesius-Rode"
     ],
@@ -148,7 +151,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":529,
     "wof:belongsto":[
@@ -164,7 +167,6 @@
         "fct:id":"036c4a9e-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2786700,
         "gp:id":977173,
-        "qs:id":239976,
         "qs_pg:id":239976,
         "wd:id":"Q841597"
     },
@@ -185,7 +187,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1563235172,
+    "wof:lastmodified":1566611868,
     "wof:name":"Sint-Genesius-Rode",
     "wof:parent_id":1108830499,
     "wof:placetype":"locality",

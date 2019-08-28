@@ -10,8 +10,10 @@
     "geom:latitude":50.720111,
     "geom:longitude":5.722888,
     "iso:country":"BE",
+    "lbl:bbox":"5.717888,50.715111,5.727888,50.725111",
     "lbl:latitude":50.720111,
     "lbl:longitude":5.722888,
+    "lbl:max_zoom":18.0,
     "mps:latitude":50.721936,
     "mps:longitude":5.722658,
     "mz:hierarchy_label":0,
@@ -24,9 +26,6 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":1,
     "name:fra_x_preferred":[
-        "Wixhon"
-    ],
-    "name:unk_x_variant":[
         "Wixhon"
     ],
     "qs:gn_adm0_cc":"BE",
@@ -58,7 +57,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191581,
         85632997,
@@ -87,7 +86,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1561831364,
+    "wof:lastmodified":1566611084,
     "wof:name":"Wixhon",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

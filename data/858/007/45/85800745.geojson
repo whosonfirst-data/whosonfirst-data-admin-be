@@ -10,8 +10,10 @@
     "geom:latitude":51.035891,
     "geom:longitude":3.661513,
     "iso:country":"BE",
+    "lbl:bbox":"3.656513,51.030891,3.666513,51.040891",
     "lbl:latitude":51.035891,
     "lbl:longitude":3.661513,
+    "lbl:max_zoom":18.0,
     "mps:latitude":51.039386,
     "mps:longitude":3.661459,
     "mz:hierarchy_label":0,
@@ -50,9 +52,8 @@
     "name:swe_x_preferred":[
         "Afsnee"
     ],
-    "name:unk_x_variant":[
-        "Afsn\u00e9",
-        "Afsnee"
+    "name:und_x_variant":[
+        "Afsn\u00e9"
     ],
     "qs:gn_adm0_cc":"BE",
     "qs:gn_fcode":"PPL",
@@ -84,7 +85,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":39,
     "wof:belongsto":[
         102191581,
@@ -98,7 +99,6 @@
     "wof:concordances":{
         "gn:id":2803338,
         "gp:id":966480,
-        "qs:id":1074899,
         "qs_pg:id":1074899,
         "wd:id":"Q607749",
         "wk:page":"Afsnee"
@@ -121,7 +121,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1563233962,
+    "wof:lastmodified":1566611080,
     "wof:name":"Afsnee",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

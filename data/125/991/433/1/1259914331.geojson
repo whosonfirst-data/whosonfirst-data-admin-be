@@ -27,8 +27,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Brussels",
     "iso:country":"BE",
+    "lbl:bbox":"3.83114,50.4955,3.87114,50.5355",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Grande Vacresse",
         "Vaccresse"
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":1259914331,
-    "wof:lastmodified":1537586897,
+    "wof:lastmodified":1566612382,
     "wof:name":"Vacresse",
     "wof:parent_id":102049933,
     "wof:placetype":"locality",

@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Brussels",
     "iso:country":"BE",
+    "lbl:bbox":"3.74667,50.89667,3.78667,50.93667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Frankenkos",
         "Frankenbos"
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":1209243523,
-    "wof:lastmodified":1537587038,
+    "wof:lastmodified":1566611351,
     "wof:name":"Frankenbos",
     "wof:parent_id":85632997,
     "wof:placetype":"locality",

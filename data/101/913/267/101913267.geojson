@@ -5,17 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000119,
-    "geom:area_square_m":930621.077196,
+    "geom:area_square_m":930621.077197,
     "geom:bbox":"4.51343369901,50.7274641828,4.53222716343,50.7384921652",
     "geom:latitude":50.732746,
     "geom:longitude":4.523471,
     "iso:country":"BE",
     "lbl:latitude":50.732712,
     "lbl:longitude":4.524111,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.732712,
     "mps:longitude":4.524111,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Belgi\u00eb#Belgique#Belgien",
     "qs:a1":"*Vlaams Brabant",
     "qs:a1r":"0Vlaams Gewest",
@@ -31,7 +34,7 @@
     "qs:type":"suburbs point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681731,
         102191581,
@@ -43,7 +46,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":29374923,
-        "qs:id":1
+        "qs_pg:id":1
     },
     "wof:country":"BE",
     "wof:geomhash":"2a7fd1f72aeaee0a4e7ec169d28a4113",
@@ -59,7 +62,7 @@
         }
     ],
     "wof:id":101913267,
-    "wof:lastmodified":1499531280,
+    "wof:lastmodified":1566611900,
     "wof:name":"Grand Cortil",
     "wof:parent_id":1108830581,
     "wof:placetype":"locality",

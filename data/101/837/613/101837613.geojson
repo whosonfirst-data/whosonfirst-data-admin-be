@@ -13,10 +13,13 @@
     "iso:country":"BE",
     "lbl:latitude":51.32269,
     "lbl:longitude":4.949761,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":51.32269,
     "mps:longitude":4.949761,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:ara_x_preferred":[
         "\u062a\u0648\u0631\u0646\u0647\u0627\u0648\u062a"
     ],
@@ -187,7 +190,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85681715,
@@ -202,7 +205,6 @@
         "fct:id":"036c7d52-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2785141,
         "gp:id":978020,
-        "qs:id":918089,
         "qs_pg:id":918089,
         "wd:id":"Q271783",
         "wk:page":"Turnhout"
@@ -224,7 +226,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1563235489,
+    "wof:lastmodified":1566611961,
     "wof:name":"Turnhout",
     "wof:parent_id":1108830691,
     "wof:placetype":"locality",

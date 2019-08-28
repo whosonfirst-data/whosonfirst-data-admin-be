@@ -13,10 +13,13 @@
     "iso:country":"BE",
     "lbl:latitude":50.665432,
     "lbl:longitude":5.397176,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":50.665432,
     "mps:longitude":5.397176,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bre_x_preferred":[
         "Fexhe-le-Haut-Clocher"
     ],
@@ -127,7 +130,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":95,
     "wof:belongsto":[
@@ -142,7 +145,6 @@
         "fct:id":"036ab468-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2798357,
         "gp:id":969598,
-        "qs:id":1037908,
         "qs_pg:id":1037908,
         "wd:id":"Q379113",
         "wk:page":"Fexhe-le-Haut-Clocher"
@@ -163,7 +165,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1563235250,
+    "wof:lastmodified":1566611889,
     "wof:name":"Fexhe-le-Haut-Clocher",
     "wof:parent_id":102049937,
     "wof:placetype":"locality",

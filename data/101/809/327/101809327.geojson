@@ -12,10 +12,13 @@
     "iso:country":"BE",
     "lbl:latitude":50.995662,
     "lbl:longitude":3.420598,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.995662,
     "mps:longitude":3.420598,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0410\u0430\u0440\u0441\u0435\u043b\u0435"
     ],
@@ -43,9 +46,6 @@
     "name:swe_x_preferred":[
         "Aarsele"
     ],
-    "name:unk_x_variant":[
-        "Aerseele"
-    ],
     "name:vls_x_preferred":[
         "Oarsele"
     ],
@@ -66,7 +66,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":50.9964,
     "wd:longitude":3.4211,
     "wd:wordcount":477,
@@ -83,7 +83,6 @@
         "fct:id":"036a0568-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2803427,
         "gp:id":966428,
-        "qs:id":1074469,
         "qs_pg:id":1074469,
         "wd:id":"Q2750562",
         "wk:page":"Aarsele"
@@ -105,7 +104,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1563235461,
+    "wof:lastmodified":1566611953,
     "wof:name":"Aarsele",
     "wof:parent_id":1108830265,
     "wof:placetype":"locality",

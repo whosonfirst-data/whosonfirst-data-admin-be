@@ -12,6 +12,7 @@
     "iso:country":"BE",
     "lbl:latitude":50.885159,
     "lbl:longitude":4.445618,
+    "lbl:max_zoom":18.0,
     "mps:latitude":50.8833,
     "mps:longitude":4.449324,
     "mz:hierarchy_label":0,
@@ -25,9 +26,6 @@
     "mz:tier_locality":2,
     "mz:tier_metro":30,
     "name:nld_x_preferred":[
-        "Dieghem"
-    ],
-    "name:unk_x_variant":[
         "Dieghem"
     ],
     "qs:gn_id":0,
@@ -88,7 +86,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1566247565,
+    "wof:lastmodified":1566611093,
     "wof:name":"Dieghem",
     "wof:parent_id":101913231,
     "wof:placetype":"neighbourhood",

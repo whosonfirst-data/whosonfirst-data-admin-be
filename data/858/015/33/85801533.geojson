@@ -5,13 +5,15 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":2834032.275845,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.60877,50.664497,5.60877,50.664497",
     "geom:latitude":50.664497,
     "geom:longitude":5.60877,
     "iso:country":"BE",
+    "lbl:bbox":"5.60377,50.659497,5.61377,50.669497",
     "lbl:latitude":50.664497,
     "lbl:longitude":5.60877,
+    "lbl:max_zoom":18.0,
     "mps:latitude":50.669616,
     "mps:longitude":5.60834,
     "mz:hierarchy_label":0,
@@ -27,9 +29,6 @@
         "La Prealle"
     ],
     "name:fra_x_preferred":[
-        "La Pr\u00e9alle"
-    ],
-    "name:unk_x_variant":[
         "La Pr\u00e9alle"
     ],
     "qs:gn_adm0_cc":"BE",
@@ -61,14 +60,14 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
-        85681691,
         102191581,
         85632997,
         404227353,
         101748083,
-        102049941
+        102049941,
+        85681691
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -91,7 +90,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1531862082,
+    "wof:lastmodified":1566611070,
     "wof:name":"La Pr\u00e9alle",
     "wof:parent_id":101748083,
     "wof:placetype":"neighbourhood",

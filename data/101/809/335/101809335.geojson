@@ -13,10 +13,13 @@
     "iso:country":"BE",
     "lbl:latitude":50.947812,
     "lbl:longitude":3.289555,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":50.947812,
     "mps:longitude":3.289555,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:bel_x_preferred":[
         "\u041c\u0451\u043b\u0435\u0431\u0435\u043a\u0435"
     ],
@@ -151,7 +154,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":110,
     "wof:belongsto":[
@@ -167,7 +170,6 @@
         "fct:id":"036ba15c-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2791255,
         "gp:id":974253,
-        "qs:id":806045,
         "qs_pg:id":806045,
         "wd:id":"Q822783"
     },
@@ -188,7 +190,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1563235444,
+    "wof:lastmodified":1566611946,
     "wof:name":"Meulebeke",
     "wof:parent_id":1108830089,
     "wof:placetype":"locality",

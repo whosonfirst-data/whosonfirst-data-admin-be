@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Brussels",
     "iso:country":"BE",
+    "lbl:bbox":"5.81786,50.08847,5.85786,50.12847",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Houffalize (Tavigny)"
     ],
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1209251111,
-    "wof:lastmodified":1537586905,
+    "wof:lastmodified":1566611362,
     "wof:name":"Tavigny",
     "wof:parent_id":85632997,
     "wof:placetype":"locality",

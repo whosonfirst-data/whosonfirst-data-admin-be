@@ -5,13 +5,15 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":13616156.565297,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.472428,50.688954,5.472428,50.688954",
     "geom:latitude":50.688954,
     "geom:longitude":5.472428,
     "iso:country":"BE",
+    "lbl:bbox":"5.467428,50.683954,5.477428,50.693954",
     "lbl:latitude":50.688954,
     "lbl:longitude":5.472428,
+    "lbl:max_zoom":18.0,
     "mps:latitude":50.690443,
     "mps:longitude":5.466755,
     "mz:hierarchy_label":0,
@@ -24,9 +26,6 @@
     "mz:min_zoom":13.0,
     "mz:tier_locality":1,
     "name:fra_x_preferred":[
-        "Waroux"
-    ],
-    "name:unk_x_variant":[
         "Waroux"
     ],
     "qs:gn_adm0_cc":"BE",
@@ -58,7 +57,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191581,
         85632997,
@@ -87,7 +86,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1531862113,
+    "wof:lastmodified":1566611097,
     "wof:name":"Waroux",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

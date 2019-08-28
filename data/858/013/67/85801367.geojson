@@ -5,13 +5,15 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":2456353.488598,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.576951,50.610946,5.576951,50.610946",
     "geom:latitude":50.610946,
     "geom:longitude":5.576951,
     "iso:country":"BE",
+    "lbl:bbox":"5.571951,50.605946,5.581951,50.615946",
     "lbl:latitude":50.610946,
     "lbl:longitude":5.576951,
+    "lbl:max_zoom":18.0,
     "mps:latitude":50.607158,
     "mps:longitude":5.578178,
     "mz:hierarchy_label":0,
@@ -24,9 +26,6 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":3,
     "name:fra_x_preferred":[
-        "Kinkempois"
-    ],
-    "name:unk_x_variant":[
         "Kinkempois"
     ],
     "qs:gn_adm0_cc":"BE",
@@ -59,20 +58,19 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
-        85681691,
         102191581,
         85632997,
         404227353,
         101748083,
-        102049941
+        102049941,
+        85681691
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2794447,
         "gp:id":972037,
-        "qs:id":1141324,
         "qs_pg:id":1141324
     },
     "wof:country":"BE",
@@ -92,7 +90,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1531862078,
+    "wof:lastmodified":1566611076,
     "wof:name":"Kinkempois",
     "wof:parent_id":101748083,
     "wof:placetype":"neighbourhood",

@@ -12,11 +12,14 @@
     "iso:country":"BE",
     "lbl:latitude":51.024108,
     "lbl:longitude":4.72836,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":51.024108,
     "mps:longitude":4.72836,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":12.0,
+    "name:und_x_variant":[
         "Hazenbergen"
     ],
     "qs:a0":"Belgi\u00eb#Belgique#Belgien",
@@ -34,7 +37,7 @@
     "qs:type":"suburbs point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681715,
         102191581,
@@ -47,7 +50,7 @@
     "wof:concordances":{
         "gn:id":2796342,
         "gp:id":970935,
-        "qs:id":1
+        "qs_pg:id":1
     },
     "wof:country":"BE",
     "wof:geomhash":"3b0a878e87d2a19b18dfd146cc17f358",
@@ -63,7 +66,7 @@
         }
     ],
     "wof:id":101755635,
-    "wof:lastmodified":1501264133,
+    "wof:lastmodified":1566611824,
     "wof:name":"Hazebergen",
     "wof:parent_id":1108830023,
     "wof:placetype":"locality",

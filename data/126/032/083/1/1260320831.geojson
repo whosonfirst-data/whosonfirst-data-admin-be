@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Brussels",
     "iso:country":"BE",
+    "lbl:bbox":"4.09125,51.05714,4.13125,51.09714",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Meersiraat",
         "Meerstraat"
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1260320831,
-    "wof:lastmodified":1537586968,
+    "wof:lastmodified":1566611499,
     "wof:name":"Meerstraat",
     "wof:parent_id":1108830161,
     "wof:placetype":"locality",

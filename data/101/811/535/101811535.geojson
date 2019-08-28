@@ -13,10 +13,13 @@
     "iso:country":"BE",
     "lbl:latitude":49.912237,
     "lbl:longitude":5.566777,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":49.912237,
     "mps:longitude":5.566777,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bre_x_preferred":[
         "Vaux-sur-S\u00fbre"
     ],
@@ -89,7 +92,7 @@
     "name:spa_x_preferred":[
         "Vaux-sur-S\u00fbre"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Vaux-sur-S\u00fbre (Vaux-lez-Rosi\u00e8res)"
     ],
     "name:vie_x_preferred":[
@@ -125,7 +128,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":120,
     "wof:belongsto":[
@@ -139,9 +142,11 @@
     "wof:concordances":{
         "gn:id":2784994,
         "gp:id":978109,
-        "qs:id":1287621,
         "qs_pg:id":187082,
         "wd:id":"Q713864"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1287621
     },
     "wof:country":"BE",
     "wof:geomhash":"0b8335dd13d35391a4cfa1f754c1ea6d",
@@ -156,7 +161,7 @@
         }
     ],
     "wof:id":101811535,
-    "wof:lastmodified":1563235176,
+    "wof:lastmodified":1566611870,
     "wof:name":"Vaux-sur-S\u00fbre",
     "wof:parent_id":102049915,
     "wof:placetype":"locality",

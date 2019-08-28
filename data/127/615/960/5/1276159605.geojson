@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Brussels",
     "iso:country":"BE",
+    "lbl:bbox":"4.54348,50.70366,4.58348,50.74366",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Angoussart",
         "Angousart"
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1276159605,
-    "wof:lastmodified":1537587084,
+    "wof:lastmodified":1566611286,
     "wof:name":"Angousart",
     "wof:parent_id":102049945,
     "wof:placetype":"locality",

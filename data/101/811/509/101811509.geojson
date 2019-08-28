@@ -13,10 +13,13 @@
     "iso:country":"BE",
     "lbl:latitude":50.004699,
     "lbl:longitude":5.720645,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":50.004699,
     "mps:longitude":5.720645,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u0411\u0430\u0441\u0442\u043e\u043d\u044c"
     ],
@@ -140,9 +143,6 @@
     "name:ukr_x_preferred":[
         "\u0411\u0430\u0441\u0442\u043e\u043d\u044c"
     ],
-    "name:unk_x_variant":[
-        "Bastenaken"
-    ],
     "name:vie_x_preferred":[
         "Bastogne"
     ],
@@ -175,7 +175,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":50.004167,
     "wd:longitude":5.72,
@@ -192,7 +192,6 @@
         "fct:id":"036a2930-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2802583,
         "gp:id":966930,
-        "qs:id":219254,
         "qs_pg:id":219254,
         "wd:id":"Q34021",
         "wk:page":"Bastogne"
@@ -213,7 +212,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1563235193,
+    "wof:lastmodified":1566611873,
     "wof:name":"Bastogne",
     "wof:parent_id":102049915,
     "wof:placetype":"locality",

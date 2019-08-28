@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Brussels",
     "iso:country":"BE",
+    "lbl:bbox":"5.59362,50.20853,5.63362,50.24853",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "De Wate",
         "Le Wate"
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1343797157,
-    "wof:lastmodified":1537586978,
+    "wof:lastmodified":1566610989,
     "wof:name":"Le Wate",
     "wof:parent_id":102049921,
     "wof:placetype":"locality",

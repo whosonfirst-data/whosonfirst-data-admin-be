@@ -11,8 +11,10 @@
     "geom:longitude":5.658971,
     "gn:population":11608,
     "iso:country":"BE",
+    "lbl:bbox":"5.653971,50.614845,5.663971,50.624845",
     "lbl:latitude":50.619845,
     "lbl:longitude":5.658971,
+    "lbl:max_zoom":18.0,
     "mps:latitude":50.615731,
     "mps:longitude":5.655512,
     "mz:hierarchy_label":0,
@@ -99,9 +101,6 @@
     "name:swe_x_preferred":[
         "Beyne-Heusay"
     ],
-    "name:unk_x_variant":[
-        "Beyne-Heusay"
-    ],
     "name:vie_x_preferred":[
         "Beyne-Heusay"
     ],
@@ -147,7 +146,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "src:population":"geonames",
     "wd:wordcount":82,
     "wof:belongsto":[
@@ -162,7 +161,6 @@
     "wof:concordances":{
         "gn:id":2802015,
         "gp:id":967283,
-        "qs:id":471702,
         "qs_pg:id":471702,
         "wd:id":"Q681039",
         "wk:page":"Beyne-Heusay"
@@ -184,7 +182,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1563233968,
+    "wof:lastmodified":1566611082,
     "wof:name":"Beyne-Heusay",
     "wof:parent_id":101748083,
     "wof:placetype":"neighbourhood",

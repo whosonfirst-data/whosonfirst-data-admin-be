@@ -5,17 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000228,
-    "geom:area_square_m":1768115.800174,
+    "geom:area_square_m":1768115.800173,
     "geom:bbox":"4.84003057358,51.1684740738,4.87063231192,51.1867675091",
     "geom:latitude":51.177661,
     "geom:longitude":4.85336,
     "iso:country":"BE",
     "lbl:latitude":51.176327,
     "lbl:longitude":4.85081,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":51.176327,
     "mps:longitude":4.85081,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Belgi\u00eb#Belgique#Belgien",
     "qs:a1":"*Antwerpen",
     "qs:a1r":"0Vlaams Gewest",
@@ -31,7 +34,7 @@
     "qs:type":"suburbs point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681715,
         102191581,
@@ -43,7 +46,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":12602326,
-        "qs:id":6
+        "qs_pg:id":6
     },
     "wof:country":"BE",
     "wof:geomhash":"111559d84204eeb48dd080301213e82d",
@@ -59,7 +62,7 @@
         }
     ],
     "wof:id":101755803,
-    "wof:lastmodified":1499530585,
+    "wof:lastmodified":1566611822,
     "wof:name":"Diependaal",
     "wof:parent_id":1108830061,
     "wof:placetype":"locality",

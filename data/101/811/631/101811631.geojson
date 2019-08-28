@@ -13,10 +13,13 @@
     "iso:country":"BE",
     "lbl:latitude":50.292271,
     "lbl:longitude":5.6645,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":50.292271,
     "mps:longitude":5.6645,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bre_x_preferred":[
         "Manhay"
     ],
@@ -95,9 +98,6 @@
     "name:spa_x_preferred":[
         "Manhay"
     ],
-    "name:unk_x_variant":[
-        "Manh\u00e9"
-    ],
     "name:vie_x_preferred":[
         "Manhay"
     ],
@@ -130,7 +130,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":78,
     "wof:belongsto":[
@@ -144,7 +144,6 @@
     "wof:concordances":{
         "gn:id":2791790,
         "gp:id":973925,
-        "qs:id":564183,
         "qs_pg:id":564183,
         "wd:id":"Q713458",
         "wk:page":"Manhay"
@@ -162,7 +161,7 @@
         }
     ],
     "wof:id":101811631,
-    "wof:lastmodified":1563235204,
+    "wof:lastmodified":1566611876,
     "wof:name":"Manhay",
     "wof:parent_id":102049921,
     "wof:placetype":"locality",

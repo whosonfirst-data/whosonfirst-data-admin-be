@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Brussels",
     "iso:country":"BE",
+    "lbl:bbox":"3.69667,50.83,3.73667,50.87",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Heesstraat",
         "Eesstraat"
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1310637111,
-    "wof:lastmodified":1537587045,
+    "wof:lastmodified":1566611733,
     "wof:name":"Eesstraat",
     "wof:parent_id":1108830583,
     "wof:placetype":"locality",

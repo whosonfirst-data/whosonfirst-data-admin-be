@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Brussels",
     "iso:country":"BE",
+    "lbl:bbox":"5.11881,51.10917,5.15881,51.14917",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632997
@@ -37,7 +41,7 @@
         "gn:id":2797594
     },
     "wof:country":"BE",
-    "wof:geomhash":"0541483d9bb05ae702dc0ee7247a62bc",
+    "wof:geomhash":"bfb074bd8f200ab5b8703467017aceaa",
     "wof:hierarchy":[
         {
             "country_id":85632997,
@@ -45,7 +49,7 @@
         }
     ],
     "wof:id":1209351189,
-    "wof:lastmodified":1536289736,
+    "wof:lastmodified":1566611385,
     "wof:name":"Gervoort",
     "wof:parent_id":85632997,
     "wof:placetype":"locality",
@@ -55,9 +59,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    5.1388099999999985,
+    5.13881,
     51.12917,
-    5.1388099999999985,
+    5.13881,
     51.12917
 ],
   "geometry": {"coordinates":[5.13881,51.12917],"type":"Point"}

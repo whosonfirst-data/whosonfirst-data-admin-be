@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Brussels",
     "iso:country":"BE",
+    "lbl:bbox":"4.00244,51.22954,4.04244,51.26954",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Heikant"
     ],
@@ -39,8 +43,7 @@
         "Heikant"
     ],
     "name:und_x_variant":[
-        "Hiekant",
-        "Heikant"
+        "Hiekant"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -65,7 +68,7 @@
         }
     ],
     "wof:id":1310142009,
-    "wof:lastmodified":1564162899,
+    "wof:lastmodified":1566611713,
     "wof:name":"Heikant",
     "wof:parent_id":404474307,
     "wof:placetype":"locality",

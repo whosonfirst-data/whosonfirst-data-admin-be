@@ -9,14 +9,18 @@
     "geom:bbox":"2.92154,51.12045,2.92154,51.12045",
     "geom:latitude":51.12045,
     "geom:longitude":2.92154,
-    "gn:gn_country":"BE",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"BE",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"BE",
+    "lbl:bbox":"2.90154,51.10045,2.94154,51.14045",
     "lbl:latitude":51.12045,
     "lbl:longitude":2.92154,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bre_x_preferred":[
         "Zande"
@@ -45,7 +49,7 @@
     "name:swe_x_preferred":[
         "Zande"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "De Vlakte"
     ],
     "name:vls_x_preferred":[
@@ -70,7 +74,7 @@
     "qs_pg:woe_adm0":23424757,
     "qs_pg:woe_id":979097,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424757,
     "woe:name_adm0":"Belgique",
     "woe:name_adm1":"West-Vlaanderen",
@@ -105,7 +109,7 @@
         }
     ],
     "wof:id":1125793979,
-    "wof:lastmodified":1563236011,
+    "wof:lastmodified":1566612219,
     "wof:name":"Zande",
     "wof:parent_id":1108830305,
     "wof:placetype":"locality",

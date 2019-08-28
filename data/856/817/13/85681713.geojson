@@ -24,6 +24,7 @@
     ],
     "lbl:latitude":50.835819,
     "lbl:longitude":4.368897,
+    "lbl:min_zoom":8.0,
     "mps:latitude":50.835819,
     "mps:longitude":4.368897,
     "mz:hierarchy_label":1,
@@ -378,7 +379,7 @@
         "Brussels"
     ],
     "name:sin_x_preferred":[
-        "\u0db6\u0dca\u200d\u0dbb\u0dc3\u0dbd\u0dca\u0dc3\u0dca-\u0d9a\u0dd0\u0db4\u0dd2\u0da7\u0dbd\u0dca  \u0d9a\u0dbd\u0dcf\u0db4\u0dba"
+        "\u0db6\u0dca\u200d\u0dbb\u0dc3\u0dbd\u0dca\u0dc3\u0dca-\u0d9a\u0dd0\u0db4\u0dd2\u0da7\u0dbd\u0dca \u0d9a\u0dbd\u0dcf\u0db4\u0dba"
     ],
     "name:slk_x_preferred":[
         "Regi\u00f3n Brusel-hlavn\u00e9 mesto"
@@ -558,9 +559,9 @@
     "qs:source":"EuroGlobalMap",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-01-01",
+    "src:population_date":"2010-01-01",
     "statoids:area_km":"161",
     "statoids:area_mi":"62",
     "statoids:as_of_date":"2010-01-01",
@@ -610,7 +611,7 @@
         "fra",
         "deu"
     ],
-    "wof:lastmodified":1565814511,
+    "wof:lastmodified":1566611069,
     "wof:name":"Brussels-Capital Region",
     "wof:parent_id":404227355,
     "wof:placetype":"region",

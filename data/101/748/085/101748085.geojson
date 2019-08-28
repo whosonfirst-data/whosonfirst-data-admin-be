@@ -13,10 +13,13 @@
     "iso:country":"BE",
     "lbl:latitude":50.837035,
     "lbl:longitude":3.275675,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mps:latitude":50.837035,
     "mps:longitude":3.275675,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":8.0,
     "name:afr_x_preferred":[
         "Kortrijk"
     ],
@@ -259,7 +262,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":50.833333,
     "wd:longitude":3.266667,
@@ -278,7 +281,6 @@
         "gn:id":2794055,
         "gp:id":972288,
         "loc:id":"n79023208",
-        "qs:id":364174,
         "qs_pg:id":364174,
         "wd:id":"Q12995",
         "wk:page":"Kortrijk"
@@ -300,7 +302,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1563235268,
+    "wof:lastmodified":1566611894,
     "wof:name":"Kortrijk",
     "wof:parent_id":1108830299,
     "wof:placetype":"locality",

@@ -13,6 +13,7 @@
     "iso:country":"BE",
     "lbl:latitude":50.852112,
     "lbl:longitude":4.367682,
+    "lbl:max_zoom":18.0,
     "mps:latitude":50.849392,
     "mps:longitude":4.370842,
     "mz:hierarchy_label":1,
@@ -45,9 +46,8 @@
         "Sint-Joost-Ten-Node",
         "St-Joost-ten-Node"
     ],
-    "name:unk_x_variant":[
-        "Sint-Joost-ten-Node",
-        "St.-Joost-ten-Node"
+    "name:und_x_variant":[
+        "Sint-Joost-ten-Node"
     ],
     "qs:gn_adm0_cc":"BE",
     "qs:gn_fcode":"ADM4",
@@ -92,7 +92,6 @@
     "wof:concordances":{
         "gn:id":2787388,
         "gp:id":977217,
-        "qs:id":1087600,
         "qs_pg:id":1087600
     },
     "wof:country":"BE",
@@ -112,7 +111,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1566247550,
+    "wof:lastmodified":1566611097,
     "wof:name":"St.-Joost-ten-Node",
     "wof:parent_id":101751573,
     "wof:placetype":"neighbourhood",

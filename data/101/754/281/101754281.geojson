@@ -13,10 +13,13 @@
     "iso:country":"BE",
     "lbl:latitude":50.718699,
     "lbl:longitude":4.400749,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":50.718699,
     "mps:longitude":4.400749,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:afr_x_preferred":[
         "Waterloo"
     ],
@@ -223,7 +226,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":1950,
     "wof:belongsto":[
@@ -237,7 +240,6 @@
     "wof:concordances":{
         "gn:id":2783985,
         "gp:id":978708,
-        "qs:id":783877,
         "qs_pg:id":783877,
         "wd:id":"Q179034",
         "wk:page":"Waterloo, Belgium"
@@ -255,7 +257,7 @@
         }
     ],
     "wof:id":101754281,
-    "wof:lastmodified":1563235139,
+    "wof:lastmodified":1566611860,
     "wof:name":"Waterloo",
     "wof:parent_id":102049945,
     "wof:placetype":"locality",

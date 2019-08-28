@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Brussels",
     "iso:country":"BE",
+    "lbl:bbox":"3.49535,50.84337,3.53535,50.88337",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85681733,
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1310532235,
-    "wof:lastmodified":1536877632,
+    "wof:lastmodified":1566611722,
     "wof:name":"Boeregem",
     "wof:parent_id":1108830419,
     "wof:placetype":"locality",

@@ -5,13 +5,15 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":4734344.820788,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.61676,50.692284,5.61676,50.692284",
     "geom:latitude":50.692284,
     "geom:longitude":5.61676,
     "iso:country":"BE",
+    "lbl:bbox":"5.61176,50.687284,5.62176,50.697284",
     "lbl:latitude":50.692284,
     "lbl:longitude":5.61676,
+    "lbl:max_zoom":18.0,
     "mps:latitude":50.696458,
     "mps:longitude":5.600281,
     "mz:hierarchy_label":0,
@@ -26,9 +28,8 @@
     "name:fra_x_preferred":[
         "Pontisse"
     ],
-    "name:unk_x_variant":[
-        "Bois-de-Pontisse",
-        "Pontisse"
+    "name:und_x_variant":[
+        "Bois-de-Pontisse"
     ],
     "qs:gn_adm0_cc":"BE",
     "qs:gn_fcode":"PPL",
@@ -60,20 +61,19 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
-        85681691,
         102191581,
         85632997,
         404227353,
         101748083,
-        102049941
+        102049941,
+        85681691
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2788739,
         "gp:id":975814,
-        "qs:id":771690,
         "qs_pg:id":771690
     },
     "wof:country":"BE",
@@ -93,7 +93,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1531862096,
+    "wof:lastmodified":1566611092,
     "wof:name":"Pontisse",
     "wof:parent_id":101748083,
     "wof:placetype":"neighbourhood",

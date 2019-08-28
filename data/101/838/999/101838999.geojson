@@ -5,17 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000396,
-    "geom:area_square_m":3071224.790754,
+    "geom:area_square_m":3071224.790753,
     "geom:bbox":"4.2040711765,51.1825556484,4.24319630455,51.2172023534",
     "geom:latitude":51.201457,
     "geom:longitude":4.226514,
     "iso:country":"BE",
     "lbl:latitude":51.211826,
     "lbl:longitude":4.235235,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":51.211826,
     "mps:longitude":4.235235,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Belgi\u00eb#Belgique#Belgien",
     "qs:a1":"*Oost-Vlanderen",
     "qs:a1r":"0Vlaams Gewest",
@@ -31,7 +34,7 @@
     "qs:type":"rural point-multi-in-poly-resolved",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681733,
         102191581,
@@ -43,7 +46,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":967272,
-        "qs:id":6
+        "qs_pg:id":6
     },
     "wof:country":"BE",
     "wof:geomhash":"4d9222d383857191e354f6108e63a243",
@@ -59,7 +62,7 @@
         }
     ],
     "wof:id":101838999,
-    "wof:lastmodified":1499531344,
+    "wof:lastmodified":1566611917,
     "wof:name":"Klaverenaas",
     "wof:parent_id":1108830621,
     "wof:placetype":"locality",

@@ -5,17 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000472,
-    "geom:area_square_m":3682294.789355,
+    "geom:area_square_m":3682294.789356,
     "geom:bbox":"5.44929123035,50.896000453,5.49324447127,50.9371052004",
     "geom:latitude":50.921305,
     "geom:longitude":5.469833,
     "iso:country":"BE",
     "lbl:latitude":50.929168,
     "lbl:longitude":5.474973,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.929168,
     "mps:longitude":5.474973,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Belgi\u00eb#Belgique#Belgien",
     "qs:a1":"*Limburg",
     "qs:a1r":"0Vlaams Gewest",
@@ -31,7 +34,7 @@
     "qs:type":"rural point-multi-in-poly-resolved",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681705,
         102191581,
@@ -43,7 +46,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":29374929,
-        "qs:id":2
+        "qs_pg:id":2
     },
     "wof:country":"BE",
     "wof:geomhash":"80f8b6ecd8f7371a8582d26c2ba33fc5",
@@ -59,7 +62,7 @@
         }
     ],
     "wof:id":101838793,
-    "wof:lastmodified":1499531412,
+    "wof:lastmodified":1566611928,
     "wof:name":"Kabergheide",
     "wof:parent_id":1108830655,
     "wof:placetype":"locality",

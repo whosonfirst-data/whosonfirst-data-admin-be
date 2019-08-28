@@ -11,8 +11,10 @@
     "geom:longitude":4.502102,
     "gn:id":"",
     "iso:country":"BE",
+    "lbl:bbox":"4.497102,50.87393,4.507102,50.88393",
     "lbl:latitude":50.87893,
     "lbl:longitude":4.502102,
+    "lbl:max_zoom":18.0,
     "mps:latitude":50.88433,
     "mps:longitude":4.50192,
     "mz:hierarchy_label":0,
@@ -35,9 +37,6 @@
         "Nossegem"
     ],
     "name:ron_x_preferred":[
-        "Nossegem"
-    ],
-    "name:unk_x_variant":[
         "Nossegem"
     ],
     "qs:gn_fcode":"PPL",
@@ -81,7 +80,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":974992,
-        "qs:id":1103806,
         "qs_pg:id":1103806
     },
     "wof:country":"BE",
@@ -102,7 +100,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1566247570,
+    "wof:lastmodified":1566611091,
     "wof:name":"Nossegem",
     "wof:parent_id":101754327,
     "wof:placetype":"neighbourhood",

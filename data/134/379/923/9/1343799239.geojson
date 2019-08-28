@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Brussels",
     "iso:country":"BE",
+    "lbl:bbox":"3.11447,51.06135,3.15447,51.10135",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Koorenbloem",
         "Koornbloem"
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1343799239,
-    "wof:lastmodified":1537586997,
+    "wof:lastmodified":1566610989,
     "wof:name":"Koornbloem",
     "wof:parent_id":1108830333,
     "wof:placetype":"locality",

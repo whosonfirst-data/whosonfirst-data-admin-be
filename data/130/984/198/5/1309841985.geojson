@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Brussels",
     "iso:country":"BE",
+    "lbl:bbox":"5.28179,49.90425,5.32179,49.94425",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Sp\u00e8che",
         "La Sp\u00e8ge"
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1309841985,
-    "wof:lastmodified":1537586986,
+    "wof:lastmodified":1566611988,
     "wof:name":"La Spege",
     "wof:parent_id":102049913,
     "wof:placetype":"locality",

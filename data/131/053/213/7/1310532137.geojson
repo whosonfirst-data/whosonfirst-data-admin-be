@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Brussels",
     "iso:country":"BE",
+    "lbl:bbox":"5.93042,50.64033,5.97042,50.68033",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Bruy\u00e8re",
         "La Bruy\u00e8re"
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1310532137,
-    "wof:lastmodified":1537586992,
+    "wof:lastmodified":1566611723,
     "wof:name":"La Bruyere",
     "wof:parent_id":102049935,
     "wof:placetype":"locality",

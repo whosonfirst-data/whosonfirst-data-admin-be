@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Brussels",
     "iso:country":"BE",
+    "lbl:bbox":"3.6385,50.84065,3.6785,50.88065",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Ose"
     ],
@@ -43,8 +47,7 @@
     "name:und_x_variant":[
         "Osse",
         "Oose",
-        "Oossche",
-        "Ose"
+        "Oossche"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -63,7 +66,7 @@
         }
     ],
     "wof:id":1209451829,
-    "wof:lastmodified":1564162433,
+    "wof:lastmodified":1566611420,
     "wof:name":"Ose",
     "wof:parent_id":85632997,
     "wof:placetype":"locality",

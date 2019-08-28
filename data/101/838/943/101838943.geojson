@@ -5,18 +5,21 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001174,
-    "geom:area_square_m":9095121.073603,
+    "geom:area_square_m":9095121.073601,
     "geom:bbox":"5.24200963201,51.1845764602,5.33951161029,51.2294835202",
     "geom:latitude":51.207873,
     "geom:longitude":5.29825,
     "iso:country":"BE",
     "lbl:latitude":51.201116,
     "lbl:longitude":5.315288,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":51.201116,
     "mps:longitude":5.315288,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":12.0,
+    "name:und_x_variant":[
         "Kattenbosch"
     ],
     "qs:a0":"Belgi\u00eb#Belgique#Belgien",
@@ -35,7 +38,7 @@
     "qs:type":"rural point-multi-in-poly-resolved",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681705,
         102191581,
@@ -48,7 +51,7 @@
     "wof:concordances":{
         "gn:id":2794649,
         "gp:id":971913,
-        "qs:id":1141317
+        "qs_pg:id":1141317
     },
     "wof:country":"BE",
     "wof:geomhash":"498523fda3674d0c62dc6c277a0a99ed",
@@ -64,7 +67,7 @@
         }
     ],
     "wof:id":101838943,
-    "wof:lastmodified":1501264129,
+    "wof:lastmodified":1566611937,
     "wof:name":"Kattenbos",
     "wof:parent_id":1108830169,
     "wof:placetype":"locality",

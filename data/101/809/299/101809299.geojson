@@ -13,10 +13,13 @@
     "iso:country":"BE",
     "lbl:latitude":50.974711,
     "lbl:longitude":3.013532,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":50.974711,
     "mps:longitude":3.013532,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:bre_x_preferred":[
         "Staden"
     ],
@@ -128,7 +131,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":502,
     "wof:belongsto":[
@@ -143,7 +146,6 @@
     "wof:concordances":{
         "gn:id":2786226,
         "gp:id":977317,
-        "qs:id":1037837,
         "qs_pg:id":1037837,
         "wd:id":"Q742876",
         "wk:page":"Staden"
@@ -162,7 +164,7 @@
         }
     ],
     "wof:id":101809299,
-    "wof:lastmodified":1563235460,
+    "wof:lastmodified":1566611953,
     "wof:name":"Staden",
     "wof:parent_id":1108830315,
     "wof:placetype":"locality",

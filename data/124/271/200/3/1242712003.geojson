@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Brussels",
     "iso:country":"BE",
+    "lbl:bbox":"4.79307,50.82486,4.83307,50.86486",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Bost"
     ],
@@ -85,7 +89,7 @@
         }
     ],
     "wof:id":1242712003,
-    "wof:lastmodified":1564163471,
+    "wof:lastmodified":1566612334,
     "wof:name":"Bost",
     "wof:parent_id":1108830471,
     "wof:placetype":"locality",

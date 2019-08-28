@@ -5,18 +5,21 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00026,
-    "geom:area_square_m":2025544.025088,
+    "geom:area_square_m":2025544.025087,
     "geom:bbox":"4.14123957876,50.9807115929,4.1705720972,51.011400404",
     "geom:latitude":50.997529,
     "geom:longitude":4.153182,
     "iso:country":"BE",
     "lbl:latitude":50.995528,
     "lbl:longitude":4.152184,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.995528,
     "mps:longitude":4.152184,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":12.0,
+    "name:und_x_variant":[
         "Heyside"
     ],
     "qs:a0":"Belgi\u00eb#Belgique#Belgien",
@@ -34,7 +37,7 @@
     "qs:type":"suburbs point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681733,
         102191581,
@@ -47,7 +50,7 @@
     "wof:concordances":{
         "gn:id":2796147,
         "gp:id":973177,
-        "qs:id":5
+        "qs_pg:id":5
     },
     "wof:country":"BE",
     "wof:geomhash":"f50bc9a0c6d5b4d0d083ac18a79569ea",
@@ -63,7 +66,7 @@
         }
     ],
     "wof:id":101755595,
-    "wof:lastmodified":1501264133,
+    "wof:lastmodified":1566611809,
     "wof:name":"Heizijde",
     "wof:parent_id":1108830479,
     "wof:placetype":"locality",

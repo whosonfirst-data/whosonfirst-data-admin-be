@@ -5,17 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000529,
-    "geom:area_square_m":4112475.90397,
+    "geom:area_square_m":4112475.903971,
     "geom:bbox":"3.5894486206,51.0247552228,3.64710207868,51.0489855142",
     "geom:latitude":51.03643,
     "geom:longitude":3.616497,
     "iso:country":"BE",
     "lbl:latitude":51.035347,
     "lbl:longitude":3.625907,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":51.035347,
     "mps:longitude":3.625907,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Belgi\u00eb#Belgique#Belgien",
     "qs:a1":"*Oost-Vlanderen",
     "qs:a1r":"0Vlaams Gewest",
@@ -31,7 +34,7 @@
     "qs:type":"suburbs point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681733,
         102191581,
@@ -43,7 +46,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":966788,
-        "qs:id":4
+        "qs_pg:id":4
     },
     "wof:country":"BE",
     "wof:geomhash":"cc66a73f00e762d5731f2c6576d59bf0",
@@ -59,7 +62,7 @@
         }
     ],
     "wof:id":101755677,
-    "wof:lastmodified":1499530630,
+    "wof:lastmodified":1566611844,
     "wof:name":"Ketulse",
     "wof:parent_id":1108830083,
     "wof:placetype":"locality",

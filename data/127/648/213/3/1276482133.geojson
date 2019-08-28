@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Brussels",
     "iso:country":"BE",
+    "lbl:bbox":"3.84557,51.15177,3.88557,51.19177",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Molenhoek"
     ],
@@ -76,7 +80,7 @@
         }
     ],
     "wof:id":1276482133,
-    "wof:lastmodified":1564162217,
+    "wof:lastmodified":1566611295,
     "wof:name":"Molenhoek",
     "wof:parent_id":1108830059,
     "wof:placetype":"locality",

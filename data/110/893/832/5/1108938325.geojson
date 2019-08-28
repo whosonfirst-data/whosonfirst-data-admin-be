@@ -10,9 +10,12 @@
     "geom:latitude":50.778188,
     "geom:longitude":4.372405,
     "iso:country":"BE",
+    "lbl:bbox":"4.36740533764,50.7731882537,4.37740533764,50.7831882537",
     "lbl:latitude":50.778188,
     "lbl:longitude":4.372405,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "mz:is_funky":0,
     "mz:is_hard_boundary":0,
     "mz:is_landuse_aoi":0,
@@ -23,7 +26,7 @@
     "name:dut_x_variant":[
         "Prins van Oranjewijk"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         102191581,
         85632997,
@@ -49,7 +52,7 @@
         }
     ],
     "wof:id":1108938325,
-    "wof:lastmodified":1497292334,
+    "wof:lastmodified":1566611506,
     "wof:name":"Prince d'Orange",
     "wof:parent_id":101913249,
     "wof:placetype":"neighbourhood",

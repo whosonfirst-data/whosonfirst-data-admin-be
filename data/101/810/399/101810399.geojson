@@ -12,17 +12,20 @@
     "iso:country":"BE",
     "lbl:latitude":50.50037,
     "lbl:longitude":4.80049,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.50037,
     "mps:longitude":4.80049,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Rhisnes"
     ],
     "name:fra_x_preferred":[
         "Rhisnes"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "La Bruy\u00e8re (Rhisnes)"
     ],
     "qs:a0":"Belgi\u00eb#Belgique#Belgien",
@@ -42,7 +45,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":29,
     "wof:belongsto":[
         85681699,
@@ -56,7 +59,6 @@
         "fct:id":"036c1556-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2788111,
         "gp:id":976207,
-        "qs:id":1077697,
         "qs_pg:id":1077697,
         "wd:id":"Q15729789"
     },
@@ -76,7 +78,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1563235215,
+    "wof:lastmodified":1566611879,
     "wof:name":"Rhisnes",
     "wof:parent_id":102049931,
     "wof:placetype":"locality",

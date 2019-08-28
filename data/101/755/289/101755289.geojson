@@ -5,18 +5,21 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000259,
-    "geom:area_square_m":2025293.877521,
+    "geom:area_square_m":2025293.87752,
     "geom:bbox":"3.36334865856,50.8122010491,3.38583702474,50.8319656317",
     "geom:latitude":50.822531,
     "geom:longitude":3.375261,
     "iso:country":"BE",
     "lbl:latitude":50.826001,
     "lbl:longitude":3.37509,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.826001,
     "mps:longitude":3.37509,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":12.0,
+    "name:und_x_variant":[
         "Saint Louis"
     ],
     "qs:a0":"Belgi\u00eb#Belgique#Belgien",
@@ -34,7 +37,7 @@
     "qs:type":"suburbs point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681709,
         102191581,
@@ -47,7 +50,7 @@
     "wof:concordances":{
         "gn:id":2786615,
         "gp:id":12602605,
-        "qs:id":5
+        "qs_pg:id":5
     },
     "wof:country":"BE",
     "wof:geomhash":"6a411915a21b5eb5250896717321618d",
@@ -63,7 +66,7 @@
         }
     ],
     "wof:id":101755289,
-    "wof:lastmodified":1501264107,
+    "wof:lastmodified":1566611815,
     "wof:name":"Sint-Lodewijk",
     "wof:parent_id":1108830557,
     "wof:placetype":"locality",

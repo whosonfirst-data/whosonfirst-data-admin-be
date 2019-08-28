@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Brussels",
     "iso:country":"BE",
+    "lbl:bbox":"4.37281,50.95853,4.41281,50.99853",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Sas",
         "'t Sas",
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":1293820169,
-    "wof:lastmodified":1537587018,
+    "wof:lastmodified":1566611154,
     "wof:name":"Het Sas",
     "wof:parent_id":1108830343,
     "wof:placetype":"locality",

@@ -12,10 +12,13 @@
     "iso:country":"BE",
     "lbl:latitude":51.295778,
     "lbl:longitude":4.680069,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":51.295778,
     "mps:longitude":4.680069,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bre_x_preferred":[
         "Westmalle"
     ],
@@ -43,7 +46,7 @@
     "name:swe_x_preferred":[
         "Westmalle"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Malle (Westmalle)"
     ],
     "qs:a0":"Belgi\u00eb#Belgique#Belgien",
@@ -64,7 +67,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":184,
     "wof:belongsto":[
         85681715,
@@ -79,7 +82,6 @@
         "fct:id":"036cb880-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2783786,
         "gp:id":978826,
-        "qs:id":886152,
         "qs_pg:id":886152,
         "wd:id":"Q3179602",
         "wk:page":"Westmalle"
@@ -101,7 +103,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1563235068,
+    "wof:lastmodified":1566611836,
     "wof:name":"Westmalle",
     "wof:parent_id":1108830005,
     "wof:placetype":"locality",

@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Brussels",
     "iso:country":"BE",
+    "lbl:bbox":"4.29857,50.90154,4.33857,50.94154",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0628\u0642\u0631"
     ],
@@ -153,8 +157,7 @@
     ],
     "name:und_x_variant":[
         "Gehucht-Bosch",
-        "Bosch",
-        "Bos"
+        "Bosch"
     ],
     "name:uzb_x_preferred":[
         "Buqalar"
@@ -189,7 +192,7 @@
         }
     ],
     "wof:id":1310235577,
-    "wof:lastmodified":1564162872,
+    "wof:lastmodified":1566611696,
     "wof:name":"Bos",
     "wof:parent_id":1108830553,
     "wof:placetype":"locality",

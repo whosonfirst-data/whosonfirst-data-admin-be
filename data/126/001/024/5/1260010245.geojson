@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Brussels",
     "iso:country":"BE",
+    "lbl:bbox":"3.8778,51.07772,3.9178,51.11772",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Zeveneeken-Hastelaere",
         "Hastelaar"
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1260010245,
-    "wof:lastmodified":1537587024,
+    "wof:lastmodified":1566611469,
     "wof:name":"Hastelaar",
     "wof:parent_id":1108830047,
     "wof:placetype":"locality",

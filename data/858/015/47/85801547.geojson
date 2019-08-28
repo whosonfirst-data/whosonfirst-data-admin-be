@@ -12,6 +12,7 @@
     "iso:country":"BE",
     "lbl:latitude":50.879596,
     "lbl:longitude":4.34922,
+    "lbl:max_zoom":18.0,
     "mps:latitude":50.878789,
     "mps:longitude":4.356356,
     "mz:hierarchy_label":1,
@@ -149,10 +150,6 @@
     "name:ukr_x_preferred":[
         "\u041b\u0430\u043a\u0435\u043d"
     ],
-    "name:unk_x_variant":[
-        "Laken",
-        "Laken"
-    ],
     "name:zho_x_preferred":[
         "\u62c9\u80af"
     ],
@@ -198,7 +195,6 @@
     "wof:concordances":{
         "gn:id":2793656,
         "gp:id":972842,
-        "qs:id":560936,
         "qs_pg:id":560936,
         "wd:id":"Q730506",
         "wk:page":"Laken"
@@ -220,7 +216,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1566247550,
+    "wof:lastmodified":1566611072,
     "wof:name":"Laeken",
     "wof:parent_id":101751573,
     "wof:placetype":"neighbourhood",

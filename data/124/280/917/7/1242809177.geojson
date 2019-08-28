@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Brussels",
     "iso:country":"BE",
+    "lbl:bbox":"4.40912,50.82389,4.44912,50.86389",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bre_x_preferred":[
         "Sint-Lambrechts-Woluwe"
     ],
@@ -140,9 +144,6 @@
     "name:ukr_x_preferred":[
         "\u0412\u043e\u043b\u044e\u0432\u0435-\u0421\u0435\u043d-\u041b\u0430\u043c\u0431\u0435\u0440"
     ],
-    "name:und_x_variant":[
-        "Sint-Lambrechts-Woluwe"
-    ],
     "name:vol_x_preferred":[
         "Sint-Lambrechts-Woluwe"
     ],
@@ -181,7 +182,7 @@
         }
     ],
     "wof:id":1242809177,
-    "wof:lastmodified":1564163395,
+    "wof:lastmodified":1566612290,
     "wof:name":"Woluwe-Saint-Lambert",
     "wof:parent_id":102049957,
     "wof:placetype":"locality",

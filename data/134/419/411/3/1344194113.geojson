@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Brussels",
     "iso:country":"BE",
+    "lbl:bbox":"6.16776,50.30818,6.20776,50.34818",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Meyrode",
         "Meyerode"
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1344194113,
-    "wof:lastmodified":1537586965,
+    "wof:lastmodified":1566611037,
     "wof:name":"Meyerode",
     "wof:parent_id":102049935,
     "wof:placetype":"locality",

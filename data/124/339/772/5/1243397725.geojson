@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Brussels",
     "iso:country":"BE",
+    "lbl:bbox":"3.06847,50.84717,3.10847,50.88717",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Sluyps-Kappelle",
         "Slypskappelle",
@@ -61,7 +65,7 @@
         }
     ],
     "wof:id":1243397725,
-    "wof:lastmodified":1537586913,
+    "wof:lastmodified":1566612285,
     "wof:name":"Slijpskappelle",
     "wof:parent_id":1108830667,
     "wof:placetype":"locality",

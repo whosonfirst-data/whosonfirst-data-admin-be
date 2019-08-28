@@ -13,10 +13,13 @@
     "iso:country":"BE",
     "lbl:latitude":50.32595,
     "lbl:longitude":4.163822,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":50.32595,
     "mps:longitude":4.163822,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bre_x_preferred":[
         "Merbes-le-Ch\u00e2teau"
     ],
@@ -118,7 +121,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":83,
     "wof:belongsto":[
@@ -133,7 +136,6 @@
         "fct:id":"0369767a-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2791329,
         "gp:id":974206,
-        "qs:id":141474,
         "qs_pg:id":141474,
         "wd:id":"Q668139",
         "wk:page":"Merbes-le-Ch\u00e2teau"
@@ -154,7 +156,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1563235202,
+    "wof:lastmodified":1566611876,
     "wof:name":"Merbes-le-Ch\u00e2teau",
     "wof:parent_id":102049923,
     "wof:placetype":"locality",

@@ -13,10 +13,13 @@
     "iso:country":"BE",
     "lbl:latitude":50.993357,
     "lbl:longitude":4.823552,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":50.993357,
     "mps:longitude":4.823552,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:bre_x_preferred":[
         "Aarschot"
     ],
@@ -125,7 +128,7 @@
     "name:tur_x_preferred":[
         "Aarschot"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Aerschot"
     ],
     "name:urd_x_preferred":[
@@ -160,7 +163,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":341,
     "wof:belongsto":[
@@ -175,7 +178,6 @@
     "wof:concordances":{
         "gn:id":2803429,
         "gp:id":966427,
-        "qs:id":239805,
         "qs_pg:id":239805,
         "wd:id":"Q273442",
         "wk:page":"Aarschot"
@@ -194,7 +196,7 @@
         }
     ],
     "wof:id":101754323,
-    "wof:lastmodified":1563235148,
+    "wof:lastmodified":1566611862,
     "wof:name":"Aarschot",
     "wof:parent_id":1108830355,
     "wof:placetype":"locality",

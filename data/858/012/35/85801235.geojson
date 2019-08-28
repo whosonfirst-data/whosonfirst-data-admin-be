@@ -10,8 +10,10 @@
     "geom:latitude":51.356353,
     "geom:longitude":4.427389,
     "iso:country":"BE",
+    "lbl:bbox":"4.422389,51.351353,4.432389,51.361353",
     "lbl:latitude":51.356353,
     "lbl:longitude":4.427389,
+    "lbl:max_zoom":18.0,
     "mps:latitude":51.351206,
     "mps:longitude":4.447719,
     "mz:hierarchy_label":0,
@@ -122,9 +124,6 @@
     "name:ukr_x_preferred":[
         "\u0413\u0430\u0439\u0434\u0435"
     ],
-    "name:unk_x_variant":[
-        "Heide"
-    ],
     "name:uzb_x_preferred":[
         "Heide"
     ],
@@ -167,7 +166,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191581,
         1108830243,
@@ -180,7 +179,6 @@
     "wof:concordances":{
         "gn:id":2796249,
         "gp:id":970860,
-        "qs:id":223045,
         "qs_pg:id":223045
     },
     "wof:country":"BE",
@@ -201,7 +199,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1564161849,
+    "wof:lastmodified":1566611072,
     "wof:name":"Heide",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

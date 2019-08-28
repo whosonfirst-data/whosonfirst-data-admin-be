@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Brussels",
     "iso:country":"BE",
+    "lbl:bbox":"5.37131,50.65543,5.41131,50.69543",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Streel"
     ],
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":1343696189,
-    "wof:lastmodified":1564161769,
+    "wof:lastmodified":1566611020,
     "wof:name":"Streel",
     "wof:parent_id":102049937,
     "wof:placetype":"locality",

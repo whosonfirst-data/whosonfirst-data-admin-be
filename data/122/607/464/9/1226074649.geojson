@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Brussels",
     "iso:country":"BE",
+    "lbl:bbox":"6.09667,50.34667,6.13667,50.38667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85681691,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1226074649,
-    "wof:lastmodified":1536683567,
+    "wof:lastmodified":1566612542,
     "wof:name":"Klosterhof",
     "wof:parent_id":102049935,
     "wof:placetype":"locality",

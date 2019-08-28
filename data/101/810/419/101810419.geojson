@@ -13,10 +13,13 @@
     "iso:country":"BE",
     "lbl:latitude":50.681058,
     "lbl:longitude":6.008678,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":50.681058,
     "mps:longitude":6.008678,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bre_x_preferred":[
         "Lontzen"
     ],
@@ -104,7 +107,7 @@
     "name:swe_x_preferred":[
         "Lontzen"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Sontzen"
     ],
     "name:vie_x_preferred":[
@@ -136,7 +139,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":95,
     "wof:belongsto":[
@@ -150,7 +153,6 @@
     "wof:concordances":{
         "gn:id":2792119,
         "gp:id":973716,
-        "qs:id":1087243,
         "qs_pg:id":1087243,
         "wd:id":"Q159958"
     },
@@ -167,7 +169,7 @@
         }
     ],
     "wof:id":101810419,
-    "wof:lastmodified":1563235244,
+    "wof:lastmodified":1566611888,
     "wof:name":"Lontzen",
     "wof:parent_id":102049935,
     "wof:placetype":"locality",

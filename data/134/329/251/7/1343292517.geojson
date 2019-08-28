@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Brussels",
     "iso:country":"BE",
+    "lbl:bbox":"5.05625,51.24464,5.09625,51.28464",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Sint-Peterskapel",
         "Sint Peeterskapel",
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":1343292517,
-    "wof:lastmodified":1537586914,
+    "wof:lastmodified":1566611046,
     "wof:name":"Sint-Pieterskapel",
     "wof:parent_id":1108830225,
     "wof:placetype":"locality",

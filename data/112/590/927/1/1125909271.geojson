@@ -9,14 +9,18 @@
     "geom:bbox":"4.23077,50.83272,4.23077,50.83272",
     "geom:latitude":50.83272,
     "geom:longitude":4.23077,
-    "gn:gn_country":"BE",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"BE",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"BE",
+    "lbl:bbox":"4.21077,50.81272,4.25077,50.85272",
     "lbl:latitude":50.83272,
     "lbl:longitude":4.23077,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Sint-Anna-Pede"
@@ -29,9 +33,6 @@
     ],
     "name:nld_x_preferred":[
         "Sint-Anna-Pede"
-    ],
-    "name:unk_x_variant":[
-        "Pede-Sainte-Anne"
     ],
     "qs_pg:aaroncc":"BE",
     "qs_pg:gn_country":"BE",
@@ -54,7 +55,7 @@
     "qs_pg:woe_adm0":23424757,
     "qs_pg:woe_id":977146,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424757,
     "woe:name_adm0":"Belgique",
     "woe:name_adm1":"Vlaams Brabant",
@@ -89,7 +90,7 @@
         }
     ],
     "wof:id":1125909271,
-    "wof:lastmodified":1563235858,
+    "wof:lastmodified":1566612144,
     "wof:name":"St.-Anna Pede",
     "wof:parent_id":1108830207,
     "wof:placetype":"locality",

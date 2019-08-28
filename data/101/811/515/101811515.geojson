@@ -13,10 +13,13 @@
     "iso:country":"BE",
     "lbl:latitude":50.285063,
     "lbl:longitude":5.917021,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":50.285063,
     "mps:longitude":5.917021,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bar_x_preferred":[
         "Vielsalm"
     ],
@@ -133,7 +136,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":974,
     "wof:belongsto":[
@@ -147,7 +150,6 @@
     "wof:concordances":{
         "gn:id":2784775,
         "gp:id":978248,
-        "qs:id":1205315,
         "qs_pg:id":1205315,
         "wd:id":"Q650172",
         "wk:page":"Vielsalm"
@@ -165,7 +167,7 @@
         }
     ],
     "wof:id":101811515,
-    "wof:lastmodified":1563235208,
+    "wof:lastmodified":1566611877,
     "wof:name":"Vielsalm",
     "wof:parent_id":102049915,
     "wof:placetype":"locality",

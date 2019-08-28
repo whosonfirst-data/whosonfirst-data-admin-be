@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Brussels",
     "iso:country":"BE",
+    "lbl:bbox":"5.03,50.98,5.07,51.02",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Roye",
         "Rooie"
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1343597399,
-    "wof:lastmodified":1537586931,
+    "wof:lastmodified":1566611006,
     "wof:name":"Rooie",
     "wof:parent_id":1108830307,
     "wof:placetype":"locality",

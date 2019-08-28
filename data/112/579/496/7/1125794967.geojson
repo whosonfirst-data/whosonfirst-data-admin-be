@@ -9,14 +9,18 @@
     "geom:bbox":"2.7326,50.97118,2.7326,50.97118",
     "geom:latitude":50.97118,
     "geom:longitude":2.7326,
-    "gn:gn_country":"BE",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"BE",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"BE",
+    "lbl:bbox":"2.7126,50.95118,2.7526,50.99118",
     "lbl:latitude":50.97118,
     "lbl:longitude":2.7326,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bul_x_preferred":[
         "\u041f\u043e\u043b\u0438\u043d\u043a\u0445\u043e\u0432\u0435"
@@ -45,7 +49,7 @@
     "name:swe_x_preferred":[
         "Pollinkhove"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Pollinchove"
     ],
     "name:vls_x_preferred":[
@@ -72,7 +76,7 @@
     "qs_pg:woe_adm0":23424757,
     "qs_pg:woe_id":975772,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424757,
     "woe:name_adm0":"Belgique",
     "woe:name_adm1":"West-Vlaanderen",
@@ -107,7 +111,7 @@
         }
     ],
     "wof:id":1125794967,
-    "wof:lastmodified":1563236020,
+    "wof:lastmodified":1566612223,
     "wof:name":"Pollinkhove",
     "wof:parent_id":1108830073,
     "wof:placetype":"locality",

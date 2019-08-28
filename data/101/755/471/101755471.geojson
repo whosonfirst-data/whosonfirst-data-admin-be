@@ -13,10 +13,13 @@
     "iso:country":"BE",
     "lbl:latitude":50.935761,
     "lbl:longitude":4.326599,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":50.935761,
     "mps:longitude":4.326599,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:bre_x_preferred":[
         "Meise"
     ],
@@ -101,7 +104,7 @@
     "name:ukr_x_preferred":[
         "\u041c\u0435\u0439\u0441\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Meysse"
     ],
     "name:vie_x_preferred":[
@@ -136,7 +139,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":198,
     "wof:belongsto":[
@@ -151,7 +154,6 @@
     "wof:concordances":{
         "gn:id":2791424,
         "gp:id":974153,
-        "qs:id":239963,
         "qs_pg:id":239963,
         "wd:id":"Q922260"
     },
@@ -169,7 +171,7 @@
         }
     ],
     "wof:id":101755471,
-    "wof:lastmodified":1563235001,
+    "wof:lastmodified":1566611813,
     "wof:name":"Meise",
     "wof:parent_id":1108830037,
     "wof:placetype":"locality",

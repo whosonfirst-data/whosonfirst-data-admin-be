@@ -13,10 +13,13 @@
     "iso:country":"BE",
     "lbl:latitude":50.556768,
     "lbl:longitude":5.673837,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":50.556768,
     "mps:longitude":5.673837,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bre_x_preferred":[
         "Trooz"
     ],
@@ -124,7 +127,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":187,
     "wof:belongsto":[
@@ -139,7 +142,6 @@
         "fct:id":"0369f9c4-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2785208,
         "gp:id":977967,
-        "qs:id":1250471,
         "qs_pg:id":1250471,
         "wd:id":"Q711205",
         "wk:page":"Trooz"
@@ -160,7 +162,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1563234993,
+    "wof:lastmodified":1566611811,
     "wof:name":"Trooz",
     "wof:parent_id":102049941,
     "wof:placetype":"locality",

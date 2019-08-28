@@ -5,13 +5,15 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":11802698.563185,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.704459,50.651073,5.704459,50.651073",
     "geom:latitude":50.651073,
     "geom:longitude":5.704459,
     "iso:country":"BE",
+    "lbl:bbox":"5.699459,50.646073,5.709459,50.656073",
     "lbl:latitude":50.651073,
     "lbl:longitude":5.704459,
+    "lbl:max_zoom":18.0,
     "mps:latitude":50.651073,
     "mps:longitude":5.704459,
     "mz:hierarchy_label":0,
@@ -26,9 +28,8 @@
     "name:fra_x_preferred":[
         "Queue-du-Bois"
     ],
-    "name:unk_x_variant":[
-        "Beyne-Heusay (Queue-du-Bois)",
-        "Queue-du-Bois"
+    "name:und_x_variant":[
+        "Beyne-Heusay (Queue-du-Bois)"
     ],
     "qs:gn_adm0_cc":"BE",
     "qs:gn_fcode":"PPL",
@@ -60,7 +61,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85632997,
@@ -72,7 +73,6 @@
     "wof:concordances":{
         "gn:id":2788453,
         "gp:id":975991,
-        "qs:id":1014112,
         "qs_pg:id":1014112
     },
     "wof:country":"BE",
@@ -89,7 +89,7 @@
         }
     ],
     "wof:id":85801807,
-    "wof:lastmodified":1531862097,
+    "wof:lastmodified":1566611086,
     "wof:name":"Queue-du-Bois",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -13,10 +13,13 @@
     "iso:country":"BE",
     "lbl:latitude":50.344137,
     "lbl:longitude":5.161211,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":50.344137,
     "mps:longitude":5.161211,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bre_x_preferred":[
         "Hamois"
     ],
@@ -121,7 +124,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":103,
     "wof:belongsto":[
@@ -135,7 +138,6 @@
     "wof:concordances":{
         "gn:id":2796627,
         "gp:id":970611,
-        "qs:id":1037894,
         "qs_pg:id":1037894,
         "wd:id":"Q696133",
         "wk:page":"Hamois"
@@ -153,7 +155,7 @@
         }
     ],
     "wof:id":101811585,
-    "wof:lastmodified":1563235206,
+    "wof:lastmodified":1566611877,
     "wof:name":"Hamois",
     "wof:parent_id":102049919,
     "wof:placetype":"locality",

@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Brussels",
     "iso:country":"BE",
+    "lbl:bbox":"5.60251,50.69662,5.64251,50.73662",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85681691,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1242608911,
-    "wof:lastmodified":1537017874,
+    "wof:lastmodified":1566612304,
     "wof:name":"Broux",
     "wof:parent_id":102049941,
     "wof:placetype":"locality",

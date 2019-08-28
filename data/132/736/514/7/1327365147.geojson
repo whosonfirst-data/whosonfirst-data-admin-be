@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Brussels",
     "iso:country":"BE",
+    "lbl:bbox":"4.28,51.03,4.32,51.07",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85681715,
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1327365147,
-    "wof:lastmodified":1536778526,
+    "wof:lastmodified":1566610835,
     "wof:name":"Letterheide",
     "wof:parent_id":1108830309,
     "wof:placetype":"locality",

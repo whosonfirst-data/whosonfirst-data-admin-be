@@ -13,10 +13,13 @@
     "iso:country":"BE",
     "lbl:latitude":50.503731,
     "lbl:longitude":4.107303,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":50.503731,
     "mps:longitude":4.107303,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bre_x_preferred":[
         "Le R\u0153ulx"
     ],
@@ -124,7 +127,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":105,
     "wof:belongsto":[
@@ -138,7 +141,6 @@
     "wof:concordances":{
         "gn:id":2787878,
         "gp:id":976346,
-        "qs:id":187028,
         "qs_pg:id":187028,
         "wd:id":"Q668861"
     },
@@ -155,7 +157,7 @@
         }
     ],
     "wof:id":101755221,
-    "wof:lastmodified":1563235007,
+    "wof:lastmodified":1566611816,
     "wof:name":"Le Roeulx",
     "wof:parent_id":102049943,
     "wof:placetype":"locality",

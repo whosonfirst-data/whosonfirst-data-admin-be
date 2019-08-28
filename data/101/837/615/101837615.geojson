@@ -13,10 +13,13 @@
     "iso:country":"BE",
     "lbl:latitude":51.194551,
     "lbl:longitude":5.119991,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":51.194551,
     "mps:longitude":5.119991,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:ara_x_preferred":[
         "\u0645\u0648\u0644\u060c \u0628\u0644\u062c\u064a\u0643\u0627"
     ],
@@ -137,7 +140,7 @@
     "name:ukr_x_preferred":[
         "\u041c\u043e\u043b"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Moll"
     ],
     "name:vie_x_preferred":[
@@ -169,7 +172,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":577,
     "wof:belongsto":[
@@ -184,7 +187,6 @@
     "wof:concordances":{
         "gn:id":2791067,
         "gp:id":974368,
-        "qs:id":141473,
         "qs_pg:id":141473,
         "wd:id":"Q465710",
         "wk:page":"Mol, Belgium"
@@ -203,7 +205,7 @@
         }
     ],
     "wof:id":101837615,
-    "wof:lastmodified":1563235489,
+    "wof:lastmodified":1566611961,
     "wof:name":"Mol",
     "wof:parent_id":1108830147,
     "wof:placetype":"locality",

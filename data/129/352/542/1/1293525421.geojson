@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Brussels",
     "iso:country":"BE",
+    "lbl:bbox":"5.67915,50.598,5.71915,50.638",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Ch\u00eanes",
         "Trois Ch\u00eanes"
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1293525421,
-    "wof:lastmodified":1537586899,
+    "wof:lastmodified":1566611121,
     "wof:name":"Trois Chenes",
     "wof:parent_id":102049941,
     "wof:placetype":"locality",

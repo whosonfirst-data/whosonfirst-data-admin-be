@@ -12,11 +12,14 @@
     "iso:country":"BE",
     "lbl:latitude":50.815586,
     "lbl:longitude":3.357275,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.815586,
     "mps:longitude":3.357275,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":12.0,
+    "name:und_x_variant":[
         "Kappaert"
     ],
     "qs:a0":"Belgi\u00eb#Belgique#Belgien",
@@ -34,7 +37,7 @@
     "qs:type":"suburbs point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681709,
         102191581,
@@ -47,7 +50,7 @@
     "wof:concordances":{
         "gn:id":2794711,
         "gp:id":979262,
-        "qs:id":7
+        "qs_pg:id":7
     },
     "wof:country":"BE",
     "wof:geomhash":"d5ea348bb2f046771e5067bb72bcf2d2",
@@ -63,7 +66,7 @@
         }
     ],
     "wof:id":101755301,
-    "wof:lastmodified":1501264129,
+    "wof:lastmodified":1566611810,
     "wof:name":"Kappaard",
     "wof:parent_id":1108830095,
     "wof:placetype":"locality",

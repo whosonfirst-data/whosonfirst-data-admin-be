@@ -12,10 +12,13 @@
     "iso:country":"BE",
     "lbl:latitude":50.864224,
     "lbl:longitude":4.75851,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.864224,
     "mps:longitude":4.75851,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Korbeek-Lo"
     ],
@@ -37,7 +40,7 @@
     "name:swe_x_preferred":[
         "Korbeek-Lo"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Corbeek-Loo"
     ],
     "qs:a0":"Belgi\u00eb#Belgique#Belgien",
@@ -58,7 +61,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":733,
     "wof:belongsto":[
         85681731,
@@ -72,7 +75,6 @@
     "wof:concordances":{
         "gn:id":2794092,
         "gp:id":972262,
-        "qs:id":1075291,
         "qs_pg:id":1075291,
         "wd:id":"Q3198907",
         "wk:page":"Korbeek-Lo"
@@ -91,7 +93,7 @@
         }
     ],
     "wof:id":101755433,
-    "wof:lastmodified":1563235097,
+    "wof:lastmodified":1566611847,
     "wof:name":"Korbeek-Lo",
     "wof:parent_id":1108830409,
     "wof:placetype":"locality",

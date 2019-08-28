@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Brussels",
     "iso:country":"BE",
+    "lbl:bbox":"5.16827,51.1503,5.20827,51.1903",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Steeg"
     ],
@@ -47,8 +51,7 @@
         "Steeg"
     ],
     "name:und_x_variant":[
-        "Steegh",
-        "Steeg"
+        "Steegh"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -77,7 +80,7 @@
         }
     ],
     "wof:id":1360319043,
-    "wof:lastmodified":1564163013,
+    "wof:lastmodified":1566611774,
     "wof:name":"Steeg",
     "wof:parent_id":1108830443,
     "wof:placetype":"locality",

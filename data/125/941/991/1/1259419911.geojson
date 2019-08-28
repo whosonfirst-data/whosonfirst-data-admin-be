@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Brussels",
     "iso:country":"BE",
+    "lbl:bbox":"3.96454,51.07076,4.00454,51.11076",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Naestveld",
         "Naastveld"
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1259419911,
-    "wof:lastmodified":1537586959,
+    "wof:lastmodified":1566612387,
     "wof:name":"Naastveld",
     "wof:parent_id":1108830451,
     "wof:placetype":"locality",

@@ -9,15 +9,18 @@
     "geom:bbox":"4.56679,50.66535,4.56679,50.66535",
     "geom:latitude":50.66535,
     "geom:longitude":4.56679,
-    "gn:gn_country":"BE",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":9557,
+    "gn:country":"BE",
+    "gn:fcode":"PPL",
     "gn:population":9557,
     "iso:country":"BE",
+    "lbl:bbox":"4.54679,50.64535,4.58679,50.68535",
     "lbl:latitude":50.66535,
     "lbl:longitude":4.56679,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bul_x_preferred":[
         "\u041e\u0442\u0438\u0433\u043d\u0438\u0435\u0441"
@@ -52,7 +55,7 @@
     "name:swe_x_preferred":[
         "Ottignies"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ottignies-Louvain-la-Neuve (Ottignies)"
     ],
     "name:wln_x_preferred":[
@@ -79,7 +82,7 @@
     "qs_pg:woe_adm0":23424757,
     "qs_pg:woe_id":975268,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424757,
     "woe:name_adm0":"Belgique",
@@ -113,7 +116,7 @@
         }
     ],
     "wof:id":1125963193,
-    "wof:lastmodified":1563235882,
+    "wof:lastmodified":1566612163,
     "wof:name":"Ottignies",
     "wof:parent_id":102049945,
     "wof:placetype":"locality",

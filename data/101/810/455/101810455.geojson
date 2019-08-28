@@ -13,10 +13,13 @@
     "iso:country":"BE",
     "lbl:latitude":50.713778,
     "lbl:longitude":5.032825,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":50.713778,
     "mps:longitude":5.032825,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bre_x_preferred":[
         "Lincent"
     ],
@@ -89,9 +92,6 @@
     "name:swe_x_preferred":[
         "Lincent"
     ],
-    "name:unk_x_variant":[
-        "Lijsem"
-    ],
     "name:vie_x_preferred":[
         "Lincent"
     ],
@@ -124,7 +124,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":80,
     "wof:belongsto":[
@@ -138,7 +138,6 @@
     "wof:concordances":{
         "gn:id":2792332,
         "gp:id":973587,
-        "qs:id":92614,
         "qs_pg:id":92614,
         "wd:id":"Q509457",
         "wk:page":"Lincent"
@@ -156,7 +155,7 @@
         }
     ],
     "wof:id":101810455,
-    "wof:lastmodified":1563235228,
+    "wof:lastmodified":1566611883,
     "wof:name":"Lincent",
     "wof:parent_id":102049937,
     "wof:placetype":"locality",

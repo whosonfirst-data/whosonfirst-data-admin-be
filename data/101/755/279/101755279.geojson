@@ -12,10 +12,13 @@
     "iso:country":"BE",
     "lbl:latitude":50.90771,
     "lbl:longitude":5.677857,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.90771,
     "mps:longitude":5.677857,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Neerharen"
     ],
@@ -31,7 +34,7 @@
     "name:nld_x_preferred":[
         "Neerharen"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Lanaken (Neerharen)"
     ],
     "qs:a0":"Belgi\u00eb#Belgique#Belgien",
@@ -51,7 +54,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681705,
         102191581,
@@ -64,7 +67,6 @@
     "wof:concordances":{
         "gn:id":2790385,
         "gp:id":974771,
-        "qs:id":271758,
         "qs_pg:id":271758,
         "wd:id":"Q585297"
     },
@@ -82,7 +84,7 @@
         }
     ],
     "wof:id":101755279,
-    "wof:lastmodified":1561831404,
+    "wof:lastmodified":1566611838,
     "wof:name":"Neerharen",
     "wof:parent_id":1108830075,
     "wof:placetype":"locality",

@@ -12,6 +12,7 @@
     "iso:country":"BE",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":13.0,
     "name:deu_x_preferred":[
         "Milit\u00e4rflugplatz Zutendaal"
     ],
@@ -72,7 +73,7 @@
         }
     ],
     "wof:id":102546447,
-    "wof:lastmodified":1563233748,
+    "wof:lastmodified":1566610952,
     "wof:name":"Zutendaal Airport",
     "wof:parent_id":85681705,
     "wof:placetype":"campus",

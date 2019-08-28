@@ -13,10 +13,13 @@
     "iso:country":"BE",
     "lbl:latitude":50.966639,
     "lbl:longitude":3.9761,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":50.966639,
     "mps:longitude":3.9761,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:bre_x_preferred":[
         "Lede"
     ],
@@ -115,7 +118,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85681733,
@@ -130,7 +133,6 @@
         "fct:id":"036b5a8a-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2793077,
         "gp:id":973181,
-        "qs:id":805917,
         "qs_pg:id":805917,
         "wd:id":"Q912113",
         "wk:page":"Lead paragraph"
@@ -152,7 +154,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1563235125,
+    "wof:lastmodified":1566611858,
     "wof:name":"Lede",
     "wof:parent_id":1108830331,
     "wof:placetype":"locality",

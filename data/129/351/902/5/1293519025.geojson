@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Brussels",
     "iso:country":"BE",
+    "lbl:bbox":"4.04914,50.83859,4.08914,50.87859",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85681731,
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1293519025,
-    "wof:lastmodified":1536741429,
+    "wof:lastmodified":1566611193,
     "wof:name":"Impegem",
     "wof:parent_id":1108830577,
     "wof:placetype":"locality",

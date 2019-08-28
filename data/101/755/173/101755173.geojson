@@ -13,10 +13,13 @@
     "iso:country":"BE",
     "lbl:latitude":50.673538,
     "lbl:longitude":5.724023,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":50.673538,
     "mps:longitude":5.724023,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:bre_x_preferred":[
         "Blegny"
     ],
@@ -130,7 +133,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":111,
     "wof:belongsto":[
@@ -145,7 +148,6 @@
         "fct:id":"036a45a0-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2801820,
         "gp:id":967395,
-        "qs:id":1086861,
         "qs_pg:id":1086861,
         "wd:id":"Q681109",
         "wk:page":"Blegny"
@@ -166,7 +168,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1563235033,
+    "wof:lastmodified":1566611826,
     "wof:name":"Bl\u00e9gny",
     "wof:parent_id":102049941,
     "wof:placetype":"locality",

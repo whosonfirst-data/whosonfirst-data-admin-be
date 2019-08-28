@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Brussels",
     "iso:country":"BE",
+    "lbl:bbox":"5.57582,49.51668,5.61582,49.55668",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Virton (Ruette)"
     ],
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":1343296735,
-    "wof:lastmodified":1537586928,
+    "wof:lastmodified":1566611045,
     "wof:name":"Ruette",
     "wof:parent_id":102049907,
     "wof:placetype":"locality",

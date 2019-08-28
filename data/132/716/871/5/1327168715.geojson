@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Brussels",
     "iso:country":"BE",
+    "lbl:bbox":"5.44732,50.39963,5.48732,50.43963",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85681691,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1327168715,
-    "wof:lastmodified":1537059014,
+    "wof:lastmodified":1566610935,
     "wof:name":"Himbe",
     "wof:parent_id":102049925,
     "wof:placetype":"locality",

@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Brussels",
     "iso:country":"BE",
+    "lbl:bbox":"5.65856,50.66721,5.69856,50.70721",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85681691,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1242909371,
-    "wof:lastmodified":1537079651,
+    "wof:lastmodified":1566612340,
     "wof:name":"Aux Communes",
     "wof:parent_id":102049941,
     "wof:placetype":"locality",

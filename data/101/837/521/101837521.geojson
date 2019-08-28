@@ -13,10 +13,13 @@
     "iso:country":"BE",
     "lbl:latitude":50.80931,
     "lbl:longitude":4.937385,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":50.80931,
     "mps:longitude":4.937385,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:afr_x_preferred":[
         "Tienen"
     ],
@@ -149,9 +152,6 @@
     "name:tur_x_preferred":[
         "Tienen"
     ],
-    "name:unk_x_variant":[
-        "Tirlemont"
-    ],
     "name:vie_x_preferred":[
         "Tienen"
     ],
@@ -181,7 +181,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":50.8,
     "wd:longitude":4.933333,
@@ -198,7 +198,6 @@
     "wof:concordances":{
         "gn:id":2785470,
         "gp:id":977798,
-        "qs:id":141443,
         "qs_pg:id":141443,
         "wd:id":"Q456550",
         "wk:page":"Tienen"
@@ -217,7 +216,7 @@
         }
     ],
     "wof:id":101837521,
-    "wof:lastmodified":1563235478,
+    "wof:lastmodified":1566611958,
     "wof:name":"Tienen",
     "wof:parent_id":1108830017,
     "wof:placetype":"locality",

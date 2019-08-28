@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Brussels",
     "iso:country":"BE",
+    "lbl:bbox":"2.65846,51.10023,2.69846,51.14023",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Witte Brug",
         "Witte Burg"
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1209745757,
-    "wof:lastmodified":1537586881,
+    "wof:lastmodified":1566611414,
     "wof:name":"Witte Burg",
     "wof:parent_id":1108830673,
     "wof:placetype":"locality",

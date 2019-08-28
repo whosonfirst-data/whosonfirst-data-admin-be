@@ -13,10 +13,13 @@
     "iso:country":"BE",
     "lbl:latitude":50.611197,
     "lbl:longitude":3.38332,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mps:latitude":50.611197,
     "mps:longitude":3.38332,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":8.0,
     "name:afr_x_preferred":[
         "Doornik"
     ],
@@ -195,9 +198,6 @@
     "name:ukr_x_preferred":[
         "\u0422\u0443\u0440\u043d\u0435"
     ],
-    "name:unk_x_variant":[
-        "Doornyk"
-    ],
     "name:vie_x_preferred":[
         "Tournai"
     ],
@@ -236,7 +236,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85681723,
@@ -250,7 +250,6 @@
         "fct:id":"036c79b0-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2785341,
         "gp:id":977869,
-        "qs:id":408410,
         "qs_pg:id":408410,
         "wd:id":"Q173219",
         "wk:page":"Tournai"
@@ -271,7 +270,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1563235365,
+    "wof:lastmodified":1566611919,
     "wof:name":"Tournai",
     "wof:parent_id":102049951,
     "wof:placetype":"locality",

@@ -12,10 +12,13 @@
     "iso:country":"BE",
     "lbl:latitude":51.446546,
     "lbl:longitude":4.737235,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":51.446546,
     "mps:longitude":4.737235,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Meer"
     ],
@@ -43,7 +46,7 @@
     "name:nld_x_preferred":[
         "Meer"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Hoogstraten (Meer)"
     ],
     "qs:a0":"Belgi\u00eb#Belgique#Belgien",
@@ -61,7 +64,7 @@
     "qs:type":"rural point-multi-in-poly-resolved",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":112,
     "wof:belongsto":[
         85681715,
@@ -75,7 +78,7 @@
     "wof:concordances":{
         "gn:id":2791515,
         "gp:id":974081,
-        "qs:id":7,
+        "qs_pg:id":7,
         "wd:id":"Q3304131"
     },
     "wof:country":"BE",
@@ -92,7 +95,7 @@
         }
     ],
     "wof:id":101837603,
-    "wof:lastmodified":1561831431,
+    "wof:lastmodified":1566611957,
     "wof:name":"Meer",
     "wof:parent_id":1108830373,
     "wof:placetype":"locality",

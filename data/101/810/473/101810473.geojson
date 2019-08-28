@@ -13,10 +13,13 @@
     "iso:country":"BE",
     "lbl:latitude":50.610211,
     "lbl:longitude":4.134699,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":50.610211,
     "mps:longitude":4.134699,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:bar_x_preferred":[
         "Braine-le-Comte"
     ],
@@ -113,7 +116,7 @@
     "name:swe_x_preferred":[
         "Braine-le-Comte"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "\u2019s-Gravenbrakel"
     ],
     "name:vie_x_preferred":[
@@ -145,7 +148,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":235,
     "wof:belongsto":[
@@ -160,7 +163,6 @@
         "fct:id":"0369229c-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2801150,
         "gp:id":967830,
-        "qs:id":246810,
         "qs_pg:id":246810,
         "wd:id":"Q95129",
         "wk:page":"Braine-le-Comte"
@@ -181,7 +183,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1563235249,
+    "wof:lastmodified":1566611889,
     "wof:name":"Braine-le-Comte",
     "wof:parent_id":102049943,
     "wof:placetype":"locality",

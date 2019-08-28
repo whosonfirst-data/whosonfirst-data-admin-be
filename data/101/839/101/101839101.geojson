@@ -5,18 +5,21 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000751,
-    "geom:area_square_m":5804248.693949,
+    "geom:area_square_m":5804248.693948,
     "geom:bbox":"4.99341429481,51.2929398352,5.04410885793,51.3246613567",
     "geom:latitude":51.311025,
     "geom:longitude":5.017552,
     "iso:country":"BE",
     "lbl:latitude":51.314366,
     "lbl:longitude":5.014052,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":51.314366,
     "mps:longitude":5.014052,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":12.0,
+    "name:und_x_variant":[
         "Het Zwaneven"
     ],
     "qs:a0":"Belgi\u00eb#Belgique#Belgien",
@@ -34,7 +37,7 @@
     "qs:type":"rural point-multi-in-poly-resolved",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681715,
         102191581,
@@ -47,7 +50,7 @@
     "wof:concordances":{
         "gn:id":2783121,
         "gp:id":979248,
-        "qs:id":1287863
+        "qs_pg:id":1287863
     },
     "wof:country":"BE",
     "wof:geomhash":"bf83fe50365d3b9810f7999e44a69d62",
@@ -63,7 +66,7 @@
         }
     ],
     "wof:id":101839101,
-    "wof:lastmodified":1501264097,
+    "wof:lastmodified":1566611974,
     "wof:name":"Zwaneven",
     "wof:parent_id":1108830455,
     "wof:placetype":"locality",

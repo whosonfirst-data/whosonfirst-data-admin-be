@@ -13,6 +13,8 @@
     "iso:country":"BE",
     "lbl:latitude":51.057496,
     "lbl:longitude":3.732703,
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":8.0,
     "mps:latitude":51.057496,
     "mps:longitude":3.732703,
     "mz:hierarchy_label":1,
@@ -317,9 +319,6 @@
     "name:ukr_x_preferred":[
         "\u0413\u0435\u043d\u0442"
     ],
-    "name:unk_x_variant":[
-        "Gand"
-    ],
     "name:urd_x_preferred":[
         "\u06af\u06cc\u0646\u062a"
     ],
@@ -463,7 +462,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":51.05,
     "wd:longitude":3.716667,
@@ -484,7 +483,6 @@
         "gn:id":2797656,
         "gp:id":970013,
         "nyt:id":"48099839982249908521",
-        "qs:id":901006,
         "qs_pg:id":901006,
         "wd:id":"Q1296",
         "wk:page":"Ghent"
@@ -506,7 +504,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1563235280,
+    "wof:lastmodified":1566611896,
     "wof:name":"Gent",
     "wof:parent_id":1108830083,
     "wof:placetype":"locality",

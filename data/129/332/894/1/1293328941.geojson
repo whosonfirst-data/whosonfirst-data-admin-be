@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Brussels",
     "iso:country":"BE",
+    "lbl:bbox":"4.83333,50.826,4.87333,50.866",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85681731,
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1293328941,
-    "wof:lastmodified":1537014870,
+    "wof:lastmodified":1566611184,
     "wof:name":"Neerbutsel",
     "wof:parent_id":1108830471,
     "wof:placetype":"locality",

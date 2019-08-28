@@ -24,6 +24,7 @@
     ],
     "lbl:latitude":49.902903,
     "lbl:longitude":5.460687,
+    "lbl:min_zoom":8.0,
     "mps:latitude":49.902903,
     "mps:longitude":5.460687,
     "mz:hierarchy_label":1,
@@ -660,7 +661,7 @@
     "name:ukr_x_preferred":[
         "\u041b\u044e\u043a\u0441\u0435\u043c\u0431\u0443\u0440\u0433"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Provincie Luxemburg"
     ],
     "name:urd_x_preferred":[
@@ -784,9 +785,9 @@
     "qs:type":"Province#Provincie#Provinz",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-01-01",
+    "src:population_date":"2010-01-01",
     "statoids:area_km":"4,441",
     "statoids:area_mi":"1,715",
     "statoids:as_of_date":"2010-01-01",
@@ -835,11 +836,10 @@
         "fra",
         "deu"
     ],
-    "wof:lastmodified":1565814532,
+    "wof:lastmodified":1566611068,
     "wof:name":"Luxembourg",
     "wof:parent_id":404227353,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"province",
     "wof:population":269023,
     "wof:population_rank":10,

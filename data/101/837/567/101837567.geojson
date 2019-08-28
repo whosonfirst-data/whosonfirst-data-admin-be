@@ -13,10 +13,13 @@
     "iso:country":"BE",
     "lbl:latitude":51.216049,
     "lbl:longitude":4.254576,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":51.216049,
     "mps:longitude":4.254576,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":9.0,
     "name:ara_x_preferred":[
         "\u0628\u064a\u0641\u064a\u0631\u0646"
     ],
@@ -146,7 +149,7 @@
     "name:tur_x_preferred":[
         "Beveren"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Beveren-Waes"
     ],
     "name:vie_x_preferred":[
@@ -181,7 +184,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":650,
     "wof:belongsto":[
@@ -197,7 +200,6 @@
         "fct:id":"0369675c-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2802031,
         "gp:id":967272,
-        "qs:id":1086852,
         "qs_pg:id":1086852,
         "wd:id":"Q270644",
         "wk:page":"Beveren"
@@ -219,7 +221,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1563235472,
+    "wof:lastmodified":1566611956,
     "wof:name":"Beveren",
     "wof:parent_id":1108830621,
     "wof:placetype":"locality",

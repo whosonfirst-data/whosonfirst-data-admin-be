@@ -13,10 +13,13 @@
     "iso:country":"BE",
     "lbl:latitude":50.474034,
     "lbl:longitude":4.195875,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mps:latitude":50.474034,
     "mps:longitude":4.195875,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":8.0,
     "name:afr_x_preferred":[
         "La Louvi\u00e8re"
     ],
@@ -179,7 +182,7 @@
     "name:ukr_x_preferred":[
         "\u041b\u0430-\u041b\u0443\u0432'\u0454\u0440"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Louvierre"
     ],
     "name:vie_x_preferred":[
@@ -214,7 +217,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":784,
     "wof:belongsto":[
@@ -229,7 +232,6 @@
         "fct:id":"03695046-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2793508,
         "gp:id":972665,
-        "qs:id":484559,
         "qs_pg:id":484559,
         "wd:id":"Q211572",
         "wk:page":"La Louvi\u00e8re"
@@ -250,7 +252,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1563235335,
+    "wof:lastmodified":1566611910,
     "wof:name":"La Louvi\u00e8re",
     "wof:parent_id":102049943,
     "wof:placetype":"locality",

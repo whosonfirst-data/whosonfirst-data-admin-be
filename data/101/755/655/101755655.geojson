@@ -12,10 +12,13 @@
     "iso:country":"BE",
     "lbl:latitude":51.094845,
     "lbl:longitude":4.611217,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":51.094845,
     "mps:longitude":4.611217,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Koningshooikt"
     ],
@@ -37,7 +40,7 @@
     "name:pol_x_preferred":[
         "Koningshooikt"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Koningshoyckt"
     ],
     "qs:a0":"Belgi\u00eb#Belgique#Belgien",
@@ -57,7 +60,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":51.095,
     "wd:longitude":4.6106,
     "wd:wordcount":113,
@@ -73,7 +76,6 @@
     "wof:concordances":{
         "gn:id":2794127,
         "gp:id":972240,
-        "qs:id":1000641,
         "qs_pg:id":1000641,
         "wd:id":"Q1011374",
         "wk:page":"Koningshooikt"
@@ -92,7 +94,7 @@
         }
     ],
     "wof:id":101755655,
-    "wof:lastmodified":1563235090,
+    "wof:lastmodified":1566611844,
     "wof:name":"Koningshooikt",
     "wof:parent_id":1108830097,
     "wof:placetype":"locality",

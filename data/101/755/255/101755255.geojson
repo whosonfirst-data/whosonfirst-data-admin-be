@@ -12,10 +12,14 @@
     "iso:country":"BE",
     "lbl:latitude":50.725641,
     "lbl:longitude":4.505652,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.725641,
     "mps:longitude":4.505652,
     "mz:hierarchy_label":1,
-    "name:unk_x_variant":[
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
+    "name:und_x_variant":[
         "Maubreux"
     ],
     "qs:a0":"Belgi\u00eb#Belgique#Belgien",
@@ -33,7 +37,7 @@
     "qs:type":"suburbs point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681693,
         102191581,
@@ -45,7 +49,7 @@
     "wof:concordances":{
         "gn:id":2791574,
         "gp:id":970021,
-        "qs:id":6
+        "qs_pg:id":6
     },
     "wof:country":"BE",
     "wof:geomhash":"c5dbfe1a804b5ea08d5b8057b0a3ea9e",
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":101755255,
-    "wof:lastmodified":1501264119,
+    "wof:lastmodified":1566611850,
     "wof:name":"Maubrou",
     "wof:parent_id":102049945,
     "wof:placetype":"locality",

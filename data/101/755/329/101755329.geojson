@@ -5,18 +5,21 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000641,
-    "geom:area_square_m":4994842.604592,
+    "geom:area_square_m":4994842.604593,
     "geom:bbox":"3.90692807469,50.8730495209,3.95887268029,50.9280391598",
     "geom:latitude":50.904865,
     "geom:longitude":3.931359,
     "iso:country":"BE",
     "lbl:latitude":50.910855,
     "lbl:longitude":3.92015,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.910855,
     "mps:longitude":3.92015,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":12.0,
+    "name:und_x_variant":[
         "Doorent"
     ],
     "qs:a0":"Belgi\u00eb#Belgique#Belgien",
@@ -34,7 +37,7 @@
     "qs:type":"suburbs point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681733,
         102191581,
@@ -47,7 +50,7 @@
     "wof:concordances":{
         "gn:id":2799260,
         "gp:id":968105,
-        "qs:id":3
+        "qs_pg:id":3
     },
     "wof:country":"BE",
     "wof:geomhash":"dc32fb860cea03c54daf505af6274795",
@@ -63,7 +66,7 @@
         }
     ],
     "wof:id":101755329,
-    "wof:lastmodified":1501264140,
+    "wof:lastmodified":1566611852,
     "wof:name":"Dorent",
     "wof:parent_id":1108830215,
     "wof:placetype":"locality",

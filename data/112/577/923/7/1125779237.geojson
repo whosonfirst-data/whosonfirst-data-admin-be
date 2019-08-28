@@ -9,14 +9,18 @@
     "geom:bbox":"4.9476,50.91947,4.9476,50.91947",
     "geom:latitude":50.91947,
     "geom:longitude":4.9476,
-    "gn:gn_country":"BE",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"BE",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"BE",
+    "lbl:bbox":"4.9276,50.89947,4.9676,50.93947",
     "lbl:latitude":50.91947,
     "lbl:longitude":4.9476,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:deu_x_preferred":[
         "Molenbeek-Wersbeek"
@@ -39,7 +43,7 @@
     "name:nld_x_preferred":[
         "Molenbeek-Wersbeek"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Molenbeek"
     ],
     "qs_pg:aaroncc":"BE",
@@ -59,7 +63,7 @@
     "qs_pg:woe_adm0":23424757,
     "qs_pg:woe_id":974381,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424757,
     "woe:name_adm0":"Belgique",
     "woe:name_adm1":"Vlaams Brabant",
@@ -94,7 +98,7 @@
         }
     ],
     "wof:id":1125779237,
-    "wof:lastmodified":1561831486,
+    "wof:lastmodified":1566612241,
     "wof:name":"Molenbeek-Wersbeek",
     "wof:parent_id":1108830131,
     "wof:placetype":"locality",

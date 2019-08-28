@@ -5,17 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00012,
-    "geom:area_square_m":932783.349806,
+    "geom:area_square_m":932783.349805,
     "geom:bbox":"4.28252781881,51.0988914174,4.30842022167,51.1124674788",
     "geom:latitude":51.105799,
     "geom:longitude":4.298536,
     "iso:country":"BE",
     "lbl:latitude":51.105562,
     "lbl:longitude":4.301969,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":51.105562,
     "mps:longitude":4.301969,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Canal mar\u00edtim Brussel\u00b7les-Escalda"
     ],
@@ -64,7 +67,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681715,
         102191581,
@@ -77,7 +80,6 @@
     "wof:concordances":{
         "gn:id":2783557,
         "gp:id":978966,
-        "qs:id":267709,
         "qs_pg:id":267709
     },
     "wof:country":"BE",
@@ -94,7 +96,7 @@
         }
     ],
     "wof:id":101755641,
-    "wof:lastmodified":1497297523,
+    "wof:lastmodified":1566611842,
     "wof:name":"Wintham",
     "wof:parent_id":1108830535,
     "wof:placetype":"locality",

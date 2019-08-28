@@ -5,17 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000683,
-    "geom:area_square_m":5307316.335149,
+    "geom:area_square_m":5307316.335148,
     "geom:bbox":"4.68448253933,51.0531953276,4.73069427855,51.0831067483",
     "geom:latitude":51.066337,
     "geom:longitude":4.704746,
     "iso:country":"BE",
     "lbl:latitude":51.065396,
     "lbl:longitude":4.705093,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":51.065396,
     "mps:longitude":4.705093,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Belgi\u00eb#Belgique#Belgien",
     "qs:a1":"*Antwerpen",
     "qs:a1r":"0Vlaams Gewest",
@@ -31,7 +34,7 @@
     "qs:type":"suburbs point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681715,
         102191581,
@@ -43,7 +46,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":970935,
-        "qs:id":8
+        "qs_pg:id":8
     },
     "wof:country":"BE",
     "wof:geomhash":"a36f7433bbaa4840cf3791b2ad12ae9c",
@@ -59,7 +62,7 @@
         }
     ],
     "wof:id":101755625,
-    "wof:lastmodified":1499530530,
+    "wof:lastmodified":1566611838,
     "wof:name":"Heist-Station",
     "wof:parent_id":1108830023,
     "wof:placetype":"locality",

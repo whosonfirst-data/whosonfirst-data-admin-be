@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Brussels",
     "iso:country":"BE",
+    "lbl:bbox":"5.86293,50.40092,5.90293,50.44092",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Heilrimont",
         "Dessus Heilrimont"
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1327468849,
-    "wof:lastmodified":1537587051,
+    "wof:lastmodified":1566610886,
     "wof:name":"Dessus Heilrimont",
     "wof:parent_id":102049935,
     "wof:placetype":"locality",

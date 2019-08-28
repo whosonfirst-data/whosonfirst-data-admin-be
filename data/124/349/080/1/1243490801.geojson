@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Brussels",
     "iso:country":"BE",
+    "lbl:bbox":"3.71558,50.86202,3.75558,50.90202",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Sint-Pieters ten Bergen",
         "Saint Pieters-ten-Bergen",
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":1243490801,
-    "wof:lastmodified":1537586914,
+    "wof:lastmodified":1566612315,
     "wof:name":"Sint-Pieters ten Berge",
     "wof:parent_id":1108830583,
     "wof:placetype":"locality",

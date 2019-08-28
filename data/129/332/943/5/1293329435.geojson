@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Brussels",
     "iso:country":"BE",
+    "lbl:bbox":"5.38,50.48,5.42,50.52",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Bouhaye",
         "Bouh\u00e9e",
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":1293329435,
-    "wof:lastmodified":1537586992,
+    "wof:lastmodified":1566611191,
     "wof:name":"La Bouhaye",
     "wof:parent_id":102049925,
     "wof:placetype":"locality",

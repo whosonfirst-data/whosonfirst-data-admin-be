@@ -9,14 +9,18 @@
     "geom:bbox":"5.3124,50.66189,5.3124,50.66189",
     "geom:latitude":50.66189,
     "geom:longitude":5.3124,
-    "gn:gn_country":"BE",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"BE",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"BE",
+    "lbl:bbox":"5.2924,50.64189,5.3324,50.68189",
     "lbl:latitude":50.66189,
     "lbl:longitude":5.3124,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Limont"
@@ -27,7 +31,7 @@
     "name:nld_x_preferred":[
         "Limont"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Donceel (Limont)"
     ],
     "qs_pg:aaroncc":"BE",
@@ -49,7 +53,7 @@
     "qs_pg:woe_adm0":23424757,
     "qs_pg:woe_id":973584,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424757,
     "woe:name_adm0":"Belgique",
     "woe:name_adm1":"Li\u00e8ge",
@@ -82,7 +86,7 @@
         }
     ],
     "wof:id":1125784577,
-    "wof:lastmodified":1561831480,
+    "wof:lastmodified":1566612214,
     "wof:name":"Limont",
     "wof:parent_id":102049937,
     "wof:placetype":"locality",

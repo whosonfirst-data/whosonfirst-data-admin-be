@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Brussels",
     "iso:country":"BE",
+    "lbl:bbox":"4.05711,50.88354,4.09711,50.92354",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Resschebeek",
         "Ressebeek"
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1293919555,
-    "wof:lastmodified":1537586936,
+    "wof:lastmodified":1566611100,
     "wof:name":"Ressebeek",
     "wof:parent_id":1108830515,
     "wof:placetype":"locality",

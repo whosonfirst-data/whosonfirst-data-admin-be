@@ -12,10 +12,13 @@
     "iso:country":"BE",
     "lbl:latitude":50.88916,
     "lbl:longitude":2.868893,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.88916,
     "mps:longitude":2.868893,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bre_x_preferred":[
         "Boezinge"
     ],
@@ -55,9 +58,6 @@
     "name:swe_x_preferred":[
         "Boezinge"
     ],
-    "name:unk_x_variant":[
-        "Boesinghe"
-    ],
     "name:vls_x_preferred":[
         "Boezienge"
     ],
@@ -78,7 +78,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":50.8953,
     "wd:longitude":2.8575,
     "wd:wordcount":543,
@@ -95,7 +95,6 @@
         "fct:id":"036a48d4-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2801694,
         "gp:id":967481,
-        "qs:id":449248,
         "qs_pg:id":449248,
         "wd:id":"Q890339",
         "wk:page":"Boezinge"
@@ -117,7 +116,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1563235392,
+    "wof:lastmodified":1566611929,
     "wof:name":"Boezinge",
     "wof:parent_id":1108830595,
     "wof:placetype":"locality",

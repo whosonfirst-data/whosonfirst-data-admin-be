@@ -10,8 +10,10 @@
     "geom:latitude":51.252505,
     "geom:longitude":4.449155,
     "iso:country":"BE",
+    "lbl:bbox":"4.444155,51.247505,4.454155,51.257505",
     "lbl:latitude":51.252505,
     "lbl:longitude":4.449155,
+    "lbl:max_zoom":18.0,
     "mps:latitude":51.2531,
     "mps:longitude":4.447378,
     "mz:hierarchy_label":0,
@@ -75,9 +77,6 @@
     "name:swe_x_preferred":[
         "Merksem"
     ],
-    "name:unk_x_variant":[
-        "Merksem"
-    ],
     "qs:gn_adm0_cc":"BE",
     "qs:gn_fcode":"PPL",
     "qs:gn_local":2803139,
@@ -123,7 +122,6 @@
     "wof:concordances":{
         "gn:id":2791301,
         "gp:id":974224,
-        "qs:id":900980,
         "qs_pg:id":900980,
         "wd:id":"Q2543761",
         "wk:page":"Merksem"
@@ -146,7 +144,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1566247533,
+    "wof:lastmodified":1566611092,
     "wof:name":"Merksem",
     "wof:parent_id":101748099,
     "wof:placetype":"neighbourhood",

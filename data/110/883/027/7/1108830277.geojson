@@ -21,8 +21,11 @@
     "iso:country":"BE",
     "lbl:latitude":50.869351,
     "lbl:longitude":3.136743,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bre_x_preferred":[
         "Ledegem"
     ],
@@ -107,7 +110,7 @@
     "reversegeo:latitude":50.869351,
     "reversegeo:longitude":3.136743,
     "src:geom":"begov",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681709,
         102191581,
@@ -131,7 +134,7 @@
         }
     ],
     "wof:id":1108830277,
-    "wof:lastmodified":1564162731,
+    "wof:lastmodified":1566611603,
     "wof:name":"Ledegem",
     "wof:parent_id":102049977,
     "wof:placetype":"localadmin",

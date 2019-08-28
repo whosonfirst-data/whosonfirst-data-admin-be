@@ -21,8 +21,11 @@
     "iso:country":"BE",
     "lbl:latitude":51.08188,
     "lbl:longitude":4.145699,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Hamme"
     ],
@@ -113,7 +116,7 @@
     "reversegeo:latitude":51.08188,
     "reversegeo:longitude":4.145699,
     "src:geom":"begov",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681733,
         102191581,
@@ -137,7 +140,7 @@
         }
     ],
     "wof:id":1108830161,
-    "wof:lastmodified":1564162746,
+    "wof:lastmodified":1566611610,
     "wof:name":"Hamme",
     "wof:parent_id":102049979,
     "wof:placetype":"localadmin",

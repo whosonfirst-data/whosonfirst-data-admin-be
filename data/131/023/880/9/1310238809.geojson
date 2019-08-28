@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Brussels",
     "iso:country":"BE",
+    "lbl:bbox":"4.25917,50.12248,4.29917,50.16248",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bre_x_preferred":[
         "Rance"
     ],
@@ -74,7 +78,7 @@
         }
     ],
     "wof:id":1310238809,
-    "wof:lastmodified":1564162873,
+    "wof:lastmodified":1566611697,
     "wof:name":"Rance",
     "wof:parent_id":102049923,
     "wof:placetype":"locality",

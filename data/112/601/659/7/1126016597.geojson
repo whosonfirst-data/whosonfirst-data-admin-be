@@ -9,14 +9,18 @@
     "geom:bbox":"3.30602,51.35517,3.30602,51.35517",
     "geom:latitude":51.35517,
     "geom:longitude":3.30602,
-    "gn:gn_country":"BE",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"BE",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"BE",
+    "lbl:bbox":"3.28602,51.33517,3.32602,51.37517",
     "lbl:latitude":51.35517,
     "lbl:longitude":3.30602,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:deu_x_preferred":[
         "Zoute"
@@ -32,9 +36,6 @@
     ],
     "name:nld_x_preferred":[
         "Het Zoute"
-    ],
-    "name:unk_x_variant":[
-        "Zoute"
     ],
     "name:vls_x_preferred":[
         "'t Zoute"
@@ -58,7 +59,7 @@
     "qs_pg:woe_adm0":23424757,
     "qs_pg:woe_id":971144,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424757,
     "woe:name_adm0":"Belgique",
     "woe:name_adm1":"West-Vlaanderen",
@@ -93,7 +94,7 @@
         }
     ],
     "wof:id":1126016597,
-    "wof:lastmodified":1561831468,
+    "wof:lastmodified":1566612174,
     "wof:name":"Het Zoute",
     "wof:parent_id":1108830675,
     "wof:placetype":"locality",

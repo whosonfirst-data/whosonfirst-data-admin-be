@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Brussels",
     "iso:country":"BE",
+    "lbl:bbox":"4.65297,51.10868,4.69297,51.14868",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Gestel"
     ],
@@ -76,7 +80,7 @@
         }
     ],
     "wof:id":1344090777,
-    "wof:lastmodified":1564161699,
+    "wof:lastmodified":1566610978,
     "wof:name":"Gestel",
     "wof:parent_id":1108830233,
     "wof:placetype":"locality",

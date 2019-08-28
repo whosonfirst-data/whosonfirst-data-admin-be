@@ -12,10 +12,13 @@
     "iso:country":"BE",
     "lbl:latitude":50.926387,
     "lbl:longitude":5.446281,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.926387,
     "mps:longitude":5.446281,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Belgi\u00eb#Belgique#Belgien",
     "qs:a1":"*Limburg",
     "qs:a1r":"0Vlaams Gewest",
@@ -31,7 +34,7 @@
     "qs:type":"rural point-multi-in-poly-resolved",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681705,
         102191581,
@@ -44,7 +47,7 @@
     "wof:concordances":{
         "gn:id":2791998,
         "gp:id":20098355,
-        "qs:id":5
+        "qs_pg:id":5
     },
     "wof:country":"BE",
     "wof:geomhash":"4298e0bb4aef62a0f01529ab227fb87d",
@@ -60,7 +63,7 @@
         }
     ],
     "wof:id":101838791,
-    "wof:lastmodified":1499530876,
+    "wof:lastmodified":1566611915,
     "wof:name":"Lutselus",
     "wof:parent_id":1108830257,
     "wof:placetype":"locality",

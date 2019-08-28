@@ -13,10 +13,13 @@
     "iso:country":"BE",
     "lbl:latitude":50.549549,
     "lbl:longitude":3.729047,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":50.549549,
     "mps:longitude":3.729047,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":10.0,
     "name:ceb_x_preferred":[
         "Bel\u0153il"
     ],
@@ -73,7 +76,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":151,
     "wof:belongsto":[
@@ -88,7 +91,6 @@
         "fct:id":"036951e0-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2802292,
         "gp:id":967106,
-        "qs:id":875098,
         "qs_pg:id":875098,
         "wd:id":"Q1180057"
     },
@@ -108,7 +110,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1563235234,
+    "wof:lastmodified":1566611884,
     "wof:name":"Beloeil",
     "wof:parent_id":102049949,
     "wof:placetype":"locality",

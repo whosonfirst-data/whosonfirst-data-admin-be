@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Brussels",
     "iso:country":"BE",
+    "lbl:bbox":"3.65828,50.91608,3.69828,50.95608",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Vurste-ten-Eede",
         "Ten Ede"
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1259913747,
-    "wof:lastmodified":1537586905,
+    "wof:lastmodified":1566612383,
     "wof:name":"Ten Ede",
     "wof:parent_id":1108830425,
     "wof:placetype":"locality",

@@ -13,10 +13,13 @@
     "iso:country":"BE",
     "lbl:latitude":50.601606,
     "lbl:longitude":5.738545,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":50.601606,
     "mps:longitude":5.738545,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:bre_x_preferred":[
         "Soumagne"
     ],
@@ -127,7 +130,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":328,
     "wof:belongsto":[
@@ -142,7 +145,6 @@
         "fct:id":"036c43b4-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2786344,
         "gp:id":977055,
-        "qs:id":224632,
         "qs_pg:id":224632,
         "wd:id":"Q696099",
         "wk:page":"Soumagne"
@@ -163,7 +165,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1563235043,
+    "wof:lastmodified":1566611828,
     "wof:name":"Soumagne",
     "wof:parent_id":102049941,
     "wof:placetype":"locality",

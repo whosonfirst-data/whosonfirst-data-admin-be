@@ -13,10 +13,13 @@
     "iso:country":"BE",
     "lbl:latitude":50.717686,
     "lbl:longitude":4.676776,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":50.717686,
     "mps:longitude":4.676776,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":10.0,
     "name:bar_x_preferred":[
         "Grez-Doiceau"
     ],
@@ -134,7 +137,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":91,
     "wof:belongsto":[
@@ -148,7 +151,6 @@
     "wof:concordances":{
         "gn:id":2797128,
         "gp:id":970322,
-        "qs:id":896389,
         "qs_pg:id":896389,
         "wd:id":"Q670310"
     },
@@ -165,7 +167,7 @@
         }
     ],
     "wof:id":101755247,
-    "wof:lastmodified":1563235081,
+    "wof:lastmodified":1566611841,
     "wof:name":"Grez-Doiceau",
     "wof:parent_id":102049945,
     "wof:placetype":"locality",

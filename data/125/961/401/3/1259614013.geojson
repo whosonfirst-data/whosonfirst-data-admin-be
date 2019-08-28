@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Brussels",
     "iso:country":"BE",
+    "lbl:bbox":"5.68371,51.08627,5.72371,51.12627",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Geysteren",
         "Geisteren"
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1259614013,
-    "wof:lastmodified":1537587036,
+    "wof:lastmodified":1566612409,
     "wof:name":"Geisteren",
     "wof:parent_id":1108830133,
     "wof:placetype":"locality",

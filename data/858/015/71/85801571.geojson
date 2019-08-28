@@ -5,13 +5,15 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":7917291.827316,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.505734,50.602525,5.505734,50.602525",
     "geom:latitude":50.602525,
     "geom:longitude":5.505734,
     "iso:country":"BE",
+    "lbl:bbox":"5.500734,50.597525,5.510734,50.607525",
     "lbl:latitude":50.602525,
     "lbl:longitude":5.505734,
+    "lbl:max_zoom":18.0,
     "mps:latitude":50.602415,
     "mps:longitude":5.508942,
     "mz:hierarchy_label":0,
@@ -31,9 +33,6 @@
     ],
     "name:spa_x_preferred":[
         "Liz\u00e9 Santana"
-    ],
-    "name:unk_x_variant":[
-        "Lize"
     ],
     "qs:gn_adm0_cc":"BE",
     "qs:gn_fcode":"PPL",
@@ -65,20 +64,19 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
-        85681691,
         102191581,
         85632997,
         404227353,
         101748083,
-        102049941
+        102049941,
+        85681691
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2792254,
         "gp:id":973638,
-        "qs:id":1114878,
         "qs_pg:id":1114878
     },
     "wof:country":"BE",
@@ -98,7 +96,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1531862084,
+    "wof:lastmodified":1566611071,
     "wof:name":"Lize",
     "wof:parent_id":101748083,
     "wof:placetype":"neighbourhood",

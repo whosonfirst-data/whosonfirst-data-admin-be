@@ -13,10 +13,13 @@
     "iso:country":"BE",
     "lbl:latitude":51.124788,
     "lbl:longitude":4.491089,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":51.124788,
     "mps:longitude":4.491089,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bre_x_preferred":[
         "Lint"
     ],
@@ -95,9 +98,6 @@
     "name:swe_x_preferred":[
         "Lint"
     ],
-    "name:unk_x_variant":[
-        "Linth"
-    ],
     "name:vie_x_preferred":[
         "Lint"
     ],
@@ -127,7 +127,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":130,
     "wof:belongsto":[
@@ -143,7 +143,6 @@
         "fct:id":"036b702e-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2792292,
         "gp:id":973614,
-        "qs:id":4505,
         "qs_pg:id":4505,
         "wd:id":"Q725268"
     },
@@ -164,7 +163,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1563235144,
+    "wof:lastmodified":1566611861,
     "wof:name":"Lint",
     "wof:parent_id":1108830615,
     "wof:placetype":"locality",

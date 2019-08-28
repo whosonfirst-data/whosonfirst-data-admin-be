@@ -12,10 +12,13 @@
     "iso:country":"BE",
     "lbl:latitude":49.583173,
     "lbl:longitude":5.572047,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":49.583173,
     "mps:longitude":5.572047,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Ethe"
     ],
@@ -34,7 +37,7 @@
     "name:nld_x_preferred":[
         "Ethe"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Virton (\u00c9the)"
     ],
     "qs:a0":"Belgi\u00eb#Belgique#Belgien",
@@ -54,7 +57,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681727,
         102191581,
@@ -67,7 +70,6 @@
         "fct:id":"036aabbc-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2798589,
         "gp:id":969468,
-        "qs:id":290038,
         "qs_pg:id":290038,
         "wd:id":"Q2126463"
     },
@@ -87,7 +89,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1561831422,
+    "wof:lastmodified":1566611911,
     "wof:name":"\u00c8the",
     "wof:parent_id":102049907,
     "wof:placetype":"locality",

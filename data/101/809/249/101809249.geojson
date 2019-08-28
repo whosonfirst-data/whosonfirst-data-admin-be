@@ -13,10 +13,13 @@
     "iso:country":"BE",
     "lbl:latitude":50.920842,
     "lbl:longitude":3.859279,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":50.920842,
     "mps:longitude":3.859279,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bar_x_preferred":[
         "Sint-Lievens-Houtem"
     ],
@@ -116,9 +119,6 @@
     "name:swe_x_preferred":[
         "Sint-Lievens-Houtem"
     ],
-    "name:unk_x_variant":[
-        "Hautem-Saint-Li\u00e9vin"
-    ],
     "name:vie_x_preferred":[
         "Sint-Lievens-Houtem"
     ],
@@ -148,7 +148,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":206,
     "wof:belongsto":[
@@ -164,7 +164,6 @@
         "fct:id":"036c52f0-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2786616,
         "gp:id":977245,
-        "qs:id":141454,
         "qs_pg:id":141454,
         "wd:id":"Q817372"
     },
@@ -185,7 +184,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1563235451,
+    "wof:lastmodified":1566611949,
     "wof:name":"Sint-Lievens-Houtem",
     "wof:parent_id":1108830121,
     "wof:placetype":"locality",

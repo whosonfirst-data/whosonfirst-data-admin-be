@@ -13,6 +13,7 @@
     "iso:country":"BE",
     "lbl:latitude":50.825774,
     "lbl:longitude":4.393628,
+    "lbl:max_zoom":18.0,
     "mps:latitude":50.826622,
     "mps:longitude":4.396898,
     "mz:hierarchy_label":1,
@@ -36,9 +37,6 @@
     ],
     "name:nld_x_variant":[
         "De Jacht"
-    ],
-    "name:unk_x_variant":[
-        "La Chasse Jacht"
     ],
     "qs:gn_id":0,
     "qs:gn_local":0,
@@ -77,7 +75,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":972545,
-        "qs:id":1103530,
         "qs_pg:id":1103530
     },
     "wof:country":"BE",
@@ -97,7 +94,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1566247550,
+    "wof:lastmodified":1566611070,
     "wof:name":"La Chasse",
     "wof:parent_id":101751573,
     "wof:placetype":"neighbourhood",

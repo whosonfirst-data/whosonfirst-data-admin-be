@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000317,
-    "geom:area_square_m":2490295.699474,
+    "geom:area_square_m":2490295.699476,
     "geom:bbox":"4.66906369572,50.555133742,4.70533930744,50.5810253219",
     "geom:latitude":50.569138,
     "geom:longitude":4.687048,
     "iso:country":"BE",
     "lbl:latitude":50.568986,
     "lbl:longitude":4.686774,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.568986,
     "mps:longitude":4.686774,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Belgi\u00eb#Belgique#Belgien",
     "qs:a1":"*Namur",
     "qs:a1r":"0R\u00e9gion wallone",
@@ -30,7 +34,7 @@
     "qs:type":"rural point-multi-in-poly-resolved",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681699,
         102191581,
@@ -41,10 +45,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":969971,
-        "qs:id":5
+        "qs_pg:id":5
     },
     "wof:country":"BE",
-    "wof:geomhash":"83d9aa105afdea96be470c9679e5479e",
+    "wof:geomhash":"e757f7ee7a27b7894ec444a08e8727ea",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":101839763,
-    "wof:lastmodified":1479887917,
+    "wof:lastmodified":1566611965,
     "wof:name":"Buisson Saint-Guibert",
     "wof:parent_id":102049931,
     "wof:placetype":"locality",

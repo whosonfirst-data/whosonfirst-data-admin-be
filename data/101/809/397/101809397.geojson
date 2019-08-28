@@ -13,10 +13,13 @@
     "iso:country":"BE",
     "lbl:latitude":51.172325,
     "lbl:longitude":5.5816,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":51.172325,
     "mps:longitude":5.5816,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":10.0,
     "name:afr_x_preferred":[
         "Bocholt"
     ],
@@ -100,7 +103,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":8,
     "wof:belongsto":[
@@ -115,7 +118,6 @@
     "wof:concordances":{
         "gn:id":2801754,
         "gp:id":967436,
-        "qs:id":481440,
         "qs_pg:id":481440,
         "wd:id":"Q1159144"
     },
@@ -133,7 +135,7 @@
         }
     ],
     "wof:id":101809397,
-    "wof:lastmodified":1563235424,
+    "wof:lastmodified":1566611940,
     "wof:name":"Bocholt",
     "wof:parent_id":1108830639,
     "wof:placetype":"locality",

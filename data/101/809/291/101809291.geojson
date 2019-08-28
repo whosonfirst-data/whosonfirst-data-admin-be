@@ -5,17 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000247,
-    "geom:area_square_m":1918325.567614,
+    "geom:area_square_m":1918325.567616,
     "geom:bbox":"5.01963471608,51.0201694869,5.07319500094,51.0381533596",
     "geom:latitude":51.028541,
     "geom:longitude":5.049056,
     "iso:country":"BE",
     "lbl:latitude":51.029088,
     "lbl:longitude":5.055678,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":51.029088,
     "mps:longitude":5.055678,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Belgi\u00eb#Belgique#Belgien",
     "qs:a1":"*Limburg",
     "qs:a1r":"0Vlaams Gewest",
@@ -31,7 +34,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681705,
         102191581,
@@ -43,7 +46,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":969391,
-        "qs:id":3
+        "qs_pg:id":3
     },
     "wof:country":"BE",
     "wof:geomhash":"acb4f4a92139318d2affabbf5d31f092",
@@ -59,7 +62,7 @@
         }
     ],
     "wof:id":101809291,
-    "wof:lastmodified":1499531381,
+    "wof:lastmodified":1566611951,
     "wof:name":"Engsbergen",
     "wof:parent_id":1108830641,
     "wof:placetype":"locality",

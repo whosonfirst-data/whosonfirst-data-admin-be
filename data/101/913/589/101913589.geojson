@@ -12,10 +12,13 @@
     "iso:country":"BE",
     "lbl:latitude":50.938252,
     "lbl:longitude":5.138281,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.938252,
     "mps:longitude":5.138281,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Donk"
     ],
@@ -58,7 +61,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":142,
     "wof:belongsto":[
         85681705,
@@ -72,7 +75,6 @@
     "wof:concordances":{
         "gn:id":2799310,
         "gp:id":969013,
-        "qs:id":390681,
         "qs_pg:id":390681,
         "wd:id":"Q406010"
     },
@@ -90,7 +92,7 @@
         }
     ],
     "wof:id":101913589,
-    "wof:lastmodified":1563235304,
+    "wof:lastmodified":1566611902,
     "wof:name":"Donk",
     "wof:parent_id":1108830495,
     "wof:placetype":"locality",

@@ -12,10 +12,13 @@
     "iso:country":"BE",
     "lbl:latitude":50.785449,
     "lbl:longitude":3.838991,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.785449,
     "mps:longitude":3.838991,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Deftinge"
     ],
@@ -45,7 +48,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":97,
     "wof:belongsto":[
         85681733,
@@ -59,7 +62,6 @@
     "wof:concordances":{
         "gn:id":2799792,
         "gp:id":968823,
-        "qs:id":1157952,
         "qs_pg:id":1157952,
         "wd:id":"Q1991101",
         "wk:page":"Deftinge"
@@ -78,7 +80,7 @@
         }
     ],
     "wof:id":101809247,
-    "wof:lastmodified":1561831430,
+    "wof:lastmodified":1566611949,
     "wof:name":"Deftinge",
     "wof:parent_id":1108830669,
     "wof:placetype":"locality",

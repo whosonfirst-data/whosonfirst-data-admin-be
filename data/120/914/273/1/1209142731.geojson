@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Brussels",
     "iso:country":"BE",
+    "lbl:bbox":"5.66333,50.26333,5.70333,50.30333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632997
@@ -37,7 +41,7 @@
         "gn:id":2798233
     },
     "wof:country":"BE",
-    "wof:geomhash":"3010f39d5da5ba3736ec04fca78f8b99",
+    "wof:geomhash":"be1605ce87843df48c1508b70e394a95",
     "wof:hierarchy":[
         {
             "country_id":85632997,
@@ -45,7 +49,7 @@
         }
     ],
     "wof:id":1209142731,
-    "wof:lastmodified":1536296452,
+    "wof:lastmodified":1566611372,
     "wof:name":"Fond de la Justice",
     "wof:parent_id":85632997,
     "wof:placetype":"locality",
@@ -55,9 +59,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    5.6833300000000015,
+    5.68333,
     50.28333,
-    5.6833300000000015,
+    5.68333,
     50.28333
 ],
   "geometry": {"coordinates":[5.68333,50.28333],"type":"Point"}

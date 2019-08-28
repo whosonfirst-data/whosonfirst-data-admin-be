@@ -9,16 +9,19 @@
     "geom:bbox":"5.45285,50.57728,5.45285,50.57728",
     "geom:latitude":50.57728,
     "geom:longitude":5.45285,
-    "gn:gn_country":"BE",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"BE",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"BE",
+    "lbl:bbox":"5.44785,50.57228,5.45785,50.58228",
     "lbl:latitude":50.57728,
     "lbl:longitude":5.45285,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Les Tiers"
     ],
     "qs_pg:aaroncc":"BE",
@@ -42,18 +45,18 @@
     "qs_pg:woe_adm0":23424757,
     "qs_pg:woe_id":973449,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424757,
     "woe:name_adm0":"Belgique",
     "woe:name_adm1":"Li\u00e8ge",
     "woe:placetype":"Suburb",
     "wof:belongsto":[
-        85681691,
         102191581,
         85632997,
         404227353,
         101748083,
-        102049941
+        102049941,
+        85681691
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -76,7 +79,7 @@
         }
     ],
     "wof:id":1126071175,
-    "wof:lastmodified":1509410682,
+    "wof:lastmodified":1566612191,
     "wof:name":"Les Thiers",
     "wof:parent_id":101748083,
     "wof:placetype":"neighbourhood",

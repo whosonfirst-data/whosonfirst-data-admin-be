@@ -9,14 +9,18 @@
     "geom:bbox":"5.8703,50.39391,5.8703,50.39391",
     "geom:latitude":50.39391,
     "geom:longitude":5.8703,
-    "gn:gn_country":"BE",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"BE",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"BE",
+    "lbl:bbox":"5.8503,50.37391,5.8903,50.41391",
     "lbl:latitude":50.39391,
     "lbl:longitude":5.8703,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:cat_x_preferred":[
         "Coo"
@@ -37,9 +41,6 @@
         "Coo"
     ],
     "name:spa_x_preferred":[
-        "Coo"
-    ],
-    "name:unk_x_variant":[
         "Coo"
     ],
     "qs_pg:aaroncc":"BE",
@@ -63,7 +64,7 @@
     "qs_pg:woe_adm0":23424757,
     "qs_pg:woe_id":970226,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424757,
     "woe:name_adm0":"Belgique",
     "woe:name_adm1":"Li\u00e8ge",
@@ -96,7 +97,7 @@
         }
     ],
     "wof:id":1125811109,
-    "wof:lastmodified":1561831453,
+    "wof:lastmodified":1566612086,
     "wof:name":"Grand Coo",
     "wof:parent_id":102049935,
     "wof:placetype":"locality",

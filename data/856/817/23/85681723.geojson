@@ -24,6 +24,7 @@
     ],
     "lbl:latitude":50.513411,
     "lbl:longitude":3.92736,
+    "lbl:min_zoom":8.0,
     "mps:latitude":50.513411,
     "mps:longitude":3.92736,
     "mz:hierarchy_label":1,
@@ -80,9 +81,6 @@
     ],
     "name:slk_x_preferred":[
         "Hennegavsko"
-    ],
-    "name:unk_x_variant":[
-        "Hennegau"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"BEL",
@@ -157,9 +155,9 @@
     "qs:type":"Province#Provincie#Provinz",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-01-01",
+    "src:population_date":"2010-01-01",
     "statoids:area_km":"3,787",
     "statoids:area_mi":"1,462",
     "statoids:as_of_date":"2010-01-01",
@@ -209,11 +207,10 @@
         "fra",
         "deu"
     ],
-    "wof:lastmodified":1565814523,
+    "wof:lastmodified":1566611068,
     "wof:name":"Hainaut",
     "wof:parent_id":404227353,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"province",
     "wof:population":1309880,
     "wof:population_rank":12,

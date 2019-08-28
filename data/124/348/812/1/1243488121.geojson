@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Brussels",
     "iso:country":"BE",
+    "lbl:bbox":"5.09667,51.23,5.13667,51.27",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Boschhoek",
         "Boshoek"
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1243488121,
-    "wof:lastmodified":1537587070,
+    "wof:lastmodified":1566612310,
     "wof:name":"Boshoek",
     "wof:parent_id":1108830547,
     "wof:placetype":"locality",

@@ -5,13 +5,15 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":399622.054747,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.569188,50.633955,5.569188,50.633955",
     "geom:latitude":50.633955,
     "geom:longitude":5.569188,
     "iso:country":"BE",
+    "lbl:bbox":"5.564188,50.628955,5.574188,50.638955",
     "lbl:latitude":50.633955,
     "lbl:longitude":5.569188,
+    "lbl:max_zoom":18.0,
     "mps:latitude":50.634655,
     "mps:longitude":5.569221,
     "mz:hierarchy_label":0,
@@ -29,9 +31,6 @@
     "name:fra_x_variant":[
         "Saint Gilles",
         "St Gilles"
-    ],
-    "name:unk_x_variant":[
-        "St. Gilles"
     ],
     "qs:gn_adm0_cc":"BE",
     "qs:gn_fcode":"PPL",
@@ -63,20 +62,19 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
-        85681691,
         102191581,
         85632997,
         404227353,
         101748083,
-        102049941
+        102049941,
+        85681691
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2787414,
         "gp:id":977127,
-        "qs:id":187049,
         "qs_pg:id":187049
     },
     "wof:country":"BE",
@@ -96,7 +94,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1531862106,
+    "wof:lastmodified":1566611087,
     "wof:name":"St. Gilles",
     "wof:parent_id":101748083,
     "wof:placetype":"neighbourhood",

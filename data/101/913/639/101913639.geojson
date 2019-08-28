@@ -12,10 +12,13 @@
     "iso:country":"BE",
     "lbl:latitude":51.018992,
     "lbl:longitude":4.235635,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":51.018992,
     "mps:longitude":4.235635,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Malderen"
     ],
@@ -47,7 +50,7 @@
     "qs:type":"suburbs point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681733,
         102191581,
@@ -60,7 +63,7 @@
     "wof:concordances":{
         "gn:id":2791854,
         "gp:id":973883,
-        "qs:id":1072279,
+        "qs_pg:id":1072279,
         "wd:id":"Q637158"
     },
     "wof:country":"BE",
@@ -77,7 +80,7 @@
         }
     ],
     "wof:id":101913639,
-    "wof:lastmodified":1563235321,
+    "wof:lastmodified":1566611905,
     "wof:name":"Malderen",
     "wof:parent_id":1108830107,
     "wof:placetype":"locality",

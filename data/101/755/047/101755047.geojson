@@ -12,10 +12,13 @@
     "iso:country":"BE",
     "lbl:latitude":50.526152,
     "lbl:longitude":5.255711,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.526152,
     "mps:longitude":5.255711,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0628\u0648\u0646 \u0625\u0633\u0628\u0631\u0627\u0646\u0633"
     ],
@@ -49,7 +52,7 @@
     "qs:type":"suburbs point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":583,
     "wof:belongsto":[
         85681691,
@@ -61,7 +64,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":977808,
-        "qs:id":4
+        "qs_pg:id":4
     },
     "wof:country":"BE",
     "wof:geomhash":"244bbbaa5cfdc79550cb0e6313883bd1",
@@ -76,7 +79,7 @@
         }
     ],
     "wof:id":101755047,
-    "wof:lastmodified":1527641698,
+    "wof:lastmodified":1566611819,
     "wof:name":"Bonne Esp\u00e9rance",
     "wof:parent_id":102049925,
     "wof:placetype":"locality",

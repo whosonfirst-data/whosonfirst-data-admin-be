@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Brussels",
     "iso:country":"BE",
+    "lbl:bbox":"3.47661,50.86819,3.51661,50.90819",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:als_x_preferred":[
         "Berken"
     ],
@@ -112,7 +116,7 @@
         }
     ],
     "wof:id":1259412231,
-    "wof:lastmodified":1564163562,
+    "wof:lastmodified":1566612392,
     "wof:name":"Berken",
     "wof:parent_id":1108830549,
     "wof:placetype":"locality",

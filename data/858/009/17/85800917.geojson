@@ -12,6 +12,7 @@
     "iso:country":"BE",
     "lbl:latitude":50.836698,
     "lbl:longitude":4.277961,
+    "lbl:max_zoom":18.0,
     "mps:latitude":50.836319,
     "mps:longitude":4.25071,
     "mz:hierarchy_label":1,
@@ -53,9 +54,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u0411\u043e\u043d-\u0415\u0439\u0440"
-    ],
-    "name:unk_x_variant":[
-        "Bon Air"
     ],
     "name:vol_x_preferred":[
         "Bon Air"
@@ -101,7 +99,6 @@
     "wof:concordances":{
         "gn:id":2801554,
         "gp:id":967566,
-        "qs:id":186776,
         "qs_pg:id":186776
     },
     "wof:country":"BE",
@@ -121,7 +118,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1566247566,
+    "wof:lastmodified":1566611081,
     "wof:name":"Bon Air",
     "wof:parent_id":101751573,
     "wof:placetype":"neighbourhood",

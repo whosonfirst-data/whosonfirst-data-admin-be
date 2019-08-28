@@ -13,10 +13,13 @@
     "iso:country":"BE",
     "lbl:latitude":50.683149,
     "lbl:longitude":6.09591,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":50.683149,
     "mps:longitude":6.09591,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bre_x_preferred":[
         "Raeren"
     ],
@@ -136,7 +139,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":149,
     "wof:belongsto":[
@@ -150,7 +153,6 @@
     "wof:concordances":{
         "gn:id":2788410,
         "gp:id":976019,
-        "qs:id":192322,
         "qs_pg:id":192322,
         "wd:id":"Q152734"
     },
@@ -167,7 +169,7 @@
         }
     ],
     "wof:id":101810423,
-    "wof:lastmodified":1563235225,
+    "wof:lastmodified":1566611882,
     "wof:name":"Raeren",
     "wof:parent_id":102049935,
     "wof:placetype":"locality",

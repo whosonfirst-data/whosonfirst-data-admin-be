@@ -12,10 +12,13 @@
     "iso:country":"BE",
     "lbl:latitude":50.92334,
     "lbl:longitude":4.009849,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.92334,
     "mps:longitude":4.009849,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Nieuwerkerken"
     ],
@@ -45,7 +48,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681733,
         102191581,
@@ -58,7 +61,6 @@
     "wof:concordances":{
         "gn:id":2790178,
         "gp:id":974901,
-        "qs:id":987928,
         "qs_pg:id":987928,
         "wd:id":"Q842753",
         "wk:page":"Aalst, Belgium"
@@ -77,7 +79,7 @@
         }
     ],
     "wof:id":101755337,
-    "wof:lastmodified":1561831397,
+    "wof:lastmodified":1566611809,
     "wof:name":"Nieuwerkerken",
     "wof:parent_id":1108830515,
     "wof:placetype":"locality",

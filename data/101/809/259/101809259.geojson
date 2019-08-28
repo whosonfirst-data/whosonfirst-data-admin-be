@@ -13,10 +13,13 @@
     "iso:country":"BE",
     "lbl:latitude":50.908177,
     "lbl:longitude":5.060912,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":50.908177,
     "mps:longitude":5.060912,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bre_x_preferred":[
         "Kortenaken"
     ],
@@ -86,7 +89,7 @@
     "name:swe_x_preferred":[
         "Kortenaken"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Cortenaeken"
     ],
     "name:vie_x_preferred":[
@@ -119,7 +122,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":114,
     "wof:belongsto":[
@@ -134,7 +137,6 @@
     "wof:concordances":{
         "gn:id":2794072,
         "gp:id":972276,
-        "qs:id":942719,
         "qs_pg:id":942719,
         "wd:id":"Q984877"
     },
@@ -152,7 +154,7 @@
         }
     ],
     "wof:id":101809259,
-    "wof:lastmodified":1563235434,
+    "wof:lastmodified":1566611943,
     "wof:name":"Kortenaken",
     "wof:parent_id":1108830345,
     "wof:placetype":"locality",

@@ -5,18 +5,21 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001655,
-    "geom:area_square_m":12891486.350679,
+    "geom:area_square_m":12891486.350678,
     "geom:bbox":"5.45708188069,50.9287752415,5.50663611888,50.986613979",
     "geom:latitude":50.955842,
     "geom:longitude":5.482511,
     "iso:country":"BE",
     "lbl:latitude":50.957842,
     "lbl:longitude":5.482685,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.957842,
     "mps:longitude":5.482685,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":12.0,
+    "name:und_x_variant":[
         "Oud Termien"
     ],
     "qs:a0":"Belgi\u00eb#Belgique#Belgien",
@@ -34,7 +37,7 @@
     "qs:type":"rural point-multi-in-poly-resolved",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681705,
         102191581,
@@ -47,7 +50,7 @@
     "wof:concordances":{
         "gn:id":2785661,
         "gp:id":977705,
-        "qs:id":6
+        "qs_pg:id":6
     },
     "wof:country":"BE",
     "wof:geomhash":"8777b1d2613296d525e5d6a5da7ed2bd",
@@ -63,7 +66,7 @@
         }
     ],
     "wof:id":101838801,
-    "wof:lastmodified":1501264105,
+    "wof:lastmodified":1566611934,
     "wof:name":"Oud-Termien",
     "wof:parent_id":1108830655,
     "wof:placetype":"locality",

@@ -12,10 +12,13 @@
     "iso:country":"BE",
     "lbl:latitude":50.551772,
     "lbl:longitude":5.250463,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.551772,
     "mps:longitude":5.250463,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Antheit"
     ],
@@ -34,7 +37,7 @@
     "name:sco_x_preferred":[
         "Antheit"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Wanze (Antheit)"
     ],
     "qs:a0":"Belgi\u00eb#Belgique#Belgien",
@@ -54,7 +57,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681691,
         102191581,
@@ -66,7 +69,6 @@
     "wof:concordances":{
         "gn:id":2803150,
         "gp:id":966586,
-        "qs:id":273154,
         "qs_pg:id":273154,
         "wd:id":"Q2852722"
     },
@@ -83,7 +85,7 @@
         }
     ],
     "wof:id":101755041,
-    "wof:lastmodified":1561831398,
+    "wof:lastmodified":1566611814,
     "wof:name":"Antheit",
     "wof:parent_id":102049925,
     "wof:placetype":"locality",

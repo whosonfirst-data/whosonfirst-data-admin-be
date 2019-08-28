@@ -12,10 +12,13 @@
     "iso:country":"BE",
     "lbl:latitude":51.092119,
     "lbl:longitude":5.140398,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":51.092119,
     "mps:longitude":5.140398,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Kwaadmechelen"
     ],
@@ -37,7 +40,7 @@
     "name:swe_x_preferred":[
         "Kwaadmechelen"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Zwaadmechelen"
     ],
     "qs:a0":"Belgi\u00eb#Belgique#Belgien",
@@ -57,7 +60,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681705,
         102191581,
@@ -71,7 +74,6 @@
     "wof:concordances":{
         "gn:id":2793853,
         "gp:id":972427,
-        "qs:id":888523,
         "qs_pg:id":888523,
         "wd:id":"Q2197305",
         "wk:page":"Kwaadmechelen"
@@ -90,7 +92,7 @@
         }
     ],
     "wof:id":1175610543,
-    "wof:lastmodified":1563234790,
+    "wof:lastmodified":1566611688,
     "wof:name":"Kwaadmechelen",
     "wof:parent_id":1108830379,
     "wof:placetype":"locality",

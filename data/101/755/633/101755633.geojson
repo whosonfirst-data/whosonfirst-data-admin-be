@@ -12,10 +12,13 @@
     "iso:country":"BE",
     "lbl:latitude":51.008249,
     "lbl:longitude":4.599305,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":51.008249,
     "mps:longitude":4.599305,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u041f\u0430\u043b"
     ],
@@ -40,7 +43,7 @@
     "name:swe_x_preferred":[
         "Paal"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Pael"
     ],
     "qs:a0":"Belgi\u00eb#Belgique#Belgien",
@@ -58,7 +61,7 @@
     "qs:type":"suburbs point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681715,
         102191581,
@@ -71,7 +74,7 @@
     "wof:concordances":{
         "gn:id":2789388,
         "gp:id":975379,
-        "qs:id":114751,
+        "qs_pg:id":114751,
         "wd:id":"Q2143446",
         "wk:page":"Paal, Belgium"
     },
@@ -89,7 +92,7 @@
         }
     ],
     "wof:id":101755633,
-    "wof:lastmodified":1563235015,
+    "wof:lastmodified":1566611820,
     "wof:name":"Grote Paal",
     "wof:parent_id":1108830049,
     "wof:placetype":"locality",

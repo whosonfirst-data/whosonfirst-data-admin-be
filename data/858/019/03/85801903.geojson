@@ -13,6 +13,7 @@
     "iso:country":"BE",
     "lbl:latitude":50.82724,
     "lbl:longitude":4.346762,
+    "lbl:max_zoom":18.0,
     "mps:latitude":50.825346,
     "mps:longitude":4.344756,
     "mz:hierarchy_label":1,
@@ -47,9 +48,6 @@
         "St-Gilles",
         "Sint-Gillis",
         "Gemeente Sint-Gilles"
-    ],
-    "name:unk_x_variant":[
-        "St.-Gilles"
     ],
     "qs:gn_adm0_cc":"BE",
     "qs:gn_fcode":"ADM4",
@@ -94,7 +92,6 @@
     "wof:concordances":{
         "gn:id":2787415,
         "gp:id":977182,
-        "qs:id":1145612,
         "qs_pg:id":1145612
     },
     "wof:country":"BE",
@@ -114,7 +111,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1566247550,
+    "wof:lastmodified":1566611095,
     "wof:name":"St.-Gilles",
     "wof:parent_id":101751573,
     "wof:placetype":"neighbourhood",

@@ -12,10 +12,13 @@
     "iso:country":"BE",
     "lbl:latitude":50.562612,
     "lbl:longitude":4.549651,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.562612,
     "mps:longitude":4.549651,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u041c\u0430\u0440\u0431\u0430\u0438\u0441"
     ],
@@ -40,7 +43,7 @@
     "name:swe_x_preferred":[
         "Marbais"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Villers-la-Ville (Marbais)"
     ],
     "name:vls_x_preferred":[
@@ -66,7 +69,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":460,
     "wof:belongsto":[
         85681693,
@@ -79,7 +82,6 @@
     "wof:concordances":{
         "gn:id":2791757,
         "gp:id":973949,
-        "qs:id":901372,
         "qs_pg:id":901372,
         "wd:id":"Q3287548",
         "wk:page":"Marbais"
@@ -97,7 +99,7 @@
         }
     ],
     "wof:id":101810497,
-    "wof:lastmodified":1563235227,
+    "wof:lastmodified":1566611883,
     "wof:name":"Marbais",
     "wof:parent_id":102049945,
     "wof:placetype":"locality",

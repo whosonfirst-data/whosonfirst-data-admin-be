@@ -12,10 +12,13 @@
     "iso:country":"BE",
     "lbl:latitude":51.255474,
     "lbl:longitude":5.5437,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":51.255474,
     "mps:longitude":5.5437,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Hamont-Achel"
     ],
@@ -115,7 +118,7 @@
     "name:tur_x_preferred":[
         "Hamont-Achel"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Hamont-Achel (Hamont)"
     ],
     "name:vie_x_preferred":[
@@ -147,7 +150,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":286,
     "wof:belongsto":[
         85681705,
@@ -161,7 +164,6 @@
     "wof:concordances":{
         "gn:id":2796625,
         "gp:id":970612,
-        "qs:id":3966,
         "qs_pg:id":3966,
         "wd:id":"Q499599"
     },
@@ -179,7 +181,7 @@
         }
     ],
     "wof:id":101838921,
-    "wof:lastmodified":1563235415,
+    "wof:lastmodified":1566611936,
     "wof:name":"Hamont",
     "wof:parent_id":1108830117,
     "wof:placetype":"locality",

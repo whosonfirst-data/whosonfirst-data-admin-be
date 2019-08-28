@@ -13,10 +13,13 @@
     "iso:country":"BE",
     "lbl:latitude":50.822116,
     "lbl:longitude":4.502229,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":50.822116,
     "mps:longitude":4.502229,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:afr_x_preferred":[
         "Tervuren"
     ],
@@ -131,9 +134,6 @@
     "name:ukr_x_preferred":[
         "\u0422\u0435\u0440\u0432\u044e\u0440\u0435\u043d"
     ],
-    "name:unk_x_variant":[
-        "Tervueren"
-    ],
     "name:vie_x_preferred":[
         "Tervuren"
     ],
@@ -163,7 +163,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":687,
     "wof:belongsto":[
@@ -178,7 +178,6 @@
     "wof:concordances":{
         "gn:id":2785622,
         "gp:id":977726,
-        "qs:id":239974,
         "qs_pg:id":239974,
         "wd:id":"Q456544",
         "wk:page":"Tervuren"
@@ -197,7 +196,7 @@
         }
     ],
     "wof:id":101754329,
-    "wof:lastmodified":1563235167,
+    "wof:lastmodified":1566611867,
     "wof:name":"Tervuren",
     "wof:parent_id":1108830631,
     "wof:placetype":"locality",

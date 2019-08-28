@@ -18,10 +18,13 @@
     ],
     "lbl:latitude":50.626263,
     "lbl:longitude":3.425374,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "mps:latitude":50.626263,
     "mps:longitude":3.425374,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:afr_x_preferred":[
         "Doornik"
     ],
@@ -225,7 +228,7 @@
     "qs:source":"EuroGlobalMap",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":1935,
     "wof:belongsto":[
         102191581,
@@ -250,7 +253,7 @@
         }
     ],
     "wof:id":102049951,
-    "wof:lastmodified":1563233737,
+    "wof:lastmodified":1566610947,
     "wof:name":"Tournai",
     "wof:parent_id":85681723,
     "wof:placetype":"county",

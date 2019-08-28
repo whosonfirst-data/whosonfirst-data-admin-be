@@ -9,14 +9,17 @@
     "geom:bbox":"4.62076884936,51.072624567,4.6892295523,51.1043530992",
     "geom:latitude":51.086859,
     "geom:longitude":4.664854,
-    "geonames:id":"2796206,2796207,2796210",
+    "gn:id":"2796206,2796207,2796210",
     "iso:country":"BE",
     "lbl:latitude":51.086102,
     "lbl:longitude":4.665686,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":51.086102,
     "mps:longitude":4.665686,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Heikant"
     ],
@@ -229,7 +232,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":300,
     "wof:belongsto":[
         85681715,
@@ -243,7 +246,6 @@
     "wof:concordances":{
         "gn:id":2796210,
         "gp:id":970894,
-        "qs:id":326391,
         "qs_pg:id":326391,
         "wd:id":"Q407465"
     },
@@ -261,7 +263,7 @@
         }
     ],
     "wof:id":101755657,
-    "wof:lastmodified":1563235030,
+    "wof:lastmodified":1566611825,
     "wof:name":"Heikant",
     "wof:parent_id":1108830233,
     "wof:placetype":"locality",

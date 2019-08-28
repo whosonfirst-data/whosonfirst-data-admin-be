@@ -5,17 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000578,
-    "geom:area_square_m":4472888.063993,
+    "geom:area_square_m":4472888.063992,
     "geom:bbox":"4.64707144773,51.2573479571,4.69245830277,51.2815204999",
     "geom:latitude":51.269634,
     "geom:longitude":4.666994,
     "iso:country":"BE",
     "lbl:latitude":51.270773,
     "lbl:longitude":4.659772,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":51.270773,
     "mps:longitude":4.659772,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Belgi\u00eb#Belgique#Belgien",
     "qs:a1":"*Antwerpen",
     "qs:a1r":"0Vlaams Gewest",
@@ -31,7 +34,7 @@
     "qs:type":"suburbs point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681715,
         102191581,
@@ -43,7 +46,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":12602781,
-        "qs:id":2
+        "qs_pg:id":2
     },
     "wof:country":"BE",
     "wof:geomhash":"ec5ebbc3cd6d877c7c4e54a2b8d8a1ee",
@@ -59,7 +62,7 @@
         }
     ],
     "wof:id":101755767,
-    "wof:lastmodified":1499530831,
+    "wof:lastmodified":1566611832,
     "wof:name":"Mostheuvel",
     "wof:parent_id":1108830221,
     "wof:placetype":"locality",

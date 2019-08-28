@@ -5,17 +5,21 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000636,
-    "geom:area_square_m":4978357.834844,
+    "geom:area_square_m":4978357.834843,
     "geom:bbox":"4.57046355813,50.6947513934,4.61067301191,50.7265617491",
     "geom:latitude":50.710343,
     "geom:longitude":4.588666,
     "iso:country":"BE",
     "lbl:latitude":50.704711,
     "lbl:longitude":4.590651,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.704711,
     "mps:longitude":4.590651,
     "mz:hierarchy_label":1,
-    "name:unk_x_variant":[
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
+    "name:und_x_variant":[
         "Wavre (Bierges)"
     ],
     "qs:a0":"Belgi\u00eb#Belgique#Belgien",
@@ -35,7 +39,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681693,
         102191581,
@@ -47,7 +51,6 @@
     "wof:concordances":{
         "gn:id":2801992,
         "gp:id":967299,
-        "qs:id":182646,
         "qs_pg:id":182646
     },
     "wof:country":"BE",
@@ -63,7 +66,7 @@
         }
     ],
     "wof:id":101755225,
-    "wof:lastmodified":1497296874,
+    "wof:lastmodified":1566611842,
     "wof:name":"Bierges",
     "wof:parent_id":102049945,
     "wof:placetype":"locality",

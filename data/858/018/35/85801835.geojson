@@ -10,8 +10,10 @@
     "geom:latitude":50.788575,
     "geom:longitude":4.294607,
     "iso:country":"BE",
+    "lbl:bbox":"4.289607,50.783575,4.299607,50.793575",
     "lbl:latitude":50.788575,
     "lbl:longitude":4.294607,
+    "lbl:max_zoom":18.0,
     "mps:latitude":50.786185,
     "mps:longitude":4.294595,
     "mz:hierarchy_label":0,
@@ -65,9 +67,8 @@
     "name:swe_x_preferred":[
         "Ruisbroek"
     ],
-    "name:unk_x_variant":[
-        "Sint-Pieters-Leeuw (Ruisbroek)",
-        "Ruisbroek"
+    "name:und_x_variant":[
+        "Sint-Pieters-Leeuw (Ruisbroek)"
     ],
     "qs:gn_fcode":"PPL",
     "qs:gn_local":0,
@@ -97,7 +98,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:latitude":50.7903,
     "wd:longitude":4.2975,
     "wd:wordcount":158,
@@ -114,7 +115,6 @@
     "wof:concordances":{
         "gn:id":2787552,
         "gp:id":976545,
-        "qs:id":4733,
         "qs_pg:id":4733,
         "wd:id":"Q1993738",
         "wk:page":"Ruisbroek, Flemish Brabant"
@@ -137,7 +137,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1563233974,
+    "wof:lastmodified":1566611085,
     "wof:name":"Ruisbroek",
     "wof:parent_id":101913243,
     "wof:placetype":"neighbourhood",

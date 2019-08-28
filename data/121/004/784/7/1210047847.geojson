@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Brussels",
     "iso:country":"BE",
+    "lbl:bbox":"5.48806,49.84596,5.52806,49.88596",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bug_x_preferred":[
         "Marfontaine"
     ],
@@ -107,8 +111,7 @@
         "\u041c\u0430\u0440\u0444\u043e\u043d\u0442\u0435\u043d"
     ],
     "name:und_x_variant":[
-        "A Marfontaine",
-        "Marfontaine"
+        "A Marfontaine"
     ],
     "name:uzb_x_preferred":[
         "Marfontaine"
@@ -153,7 +156,7 @@
         }
     ],
     "wof:id":1210047847,
-    "wof:lastmodified":1564162455,
+    "wof:lastmodified":1566611431,
     "wof:name":"Marfontaine",
     "wof:parent_id":102049913,
     "wof:placetype":"locality",

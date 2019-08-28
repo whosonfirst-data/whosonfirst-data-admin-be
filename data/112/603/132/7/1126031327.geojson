@@ -9,14 +9,18 @@
     "geom:bbox":"3.75224,50.84946,3.75224,50.84946",
     "geom:latitude":50.84946,
     "geom:longitude":3.75224,
-    "gn:gn_country":"BE",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"BE",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"BE",
+    "lbl:bbox":"3.73224,50.82946,3.77224,50.86946",
     "lbl:latitude":50.84946,
     "lbl:longitude":3.75224,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Rozebeke"
@@ -36,7 +40,7 @@
     "name:nld_x_preferred":[
         "Rozebeke"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Roosebeke"
     ],
     "qs_pg:aaroncc":"BE",
@@ -58,7 +62,7 @@
     "qs_pg:woe_adm0":23424757,
     "qs_pg:woe_id":976516,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424757,
     "woe:name_adm0":"Belgique",
     "woe:name_adm1":"Oost-Vlaanderen",
@@ -93,7 +97,7 @@
         }
     ],
     "wof:id":1126031327,
-    "wof:lastmodified":1563235705,
+    "wof:lastmodified":1566612069,
     "wof:name":"Rozebeke",
     "wof:parent_id":1108830583,
     "wof:placetype":"locality",

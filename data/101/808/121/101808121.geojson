@@ -13,10 +13,13 @@
     "iso:country":"BE",
     "lbl:latitude":51.298253,
     "lbl:longitude":3.082345,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":51.298253,
     "mps:longitude":3.082345,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Wenduine"
     ],
@@ -44,7 +47,7 @@
     "name:swe_x_preferred":[
         "Wenduine"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Wenduyne"
     ],
     "name:vls_x_preferred":[
@@ -67,7 +70,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":83,
     "wof:belongsto":[
@@ -82,7 +85,6 @@
     "wof:concordances":{
         "gn:id":2783854,
         "gp:id":978782,
-        "qs:id":239972,
         "qs_pg:id":239972,
         "wd:id":"Q498639",
         "wk:page":"Wenduine"
@@ -101,7 +103,7 @@
         }
     ],
     "wof:id":101808121,
-    "wof:lastmodified":1561831433,
+    "wof:lastmodified":1566611963,
     "wof:name":"Wenduine",
     "wof:parent_id":1108830685,
     "wof:placetype":"locality",

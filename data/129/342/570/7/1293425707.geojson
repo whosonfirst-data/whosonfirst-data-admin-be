@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Brussels",
     "iso:country":"BE",
+    "lbl:bbox":"4.03885,50.83986,4.07885,50.87986",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bre_x_preferred":[
         "Evergem"
     ],
@@ -107,8 +111,7 @@
         "Evergem"
     ],
     "name:und_x_variant":[
-        "Eversem",
-        "Evergem"
+        "Eversem"
     ],
     "name:vie_x_preferred":[
         "Evergem"
@@ -149,7 +152,7 @@
         }
     ],
     "wof:id":1293425707,
-    "wof:lastmodified":1564162062,
+    "wof:lastmodified":1566611207,
     "wof:name":"Evergem",
     "wof:parent_id":1108830403,
     "wof:placetype":"locality",

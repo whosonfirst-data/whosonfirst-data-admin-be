@@ -13,10 +13,13 @@
     "iso:country":"BE",
     "lbl:latitude":50.813616,
     "lbl:longitude":3.178779,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":50.813616,
     "mps:longitude":3.178779,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:ara_x_preferred":[
         "\u0648\u0641\u0644\u062c\u0645"
     ],
@@ -128,7 +131,7 @@
     "name:swe_x_preferred":[
         "Wevelgem"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Wevelghem"
     ],
     "name:vie_x_preferred":[
@@ -167,7 +170,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85681709,
@@ -182,7 +185,6 @@
         "fct:id":"03697760-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2783759,
         "gp:id":978841,
-        "qs:id":1087716,
         "qs_pg:id":1087716,
         "wd:id":"Q392343",
         "wk:page":"Wevelgem"
@@ -204,7 +206,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1563235058,
+    "wof:lastmodified":1566611832,
     "wof:name":"Wevelgem",
     "wof:parent_id":1108830127,
     "wof:placetype":"locality",

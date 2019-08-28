@@ -13,10 +13,13 @@
     "iso:country":"BE",
     "lbl:latitude":50.701439,
     "lbl:longitude":5.211995,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":50.701439,
     "mps:longitude":5.211995,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bre_x_preferred":[
         "Berloz"
     ],
@@ -127,7 +130,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":74,
     "wof:belongsto":[
@@ -142,7 +145,6 @@
     "wof:concordances":{
         "gn:id":2802143,
         "gp:id":967212,
-        "qs:id":250208,
         "qs_pg:id":250208,
         "wd:id":"Q680978",
         "wk:page":"Berloz"
@@ -160,7 +162,7 @@
         }
     ],
     "wof:id":1175610563,
-    "wof:lastmodified":1563234800,
+    "wof:lastmodified":1566611691,
     "wof:name":"Berloz",
     "wof:parent_id":102049937,
     "wof:placetype":"locality",

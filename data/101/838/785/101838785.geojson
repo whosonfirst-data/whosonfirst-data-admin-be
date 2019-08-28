@@ -12,10 +12,13 @@
     "iso:country":"BE",
     "lbl:latitude":50.978083,
     "lbl:longitude":5.528493,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.978083,
     "mps:longitude":5.528493,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Bret"
     ],
@@ -139,7 +142,7 @@
     "qs:type":"rural point-multi-in-poly-resolved",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":222,
     "wof:belongsto":[
         85681705,
@@ -153,7 +156,7 @@
     "wof:concordances":{
         "gn:id":2801059,
         "gp:id":970002,
-        "qs:id":2,
+        "qs_pg:id":2,
         "wd:id":"Q21287042"
     },
     "wof:country":"BE",
@@ -170,7 +173,7 @@
         }
     ],
     "wof:id":101838785,
-    "wof:lastmodified":1563235379,
+    "wof:lastmodified":1566611924,
     "wof:name":"Bret",
     "wof:parent_id":1108830655,
     "wof:placetype":"locality",

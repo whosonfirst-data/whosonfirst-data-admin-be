@@ -12,10 +12,13 @@
     "iso:country":"BE",
     "lbl:latitude":50.19706,
     "lbl:longitude":6.134462,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.19706,
     "mps:longitude":6.134462,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Reuland"
     ],
@@ -43,7 +46,7 @@
     "name:swe_x_preferred":[
         "Reuland"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Burg-Reuland (Reuland)"
     ],
     "qs:a0":"Belgi\u00eb#Belgique#Belgien",
@@ -63,7 +66,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:elevation":355.0,
     "wd:latitude":49.75,
     "wd:longitude":6.266667,
@@ -79,7 +82,6 @@
     "wof:concordances":{
         "gn:id":7732012,
         "gp:id":976197,
-        "qs:id":267706,
         "qs_pg:id":267706,
         "wd:id":"Q3246473"
     },
@@ -96,7 +98,7 @@
         }
     ],
     "wof:id":101811713,
-    "wof:lastmodified":1563235186,
+    "wof:lastmodified":1566611872,
     "wof:name":"Reuland",
     "wof:parent_id":102049935,
     "wof:placetype":"locality",

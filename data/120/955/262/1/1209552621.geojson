@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Brussels",
     "iso:country":"BE",
+    "lbl:bbox":"4.45646,50.63485,4.49646,50.67485",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632997
@@ -37,7 +41,7 @@
         "gn:id":2787179
     },
     "wof:country":"BE",
-    "wof:geomhash":"e2f58a711abf1c1ccb4a33f572df8a6e",
+    "wof:geomhash":"98860ca35b12f3a87e4bce733e98bae1",
     "wof:hierarchy":[
         {
             "country_id":85632997,
@@ -45,7 +49,7 @@
         }
     ],
     "wof:id":1209552621,
-    "wof:lastmodified":1536283645,
+    "wof:lastmodified":1566611345,
     "wof:name":"Sauvagemont",
     "wof:parent_id":85632997,
     "wof:placetype":"locality",
@@ -55,9 +59,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    4.4764599999999986,
+    4.47646,
     50.65485,
-    4.4764599999999986,
+    4.47646,
     50.65485
 ],
   "geometry": {"coordinates":[4.47646,50.65485],"type":"Point"}

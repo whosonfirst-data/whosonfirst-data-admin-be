@@ -12,6 +12,7 @@
     "iso:country":"BE",
     "lbl:latitude":50.890688,
     "lbl:longitude":4.336464,
+    "lbl:max_zoom":18.0,
     "mps:latitude":50.886575,
     "mps:longitude":4.328613,
     "mz:hierarchy_label":1,
@@ -76,10 +77,6 @@
     "name:swe_x_variant":[
         "Hoboken"
     ],
-    "name:unk_x_variant":[
-        "Heizel",
-        "Heisel"
-    ],
     "qs:gn_fcode":"PPL",
     "qs:gn_local":0,
     "qs:gn_namadm1":"WAL",
@@ -121,7 +118,6 @@
     "wof:concordances":{
         "gn:id":2795774,
         "gp:id":970930,
-        "qs:id":1169818,
         "qs_pg:id":1169818,
         "wd:id":"Q155285",
         "wk:page":"Heysel Plateau"
@@ -143,7 +139,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1566247549,
+    "wof:lastmodified":1566611073,
     "wof:name":"Heysel",
     "wof:parent_id":101751573,
     "wof:placetype":"neighbourhood",

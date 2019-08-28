@@ -10,8 +10,10 @@
     "geom:latitude":51.039012,
     "geom:longitude":3.700524,
     "iso:country":"BE",
+    "lbl:bbox":"3.695524,51.034012,3.705524,51.044012",
     "lbl:latitude":51.039012,
     "lbl:longitude":3.700524,
+    "lbl:max_zoom":18.0,
     "mps:latitude":51.037076,
     "mps:longitude":3.691288,
     "mz:hierarchy_label":0,
@@ -55,10 +57,6 @@
     "name:nld_x_variant":[
         "Aalst St.-Pieter"
     ],
-    "name:unk_x_variant":[
-        "Aalst Sint-Pieter",
-        "Aalst St.-Pieter"
-    ],
     "qs:gn_adm0_cc":"BE",
     "qs:gn_fcode":"PPL",
     "qs:gn_local":2797656,
@@ -90,7 +88,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191581,
         1108830083,
@@ -104,7 +102,6 @@
     "wof:concordances":{
         "gn:id":2803445,
         "gp:id":966412,
-        "qs:id":186730,
         "qs_pg:id":186730,
         "wd:id":"Q2524363"
     },
@@ -126,7 +123,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1561831363,
+    "wof:lastmodified":1566611080,
     "wof:name":"Aalst St.-Pieter",
     "wof:parent_id":101748093,
     "wof:placetype":"neighbourhood",

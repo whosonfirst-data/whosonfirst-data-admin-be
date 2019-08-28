@@ -21,8 +21,11 @@
     "iso:country":"BE",
     "lbl:latitude":50.811365,
     "lbl:longitude":3.750822,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bre_x_preferred":[
         "Brakel"
     ],
@@ -95,7 +98,7 @@
     "reversegeo:latitude":50.811365,
     "reversegeo:longitude":3.750822,
     "src:geom":"begov",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681733,
         102191581,
@@ -119,7 +122,7 @@
         }
     ],
     "wof:id":1108830545,
-    "wof:lastmodified":1564162652,
+    "wof:lastmodified":1566611551,
     "wof:name":"Brakel",
     "wof:parent_id":102049963,
     "wof:placetype":"localadmin",

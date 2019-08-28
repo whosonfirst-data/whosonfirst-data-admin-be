@@ -13,10 +13,13 @@
     "iso:country":"BE",
     "lbl:latitude":50.862864,
     "lbl:longitude":5.192969,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":50.862864,
     "mps:longitude":5.192969,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:afr_x_preferred":[
         "Nieuwerkerken"
     ],
@@ -121,7 +124,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":146,
     "wof:belongsto":[
@@ -136,7 +139,6 @@
     "wof:concordances":{
         "gn:id":2790179,
         "gp:id":974900,
-        "qs:id":141469,
         "qs_pg:id":141469,
         "wd:id":"Q696740"
     },
@@ -154,7 +156,7 @@
         }
     ],
     "wof:id":101913575,
-    "wof:lastmodified":1563235303,
+    "wof:lastmodified":1566611901,
     "wof:name":"Nieuwerkerken",
     "wof:parent_id":1108830617,
     "wof:placetype":"locality",

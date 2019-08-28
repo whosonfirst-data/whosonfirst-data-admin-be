@@ -9,14 +9,18 @@
     "geom:bbox":"3.61815,50.86726,3.61815,50.86726",
     "geom:latitude":50.86726,
     "geom:longitude":3.61815,
-    "gn:gn_country":"BE",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"BE",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"BE",
+    "lbl:bbox":"3.59815,50.84726,3.63815,50.88726",
     "lbl:latitude":50.86726,
     "lbl:longitude":3.61815,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Eine"
@@ -33,7 +37,7 @@
     "name:nld_x_preferred":[
         "Eine"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Eyne"
     ],
     "qs_pg:aaroncc":"BE",
@@ -57,7 +61,7 @@
     "qs_pg:woe_adm0":23424757,
     "qs_pg:woe_id":969300,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424757,
     "woe:name_adm0":"Belgique",
     "woe:name_adm1":"Oost-Vlaanderen",
@@ -92,7 +96,7 @@
         }
     ],
     "wof:id":1125979811,
-    "wof:lastmodified":1563235867,
+    "wof:lastmodified":1566612147,
     "wof:name":"Eine",
     "wof:parent_id":1108830311,
     "wof:placetype":"locality",

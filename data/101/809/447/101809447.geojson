@@ -12,10 +12,13 @@
     "iso:country":"BE",
     "lbl:latitude":51.119303,
     "lbl:longitude":3.08883,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":51.119303,
     "mps:longitude":3.08883,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Aartrijke"
     ],
@@ -240,7 +243,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681709,
         102191581,
@@ -253,7 +256,6 @@
     "wof:concordances":{
         "gn:id":8521705,
         "gp:id":966431,
-        "qs:id":1102763,
         "qs_pg:id":1102763,
         "wd:id":"Q2751461"
     },
@@ -271,7 +273,7 @@
         }
     ],
     "wof:id":101809447,
-    "wof:lastmodified":1563235425,
+    "wof:lastmodified":1566611940,
     "wof:name":"Aartrijke",
     "wof:parent_id":1108830317,
     "wof:placetype":"locality",

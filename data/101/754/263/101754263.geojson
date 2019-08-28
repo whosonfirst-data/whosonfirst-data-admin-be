@@ -12,10 +12,13 @@
     "iso:country":"BE",
     "lbl:latitude":50.466773,
     "lbl:longitude":4.435914,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.466773,
     "mps:longitude":4.435914,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Gosselies"
     ],
@@ -49,7 +52,7 @@
     "name:spa_x_preferred":[
         "Gosselies"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Charleroi (Gosselies)"
     ],
     "name:wln_x_preferred":[
@@ -72,7 +75,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":119,
     "wof:belongsto":[
         85681723,
@@ -86,7 +89,6 @@
         "fct:id":"036adc36-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2797376,
         "gp:id":970187,
-        "qs:id":268864,
         "qs_pg:id":268864,
         "wd:id":"Q900761"
     },
@@ -106,7 +108,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1563235163,
+    "wof:lastmodified":1566611866,
     "wof:name":"Gosselies",
     "wof:parent_id":102049927,
     "wof:placetype":"locality",

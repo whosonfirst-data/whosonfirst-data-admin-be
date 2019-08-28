@@ -13,6 +13,7 @@
     "iso:country":"BE",
     "lbl:latitude":50.852738,
     "lbl:longitude":4.317932,
+    "lbl:max_zoom":18.0,
     "mps:latitude":50.857168,
     "mps:longitude":4.304225,
     "mz:hierarchy_label":1,
@@ -46,9 +47,6 @@
     ],
     "name:spa_x_preferred":[
         "Estaci\u00f3n Osseghem"
-    ],
-    "name:unk_x_variant":[
-        "Osseghem"
     ],
     "qs:gn_fcode":"PPLX",
     "qs:gn_local":0,
@@ -91,7 +89,6 @@
         "fct:id":"036e03de-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2789606,
         "gp:id":975243,
-        "qs:id":1103861,
         "qs_pg:id":1103861,
         "wd:id":"Q2753646",
         "wk:page":"Osseghem/Ossegem metro station"
@@ -113,7 +110,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1566247550,
+    "wof:lastmodified":1566611092,
     "wof:name":"Osseghem",
     "wof:parent_id":101751573,
     "wof:placetype":"neighbourhood",

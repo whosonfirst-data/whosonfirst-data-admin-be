@@ -12,10 +12,13 @@
     "iso:country":"BE",
     "lbl:latitude":51.083247,
     "lbl:longitude":4.815708,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":51.083247,
     "mps:longitude":4.815708,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Heultje"
     ],
@@ -42,7 +45,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681715,
         102191581,
@@ -55,7 +58,6 @@
     "wof:concordances":{
         "gn:id":2795816,
         "gp:id":971156,
-        "qs:id":1060817,
         "qs_pg:id":1060817,
         "wd:id":"Q2208007"
     },
@@ -73,7 +75,7 @@
         }
     ],
     "wof:id":101755817,
-    "wof:lastmodified":1561831398,
+    "wof:lastmodified":1566611817,
     "wof:name":"Heultje",
     "wof:parent_id":1108830503,
     "wof:placetype":"locality",

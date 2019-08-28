@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Brussels",
     "iso:country":"BE",
+    "lbl:bbox":"2.79798,51.10599,2.83798,51.14599",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bre_x_preferred":[
         "Mannekensvere"
     ],
@@ -71,7 +75,7 @@
         }
     ],
     "wof:id":1226081739,
-    "wof:lastmodified":1564163781,
+    "wof:lastmodified":1566612538,
     "wof:name":"Mannekensvere",
     "wof:parent_id":1108830695,
     "wof:placetype":"locality",

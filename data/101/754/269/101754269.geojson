@@ -13,10 +13,13 @@
     "iso:country":"BE",
     "lbl:latitude":50.493591,
     "lbl:longitude":5.09652,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":50.493591,
     "mps:longitude":5.09652,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:bre_x_preferred":[
         "Andenne"
     ],
@@ -151,7 +154,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":50.483333,
     "wd:longitude":5.1,
@@ -168,7 +171,6 @@
         "fct:id":"036a0e3c-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2803204,
         "gp:id":966556,
-        "qs:id":917352,
         "qs_pg:id":917352,
         "wd:id":"Q333466",
         "wk:page":"Andenne"
@@ -189,7 +191,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1563235144,
+    "wof:lastmodified":1566611861,
     "wof:name":"Andenne",
     "wof:parent_id":102049931,
     "wof:placetype":"locality",

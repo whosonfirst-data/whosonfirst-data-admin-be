@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Brussels",
     "iso:country":"BE",
+    "lbl:bbox":"5.72948,50.32801,5.76948,50.36801",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Derri\u00e8re-le-Thiers",
         "Derri\u00e8re le Thier"
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1343888615,
-    "wof:lastmodified":1537587051,
+    "wof:lastmodified":1566611063,
     "wof:name":"Derriere le Thier",
     "wof:parent_id":102049935,
     "wof:placetype":"locality",

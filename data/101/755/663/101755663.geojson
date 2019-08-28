@@ -12,10 +12,13 @@
     "iso:country":"BE",
     "lbl:latitude":51.080939,
     "lbl:longitude":4.322969,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":51.080939,
     "mps:longitude":4.322969,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Ruisbroek"
     ],
@@ -37,9 +40,6 @@
     "name:spa_x_preferred":[
         "Ruisbroek"
     ],
-    "name:unk_x_variant":[
-        "Ruysbroeck"
-    ],
     "qs:a0":"Belgi\u00eb#Belgique#Belgien",
     "qs:a1":"*Antwerpen",
     "qs:a1r":"0Vlaams Gewest",
@@ -57,7 +57,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":35,
     "wof:belongsto":[
         85681715,
@@ -71,7 +71,6 @@
     "wof:concordances":{
         "gn:id":2787550,
         "gp:id":976546,
-        "qs:id":359713,
         "qs_pg:id":359713,
         "wd:id":"Q404176"
     },
@@ -89,7 +88,7 @@
         }
     ],
     "wof:id":101755663,
-    "wof:lastmodified":1563235092,
+    "wof:lastmodified":1566611845,
     "wof:name":"Ruisbroek",
     "wof:parent_id":1108830309,
     "wof:placetype":"locality",

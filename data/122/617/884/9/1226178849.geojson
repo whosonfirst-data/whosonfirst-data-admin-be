@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Brussels",
     "iso:country":"BE",
+    "lbl:bbox":"3.98,50.81333,4.02,50.85333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Molenmeersen",
         "Meule Meerschen",
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":1226178849,
-    "wof:lastmodified":1537586966,
+    "wof:lastmodified":1566612444,
     "wof:name":"Meule Meersen",
     "wof:parent_id":1108830403,
     "wof:placetype":"locality",

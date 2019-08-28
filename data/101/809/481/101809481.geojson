@@ -12,11 +12,14 @@
     "iso:country":"BE",
     "lbl:latitude":51.045716,
     "lbl:longitude":4.92986,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":51.045716,
     "mps:longitude":4.92986,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":12.0,
+    "name:und_x_variant":[
         "Blouwberg"
     ],
     "qs:a0":"Belgi\u00eb#Belgique#Belgien",
@@ -34,7 +37,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681715,
         102191581,
@@ -47,7 +50,7 @@
     "wof:concordances":{
         "gn:id":2801845,
         "gp:id":967386,
-        "qs:id":8
+        "qs_pg:id":8
     },
     "wof:country":"BE",
     "wof:geomhash":"99bbf1b9672a8645d2c0f98dd4a69fa8",
@@ -63,7 +66,7 @@
         }
     ],
     "wof:id":101809481,
-    "wof:lastmodified":1501264150,
+    "wof:lastmodified":1566611948,
     "wof:name":"Blauwberg",
     "wof:parent_id":1108830551,
     "wof:placetype":"locality",

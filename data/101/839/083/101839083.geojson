@@ -13,10 +13,13 @@
     "iso:country":"BE",
     "lbl:latitude":51.362324,
     "lbl:longitude":4.84812,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":51.362324,
     "mps:longitude":4.84812,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0645\u064a\u0631\u0643\u0633\u0628\u0644\u0627\u0633"
     ],
@@ -92,7 +95,7 @@
     "name:swe_x_preferred":[
         "Merksplas"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Merxplas"
     ],
     "name:vie_x_preferred":[
@@ -124,7 +127,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":75,
     "wof:belongsto":[
@@ -139,7 +142,6 @@
     "wof:concordances":{
         "gn:id":2791297,
         "gp:id":974225,
-        "qs:id":186974,
         "qs_pg:id":186974,
         "wd:id":"Q532277"
     },
@@ -157,7 +159,7 @@
         }
     ],
     "wof:id":101839083,
-    "wof:lastmodified":1563235510,
+    "wof:lastmodified":1566611967,
     "wof:name":"Merksplas",
     "wof:parent_id":1108830633,
     "wof:placetype":"locality",

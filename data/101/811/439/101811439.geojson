@@ -9,17 +9,19 @@
     "geom:bbox":"4.7684870883,50.6120723898,4.83415556681,50.6426801019",
     "geom:latitude":50.626687,
     "geom:longitude":4.801678,
-    "gn:gn_country":"BE",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":7340,
+    "gn:country":"BE",
+    "gn:fcode":"PPL",
     "gn:population":7340,
     "iso:country":"BE",
     "lbl:latitude":50.621685,
     "lbl:longitude":4.813667,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":50.621685,
     "mps:longitude":4.813667,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bre_x_preferred":[
         "Perwez"
     ],
@@ -92,9 +94,6 @@
     "name:swe_x_preferred":[
         "Perwez"
     ],
-    "name:unk_x_variant":[
-        "Perwijs"
-    ],
     "name:vie_x_preferred":[
         "Perwez"
     ],
@@ -147,7 +146,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":81,
     "wof:belongsto":[
@@ -161,14 +160,13 @@
     "wof:concordances":{
         "gn:id":2789156,
         "gp:id":975524,
-        "qs:id":686496,
-        "qs_pg:id":966824,
+        "qs_pg:id":686496,
         "wd:id":"Q678458",
         "wk:page":"Perwez"
     },
     "wof:concordances_alt":{
         "gp:id":975525,
-        "qs_pg:id":686496
+        "qs_pg:id":966824
     },
     "wof:country":"BE",
     "wof:geomhash":"d9a5901b5bd8eaaf717401a6fdab702c",
@@ -183,7 +181,7 @@
         }
     ],
     "wof:id":101811439,
-    "wof:lastmodified":1563235182,
+    "wof:lastmodified":1566611871,
     "wof:name":"Perwez",
     "wof:parent_id":102049945,
     "wof:placetype":"locality",

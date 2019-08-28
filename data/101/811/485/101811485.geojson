@@ -13,10 +13,13 @@
     "iso:country":"BE",
     "lbl:latitude":50.08284,
     "lbl:longitude":5.117151,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":50.08284,
     "mps:longitude":5.117151,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bre_x_preferred":[
         "Wellin"
     ],
@@ -128,7 +131,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":93,
     "wof:belongsto":[
@@ -142,7 +145,6 @@
     "wof:concordances":{
         "gn:id":2783862,
         "gp:id":978776,
-        "qs:id":1037822,
         "qs_pg:id":1037822,
         "wd:id":"Q713911",
         "wk:page":"Wellin"
@@ -160,7 +162,7 @@
         }
     ],
     "wof:id":101811485,
-    "wof:lastmodified":1563235179,
+    "wof:lastmodified":1566611870,
     "wof:name":"Wellin",
     "wof:parent_id":102049913,
     "wof:placetype":"locality",

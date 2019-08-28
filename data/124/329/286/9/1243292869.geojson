@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Brussels",
     "iso:country":"BE",
+    "lbl:bbox":"5.05195,50.05907,5.09195,50.09907",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85681727,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1243292869,
-    "wof:lastmodified":1537025841,
+    "wof:lastmodified":1566612360,
     "wof:name":"Aux Fagnes",
     "wof:parent_id":102049913,
     "wof:placetype":"locality",

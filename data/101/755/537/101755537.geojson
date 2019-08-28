@@ -13,10 +13,13 @@
     "iso:country":"BE",
     "lbl:latitude":50.770747,
     "lbl:longitude":4.530453,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":50.770747,
     "mps:longitude":4.530453,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:afr_x_preferred":[
         "Overijse"
     ],
@@ -218,7 +221,7 @@
     "name:tur_x_preferred":[
         "Overijse"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Overyssche"
     ],
     "name:vec_x_preferred":[
@@ -265,7 +268,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":496,
     "wof:belongsto":[
@@ -280,7 +283,6 @@
     "wof:concordances":{
         "gn:id":2789413,
         "gp:id":975363,
-        "qs:id":1037850,
         "qs_pg:id":1037850,
         "wd:id":"Q599127"
     },
@@ -298,7 +300,7 @@
         }
     ],
     "wof:id":101755537,
-    "wof:lastmodified":1563235054,
+    "wof:lastmodified":1566611831,
     "wof:name":"Overijse",
     "wof:parent_id":1108830581,
     "wof:placetype":"locality",

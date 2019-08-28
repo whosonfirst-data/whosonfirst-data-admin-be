@@ -12,10 +12,13 @@
     "iso:country":"BE",
     "lbl:latitude":50.704718,
     "lbl:longitude":4.296403,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.704718,
     "mps:longitude":4.296403,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Dworp"
     ],
@@ -34,9 +37,6 @@
     "name:swe_x_preferred":[
         "Dworp"
     ],
-    "name:unk_x_variant":[
-        "Tourneppe"
-    ],
     "qs:a0":"Belgi\u00eb#Belgique#Belgien",
     "qs:a1":"*Vlaams Brabant",
     "qs:a1r":"0Vlaams Gewest",
@@ -54,7 +54,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":50.733333,
     "wd:longitude":4.3,
     "wd:wordcount":71,
@@ -70,7 +70,6 @@
     "wof:concordances":{
         "gn:id":2799034,
         "gp:id":969199,
-        "qs:id":239958,
         "qs_pg:id":239958,
         "wd:id":"Q576532",
         "wk:page":"Dworp"
@@ -89,7 +88,7 @@
         }
     ],
     "wof:id":101755535,
-    "wof:lastmodified":1561831397,
+    "wof:lastmodified":1566611812,
     "wof:name":"Dworp",
     "wof:parent_id":1108830437,
     "wof:placetype":"locality",

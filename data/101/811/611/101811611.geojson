@@ -13,10 +13,13 @@
     "iso:country":"BE",
     "lbl:latitude":50.242225,
     "lbl:longitude":4.839551,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":50.242225,
     "mps:longitude":4.839551,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:afr_x_preferred":[
         "Onhaye"
     ],
@@ -133,7 +136,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":102,
     "wof:belongsto":[
@@ -147,7 +150,6 @@
     "wof:concordances":{
         "gn:id":2789834,
         "gp:id":975103,
-        "qs:id":771696,
         "qs_pg:id":771696,
         "wd:id":"Q695349",
         "wk:page":"Onhaye"
@@ -165,7 +167,7 @@
         }
     ],
     "wof:id":101811611,
-    "wof:lastmodified":1563235181,
+    "wof:lastmodified":1566611871,
     "wof:name":"Onhaye",
     "wof:parent_id":102049919,
     "wof:placetype":"locality",

@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Brussels",
     "iso:country":"BE",
+    "lbl:bbox":"3.73379,50.91287,3.77379,50.95287",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85681733,
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1310538319,
-    "wof:lastmodified":1536868318,
+    "wof:lastmodified":1566611723,
     "wof:name":"Den Hauw",
     "wof:parent_id":1108830191,
     "wof:placetype":"locality",

@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":7766884.389441,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.491542,50.59275,5.491542,50.59275",
     "geom:latitude":50.59275,
     "geom:longitude":5.491542,
     "gn:id":"",
     "iso:country":"BE",
+    "lbl:bbox":"5.486542,50.58775,5.496542,50.59775",
     "lbl:latitude":50.59275,
     "lbl:longitude":5.491542,
+    "lbl:max_zoom":18.0,
     "mps:latitude":50.586894,
     "mps:longitude":5.479772,
     "mz:hierarchy_label":0,
@@ -31,9 +33,6 @@
         "Au Pairay"
     ],
     "name:fra_x_preferred":[
-        "Au Pairai"
-    ],
-    "name:unk_x_variant":[
         "Au Pairai"
     ],
     "qs:gn_adm0_cc":"BE",
@@ -66,19 +65,18 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
-        85681691,
         102191581,
         85632997,
         404227353,
         101748083,
-        102049941
+        102049941,
+        85681691
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":966694,
-        "qs:id":1102821,
         "qs_pg:id":1102821
     },
     "wof:country":"BE",
@@ -98,7 +96,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1531862044,
+    "wof:lastmodified":1566611080,
     "wof:name":"Au Pairai",
     "wof:parent_id":101748083,
     "wof:placetype":"neighbourhood",

@@ -13,10 +13,13 @@
     "iso:country":"BE",
     "lbl:latitude":50.254853,
     "lbl:longitude":4.436336,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":50.254853,
     "mps:longitude":4.436336,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:bel_x_preferred":[
         "\u0412\u0430\u043b\u044c\u043a\u0443\u0440"
     ],
@@ -133,7 +136,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":102,
     "wof:belongsto":[
@@ -147,7 +150,6 @@
     "wof:concordances":{
         "gn:id":2784189,
         "gp:id":978594,
-        "qs:id":4865,
         "qs_pg:id":4865,
         "wd:id":"Q497565",
         "wk:page":"Walcourt"
@@ -165,7 +167,7 @@
         }
     ],
     "wof:id":101811567,
-    "wof:lastmodified":1563235173,
+    "wof:lastmodified":1566611869,
     "wof:name":"Walcourt",
     "wof:parent_id":102049917,
     "wof:placetype":"locality",

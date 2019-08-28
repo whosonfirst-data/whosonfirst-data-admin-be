@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Brussels",
     "iso:country":"BE",
+    "lbl:bbox":"5.40108,50.86963,5.44108,50.90963",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Cryt",
         "Crijt",
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":1344093375,
-    "wof:lastmodified":1537586996,
+    "wof:lastmodified":1566610977,
     "wof:name":"Krijt",
     "wof:parent_id":1108830257,
     "wof:placetype":"locality",

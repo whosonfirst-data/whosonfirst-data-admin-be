@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Brussels",
     "iso:country":"BE",
+    "lbl:bbox":"4.23376,50.80965,4.27376,50.84965",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Koevijver",
         "Koeivijver"
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1293718789,
-    "wof:lastmodified":1537586999,
+    "wof:lastmodified":1566611151,
     "wof:name":"Koeivijver",
     "wof:parent_id":1108830207,
     "wof:placetype":"locality",

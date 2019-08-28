@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Brussels",
     "iso:country":"BE",
+    "lbl:bbox":"5.51548,49.65092,5.55548,49.69092",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85681727,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1242909431,
-    "wof:lastmodified":1537079563,
+    "wof:lastmodified":1566612346,
     "wof:name":"Poncelle",
     "wof:parent_id":102049907,
     "wof:placetype":"locality",

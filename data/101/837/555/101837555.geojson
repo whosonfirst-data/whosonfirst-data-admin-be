@@ -13,10 +13,13 @@
     "iso:country":"BE",
     "lbl:latitude":51.097079,
     "lbl:longitude":2.586978,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":51.097079,
     "mps:longitude":2.586978,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:afr_x_preferred":[
         "De Panne"
     ],
@@ -131,9 +134,6 @@
     "name:tur_x_preferred":[
         "De Panne"
     ],
-    "name:unk_x_variant":[
-        "La Panne"
-    ],
     "name:vls_x_preferred":[
         "De Panne"
     ],
@@ -163,7 +163,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":470,
     "wof:belongsto":[
@@ -179,7 +179,6 @@
         "fct:id":"036a83ee-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2799577,
         "gp:id":968756,
-        "qs:id":4292,
         "qs_pg:id":4292,
         "wd:id":"Q674954"
     },
@@ -200,7 +199,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1563235483,
+    "wof:lastmodified":1566611960,
     "wof:name":"De Panne",
     "wof:parent_id":1108830697,
     "wof:placetype":"locality",

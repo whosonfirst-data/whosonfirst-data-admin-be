@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Brussels",
     "iso:country":"BE",
+    "lbl:bbox":"5.6294,50.4404,5.6694,50.4804",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bre_x_preferred":[
         "Awans"
     ],
@@ -94,10 +98,6 @@
     "name:swe_x_preferred":[
         "Awans"
     ],
-    "name:und_x_variant":[
-        "Awan",
-        "Awans"
-    ],
     "name:vie_x_preferred":[
         "Awans"
     ],
@@ -135,7 +135,7 @@
         }
     ],
     "wof:id":1259916027,
-    "wof:lastmodified":1564163535,
+    "wof:lastmodified":1566612376,
     "wof:name":"Awans",
     "wof:parent_id":102049941,
     "wof:placetype":"locality",

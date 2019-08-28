@@ -9,14 +9,18 @@
     "geom:bbox":"3.98726,50.91175,3.98726,50.91175",
     "geom:latitude":50.91175,
     "geom:longitude":3.98726,
-    "gn:gn_country":"BE",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"BE",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"BE",
+    "lbl:bbox":"3.96726,50.89175,4.00726,50.93175",
     "lbl:latitude":50.91175,
     "lbl:longitude":3.98726,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:cat_x_preferred":[
         "Ede"
@@ -54,7 +58,7 @@
     "name:tur_x_preferred":[
         "Ede"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Eede"
     ],
     "qs_pg:aaroncc":"BE",
@@ -74,7 +78,7 @@
     "qs_pg:woe_adm0":23424757,
     "qs_pg:woe_id":969212,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424757,
     "woe:name_adm0":"Belgique",
     "woe:name_adm1":"Oost-Vlaanderen",
@@ -108,7 +112,7 @@
         }
     ],
     "wof:id":1125777427,
-    "wof:lastmodified":1564163335,
+    "wof:lastmodified":1566612253,
     "wof:name":"Ede",
     "wof:parent_id":1108830593,
     "wof:placetype":"locality",

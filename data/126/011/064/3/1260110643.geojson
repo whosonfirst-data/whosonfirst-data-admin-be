@@ -26,8 +26,12 @@
     "gn:population":8454,
     "gn:timezone":"Europe/Brussels",
     "iso:country":"BE",
+    "lbl:bbox":"3.72458,51.01859,3.76458,51.05859",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u041b\u0435\u0434\u0435\u0431\u0435\u0440\u0433"
     ],
@@ -75,7 +79,7 @@
         }
     ],
     "wof:id":1260110643,
-    "wof:lastmodified":1564162544,
+    "wof:lastmodified":1566611482,
     "wof:name":"Ledeberg",
     "wof:parent_id":1108830083,
     "wof:placetype":"locality",

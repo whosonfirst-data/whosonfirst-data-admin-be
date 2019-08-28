@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Brussels",
     "iso:country":"BE",
+    "lbl:bbox":"3.54667,50.63,3.58667,50.67",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bos_x_preferred":[
         "Pire"
     ],
@@ -77,7 +81,7 @@
         }
     ],
     "wof:id":1293913775,
-    "wof:lastmodified":1564161880,
+    "wof:lastmodified":1566611104,
     "wof:name":"Pire",
     "wof:parent_id":102049949,
     "wof:placetype":"locality",

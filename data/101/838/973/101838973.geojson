@@ -12,10 +12,13 @@
     "iso:country":"BE",
     "lbl:latitude":51.207947,
     "lbl:longitude":3.491344,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":51.207947,
     "mps:longitude":3.491344,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Adegem"
     ],
@@ -45,7 +48,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":140,
     "wof:belongsto":[
         85681733,
@@ -59,7 +62,6 @@
     "wof:concordances":{
         "gn:id":2803347,
         "gp:id":966473,
-        "qs:id":229291,
         "qs_pg:id":229291,
         "wd:id":"Q2407995"
     },
@@ -77,7 +79,7 @@
         }
     ],
     "wof:id":101838973,
-    "wof:lastmodified":1561831427,
+    "wof:lastmodified":1566611935,
     "wof:name":"Adegem",
     "wof:parent_id":1108830541,
     "wof:placetype":"locality",

@@ -5,17 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000647,
-    "geom:area_square_m":5047387.797539,
+    "geom:area_square_m":5047387.79754,
     "geom:bbox":"5.45223934507,50.870407562,5.50489707404,50.9291072307",
     "geom:latitude":50.90143,
     "geom:longitude":5.482266,
     "iso:country":"BE",
     "lbl:latitude":50.88922,
     "lbl:longitude":5.477705,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.88922,
     "mps:longitude":5.477705,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Belgi\u00eb#Belgique#Belgien",
     "qs:a1":"*Limburg",
     "qs:a1r":"0Vlaams Gewest",
@@ -33,7 +36,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681705,
         102191581,
@@ -46,7 +49,6 @@
     "wof:concordances":{
         "gn:id":2787006,
         "gp:id":976782,
-        "qs:id":234667,
         "qs_pg:id":234667
     },
     "wof:country":"BE",
@@ -63,7 +65,7 @@
         }
     ],
     "wof:id":101839693,
-    "wof:lastmodified":1497298324,
+    "wof:lastmodified":1566611969,
     "wof:name":"Schoonbeek",
     "wof:parent_id":1108830245,
     "wof:placetype":"locality",

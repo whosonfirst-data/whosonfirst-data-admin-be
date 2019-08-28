@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Brussels",
     "iso:country":"BE",
+    "lbl:bbox":"5.94455,50.63463,5.98455,50.67463",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Lantzenberg",
         "Lanceaumont"
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1259817313,
-    "wof:lastmodified":1537586988,
+    "wof:lastmodified":1566612431,
     "wof:name":"Lanceaumont",
     "wof:parent_id":102049935,
     "wof:placetype":"locality",

@@ -12,10 +12,13 @@
     "iso:country":"BE",
     "lbl:latitude":51.117715,
     "lbl:longitude":2.681169,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":51.117715,
     "mps:longitude":2.681169,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bre_x_preferred":[
         "Oostduinkerke"
     ],
@@ -58,7 +61,7 @@
     "name:swe_x_preferred":[
         "Oostduinkerke"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Oost-Dunkerke-Bains"
     ],
     "name:vls_x_preferred":[
@@ -81,7 +84,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":346,
     "wof:belongsto":[
         85681709,
@@ -95,7 +98,6 @@
     "wof:concordances":{
         "gn:id":2789794,
         "gp:id":975124,
-        "qs:id":391191,
         "qs_pg:id":391191,
         "wd:id":"Q2314278",
         "wk:page":"Oostduinkerke"
@@ -114,7 +116,7 @@
         }
     ],
     "wof:id":101838913,
-    "wof:lastmodified":1563235384,
+    "wof:lastmodified":1566611926,
     "wof:name":"Oostduinkerke",
     "wof:parent_id":1108830673,
     "wof:placetype":"locality",

@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Brussels",
     "iso:country":"BE",
+    "lbl:bbox":"5.05111,50.28991,5.09111,50.32991",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bre_x_preferred":[
         "Halloy"
     ],
@@ -98,7 +102,7 @@
         }
     ],
     "wof:id":1260218163,
-    "wof:lastmodified":1564162559,
+    "wof:lastmodified":1566611491,
     "wof:name":"Halloy",
     "wof:parent_id":102049919,
     "wof:placetype":"locality",

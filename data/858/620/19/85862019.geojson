@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":2858051.937589,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.606284,50.630802,5.606284,50.630802",
     "geom:latitude":50.630802,
     "geom:longitude":5.606284,
     "gn:id":"",
     "iso:country":"BE",
+    "lbl:bbox":"5.601284,50.625802,5.611284,50.635802",
     "lbl:latitude":50.630802,
     "lbl:longitude":5.606284,
+    "lbl:max_zoom":18.0,
     "mps:latitude":50.631206,
     "mps:longitude":5.612859,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":16.0,
     "mz:tier_locality":3,
     "name:fra_x_preferred":[
-        "Belle Flamme"
-    ],
-    "name:unk_x_variant":[
         "Belle Flamme"
     ],
     "qs:gn_adm0_cc":"BE",
@@ -59,19 +58,18 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
-        85681691,
         102191581,
         85632997,
         404227353,
         101748083,
-        102049941
+        102049941,
+        85681691
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":20098232,
-        "qs:id":985044,
         "qs_pg:id":985044
     },
     "wof:country":"BE",
@@ -91,7 +89,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1531870528,
+    "wof:lastmodified":1566611078,
     "wof:name":"Belle Flamme",
     "wof:parent_id":101748083,
     "wof:placetype":"neighbourhood",

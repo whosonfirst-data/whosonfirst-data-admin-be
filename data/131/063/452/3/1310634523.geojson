@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Brussels",
     "iso:country":"BE",
+    "lbl:bbox":"6.09526,50.64513,6.13526,50.68513",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Rott"
     ],
@@ -104,7 +108,7 @@
         }
     ],
     "wof:id":1310634523,
-    "wof:lastmodified":1564162930,
+    "wof:lastmodified":1566611729,
     "wof:name":"Rott",
     "wof:parent_id":102049935,
     "wof:placetype":"locality",

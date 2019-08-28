@@ -13,10 +13,13 @@
     "iso:country":"BE",
     "lbl:latitude":50.859106,
     "lbl:longitude":5.387859,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":50.859106,
     "mps:longitude":5.387859,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:afr_x_preferred":[
         "Kortessem"
     ],
@@ -101,7 +104,7 @@
     "name:tha_x_preferred":[
         "\u0e01\u0e2d\u0e23\u0e4c\u0e40\u0e15\u0e2a\u0e40\u0e0b\u0e21"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Cortessem"
     ],
     "name:vie_x_preferred":[
@@ -133,7 +136,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":114,
     "wof:belongsto":[
@@ -148,7 +151,6 @@
     "wof:concordances":{
         "gn:id":2794063,
         "gp:id":972283,
-        "qs:id":141484,
         "qs_pg:id":141484,
         "wd:id":"Q819139",
         "wk:page":"Kortessem"
@@ -167,7 +169,7 @@
         }
     ],
     "wof:id":101838693,
-    "wof:lastmodified":1563235369,
+    "wof:lastmodified":1566611921,
     "wof:name":"Kortessem",
     "wof:parent_id":1108830391,
     "wof:placetype":"locality",

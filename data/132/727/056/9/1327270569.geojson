@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Brussels",
     "iso:country":"BE",
+    "lbl:bbox":"3.31333,50.48,3.35333,50.52",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Le Plantis"
     ],
@@ -93,8 +97,7 @@
         "\u041b\u0435-\u041f\u043b\u0430\u043d\u0442\u0456"
     ],
     "name:und_x_variant":[
-        "Le Planti",
-        "Le Plantis"
+        "Le Planti"
     ],
     "name:uzb_x_preferred":[
         "Le Plantis"
@@ -142,7 +145,7 @@
         }
     ],
     "wof:id":1327270569,
-    "wof:lastmodified":1564161643,
+    "wof:lastmodified":1566610941,
     "wof:name":"Le Plantis",
     "wof:parent_id":404374553,
     "wof:placetype":"locality",

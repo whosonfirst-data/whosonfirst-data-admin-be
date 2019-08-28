@@ -21,8 +21,11 @@
     "iso:country":"BE",
     "lbl:latitude":51.040477,
     "lbl:longitude":5.581444,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Opglabbeek"
     ],
@@ -107,7 +110,7 @@
     "reversegeo:latitude":51.040477,
     "reversegeo:longitude":5.581444,
     "src:geom":"begov",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681705,
         102191581,
@@ -131,7 +134,7 @@
         }
     ],
     "wof:id":1108830279,
-    "wof:lastmodified":1564162730,
+    "wof:lastmodified":1566611602,
     "wof:name":"Opglabbeek",
     "wof:parent_id":102049975,
     "wof:placetype":"localadmin",

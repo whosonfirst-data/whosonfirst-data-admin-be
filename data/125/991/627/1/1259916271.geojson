@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Brussels",
     "iso:country":"BE",
+    "lbl:bbox":"3.085,50.86862,3.125,50.90862",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Tuimelaarehoek",
         "Tuimelaarhoek"
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1259916271,
-    "wof:lastmodified":1537586898,
+    "wof:lastmodified":1566612375,
     "wof:name":"Tuimelaarhoek",
     "wof:parent_id":1108830667,
     "wof:placetype":"locality",

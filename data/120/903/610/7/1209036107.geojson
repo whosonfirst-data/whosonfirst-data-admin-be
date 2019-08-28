@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Brussels",
     "iso:country":"BE",
+    "lbl:bbox":"4.91962,51.22971,4.95962,51.26971",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Legen Rielen",
         "Leegen-Rielen",
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1209036107,
-    "wof:lastmodified":1537586990,
+    "wof:lastmodified":1566611388,
     "wof:name":"Lagen Rielen",
     "wof:parent_id":85632997,
     "wof:placetype":"locality",

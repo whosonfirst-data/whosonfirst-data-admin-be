@@ -12,10 +12,13 @@
     "iso:country":"BE",
     "lbl:latitude":50.806165,
     "lbl:longitude":3.958307,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.806165,
     "mps:longitude":3.958307,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Appelterre-Eichem"
     ],
@@ -28,7 +31,7 @@
     "name:nld_x_preferred":[
         "Appelterre-Eichem"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Appelterre-Eychem"
     ],
     "qs:a0":"Belgi\u00eb#Belgique#Belgien",
@@ -48,7 +51,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681733,
         102191581,
@@ -61,7 +64,6 @@
     "wof:concordances":{
         "gn:id":2803119,
         "gp:id":966603,
-        "qs:id":1160971,
         "qs_pg:id":1160971,
         "wd:id":"Q2858703"
     },
@@ -79,7 +81,7 @@
         }
     ],
     "wof:id":101755343,
-    "wof:lastmodified":1561831408,
+    "wof:lastmodified":1566611857,
     "wof:name":"Appelterre-Eichem",
     "wof:parent_id":1108830521,
     "wof:placetype":"locality",

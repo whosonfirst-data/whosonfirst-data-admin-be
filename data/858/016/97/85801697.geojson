@@ -12,6 +12,7 @@
     "iso:country":"BE",
     "lbl:latitude":50.879618,
     "lbl:longitude":4.524091,
+    "lbl:max_zoom":18.0,
     "mps:latitude":50.879053,
     "mps:longitude":4.537412,
     "mz:hierarchy_label":0,
@@ -42,9 +43,8 @@
     "name:ron_x_preferred":[
         "Nossegem"
     ],
-    "name:unk_x_variant":[
-        "Zaventem (Nossegem)",
-        "Nosseghem"
+    "name:und_x_variant":[
+        "Zaventem (Nossegem)"
     ],
     "qs:gn_fcode":"PPL",
     "qs:gn_local":0,
@@ -87,7 +87,6 @@
     "wof:concordances":{
         "gn:id":2790022,
         "gp:id":974993,
-        "qs:id":896408,
         "qs_pg:id":896408,
         "wd:id":"Q265744",
         "wk:page":"Nossegem"
@@ -110,7 +109,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1566247570,
+    "wof:lastmodified":1566611091,
     "wof:name":"Nosseghem",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

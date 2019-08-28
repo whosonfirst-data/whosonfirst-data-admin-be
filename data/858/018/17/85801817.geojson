@@ -5,13 +5,15 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":2673040.251614,
+    "geom:area_square_m":0.0,
     "geom:bbox":"5.556767,50.605514,5.556767,50.605514",
     "geom:latitude":50.605514,
     "geom:longitude":5.556767,
     "iso:country":"BE",
+    "lbl:bbox":"5.551767,50.600514,5.561767,50.610514",
     "lbl:latitude":50.605514,
     "lbl:longitude":5.556767,
+    "lbl:max_zoom":18.0,
     "mps:latitude":50.605187,
     "mps:longitude":5.557468,
     "mz:hierarchy_label":0,
@@ -24,9 +26,6 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":3,
     "name:fra_x_preferred":[
-        "Renory"
-    ],
-    "name:unk_x_variant":[
         "Renory"
     ],
     "qs:gn_adm0_cc":"BE",
@@ -59,20 +58,19 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
-        85681691,
         102191581,
         85632997,
         404227353,
         101748083,
-        102049941
+        102049941,
+        85681691
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2788165,
         "gp:id":976175,
-        "qs:id":1159360,
         "qs_pg:id":1159360
     },
     "wof:country":"BE",
@@ -92,7 +90,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1531862098,
+    "wof:lastmodified":1566611086,
     "wof:name":"Renory",
     "wof:parent_id":101748083,
     "wof:placetype":"neighbourhood",

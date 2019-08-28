@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Brussels",
     "iso:country":"BE",
+    "lbl:bbox":"3.56618,50.80073,3.60618,50.84073",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Waarde"
     ],
@@ -79,7 +83,7 @@
         }
     ],
     "wof:id":1293031785,
-    "wof:lastmodified":1564162015,
+    "wof:lastmodified":1566611180,
     "wof:name":"Waarde",
     "wof:parent_id":1108830311,
     "wof:placetype":"locality",

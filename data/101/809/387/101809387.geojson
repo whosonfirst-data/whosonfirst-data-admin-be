@@ -13,10 +13,13 @@
     "iso:country":"BE",
     "lbl:latitude":51.132075,
     "lbl:longitude":5.460081,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":51.132075,
     "mps:longitude":5.460081,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:afr_x_preferred":[
         "Peer"
     ],
@@ -145,7 +148,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":176,
     "wof:belongsto":[
@@ -160,7 +163,6 @@
     "wof:concordances":{
         "gn:id":2789232,
         "gp:id":975475,
-        "qs:id":4663,
         "qs_pg:id":4663,
         "wd:id":"Q736085"
     },
@@ -178,7 +180,7 @@
         }
     ],
     "wof:id":101809387,
-    "wof:lastmodified":1563235464,
+    "wof:lastmodified":1566611953,
     "wof:name":"Peer",
     "wof:parent_id":1108830611,
     "wof:placetype":"locality",

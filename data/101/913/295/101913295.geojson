@@ -13,10 +13,13 @@
     "iso:country":"BE",
     "lbl:latitude":50.725717,
     "lbl:longitude":4.023295,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":50.725717,
     "mps:longitude":4.023295,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Herne"
     ],
@@ -56,7 +59,7 @@
     "name:tur_x_preferred":[
         "Herne"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "H\u00e9rinnes"
     ],
     "name:vol_x_preferred":[
@@ -79,7 +82,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85681731,
@@ -93,7 +96,6 @@
     "wof:concordances":{
         "gn:id":2795956,
         "gp:id":971061,
-        "qs:id":1037876,
         "qs_pg:id":1037876
     },
     "wof:country":"BE",
@@ -110,7 +112,7 @@
         }
     ],
     "wof:id":101913295,
-    "wof:lastmodified":1564163108,
+    "wof:lastmodified":1566611900,
     "wof:name":"Herne",
     "wof:parent_id":1108830399,
     "wof:placetype":"locality",

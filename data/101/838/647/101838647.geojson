@@ -13,10 +13,13 @@
     "iso:country":"BE",
     "lbl:latitude":50.757344,
     "lbl:longitude":5.606501,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":50.757344,
     "mps:longitude":5.606501,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bre_x_preferred":[
         "Bassenge"
     ],
@@ -93,9 +96,6 @@
     "name:swe_x_preferred":[
         "Bassenge"
     ],
-    "name:unk_x_variant":[
-        "Bassange"
-    ],
     "name:vie_x_preferred":[
         "Bassenge"
     ],
@@ -125,7 +125,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":176,
     "wof:belongsto":[
@@ -140,7 +140,6 @@
         "fct:id":"036a289a-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2802606,
         "gp:id":966924,
-        "qs:id":1037943,
         "qs_pg:id":1037943,
         "wd:id":"Q680918",
         "wk:page":"Bassenge"
@@ -161,7 +160,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1563235397,
+    "wof:lastmodified":1566611930,
     "wof:name":"Bassenge",
     "wof:parent_id":102049941,
     "wof:placetype":"locality",

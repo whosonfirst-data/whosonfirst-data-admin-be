@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Brussels",
     "iso:country":"BE",
+    "lbl:bbox":"4.63304,51.14645,4.67304,51.18645",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "De Achterbist",
         "Achterbist"
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1276371211,
-    "wof:lastmodified":1537587086,
+    "wof:lastmodified":1566611304,
     "wof:name":"Achterbist",
     "wof:parent_id":1108830199,
     "wof:placetype":"locality",

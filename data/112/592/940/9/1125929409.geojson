@@ -9,14 +9,18 @@
     "geom:bbox":"5.09268,50.50065,5.09268,50.50065",
     "geom:latitude":50.50065,
     "geom:longitude":5.09268,
-    "gn:gn_country":"BE",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"BE",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"BE",
+    "lbl:bbox":"5.07268,50.48065,5.11268,50.52065",
     "lbl:latitude":50.50065,
     "lbl:longitude":5.09268,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Seilles"
@@ -33,7 +37,7 @@
     "name:slv_x_preferred":[
         "Seilles"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Andenne (Seilles)"
     ],
     "name:wln_x_preferred":[
@@ -58,7 +62,7 @@
     "qs_pg:woe_adm0":23424757,
     "qs_pg:woe_id":976874,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424757,
     "woe:name_adm0":"Belgique",
     "woe:name_adm1":"Namur",
@@ -91,7 +95,7 @@
         }
     ],
     "wof:id":1125929409,
-    "wof:lastmodified":1561831442,
+    "wof:lastmodified":1566612027,
     "wof:name":"Seilles",
     "wof:parent_id":102049931,
     "wof:placetype":"locality",

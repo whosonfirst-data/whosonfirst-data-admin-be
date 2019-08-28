@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Brussels",
     "iso:country":"BE",
+    "lbl:bbox":"5.18,50.68,5.22,50.72",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:als_x_preferred":[
         "Brouck"
     ],
@@ -101,8 +105,7 @@
         "\u0411\u0440\u0443\u043a"
     ],
     "name:und_x_variant":[
-        "Le Brouck",
-        "Brouck"
+        "Le Brouck"
     ],
     "name:uzb_x_preferred":[
         "Brouck"
@@ -144,7 +147,7 @@
         }
     ],
     "wof:id":1293424015,
-    "wof:lastmodified":1564162044,
+    "wof:lastmodified":1566611198,
     "wof:name":"Brouck",
     "wof:parent_id":102049937,
     "wof:placetype":"locality",

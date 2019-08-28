@@ -9,14 +9,18 @@
     "geom:bbox":"5.41822,50.78666,5.41822,50.78666",
     "geom:latitude":50.78666,
     "geom:longitude":5.41822,
-    "gn:gn_country":"BE",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"BE",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"BE",
+    "lbl:bbox":"5.39822,50.76666,5.43822,50.80666",
     "lbl:latitude":50.78666,
     "lbl:longitude":5.41822,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:cat_x_preferred":[
         "Piringen"
@@ -33,7 +37,7 @@
     "name:nld_x_preferred":[
         "Piringen"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Pirange"
     ],
     "qs_pg:aaroncc":"BE",
@@ -53,7 +57,7 @@
     "qs_pg:woe_adm0":23424757,
     "qs_pg:woe_id":975669,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424757,
     "woe:name_adm0":"Belgique",
     "woe:name_adm1":"Limburg",
@@ -88,7 +92,7 @@
         }
     ],
     "wof:id":1125953709,
-    "wof:lastmodified":1561831443,
+    "wof:lastmodified":1566612031,
     "wof:name":"Piringen",
     "wof:parent_id":1108830031,
     "wof:placetype":"locality",

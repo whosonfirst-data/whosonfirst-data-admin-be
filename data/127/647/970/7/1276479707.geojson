@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Brussels",
     "iso:country":"BE",
+    "lbl:bbox":"5.24667,49.86333,5.28667,49.90333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Rosais"
     ],
@@ -47,8 +51,7 @@
         "Rosais"
     ],
     "name:und_x_variant":[
-        "L\u00e8s Ros\u00e8s",
-        "Rosais"
+        "L\u00e8s Ros\u00e8s"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -75,7 +78,7 @@
         }
     ],
     "wof:id":1276479707,
-    "wof:lastmodified":1564162184,
+    "wof:lastmodified":1566611275,
     "wof:name":"Rosais",
     "wof:parent_id":102049913,
     "wof:placetype":"locality",

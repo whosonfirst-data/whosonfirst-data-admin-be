@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Brussels",
     "iso:country":"BE",
+    "lbl:bbox":"4.89535,50.61651,4.93535,50.65651",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85681693,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1226682629,
-    "wof:lastmodified":1536806117,
+    "wof:lastmodified":1566612468,
     "wof:name":"Ramillies-Offus",
     "wof:parent_id":102049945,
     "wof:placetype":"locality",

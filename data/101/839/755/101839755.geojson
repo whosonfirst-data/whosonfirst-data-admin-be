@@ -12,10 +12,13 @@
     "iso:country":"BE",
     "lbl:latitude":50.510059,
     "lbl:longitude":4.394071,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.510059,
     "mps:longitude":4.394071,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Luttre"
     ],
@@ -45,7 +48,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":50.516667,
     "wd:longitude":4.383333,
     "wd:wordcount":1218,
@@ -60,7 +63,6 @@
     "wof:concordances":{
         "gn:id":2791994,
         "gp:id":973796,
-        "qs:id":1013886,
         "qs_pg:id":1013886,
         "wd:id":"Q2565748",
         "wk:page":"Luttre"
@@ -78,7 +80,7 @@
         }
     ],
     "wof:id":101839755,
-    "wof:lastmodified":1561831433,
+    "wof:lastmodified":1566611965,
     "wof:name":"Luttre",
     "wof:parent_id":102049927,
     "wof:placetype":"locality",

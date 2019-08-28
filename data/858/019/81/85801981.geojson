@@ -13,6 +13,7 @@
     "iso:country":"BE",
     "lbl:latitude":50.856243,
     "lbl:longitude":4.496155,
+    "lbl:max_zoom":18.0,
     "mps:latitude":50.856536,
     "mps:longitude":4.495973,
     "mz:hierarchy_label":0,
@@ -26,9 +27,6 @@
     "mz:tier_locality":1,
     "mz:tier_metro":30,
     "name:nld_x_preferred":[
-        "Warandeberg"
-    ],
-    "name:unk_x_variant":[
         "Warandeberg"
     ],
     "qs:gn_id":0,
@@ -70,7 +68,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":978648,
-        "qs:id":56275,
         "qs_pg:id":56275
     },
     "wof:country":"BE",
@@ -91,7 +88,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1566247559,
+    "wof:lastmodified":1566611096,
     "wof:name":"Warandeberg",
     "wof:parent_id":101755517,
     "wof:placetype":"neighbourhood",

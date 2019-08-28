@@ -13,10 +13,13 @@
     "iso:country":"BE",
     "lbl:latitude":50.482991,
     "lbl:longitude":3.650296,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":50.482991,
     "mps:longitude":3.650296,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:afr_x_preferred":[
         "Bernissart"
     ],
@@ -257,7 +260,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":203,
     "wof:belongsto":[
@@ -272,7 +275,6 @@
         "fct:id":"03697210-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2802135,
         "gp:id":12602638,
-        "qs:id":373652,
         "qs_pg:id":373652,
         "wd:id":"Q95112",
         "wk:page":"Bernissart"
@@ -293,7 +295,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1563235545,
+    "wof:lastmodified":1566611979,
     "wof:name":"Bernissart",
     "wof:parent_id":102049949,
     "wof:placetype":"locality",

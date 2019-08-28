@@ -12,10 +12,13 @@
     "iso:country":"BE",
     "lbl:latitude":51.206226,
     "lbl:longitude":4.074542,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":51.206226,
     "mps:longitude":4.074542,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Kemzeke"
     ],
@@ -34,7 +37,7 @@
     "name:nld_x_preferred":[
         "Kemzeke"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kemseke"
     ],
     "qs:a0":"Belgi\u00eb#Belgique#Belgien",
@@ -54,7 +57,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":80,
     "wof:belongsto":[
         85681733,
@@ -68,7 +71,6 @@
     "wof:concordances":{
         "gn:id":2794567,
         "gp:id":971962,
-        "qs:id":388959,
         "qs_pg:id":388959,
         "wd:id":"Q2607948",
         "wk:page":"Kemzeke"
@@ -87,7 +89,7 @@
         }
     ],
     "wof:id":101838995,
-    "wof:lastmodified":1563235386,
+    "wof:lastmodified":1566611927,
     "wof:name":"Kemzeke",
     "wof:parent_id":1108830283,
     "wof:placetype":"locality",

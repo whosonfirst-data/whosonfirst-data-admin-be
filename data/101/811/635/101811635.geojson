@@ -13,10 +13,13 @@
     "iso:country":"BE",
     "lbl:latitude":50.29013,
     "lbl:longitude":5.558364,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":50.29013,
     "mps:longitude":5.558364,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bre_x_preferred":[
         "\u00c9rez\u00e9e"
     ],
@@ -122,7 +125,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":79,
     "wof:belongsto":[
@@ -136,7 +139,6 @@
     "wof:concordances":{
         "gn:id":2798698,
         "gp:id":969412,
-        "qs:id":1114866,
         "qs_pg:id":1114866,
         "wd:id":"Q287813",
         "wk:page":"\u00c9rez\u00e9e"
@@ -154,7 +156,7 @@
         }
     ],
     "wof:id":101811635,
-    "wof:lastmodified":1563235185,
+    "wof:lastmodified":1566611872,
     "wof:name":"\u00c9rez\u00e9e",
     "wof:parent_id":102049921,
     "wof:placetype":"locality",

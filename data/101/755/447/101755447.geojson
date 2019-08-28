@@ -13,10 +13,13 @@
     "iso:country":"BE",
     "lbl:latitude":50.942701,
     "lbl:longitude":4.973815,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":50.942701,
     "mps:longitude":4.973815,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bar_x_preferred":[
         "Bekkevoort"
     ],
@@ -92,7 +95,7 @@
     "name:swe_x_preferred":[
         "Bekkevoort"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Becquevoort"
     ],
     "name:vie_x_preferred":[
@@ -124,7 +127,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":73,
     "wof:belongsto":[
@@ -139,7 +142,6 @@
     "wof:concordances":{
         "gn:id":2802374,
         "gp:id":967062,
-        "qs:id":141537,
         "qs_pg:id":141537,
         "wd:id":"Q815054"
     },
@@ -157,7 +159,7 @@
         }
     ],
     "wof:id":101755447,
-    "wof:lastmodified":1563234998,
+    "wof:lastmodified":1566611812,
     "wof:name":"Bekkevoort",
     "wof:parent_id":1108830131,
     "wof:placetype":"locality",

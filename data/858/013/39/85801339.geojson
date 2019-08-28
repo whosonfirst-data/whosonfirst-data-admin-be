@@ -10,8 +10,10 @@
     "geom:latitude":50.650964,
     "geom:longitude":5.631914,
     "iso:country":"BE",
+    "lbl:bbox":"5.626914,50.645964,5.636914,50.655964",
     "lbl:latitude":50.650964,
     "lbl:longitude":5.631914,
+    "lbl:max_zoom":18.0,
     "mps:latitude":50.645472,
     "mps:longitude":5.629997,
     "mz:hierarchy_label":0,
@@ -71,9 +73,8 @@
     "name:swe_x_preferred":[
         "Jupille-sur-Meuse"
     ],
-    "name:unk_x_variant":[
-        "Li\u00e8ge (Jupille-sur-Meuse)",
-        "Jupille"
+    "name:und_x_variant":[
+        "Li\u00e8ge (Jupille-sur-Meuse)"
     ],
     "name:vls_x_preferred":[
         "Hoogboom"
@@ -112,7 +113,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191581,
         85632997,
@@ -125,7 +126,6 @@
     "wof:concordances":{
         "gn:id":2794856,
         "gp:id":971786,
-        "qs:id":409617,
         "qs_pg:id":409617,
         "wd:id":"Q1713746",
         "wk:page":"Jupille-sur-Meuse"
@@ -147,7 +147,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1563233952,
+    "wof:lastmodified":1566611076,
     "wof:name":"Jupille",
     "wof:parent_id":101748083,
     "wof:placetype":"neighbourhood",

@@ -21,8 +21,11 @@
     "iso:country":"BE",
     "lbl:latitude":50.992576,
     "lbl:longitude":3.793796,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bel_x_preferred":[
         "\u041c\u0435\u043b\u0435"
     ],
@@ -98,7 +101,7 @@
     "reversegeo:latitude":50.992576,
     "reversegeo:longitude":3.793796,
     "src:geom":"begov",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681733,
         102191581,
@@ -122,7 +125,7 @@
         }
     ],
     "wof:id":1108830093,
-    "wof:lastmodified":1564162670,
+    "wof:lastmodified":1566611562,
     "wof:name":"Melle",
     "wof:parent_id":102049989,
     "wof:placetype":"localadmin",

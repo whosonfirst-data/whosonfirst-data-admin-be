@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Brussels",
     "iso:country":"BE",
+    "lbl:bbox":"5.17257,49.89193,5.21257,49.93193",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:azb_x_preferred":[
         "\u0633\u0627\u0631\u062a\u200c\u0644\u0627\u0631"
     ],
@@ -89,7 +93,7 @@
         }
     ],
     "wof:id":1292941961,
-    "wof:lastmodified":1564161918,
+    "wof:lastmodified":1566611128,
     "wof:name":"Sart",
     "wof:parent_id":102049913,
     "wof:placetype":"locality",

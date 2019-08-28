@@ -12,10 +12,13 @@
     "iso:country":"BE",
     "lbl:latitude":50.743412,
     "lbl:longitude":5.992428,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.743412,
     "mps:longitude":5.992428,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Gemmenich"
     ],
@@ -49,7 +52,7 @@
     "qs:type":"suburbs point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681691,
         102191581,
@@ -61,7 +64,7 @@
     "wof:concordances":{
         "gn:id":2797696,
         "gp:id":969981,
-        "qs:id":9,
+        "qs_pg:id":9,
         "wd:id":"Q985200"
     },
     "wof:country":"BE",
@@ -77,7 +80,7 @@
         }
     ],
     "wof:id":101755155,
-    "wof:lastmodified":1561831403,
+    "wof:lastmodified":1566611834,
     "wof:name":"Gemmenich",
     "wof:parent_id":102049935,
     "wof:placetype":"locality",

@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Brussels",
     "iso:country":"BE",
+    "lbl:bbox":"5.40544,51.13975,5.44544,51.17975",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Neer-Hoxent",
         "Neer Hoksent"
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1277013581,
-    "wof:lastmodified":1537586958,
+    "wof:lastmodified":1566611230,
     "wof:name":"Neer Hoksent",
     "wof:parent_id":1108830149,
     "wof:placetype":"locality",

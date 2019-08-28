@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Brussels",
     "iso:country":"BE",
+    "lbl:bbox":"3.84558,51.1293,3.88558,51.1693",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Puyenbrug",
         "Puienbrug"
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1360220669,
-    "wof:lastmodified":1537586941,
+    "wof:lastmodified":1566611770,
     "wof:name":"Puienbrug",
     "wof:parent_id":1108830059,
     "wof:placetype":"locality",

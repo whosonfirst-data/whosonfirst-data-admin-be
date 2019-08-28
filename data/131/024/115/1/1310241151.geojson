@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Brussels",
     "iso:country":"BE",
+    "lbl:bbox":"4.99527,51.37171,5.03527,51.41171",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Palingagtiges"
     ],
@@ -239,8 +243,7 @@
         "\u0412\u0443\u0433\u0440\u043e\u043f\u043e\u0434\u0456\u0431\u043d\u0456"
     ],
     "name:und_x_variant":[
-        "Den Eel",
-        "Eel"
+        "Den Eel"
     ],
     "name:uzb_x_preferred":[
         "Ugorsimonlar"
@@ -281,7 +284,7 @@
         }
     ],
     "wof:id":1310241151,
-    "wof:lastmodified":1564162867,
+    "wof:lastmodified":1566611694,
     "wof:name":"Eel",
     "wof:parent_id":1108830179,
     "wof:placetype":"locality",

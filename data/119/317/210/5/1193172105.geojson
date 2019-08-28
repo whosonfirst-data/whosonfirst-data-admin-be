@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Brussels",
     "iso:country":"BE",
+    "lbl:bbox":"4.18845,50.95934,4.22845,50.99934",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85681731,
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1193172105,
-    "wof:lastmodified":1536379292,
+    "wof:lastmodified":1566611456,
     "wof:name":"Ten Houte",
     "wof:parent_id":1108830297,
     "wof:placetype":"locality",

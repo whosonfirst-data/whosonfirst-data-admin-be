@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Brussels",
     "iso:country":"BE",
+    "lbl:bbox":"5.30348,50.47039,5.34348,50.51039",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Str\u00e9e",
         "Modave (Str\u00e9e-lez-Huy)"
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1276795631,
-    "wof:lastmodified":1537586907,
+    "wof:lastmodified":1566611291,
     "wof:name":"Stree-lez-Huy",
     "wof:parent_id":102049925,
     "wof:placetype":"locality",

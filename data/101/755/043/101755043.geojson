@@ -12,10 +12,13 @@
     "iso:country":"BE",
     "lbl:latitude":50.533193,
     "lbl:longitude":5.213891,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.533193,
     "mps:longitude":5.213891,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bel_x_preferred":[
         "\u0412\u0430\u043d\u0437"
     ],
@@ -103,7 +106,7 @@
     "name:swe_x_preferred":[
         "Wanze"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Petite-Wanze"
     ],
     "name:vie_x_preferred":[
@@ -135,7 +138,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681691,
         102191581,
@@ -147,9 +150,11 @@
     "wof:concordances":{
         "gn:id":2784092,
         "gp:id":978642,
-        "qs:id":1,
-        "qs_pg:id":1037830,
+        "qs_pg:id":1,
         "wd:id":"Q711443"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1037830
     },
     "wof:country":"BE",
     "wof:geomhash":"d7371b36f0b53503ebfffb666d1d064a",
@@ -164,7 +169,7 @@
         }
     ],
     "wof:id":101755043,
-    "wof:lastmodified":1563235083,
+    "wof:lastmodified":1566611841,
     "wof:name":"Petite Wanze",
     "wof:parent_id":102049925,
     "wof:placetype":"locality",

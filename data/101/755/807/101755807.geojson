@@ -13,10 +13,13 @@
     "iso:country":"BE",
     "lbl:latitude":51.144431,
     "lbl:longitude":4.864172,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":51.144431,
     "mps:longitude":4.864172,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:bre_x_preferred":[
         "Olen"
     ],
@@ -92,7 +95,7 @@
     "name:swe_x_preferred":[
         "Olen"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Oolen"
     ],
     "name:vie_x_preferred":[
@@ -124,7 +127,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":58,
     "wof:belongsto":[
@@ -139,7 +142,6 @@
     "wof:concordances":{
         "gn:id":2789886,
         "gp:id":975071,
-        "qs:id":806138,
         "qs_pg:id":806138,
         "wd:id":"Q839044"
     },
@@ -157,7 +159,7 @@
         }
     ],
     "wof:id":101755807,
-    "wof:lastmodified":1563235091,
+    "wof:lastmodified":1566611844,
     "wof:name":"Olen",
     "wof:parent_id":1108830527,
     "wof:placetype":"locality",

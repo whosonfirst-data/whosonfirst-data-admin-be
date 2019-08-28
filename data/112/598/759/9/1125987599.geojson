@@ -9,14 +9,18 @@
     "geom:bbox":"4.70944,50.48143,4.70944,50.48143",
     "geom:latitude":50.48143,
     "geom:longitude":4.70944,
-    "gn:gn_country":"BE",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"BE",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"BE",
+    "lbl:bbox":"4.68944,50.46143,4.72944,50.50143",
     "lbl:latitude":50.48143,
     "lbl:longitude":4.70944,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Spy"
@@ -42,7 +46,7 @@
     "name:spa_x_preferred":[
         "Gruta de Spy"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Jemeppe-sur-Sambre (Spy)"
     ],
     "name:wln_x_preferred":[
@@ -69,7 +73,7 @@
     "qs_pg:woe_adm0":23424757,
     "qs_pg:woe_id":20098375,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424757,
     "woe:name_adm0":"Belgique",
     "woe:name_adm1":"Li\u00e8ge",
@@ -102,7 +106,7 @@
         }
     ],
     "wof:id":1125987599,
-    "wof:lastmodified":1563235890,
+    "wof:lastmodified":1566612166,
     "wof:name":"Sy",
     "wof:parent_id":102049931,
     "wof:placetype":"locality",

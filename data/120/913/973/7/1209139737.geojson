@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Brussels",
     "iso:country":"BE",
+    "lbl:bbox":"5.98667,50.33389,6.02667,50.37389",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Houvegnez",
         "Houvegn\u00e9"
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":1209139737,
-    "wof:lastmodified":1537587011,
+    "wof:lastmodified":1566611370,
     "wof:name":"Houvegne",
     "wof:parent_id":85632997,
     "wof:placetype":"locality",

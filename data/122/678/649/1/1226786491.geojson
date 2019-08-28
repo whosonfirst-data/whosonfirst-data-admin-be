@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Brussels",
     "iso:country":"BE",
+    "lbl:bbox":"5.06408,50.33927,5.10408,50.37927",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85681699,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1226786491,
-    "wof:lastmodified":1536656865,
+    "wof:lastmodified":1566612519,
     "wof:name":"Maibelle",
     "wof:parent_id":102049931,
     "wof:placetype":"locality",

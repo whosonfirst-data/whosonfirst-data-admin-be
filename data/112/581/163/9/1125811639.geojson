@@ -9,14 +9,18 @@
     "geom:bbox":"4.11146,51.01905,4.11146,51.01905",
     "geom:latitude":51.01905,
     "geom:longitude":4.11146,
-    "gn:gn_country":"BE",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"BE",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"BE",
+    "lbl:bbox":"4.09146,50.99905,4.13146,51.03905",
     "lbl:latitude":51.01905,
     "lbl:longitude":4.11146,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ceb_x_preferred":[
         "Sint-Gillis-bij-Dendermonde"
@@ -39,7 +43,7 @@
     "name:swe_x_preferred":[
         "Sint-Gillis-bij-Dendermonde"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Saint-Gilles-lez-Termonde"
     ],
     "qs_pg:aaroncc":"BE",
@@ -63,7 +67,7 @@
     "qs_pg:woe_adm0":23424757,
     "qs_pg:woe_id":977183,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424757,
     "woe:name_adm0":"Belgique",
     "woe:name_adm1":"Oost-Vlaanderen",
@@ -98,7 +102,7 @@
         }
     ],
     "wof:id":1125811639,
-    "wof:lastmodified":1563235746,
+    "wof:lastmodified":1566612087,
     "wof:name":"St.-Gillis-bij-Dendermonde",
     "wof:parent_id":1108830417,
     "wof:placetype":"locality",

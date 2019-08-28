@@ -21,8 +21,11 @@
     "iso:country":"BE",
     "lbl:latitude":51.271327,
     "lbl:longitude":5.498058,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Hamont-Achel"
     ],
@@ -119,7 +122,7 @@
     "reversegeo:latitude":51.271327,
     "reversegeo:longitude":5.498058,
     "src:geom":"begov",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681705,
         102191581,
@@ -143,7 +146,7 @@
         }
     ],
     "wof:id":1108830117,
-    "wof:lastmodified":1564162739,
+    "wof:lastmodified":1566611607,
     "wof:name":"Hamont-Achel",
     "wof:parent_id":102049993,
     "wof:placetype":"localadmin",

@@ -12,10 +12,13 @@
     "iso:country":"BE",
     "lbl:latitude":50.74587,
     "lbl:longitude":5.815443,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.74587,
     "mps:longitude":5.815443,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Sint-Martens-Voeren"
     ],
@@ -55,7 +58,7 @@
     "qs:type":"rural hamlet many local_admin match geoplanet",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681705,
         102191581,
@@ -68,7 +71,7 @@
     "wof:concordances":{
         "gn:id":2786583,
         "gp:id":969768,
-        "qs:id":989412,
+        "qs_pg:id":989412,
         "wd:id":"Q2148763"
     },
     "wof:country":"BE",
@@ -85,7 +88,7 @@
         }
     ],
     "wof:id":101912969,
-    "wof:lastmodified":1561831417,
+    "wof:lastmodified":1566611893,
     "wof:name":"Fouron-St.-Martin",
     "wof:parent_id":1108830021,
     "wof:placetype":"locality",

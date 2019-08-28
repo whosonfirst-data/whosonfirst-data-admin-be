@@ -12,10 +12,13 @@
     "iso:country":"BE",
     "lbl:latitude":50.46239,
     "lbl:longitude":4.664683,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.46239,
     "mps:longitude":4.664683,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bre_x_preferred":[
         "Jemeppe-sur-Sambre"
     ],
@@ -123,7 +126,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681699,
         102191581,
@@ -136,7 +139,6 @@
         "fct:id":"036b2d8a-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2794930,
         "gp:id":971744,
-        "qs:id":290503,
         "qs_pg:id":290503,
         "wd:id":"Q720791",
         "wk:page":"Jemeppe-sur-Sambre"
@@ -157,7 +159,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1563235106,
+    "wof:lastmodified":1566611849,
     "wof:name":"Jemeppe",
     "wof:parent_id":102049931,
     "wof:placetype":"locality",

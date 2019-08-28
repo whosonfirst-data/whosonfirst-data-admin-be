@@ -9,14 +9,17 @@
     "geom:bbox":"4.08928492945,50.88677844,4.1564931135,50.9273584372",
     "geom:latitude":50.907842,
     "geom:longitude":4.121292,
-    "geonames:id":"2785679,2785676,2785677,2785678",
+    "gn:id":"2785679,2785676,2785677,2785678",
     "iso:country":"BE",
     "lbl:latitude":50.912317,
     "lbl:longitude":4.111019,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.912317,
     "mps:longitude":4.111019,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Terlinden"
     ],
@@ -44,7 +47,7 @@
     "qs:type":"suburbs point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":30,
     "wof:belongsto":[
         85681731,
@@ -57,7 +60,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":970944,
-        "qs:id":2,
+        "qs_pg:id":2,
         "wd:id":"Q3065536"
     },
     "wof:country":"BE",
@@ -74,7 +77,7 @@
         }
     ],
     "wof:id":101755481,
-    "wof:lastmodified":1563235078,
+    "wof:lastmodified":1566611839,
     "wof:name":"Terlinden",
     "wof:parent_id":1108830109,
     "wof:placetype":"locality",

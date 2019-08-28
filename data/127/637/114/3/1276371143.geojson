@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Brussels",
     "iso:country":"BE",
+    "lbl:bbox":"3.48413,50.91383,3.52413,50.95383",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0641\u064a\u0644\u062f"
     ],
@@ -96,8 +100,7 @@
     ],
     "name:und_x_variant":[
         "\u2019t Veld",
-        "\u2019T Velt",
-        "Veld"
+        "\u2019T Velt"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -126,7 +129,7 @@
         }
     ],
     "wof:id":1276371143,
-    "wof:lastmodified":1564162238,
+    "wof:lastmodified":1566611307,
     "wof:name":"Veld",
     "wof:parent_id":1108830563,
     "wof:placetype":"locality",

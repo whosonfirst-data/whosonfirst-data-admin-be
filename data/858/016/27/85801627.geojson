@@ -10,8 +10,10 @@
     "geom:latitude":50.54351,
     "geom:longitude":5.573787,
     "iso:country":"BE",
+    "lbl:bbox":"5.568787,50.53851,5.578787,50.54851",
     "lbl:latitude":50.54351,
     "lbl:longitude":5.573787,
+    "lbl:max_zoom":18.0,
     "mps:latitude":50.538575,
     "mps:longitude":5.56817,
     "mz:hierarchy_label":0,
@@ -89,9 +91,6 @@
     "name:ukr_x_preferred":[
         "\u041c\u0435\u0440\u0456"
     ],
-    "name:unk_x_variant":[
-        "M\u00e9ry"
-    ],
     "name:uzb_x_preferred":[
         "M\u00e9ry"
     ],
@@ -134,7 +133,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191581,
         85632997,
@@ -147,7 +146,6 @@
     "wof:concordances":{
         "gn:id":2791286,
         "gp:id":974236,
-        "qs:id":246885,
         "qs_pg:id":246885
     },
     "wof:country":"BE",
@@ -167,7 +165,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1564161866,
+    "wof:lastmodified":1566611091,
     "wof:name":"M\u00e9ry",
     "wof:parent_id":101755185,
     "wof:placetype":"neighbourhood",

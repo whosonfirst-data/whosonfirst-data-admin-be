@@ -9,14 +9,18 @@
     "geom:bbox":"4.92496,50.89621,4.92496,50.89621",
     "geom:latitude":50.89621,
     "geom:longitude":4.92496,
-    "gn:gn_country":"BE",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"BE",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"BE",
+    "lbl:bbox":"4.90496,50.87621,4.94496,50.91621",
     "lbl:latitude":50.89621,
     "lbl:longitude":4.92496,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:dan_x_preferred":[
         "Meensel-Kiezegem"
@@ -57,7 +61,7 @@
     "name:swe_x_preferred":[
         "Meensel-Kiezegem"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Meensel"
     ],
     "qs_pg:aaroncc":"BE",
@@ -77,7 +81,7 @@
     "qs_pg:woe_adm0":23424757,
     "qs_pg:woe_id":974080,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424757,
     "woe:name_adm0":"Belgique",
     "woe:name_adm1":"Vlaams Brabant",
@@ -112,7 +116,7 @@
         }
     ],
     "wof:id":1125779145,
-    "wof:lastmodified":1561831486,
+    "wof:lastmodified":1566612242,
     "wof:name":"Meensel-Kiezegem",
     "wof:parent_id":1108830337,
     "wof:placetype":"locality",

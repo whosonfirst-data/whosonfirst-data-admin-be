@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Brussels",
     "iso:country":"BE",
+    "lbl:bbox":"4.58,50.99667,4.62,51.03667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85681715,
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1276156859,
-    "wof:lastmodified":1537014564,
+    "wof:lastmodified":1566611286,
     "wof:name":"Kraai Venne",
     "wof:parent_id":1108830049,
     "wof:placetype":"locality",

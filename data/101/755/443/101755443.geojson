@@ -13,10 +13,13 @@
     "iso:country":"BE",
     "lbl:latitude":50.976862,
     "lbl:longitude":4.631484,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":50.976862,
     "mps:longitude":4.631484,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:bre_x_preferred":[
         "Haacht"
     ],
@@ -89,7 +92,7 @@
     "name:swe_x_preferred":[
         "Haacht"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Haecht"
     ],
     "name:vie_x_preferred":[
@@ -121,7 +124,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":245,
     "wof:belongsto":[
@@ -136,7 +139,6 @@
     "wof:concordances":{
         "gn:id":2796844,
         "gp:id":970471,
-        "qs:id":141507,
         "qs_pg:id":141507,
         "wd:id":"Q950129"
     },
@@ -154,7 +156,7 @@
         }
     ],
     "wof:id":101755443,
-    "wof:lastmodified":1563235078,
+    "wof:lastmodified":1566611839,
     "wof:name":"Haacht",
     "wof:parent_id":1108830175,
     "wof:placetype":"locality",

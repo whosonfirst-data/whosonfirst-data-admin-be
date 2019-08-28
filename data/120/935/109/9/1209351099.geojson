@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Brussels",
     "iso:country":"BE",
+    "lbl:bbox":"3.53584,50.68149,3.57584,50.72149",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632997
@@ -37,7 +41,7 @@
         "gn:id":2803327
     },
     "wof:country":"BE",
-    "wof:geomhash":"b98eae6c6c3962ddd2633c49da746701",
+    "wof:geomhash":"0b098bb94fcdfd77f1b930165b012359",
     "wof:hierarchy":[
         {
             "country_id":85632997,
@@ -45,7 +49,7 @@
         }
     ],
     "wof:id":1209351099,
-    "wof:lastmodified":1536289738,
+    "wof:lastmodified":1566611385,
     "wof:name":"Ainieres",
     "wof:parent_id":85632997,
     "wof:placetype":"locality",
@@ -55,9 +59,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    3.5558400000000003,
+    3.55584,
     50.70149,
-    3.5558400000000003,
+    3.55584,
     50.70149
 ],
   "geometry": {"coordinates":[3.55584,50.70149],"type":"Point"}

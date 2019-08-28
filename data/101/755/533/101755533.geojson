@@ -5,18 +5,21 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000329,
-    "geom:area_square_m":2578237.962706,
+    "geom:area_square_m":2578237.962705,
     "geom:bbox":"4.37971778603,50.7335050826,4.41395679064,50.75194805",
     "geom:latitude":50.740521,
     "geom:longitude":4.394878,
     "iso:country":"BE",
     "lbl:latitude":50.740309,
     "lbl:longitude":4.395138,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.740309,
     "mps:longitude":4.395138,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":12.0,
+    "name:und_x_variant":[
         "Grande Espinette"
     ],
     "qs:a0":"Belgi\u00eb#Belgique#Belgien",
@@ -34,7 +37,7 @@
     "qs:type":"suburbs point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681731,
         102191581,
@@ -47,7 +50,7 @@
     "wof:concordances":{
         "gn:id":2796942,
         "gp:id":12602682,
-        "qs:id":6
+        "qs_pg:id":6
     },
     "wof:country":"BE",
     "wof:geomhash":"48a414e0d5b205cc374f5b3e31de57da",
@@ -63,7 +66,7 @@
         }
     ],
     "wof:id":101755533,
-    "wof:lastmodified":1501264135,
+    "wof:lastmodified":1566611808,
     "wof:name":"Grote Hut",
     "wof:parent_id":1108830499,
     "wof:placetype":"locality",

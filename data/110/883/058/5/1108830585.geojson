@@ -21,8 +21,11 @@
     "iso:country":"BE",
     "lbl:latitude":50.76055,
     "lbl:longitude":2.900402,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0645\u064a\u0633\u0646"
     ],
@@ -113,7 +116,7 @@
     "reversegeo:latitude":50.76055,
     "reversegeo:longitude":2.900402,
     "src:geom":"begov",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681709,
         102191581,
@@ -137,7 +140,7 @@
         }
     ],
     "wof:id":1108830585,
-    "wof:lastmodified":1564162854,
+    "wof:lastmodified":1566611686,
     "wof:name":"Mesen",
     "wof:parent_id":102049971,
     "wof:placetype":"localadmin",

@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Brussels",
     "iso:country":"BE",
+    "lbl:bbox":"3.817,51.02835,3.857,51.06835",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85681733,
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1343798575,
-    "wof:lastmodified":1536755982,
+    "wof:lastmodified":1566610987,
     "wof:name":"Meerstraat",
     "wof:parent_id":1108830027,
     "wof:placetype":"locality",

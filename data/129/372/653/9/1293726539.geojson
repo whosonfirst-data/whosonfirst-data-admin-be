@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Brussels",
     "iso:country":"BE",
+    "lbl:bbox":"5.07538,51.26487,5.11538,51.30487",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cym_x_preferred":[
         "Plas"
     ],
@@ -41,8 +45,7 @@
         "Plas"
     ],
     "name:und_x_variant":[
-        "Plasweg",
-        "Plas"
+        "Plasweg"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -71,7 +74,7 @@
         }
     ],
     "wof:id":1293726539,
-    "wof:lastmodified":1564162087,
+    "wof:lastmodified":1566611222,
     "wof:name":"Plas",
     "wof:parent_id":1108830225,
     "wof:placetype":"locality",

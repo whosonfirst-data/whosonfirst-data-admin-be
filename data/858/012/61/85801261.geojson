@@ -13,6 +13,7 @@
     "iso:country":"BE",
     "lbl:latitude":50.820989,
     "lbl:longitude":4.297843,
+    "lbl:max_zoom":18.0,
     "mps:latitude":50.818832,
     "mps:longitude":4.280089,
     "mz:hierarchy_label":1,
@@ -39,9 +40,6 @@
     ],
     "name:nld_x_variant":[
         "Het Rad"
-    ],
-    "name:unk_x_variant":[
-        "Het Rad la Roue"
     ],
     "qs:gn_id":0,
     "qs:gn_local":0,
@@ -80,7 +78,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":971121,
-        "qs:id":1103396,
         "qs_pg:id":1103396,
         "wd:id":"Q2289943"
     },
@@ -101,7 +98,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1566247549,
+    "wof:lastmodified":1566611072,
     "wof:name":"La Roue",
     "wof:parent_id":101751573,
     "wof:placetype":"neighbourhood",

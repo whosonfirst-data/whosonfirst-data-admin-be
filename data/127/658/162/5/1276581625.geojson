@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Brussels",
     "iso:country":"BE",
+    "lbl:bbox":"4.23377,50.74377,4.27377,50.78377",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Brucom",
         "Brukom"
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1276581625,
-    "wof:lastmodified":1537587064,
+    "wof:lastmodified":1566611266,
     "wof:name":"Brukom",
     "wof:parent_id":1108830529,
     "wof:placetype":"locality",

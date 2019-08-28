@@ -13,10 +13,13 @@
     "iso:country":"BE",
     "lbl:latitude":51.018124,
     "lbl:longitude":4.110429,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":51.018124,
     "mps:longitude":4.110429,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:afr_x_preferred":[
         "Dendermonde"
     ],
@@ -164,9 +167,6 @@
     "name:ukr_x_preferred":[
         "\u0414\u0435\u043d\u0434\u0435\u0440\u043c\u043e\u043d\u0434\u0435"
     ],
-    "name:unk_x_variant":[
-        "Termonde"
-    ],
     "name:vep_x_preferred":[
         "Dendermonde"
     ],
@@ -202,7 +202,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":51.016667,
     "wd:longitude":4.1,
@@ -220,7 +220,6 @@
         "fct:id":"036a86f0-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2799645,
         "gp:id":968899,
-        "qs:id":223029,
         "qs_pg:id":223029,
         "wd:id":"Q13122"
     },
@@ -241,7 +240,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1563235129,
+    "wof:lastmodified":1566611858,
     "wof:name":"Dendermonde",
     "wof:parent_id":1108830417,
     "wof:placetype":"locality",

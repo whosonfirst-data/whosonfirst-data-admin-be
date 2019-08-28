@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Brussels",
     "iso:country":"BE",
+    "lbl:bbox":"3.99705,50.68825,4.03705,50.72825",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Smijersmark",
         "Smeyers Marcq"
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1276586939,
-    "wof:lastmodified":1537586912,
+    "wof:lastmodified":1566611264,
     "wof:name":"Smeyers Marcq",
     "wof:parent_id":1108830399,
     "wof:placetype":"locality",

@@ -13,10 +13,13 @@
     "iso:country":"BE",
     "lbl:latitude":51.311166,
     "lbl:longitude":3.140591,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":51.311166,
     "mps:longitude":3.140591,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:bel_x_preferred":[
         "\u0411\u043b\u0430\u043d\u043a\u0435\u043d\u0431\u0435\u0440\u0433\u0435"
     ],
@@ -122,9 +125,6 @@
     "name:swe_x_preferred":[
         "Blankenberge"
     ],
-    "name:unk_x_variant":[
-        "Blankenberghe"
-    ],
     "name:vie_x_preferred":[
         "Blankenberge"
     ],
@@ -161,7 +161,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":510,
     "wof:belongsto":[
@@ -177,7 +177,6 @@
         "fct:id":"036a4456-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2801858,
         "gp:id":967380,
-        "qs:id":481441,
         "qs_pg:id":481441,
         "wd:id":"Q328104",
         "wk:page":"Blankenberge"
@@ -199,7 +198,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1561831433,
+    "wof:lastmodified":1566611964,
     "wof:name":"Blankenberge",
     "wof:parent_id":1108830693,
     "wof:placetype":"locality",

@@ -12,10 +12,13 @@
     "iso:country":"BE",
     "lbl:latitude":50.401412,
     "lbl:longitude":3.753468,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.401412,
     "mps:longitude":3.753468,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Wih\u00e9ries"
     ],
@@ -43,7 +46,7 @@
     "qs:type":"suburbs point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681723,
         102191581,
@@ -55,7 +58,7 @@
     "wof:concordances":{
         "gn:id":2783700,
         "gp:id":978883,
-        "qs:id":208624,
+        "qs_pg:id":208624,
         "wd:id":"Q2525935"
     },
     "wof:country":"BE",
@@ -71,7 +74,7 @@
         }
     ],
     "wof:id":101755133,
-    "wof:lastmodified":1561831397,
+    "wof:lastmodified":1566611810,
     "wof:name":"Wih\u00e9ries",
     "wof:parent_id":102049933,
     "wof:placetype":"locality",

@@ -12,10 +12,13 @@
     "iso:country":"BE",
     "lbl:latitude":51.25779,
     "lbl:longitude":5.081007,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":51.25779,
     "mps:longitude":5.081007,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Belgi\u00eb#Belgique#Belgien",
     "qs:a1":"*Antwerpen",
     "qs:a1r":"0Vlaams Gewest",
@@ -31,7 +34,7 @@
     "qs:type":"rural point-multi-in-poly-resolved",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681715,
         102191581,
@@ -43,7 +46,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":976194,
-        "qs:id":3
+        "qs_pg:id":3
     },
     "wof:country":"BE",
     "wof:geomhash":"a488272ef433eeda8ad43d4498a323b6",
@@ -59,7 +62,7 @@
         }
     ],
     "wof:id":101839111,
-    "wof:lastmodified":1499530838,
+    "wof:lastmodified":1566611971,
     "wof:name":"Geenend-Meierend-Bosend",
     "wof:parent_id":1108830225,
     "wof:placetype":"locality",

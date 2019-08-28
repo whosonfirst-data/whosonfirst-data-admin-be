@@ -12,10 +12,13 @@
     "iso:country":"BE",
     "lbl:latitude":51.125417,
     "lbl:longitude":5.365336,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":51.125417,
     "mps:longitude":5.365336,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Hechtel"
     ],
@@ -34,7 +37,7 @@
     "name:nld_x_preferred":[
         "Hechtel"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Hechtel-Eksel (Hechtel)"
     ],
     "qs:a0":"Belgi\u00eb#Belgique#Belgien",
@@ -54,7 +57,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681705,
         102191581,
@@ -67,7 +70,6 @@
     "wof:concordances":{
         "gn:id":2796319,
         "gp:id":970807,
-        "qs:id":238311,
         "qs_pg:id":238311,
         "wd:id":"Q1592929"
     },
@@ -85,7 +87,7 @@
         }
     ],
     "wof:id":101809391,
-    "wof:lastmodified":1563235420,
+    "wof:lastmodified":1566611938,
     "wof:name":"Hechtel",
     "wof:parent_id":1108830149,
     "wof:placetype":"locality",

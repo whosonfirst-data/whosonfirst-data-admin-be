@@ -5,18 +5,21 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000623,
-    "geom:area_square_m":3015649.160937,
+    "geom:area_square_m":4871637.240612,
     "geom:bbox":"4.64089074675,50.778498859,4.69914502194,50.8178195043",
     "geom:latitude":50.800136,
     "geom:longitude":4.67042,
     "iso:country":"BE",
     "lbl:latitude":50.810907,
     "lbl:longitude":4.676214,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.810907,
     "mps:longitude":4.676214,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":12.0,
+    "name:und_x_variant":[
         "Grez-Doiceau (Nethen)"
     ],
     "qs:a0":"Belgi\u00eb#Belgique#Belgien",
@@ -34,7 +37,7 @@
     "qs:type":"rural point-multi-in-poly-resolved",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681731,
         102191581,
@@ -48,7 +51,9 @@
     "wof:concordances":{
         "gn:id":2790297,
         "gp:id":975277,
-        "qs:id":8,
+        "qs_pg:id":8
+    },
+    "wof:concordances_alt":{
         "qs_pg:id":918077
     },
     "wof:country":"BE",
@@ -65,7 +70,7 @@
         }
     ],
     "wof:id":1175610545,
-    "wof:lastmodified":1534985844,
+    "wof:lastmodified":1566611688,
     "wof:name":"Nethen",
     "wof:parent_id":1108830043,
     "wof:placetype":"locality",

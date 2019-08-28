@@ -13,10 +13,13 @@
     "iso:country":"BE",
     "lbl:latitude":51.205999,
     "lbl:longitude":4.76644,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":51.205999,
     "mps:longitude":4.76644,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bre_x_preferred":[
         "Vorselaar"
     ],
@@ -98,7 +101,7 @@
     "name:swe_x_preferred":[
         "Vorselaar"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Vorsselaer"
     ],
     "name:vie_x_preferred":[
@@ -130,7 +133,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":104,
     "wof:belongsto":[
@@ -145,7 +148,6 @@
     "wof:concordances":{
         "gn:id":2784370,
         "gp:id":978480,
-        "qs:id":187098,
         "qs_pg:id":187098,
         "wd:id":"Q909914"
     },
@@ -163,7 +165,7 @@
         }
     ],
     "wof:id":101809477,
-    "wof:lastmodified":1563235428,
+    "wof:lastmodified":1566611941,
     "wof:name":"Vorselaar",
     "wof:parent_id":1108830237,
     "wof:placetype":"locality",

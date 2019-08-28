@@ -12,10 +12,13 @@
     "iso:country":"BE",
     "lbl:latitude":51.10263,
     "lbl:longitude":4.729825,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":51.10263,
     "mps:longitude":4.729825,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Itegem"
     ],
@@ -27,9 +30,6 @@
     ],
     "name:nld_x_preferred":[
         "Itegem"
-    ],
-    "name:unk_x_variant":[
-        "Iteghem"
     ],
     "qs:a0":"Belgi\u00eb#Belgique#Belgien",
     "qs:a1":"*Antwerpen",
@@ -48,7 +48,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681715,
         102191581,
@@ -61,7 +61,6 @@
     "wof:concordances":{
         "gn:id":2795024,
         "gp:id":971700,
-        "qs:id":1139414,
         "qs_pg:id":1139414,
         "wd:id":"Q667788"
     },
@@ -79,7 +78,7 @@
         }
     ],
     "wof:id":101755651,
-    "wof:lastmodified":1561831399,
+    "wof:lastmodified":1566611821,
     "wof:name":"Itegem",
     "wof:parent_id":1108830023,
     "wof:placetype":"locality",

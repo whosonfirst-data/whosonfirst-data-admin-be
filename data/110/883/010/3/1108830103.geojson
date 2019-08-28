@@ -21,8 +21,11 @@
     "iso:country":"BE",
     "lbl:latitude":50.807332,
     "lbl:longitude":5.593652,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Riemst"
     ],
@@ -107,7 +110,7 @@
     "reversegeo:latitude":50.807332,
     "reversegeo:longitude":5.593652,
     "src:geom":"begov",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681705,
         102191581,
@@ -131,7 +134,7 @@
         }
     ],
     "wof:id":1108830103,
-    "wof:lastmodified":1564162772,
+    "wof:lastmodified":1566611628,
     "wof:name":"Riemst",
     "wof:parent_id":1108782563,
     "wof:placetype":"localadmin",

@@ -12,10 +12,13 @@
     "iso:country":"BE",
     "lbl:latitude":50.994881,
     "lbl:longitude":2.911601,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.994881,
     "mps:longitude":2.911601,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u041a\u043b\u0435\u0440\u043a\u0435\u043d"
     ],
@@ -43,7 +46,7 @@
     "name:swe_x_preferred":[
         "Klerken"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Clercken"
     ],
     "name:vls_x_preferred":[
@@ -66,7 +69,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":112,
     "wof:belongsto":[
         85681709,
@@ -80,7 +83,6 @@
     "wof:concordances":{
         "gn:id":2794271,
         "gp:id":972151,
-        "qs:id":384899,
         "qs_pg:id":384899,
         "wd:id":"Q1937157",
         "wk:page":"Klerken"
@@ -99,7 +101,7 @@
         }
     ],
     "wof:id":101809349,
-    "wof:lastmodified":1563235441,
+    "wof:lastmodified":1566611945,
     "wof:name":"Klerken",
     "wof:parent_id":1108830335,
     "wof:placetype":"locality",

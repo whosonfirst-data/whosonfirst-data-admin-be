@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Brussels",
     "iso:country":"BE",
+    "lbl:bbox":"5.06591,50.93836,5.10591,50.97836",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Zelck",
         "Zelk"
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1226785593,
-    "wof:lastmodified":1537586878,
+    "wof:lastmodified":1566612514,
     "wof:name":"Zelk",
     "wof:parent_id":1108830269,
     "wof:placetype":"locality",

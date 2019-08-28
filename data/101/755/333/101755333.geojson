@@ -12,10 +12,13 @@
     "iso:country":"BE",
     "lbl:latitude":50.984772,
     "lbl:longitude":4.047365,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.984772,
     "mps:longitude":4.047365,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Gysegem"
     ],
@@ -30,9 +33,6 @@
     ],
     "name:nld_x_preferred":[
         "Gijzegem"
-    ],
-    "name:unk_x_variant":[
-        "Gysegem"
     ],
     "qs:a0":"Belgi\u00eb#Belgique#Belgien",
     "qs:a1":"*Oost-Vlanderen",
@@ -51,7 +51,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681733,
         102191581,
@@ -65,7 +65,6 @@
         "fct:id":"036ad36c-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2797542,
         "gp:id":970080,
-        "qs:id":114283,
         "qs_pg:id":114283,
         "wd:id":"Q842951"
     },
@@ -86,7 +85,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1563235068,
+    "wof:lastmodified":1566611835,
     "wof:name":"Gijzegem",
     "wof:parent_id":1108830515,
     "wof:placetype":"locality",

@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Brussels",
     "iso:country":"BE",
+    "lbl:bbox":"6.03611,50.235,6.07611,50.275",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632997
@@ -37,7 +41,7 @@
         "gn:id":2783878
     },
     "wof:country":"BE",
-    "wof:geomhash":"822327739953d6518b1f4aadd78010d8",
+    "wof:geomhash":"41be17b0009a43e92102b8a07505ef4c",
     "wof:hierarchy":[
         {
             "country_id":85632997,
@@ -45,7 +49,7 @@
         }
     ],
     "wof:id":1209137093,
-    "wof:lastmodified":1536296626,
+    "wof:lastmodified":1566611364,
     "wof:name":"Weisten",
     "wof:parent_id":85632997,
     "wof:placetype":"locality",
@@ -55,9 +59,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    6.0561099999999985,
+    6.05611,
     50.255,
-    6.0561099999999985,
+    6.05611,
     50.255
 ],
   "geometry": {"coordinates":[6.05611,50.255],"type":"Point"}

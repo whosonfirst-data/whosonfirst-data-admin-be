@@ -11,8 +11,10 @@
     "geom:longitude":4.523184,
     "gn:id":"",
     "iso:country":"BE",
+    "lbl:bbox":"4.518184,50.895479,4.528184,50.905479",
     "lbl:latitude":50.900479,
     "lbl:longitude":4.523184,
+    "lbl:max_zoom":18.0,
     "mps:latitude":50.92483,
     "mps:longitude":4.54865,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":13.0,
     "mz:tier_locality":1,
     "name:nld_x_preferred":[
-        "Humelgem"
-    ],
-    "name:unk_x_variant":[
         "Humelgem"
     ],
     "qs:gn_fcode":"PPL",
@@ -58,7 +57,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191581,
         1108830477,
@@ -73,7 +72,6 @@
     ],
     "wof:concordances":{
         "gp:id":971622,
-        "qs:id":1103446,
         "qs_pg:id":1103446
     },
     "wof:country":"BE",
@@ -94,7 +92,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1561831363,
+    "wof:lastmodified":1566611077,
     "wof:name":"Humelgem",
     "wof:parent_id":101913231,
     "wof:placetype":"neighbourhood",

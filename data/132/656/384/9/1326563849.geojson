@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Brussels",
     "iso:country":"BE",
+    "lbl:bbox":"3.70239,50.83232,3.74239,50.87232",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Boucle-Saint-Blaise",
         "Sint-Blasius-Boekel"
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1326563849,
-    "wof:lastmodified":1537586917,
+    "wof:lastmodified":1566610852,
     "wof:name":"Sint-Blasius-Boekel",
     "wof:parent_id":1108830583,
     "wof:placetype":"locality",

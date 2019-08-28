@@ -13,10 +13,13 @@
     "iso:country":"BE",
     "lbl:latitude":50.839026,
     "lbl:longitude":4.02669,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":50.839026,
     "mps:longitude":4.02669,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:bre_x_preferred":[
         "Ninove"
     ],
@@ -148,7 +151,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":1737,
     "wof:belongsto":[
@@ -164,7 +167,6 @@
         "fct:id":"036bca4c-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2790114,
         "gp:id":974937,
-        "qs:id":186996,
         "qs_pg:id":186996,
         "wd:id":"Q385026"
     },
@@ -185,7 +187,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1563235169,
+    "wof:lastmodified":1566611868,
     "wof:name":"Ninove",
     "wof:parent_id":1108830403,
     "wof:placetype":"locality",

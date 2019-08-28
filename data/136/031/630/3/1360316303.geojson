@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Brussels",
     "iso:country":"BE",
+    "lbl:bbox":"3.32826,50.64551,3.36826,50.68551",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85681723,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1360316303,
-    "wof:lastmodified":1536609459,
+    "wof:lastmodified":1566611775,
     "wof:name":"Esquelmes",
     "wof:parent_id":102049951,
     "wof:placetype":"locality",

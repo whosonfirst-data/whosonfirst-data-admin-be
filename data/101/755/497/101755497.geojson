@@ -12,10 +12,13 @@
     "iso:country":"BE",
     "lbl:latitude":50.968046,
     "lbl:longitude":4.501285,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.968046,
     "mps:longitude":4.501285,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Elewijt"
     ],
@@ -40,7 +43,7 @@
     "name:swe_x_preferred":[
         "Elewijt"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Elewyt"
     ],
     "qs:a0":"Belgi\u00eb#Belgique#Belgien",
@@ -60,7 +63,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":50.9603,
     "wd:longitude":4.4969,
     "wd:wordcount":180,
@@ -76,7 +79,6 @@
     "wof:concordances":{
         "gn:id":2798847,
         "gp:id":969330,
-        "qs:id":1003551,
         "qs_pg:id":1003551,
         "wd:id":"Q1990353",
         "wk:page":"Elewijt"
@@ -95,7 +97,7 @@
         }
     ],
     "wof:id":101755497,
-    "wof:lastmodified":1561831399,
+    "wof:lastmodified":1566611821,
     "wof:name":"Elewijt",
     "wof:parent_id":1108830589,
     "wof:placetype":"locality",

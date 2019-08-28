@@ -12,6 +12,7 @@
     "iso:country":"BE",
     "lbl:latitude":50.804481,
     "lbl:longitude":4.362544,
+    "lbl:max_zoom":18.0,
     "mps:latitude":50.804198,
     "mps:longitude":4.361521,
     "mz:hierarchy_label":1,
@@ -25,9 +26,6 @@
     "mz:tier_locality":5,
     "mz:tier_metro":30,
     "name:nld_x_preferred":[
-        "Langeveld"
-    ],
-    "name:unk_x_variant":[
         "Langeveld"
     ],
     "qs:gn_fcode":"PPLX",
@@ -70,7 +68,6 @@
     "wof:concordances":{
         "gn:id":2793362,
         "gp:id":972924,
-        "qs:id":875180,
         "qs_pg:id":875180
     },
     "wof:country":"BE",
@@ -90,7 +87,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1566247550,
+    "wof:lastmodified":1566611071,
     "wof:name":"Langeveld",
     "wof:parent_id":101751573,
     "wof:placetype":"neighbourhood",

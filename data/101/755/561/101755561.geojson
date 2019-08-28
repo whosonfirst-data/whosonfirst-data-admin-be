@@ -12,10 +12,13 @@
     "iso:country":"BE",
     "lbl:latitude":50.931023,
     "lbl:longitude":3.197974,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":50.931023,
     "mps:longitude":3.197974,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Kachtem"
     ],
@@ -31,7 +34,7 @@
     "name:nld_x_preferred":[
         "Kachtem"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Cachtem"
     ],
     "name:vls_x_preferred":[
@@ -54,7 +57,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681709,
         102191581,
@@ -67,7 +70,6 @@
     "wof:concordances":{
         "gn:id":2794823,
         "gp:id":971801,
-        "qs:id":267269,
         "qs_pg:id":267269,
         "wd:id":"Q2333747"
     },
@@ -85,7 +87,7 @@
         }
     ],
     "wof:id":101755561,
-    "wof:lastmodified":1561831397,
+    "wof:lastmodified":1566611810,
     "wof:name":"Kachtem",
     "wof:parent_id":1108830151,
     "wof:placetype":"locality",

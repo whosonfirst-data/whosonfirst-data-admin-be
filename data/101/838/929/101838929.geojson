@@ -5,17 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001017,
-    "geom:area_square_m":7873764.097644,
+    "geom:area_square_m":7873764.097645,
     "geom:bbox":"5.35381904589,51.1992891439,5.40234730554,51.2593727148",
     "geom:latitude":51.226336,
     "geom:longitude":5.378881,
     "iso:country":"BE",
     "lbl:latitude":51.222379,
     "lbl:longitude":5.380979,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":51.222379,
     "mps:longitude":5.380979,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Belgi\u00eb#Belgique#Belgien",
     "qs:a1":"*Limburg",
     "qs:a1r":"0Vlaams Gewest",
@@ -31,7 +34,7 @@
     "qs:type":"rural point-multi-in-poly-resolved",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681705,
         102191581,
@@ -43,7 +46,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":12602709,
-        "qs:id":5
+        "qs_pg:id":5
     },
     "wof:country":"BE",
     "wof:geomhash":"98d20abf785ec6c3a79d166cfa7e97c5",
@@ -59,7 +62,7 @@
         }
     ],
     "wof:id":101838929,
-    "wof:lastmodified":1499531426,
+    "wof:lastmodified":1566611935,
     "wof:name":"Grote Barrier",
     "wof:parent_id":1108830665,
     "wof:placetype":"locality",

@@ -9,15 +9,18 @@
     "geom:bbox":"6.25749,50.40731,6.25749,50.40731",
     "geom:latitude":50.40731,
     "geom:longitude":6.25749,
-    "gn:gn_country":"BE",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":5340,
+    "gn:country":"BE",
+    "gn:fcode":"PPL",
     "gn:population":5340,
     "iso:country":"BE",
+    "lbl:bbox":"6.23749,50.38731,6.27749,50.42731",
     "lbl:latitude":50.40731,
     "lbl:longitude":6.25749,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:afr_x_preferred":[
         "B\u00fcllingen"
@@ -220,7 +223,7 @@
     "name:swe_x_preferred":[
         "B\u00fcllingen"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Bullingen"
     ],
     "name:vec_x_preferred":[
@@ -262,7 +265,7 @@
     "qs_pg:qs_id":1152182,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         85681691,
@@ -291,7 +294,7 @@
         }
     ],
     "wof:id":1125882493,
-    "wof:lastmodified":1563235765,
+    "wof:lastmodified":1566612094,
     "wof:name":"Bullange",
     "wof:parent_id":102049935,
     "wof:placetype":"locality",

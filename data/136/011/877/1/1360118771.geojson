@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Brussels",
     "iso:country":"BE",
+    "lbl:bbox":"6.31919,50.3112,6.35919,50.3512",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Mamderseld",
         "Manderfield",
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":1360118771,
-    "wof:lastmodified":1537586972,
+    "wof:lastmodified":1566611788,
     "wof:name":"Manderfeld",
     "wof:parent_id":102049935,
     "wof:placetype":"locality",

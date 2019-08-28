@@ -13,10 +13,13 @@
     "iso:country":"BE",
     "lbl:latitude":50.972572,
     "lbl:longitude":5.688422,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":50.972572,
     "mps:longitude":5.688422,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":9.0,
     "name:afr_x_preferred":[
         "Maasmechelen"
     ],
@@ -122,7 +125,7 @@
     "name:tur_x_preferred":[
         "Maasmechelen"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Massmechelen"
     ],
     "name:vie_x_preferred":[
@@ -152,7 +155,7 @@
     "qs:type":"rural point-multi-in-poly-resolved",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":758,
     "wof:belongsto":[
@@ -167,7 +170,7 @@
     "wof:concordances":{
         "gn:id":2791961,
         "gp:id":974073,
-        "qs:id":1242055,
+        "qs_pg:id":1242055,
         "wd:id":"Q329633",
         "wk:page":"Maasmechelen"
     },
@@ -185,7 +188,7 @@
         }
     ],
     "wof:id":101837513,
-    "wof:lastmodified":1563235493,
+    "wof:lastmodified":1566611962,
     "wof:name":"Maasmechelen",
     "wof:parent_id":1108830295,
     "wof:placetype":"locality",

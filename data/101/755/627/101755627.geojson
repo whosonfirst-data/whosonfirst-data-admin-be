@@ -13,10 +13,13 @@
     "iso:country":"BE",
     "lbl:latitude":51.067791,
     "lbl:longitude":4.53375,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":51.067791,
     "mps:longitude":4.53375,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:bre_x_preferred":[
         "Sint-Katelijne-Waver"
     ],
@@ -101,9 +104,6 @@
     "name:swe_x_preferred":[
         "Sint-Katelijne-Waver"
     ],
-    "name:unk_x_variant":[
-        "Wavre-Sainte-Catherine"
-    ],
     "name:vie_x_preferred":[
         "Sint-Katelijne-Waver"
     ],
@@ -131,7 +131,7 @@
     "qs:type":"suburbs point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":160,
     "wof:belongsto":[
@@ -147,7 +147,7 @@
         "gn:id":2786641,
         "gp:id":977224,
         "loc:id":"n79023074",
-        "qs:id":4781,
+        "qs_pg:id":4781,
         "wd:id":"Q696578",
         "wk:page":"Sint-Katelijne-Waver"
     },
@@ -165,7 +165,7 @@
         }
     ],
     "wof:id":101755627,
-    "wof:lastmodified":1563235012,
+    "wof:lastmodified":1566611818,
     "wof:name":"Sint-Katelijne-Waver",
     "wof:parent_id":1108830007,
     "wof:placetype":"locality",

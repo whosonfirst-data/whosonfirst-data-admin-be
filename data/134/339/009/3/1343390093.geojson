@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Brussels",
     "iso:country":"BE",
+    "lbl:bbox":"3.84337,50.93936,3.88337,50.97936",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85681733,
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1343390093,
-    "wof:lastmodified":1536846774,
+    "wof:lastmodified":1566610962,
     "wof:name":"Westremdries",
     "wof:parent_id":1108830329,
     "wof:placetype":"locality",

@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Brussels",
     "iso:country":"BE",
+    "lbl:bbox":"5.42202,49.94663,5.46202,49.98663",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632997
@@ -37,7 +41,7 @@
         "gn:id":2797949
     },
     "wof:country":"BE",
-    "wof:geomhash":"35802b4227d595bd477623d377e65f4c",
+    "wof:geomhash":"48541ef0a4cc5798d66238e716568fa8",
     "wof:hierarchy":[
         {
             "country_id":85632997,
@@ -45,7 +49,7 @@
         }
     ],
     "wof:id":1209142363,
-    "wof:lastmodified":1536296463,
+    "wof:lastmodified":1566611374,
     "wof:name":"Freux Suzerain",
     "wof:parent_id":85632997,
     "wof:placetype":"locality",
@@ -55,9 +59,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    5.4420199999999985,
+    5.44202,
     49.96663,
-    5.4420199999999985,
+    5.44202,
     49.96663
 ],
   "geometry": {"coordinates":[5.44202,49.96663],"type":"Point"}

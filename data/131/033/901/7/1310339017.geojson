@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Brussels",
     "iso:country":"BE",
+    "lbl:bbox":"3.33287,50.87426,3.37287,50.91426",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Leykant",
         "Leikant"
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1310339017,
-    "wof:lastmodified":1537586983,
+    "wof:lastmodified":1566611758,
     "wof:name":"Leikant",
     "wof:parent_id":1108830341,
     "wof:placetype":"locality",

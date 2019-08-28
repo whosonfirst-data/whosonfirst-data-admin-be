@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Brussels",
     "iso:country":"BE",
+    "lbl:bbox":"5.94402,50.66707,5.98402,50.70707",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "M\u00fctshagen",
         "M\u00fctzhagen"
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1226081431,
-    "wof:lastmodified":1537586959,
+    "wof:lastmodified":1566612538,
     "wof:name":"Muetzhagen",
     "wof:parent_id":102049935,
     "wof:placetype":"locality",

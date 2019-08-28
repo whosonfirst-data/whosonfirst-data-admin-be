@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Brussels",
     "iso:country":"BE",
+    "lbl:bbox":"4.20772,51.20235,4.24772,51.24235",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bre_x_preferred":[
         "Zillebeke"
     ],
@@ -79,7 +83,7 @@
         }
     ],
     "wof:id":1243393891,
-    "wof:lastmodified":1564163387,
+    "wof:lastmodified":1566612285,
     "wof:name":"Zillebeke",
     "wof:parent_id":1108830621,
     "wof:placetype":"locality",

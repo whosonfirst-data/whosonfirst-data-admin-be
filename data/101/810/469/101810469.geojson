@@ -13,10 +13,13 @@
     "iso:country":"BE",
     "lbl:latitude":50.725194,
     "lbl:longitude":5.51978,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":50.725194,
     "mps:longitude":5.51978,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bre_x_preferred":[
         "Juprelle"
     ],
@@ -127,7 +130,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":95,
     "wof:belongsto":[
@@ -142,7 +145,6 @@
         "fct:id":"036b31fe-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2794854,
         "gp:id":971787,
-        "qs:id":1147531,
         "qs_pg:id":1147531,
         "wd:id":"Q914102"
     },
@@ -162,7 +164,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1563235251,
+    "wof:lastmodified":1566611890,
     "wof:name":"Juprelle",
     "wof:parent_id":102049941,
     "wof:placetype":"locality",

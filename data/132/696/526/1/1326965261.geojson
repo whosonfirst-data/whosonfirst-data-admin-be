@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Brussels",
     "iso:country":"BE",
+    "lbl:bbox":"3.87822,51.16759,3.91822,51.20759",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85681733,
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1326965261,
-    "wof:lastmodified":1536856018,
+    "wof:lastmodified":1566610911,
     "wof:name":"Hoogstraat",
     "wof:parent_id":1108830059,
     "wof:placetype":"locality",

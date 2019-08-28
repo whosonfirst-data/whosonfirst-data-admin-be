@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Brussels",
     "iso:country":"BE",
+    "lbl:bbox":"3.76333,50.89667,3.80333,50.93667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Kalle"
     ],
@@ -67,7 +71,7 @@
         }
     ],
     "wof:id":1326958859,
-    "wof:lastmodified":1564161547,
+    "wof:lastmodified":1566610874,
     "wof:name":"Kalle",
     "wof:parent_id":1108830191,
     "wof:placetype":"locality",

@@ -13,10 +13,13 @@
     "iso:country":"BE",
     "lbl:latitude":50.800915,
     "lbl:longitude":3.116767,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":50.800915,
     "mps:longitude":3.116767,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:bel_x_preferred":[
         "\u041c\u0435\u043d\u0435\u043d"
     ],
@@ -143,9 +146,6 @@
     "name:swe_x_preferred":[
         "Menen"
     ],
-    "name:unk_x_variant":[
-        "Menin"
-    ],
     "name:vls_x_preferred":[
         "M\u00eaenn"
     ],
@@ -178,7 +178,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":479,
     "wof:belongsto":[
@@ -194,7 +194,6 @@
         "fct:id":"036b9c3e-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2791343,
         "gp:id":974197,
-        "qs:id":239962,
         "qs_pg:id":239962,
         "wd:id":"Q213224",
         "wk:page":"Menen"
@@ -216,7 +215,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1563235157,
+    "wof:lastmodified":1566611864,
     "wof:name":"Menen",
     "wof:parent_id":1108830067,
     "wof:placetype":"locality",

@@ -12,10 +12,13 @@
     "iso:country":"BE",
     "lbl:latitude":51.148624,
     "lbl:longitude":2.758704,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":51.148624,
     "mps:longitude":2.758704,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bre_x_preferred":[
         "Lombardsijde"
     ],
@@ -31,7 +34,7 @@
     "name:nld_x_preferred":[
         "Lombardsijde"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Lombartzyde"
     ],
     "name:vls_x_preferred":[
@@ -54,7 +57,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":81,
     "wof:belongsto":[
         85681709,
@@ -68,7 +71,6 @@
     "wof:concordances":{
         "gn:id":2792187,
         "gp:id":973678,
-        "qs:id":1072072,
         "qs_pg:id":1072072,
         "wd:id":"Q2599318",
         "wk:page":"Lombardsijde"
@@ -87,7 +89,7 @@
         }
     ],
     "wof:id":101755733,
-    "wof:lastmodified":1561831402,
+    "wof:lastmodified":1566611832,
     "wof:name":"Lombardsijde",
     "wof:parent_id":1108830695,
     "wof:placetype":"locality",

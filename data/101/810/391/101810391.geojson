@@ -13,10 +13,13 @@
     "iso:country":"BE",
     "lbl:latitude":50.438274,
     "lbl:longitude":5.124241,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":50.438274,
     "mps:longitude":5.124241,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bre_x_preferred":[
         "Ohey"
     ],
@@ -130,7 +133,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":85,
     "wof:belongsto":[
@@ -145,7 +148,6 @@
         "fct:id":"036bd4b0-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2789908,
         "gp:id":975059,
-        "qs:id":208614,
         "qs_pg:id":208614,
         "wd:id":"Q721090",
         "wk:page":"Ohey"
@@ -166,7 +168,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1563235212,
+    "wof:lastmodified":1566611878,
     "wof:name":"Ohey",
     "wof:parent_id":102049931,
     "wof:placetype":"locality",

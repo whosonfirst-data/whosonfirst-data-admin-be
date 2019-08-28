@@ -12,10 +12,13 @@
     "iso:country":"BE",
     "lbl:latitude":51.007625,
     "lbl:longitude":3.928624,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":51.007625,
     "mps:longitude":3.928624,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Schellebelle"
     ],
@@ -45,7 +48,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681733,
         102191581,
@@ -58,7 +61,6 @@
     "wof:concordances":{
         "gn:id":2787077,
         "gp:id":976739,
-        "qs:id":1075313,
         "qs_pg:id":1075313,
         "wd:id":"Q969681"
     },
@@ -76,7 +78,7 @@
         }
     ],
     "wof:id":101758539,
-    "wof:lastmodified":1561831421,
+    "wof:lastmodified":1566611909,
     "wof:name":"Schellebelle",
     "wof:parent_id":1108830489,
     "wof:placetype":"locality",

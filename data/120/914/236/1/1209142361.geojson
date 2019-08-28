@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Brussels",
     "iso:country":"BE",
+    "lbl:bbox":"2.77879,50.70787,2.81879,50.74787",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632997
@@ -37,7 +41,7 @@
         "gn:id":2799822
     },
     "wof:country":"BE",
-    "wof:geomhash":"7bad05e0bbcd2aa43ff1f78b775d0404",
+    "wof:geomhash":"8e56f0efaa4684e176310d34162aab89",
     "wof:hierarchy":[
         {
             "country_id":85632997,
@@ -45,7 +49,7 @@
         }
     ],
     "wof:id":1209142361,
-    "wof:lastmodified":1536296463,
+    "wof:lastmodified":1566611374,
     "wof:name":"De Broeken",
     "wof:parent_id":85632997,
     "wof:placetype":"locality",
@@ -55,9 +59,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    2.7987900000000003,
+    2.79879,
     50.72787,
-    2.7987900000000003,
+    2.79879,
     50.72787
 ],
   "geometry": {"coordinates":[2.79879,50.72787],"type":"Point"}

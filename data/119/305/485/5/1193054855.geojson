@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Brussels",
     "iso:country":"BE",
+    "lbl:bbox":"3.03,50.98,3.07,51.02",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Hagenbroek",
         "Hagebroek"
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1193054855,
-    "wof:lastmodified":1537587026,
+    "wof:lastmodified":1566611445,
     "wof:name":"Hagebroek",
     "wof:parent_id":1108830171,
     "wof:placetype":"locality",

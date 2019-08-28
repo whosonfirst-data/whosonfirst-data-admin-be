@@ -5,17 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000582,
-    "geom:area_square_m":4486372.868911,
+    "geom:area_square_m":4486372.868913,
     "geom:bbox":"4.4336466309,51.4131966258,4.49045252117,51.4463804044",
     "geom:latitude":51.425578,
     "geom:longitude":4.457462,
     "iso:country":"BE",
     "lbl:latitude":51.424603,
     "lbl:longitude":4.45922,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":51.424603,
     "mps:longitude":4.45922,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Belgi\u00eb#Belgique#Belgien",
     "qs:a1":"*Antwerpen",
     "qs:a1r":"0Vlaams Gewest",
@@ -33,7 +36,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681715,
         102191581,
@@ -46,7 +49,6 @@
     "wof:concordances":{
         "gn:id":2783644,
         "gp:id":978919,
-        "qs:id":1268419,
         "qs_pg:id":1268419
     },
     "wof:country":"BE",
@@ -63,7 +65,7 @@
         }
     ],
     "wof:id":101837595,
-    "wof:lastmodified":1497296656,
+    "wof:lastmodified":1566611956,
     "wof:name":"Wildert",
     "wof:parent_id":1108830513,
     "wof:placetype":"locality",

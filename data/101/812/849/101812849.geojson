@@ -13,10 +13,13 @@
     "iso:country":"BE",
     "lbl:latitude":49.851098,
     "lbl:longitude":5.664585,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":49.851098,
     "mps:longitude":5.664585,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bre_x_preferred":[
         "Fauvillers"
     ],
@@ -130,7 +133,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":88,
     "wof:belongsto":[
@@ -144,7 +147,6 @@
     "wof:concordances":{
         "gn:id":2798438,
         "gp:id":969552,
-        "qs:id":1286160,
         "qs_pg:id":1286160,
         "wd:id":"Q713282",
         "wk:page":"Fauvillers"
@@ -162,7 +164,7 @@
         }
     ],
     "wof:id":101812849,
-    "wof:lastmodified":1563235342,
+    "wof:lastmodified":1566611911,
     "wof:name":"Fauvillers",
     "wof:parent_id":102049915,
     "wof:placetype":"locality",

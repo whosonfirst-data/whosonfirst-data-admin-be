@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Brussels",
     "iso:country":"BE",
+    "lbl:bbox":"5.03245,50.36963,5.07245,50.40963",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bug_x_preferred":[
         "Pourrain"
     ],
@@ -131,7 +135,7 @@
         }
     ],
     "wof:id":1309747163,
-    "wof:lastmodified":1564163191,
+    "wof:lastmodified":1566612011,
     "wof:name":"Pourrain",
     "wof:parent_id":102049931,
     "wof:placetype":"locality",

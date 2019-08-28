@@ -5,18 +5,21 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000207,
-    "geom:area_square_m":1604337.090399,
+    "geom:area_square_m":1604337.0904,
     "geom:bbox":"5.23350147262,51.0817187657,5.27054654162,51.1015961391",
     "geom:latitude":51.089805,
     "geom:longitude":5.252472,
     "iso:country":"BE",
     "lbl:latitude":51.088645,
     "lbl:longitude":5.252379,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":51.088645,
     "mps:longitude":5.252379,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":12.0,
+    "name:und_x_variant":[
         "Corspel"
     ],
     "qs:a0":"Belgi\u00eb#Belgique#Belgien",
@@ -36,7 +39,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681705,
         102191581,
@@ -49,7 +52,6 @@
     "wof:concordances":{
         "gn:id":2794084,
         "gp:id":972268,
-        "qs:id":1157956,
         "qs_pg:id":1157956
     },
     "wof:country":"BE",
@@ -66,7 +68,7 @@
         }
     ],
     "wof:id":101838829,
-    "wof:lastmodified":1497299105,
+    "wof:lastmodified":1566611918,
     "wof:name":"Korspel",
     "wof:parent_id":1108830613,
     "wof:placetype":"locality",

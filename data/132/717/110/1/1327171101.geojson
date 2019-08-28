@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Brussels",
     "iso:country":"BE",
+    "lbl:bbox":"5.82272,50.64882,5.86272,50.68882",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Basse-Roisseleux",
         "Roiseleux",
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":1327171101,
-    "wof:lastmodified":1537586932,
+    "wof:lastmodified":1566610928,
     "wof:name":"Roisseleux",
     "wof:parent_id":102049935,
     "wof:placetype":"locality",

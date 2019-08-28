@@ -5,18 +5,21 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0004,
-    "geom:area_square_m":3103568.394896,
+    "geom:area_square_m":3103568.394897,
     "geom:bbox":"4.8769401647,51.1731752024,4.91743738354,51.1936535443",
     "geom:latitude":51.183454,
     "geom:longitude":4.897079,
     "iso:country":"BE",
     "lbl:latitude":51.181676,
     "lbl:longitude":4.897979,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":51.181676,
     "mps:longitude":4.897979,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":12.0,
+    "name:und_x_variant":[
         "Sint-Jozef-Oolen"
     ],
     "qs:a0":"Belgi\u00eb#Belgique#Belgien",
@@ -34,7 +37,7 @@
     "qs:type":"suburbs point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681715,
         102191581,
@@ -47,7 +50,7 @@
     "wof:concordances":{
         "gn:id":2786647,
         "gp:id":977219,
-        "qs:id":270525
+        "qs_pg:id":270525
     },
     "wof:country":"BE",
     "wof:geomhash":"a126939a4a4081f85f30128011d05c0c",
@@ -63,7 +66,7 @@
         }
     ],
     "wof:id":101755801,
-    "wof:lastmodified":1501264108,
+    "wof:lastmodified":1566611849,
     "wof:name":"Sint-Jozef-Olen",
     "wof:parent_id":1108830527,
     "wof:placetype":"locality",

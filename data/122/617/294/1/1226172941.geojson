@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Brussels",
     "iso:country":"BE",
+    "lbl:bbox":"5.75941,50.31068,5.79941,50.35068",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85681691,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1226172941,
-    "wof:lastmodified":1537036991,
+    "wof:lastmodified":1566612441,
     "wof:name":"Erria",
     "wof:parent_id":102049935,
     "wof:placetype":"locality",

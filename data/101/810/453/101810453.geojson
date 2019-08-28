@@ -13,10 +13,13 @@
     "iso:country":"BE",
     "lbl:latitude":50.697336,
     "lbl:longitude":5.406882,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":50.697336,
     "mps:longitude":5.406882,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bre_x_preferred":[
         "Crisn\u00e9e"
     ],
@@ -118,7 +121,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":95,
     "wof:belongsto":[
@@ -132,7 +135,6 @@
     "wof:concordances":{
         "gn:id":2799997,
         "gp:id":968544,
-        "qs:id":186794,
         "qs_pg:id":186794,
         "wd:id":"Q929415",
         "wk:page":"Crisn\u00e9e"
@@ -150,7 +152,7 @@
         }
     ],
     "wof:id":101810453,
-    "wof:lastmodified":1563235230,
+    "wof:lastmodified":1566611883,
     "wof:name":"Crisn\u00e9e",
     "wof:parent_id":102049937,
     "wof:placetype":"locality",

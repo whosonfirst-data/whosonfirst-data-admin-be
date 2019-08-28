@@ -9,14 +9,18 @@
     "geom:bbox":"5.26381,50.78355,5.26381,50.78355",
     "geom:latitude":50.78355,
     "geom:longitude":5.26381,
-    "gn:gn_country":"BE",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"BE",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"BE",
+    "lbl:bbox":"5.24381,50.76355,5.28381,50.80355",
     "lbl:latitude":50.78355,
     "lbl:longitude":5.26381,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Groot-Gelmen"
@@ -29,9 +33,6 @@
     ],
     "name:nld_x_preferred":[
         "Groot-Gelmen"
-    ],
-    "name:unk_x_variant":[
-        "Grande-Jamine"
     ],
     "qs_pg:aaroncc":"BE",
     "qs_pg:gn_country":"BE",
@@ -54,7 +55,7 @@
     "qs_pg:woe_adm0":23424757,
     "qs_pg:woe_id":970387,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424757,
     "woe:name_adm0":"Belgique",
     "woe:name_adm1":"Limburg",
@@ -89,7 +90,7 @@
         }
     ],
     "wof:id":1126043729,
-    "wof:lastmodified":1561831450,
+    "wof:lastmodified":1566612068,
     "wof:name":"Groot-Gelmen",
     "wof:parent_id":1108830223,
     "wof:placetype":"locality",

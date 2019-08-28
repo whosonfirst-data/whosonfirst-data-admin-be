@@ -13,6 +13,8 @@
     "iso:country":"BE",
     "lbl:latitude":50.465055,
     "lbl:longitude":4.859976,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mps:latitude":50.465055,
     "mps:longitude":4.859976,
     "mz:hierarchy_label":1,
@@ -264,9 +266,6 @@
     "name:ukr_x_preferred":[
         "\u041d\u0430\u043c\u044e\u0440"
     ],
-    "name:unk_x_variant":[
-        "Namen"
-    ],
     "name:urd_x_preferred":[
         "\u0646\u0627\u0645\u0648\u0631"
     ],
@@ -403,7 +402,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "wd:elevation":83.0,
     "wd:latitude":50.466667,
@@ -422,7 +421,6 @@
         "fct:id":"036b2ac4-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":2790471,
         "gp:id":971718,
-        "qs:id":237365,
         "qs_pg:id":237365,
         "wd:id":"Q134121",
         "wk:page":"Namur"
@@ -443,7 +441,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1563235265,
+    "wof:lastmodified":1566611893,
     "wof:name":"Namur",
     "wof:parent_id":102049931,
     "wof:placetype":"locality",

@@ -13,10 +13,13 @@
     "iso:country":"BE",
     "lbl:latitude":50.996968,
     "lbl:longitude":4.136115,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":50.996968,
     "mps:longitude":4.136115,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:afr_x_preferred":[
         "Lebbeke"
     ],
@@ -133,7 +136,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":153,
     "wof:belongsto":[
@@ -148,7 +151,6 @@
     "wof:concordances":{
         "gn:id":2793144,
         "gp:id":973177,
-        "qs:id":463924,
         "qs_pg:id":463924,
         "wd:id":"Q504653"
     },
@@ -166,7 +168,7 @@
         }
     ],
     "wof:id":101754357,
-    "wof:lastmodified":1563235154,
+    "wof:lastmodified":1566611863,
     "wof:name":"Lebbeke",
     "wof:parent_id":1108830479,
     "wof:placetype":"locality",

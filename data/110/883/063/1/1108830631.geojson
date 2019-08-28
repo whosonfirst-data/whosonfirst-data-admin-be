@@ -21,8 +21,11 @@
     "iso:country":"BE",
     "lbl:latitude":50.82279,
     "lbl:longitude":4.537147,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Tervuren"
     ],
@@ -122,7 +125,7 @@
     "reversegeo:latitude":50.82279,
     "reversegeo:longitude":4.537147,
     "src:geom":"begov",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681731,
         102191581,
@@ -146,7 +149,7 @@
         }
     ],
     "wof:id":1108830631,
-    "wof:lastmodified":1564162689,
+    "wof:lastmodified":1566611574,
     "wof:name":"Tervuren",
     "wof:parent_id":102049969,
     "wof:placetype":"localadmin",

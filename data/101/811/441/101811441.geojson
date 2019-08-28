@@ -13,10 +13,13 @@
     "iso:country":"BE",
     "lbl:latitude":50.668322,
     "lbl:longitude":3.619593,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":50.668322,
     "mps:longitude":3.619593,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":10.0,
     "name:bar_x_preferred":[
         "Frasnes-lez-Anvaing"
     ],
@@ -98,7 +101,7 @@
     "name:swe_x_preferred":[
         "Frasnes-lez-Anvaing"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Frasnes"
     ],
     "name:vie_x_preferred":[
@@ -130,7 +133,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":175,
     "wof:belongsto":[
@@ -144,10 +147,12 @@
     "wof:concordances":{
         "gn:id":2797979,
         "gp:id":20098259,
-        "qs:id":51529,
-        "qs_pg:id":92687,
+        "qs_pg:id":51529,
         "wd:id":"Q666813",
         "wk:page":"Frasnes-lez-Anvaing"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":92687
     },
     "wof:country":"BE",
     "wof:geomhash":"e7726fa00cc70f049ee63a9d364a5538",
@@ -162,7 +167,7 @@
         }
     ],
     "wof:id":101811441,
-    "wof:lastmodified":1563235180,
+    "wof:lastmodified":1566611871,
     "wof:name":"Frasnes-lez-Buissenal",
     "wof:parent_id":102049949,
     "wof:placetype":"locality",

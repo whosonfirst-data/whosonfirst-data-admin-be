@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Brussels",
     "iso:country":"BE",
+    "lbl:bbox":"5.45179,50.62059,5.49179,50.66059",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Hollogne-aux-Pierres"
     ],
@@ -63,7 +67,7 @@
         }
     ],
     "wof:id":1360118787,
-    "wof:lastmodified":1564163039,
+    "wof:lastmodified":1566611789,
     "wof:name":"Hollogne-aux-Pierres",
     "wof:parent_id":102049941,
     "wof:placetype":"locality",
