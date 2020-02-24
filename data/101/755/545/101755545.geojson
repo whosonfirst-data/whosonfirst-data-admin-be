@@ -159,6 +159,9 @@
         "wk:page":"Beersel"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"dd849347ad40dad3248fc88cfa71d9bc",
     "wof:hierarchy":[
         {
@@ -172,7 +175,7 @@
         }
     ],
     "wof:id":101755545,
-    "wof:lastmodified":1566611829,
+    "wof:lastmodified":1582345544,
     "wof:name":"Beersel",
     "wof:parent_id":1108830253,
     "wof:placetype":"locality",

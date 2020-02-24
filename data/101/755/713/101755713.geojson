@@ -68,6 +68,9 @@
         "wd:id":"Q2330369"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"0bed5d6a5cc5b8f6aa83f7be8c3c8f9f",
     "wof:hierarchy":[
         {
@@ -81,7 +84,7 @@
         }
     ],
     "wof:id":101755713,
-    "wof:lastmodified":1566611826,
+    "wof:lastmodified":1582345544,
     "wof:name":"Beervelde",
     "wof:parent_id":1108830047,
     "wof:placetype":"locality",

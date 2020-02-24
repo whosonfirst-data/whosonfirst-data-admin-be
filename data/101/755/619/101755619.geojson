@@ -74,6 +74,9 @@
         "wd:id":"Q950007"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"fb0429d4737b5c8cb604f55865700fc2",
     "wof:hierarchy":[
         {
@@ -87,7 +90,7 @@
         }
     ],
     "wof:id":101755619,
-    "wof:lastmodified":1566611815,
+    "wof:lastmodified":1582345542,
     "wof:name":"Ooigem",
     "wof:parent_id":1108830481,
     "wof:placetype":"locality",

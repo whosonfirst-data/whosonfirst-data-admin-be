@@ -152,6 +152,9 @@
         "wk:page":"Paliseul"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"fad8e0986005bb634baad882def70773",
     "wof:hierarchy":[
         {
@@ -164,7 +167,7 @@
         }
     ],
     "wof:id":101811507,
-    "wof:lastmodified":1566611873,
+    "wof:lastmodified":1582345552,
     "wof:name":"Paliseul",
     "wof:parent_id":102049913,
     "wof:placetype":"locality",

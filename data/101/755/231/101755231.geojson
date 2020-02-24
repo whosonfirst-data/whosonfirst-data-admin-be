@@ -145,6 +145,9 @@
         "wd:id":"Q497558"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"fc98ab434ddb2f097b2cb2f17e8d6676",
     "wof:hierarchy":[
         {
@@ -157,7 +160,7 @@
         }
     ],
     "wof:id":101755231,
-    "wof:lastmodified":1566611844,
+    "wof:lastmodified":1582345547,
     "wof:name":"Braine-le-Ch\u00e2teau",
     "wof:parent_id":102049945,
     "wof:placetype":"locality",

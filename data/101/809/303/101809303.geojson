@@ -90,6 +90,9 @@
         "wk:page":"Westrozebeke"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"959d1f046156ddcec284d9aee489f60f",
     "wof:hierarchy":[
         {
@@ -103,7 +106,7 @@
         }
     ],
     "wof:id":101809303,
-    "wof:lastmodified":1566611946,
+    "wof:lastmodified":1582345565,
     "wof:name":"Westrozebeke",
     "wof:parent_id":1108830315,
     "wof:placetype":"locality",

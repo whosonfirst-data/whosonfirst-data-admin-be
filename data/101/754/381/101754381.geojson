@@ -148,6 +148,9 @@
         "wk:page":"De Pinte"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"96d18ee9d4b517cff6152adc3b64e400",
     "wof:hierarchy":[
         {
@@ -164,7 +167,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1566611868,
+    "wof:lastmodified":1582345551,
     "wof:name":"De Pinte",
     "wof:parent_id":1108830643,
     "wof:placetype":"locality",

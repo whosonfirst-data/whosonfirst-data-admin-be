@@ -74,6 +74,9 @@
         "wd:id":"Q3475001"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"6cd101df208f48da32a1661f0293d1e3",
     "wof:hierarchy":[
         {
@@ -87,7 +90,7 @@
         }
     ],
     "wof:id":101838905,
-    "wof:lastmodified":1566611929,
+    "wof:lastmodified":1582345561,
     "wof:name":"Lotenhulle",
     "wof:parent_id":1108830383,
     "wof:placetype":"locality",

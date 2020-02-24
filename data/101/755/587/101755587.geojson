@@ -137,6 +137,9 @@
         "wd:id":"Q730801"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"007e5ae31bb92f16c15e71412af9f686",
     "wof:hierarchy":[
         {
@@ -150,7 +153,7 @@
         }
     ],
     "wof:id":101755587,
-    "wof:lastmodified":1566611830,
+    "wof:lastmodified":1582345544,
     "wof:name":"Wichelen",
     "wof:parent_id":1108830489,
     "wof:placetype":"locality",

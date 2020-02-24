@@ -153,6 +153,9 @@
         "wk:page":"Zemst"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"ece9a735f57e87225760100f76650e14",
     "wof:hierarchy":[
         {
@@ -166,7 +169,7 @@
         }
     ],
     "wof:id":101758533,
-    "wof:lastmodified":1566611908,
+    "wof:lastmodified":1582345558,
     "wof:name":"Zemst",
     "wof:parent_id":1108830589,
     "wof:placetype":"locality",

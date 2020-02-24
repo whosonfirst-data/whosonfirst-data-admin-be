@@ -68,6 +68,9 @@
         "wd:id":"Q2256639"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"1fae6bb02812c0166cba320fa2207944",
     "wof:hierarchy":[
         {
@@ -81,7 +84,7 @@
         }
     ],
     "wof:id":101755837,
-    "wof:lastmodified":1566611847,
+    "wof:lastmodified":1582345547,
     "wof:name":"Zoerle-Parwijs",
     "wof:parent_id":1108830077,
     "wof:placetype":"locality",

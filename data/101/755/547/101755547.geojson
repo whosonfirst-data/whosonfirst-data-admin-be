@@ -78,6 +78,9 @@
         "wk:page":"Lot, Belgium"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"7bcd56ef827c8ec66d7ca487f6211715",
     "wof:hierarchy":[
         {
@@ -91,7 +94,7 @@
         }
     ],
     "wof:id":101755547,
-    "wof:lastmodified":1566611852,
+    "wof:lastmodified":1582345548,
     "wof:name":"Lot",
     "wof:parent_id":1108830253,
     "wof:placetype":"locality",

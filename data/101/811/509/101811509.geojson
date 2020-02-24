@@ -197,6 +197,9 @@
         "wk:page":"Bastogne"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"ce2eef0b971c4ca4135aa419980fd233",
     "wof:hierarchy":[
         {
@@ -212,7 +215,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1566611873,
+    "wof:lastmodified":1582345552,
     "wof:name":"Bastogne",
     "wof:parent_id":102049915,
     "wof:placetype":"locality",

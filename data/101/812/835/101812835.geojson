@@ -152,6 +152,9 @@
         "wk:page":"Tintigny"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"4758b9991c142016c1fe64858b61ba9e",
     "wof:hierarchy":[
         {
@@ -164,7 +167,7 @@
         }
     ],
     "wof:id":101812835,
-    "wof:lastmodified":1566611911,
+    "wof:lastmodified":1582345558,
     "wof:name":"Tintigny",
     "wof:parent_id":102049907,
     "wof:placetype":"locality",

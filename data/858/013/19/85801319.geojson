@@ -252,6 +252,9 @@
         "wk:page":"Ixelles"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"a4e832312d30d0e46af9db3c64749d38",
     "wof:hierarchy":[
         {
@@ -268,7 +271,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1566611076,
+    "wof:lastmodified":1582345515,
     "wof:name":"Elsene",
     "wof:parent_id":101751573,
     "wof:placetype":"neighbourhood",

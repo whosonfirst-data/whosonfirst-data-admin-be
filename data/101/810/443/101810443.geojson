@@ -142,6 +142,9 @@
         "wd:id":"Q682982"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"fb3a0b4c9c5071365b41e9dd73c469d2",
     "wof:hierarchy":[
         {
@@ -154,7 +157,7 @@
         }
     ],
     "wof:id":101810443,
-    "wof:lastmodified":1566611888,
+    "wof:lastmodified":1582345555,
     "wof:name":"Geer",
     "wof:parent_id":102049937,
     "wof:placetype":"locality",

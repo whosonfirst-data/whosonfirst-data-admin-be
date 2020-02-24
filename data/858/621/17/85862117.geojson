@@ -72,6 +72,9 @@
         "qs_pg:id":215828
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"7bc380eab5fe16a562dd956e377ed201",
     "wof:hierarchy":[
         {
@@ -89,7 +92,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1566611075,
+    "wof:lastmodified":1582345514,
     "wof:name":"St-gillis",
     "wof:parent_id":101748097,
     "wof:placetype":"neighbourhood",

@@ -153,6 +153,9 @@
         "wk:page":"Aywaille"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"e49b5a79192d293c98e765d59dda0767",
     "wof:hierarchy":[
         {
@@ -168,7 +171,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1566611825,
+    "wof:lastmodified":1582345543,
     "wof:name":"Aywaille",
     "wof:parent_id":102049941,
     "wof:placetype":"locality",

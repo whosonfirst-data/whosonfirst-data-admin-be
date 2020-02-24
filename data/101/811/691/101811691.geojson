@@ -154,6 +154,9 @@
         "wd:id":"Q159961"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"2310f5af77dbaad574b03b1278f1b87a",
     "wof:hierarchy":[
         {
@@ -166,7 +169,7 @@
         }
     ],
     "wof:id":101811691,
-    "wof:lastmodified":1566611875,
+    "wof:lastmodified":1582345553,
     "wof:name":"Waimes",
     "wof:parent_id":102049935,
     "wof:placetype":"locality",

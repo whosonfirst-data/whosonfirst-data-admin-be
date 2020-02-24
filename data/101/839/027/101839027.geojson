@@ -77,6 +77,9 @@
         "wd:id":"Q3473981"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"0cb2b187eb13c4e02823723b80b7a655",
     "wof:hierarchy":[
         {
@@ -90,7 +93,7 @@
         }
     ],
     "wof:id":101839027,
-    "wof:lastmodified":1566611975,
+    "wof:lastmodified":1582345570,
     "wof:name":"Tielrode",
     "wof:parent_id":1108830387,
     "wof:placetype":"locality",

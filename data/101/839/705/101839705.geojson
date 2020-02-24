@@ -65,6 +65,9 @@
         "wd:id":"Q2657787"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"a19bc79566de734a10c9003a672771f4",
     "wof:hierarchy":[
         {
@@ -78,7 +81,7 @@
         }
     ],
     "wof:id":101839705,
-    "wof:lastmodified":1566611973,
+    "wof:lastmodified":1582345570,
     "wof:name":"Elversele",
     "wof:parent_id":1108830387,
     "wof:placetype":"locality",

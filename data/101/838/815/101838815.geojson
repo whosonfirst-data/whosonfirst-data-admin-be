@@ -68,6 +68,9 @@
         "wd:id":"Q1959265"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"20f6b9295803b8f40dbda6b238750d08",
     "wof:hierarchy":[
         {
@@ -81,7 +84,7 @@
         }
     ],
     "wof:id":101838815,
-    "wof:lastmodified":1566611930,
+    "wof:lastmodified":1582345562,
     "wof:name":"Heppen",
     "wof:parent_id":1108830467,
     "wof:placetype":"locality",

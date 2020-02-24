@@ -152,6 +152,9 @@
         "wd:id":"Q696907"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"d81e786d4a6deaa40efb8403cb24e02f",
     "wof:hierarchy":[
         {
@@ -165,7 +168,7 @@
         }
     ],
     "wof:id":101809293,
-    "wof:lastmodified":1566611944,
+    "wof:lastmodified":1582345564,
     "wof:name":"Hooglede",
     "wof:parent_id":1108830171,
     "wof:placetype":"locality",

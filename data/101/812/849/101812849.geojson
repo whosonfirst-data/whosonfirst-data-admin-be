@@ -152,6 +152,9 @@
         "wk:page":"Fauvillers"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"8a21704628072a1ebb8fe7a41f2d3838",
     "wof:hierarchy":[
         {
@@ -164,7 +167,7 @@
         }
     ],
     "wof:id":101812849,
-    "wof:lastmodified":1566611911,
+    "wof:lastmodified":1582345558,
     "wof:name":"Fauvillers",
     "wof:parent_id":102049915,
     "wof:placetype":"locality",

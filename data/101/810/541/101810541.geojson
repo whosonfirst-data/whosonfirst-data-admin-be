@@ -149,6 +149,9 @@
         "wd:id":"Q819162"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"c247133e1dcab792e858dbd91925667d",
     "wof:hierarchy":[
         {
@@ -162,7 +165,7 @@
         }
     ],
     "wof:id":101810541,
-    "wof:lastmodified":1566611892,
+    "wof:lastmodified":1582345556,
     "wof:name":"Heers",
     "wof:parent_id":1108830275,
     "wof:placetype":"locality",

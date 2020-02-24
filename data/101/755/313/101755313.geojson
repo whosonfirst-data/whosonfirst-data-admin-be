@@ -90,6 +90,9 @@
         "wk:page":"Vichte"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"83a83d3a1acb7c0ac9fc1ffc8eb773e7",
     "wof:hierarchy":[
         {
@@ -103,7 +106,7 @@
         }
     ],
     "wof:id":101755313,
-    "wof:lastmodified":1566611829,
+    "wof:lastmodified":1582345544,
     "wof:name":"Vichte",
     "wof:parent_id":1108830475,
     "wof:placetype":"locality",

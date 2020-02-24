@@ -94,6 +94,9 @@
         "wk:page":"Lissewege"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"40e048ddaba75da59ef2221a153bfe58",
     "wof:hierarchy":[
         {
@@ -107,7 +110,7 @@
         }
     ],
     "wof:id":101809435,
-    "wof:lastmodified":1566611952,
+    "wof:lastmodified":1582345566,
     "wof:name":"Lissewege",
     "wof:parent_id":1108830689,
     "wof:placetype":"locality",

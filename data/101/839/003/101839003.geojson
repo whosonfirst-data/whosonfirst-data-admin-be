@@ -69,6 +69,9 @@
         "wd:id":"Q2614931"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"8c92261d7500adf738a43433515b3849",
     "wof:hierarchy":[
         {
@@ -85,7 +88,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1566611977,
+    "wof:lastmodified":1582345570,
     "wof:name":"Nieuwkerken-Waas",
     "wof:parent_id":1108830559,
     "wof:placetype":"locality",

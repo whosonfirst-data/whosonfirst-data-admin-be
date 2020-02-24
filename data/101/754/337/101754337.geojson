@@ -149,6 +149,9 @@
         "wd:id":"Q913195"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"4a8e9d394422eb7485d3bb9f27a4af6d",
     "wof:hierarchy":[
         {
@@ -162,7 +165,7 @@
         }
     ],
     "wof:id":101754337,
-    "wof:lastmodified":1566611858,
+    "wof:lastmodified":1582345549,
     "wof:name":"Wemmel",
     "wof:parent_id":1108830553,
     "wof:placetype":"locality",

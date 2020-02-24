@@ -177,6 +177,10 @@
         "wk:page":"Drogenbos"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
     "wof:geomhash":"46ed8e1334d1d123ad1e830ecd750e3e",
     "wof:hierarchy":[
         {
@@ -194,7 +198,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1566611094,
+    "wof:lastmodified":1582345519,
     "wof:name":"Drogenbos",
     "wof:parent_id":101913243,
     "wof:placetype":"neighbourhood",

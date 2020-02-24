@@ -76,6 +76,9 @@
         "wk:page":"Kessel, Belgium"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"a3393460e2a00403d7e08488e102f0d0",
     "wof:hierarchy":[
         {
@@ -89,7 +92,7 @@
         }
     ],
     "wof:id":101754361,
-    "wof:lastmodified":1566611863,
+    "wof:lastmodified":1582345550,
     "wof:name":"Kessel",
     "wof:parent_id":1108830199,
     "wof:placetype":"locality",

@@ -77,6 +77,10 @@
         "qs_pg:id":481516
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
     "wof:geomhash":"7eb1fe6b8887a1eaef27da09f7fb9f55",
     "wof:hierarchy":[
         {
@@ -93,7 +97,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1566611097,
+    "wof:lastmodified":1582345519,
     "wof:name":"Wandre",
     "wof:parent_id":101748083,
     "wof:placetype":"neighbourhood",

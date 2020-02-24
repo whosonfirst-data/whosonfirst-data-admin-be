@@ -145,6 +145,9 @@
         "wd:id":"Q711292"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"b1602bbaa0860f8705047eb1accb2eb3",
     "wof:hierarchy":[
         {
@@ -157,7 +160,7 @@
         }
     ],
     "wof:id":101810371,
-    "wof:lastmodified":1566611885,
+    "wof:lastmodified":1582345555,
     "wof:name":"Verlaine",
     "wof:parent_id":102049925,
     "wof:placetype":"locality",

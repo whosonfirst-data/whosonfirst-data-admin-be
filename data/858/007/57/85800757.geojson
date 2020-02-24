@@ -275,6 +275,9 @@
         "wk:page":"Anderlecht"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"744f2129a0dc5467eb1f9953384b0a5e",
     "wof:hierarchy":[
         {
@@ -291,7 +294,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1566611080,
+    "wof:lastmodified":1582345515,
     "wof:name":"Anderlecht",
     "wof:parent_id":101751573,
     "wof:placetype":"neighbourhood",

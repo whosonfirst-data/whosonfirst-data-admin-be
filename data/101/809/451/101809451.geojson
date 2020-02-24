@@ -52,6 +52,9 @@
         "qs_pg:id":326429
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"2d68e4685c25778c33e2560c503f8dc8",
     "wof:hierarchy":[
         {
@@ -65,7 +68,7 @@
         }
     ],
     "wof:id":101809451,
-    "wof:lastmodified":1566611950,
+    "wof:lastmodified":1582345565,
     "wof:name":"Nieuwmoer",
     "wof:parent_id":1108830513,
     "wof:placetype":"locality",

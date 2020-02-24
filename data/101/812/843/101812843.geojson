@@ -160,6 +160,9 @@
         "wd:id":"Q650135"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"2ff9f6b50ad4bd821e464ab364942944",
     "wof:hierarchy":[
         {
@@ -175,7 +178,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1566611911,
+    "wof:lastmodified":1582345558,
     "wof:name":"Neufch\u00e2teau",
     "wof:parent_id":102049913,
     "wof:placetype":"locality",

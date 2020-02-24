@@ -68,6 +68,9 @@
         "wd:id":"Q2765357"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"200733744383ae53c79ead0cf067d24e",
     "wof:hierarchy":[
         {
@@ -81,7 +84,7 @@
         }
     ],
     "wof:id":101754411,
-    "wof:lastmodified":1566611865,
+    "wof:lastmodified":1582345551,
     "wof:name":"Oevel",
     "wof:parent_id":1108830077,
     "wof:placetype":"locality",

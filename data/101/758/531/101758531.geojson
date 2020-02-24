@@ -143,6 +143,9 @@
         "wd:id":"Q984888"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"0555cf6cf0fe8232dde64b8979c4c3c9",
     "wof:hierarchy":[
         {
@@ -156,7 +159,7 @@
         }
     ],
     "wof:id":101758531,
-    "wof:lastmodified":1566611909,
+    "wof:lastmodified":1582345558,
     "wof:name":"Steenokkerzeel",
     "wof:parent_id":1108830137,
     "wof:placetype":"locality",

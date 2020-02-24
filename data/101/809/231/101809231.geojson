@@ -71,6 +71,9 @@
         "wd:id":"Q2491546"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"34325764e40f93dbbad1598ba2082068",
     "wof:hierarchy":[
         {
@@ -84,7 +87,7 @@
         }
     ],
     "wof:id":101809231,
-    "wof:lastmodified":1566611950,
+    "wof:lastmodified":1582345565,
     "wof:name":"Otegem",
     "wof:parent_id":1108830095,
     "wof:placetype":"locality",

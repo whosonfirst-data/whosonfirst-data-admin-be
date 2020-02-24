@@ -65,6 +65,9 @@
         "wd:id":"Q2542974"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"9f3f826c99a64e5ad9e7575660074172",
     "wof:hierarchy":[
         {
@@ -78,7 +81,7 @@
         }
     ],
     "wof:id":101755839,
-    "wof:lastmodified":1566611849,
+    "wof:lastmodified":1582345548,
     "wof:name":"Westmeerbeek",
     "wof:parent_id":1108830503,
     "wof:placetype":"locality",

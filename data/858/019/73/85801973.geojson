@@ -71,6 +71,10 @@
         "qs_pg:id":1104261
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"ad8fb6e07095fa97d69e6aafb4293944",
     "wof:hierarchy":[
         {
@@ -88,7 +92,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1566611096,
+    "wof:lastmodified":1582345519,
     "wof:name":"Vurenveld",
     "wof:parent_id":101754329,
     "wof:placetype":"neighbourhood",

@@ -146,6 +146,9 @@
         "wd:id":"Q388879"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"b768efaceb463bc6cd5ebdf2868356f6",
     "wof:hierarchy":[
         {
@@ -161,7 +164,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1566611882,
+    "wof:lastmodified":1582345554,
     "wof:name":"Gesves",
     "wof:parent_id":102049931,
     "wof:placetype":"locality",

@@ -72,6 +72,9 @@
         "wk:page":"Vaalbeek"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"f353366df4142a98d35cddc5716cf5a2",
     "wof:hierarchy":[
         {
@@ -85,7 +88,7 @@
         }
     ],
     "wof:id":101755367,
-    "wof:lastmodified":1566611834,
+    "wof:lastmodified":1582345545,
     "wof:name":"Vaalbeek",
     "wof:parent_id":1108830043,
     "wof:placetype":"locality",

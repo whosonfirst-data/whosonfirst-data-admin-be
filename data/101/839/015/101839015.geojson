@@ -84,6 +84,9 @@
         "wk:page":"Bazel"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"50937b6b8f684cca45a8d127ce8d6d70",
     "wof:hierarchy":[
         {
@@ -97,7 +100,7 @@
         }
     ],
     "wof:id":101839015,
-    "wof:lastmodified":1566611967,
+    "wof:lastmodified":1582345569,
     "wof:name":"Bazel",
     "wof:parent_id":1108830395,
     "wof:placetype":"locality",

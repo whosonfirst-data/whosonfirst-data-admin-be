@@ -74,6 +74,10 @@
         "qs_pg:id":1103138
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"fb557ec5ba11da16549e0401f95f303a",
     "wof:hierarchy":[
         {
@@ -91,7 +95,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1566611093,
+    "wof:lastmodified":1582345519,
     "wof:name":"Drij Pikkel",
     "wof:parent_id":101755477,
     "wof:placetype":"neighbourhood",

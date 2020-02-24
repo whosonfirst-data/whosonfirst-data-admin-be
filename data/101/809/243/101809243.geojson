@@ -69,6 +69,9 @@
         "wd:id":"Q2896939"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"65f7261a524089d2ea5cc136e37b2908",
     "wof:hierarchy":[
         {
@@ -82,7 +85,7 @@
         }
     ],
     "wof:id":101809243,
-    "wof:lastmodified":1566611942,
+    "wof:lastmodified":1582345564,
     "wof:name":"Berchem",
     "wof:parent_id":1108830129,
     "wof:placetype":"locality",

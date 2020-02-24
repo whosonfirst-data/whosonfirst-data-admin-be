@@ -76,6 +76,9 @@
         "wd:id":"Q2341364"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"eabd74b4171357709e2df2b93cae1dac",
     "wof:hierarchy":[
         {
@@ -89,7 +92,7 @@
         }
     ],
     "wof:id":101809461,
-    "wof:lastmodified":1566611952,
+    "wof:lastmodified":1582345566,
     "wof:name":"Poppel",
     "wof:parent_id":1108830179,
     "wof:placetype":"locality",

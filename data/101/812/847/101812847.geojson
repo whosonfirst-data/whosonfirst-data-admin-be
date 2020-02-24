@@ -152,6 +152,9 @@
         "wk:page":"Herbeumont"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"8153d1c908bee42b1b6cdee09fba25c1",
     "wof:hierarchy":[
         {
@@ -164,7 +167,7 @@
         }
     ],
     "wof:id":101812847,
-    "wof:lastmodified":1566611912,
+    "wof:lastmodified":1582345558,
     "wof:name":"Herbeumont",
     "wof:parent_id":102049913,
     "wof:placetype":"locality",

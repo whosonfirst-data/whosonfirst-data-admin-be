@@ -159,6 +159,9 @@
         "wd:id":"Q497764"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"1931dd0c817c12a5d2f7c0757c781ef8",
     "wof:hierarchy":[
         {
@@ -171,7 +174,7 @@
         }
     ],
     "wof:id":101839739,
-    "wof:lastmodified":1566611965,
+    "wof:lastmodified":1582345568,
     "wof:name":"Rochefort",
     "wof:parent_id":102049919,
     "wof:placetype":"locality",

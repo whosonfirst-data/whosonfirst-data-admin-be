@@ -67,6 +67,9 @@
         "wd:id":"Q2666674"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"075f017b26d5706dd1fa0bfa61d58120",
     "wof:hierarchy":[
         {
@@ -79,7 +82,7 @@
         }
     ],
     "wof:id":101755005,
-    "wof:lastmodified":1566611848,
+    "wof:lastmodified":1582345547,
     "wof:name":"Godinne",
     "wof:parent_id":102049919,
     "wof:placetype":"locality",

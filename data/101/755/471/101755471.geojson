@@ -158,6 +158,9 @@
         "wd:id":"Q922260"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"b8418b7b2d33a78f99363db2ff8f1cb7",
     "wof:hierarchy":[
         {
@@ -171,7 +174,7 @@
         }
     ],
     "wof:id":101755471,
-    "wof:lastmodified":1566611813,
+    "wof:lastmodified":1582345542,
     "wof:name":"Meise",
     "wof:parent_id":1108830037,
     "wof:placetype":"locality",

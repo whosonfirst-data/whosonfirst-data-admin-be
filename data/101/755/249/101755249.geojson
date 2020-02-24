@@ -155,6 +155,9 @@
         "wk:page":"La Hulpe"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"e644ed212b0e0931d8f07e67966eb69b",
     "wof:hierarchy":[
         {
@@ -167,7 +170,7 @@
         }
     ],
     "wof:id":101755249,
-    "wof:lastmodified":1566611841,
+    "wof:lastmodified":1582345546,
     "wof:name":"La Hulpe",
     "wof:parent_id":102049945,
     "wof:placetype":"locality",

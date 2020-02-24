@@ -165,6 +165,9 @@
         "wk:page":"La Roche-en-Ardenne"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"6cba6b34e2004a0a9d7cf13af7fa4949",
     "wof:hierarchy":[
         {
@@ -180,7 +183,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1566611876,
+    "wof:lastmodified":1582345553,
     "wof:name":"La Roche-en-Ardenne",
     "wof:parent_id":102049921,
     "wof:placetype":"locality",

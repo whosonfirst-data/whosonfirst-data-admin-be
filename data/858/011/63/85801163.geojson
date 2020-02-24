@@ -197,6 +197,9 @@
         "wk:page":"Ganshoren"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"d2dc692c7e3797653200b5b2654d9c4d",
     "wof:hierarchy":[
         {
@@ -213,7 +216,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1566611089,
+    "wof:lastmodified":1582345518,
     "wof:name":"Ganshoren",
     "wof:parent_id":101751573,
     "wof:placetype":"neighbourhood",

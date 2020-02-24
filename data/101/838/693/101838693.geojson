@@ -156,6 +156,9 @@
         "wk:page":"Kortessem"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"ea5f52432a234c284d0e878ea90b0589",
     "wof:hierarchy":[
         {
@@ -169,7 +172,7 @@
         }
     ],
     "wof:id":101838693,
-    "wof:lastmodified":1566611921,
+    "wof:lastmodified":1582345560,
     "wof:name":"Kortessem",
     "wof:parent_id":1108830391,
     "wof:placetype":"locality",

@@ -152,6 +152,9 @@
         "wd:id":"Q641905"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"7a173283879d00e5a186d683dffcbfa1",
     "wof:hierarchy":[
         {
@@ -165,7 +168,7 @@
         }
     ],
     "wof:id":101809471,
-    "wof:lastmodified":1566611940,
+    "wof:lastmodified":1582345564,
     "wof:name":"Arendonk",
     "wof:parent_id":1108830607,
     "wof:placetype":"locality",

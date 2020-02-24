@@ -173,6 +173,9 @@
         "wk:page":"Stavelot"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"944d0b197cb95c1b82ac70ccf70698c0",
     "wof:hierarchy":[
         {
@@ -185,7 +188,7 @@
         }
     ],
     "wof:id":101811697,
-    "wof:lastmodified":1566611875,
+    "wof:lastmodified":1582345553,
     "wof:name":"Stavelot",
     "wof:parent_id":102049935,
     "wof:placetype":"locality",

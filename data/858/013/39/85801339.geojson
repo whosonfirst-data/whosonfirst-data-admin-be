@@ -131,6 +131,10 @@
         "wk:page":"Jupille-sur-Meuse"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"8bdd7526e6b4230983dc4faefa1a81c7",
     "wof:hierarchy":[
         {
@@ -147,7 +151,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1566611076,
+    "wof:lastmodified":1582345515,
     "wof:name":"Jupille",
     "wof:parent_id":101748083,
     "wof:placetype":"neighbourhood",

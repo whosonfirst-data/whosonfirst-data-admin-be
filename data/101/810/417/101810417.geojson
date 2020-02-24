@@ -191,6 +191,9 @@
         "wk:page":"Malmedy"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"63f43be4fc968cdc0f5a8ccdc7a89116",
     "wof:hierarchy":[
         {
@@ -203,7 +206,7 @@
         }
     ],
     "wof:id":101810417,
-    "wof:lastmodified":1566611888,
+    "wof:lastmodified":1582345555,
     "wof:name":"Malm\u00e9dy",
     "wof:parent_id":102049935,
     "wof:placetype":"locality",

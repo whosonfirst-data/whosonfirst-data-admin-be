@@ -147,6 +147,9 @@
         "wk:page":"Nijlen"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"f1e06cf5ca9ed8f346dad5578705ea24",
     "wof:hierarchy":[
         {
@@ -160,7 +163,7 @@
         }
     ],
     "wof:id":101838871,
-    "wof:lastmodified":1566611931,
+    "wof:lastmodified":1582345562,
     "wof:name":"Nijlen",
     "wof:parent_id":1108830199,
     "wof:placetype":"locality",

@@ -157,6 +157,9 @@
         "wk:page":"Zwevegem"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"79c39ea5673d1ddd0ccc4b6bc3c735af",
     "wof:hierarchy":[
         {
@@ -173,7 +176,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1566611863,
+    "wof:lastmodified":1582345550,
     "wof:name":"Zwevegem",
     "wof:parent_id":1108830095,
     "wof:placetype":"locality",

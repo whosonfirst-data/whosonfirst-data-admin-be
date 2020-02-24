@@ -218,6 +218,9 @@
         "wk:page":"Spa, Belgium"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"b9782135a36f4e8d89f74acdfc650fff",
     "wof:hierarchy":[
         {
@@ -230,7 +233,7 @@
         }
     ],
     "wof:id":101810415,
-    "wof:lastmodified":1566611882,
+    "wof:lastmodified":1582345554,
     "wof:name":"Spa",
     "wof:parent_id":102049935,
     "wof:placetype":"locality",

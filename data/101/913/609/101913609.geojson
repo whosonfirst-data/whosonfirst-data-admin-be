@@ -70,6 +70,9 @@
         "wd:id":"Q2368007"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"d20ab06e27a29a09cdfbbe4a91a97fc1",
     "wof:hierarchy":[
         {
@@ -86,7 +89,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1561831421,
+    "wof:lastmodified":1582345558,
     "wof:name":"Vreren",
     "wof:parent_id":1108830031,
     "wof:placetype":"locality",

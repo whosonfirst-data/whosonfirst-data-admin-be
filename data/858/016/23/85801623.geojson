@@ -131,6 +131,10 @@
         "wk:page":"Merksem"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"2ea4c2444ec8c45eb0c8b9a83c36e014",
     "wof:hierarchy":[
         {
@@ -148,7 +152,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1566611092,
+    "wof:lastmodified":1582345518,
     "wof:name":"Merxem",
     "wof:parent_id":101748099,
     "wof:placetype":"neighbourhood",

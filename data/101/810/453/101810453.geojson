@@ -140,6 +140,9 @@
         "wk:page":"Crisn\u00e9e"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"2b4dee7b10b83f47ca0541070b192108",
     "wof:hierarchy":[
         {
@@ -152,7 +155,7 @@
         }
     ],
     "wof:id":101810453,
-    "wof:lastmodified":1566611883,
+    "wof:lastmodified":1582345554,
     "wof:name":"Crisn\u00e9e",
     "wof:parent_id":102049937,
     "wof:placetype":"locality",

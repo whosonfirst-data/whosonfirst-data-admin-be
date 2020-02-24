@@ -87,6 +87,9 @@
         "wk:page":"Oedelem"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"a4979a65477403f149aecabf80a8ae9d",
     "wof:hierarchy":[
         {
@@ -100,7 +103,7 @@
         }
     ],
     "wof:id":101809443,
-    "wof:lastmodified":1566611948,
+    "wof:lastmodified":1582345565,
     "wof:name":"Oedelem",
     "wof:parent_id":1108830289,
     "wof:placetype":"locality",

@@ -148,6 +148,9 @@
         "wk:page":"Stekene"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"398cfec2dc7ab0724bf96dcfc102d953",
     "wof:hierarchy":[
         {
@@ -164,7 +167,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1566611916,
+    "wof:lastmodified":1582345559,
     "wof:name":"Stekene",
     "wof:parent_id":1108830283,
     "wof:placetype":"locality",

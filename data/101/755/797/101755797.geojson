@@ -78,6 +78,9 @@
         "wd:id":"Q3423037"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"bd763b7a591aefc1c5ccb012430e71f7",
     "wof:hierarchy":[
         {
@@ -94,7 +97,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1566611805,
+    "wof:lastmodified":1582345541,
     "wof:name":"Reet",
     "wof:parent_id":1108830173,
     "wof:placetype":"locality",

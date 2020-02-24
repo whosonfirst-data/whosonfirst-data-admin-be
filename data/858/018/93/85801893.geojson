@@ -77,6 +77,9 @@
         "qs_pg:id":268890
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"13d1e9dc548e1201ac017fa1f53c9d19",
     "wof:hierarchy":[
         {
@@ -94,7 +97,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1566611085,
+    "wof:lastmodified":1582345517,
     "wof:name":"St. Pierre-sur-la-Digue",
     "wof:parent_id":101748097,
     "wof:placetype":"neighbourhood",

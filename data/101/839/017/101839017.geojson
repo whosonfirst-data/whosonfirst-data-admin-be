@@ -82,6 +82,9 @@
         "wk:page":"Belsele"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"0741c0bcf7c52fbf0509daff8943c965",
     "wof:hierarchy":[
         {
@@ -95,7 +98,7 @@
         }
     ],
     "wof:id":101839017,
-    "wof:lastmodified":1566611976,
+    "wof:lastmodified":1582345570,
     "wof:name":"Belsele",
     "wof:parent_id":1108830559,
     "wof:placetype":"locality",

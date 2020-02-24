@@ -84,6 +84,9 @@
         "wk:page":"Beerzel"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"c91765c8231c7ee2fab740310e8ca45b",
     "wof:hierarchy":[
         {
@@ -97,7 +100,7 @@
         }
     ],
     "wof:id":101755671,
-    "wof:lastmodified":1566611839,
+    "wof:lastmodified":1582345546,
     "wof:name":"Beerzel",
     "wof:parent_id":1108830381,
     "wof:placetype":"locality",

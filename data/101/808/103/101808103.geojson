@@ -134,6 +134,9 @@
         "wk:page":"Berloz"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"834c30572b151db72306900cdab66382",
     "wof:hierarchy":[
         {
@@ -146,7 +149,7 @@
         }
     ],
     "wof:id":101808103,
-    "wof:lastmodified":1561831433,
+    "wof:lastmodified":1582345568,
     "wof:name":"Berloz",
     "wof:parent_id":102049937,
     "wof:placetype":"locality",

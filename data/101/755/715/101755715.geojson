@@ -151,6 +151,9 @@
         "wk:page":"Destelbergen"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"d114bb816dbd1dca3344b32785bddb32",
     "wof:hierarchy":[
         {
@@ -167,7 +170,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1566611828,
+    "wof:lastmodified":1582345544,
     "wof:name":"Destelbergen",
     "wof:parent_id":1108830493,
     "wof:placetype":"locality",

@@ -138,6 +138,9 @@
         "wd:id":"Q397705"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"eb772a2d25ce6294d478e7a8b8660065",
     "wof:hierarchy":[
         {
@@ -151,7 +154,7 @@
         }
     ],
     "wof:id":101838733,
-    "wof:lastmodified":1566611927,
+    "wof:lastmodified":1582345561,
     "wof:name":"Moerbeke",
     "wof:parent_id":1108830521,
     "wof:placetype":"locality",

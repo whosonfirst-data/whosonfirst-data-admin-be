@@ -63,6 +63,9 @@
         "qs_pg:id":1162381
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"c52fb3e8e954baae94d873b38db0ed61",
     "wof:hierarchy":[
         {
@@ -75,7 +78,7 @@
         }
     ],
     "wof:id":101755091,
-    "wof:lastmodified":1566611820,
+    "wof:lastmodified":1582345543,
     "wof:name":"Velaine",
     "wof:parent_id":102049931,
     "wof:placetype":"locality",

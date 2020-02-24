@@ -151,6 +151,9 @@
         "wd:id":"Q545889"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"318845cbac94bee56758e74c93a7e199",
     "wof:hierarchy":[
         {
@@ -163,7 +166,7 @@
         }
     ],
     "wof:id":101755009,
-    "wof:lastmodified":1566611822,
+    "wof:lastmodified":1582345543,
     "wof:name":"Anh\u00e9e",
     "wof:parent_id":102049919,
     "wof:placetype":"locality",

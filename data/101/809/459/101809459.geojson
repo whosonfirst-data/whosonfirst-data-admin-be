@@ -67,6 +67,9 @@
         "wd:id":"Q2784719"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"3160bab6dca4b52bf9488b1a90f243fc",
     "wof:hierarchy":[
         {
@@ -80,7 +83,7 @@
         }
     ],
     "wof:id":101809459,
-    "wof:lastmodified":1566611952,
+    "wof:lastmodified":1582345566,
     "wof:name":"Meerle",
     "wof:parent_id":1108830373,
     "wof:placetype":"locality",

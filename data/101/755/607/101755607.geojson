@@ -146,6 +146,9 @@
         "wd:id":"Q793584"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"c4ebae666547a42ecda753dda7dd8673",
     "wof:hierarchy":[
         {
@@ -159,7 +162,7 @@
         }
     ],
     "wof:id":101755607,
-    "wof:lastmodified":1566611849,
+    "wof:lastmodified":1582345548,
     "wof:name":"Berlare",
     "wof:parent_id":1108830571,
     "wof:placetype":"locality",

@@ -147,6 +147,9 @@
         "wd:id":"Q911974"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"3d660ebcee96c01d6c243fd481b96185",
     "wof:hierarchy":[
         {
@@ -163,7 +166,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1566611829,
+    "wof:lastmodified":1582345544,
     "wof:name":"Haaltert",
     "wof:parent_id":1108830593,
     "wof:placetype":"locality",

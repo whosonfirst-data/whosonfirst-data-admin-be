@@ -158,6 +158,9 @@
         "wk:page":"Middelkerke"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"b6853fa0c211568afafba72fead65fdc",
     "wof:hierarchy":[
         {
@@ -174,7 +177,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1566611856,
+    "wof:lastmodified":1582345549,
     "wof:name":"Middelkerke",
     "wof:parent_id":1108830695,
     "wof:placetype":"locality",

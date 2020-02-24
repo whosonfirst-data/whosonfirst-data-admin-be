@@ -176,6 +176,9 @@
         "wd:id":"Q667790"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"add083c7e74a39152dd2a44a9aeb2395",
     "wof:hierarchy":[
         {
@@ -191,7 +194,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1566611930,
+    "wof:lastmodified":1582345562,
     "wof:name":"Lessines",
     "wof:parent_id":102049943,
     "wof:placetype":"locality",

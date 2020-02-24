@@ -75,6 +75,9 @@
         "wk:page":"Dworp"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"1f60b1cc6030b1198b71bb5f84360cef",
     "wof:hierarchy":[
         {
@@ -88,7 +91,7 @@
         }
     ],
     "wof:id":101755535,
-    "wof:lastmodified":1566611812,
+    "wof:lastmodified":1582345541,
     "wof:name":"Dworp",
     "wof:parent_id":1108830437,
     "wof:placetype":"locality",

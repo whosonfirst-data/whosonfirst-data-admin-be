@@ -78,6 +78,10 @@
         "qs_pg:id":187049
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"4653b9dd2c945ce34ccd474eb5c0a68d",
     "wof:hierarchy":[
         {
@@ -94,7 +98,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1566611087,
+    "wof:lastmodified":1582345517,
     "wof:name":"St. Gilles",
     "wof:parent_id":101748083,
     "wof:placetype":"neighbourhood",

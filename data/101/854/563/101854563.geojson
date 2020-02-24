@@ -82,6 +82,10 @@
         "wk:page":"Abele"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
     "wof:geomhash":"9e461ea4fb1ef63c12464357fb5e6296",
     "wof:hierarchy":[
         {
@@ -106,7 +110,7 @@
         }
     ],
     "wof:id":101854563,
-    "wof:lastmodified":1566611954,
+    "wof:lastmodified":1582345566,
     "wof:name":"Abele",
     "wof:parent_id":-4,
     "wof:placetype":"locality",

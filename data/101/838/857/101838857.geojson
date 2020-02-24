@@ -68,6 +68,9 @@
         "wd:id":"Q2851888"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"1cd350212fb38e8db1ed4ccb4c859c22",
     "wof:hierarchy":[
         {
@@ -81,7 +84,7 @@
         }
     ],
     "wof:id":101838857,
-    "wof:lastmodified":1566611920,
+    "wof:lastmodified":1582345560,
     "wof:name":"Linkhout",
     "wof:parent_id":1108830255,
     "wof:placetype":"locality",

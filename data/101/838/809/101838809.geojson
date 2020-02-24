@@ -155,6 +155,9 @@
         "wd:id":"Q651826"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"3441b7ff64552cf65d9e0e603e511d2d",
     "wof:hierarchy":[
         {
@@ -168,7 +171,7 @@
         }
     ],
     "wof:id":101838809,
-    "wof:lastmodified":1566611932,
+    "wof:lastmodified":1582345562,
     "wof:name":"Diepenbeek",
     "wof:parent_id":1108830257,
     "wof:placetype":"locality",

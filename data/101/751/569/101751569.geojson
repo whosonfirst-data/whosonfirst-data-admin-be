@@ -237,6 +237,9 @@
         "wk:page":"La Louvi\u00e8re"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"9b4d6dd5b68a353c2aa815fb507fff25",
     "wof:hierarchy":[
         {
@@ -252,7 +255,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1566611910,
+    "wof:lastmodified":1582345558,
     "wof:name":"La Louvi\u00e8re",
     "wof:parent_id":102049943,
     "wof:placetype":"locality",

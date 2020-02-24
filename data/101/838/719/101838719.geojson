@@ -74,6 +74,9 @@
         "wd:id":"Q2099089"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"301314fb1692cc40c3361bf153e7b476",
     "wof:hierarchy":[
         {
@@ -87,7 +90,7 @@
         }
     ],
     "wof:id":101838719,
-    "wof:lastmodified":1566611935,
+    "wof:lastmodified":1582345563,
     "wof:name":"Munkzwalm",
     "wof:parent_id":1108830583,
     "wof:placetype":"locality",

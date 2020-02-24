@@ -82,6 +82,9 @@
         "wd:id":"Q2626026"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"1f2fde7da5c215ea6cc53f5139c28893",
     "wof:hierarchy":[
         {
@@ -95,7 +98,7 @@
         }
     ],
     "wof:id":101838739,
-    "wof:lastmodified":1566611914,
+    "wof:lastmodified":1582345559,
     "wof:name":"Bost",
     "wof:parent_id":1108830017,
     "wof:placetype":"locality",

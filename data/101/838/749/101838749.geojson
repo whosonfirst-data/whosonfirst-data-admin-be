@@ -69,6 +69,9 @@
         "wd:id":"Q2154360"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"9b17a0bba0452ca6cc6fbe9aca91f3ea",
     "wof:hierarchy":[
         {
@@ -82,7 +85,7 @@
         }
     ],
     "wof:id":101838749,
-    "wof:lastmodified":1566611924,
+    "wof:lastmodified":1582345561,
     "wof:name":"Roosbeek",
     "wof:parent_id":1108830471,
     "wof:placetype":"locality",

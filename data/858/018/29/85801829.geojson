@@ -74,6 +74,9 @@
         "qs_pg:id":187030
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"f993ade9bd91f8a04b36a7f183de4a89",
     "wof:hierarchy":[
         {
@@ -90,7 +93,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1566611086,
+    "wof:lastmodified":1582345517,
     "wof:name":"Roodebeek",
     "wof:parent_id":101751573,
     "wof:placetype":"neighbourhood",

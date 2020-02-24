@@ -66,6 +66,9 @@
         "wd:id":"Q2049606"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"f25ca4e725a4985da82d4ab001680df9",
     "wof:hierarchy":[
         {
@@ -79,7 +82,7 @@
         }
     ],
     "wof:id":101755375,
-    "wof:lastmodified":1566611855,
+    "wof:lastmodified":1582345549,
     "wof:name":"Linden",
     "wof:parent_id":1108830497,
     "wof:placetype":"locality",

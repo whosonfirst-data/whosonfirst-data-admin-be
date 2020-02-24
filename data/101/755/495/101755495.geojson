@@ -85,6 +85,9 @@
         "wd:id":"Q2802143"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"4cbcbe6b9f398c753812f6426f353144",
     "wof:hierarchy":[
         {
@@ -98,7 +101,7 @@
         }
     ],
     "wof:id":101755495,
-    "wof:lastmodified":1566611848,
+    "wof:lastmodified":1582345547,
     "wof:name":"Ledeberg",
     "wof:parent_id":1108830261,
     "wof:placetype":"locality",

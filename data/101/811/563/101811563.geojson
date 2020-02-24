@@ -158,6 +158,9 @@
         "wk:page":"Florennes"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"ba4d5df7adb84256fa05ab58902b5e41",
     "wof:hierarchy":[
         {
@@ -170,7 +173,7 @@
         }
     ],
     "wof:id":101811563,
-    "wof:lastmodified":1566611873,
+    "wof:lastmodified":1582345552,
     "wof:name":"Florennes",
     "wof:parent_id":102049917,
     "wof:placetype":"locality",

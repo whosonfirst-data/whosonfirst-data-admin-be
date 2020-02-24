@@ -71,6 +71,9 @@
         "wd:id":"Q2181673"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"84c1328be36ee3ceba6fde28394c5a3e",
     "wof:hierarchy":[
         {
@@ -84,7 +87,7 @@
         }
     ],
     "wof:id":101809325,
-    "wof:lastmodified":1566611946,
+    "wof:lastmodified":1582345565,
     "wof:name":"Koolskamp",
     "wof:parent_id":1108830041,
     "wof:placetype":"locality",

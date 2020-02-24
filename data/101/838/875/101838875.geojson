@@ -97,6 +97,9 @@
         "wk:page":"Handzame"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"c173cd5ba6061b9eb5af90a46a951d99",
     "wof:hierarchy":[
         {
@@ -110,7 +113,7 @@
         }
     ],
     "wof:id":101838875,
-    "wof:lastmodified":1566611920,
+    "wof:lastmodified":1582345560,
     "wof:name":"Handzame",
     "wof:parent_id":1108830511,
     "wof:placetype":"locality",

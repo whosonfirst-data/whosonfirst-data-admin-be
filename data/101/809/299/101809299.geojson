@@ -151,6 +151,9 @@
         "wk:page":"Staden"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"e630de090b11c5c114d5cfc44049cbaf",
     "wof:hierarchy":[
         {
@@ -164,7 +167,7 @@
         }
     ],
     "wof:id":101809299,
-    "wof:lastmodified":1566611953,
+    "wof:lastmodified":1582345566,
     "wof:name":"Staden",
     "wof:parent_id":1108830315,
     "wof:placetype":"locality",

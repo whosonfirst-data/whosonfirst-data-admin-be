@@ -67,6 +67,9 @@
         "wk:page":"Onze-Lieve-Vrouw-Waver"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"447d2aadaa4be9ce77f28985181c528d",
     "wof:hierarchy":[
         {
@@ -80,7 +83,7 @@
         }
     ],
     "wof:id":101755667,
-    "wof:lastmodified":1566611822,
+    "wof:lastmodified":1582345543,
     "wof:name":"Onze-Lieve-Vrouw-Waver",
     "wof:parent_id":1108830007,
     "wof:placetype":"locality",

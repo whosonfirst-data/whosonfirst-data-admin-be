@@ -136,6 +136,9 @@
         "wd:id":"Q725235"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"ffe7e94a7fe9bfdd08d9d41fed7764b0",
     "wof:hierarchy":[
         {
@@ -149,7 +152,7 @@
         }
     ],
     "wof:id":101839121,
-    "wof:lastmodified":1566611972,
+    "wof:lastmodified":1582345569,
     "wof:name":"Lille",
     "wof:parent_id":1108830113,
     "wof:placetype":"locality",

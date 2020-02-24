@@ -71,6 +71,9 @@
         "wk:page":"P\u00e9ronnes-lez-Binche"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"605c21f288d77edd11aabb122723deec",
     "wof:hierarchy":[
         {
@@ -83,7 +86,7 @@
         }
     ],
     "wof:id":101755015,
-    "wof:lastmodified":1566611813,
+    "wof:lastmodified":1582345542,
     "wof:name":"P\u00e9ronnes",
     "wof:parent_id":102049923,
     "wof:placetype":"locality",

@@ -161,6 +161,9 @@
         "wd:id":"Q641278"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"5c35c3617fec491eafcf049f6314f228",
     "wof:hierarchy":[
         {
@@ -174,7 +177,7 @@
         }
     ],
     "wof:id":101755543,
-    "wof:lastmodified":1566611827,
+    "wof:lastmodified":1582345544,
     "wof:name":"Hoeilaart",
     "wof:parent_id":1108830459,
     "wof:placetype":"locality",

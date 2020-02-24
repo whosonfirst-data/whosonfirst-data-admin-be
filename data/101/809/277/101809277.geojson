@@ -77,6 +77,9 @@
         "wd:id":"Q2079669"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"4c9f1d96a1e0ea6507993c72d5585748",
     "wof:hierarchy":[
         {
@@ -90,7 +93,7 @@
         }
     ],
     "wof:id":101809277,
-    "wof:lastmodified":1566611948,
+    "wof:lastmodified":1582345565,
     "wof:name":"Beselare",
     "wof:parent_id":1108830101,
     "wof:placetype":"locality",

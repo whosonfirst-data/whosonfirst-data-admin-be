@@ -66,6 +66,9 @@
         "wd:id":"Q2407995"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"c240311d17dca87cd67929c0a3cb2d06",
     "wof:hierarchy":[
         {
@@ -79,7 +82,7 @@
         }
     ],
     "wof:id":101838973,
-    "wof:lastmodified":1566611935,
+    "wof:lastmodified":1582345563,
     "wof:name":"Adegem",
     "wof:parent_id":1108830541,
     "wof:placetype":"locality",

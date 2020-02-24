@@ -155,6 +155,9 @@
         "wd:id":"Q504653"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"5fb4f630eba7ea970466a087ef5e5a8a",
     "wof:hierarchy":[
         {
@@ -168,7 +171,7 @@
         }
     ],
     "wof:id":101754357,
-    "wof:lastmodified":1566611863,
+    "wof:lastmodified":1582345550,
     "wof:name":"Lebbeke",
     "wof:parent_id":1108830479,
     "wof:placetype":"locality",

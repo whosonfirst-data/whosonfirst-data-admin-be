@@ -68,6 +68,9 @@
         "wd:id":"Q2392360"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"f0846b2823ccbe3476c5cce78457cbe6",
     "wof:hierarchy":[
         {
@@ -81,7 +84,7 @@
         }
     ],
     "wof:id":101838885,
-    "wof:lastmodified":1566611931,
+    "wof:lastmodified":1582345562,
     "wof:name":"Scheldewindeke",
     "wof:parent_id":1108830191,
     "wof:placetype":"locality",

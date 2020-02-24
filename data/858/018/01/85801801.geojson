@@ -73,6 +73,9 @@
         "qs_pg:id":1103930
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"6982ff9ba24f3d5354ff3c1f5d208016",
     "wof:hierarchy":[
         {
@@ -89,7 +92,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1566611087,
+    "wof:lastmodified":1582345517,
     "wof:name":"Port Haven",
     "wof:parent_id":101751573,
     "wof:placetype":"neighbourhood",

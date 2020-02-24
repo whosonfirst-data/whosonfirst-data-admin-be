@@ -94,6 +94,10 @@
         "qs_pg:id":1103948
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
     "wof:geomhash":"34500720194ae723dd363d12c07f8bfb",
     "wof:hierarchy":[
         {
@@ -111,7 +115,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1566611086,
+    "wof:lastmodified":1582345517,
     "wof:name":"Ravenstein",
     "wof:parent_id":101754329,
     "wof:placetype":"neighbourhood",

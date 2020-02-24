@@ -73,6 +73,10 @@
         "qs_pg:id":895782
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"cead11a4fba71ec71d6b279eb8f38e8e",
     "wof:hierarchy":[
         {
@@ -90,7 +94,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1566611078,
+    "wof:lastmodified":1582345515,
     "wof:name":"Klein Rusland",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

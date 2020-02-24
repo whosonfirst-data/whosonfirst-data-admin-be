@@ -161,6 +161,9 @@
         "wk:page":"Tessenderlo"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"27b3e369cef1c98bd13fc87d31cfb59d",
     "wof:hierarchy":[
         {
@@ -174,7 +177,7 @@
         }
     ],
     "wof:id":101838741,
-    "wof:lastmodified":1566611926,
+    "wof:lastmodified":1582345561,
     "wof:name":"Tessenderlo",
     "wof:parent_id":1108830641,
     "wof:placetype":"locality",

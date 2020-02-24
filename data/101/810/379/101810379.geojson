@@ -154,6 +154,9 @@
         "wd:id":"Q681854"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"11170197469357e35b724bee9cac9dac",
     "wof:hierarchy":[
         {
@@ -166,7 +169,7 @@
         }
     ],
     "wof:id":101810379,
-    "wof:lastmodified":1566611884,
+    "wof:lastmodified":1582345554,
     "wof:name":"Clavier",
     "wof:parent_id":102049925,
     "wof:placetype":"locality",

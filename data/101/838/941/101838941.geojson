@@ -153,6 +153,9 @@
         "wk:page":"Overpelt"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"45d13a2a2df2c051cf90e1cb8e8d3d74",
     "wof:hierarchy":[
         {
@@ -166,7 +169,7 @@
         }
     ],
     "wof:id":101838941,
-    "wof:lastmodified":1566611924,
+    "wof:lastmodified":1582345561,
     "wof:name":"Overpelt",
     "wof:parent_id":1108830665,
     "wof:placetype":"locality",

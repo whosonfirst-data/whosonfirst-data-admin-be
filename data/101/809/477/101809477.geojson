@@ -152,6 +152,9 @@
         "wd:id":"Q909914"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"fb8ac5b0625cced9530795b0635e2a92",
     "wof:hierarchy":[
         {
@@ -165,7 +168,7 @@
         }
     ],
     "wof:id":101809477,
-    "wof:lastmodified":1566611941,
+    "wof:lastmodified":1582345564,
     "wof:name":"Vorselaar",
     "wof:parent_id":1108830237,
     "wof:placetype":"locality",

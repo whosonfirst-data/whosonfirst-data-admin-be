@@ -139,6 +139,9 @@
         "wd:id":"Q501748"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"3dad51d74aea468b2e282bc9642061e0",
     "wof:hierarchy":[
         {
@@ -164,7 +167,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1566611854,
+    "wof:lastmodified":1582345549,
     "wof:name":"Ranst",
     "wof:parent_id":-4,
     "wof:placetype":"locality",

@@ -73,6 +73,9 @@
         "wd:id":"Q836999"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"ab21085652ffe5fc43734cf2ddccc977",
     "wof:hierarchy":[
         {
@@ -89,7 +92,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1566611863,
+    "wof:lastmodified":1582345550,
     "wof:name":"Grembergen",
     "wof:parent_id":1108830417,
     "wof:placetype":"locality",

@@ -138,6 +138,9 @@
         "wk:page":"Haren, Belgium"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"7a48c1a82d6f1d5fa1002771e59a367a",
     "wof:hierarchy":[
         {
@@ -154,7 +157,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1566611074,
+    "wof:lastmodified":1582345514,
     "wof:name":"Haren",
     "wof:parent_id":101751573,
     "wof:placetype":"neighbourhood",

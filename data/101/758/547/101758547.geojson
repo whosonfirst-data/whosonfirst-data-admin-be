@@ -166,6 +166,9 @@
         "wd:id":"Q14062"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"39672ad166a1d6bf1fac36e3268a8477",
     "wof:hierarchy":[
         {
@@ -182,7 +185,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1566611909,
+    "wof:lastmodified":1582345558,
     "wof:name":"Zelzate",
     "wof:parent_id":1108830561,
     "wof:placetype":"locality",

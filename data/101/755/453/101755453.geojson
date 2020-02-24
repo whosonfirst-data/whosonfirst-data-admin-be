@@ -141,6 +141,9 @@
         "wd:id":"Q930249"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"72d66fc368731cb8328265ba52e853cf",
     "wof:hierarchy":[
         {
@@ -154,7 +157,7 @@
         }
     ],
     "wof:id":101755453,
-    "wof:lastmodified":1566611824,
+    "wof:lastmodified":1582345543,
     "wof:name":"Ternat",
     "wof:parent_id":1108830119,
     "wof:placetype":"locality",

@@ -1132,6 +1132,7 @@
     "qs:source":"EuroGlobalMap",
     "src:geom":"quattroshapes",
     "src:geom_alt":[
+        "naturalearth",
         "naturalearth"
     ],
     "src:lbl_centroid":"mapshaper",
@@ -1187,6 +1188,10 @@
     },
     "wof:country":"BE",
     "wof:country_alpha3":"BEL",
+    "wof:geom_alt":[
+        "naturalearth-display-terrestrial-zoom6",
+        "naturalearth"
+    ],
     "wof:geomhash":"de2c21e46dad1faaf9b148fa306439de",
     "wof:hierarchy":[
         {
@@ -1205,7 +1210,7 @@
         "fra",
         "deu"
     ],
-    "wof:lastmodified":1566611069,
+    "wof:lastmodified":1582345513,
     "wof:name":"Belgium",
     "wof:parent_id":102191581,
     "wof:placetype":"country",

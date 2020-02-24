@@ -144,6 +144,9 @@
         "wk:page":"Mettet"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"365f4093f297a6bcc456056257079bf3",
     "wof:hierarchy":[
         {
@@ -159,7 +162,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1566611871,
+    "wof:lastmodified":1582345552,
     "wof:name":"Mettet",
     "wof:parent_id":102049931,
     "wof:placetype":"locality",

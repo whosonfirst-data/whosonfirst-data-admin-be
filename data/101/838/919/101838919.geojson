@@ -172,6 +172,9 @@
         "wk:page":"Koksijde"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"642540d003718806dc5c3fb4e7828869",
     "wof:hierarchy":[
         {
@@ -188,7 +191,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1566611936,
+    "wof:lastmodified":1582345563,
     "wof:name":"Koksijde",
     "wof:parent_id":1108830673,
     "wof:placetype":"locality",

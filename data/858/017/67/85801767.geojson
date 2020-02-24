@@ -94,6 +94,9 @@
         "wk:page":"Osseghem/Ossegem metro station"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"50ab579b3d221afec5fd82d75223fa1c",
     "wof:hierarchy":[
         {
@@ -110,7 +113,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1566611092,
+    "wof:lastmodified":1582345518,
     "wof:name":"Osseghem",
     "wof:parent_id":101751573,
     "wof:placetype":"neighbourhood",

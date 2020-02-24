@@ -206,6 +206,9 @@
         "wk:page":"Koekelberg"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"200c86447b7d3f2e10e2bad8c4b0d22c",
     "wof:hierarchy":[
         {
@@ -222,7 +225,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1566611077,
+    "wof:lastmodified":1582345515,
     "wof:name":"Koekelberg",
     "wof:parent_id":101751573,
     "wof:placetype":"neighbourhood",

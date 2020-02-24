@@ -155,6 +155,9 @@
         "wd:id":"Q724389"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"004f4840f94324763ab807bf364c237a",
     "wof:hierarchy":[
         {
@@ -168,7 +171,7 @@
         }
     ],
     "wof:id":101839133,
-    "wof:lastmodified":1566611966,
+    "wof:lastmodified":1582345569,
     "wof:name":"Grobbendonk",
     "wof:parent_id":1108830319,
     "wof:placetype":"locality",

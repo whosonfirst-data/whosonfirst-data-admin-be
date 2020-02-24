@@ -150,6 +150,9 @@
         "wd:id":"Q228863"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"dea7cd630fb7cd7b96c0927941c900f4",
     "wof:hierarchy":[
         {
@@ -166,7 +169,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1566611818,
+    "wof:lastmodified":1582345542,
     "wof:name":"Zulte",
     "wof:parent_id":1108830563,
     "wof:placetype":"locality",

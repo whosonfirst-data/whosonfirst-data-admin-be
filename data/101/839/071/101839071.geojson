@@ -79,6 +79,9 @@
         "wk:page":"Berendrecht"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"584645f249ae37725a6f25fc3badc244",
     "wof:hierarchy":[
         {
@@ -95,7 +98,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1566611968,
+    "wof:lastmodified":1582345569,
     "wof:name":"Berendrecht",
     "wof:parent_id":1108830423,
     "wof:placetype":"locality",

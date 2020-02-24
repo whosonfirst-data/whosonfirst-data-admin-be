@@ -239,6 +239,9 @@
         "wk:page":"Sint-Jans-Molenbeek"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"71425b274701eddfc0b8c3743dd873ee",
     "wof:hierarchy":[
         {
@@ -255,7 +258,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1566611086,
+    "wof:lastmodified":1582345517,
     "wof:name":"St-Jans-Molenbeek",
     "wof:parent_id":101751573,
     "wof:placetype":"neighbourhood",

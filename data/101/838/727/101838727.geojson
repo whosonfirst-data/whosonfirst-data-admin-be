@@ -144,6 +144,9 @@
         "wd:id":"Q587979"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"780ba91170c2b9b83173464170af95bf",
     "wof:hierarchy":[
         {
@@ -160,7 +163,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1566611937,
+    "wof:lastmodified":1582345563,
     "wof:name":"Herzele",
     "wof:parent_id":1108830361,
     "wof:placetype":"locality",

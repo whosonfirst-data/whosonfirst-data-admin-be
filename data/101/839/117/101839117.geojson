@@ -140,6 +140,9 @@
         "wd:id":"Q725029"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"50759fafb7553fe782c0598918e656b7",
     "wof:hierarchy":[
         {
@@ -153,7 +156,7 @@
         }
     ],
     "wof:id":101839117,
-    "wof:lastmodified":1566611973,
+    "wof:lastmodified":1582345569,
     "wof:name":"Kasterlee",
     "wof:parent_id":1108830677,
     "wof:placetype":"locality",

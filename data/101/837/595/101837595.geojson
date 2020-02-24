@@ -52,6 +52,9 @@
         "qs_pg:id":1268419
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"7c7e11f366b14bf5697dbf6ee22128ad",
     "wof:hierarchy":[
         {
@@ -65,7 +68,7 @@
         }
     ],
     "wof:id":101837595,
-    "wof:lastmodified":1566611956,
+    "wof:lastmodified":1582345567,
     "wof:name":"Wildert",
     "wof:parent_id":1108830513,
     "wof:placetype":"locality",

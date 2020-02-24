@@ -140,6 +140,9 @@
         "wd:id":"Q984894"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"732bf2ed47f9aa53764a44504a989658",
     "wof:hierarchy":[
         {
@@ -153,7 +156,7 @@
         }
     ],
     "wof:id":101755383,
-    "wof:lastmodified":1566611826,
+    "wof:lastmodified":1582345544,
     "wof:name":"Keerbergen",
     "wof:parent_id":1108830055,
     "wof:placetype":"locality",

@@ -141,6 +141,9 @@
         "wk:page":"Fontaine-l'\u00c9v\u00eaque"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"d054f887b8ff49133de4683d063bc1da",
     "wof:hierarchy":[
         {
@@ -153,7 +156,7 @@
         }
     ],
     "wof:id":101754257,
-    "wof:lastmodified":1566611860,
+    "wof:lastmodified":1582345550,
     "wof:name":"Fontaine-l'\u00c9v\u00eaque",
     "wof:parent_id":102049927,
     "wof:placetype":"locality",

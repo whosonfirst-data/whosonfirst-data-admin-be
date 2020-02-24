@@ -68,6 +68,9 @@
         "wd:id":"Q1855948"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"9b515509e54bdc0e87a263ca8fd2520b",
     "wof:hierarchy":[
         {
@@ -81,7 +84,7 @@
         }
     ],
     "wof:id":101755691,
-    "wof:lastmodified":1566611848,
+    "wof:lastmodified":1582345547,
     "wof:name":"Kluizen",
     "wof:parent_id":1108830413,
     "wof:placetype":"locality",

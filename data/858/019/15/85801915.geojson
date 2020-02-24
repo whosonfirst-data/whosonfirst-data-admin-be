@@ -83,6 +83,9 @@
         "qs_pg:id":1104098
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"cae073ee047a4be0ece9d3bdecc2c29d",
     "wof:hierarchy":[
         {
@@ -100,7 +103,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1566611097,
+    "wof:lastmodified":1582345519,
     "wof:name":"St.-Pieters Op de Dijk",
     "wof:parent_id":101748097,
     "wof:placetype":"neighbourhood",

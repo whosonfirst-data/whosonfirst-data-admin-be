@@ -156,6 +156,9 @@
         "wk:page":"Willebroek"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"5aafb709b33c554443f52419e948071c",
     "wof:hierarchy":[
         {
@@ -169,7 +172,7 @@
         }
     ],
     "wof:id":101754371,
-    "wof:lastmodified":1566611862,
+    "wof:lastmodified":1582345550,
     "wof:name":"Willebroek",
     "wof:parent_id":1108830353,
     "wof:placetype":"locality",

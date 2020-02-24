@@ -74,6 +74,9 @@
         "wd:id":"Q851683"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"348ee2c8fe41898072d6284f091bd2c5",
     "wof:hierarchy":[
         {
@@ -87,7 +90,7 @@
         }
     ],
     "wof:id":101838831,
-    "wof:lastmodified":1566611932,
+    "wof:lastmodified":1582345562,
     "wof:name":"Beverlo",
     "wof:parent_id":1108830613,
     "wof:placetype":"locality",

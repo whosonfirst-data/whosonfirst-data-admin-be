@@ -71,6 +71,9 @@
         "wd:id":"Q305293"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"e76d9ad161f172d2cc928d3a21622b63",
     "wof:hierarchy":[
         {
@@ -84,7 +87,7 @@
         }
     ],
     "wof:id":101755281,
-    "wof:lastmodified":1566611819,
+    "wof:lastmodified":1582345542,
     "wof:name":"Mopertingen",
     "wof:parent_id":1108830245,
     "wof:placetype":"locality",

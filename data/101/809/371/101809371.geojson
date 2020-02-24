@@ -159,6 +159,9 @@
         "wd:id":"Q696349"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"d13cdc854b58bdba4e422fa0bb01bdbb",
     "wof:hierarchy":[
         {
@@ -175,7 +178,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1566611945,
+    "wof:lastmodified":1582345565,
     "wof:name":"Wachtebeke",
     "wof:parent_id":1108830059,
     "wof:placetype":"locality",

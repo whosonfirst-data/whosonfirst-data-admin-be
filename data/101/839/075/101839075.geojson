@@ -82,6 +82,9 @@
         "wk:page":"Oostmalle"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"4059248689cab7d3c963aab538726b63",
     "wof:hierarchy":[
         {
@@ -98,7 +101,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1566611976,
+    "wof:lastmodified":1582345570,
     "wof:name":"Oostmalle",
     "wof:parent_id":1108830005,
     "wof:placetype":"locality",

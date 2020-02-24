@@ -280,6 +280,9 @@
         "wk:page":"Bernissart"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"4a3d3c48f642d41216f45e82113cf998",
     "wof:hierarchy":[
         {
@@ -295,7 +298,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1566611979,
+    "wof:lastmodified":1582345571,
     "wof:name":"Bernissart",
     "wof:parent_id":102049949,
     "wof:placetype":"locality",

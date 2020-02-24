@@ -142,6 +142,9 @@
         "wd:id":"Q222233"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"7792c0fda7f7b6b6dcbc03530291d86a",
     "wof:hierarchy":[
         {
@@ -154,7 +157,7 @@
         }
     ],
     "wof:id":101810365,
-    "wof:lastmodified":1566611879,
+    "wof:lastmodified":1582345553,
     "wof:name":"Ouffet",
     "wof:parent_id":102049925,
     "wof:placetype":"locality",

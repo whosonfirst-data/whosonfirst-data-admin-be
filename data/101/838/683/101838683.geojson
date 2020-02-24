@@ -68,6 +68,9 @@
         "wd:id":"Q2476494"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"43971ce2f39de45cdcef71ae55f1417b",
     "wof:hierarchy":[
         {
@@ -81,7 +84,7 @@
         }
     ],
     "wof:id":101838683,
-    "wof:lastmodified":1566611932,
+    "wof:lastmodified":1582345562,
     "wof:name":"Leut",
     "wof:parent_id":1108830295,
     "wof:placetype":"locality",

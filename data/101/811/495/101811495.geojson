@@ -155,6 +155,9 @@
         "wk:page":"Libin"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"4ba29a4dde032d082a9a9b8361e700c4",
     "wof:hierarchy":[
         {
@@ -167,7 +170,7 @@
         }
     ],
     "wof:id":101811495,
-    "wof:lastmodified":1566611876,
+    "wof:lastmodified":1582345553,
     "wof:name":"Libin",
     "wof:parent_id":102049913,
     "wof:placetype":"locality",

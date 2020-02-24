@@ -141,6 +141,9 @@
         "wd:id":"Q929459"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"f679edf90e557c61e0c4f87fa8d31b34",
     "wof:hierarchy":[
         {
@@ -154,7 +157,7 @@
         }
     ],
     "wof:id":101839085,
-    "wof:lastmodified":1566611968,
+    "wof:lastmodified":1582345569,
     "wof:name":"Rijkevorsel",
     "wof:parent_id":1108830487,
     "wof:placetype":"locality",

@@ -147,6 +147,9 @@
         "wk:page":"Profondeville"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"605c12deff8cb4231515a0fe227ed5ae",
     "wof:hierarchy":[
         {
@@ -162,7 +165,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1566611833,
+    "wof:lastmodified":1582345545,
     "wof:name":"Profondeville",
     "wof:parent_id":102049931,
     "wof:placetype":"locality",

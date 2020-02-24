@@ -154,6 +154,9 @@
         "wk:page":"Dentergem"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"61af4feda3c426c13608e4181d72223f",
     "wof:hierarchy":[
         {
@@ -170,7 +173,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1566611939,
+    "wof:lastmodified":1582345563,
     "wof:name":"Dentergem",
     "wof:parent_id":1108830197,
     "wof:placetype":"locality",

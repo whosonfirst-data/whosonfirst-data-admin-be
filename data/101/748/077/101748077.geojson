@@ -426,6 +426,9 @@
         "wk:page":"Namur"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"73010641da32ed01e9fe2a899b4387c2",
     "wof:hierarchy":[
         {
@@ -441,7 +444,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1566611893,
+    "wof:lastmodified":1582345556,
     "wof:name":"Namur",
     "wof:parent_id":102049931,
     "wof:placetype":"locality",

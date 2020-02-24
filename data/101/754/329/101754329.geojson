@@ -183,6 +183,9 @@
         "wk:page":"Tervuren"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"345c7d95d5a3f6445db19eb21bd2a354",
     "wof:hierarchy":[
         {
@@ -196,7 +199,7 @@
         }
     ],
     "wof:id":101754329,
-    "wof:lastmodified":1566611867,
+    "wof:lastmodified":1582345551,
     "wof:name":"Tervuren",
     "wof:parent_id":1108830631,
     "wof:placetype":"locality",

@@ -63,6 +63,9 @@
         "wd:id":"Q15729789"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"3516b561c121542ce397f0bb614ac606",
     "wof:hierarchy":[
         {
@@ -78,7 +81,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1566611879,
+    "wof:lastmodified":1582345554,
     "wof:name":"Rhisnes",
     "wof:parent_id":102049931,
     "wof:placetype":"locality",

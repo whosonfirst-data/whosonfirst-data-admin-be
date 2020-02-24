@@ -103,6 +103,9 @@
         "wk:page":"Oostduinkerke"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"40f624093c396f37601e2bc28fc7b9dc",
     "wof:hierarchy":[
         {
@@ -116,7 +119,7 @@
         }
     ],
     "wof:id":101838913,
-    "wof:lastmodified":1566611926,
+    "wof:lastmodified":1582345561,
     "wof:name":"Oostduinkerke",
     "wof:parent_id":1108830673,
     "wof:placetype":"locality",

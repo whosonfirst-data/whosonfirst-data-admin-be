@@ -143,6 +143,9 @@
         "wd:id":"Q646037"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"025f2499bb637571bdb151d2c23091f2",
     "wof:hierarchy":[
         {
@@ -156,7 +159,7 @@
         }
     ],
     "wof:id":101810557,
-    "wof:lastmodified":1566611879,
+    "wof:lastmodified":1582345554,
     "wof:name":"Pepingen",
     "wof:parent_id":1108830351,
     "wof:placetype":"locality",

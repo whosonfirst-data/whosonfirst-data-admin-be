@@ -150,6 +150,9 @@
         "wd:id":"Q735797"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"476522bb59b0fe752b2c92ed0c61466c",
     "wof:hierarchy":[
         {
@@ -166,7 +169,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1566611938,
+    "wof:lastmodified":1582345563,
     "wof:name":"Wingene",
     "wof:parent_id":1108830065,
     "wof:placetype":"locality",

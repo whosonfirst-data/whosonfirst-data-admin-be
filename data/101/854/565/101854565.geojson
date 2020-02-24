@@ -223,6 +223,10 @@
         "wd:id":"Q189692"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
     "wof:geomhash":"eda28b06bbd725ba4d7cc53d77ba2644",
     "wof:hierarchy":[
         {
@@ -236,7 +240,7 @@
         }
     ],
     "wof:id":101854565,
-    "wof:lastmodified":1566611955,
+    "wof:lastmodified":1582345566,
     "wof:name":"Genk",
     "wof:parent_id":1108830655,
     "wof:placetype":"locality",

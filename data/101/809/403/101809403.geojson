@@ -71,6 +71,9 @@
         "wd:id":"Q2163415"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"214847b5f12b0d26c8c2f0c3f27c9efd",
     "wof:hierarchy":[
         {
@@ -84,7 +87,7 @@
         }
     ],
     "wof:id":101809403,
-    "wof:lastmodified":1566611952,
+    "wof:lastmodified":1582345566,
     "wof:name":"Opitter",
     "wof:parent_id":1108830143,
     "wof:placetype":"locality",

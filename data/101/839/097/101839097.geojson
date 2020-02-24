@@ -134,6 +134,9 @@
         "wd:id":"Q943555"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"654b5ba0319a5e84fb0e4908641d2d64",
     "wof:hierarchy":[
         {
@@ -147,7 +150,7 @@
         }
     ],
     "wof:id":101839097,
-    "wof:lastmodified":1566611970,
+    "wof:lastmodified":1582345569,
     "wof:name":"Oud-Turnhout",
     "wof:parent_id":1108830455,
     "wof:placetype":"locality",

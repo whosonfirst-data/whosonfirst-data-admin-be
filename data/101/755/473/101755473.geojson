@@ -167,6 +167,9 @@
         "wd:id":"Q633063"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"942522a8cbd5b11e50e80e493669f127",
     "wof:hierarchy":[
         {
@@ -180,7 +183,7 @@
         }
     ],
     "wof:id":101755473,
-    "wof:lastmodified":1566611842,
+    "wof:lastmodified":1582345546,
     "wof:name":"Grimbergen",
     "wof:parent_id":1108830343,
     "wof:placetype":"locality",

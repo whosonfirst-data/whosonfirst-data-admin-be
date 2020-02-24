@@ -94,6 +94,9 @@
         "wk:page":"Adinkerke"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"017f63e12947f989fc21a9284a6ebee6",
     "wof:hierarchy":[
         {
@@ -107,7 +110,7 @@
         }
     ],
     "wof:id":101809385,
-    "wof:lastmodified":1566611945,
+    "wof:lastmodified":1582345565,
     "wof:name":"Adinkerke",
     "wof:parent_id":1108830697,
     "wof:placetype":"locality",

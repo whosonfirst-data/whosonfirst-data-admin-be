@@ -152,6 +152,9 @@
         "wk:page":"Tenneville"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"c9db2c869dd31e77806ad6f71832d692",
     "wof:hierarchy":[
         {
@@ -164,7 +167,7 @@
         }
     ],
     "wof:id":101811647,
-    "wof:lastmodified":1566611874,
+    "wof:lastmodified":1582345553,
     "wof:name":"Tenneville",
     "wof:parent_id":102049921,
     "wof:placetype":"locality",

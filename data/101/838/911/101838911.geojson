@@ -55,6 +55,9 @@
         "qs_pg:id":1179446
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"702f981906d292c96b377d6c9ce71edb",
     "wof:hierarchy":[
         {
@@ -68,7 +71,7 @@
         }
     ],
     "wof:id":101838911,
-    "wof:lastmodified":1566611934,
+    "wof:lastmodified":1582345563,
     "wof:name":"Oostduinkerke-Bad",
     "wof:parent_id":1108830673,
     "wof:placetype":"locality",

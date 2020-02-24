@@ -69,6 +69,9 @@
         "wd:id":"Q2392449"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"dd5f55d0a05e56116f4d90dac0a34f13",
     "wof:hierarchy":[
         {
@@ -82,7 +85,7 @@
         }
     ],
     "wof:id":101755643,
-    "wof:lastmodified":1566611814,
+    "wof:lastmodified":1582345542,
     "wof:name":"Schriek",
     "wof:parent_id":1108830023,
     "wof:placetype":"locality",

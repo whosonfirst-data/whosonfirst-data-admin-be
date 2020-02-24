@@ -71,6 +71,9 @@
         "wd:id":"Q2074271"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"998a8fc3a16c6737e35d3020edf882c9",
     "wof:hierarchy":[
         {
@@ -83,7 +86,7 @@
         }
     ],
     "wof:id":101839757,
-    "wof:lastmodified":1566611974,
+    "wof:lastmodified":1582345570,
     "wof:name":"Leuze",
     "wof:parent_id":102049931,
     "wof:placetype":"locality",

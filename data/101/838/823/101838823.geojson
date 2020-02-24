@@ -81,6 +81,9 @@
         "wd:id":"Q1976577"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"399ca0df60488ad36d6d614388330b28",
     "wof:hierarchy":[
         {
@@ -97,7 +100,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1566611930,
+    "wof:lastmodified":1582345562,
     "wof:name":"Sint-Lambrechts-Herk",
     "wof:parent_id":1108830649,
     "wof:placetype":"locality",

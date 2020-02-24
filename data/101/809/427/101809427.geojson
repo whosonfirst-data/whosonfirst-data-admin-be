@@ -68,6 +68,9 @@
         "wd:id":"Q2488256"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"35fa6d76ad547c8980fa075af3a00310",
     "wof:hierarchy":[
         {
@@ -81,7 +84,7 @@
         }
     ],
     "wof:id":101809427,
-    "wof:lastmodified":1566611949,
+    "wof:lastmodified":1582345565,
     "wof:name":"Eksaarde",
     "wof:parent_id":1108830451,
     "wof:placetype":"locality",

@@ -78,6 +78,9 @@
         "wd:id":"Q2144960"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"8ed551823b83313a3f36973b9badeff2",
     "wof:hierarchy":[
         {
@@ -91,7 +94,7 @@
         }
     ],
     "wof:id":101755437,
-    "wof:lastmodified":1566611820,
+    "wof:lastmodified":1582345543,
     "wof:name":"Scherpenheuvel",
     "wof:parent_id":1108830367,
     "wof:placetype":"locality",

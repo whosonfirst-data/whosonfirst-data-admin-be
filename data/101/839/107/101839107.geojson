@@ -149,6 +149,9 @@
         "wd:id":"Q912062"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"bf3fa8aa9bc1b8c249cff10c3417eb3a",
     "wof:hierarchy":[
         {
@@ -162,7 +165,7 @@
         }
     ],
     "wof:id":101839107,
-    "wof:lastmodified":1566611974,
+    "wof:lastmodified":1582345570,
     "wof:name":"Retie",
     "wof:parent_id":1108830225,
     "wof:placetype":"locality",

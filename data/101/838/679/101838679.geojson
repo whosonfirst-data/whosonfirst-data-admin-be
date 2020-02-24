@@ -210,6 +210,9 @@
         "wk:page":"Tongeren"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"ccef2f2bd4c99cef00a95fb697da1dc3",
     "wof:hierarchy":[
         {
@@ -226,7 +229,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1566611931,
+    "wof:lastmodified":1582345562,
     "wof:name":"Tongeren",
     "wof:parent_id":1108830031,
     "wof:placetype":"locality",

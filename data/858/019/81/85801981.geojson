@@ -71,6 +71,10 @@
         "qs_pg:id":56275
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"400dbec4bbb5c3dbb75e47bd7a46e020",
     "wof:hierarchy":[
         {
@@ -88,7 +92,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1566611096,
+    "wof:lastmodified":1582345519,
     "wof:name":"Warandeberg",
     "wof:parent_id":101755517,
     "wof:placetype":"neighbourhood",

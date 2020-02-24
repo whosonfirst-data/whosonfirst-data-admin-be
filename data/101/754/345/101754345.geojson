@@ -240,6 +240,9 @@
         "wk:page":"Roeselare"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"e42397530a833e6e3b6f23cd2581164c",
     "wof:hierarchy":[
         {
@@ -256,7 +259,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1566611867,
+    "wof:lastmodified":1582345551,
     "wof:name":"Roeselare",
     "wof:parent_id":1108830397,
     "wof:placetype":"locality",

@@ -153,6 +153,9 @@
         "wd:id":"Q916980"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"788b01fbc4adead27df24bbd49aab2a7",
     "wof:hierarchy":[
         {
@@ -169,7 +172,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1566611967,
+    "wof:lastmodified":1582345569,
     "wof:name":"Kruibeke",
     "wof:parent_id":1108830395,
     "wof:placetype":"locality",

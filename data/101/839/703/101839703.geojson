@@ -68,6 +68,9 @@
         "wd:id":"Q3475810"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"d3754e8a006ea6c354c5be07bb11d576",
     "wof:hierarchy":[
         {
@@ -81,7 +84,7 @@
         }
     ],
     "wof:id":101839703,
-    "wof:lastmodified":1566611974,
+    "wof:lastmodified":1582345570,
     "wof:name":"Steendorp",
     "wof:parent_id":1108830387,
     "wof:placetype":"locality",

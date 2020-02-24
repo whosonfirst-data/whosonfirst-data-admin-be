@@ -146,6 +146,9 @@
         "wd:id":"Q386732"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"d06fac933d913b887c0453710e38ff92",
     "wof:hierarchy":[
         {
@@ -159,7 +162,7 @@
         }
     ],
     "wof:id":101839119,
-    "wof:lastmodified":1566611972,
+    "wof:lastmodified":1582345569,
     "wof:name":"Dessel",
     "wof:parent_id":1108830547,
     "wof:placetype":"locality",

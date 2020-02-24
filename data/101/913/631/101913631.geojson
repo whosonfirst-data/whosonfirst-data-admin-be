@@ -85,6 +85,9 @@
         "wk:page":"Kanne"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"b9d008e9d4f9bd3411e816c97d826192",
     "wof:hierarchy":[
         {
@@ -98,7 +101,7 @@
         }
     ],
     "wof:id":101913631,
-    "wof:lastmodified":1561831421,
+    "wof:lastmodified":1582345558,
     "wof:name":"Kanne",
     "wof:parent_id":1108830103,
     "wof:placetype":"locality",

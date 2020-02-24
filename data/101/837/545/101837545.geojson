@@ -163,6 +163,9 @@
         "wk:page":"Eeklo"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"0796ba8f536c0cfdce52d0f6bde0c193",
     "wof:hierarchy":[
         {
@@ -179,7 +182,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1561831432,
+    "wof:lastmodified":1582345567,
     "wof:name":"Eeklo",
     "wof:parent_id":1108830365,
     "wof:placetype":"locality",

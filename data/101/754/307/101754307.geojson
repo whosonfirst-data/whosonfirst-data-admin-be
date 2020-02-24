@@ -138,6 +138,9 @@
         "wk:page":"Lead paragraph"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"7c549dbe3ed386cd487ed75b8380480a",
     "wof:hierarchy":[
         {
@@ -154,7 +157,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1566611858,
+    "wof:lastmodified":1582345549,
     "wof:name":"Lede",
     "wof:parent_id":1108830331,
     "wof:placetype":"locality",

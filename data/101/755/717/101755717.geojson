@@ -65,6 +65,9 @@
         "wd:id":"Q3217044"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"d24ed715c87a213526fff42a36dd4154",
     "wof:hierarchy":[
         {
@@ -78,7 +81,7 @@
         }
     ],
     "wof:id":101755717,
-    "wof:lastmodified":1566611853,
+    "wof:lastmodified":1582345548,
     "wof:name":"Landegem",
     "wof:parent_id":1108830463,
     "wof:placetype":"locality",

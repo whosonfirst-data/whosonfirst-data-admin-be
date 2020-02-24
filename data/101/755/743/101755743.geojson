@@ -85,6 +85,9 @@
         "wk:page":"Varsenare"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"17fcf3d1dee970d4b4300141b559e58c",
     "wof:hierarchy":[
         {
@@ -98,7 +101,7 @@
         }
     ],
     "wof:id":101755743,
-    "wof:lastmodified":1566611851,
+    "wof:lastmodified":1582345548,
     "wof:name":"Varsenare",
     "wof:parent_id":1108830157,
     "wof:placetype":"locality",

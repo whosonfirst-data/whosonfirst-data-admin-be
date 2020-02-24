@@ -81,6 +81,9 @@
         "wd:id":"Q2912835"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"2d9dd015e18e95901c80fb2a0d187692",
     "wof:hierarchy":[
         {
@@ -94,7 +97,7 @@
         }
     ],
     "wof:id":101809315,
-    "wof:lastmodified":1566611945,
+    "wof:lastmodified":1582345564,
     "wof:name":"Kastel",
     "wof:parent_id":1108830161,
     "wof:placetype":"locality",

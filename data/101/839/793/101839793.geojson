@@ -156,6 +156,9 @@
         "wk:page":"Antoing"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"17505c49a2c80a54068de0e5e2b50a45",
     "wof:hierarchy":[
         {
@@ -171,7 +174,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1566611973,
+    "wof:lastmodified":1582345570,
     "wof:name":"Antoing",
     "wof:parent_id":102049951,
     "wof:placetype":"locality",

@@ -80,6 +80,9 @@
         "wd:id":"Q2686049"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"21159c7ec34de502592b6370090bde2c",
     "wof:hierarchy":[
         {
@@ -96,7 +99,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1566611967,
+    "wof:lastmodified":1582345569,
     "wof:name":"Sint-Job-in-'t Goor",
     "wof:parent_id":1108830385,
     "wof:placetype":"locality",

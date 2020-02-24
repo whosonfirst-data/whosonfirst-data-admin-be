@@ -82,6 +82,9 @@
         "wk:page":"Sijsele"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"e3841f1cdd747e99a190607fda93d5e5",
     "wof:hierarchy":[
         {
@@ -95,7 +98,7 @@
         }
     ],
     "wof:id":101808127,
-    "wof:lastmodified":1566611963,
+    "wof:lastmodified":1582345568,
     "wof:name":"Sijsele",
     "wof:parent_id":1108830063,
     "wof:placetype":"locality",

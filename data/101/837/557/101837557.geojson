@@ -171,6 +171,9 @@
         "wk:page":"Veurne"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"eac1345b96c13f27e6208a7a928aeb69",
     "wof:hierarchy":[
         {
@@ -187,7 +190,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1566611956,
+    "wof:lastmodified":1582345567,
     "wof:name":"Veurne",
     "wof:parent_id":1108830165,
     "wof:placetype":"locality",

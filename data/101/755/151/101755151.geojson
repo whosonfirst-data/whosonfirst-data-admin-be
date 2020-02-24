@@ -152,6 +152,9 @@
         "wk:page":"Theux"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"39532d4694ef05627e828c46ecfd8f74",
     "wof:hierarchy":[
         {
@@ -164,7 +167,7 @@
         }
     ],
     "wof:id":101755151,
-    "wof:lastmodified":1566611811,
+    "wof:lastmodified":1582345541,
     "wof:name":"Theux",
     "wof:parent_id":102049935,
     "wof:placetype":"locality",

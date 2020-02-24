@@ -69,6 +69,9 @@
         "wd:id":"Q842951"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"a09ca5149031364e9b95f0cbb3012d0e",
     "wof:hierarchy":[
         {
@@ -85,7 +88,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1566611835,
+    "wof:lastmodified":1582345545,
     "wof:name":"Gijzegem",
     "wof:parent_id":1108830515,
     "wof:placetype":"locality",

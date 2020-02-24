@@ -96,6 +96,9 @@
         "wk:page":"Zwijnaarde"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"2469a48536300407d58724f1b281e66c",
     "wof:hierarchy":[
         {
@@ -109,7 +112,7 @@
         }
     ],
     "wof:id":101755681,
-    "wof:lastmodified":1566611813,
+    "wof:lastmodified":1582345542,
     "wof:name":"Zwijnaarde",
     "wof:parent_id":1108830083,
     "wof:placetype":"locality",

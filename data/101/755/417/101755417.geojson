@@ -141,6 +141,9 @@
         "wk:page":"Rotselaar"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"fc5876fb07935f9b121d27d3d70fb900",
     "wof:hierarchy":[
         {
@@ -154,7 +157,7 @@
         }
     ],
     "wof:id":101755417,
-    "wof:lastmodified":1566611838,
+    "wof:lastmodified":1582345546,
     "wof:name":"Rotselaar",
     "wof:parent_id":1108830325,
     "wof:placetype":"locality",

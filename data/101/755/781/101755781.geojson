@@ -314,6 +314,9 @@
         "qs_pg:id":1032655
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"58ae1fb2448ddfe86e7c83c680a0da52",
     "wof:hierarchy":[
         {
@@ -327,7 +330,7 @@
         }
     ],
     "wof:id":101755781,
-    "wof:lastmodified":1566611852,
+    "wof:lastmodified":1582345548,
     "wof:name":"Halle",
     "wof:parent_id":1108830221,
     "wof:placetype":"locality",

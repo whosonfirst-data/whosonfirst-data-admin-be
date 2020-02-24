@@ -229,6 +229,9 @@
         "wk:page":"Oudenaarde"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"16cdceff8f65c33209837f95ca50a3f5",
     "wof:hierarchy":[
         {
@@ -245,7 +248,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1566611957,
+    "wof:lastmodified":1582345567,
     "wof:name":"Oudenaarde",
     "wof:parent_id":1108830311,
     "wof:placetype":"locality",

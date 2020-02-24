@@ -489,6 +489,9 @@
         "wk:page":"Li\u00e8ge"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"123b27cc2a258741ee1e4ca212742df6",
     "wof:hierarchy":[
         {
@@ -504,7 +507,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1566611894,
+    "wof:lastmodified":1582345556,
     "wof:name":"Li\u00e8ge",
     "wof:parent_id":102049941,
     "wof:placetype":"locality",

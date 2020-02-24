@@ -71,6 +71,9 @@
         "wd:id":"Q2868389"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"e0695ad44f3d83135d6411a65c70a8f5",
     "wof:hierarchy":[
         {
@@ -84,7 +87,7 @@
         }
     ],
     "wof:id":101838887,
-    "wof:lastmodified":1566611918,
+    "wof:lastmodified":1582345559,
     "wof:name":"Astene",
     "wof:parent_id":1108830629,
     "wof:placetype":"locality",

@@ -71,6 +71,10 @@
         "qs_pg:id":1103968
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"5d25dfda73c5d75e9ca15f85be8a4b15",
     "wof:hierarchy":[
         {
@@ -88,7 +92,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1566611086,
+    "wof:lastmodified":1582345517,
     "wof:name":"Robselaerkouter",
     "wof:parent_id":101755411,
     "wof:placetype":"neighbourhood",

@@ -65,6 +65,9 @@
         "wd:id":"Q3472457"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"d814e57dbeafc3d6574a7ffa18015215",
     "wof:hierarchy":[
         {
@@ -78,7 +81,7 @@
         }
     ],
     "wof:id":101755345,
-    "wof:lastmodified":1566611853,
+    "wof:lastmodified":1582345548,
     "wof:name":"Iddergem",
     "wof:parent_id":1108830457,
     "wof:placetype":"locality",

@@ -77,6 +77,9 @@
         "wk:page":"Zandvliet"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"19a8f6d9c1d92bb29e009604f294b40e",
     "wof:hierarchy":[
         {
@@ -93,7 +96,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1566611970,
+    "wof:lastmodified":1582345569,
     "wof:name":"Zandvliet",
     "wof:parent_id":1108830423,
     "wof:placetype":"locality",

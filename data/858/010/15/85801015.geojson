@@ -160,6 +160,10 @@
         "wd:id":"Q839023"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
     "wof:geomhash":"f47c16328d7182c76ad841d11ece8cf4",
     "wof:hierarchy":[
         {
@@ -177,7 +181,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1566611095,
+    "wof:lastmodified":1582345519,
     "wof:name":"Crainhem",
     "wof:parent_id":101913231,
     "wof:placetype":"neighbourhood",

@@ -156,6 +156,9 @@
         "wk:page":"Enghien"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"1c44d8b832d072d496ab1d70f86277f0",
     "wof:hierarchy":[
         {
@@ -168,7 +171,7 @@
         }
     ],
     "wof:id":101838653,
-    "wof:lastmodified":1566611933,
+    "wof:lastmodified":1582345562,
     "wof:name":"Enghien",
     "wof:parent_id":102049943,
     "wof:placetype":"locality",

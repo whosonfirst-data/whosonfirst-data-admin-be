@@ -78,6 +78,10 @@
         "qs_pg:id":992717
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"d2bb2671148cc9f39d1903b0796cbdb1",
     "wof:hierarchy":[
         {
@@ -94,7 +98,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1566611084,
+    "wof:lastmodified":1582345516,
     "wof:name":"Wixhou",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

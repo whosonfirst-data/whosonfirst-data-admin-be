@@ -146,6 +146,9 @@
         "wk:page":"Gedinne"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"bf1ff612ba5d621dd2c00058a90f8bf5",
     "wof:hierarchy":[
         {
@@ -158,7 +161,7 @@
         }
     ],
     "wof:id":101811615,
-    "wof:lastmodified":1566611874,
+    "wof:lastmodified":1582345553,
     "wof:name":"Gedinne",
     "wof:parent_id":102049919,
     "wof:placetype":"locality",

@@ -184,6 +184,9 @@
         "wk:page":"Tielt"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"297fed89c454be9db59ac7eff9bfbf56",
     "wof:hierarchy":[
         {
@@ -200,7 +203,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1566611954,
+    "wof:lastmodified":1582345566,
     "wof:name":"Tielt",
     "wof:parent_id":1108830265,
     "wof:placetype":"locality",

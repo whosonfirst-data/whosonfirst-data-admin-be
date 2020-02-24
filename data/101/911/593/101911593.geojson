@@ -58,6 +58,9 @@
         "qs_pg:id":215818
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"970a53474162e0a4f710241dfb046b04",
     "wof:hierarchy":[
         {
@@ -74,7 +77,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566611980,
+    "wof:lastmodified":1582345571,
     "wof:name":"Knippegroen",
     "wof:parent_id":1108830413,
     "wof:placetype":"locality",

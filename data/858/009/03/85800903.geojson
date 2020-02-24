@@ -74,6 +74,10 @@
         "qs_pg:id":1102948
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
     "wof:geomhash":"caaef6f4d1fd9941c6952260bc5e9a44",
     "wof:hierarchy":[
         {
@@ -91,7 +95,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1566611081,
+    "wof:lastmodified":1582345516,
     "wof:name":"Boesdaalveld",
     "wof:parent_id":101754343,
     "wof:placetype":"neighbourhood",

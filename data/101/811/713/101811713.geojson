@@ -86,6 +86,9 @@
         "wd:id":"Q3246473"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"d8c7eb974fc0a8f205d1dc5629e454e2",
     "wof:hierarchy":[
         {
@@ -98,7 +101,7 @@
         }
     ],
     "wof:id":101811713,
-    "wof:lastmodified":1566611872,
+    "wof:lastmodified":1582345552,
     "wof:name":"Reuland",
     "wof:parent_id":102049935,
     "wof:placetype":"locality",

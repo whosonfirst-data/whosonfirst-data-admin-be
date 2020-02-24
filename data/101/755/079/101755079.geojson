@@ -70,6 +70,9 @@
         "wd:id":"Q2921536"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"3151e0822126dd1be144583f94997f89",
     "wof:hierarchy":[
         {
@@ -82,7 +85,7 @@
         }
     ],
     "wof:id":101755079,
-    "wof:lastmodified":1566611814,
+    "wof:lastmodified":1582345542,
     "wof:name":"Bouffioulx",
     "wof:parent_id":102049927,
     "wof:placetype":"locality",

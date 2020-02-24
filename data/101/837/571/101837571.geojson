@@ -154,6 +154,9 @@
         "wk:page":"Temse"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"6ba09279c5ddecfa547cd0c472f727a2",
     "wof:hierarchy":[
         {
@@ -170,7 +173,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1566611961,
+    "wof:lastmodified":1582345568,
     "wof:name":"Temse",
     "wof:parent_id":1108830387,
     "wof:placetype":"locality",

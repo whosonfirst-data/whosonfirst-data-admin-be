@@ -172,6 +172,9 @@
         "wd:id":"Q497572"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"da2aebfaa9097052b50d56c690c3c3b7",
     "wof:hierarchy":[
         {
@@ -184,7 +187,7 @@
         }
     ],
     "wof:id":101754285,
-    "wof:lastmodified":1566611865,
+    "wof:lastmodified":1582345551,
     "wof:name":"Braine-l'Alleud",
     "wof:parent_id":102049945,
     "wof:placetype":"locality",

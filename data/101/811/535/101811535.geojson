@@ -149,6 +149,9 @@
         "qs_pg:id":1287621
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"0b8335dd13d35391a4cfa1f754c1ea6d",
     "wof:hierarchy":[
         {
@@ -161,7 +164,7 @@
         }
     ],
     "wof:id":101811535,
-    "wof:lastmodified":1566611870,
+    "wof:lastmodified":1582345552,
     "wof:name":"Vaux-sur-S\u00fbre",
     "wof:parent_id":102049915,
     "wof:placetype":"locality",

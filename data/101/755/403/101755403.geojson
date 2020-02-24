@@ -58,6 +58,9 @@
         "qs_pg:id":460145
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"38566fbec77394ab7892ba6dd05536fa",
     "wof:hierarchy":[
         {
@@ -71,7 +74,7 @@
         }
     ],
     "wof:id":101755403,
-    "wof:lastmodified":1566611850,
+    "wof:lastmodified":1582345548,
     "wof:name":"Kwade Hoek",
     "wof:parent_id":1108830125,
     "wof:placetype":"locality",

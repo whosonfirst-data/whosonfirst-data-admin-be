@@ -79,6 +79,9 @@
         "wd:id":"Q406010"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"f88efef66524847169962a19dc7b638d",
     "wof:hierarchy":[
         {
@@ -92,7 +95,7 @@
         }
     ],
     "wof:id":101913589,
-    "wof:lastmodified":1566611902,
+    "wof:lastmodified":1582345557,
     "wof:name":"Donk",
     "wof:parent_id":1108830495,
     "wof:placetype":"locality",

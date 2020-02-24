@@ -160,6 +160,9 @@
         "wk:page":"Pittem"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"117e6a306af3e74414698a755a322bbe",
     "wof:hierarchy":[
         {
@@ -176,7 +179,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1566611953,
+    "wof:lastmodified":1582345566,
     "wof:name":"Pittem",
     "wof:parent_id":1108830635,
     "wof:placetype":"locality",

@@ -51,6 +51,9 @@
         "qs_pg:id":186740
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"68e1af58ae59492662d8bf07c73f78d8",
     "wof:hierarchy":[
         {
@@ -63,7 +66,7 @@
         }
     ],
     "wof:id":101811435,
-    "wof:lastmodified":1566611876,
+    "wof:lastmodified":1582345553,
     "wof:name":"Autreppe",
     "wof:parent_id":102049933,
     "wof:placetype":"locality",

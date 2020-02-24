@@ -79,6 +79,9 @@
         "wk:page":"Bottelare"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"2a9a3c09ec2832d55a64476a1291a758",
     "wof:hierarchy":[
         {
@@ -92,7 +95,7 @@
         }
     ],
     "wof:id":101755689,
-    "wof:lastmodified":1566611816,
+    "wof:lastmodified":1582345542,
     "wof:name":"Bottelare",
     "wof:parent_id":1108830115,
     "wof:placetype":"locality",

@@ -55,6 +55,9 @@
         "qs_pg:id":1213591
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"cdef40e985691e3c06f913499e1ba2bc",
     "wof:hierarchy":[
         {
@@ -68,7 +71,7 @@
         }
     ],
     "wof:id":101838895,
-    "wof:lastmodified":1566611920,
+    "wof:lastmodified":1582345560,
     "wof:name":"Moortsele",
     "wof:parent_id":1108830191,
     "wof:placetype":"locality",

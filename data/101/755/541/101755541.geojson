@@ -136,6 +136,9 @@
         "wk:page":"Linkebeek"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"b1e67d489dcf457ffd28e83dc5f8a132",
     "wof:hierarchy":[
         {
@@ -149,7 +152,7 @@
         }
     ],
     "wof:id":101755541,
-    "wof:lastmodified":1561831407,
+    "wof:lastmodified":1582345548,
     "wof:name":"Linkebeek",
     "wof:parent_id":1108830473,
     "wof:placetype":"locality",

@@ -170,6 +170,9 @@
         "wd:id":"Q736097"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"96c11dd06c6a7677f4bfbd90eb5d6ae7",
     "wof:hierarchy":[
         {
@@ -183,7 +186,7 @@
         }
     ],
     "wof:id":101838687,
-    "wof:lastmodified":1566611920,
+    "wof:lastmodified":1582345560,
     "wof:name":"Riemst",
     "wof:parent_id":1108830103,
     "wof:placetype":"locality",

@@ -153,6 +153,9 @@
         "wk:page":"Anderlues"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"8233f51de76039f96ecf4f9f6d8f5bdb",
     "wof:hierarchy":[
         {
@@ -168,7 +171,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1566611848,
+    "wof:lastmodified":1582345547,
     "wof:name":"Anderlues",
     "wof:parent_id":102049923,
     "wof:placetype":"locality",

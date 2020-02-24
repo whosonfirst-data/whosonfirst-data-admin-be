@@ -68,6 +68,9 @@
         "wd:id":"Q3196450"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"5a598b1e6f91cfcfaa50db4f190fb7bf",
     "wof:hierarchy":[
         {
@@ -81,7 +84,7 @@
         }
     ],
     "wof:id":101838981,
-    "wof:lastmodified":1566611937,
+    "wof:lastmodified":1582345563,
     "wof:name":"Kieldrecht",
     "wof:parent_id":1108830621,
     "wof:placetype":"locality",

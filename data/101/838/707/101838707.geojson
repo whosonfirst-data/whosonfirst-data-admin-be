@@ -84,6 +84,9 @@
         "wd:id":"Q377429"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"0f1da1fc0726ab11c7542fcf0946d600",
     "wof:hierarchy":[
         {
@@ -97,7 +100,7 @@
         }
     ],
     "wof:id":101838707,
-    "wof:lastmodified":1566611917,
+    "wof:lastmodified":1582345559,
     "wof:name":"Moen",
     "wof:parent_id":1108830095,
     "wof:placetype":"locality",

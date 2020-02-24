@@ -172,6 +172,9 @@
         "wk:page":"Zottegem"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"4f79e86c07cb25b1b4230ebf68ac880b",
     "wof:hierarchy":[
         {
@@ -188,7 +191,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1566611958,
+    "wof:lastmodified":1582345567,
     "wof:name":"Zottegem",
     "wof:parent_id":1108830019,
     "wof:placetype":"locality",

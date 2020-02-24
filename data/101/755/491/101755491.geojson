@@ -81,6 +81,9 @@
         "wk:page":"Vlezenbeek"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"1047896d2ec93c0566cc0e49e241009a",
     "wof:hierarchy":[
         {
@@ -94,7 +97,7 @@
         }
     ],
     "wof:id":101755491,
-    "wof:lastmodified":1566611825,
+    "wof:lastmodified":1582345544,
     "wof:name":"Vlezenbeek",
     "wof:parent_id":1108830529,
     "wof:placetype":"locality",

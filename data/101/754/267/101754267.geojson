@@ -85,6 +85,9 @@
         "wd:id":"Q934704"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"55efe544217ffc660da2d5e3bfeeed97",
     "wof:hierarchy":[
         {
@@ -97,7 +100,7 @@
         }
     ],
     "wof:id":101754267,
-    "wof:lastmodified":1566611861,
+    "wof:lastmodified":1582345550,
     "wof:name":"Trazegnies",
     "wof:parent_id":102049927,
     "wof:placetype":"locality",

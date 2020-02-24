@@ -83,6 +83,9 @@
         "wd:id":"Q1963590"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"1d2c10e02e1343e58be1d69103faf066",
     "wof:hierarchy":[
         {
@@ -96,7 +99,7 @@
         }
     ],
     "wof:id":101809271,
-    "wof:lastmodified":1566611949,
+    "wof:lastmodified":1582345565,
     "wof:name":"Geluwe",
     "wof:parent_id":1108830187,
     "wof:placetype":"locality",

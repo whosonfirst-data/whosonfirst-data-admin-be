@@ -73,6 +73,9 @@
         "wd:id":"Q2852722"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"4332b20c2baf319cab81abf3a3c5584c",
     "wof:hierarchy":[
         {
@@ -85,7 +88,7 @@
         }
     ],
     "wof:id":101755041,
-    "wof:lastmodified":1566611814,
+    "wof:lastmodified":1582345542,
     "wof:name":"Antheit",
     "wof:parent_id":102049925,
     "wof:placetype":"locality",

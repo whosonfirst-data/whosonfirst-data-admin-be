@@ -146,6 +146,9 @@
         "wd:id":"Q219827"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"d249422c85349336d610c86794b406cb",
     "wof:hierarchy":[
         {
@@ -162,7 +165,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1566611954,
+    "wof:lastmodified":1582345566,
     "wof:name":"Zomergem",
     "wof:parent_id":1108830371,
     "wof:placetype":"locality",

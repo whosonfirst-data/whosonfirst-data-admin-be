@@ -153,6 +153,9 @@
         "qs_pg:id":1285760
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"0d88d7a256117fa8facfae6c83e968cd",
     "wof:hierarchy":[
         {
@@ -166,7 +169,7 @@
         }
     ],
     "wof:id":101810559,
-    "wof:lastmodified":1566611879,
+    "wof:lastmodified":1582345554,
     "wof:name":"Bever",
     "wof:parent_id":1108830485,
     "wof:placetype":"locality",

@@ -175,6 +175,9 @@
         "wd:id":"Q499532"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"8808210f8dd7bcac317322048ac06097",
     "wof:hierarchy":[
         {
@@ -191,7 +194,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1566611925,
+    "wof:lastmodified":1582345561,
     "wof:name":"Geraardsbergen",
     "wof:parent_id":1108830521,
     "wof:placetype":"locality",

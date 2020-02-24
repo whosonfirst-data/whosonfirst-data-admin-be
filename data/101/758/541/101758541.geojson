@@ -156,6 +156,9 @@
         "wk:page":"Puurs"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"0b4dd565a9853af1d3a8ecb2e8696966",
     "wof:hierarchy":[
         {
@@ -169,7 +172,7 @@
         }
     ],
     "wof:id":101758541,
-    "wof:lastmodified":1566611909,
+    "wof:lastmodified":1582345558,
     "wof:name":"Puurs",
     "wof:parent_id":1108830309,
     "wof:placetype":"locality",

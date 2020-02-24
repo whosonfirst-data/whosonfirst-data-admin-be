@@ -74,6 +74,9 @@
         "wd:id":"Q1990660"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"1a035026fc41e26ab2962fb4660c1b55",
     "wof:hierarchy":[
         {
@@ -87,7 +90,7 @@
         }
     ],
     "wof:id":101755315,
-    "wof:lastmodified":1566611827,
+    "wof:lastmodified":1582345544,
     "wof:name":"Hulste",
     "wof:parent_id":1108830099,
     "wof:placetype":"locality",

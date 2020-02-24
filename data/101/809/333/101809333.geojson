@@ -93,6 +93,9 @@
         "wk:page":"Wakken"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"8786b4510a035559c5e3b3e7f732a0fb",
     "wof:hierarchy":[
         {
@@ -106,7 +109,7 @@
         }
     ],
     "wof:id":101809333,
-    "wof:lastmodified":1566611947,
+    "wof:lastmodified":1582345565,
     "wof:name":"Wakken",
     "wof:parent_id":1108830197,
     "wof:placetype":"locality",

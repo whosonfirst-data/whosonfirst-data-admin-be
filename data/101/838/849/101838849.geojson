@@ -190,6 +190,9 @@
         "wk:page":"Beringen, Belgium"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"f15b451105cb317470c961a979fcbaa3",
     "wof:hierarchy":[
         {
@@ -203,7 +206,7 @@
         }
     ],
     "wof:id":101838849,
-    "wof:lastmodified":1566611931,
+    "wof:lastmodified":1582345562,
     "wof:name":"Beringen",
     "wof:parent_id":1108830613,
     "wof:placetype":"locality",

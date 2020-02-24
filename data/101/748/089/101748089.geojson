@@ -318,6 +318,9 @@
         "wk:page":"Leuven"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"bf0790127de27b08b64419909bcfc863",
     "wof:hierarchy":[
         {
@@ -334,7 +337,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1566611895,
+    "wof:lastmodified":1582345557,
     "wof:name":"Leuven",
     "wof:parent_id":1108830125,
     "wof:placetype":"locality",

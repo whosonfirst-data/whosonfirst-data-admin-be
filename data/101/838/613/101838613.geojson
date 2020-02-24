@@ -166,6 +166,9 @@
         "wk:page":"Poperinge"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"c3070f3032522985afa07d279a1f8ee6",
     "wof:hierarchy":[
         {
@@ -182,7 +185,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1566611929,
+    "wof:lastmodified":1582345561,
     "wof:name":"Poperinge",
     "wof:parent_id":1108830029,
     "wof:placetype":"locality",

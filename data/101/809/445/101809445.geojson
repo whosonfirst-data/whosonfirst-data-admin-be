@@ -166,6 +166,9 @@
         "wk:page":"Zedelgem"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"6ad9876143dc6a49f665cd64552d1d33",
     "wof:hierarchy":[
         {
@@ -182,7 +185,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1566611950,
+    "wof:lastmodified":1582345565,
     "wof:name":"Zedelgem",
     "wof:parent_id":1108830317,
     "wof:placetype":"locality",

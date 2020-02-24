@@ -141,6 +141,9 @@
         "wd:id":"Q984877"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"74d123a73946d90c49bac604382185ac",
     "wof:hierarchy":[
         {
@@ -154,7 +157,7 @@
         }
     ],
     "wof:id":101809259,
-    "wof:lastmodified":1566611943,
+    "wof:lastmodified":1582345564,
     "wof:name":"Kortenaken",
     "wof:parent_id":1108830345,
     "wof:placetype":"locality",

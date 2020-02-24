@@ -71,6 +71,9 @@
         "wd:id":"Q2491402"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"eb28e5d5f3e0481a629553b5928af095",
     "wof:hierarchy":[
         {
@@ -84,7 +87,7 @@
         }
     ],
     "wof:id":101838689,
-    "wof:lastmodified":1566611919,
+    "wof:lastmodified":1582345560,
     "wof:name":"Herderen",
     "wof:parent_id":1108830103,
     "wof:placetype":"locality",

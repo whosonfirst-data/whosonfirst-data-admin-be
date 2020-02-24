@@ -71,6 +71,9 @@
         "wd:id":"Q1861723"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"2d90630e9b808a0cdd27dd47ded422e9",
     "wof:hierarchy":[
         {
@@ -84,7 +87,7 @@
         }
     ],
     "wof:id":101809297,
-    "wof:lastmodified":1566611952,
+    "wof:lastmodified":1582345566,
     "wof:name":"Dadizele",
     "wof:parent_id":1108830667,
     "wof:placetype":"locality",

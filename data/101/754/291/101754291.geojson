@@ -70,6 +70,9 @@
         "wd:id":"Q2692740"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"aa5b385b95195b00b0233c5d6f27b937",
     "wof:hierarchy":[
         {
@@ -82,7 +85,7 @@
         }
     ],
     "wof:id":101754291,
-    "wof:lastmodified":1566611866,
+    "wof:lastmodified":1582345551,
     "wof:name":"Dottignies",
     "wof:parent_id":1108782559,
     "wof:placetype":"locality",

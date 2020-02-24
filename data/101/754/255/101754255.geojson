@@ -206,6 +206,9 @@
         "wk:page":"Huy"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"6c3bba26f3fd660b36665fc3cf526c6a",
     "wof:hierarchy":[
         {
@@ -221,7 +224,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1566611866,
+    "wof:lastmodified":1582345551,
     "wof:name":"Huy",
     "wof:parent_id":102049925,
     "wof:placetype":"locality",

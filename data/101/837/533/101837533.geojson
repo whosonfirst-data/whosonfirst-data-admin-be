@@ -65,6 +65,9 @@
         "wd:id":"Q74728"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"326dd805e7d97493e07018d952e5967a",
     "wof:hierarchy":[
         {
@@ -78,7 +81,7 @@
         }
     ],
     "wof:id":101837533,
-    "wof:lastmodified":1566611956,
+    "wof:lastmodified":1582345567,
     "wof:name":"Waterschei",
     "wof:parent_id":1108830655,
     "wof:placetype":"locality",

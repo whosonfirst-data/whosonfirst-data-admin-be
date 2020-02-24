@@ -147,6 +147,9 @@
         "wd:id":"Q926110"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"3442b3a776304148c1225d573d995fea",
     "wof:hierarchy":[
         {
@@ -160,7 +163,7 @@
         }
     ],
     "wof:id":101755397,
-    "wof:lastmodified":1566611811,
+    "wof:lastmodified":1582345541,
     "wof:name":"Tremelo",
     "wof:parent_id":1108830035,
     "wof:placetype":"locality",

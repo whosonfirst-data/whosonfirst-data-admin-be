@@ -170,6 +170,9 @@
         "wk:page":"Virton"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"b210dd6ca2b77f748cb0f85f59f1c8e0",
     "wof:hierarchy":[
         {
@@ -185,7 +188,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1566611912,
+    "wof:lastmodified":1582345558,
     "wof:name":"Virton",
     "wof:parent_id":102049907,
     "wof:placetype":"locality",

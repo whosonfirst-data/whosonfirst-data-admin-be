@@ -82,6 +82,9 @@
         "wk:page":"Wijnendale"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"cd71ed5c9f5b66054c7c9dcf39a405ca",
     "wof:hierarchy":[
         {
@@ -95,7 +98,7 @@
         }
     ],
     "wof:id":101839049,
-    "wof:lastmodified":1566611968,
+    "wof:lastmodified":1582345569,
     "wof:name":"Wijnendale",
     "wof:parent_id":1108830333,
     "wof:placetype":"locality",

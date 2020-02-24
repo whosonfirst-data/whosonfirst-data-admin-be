@@ -86,6 +86,9 @@
         "wk:page":"Mere, Belgium"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"065847b40f72189cd68578b3d6394204",
     "wof:hierarchy":[
         {
@@ -99,7 +102,7 @@
         }
     ],
     "wof:id":101755339,
-    "wof:lastmodified":1566611810,
+    "wof:lastmodified":1582345541,
     "wof:name":"Mere",
     "wof:parent_id":1108830215,
     "wof:placetype":"locality",

@@ -69,6 +69,9 @@
         "qs_pg:id":1103154
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"cdb5572dc342a01bce227f37703c80ea",
     "wof:hierarchy":[
         {
@@ -85,7 +88,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1566611088,
+    "wof:lastmodified":1582345517,
     "wof:name":"Eeuwfeestwijk",
     "wof:parent_id":101751573,
     "wof:placetype":"neighbourhood",

@@ -65,6 +65,9 @@
         "wd:id":"Q2430297"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"12a15b67aabc5035ddd0302a2abfbf2d",
     "wof:hierarchy":[
         {
@@ -78,7 +81,7 @@
         }
     ],
     "wof:id":101838803,
-    "wof:lastmodified":1566611921,
+    "wof:lastmodified":1582345560,
     "wof:name":"Berbroek",
     "wof:parent_id":1108830495,
     "wof:placetype":"locality",

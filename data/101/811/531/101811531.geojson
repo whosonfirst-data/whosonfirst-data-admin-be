@@ -159,6 +159,9 @@
         "wd:id":"Q713319"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"a7453b366bfb804956d160798ae3091e",
     "wof:hierarchy":[
         {
@@ -171,7 +174,7 @@
         }
     ],
     "wof:id":101811531,
-    "wof:lastmodified":1566611873,
+    "wof:lastmodified":1582345552,
     "wof:name":"Gouvy",
     "wof:parent_id":102049915,
     "wof:placetype":"locality",

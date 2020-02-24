@@ -188,6 +188,9 @@
         "wk:page":"Nivelles"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"24c69e6dfc56916cadbe065dad915dea",
     "wof:hierarchy":[
         {
@@ -203,7 +206,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1566611923,
+    "wof:lastmodified":1582345560,
     "wof:name":"Nivelles",
     "wof:parent_id":102049945,
     "wof:placetype":"locality",

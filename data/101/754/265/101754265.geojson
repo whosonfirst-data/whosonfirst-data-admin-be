@@ -136,6 +136,9 @@
         "wk:page":"Chapelle-lez-Herlaimont"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"4370b7f05d8f76bdcb9f913076188366",
     "wof:hierarchy":[
         {
@@ -151,7 +154,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1566611866,
+    "wof:lastmodified":1582345551,
     "wof:name":"Chapelle-lez-Herlaimont",
     "wof:parent_id":102049927,
     "wof:placetype":"locality",

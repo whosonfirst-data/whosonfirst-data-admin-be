@@ -87,6 +87,9 @@
         "wk:page":"Westmalle"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"60fa610c0f0f2bc773be670607dd2cb8",
     "wof:hierarchy":[
         {
@@ -103,7 +106,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1566611836,
+    "wof:lastmodified":1582345545,
     "wof:name":"Westmalle",
     "wof:parent_id":1108830005,
     "wof:placetype":"locality",

@@ -177,6 +177,9 @@
         "wd:id":"Q214154"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"5ee75bdbcc1fb2550d1c7e1ea500a57a",
     "wof:hierarchy":[
         {
@@ -193,7 +196,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1566611913,
+    "wof:lastmodified":1582345559,
     "wof:name":"Zonnebeke",
     "wof:parent_id":1108830101,
     "wof:placetype":"locality",

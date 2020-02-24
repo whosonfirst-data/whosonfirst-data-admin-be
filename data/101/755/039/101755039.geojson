@@ -152,6 +152,9 @@
         "wk:page":"Engis"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"10c10fe504aa30082aece9920a940eb0",
     "wof:hierarchy":[
         {
@@ -164,7 +167,7 @@
         }
     ],
     "wof:id":101755039,
-    "wof:lastmodified":1566611825,
+    "wof:lastmodified":1582345544,
     "wof:name":"Engis",
     "wof:parent_id":102049925,
     "wof:placetype":"locality",

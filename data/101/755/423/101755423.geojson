@@ -78,6 +78,9 @@
         "wk:page":"Meerbeek"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"56e689ed96b66ba76b6e2fc5515e7dac",
     "wof:hierarchy":[
         {
@@ -91,7 +94,7 @@
         }
     ],
     "wof:id":101755423,
-    "wof:lastmodified":1566611819,
+    "wof:lastmodified":1582345542,
     "wof:name":"Meerbeek",
     "wof:parent_id":1108830227,
     "wof:placetype":"locality",

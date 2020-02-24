@@ -135,6 +135,9 @@
         "wk:page":"Lede, Belgium"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"d0ef5f0452ff04ebc0622ff6c77b0f1c",
     "wof:hierarchy":[
         {
@@ -148,7 +151,7 @@
         }
     ],
     "wof:id":101809253,
-    "wof:lastmodified":1566611951,
+    "wof:lastmodified":1582345566,
     "wof:name":"Oordegem",
     "wof:parent_id":1108830331,
     "wof:placetype":"locality",

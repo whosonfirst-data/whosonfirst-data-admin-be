@@ -115,6 +115,9 @@
         "wk:page":"Koolkerke"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"27ee590dbe575b1f9725a4a75f8e0046",
     "wof:hierarchy":[
         {
@@ -131,7 +134,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1566611094,
+    "wof:lastmodified":1582345519,
     "wof:name":"Coolkerke",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -67,6 +67,9 @@
         "wd:id":"Q1867567"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"8dc2570051f464cf934f3daf2ae88fed",
     "wof:hierarchy":[
         {
@@ -79,7 +82,7 @@
         }
     ],
     "wof:id":101838667,
-    "wof:lastmodified":1566611921,
+    "wof:lastmodified":1582345560,
     "wof:name":"Amougies",
     "wof:parent_id":102049951,
     "wof:placetype":"locality",

@@ -175,6 +175,9 @@
         "wk:page":"Durbuy"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"cab430258d4f10c681b2290a456ee5c7",
     "wof:hierarchy":[
         {
@@ -187,7 +190,7 @@
         }
     ],
     "wof:id":101839741,
-    "wof:lastmodified":1566611972,
+    "wof:lastmodified":1582345569,
     "wof:name":"Durbuy",
     "wof:parent_id":102049921,
     "wof:placetype":"locality",

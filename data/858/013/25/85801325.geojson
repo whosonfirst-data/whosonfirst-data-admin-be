@@ -221,6 +221,9 @@
         "wk:page":"Jette"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"6792aa65616146f427c5535651b160ce",
     "wof:hierarchy":[
         {
@@ -237,7 +240,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1566611077,
+    "wof:lastmodified":1582345515,
     "wof:name":"Jette",
     "wof:parent_id":101751573,
     "wof:placetype":"neighbourhood",

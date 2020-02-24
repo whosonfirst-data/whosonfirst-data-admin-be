@@ -147,6 +147,9 @@
         "wk:page":"Manage, Belgium"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"ae4b4126606b09fda2d66bdb283da6b5",
     "wof:hierarchy":[
         {
@@ -162,7 +165,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1566611837,
+    "wof:lastmodified":1582345546,
     "wof:name":"Manage",
     "wof:parent_id":102049927,
     "wof:placetype":"locality",

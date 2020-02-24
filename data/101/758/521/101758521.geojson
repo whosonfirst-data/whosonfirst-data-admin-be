@@ -156,6 +156,9 @@
         "wk:page":"Chaudfontaine"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"16d246cb3c708305cb69a0e18119e6d3",
     "wof:hierarchy":[
         {
@@ -171,7 +174,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1566611908,
+    "wof:lastmodified":1582345558,
     "wof:name":"Chaudfontaine",
     "wof:parent_id":102049941,
     "wof:placetype":"locality",

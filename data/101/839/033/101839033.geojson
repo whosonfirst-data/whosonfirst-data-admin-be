@@ -72,6 +72,9 @@
         "wd:id":"Q2006454"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"3dbb3975685590ea5a96718c291b01cf",
     "wof:hierarchy":[
         {
@@ -85,7 +88,7 @@
         }
     ],
     "wof:id":101839033,
-    "wof:lastmodified":1566611977,
+    "wof:lastmodified":1582345570,
     "wof:name":"Westkerke",
     "wof:parent_id":1108830363,
     "wof:placetype":"locality",

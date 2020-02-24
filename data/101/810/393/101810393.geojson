@@ -51,6 +51,9 @@
         "qs_pg:id":1157966
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"db0f13fd1e78f8aab0bce6d85e39851f",
     "wof:hierarchy":[
         {
@@ -63,7 +66,7 @@
         }
     ],
     "wof:id":101810393,
-    "wof:lastmodified":1566611887,
+    "wof:lastmodified":1582345555,
     "wof:name":"Sart d'Avril",
     "wof:parent_id":102049931,
     "wof:placetype":"locality",

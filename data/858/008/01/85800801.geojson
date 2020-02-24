@@ -72,6 +72,9 @@
         "qs_pg:id":530721
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"51e6f1739bf9fc7a8df5f96ffb5181e4",
     "wof:hierarchy":[
         {
@@ -89,7 +92,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1566611083,
+    "wof:lastmodified":1582345516,
     "wof:name":"Belfont Hallen",
     "wof:parent_id":101748097,
     "wof:placetype":"neighbourhood",

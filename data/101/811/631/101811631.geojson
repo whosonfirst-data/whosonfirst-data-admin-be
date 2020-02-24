@@ -149,6 +149,9 @@
         "wk:page":"Manhay"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"6a19eeda19b92b7d3b73aa5cd0a541ea",
     "wof:hierarchy":[
         {
@@ -161,7 +164,7 @@
         }
     ],
     "wof:id":101811631,
-    "wof:lastmodified":1566611876,
+    "wof:lastmodified":1582345553,
     "wof:name":"Manhay",
     "wof:parent_id":102049921,
     "wof:placetype":"locality",

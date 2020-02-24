@@ -546,6 +546,9 @@
         "wk:page":"Antwerp"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"44dff699527317dabcf13cd766fd5b7f",
     "wof:hierarchy":[
         {
@@ -562,7 +565,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1566611894,
+    "wof:lastmodified":1582345557,
     "wof:megacity":1,
     "wof:name":"Antwerpen",
     "wof:parent_id":1108830423,

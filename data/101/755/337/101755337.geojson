@@ -66,6 +66,9 @@
         "wk:page":"Aalst, Belgium"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"c5415008ae1206fa06c9a31ab3613b0d",
     "wof:hierarchy":[
         {
@@ -79,7 +82,7 @@
         }
     ],
     "wof:id":101755337,
-    "wof:lastmodified":1566611809,
+    "wof:lastmodified":1582345541,
     "wof:name":"Nieuwerkerken",
     "wof:parent_id":1108830515,
     "wof:placetype":"locality",

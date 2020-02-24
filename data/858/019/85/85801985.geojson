@@ -70,6 +70,9 @@
         "gp:id":978679
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"d9366b326bc11ae60323d059bc7f06fa",
     "wof:hierarchy":[
         {
@@ -86,7 +89,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1566611097,
+    "wof:lastmodified":1582345519,
     "wof:name":"Waroux",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

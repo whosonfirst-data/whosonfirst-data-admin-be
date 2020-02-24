@@ -70,6 +70,9 @@
         "wd:id":"Q2628902"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"044ea6cc3250ed81fd1942b001ebde91",
     "wof:hierarchy":[
         {
@@ -82,7 +85,7 @@
         }
     ],
     "wof:id":101811511,
-    "wof:lastmodified":1566611872,
+    "wof:lastmodified":1582345552,
     "wof:name":"Amberloup",
     "wof:parent_id":102049915,
     "wof:placetype":"locality",

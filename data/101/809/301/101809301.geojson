@@ -81,6 +81,9 @@
         "wk:page":"Oostnieuwkerke"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"1f9ed4d0e83b10ac1d860d99aacceb60",
     "wof:hierarchy":[
         {
@@ -94,7 +97,7 @@
         }
     ],
     "wof:id":101809301,
-    "wof:lastmodified":1566611939,
+    "wof:lastmodified":1582345563,
     "wof:name":"Oostnieuwkerke",
     "wof:parent_id":1108830315,
     "wof:placetype":"locality",

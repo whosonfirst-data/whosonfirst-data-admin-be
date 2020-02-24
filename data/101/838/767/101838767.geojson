@@ -63,6 +63,9 @@
         "wk:page":"Boekt"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"d72b718e371700651f748d33fba7bc0c",
     "wof:hierarchy":[
         {
@@ -76,7 +79,7 @@
         }
     ],
     "wof:id":101838767,
-    "wof:lastmodified":1566611927,
+    "wof:lastmodified":1582345561,
     "wof:name":"Boekt",
     "wof:parent_id":1108830323,
     "wof:placetype":"locality",

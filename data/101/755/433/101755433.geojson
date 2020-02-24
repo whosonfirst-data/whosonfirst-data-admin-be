@@ -80,6 +80,9 @@
         "wk:page":"Korbeek-Lo"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"d00de3cd6c54a10c84ef48b6bda00251",
     "wof:hierarchy":[
         {
@@ -93,7 +96,7 @@
         }
     ],
     "wof:id":101755433,
-    "wof:lastmodified":1566611847,
+    "wof:lastmodified":1582345547,
     "wof:name":"Korbeek-Lo",
     "wof:parent_id":1108830409,
     "wof:placetype":"locality",

@@ -84,6 +84,9 @@
         "wd:id":"Q1926023"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"eac3c4cb09d4ac964972db6d7cbcf01d",
     "wof:hierarchy":[
         {
@@ -97,7 +100,7 @@
         }
     ],
     "wof:id":101838899,
-    "wof:lastmodified":1566611934,
+    "wof:lastmodified":1582345562,
     "wof:name":"Eke",
     "wof:parent_id":1108830601,
     "wof:placetype":"locality",

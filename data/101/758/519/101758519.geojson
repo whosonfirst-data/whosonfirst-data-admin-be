@@ -75,6 +75,9 @@
         "qs_pg:id":1286176
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"3011145bc42aa346226f36af0fefe5ec",
     "wof:hierarchy":[
         {
@@ -87,7 +90,7 @@
         }
     ],
     "wof:id":101758519,
-    "wof:lastmodified":1566611908,
+    "wof:lastmodified":1582345558,
     "wof:name":"Bruy\u00e8re la Haute",
     "wof:parent_id":102049923,
     "wof:placetype":"locality",

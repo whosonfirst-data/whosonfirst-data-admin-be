@@ -79,6 +79,9 @@
         "qs:id":186900
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"297b04c9e0978b178e71d803fd5a9ff6",
     "wof:hierarchy":[
         {
@@ -95,7 +98,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1534379234,
+    "wof:lastmodified":1582345515,
     "wof:name":"Kalevoet",
     "wof:parent_id":101913251,
     "wof:placetype":"neighbourhood",

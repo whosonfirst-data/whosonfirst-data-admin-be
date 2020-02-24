@@ -52,6 +52,9 @@
         "qs_pg:id":340104
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"3fec813ad053f5d2fdf103723ac44c50",
     "wof:hierarchy":[
         {
@@ -65,7 +68,7 @@
         }
     ],
     "wof:id":101755591,
-    "wof:lastmodified":1566611835,
+    "wof:lastmodified":1582345545,
     "wof:name":"Opstal",
     "wof:parent_id":1108830107,
     "wof:placetype":"locality",

@@ -85,6 +85,10 @@
         "wd:id":"Q2286053"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"b1f2748165abb49cefe99dc61be30e7c",
     "wof:hierarchy":[
         {
@@ -102,7 +106,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1566611089,
+    "wof:lastmodified":1582345518,
     "wof:name":"Flanders Expo",
     "wof:parent_id":101748093,
     "wof:placetype":"neighbourhood",

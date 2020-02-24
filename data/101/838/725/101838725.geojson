@@ -52,6 +52,9 @@
         "qs_pg:id":191790
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"845815e0ea30f16cd1aee57241e03408",
     "wof:hierarchy":[
         {
@@ -65,7 +68,7 @@
         }
     ],
     "wof:id":101838725,
-    "wof:lastmodified":1566611923,
+    "wof:lastmodified":1582345560,
     "wof:name":"Borsbeke",
     "wof:parent_id":1108830361,
     "wof:placetype":"locality",

@@ -165,6 +165,9 @@
         "wd:id":"Q815948"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"45850a3879b77a55b821d987078a50ba",
     "wof:hierarchy":[
         {
@@ -181,7 +184,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1566611977,
+    "wof:lastmodified":1582345570,
     "wof:name":"Gistel",
     "wof:parent_id":1108830575,
     "wof:placetype":"locality",

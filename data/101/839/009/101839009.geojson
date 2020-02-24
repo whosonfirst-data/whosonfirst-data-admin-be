@@ -72,6 +72,9 @@
         "wd:id":"Q2284330"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"1d5e065914c64e1fbfe186ffb40423b2",
     "wof:hierarchy":[
         {
@@ -85,7 +88,7 @@
         }
     ],
     "wof:id":101839009,
-    "wof:lastmodified":1566611969,
+    "wof:lastmodified":1582345569,
     "wof:name":"Haasdonk",
     "wof:parent_id":1108830621,
     "wof:placetype":"locality",

@@ -68,6 +68,9 @@
         "wd:id":"Q3086689"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"09da865b84b84e3606e9c4565b2200f3",
     "wof:hierarchy":[
         {
@@ -80,7 +83,7 @@
         }
     ],
     "wof:id":101810387,
-    "wof:lastmodified":1566611892,
+    "wof:lastmodified":1582345556,
     "wof:name":"Frasnes-lez-Gosselies",
     "wof:parent_id":102049927,
     "wof:placetype":"locality",

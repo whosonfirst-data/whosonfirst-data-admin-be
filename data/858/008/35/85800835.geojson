@@ -166,6 +166,10 @@
         "wk:page":"Beyne-Heusay"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"8fbad96246478f7eef459447ebf3d3a1",
     "wof:hierarchy":[
         {
@@ -182,7 +186,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1566611082,
+    "wof:lastmodified":1582345516,
     "wof:name":"Beyne-Heusay",
     "wof:parent_id":101748083,
     "wof:placetype":"neighbourhood",

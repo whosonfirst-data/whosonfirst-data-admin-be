@@ -87,6 +87,9 @@
         "wd:id":"Q1871450"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"c61ded8774cd230f0b0ae410b94bf964",
     "wof:hierarchy":[
         {
@@ -103,7 +106,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1566611836,
+    "wof:lastmodified":1582345546,
     "wof:name":"Vremde",
     "wof:parent_id":1108830201,
     "wof:placetype":"locality",

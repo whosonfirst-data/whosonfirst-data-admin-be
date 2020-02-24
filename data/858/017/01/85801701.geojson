@@ -84,6 +84,10 @@
         "qs_pg:id":410908
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"b68b0763bc87175544f17f2f2ab96a42",
     "wof:hierarchy":[
         {
@@ -101,7 +105,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1566611093,
+    "wof:lastmodified":1582345518,
     "wof:name":"Ophem",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

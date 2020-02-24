@@ -138,6 +138,9 @@
         "wk:page":"Bierbeek"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"9bb49dd960032c57bc734e8a2254ca65",
     "wof:hierarchy":[
         {
@@ -151,7 +154,7 @@
         }
     ],
     "wof:id":101755365,
-    "wof:lastmodified":1566611808,
+    "wof:lastmodified":1582345541,
     "wof:name":"Bierbeek",
     "wof:parent_id":1108830409,
     "wof:placetype":"locality",

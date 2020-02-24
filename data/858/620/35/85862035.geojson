@@ -72,6 +72,9 @@
         "wd:id":"Q12012813"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"9075854cafa5576fcc2265b52d2ef47c",
     "wof:hierarchy":[
         {
@@ -89,7 +92,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1566611078,
+    "wof:lastmodified":1582345515,
     "wof:name":"Ekkergem",
     "wof:parent_id":101748093,
     "wof:placetype":"neighbourhood",

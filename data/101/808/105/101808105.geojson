@@ -92,6 +92,9 @@
         "wd:id":"Q28671"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"4be766d1329809cd7f625b92ad040ed2",
     "wof:hierarchy":[
         {
@@ -107,7 +110,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1566611963,
+    "wof:lastmodified":1582345568,
     "wof:name":"Warsage",
     "wof:parent_id":102049941,
     "wof:placetype":"locality",

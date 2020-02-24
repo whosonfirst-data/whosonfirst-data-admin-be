@@ -211,6 +211,9 @@
         "wk:page":"Waregem"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"f4d438490fb02475f290718886c99675",
     "wof:hierarchy":[
         {
@@ -227,7 +230,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1566611867,
+    "wof:lastmodified":1582345551,
     "wof:name":"Waregem",
     "wof:parent_id":1108830341,
     "wof:placetype":"locality",

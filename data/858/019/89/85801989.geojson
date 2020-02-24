@@ -185,6 +185,9 @@
         "wd:id":"Q272262"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"304598b7d4f805039d52a96b3f612d4a",
     "wof:hierarchy":[
         {
@@ -201,7 +204,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1566611096,
+    "wof:lastmodified":1582345519,
     "wof:name":"Watermael",
     "wof:parent_id":101751573,
     "wof:placetype":"neighbourhood",

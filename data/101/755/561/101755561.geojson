@@ -74,6 +74,9 @@
         "wd:id":"Q2333747"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"a954c6247a738f9d02db1d6db8704185",
     "wof:hierarchy":[
         {
@@ -87,7 +90,7 @@
         }
     ],
     "wof:id":101755561,
-    "wof:lastmodified":1566611810,
+    "wof:lastmodified":1582345541,
     "wof:name":"Kachtem",
     "wof:parent_id":1108830151,
     "wof:placetype":"locality",

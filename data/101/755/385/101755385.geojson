@@ -73,6 +73,9 @@
         "wk:page":"Zichem"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"f4b07c7d0297e9e21ede29d6885c1b37",
     "wof:hierarchy":[
         {
@@ -86,7 +89,7 @@
         }
     ],
     "wof:id":101755385,
-    "wof:lastmodified":1566611828,
+    "wof:lastmodified":1582345544,
     "wof:name":"Zichem",
     "wof:parent_id":1108830367,
     "wof:placetype":"locality",

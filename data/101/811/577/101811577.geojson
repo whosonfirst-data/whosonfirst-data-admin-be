@@ -164,6 +164,9 @@
         "wk:page":"Couvin"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"df788d071f8fb65d71682dba8b9763d6",
     "wof:hierarchy":[
         {
@@ -176,7 +179,7 @@
         }
     ],
     "wof:id":101811577,
-    "wof:lastmodified":1566611877,
+    "wof:lastmodified":1582345553,
     "wof:name":"Couvin",
     "wof:parent_id":102049917,
     "wof:placetype":"locality",

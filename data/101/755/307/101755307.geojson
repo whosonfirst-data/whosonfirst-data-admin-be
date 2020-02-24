@@ -91,6 +91,9 @@
         "wk:page":"Marke, Belgium"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"435caa0ad0ceab29a56062ac8708dff7",
     "wof:hierarchy":[
         {
@@ -104,7 +107,7 @@
         }
     ],
     "wof:id":101755307,
-    "wof:lastmodified":1566611806,
+    "wof:lastmodified":1582345541,
     "wof:name":"Marke",
     "wof:parent_id":1108830299,
     "wof:placetype":"locality",

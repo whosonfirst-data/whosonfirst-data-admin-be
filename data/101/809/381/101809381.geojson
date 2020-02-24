@@ -71,6 +71,9 @@
         "wd:id":"Q3474975"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"369b15a685a3e54b8ff7faeeb4519d68",
     "wof:hierarchy":[
         {
@@ -84,7 +87,7 @@
         }
     ],
     "wof:id":101809381,
-    "wof:lastmodified":1566611954,
+    "wof:lastmodified":1582345566,
     "wof:name":"Bellem",
     "wof:parent_id":1108830383,
     "wof:placetype":"locality",

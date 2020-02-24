@@ -76,6 +76,9 @@
         "wk:page":"Ertvelde"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"e2f0f877a6ff9453dd3f64b91e4f455f",
     "wof:hierarchy":[
         {
@@ -89,7 +92,7 @@
         }
     ],
     "wof:id":101838877,
-    "wof:lastmodified":1566611929,
+    "wof:lastmodified":1582345561,
     "wof:name":"Ertvelde",
     "wof:parent_id":1108830413,
     "wof:placetype":"locality",

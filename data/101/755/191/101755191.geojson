@@ -146,6 +146,9 @@
         "wk:page":"Dalhem"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"dbf3d7e99bbd24f05a169ee3273701b4",
     "wof:hierarchy":[
         {
@@ -161,7 +164,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1566611832,
+    "wof:lastmodified":1582345545,
     "wof:name":"Dalhem",
     "wof:parent_id":102049941,
     "wof:placetype":"locality",

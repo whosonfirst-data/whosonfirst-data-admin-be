@@ -158,6 +158,9 @@
         "wk:page":"Jodoigne"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"f51f394f2957857b6ab3e67e86b53485",
     "wof:hierarchy":[
         {
@@ -170,7 +173,7 @@
         }
     ],
     "wof:id":101810501,
-    "wof:lastmodified":1566611886,
+    "wof:lastmodified":1582345555,
     "wof:name":"Jodoigne",
     "wof:parent_id":102049945,
     "wof:placetype":"locality",

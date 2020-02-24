@@ -68,6 +68,9 @@
         "wd:id":"Q2858703"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"43dadc7d74601ecbaa2ccc42a09dea9d",
     "wof:hierarchy":[
         {
@@ -81,7 +84,7 @@
         }
     ],
     "wof:id":101755343,
-    "wof:lastmodified":1566611857,
+    "wof:lastmodified":1582345549,
     "wof:name":"Appelterre-Eichem",
     "wof:parent_id":1108830521,
     "wof:placetype":"locality",

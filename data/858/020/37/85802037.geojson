@@ -71,6 +71,10 @@
         "qs_pg:id":1104407
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"436499d2b2324636cda546c8006a3c0c",
     "wof:hierarchy":[
         {
@@ -88,7 +92,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1566611084,
+    "wof:lastmodified":1582345517,
     "wof:name":"Zwarte Poort",
     "wof:parent_id":101755547,
     "wof:placetype":"neighbourhood",

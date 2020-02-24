@@ -210,6 +210,9 @@
         "wk:page":"Turnhout"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"fdf3b52101ae891bc30492d3c7dc3897",
     "wof:hierarchy":[
         {
@@ -226,7 +229,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1566611961,
+    "wof:lastmodified":1582345567,
     "wof:name":"Turnhout",
     "wof:parent_id":1108830691,
     "wof:placetype":"locality",

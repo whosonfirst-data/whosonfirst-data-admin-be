@@ -68,6 +68,9 @@
         "wd:id":"Q2791739"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"db05da1b5237000e34c5da315568e921",
     "wof:hierarchy":[
         {
@@ -81,7 +84,7 @@
         }
     ],
     "wof:id":101838711,
-    "wof:lastmodified":1566611937,
+    "wof:lastmodified":1582345563,
     "wof:name":"Etikhove",
     "wof:parent_id":1108830139,
     "wof:placetype":"locality",

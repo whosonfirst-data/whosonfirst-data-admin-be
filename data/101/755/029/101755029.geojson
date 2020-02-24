@@ -65,6 +65,9 @@
         "wd:id":"Q3427828"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"9a1b934f3b7e2d6783d7cc42af9911ca",
     "wof:hierarchy":[
         {
@@ -77,7 +80,7 @@
         }
     ],
     "wof:id":101755029,
-    "wof:lastmodified":1566611840,
+    "wof:lastmodified":1582345546,
     "wof:name":"Ressaix",
     "wof:parent_id":102049923,
     "wof:placetype":"locality",

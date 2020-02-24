@@ -65,6 +65,9 @@
         "wd:id":"Q2142073"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"8fc240b0b14dcc0bca2e31a31243f414",
     "wof:hierarchy":[
         {
@@ -77,7 +80,7 @@
         }
     ],
     "wof:id":101810369,
-    "wof:lastmodified":1566611886,
+    "wof:lastmodified":1582345555,
     "wof:name":"Soheit-Tinlot",
     "wof:parent_id":102049925,
     "wof:placetype":"locality",

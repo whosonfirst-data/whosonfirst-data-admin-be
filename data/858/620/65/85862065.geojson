@@ -103,6 +103,10 @@
         "qs_pg:id":895785
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"e2a068468e6816ce752054d9e0b9fa72",
     "wof:hierarchy":[
         {
@@ -119,7 +123,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1566611079,
+    "wof:lastmodified":1582345515,
     "wof:name":"Jonfosse",
     "wof:parent_id":101748083,
     "wof:placetype":"neighbourhood",

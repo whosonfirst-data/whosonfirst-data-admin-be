@@ -139,6 +139,9 @@
         "wk:page":"Schilde"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"471f6c230a96564304d192bd3156c50e",
     "wof:hierarchy":[
         {
@@ -155,7 +158,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1566611859,
+    "wof:lastmodified":1582345549,
     "wof:name":"Schilde",
     "wof:parent_id":1108830185,
     "wof:placetype":"locality",

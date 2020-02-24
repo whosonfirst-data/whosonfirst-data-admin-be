@@ -153,6 +153,9 @@
         "wd:id":"Q696982"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"04bce79b7e42b8c141be19552e32dcf1",
     "wof:hierarchy":[
         {
@@ -169,7 +172,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1566611954,
+    "wof:lastmodified":1582345566,
     "wof:name":"Ruiselede",
     "wof:parent_id":1108830301,
     "wof:placetype":"locality",

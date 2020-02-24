@@ -75,6 +75,9 @@
         "wd:id":"Q2217028"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"4a52cc0dd52fb7332104a1374cc709f9",
     "wof:hierarchy":[
         {
@@ -88,7 +91,7 @@
         }
     ],
     "wof:id":101809473,
-    "wof:lastmodified":1566611950,
+    "wof:lastmodified":1582345565,
     "wof:name":"Gierle",
     "wof:parent_id":1108830113,
     "wof:placetype":"locality",

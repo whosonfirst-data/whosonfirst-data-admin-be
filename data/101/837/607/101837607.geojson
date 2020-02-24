@@ -158,6 +158,9 @@
         "wk:page":"Hoogstraten"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"5f0137e4caaac03e3fdd946b4a499892",
     "wof:hierarchy":[
         {
@@ -171,7 +174,7 @@
         }
     ],
     "wof:id":101837607,
-    "wof:lastmodified":1566611961,
+    "wof:lastmodified":1582345567,
     "wof:name":"Hoogstraten",
     "wof:parent_id":1108830373,
     "wof:placetype":"locality",

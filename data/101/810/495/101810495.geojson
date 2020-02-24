@@ -95,6 +95,9 @@
         "wk:page":"Plancenoit"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"1ee772d8d7312bb4344d2d04c95190ff",
     "wof:hierarchy":[
         {
@@ -107,7 +110,7 @@
         }
     ],
     "wof:id":101810495,
-    "wof:lastmodified":1566611890,
+    "wof:lastmodified":1582345556,
     "wof:name":"Plancenoit",
     "wof:parent_id":102049945,
     "wof:placetype":"locality",

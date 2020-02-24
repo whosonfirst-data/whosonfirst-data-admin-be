@@ -149,6 +149,9 @@
         "wk:page":"L\u00e9glise"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"42f3d897a40d8f6f249a9d5e500b09ba",
     "wof:hierarchy":[
         {
@@ -161,7 +164,7 @@
         }
     ],
     "wof:id":101812845,
-    "wof:lastmodified":1566611910,
+    "wof:lastmodified":1582345558,
     "wof:name":"L\u00e9glise",
     "wof:parent_id":102049913,
     "wof:placetype":"locality",

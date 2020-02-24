@@ -73,6 +73,10 @@
         "qs_pg:id":187048
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
     "wof:geomhash":"741344f67f0d78234922e81ab8785f75",
     "wof:hierarchy":[
         {
@@ -90,7 +94,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1566611086,
+    "wof:lastmodified":1582345517,
     "wof:name":"Speelberg",
     "wof:parent_id":101755537,
     "wof:placetype":"neighbourhood",

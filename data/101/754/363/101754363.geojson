@@ -215,6 +215,9 @@
         "wk:page":"Lier, Belgium"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"350f4b4139c3ffe575834ca4f314b1fa",
     "wof:hierarchy":[
         {
@@ -228,7 +231,7 @@
         }
     ],
     "wof:id":101754363,
-    "wof:lastmodified":1566611859,
+    "wof:lastmodified":1582345549,
     "wof:name":"Lier",
     "wof:parent_id":1108830097,
     "wof:placetype":"locality",

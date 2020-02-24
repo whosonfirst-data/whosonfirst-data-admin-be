@@ -78,6 +78,9 @@
         "wd:id":"Q910367"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"693e5565ae10eae4b3a3f67374a4d7a4",
     "wof:hierarchy":[
         {
@@ -91,7 +94,7 @@
         }
     ],
     "wof:id":101755277,
-    "wof:lastmodified":1566611837,
+    "wof:lastmodified":1582345546,
     "wof:name":"Rekem",
     "wof:parent_id":1108830075,
     "wof:placetype":"locality",

@@ -81,6 +81,9 @@
         "wk:page":"Lichtaart"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"beea1664ebb0ab5eca7989f36b119a2b",
     "wof:hierarchy":[
         {
@@ -94,7 +97,7 @@
         }
     ],
     "wof:id":101839123,
-    "wof:lastmodified":1566611978,
+    "wof:lastmodified":1582345571,
     "wof:name":"Lichtaart",
     "wof:parent_id":1108830677,
     "wof:placetype":"locality",

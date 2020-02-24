@@ -179,6 +179,9 @@
         "wk:page":"Torhout"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"a32374fb72207868ce4e90a5728536e9",
     "wof:hierarchy":[
         {
@@ -195,7 +198,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1566611959,
+    "wof:lastmodified":1582345567,
     "wof:name":"Torhout",
     "wof:parent_id":1108830333,
     "wof:placetype":"locality",

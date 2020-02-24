@@ -64,6 +64,9 @@
         "wd:id":"Q2842031"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"2c4340c32ababfe25dcc3a2b0a4efebc",
     "wof:hierarchy":[
         {
@@ -76,7 +79,7 @@
         }
     ],
     "wof:id":101810523,
-    "wof:lastmodified":1566611892,
+    "wof:lastmodified":1582345556,
     "wof:name":"Harchies",
     "wof:parent_id":102049949,
     "wof:placetype":"locality",

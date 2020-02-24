@@ -69,6 +69,9 @@
         "gp:id":968951
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"3ce90d53649bb0f5c5e486ff7e570f47",
     "wof:hierarchy":[
         {
@@ -86,7 +89,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1566611093,
+    "wof:lastmodified":1582345519,
     "wof:name":"Dieghem",
     "wof:parent_id":101913231,
     "wof:placetype":"neighbourhood",

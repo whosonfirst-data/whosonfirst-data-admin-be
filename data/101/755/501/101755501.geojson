@@ -203,6 +203,9 @@
         "wk:page":"Asse"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"8a2efd2db2ab10d068fb4f014eda607b",
     "wof:hierarchy":[
         {
@@ -216,7 +219,7 @@
         }
     ],
     "wof:id":101755501,
-    "wof:lastmodified":1566611831,
+    "wof:lastmodified":1582345545,
     "wof:name":"Asse",
     "wof:parent_id":1108830421,
     "wof:placetype":"locality",

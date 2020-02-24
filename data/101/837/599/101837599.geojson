@@ -71,6 +71,9 @@
         "wk:page":"Burcht, Antwerp"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"68394d317a7cb8ba951bc80ff6ab1872",
     "wof:hierarchy":[
         {
@@ -87,7 +90,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1566611960,
+    "wof:lastmodified":1582345567,
     "wof:name":"Burcht",
     "wof:parent_id":1108830433,
     "wof:placetype":"locality",

@@ -168,6 +168,9 @@
         "wk:page":"Fleurus"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"70cae3353190d0f939dc0894d6c90714",
     "wof:hierarchy":[
         {
@@ -183,7 +186,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1566611860,
+    "wof:lastmodified":1582345550,
     "wof:name":"Fleurus",
     "wof:parent_id":102049927,
     "wof:placetype":"locality",

@@ -71,6 +71,9 @@
         "wd:id":"Q2442299"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"43cffa865998a573bad68c6ab7f3f819",
     "wof:hierarchy":[
         {
@@ -84,7 +87,7 @@
         }
     ],
     "wof:id":101755465,
-    "wof:lastmodified":1566611825,
+    "wof:lastmodified":1582345543,
     "wof:name":"Ramsdonk",
     "wof:parent_id":1108830053,
     "wof:placetype":"locality",

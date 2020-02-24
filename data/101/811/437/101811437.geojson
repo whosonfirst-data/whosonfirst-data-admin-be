@@ -154,6 +154,9 @@
         "wk:page":"Stoumont"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"7d57eca57fa86b9fb50a0655428e53fd",
     "wof:hierarchy":[
         {
@@ -166,7 +169,7 @@
         }
     ],
     "wof:id":101811437,
-    "wof:lastmodified":1566611871,
+    "wof:lastmodified":1582345552,
     "wof:name":"Stoumont",
     "wof:parent_id":102049935,
     "wof:placetype":"locality",

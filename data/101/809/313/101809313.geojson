@@ -81,6 +81,9 @@
         "wk:page":"Moerzeke"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"efbe81d053e69da0bb1df5a2d80f284c",
     "wof:hierarchy":[
         {
@@ -94,7 +97,7 @@
         }
     ],
     "wof:id":101809313,
-    "wof:lastmodified":1566611945,
+    "wof:lastmodified":1582345565,
     "wof:name":"Moerzeke",
     "wof:parent_id":1108830161,
     "wof:placetype":"locality",

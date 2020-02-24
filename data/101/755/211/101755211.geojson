@@ -67,6 +67,9 @@
         "wd:id":"Q2381009"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"424ebf07431a1eb9df59fe4cab62c24c",
     "wof:hierarchy":[
         {
@@ -79,7 +82,7 @@
         }
     ],
     "wof:id":101755211,
-    "wof:lastmodified":1566611813,
+    "wof:lastmodified":1582345542,
     "wof:name":"Maurage",
     "wof:parent_id":102049943,
     "wof:placetype":"locality",

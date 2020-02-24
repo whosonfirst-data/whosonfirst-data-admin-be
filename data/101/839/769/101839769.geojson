@@ -118,6 +118,9 @@
         "wk:page":"Ligny"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"fac2e3926db3f659db616011298875c3",
     "wof:hierarchy":[
         {
@@ -133,7 +136,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1566611973,
+    "wof:lastmodified":1582345570,
     "wof:name":"Ligny",
     "wof:parent_id":102049931,
     "wof:placetype":"locality",

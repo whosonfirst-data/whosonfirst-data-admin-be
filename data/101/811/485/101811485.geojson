@@ -150,6 +150,9 @@
         "wk:page":"Wellin"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"d30a8ead63690b6a0ddf54bdfa8daea0",
     "wof:hierarchy":[
         {
@@ -162,7 +165,7 @@
         }
     ],
     "wof:id":101811485,
-    "wof:lastmodified":1566611870,
+    "wof:lastmodified":1582345552,
     "wof:name":"Wellin",
     "wof:parent_id":102049913,
     "wof:placetype":"locality",

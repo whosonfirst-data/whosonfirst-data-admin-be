@@ -176,6 +176,9 @@
         "wk:page":"Andenne"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"6ee239b5370d5a1c9e09e10219d159a9",
     "wof:hierarchy":[
         {
@@ -191,7 +194,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1566611861,
+    "wof:lastmodified":1582345550,
     "wof:name":"Andenne",
     "wof:parent_id":102049931,
     "wof:placetype":"locality",

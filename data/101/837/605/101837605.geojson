@@ -69,6 +69,9 @@
         "wd:id":"Q3314780"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"16c208c4facb12bfdcfb8235275fd8ec",
     "wof:hierarchy":[
         {
@@ -82,7 +85,7 @@
         }
     ],
     "wof:id":101837605,
-    "wof:lastmodified":1566611957,
+    "wof:lastmodified":1582345567,
     "wof:name":"Minderhout",
     "wof:parent_id":1108830373,
     "wof:placetype":"locality",

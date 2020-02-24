@@ -186,6 +186,9 @@
         "wk:page":"Lommel"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"86708322b8f99d4c65939b23d36c6460",
     "wof:hierarchy":[
         {
@@ -199,7 +202,7 @@
         }
     ],
     "wof:id":101838937,
-    "wof:lastmodified":1566611916,
+    "wof:lastmodified":1582345559,
     "wof:name":"Lommel",
     "wof:parent_id":1108830169,
     "wof:placetype":"locality",

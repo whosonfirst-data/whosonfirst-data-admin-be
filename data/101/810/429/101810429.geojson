@@ -143,6 +143,9 @@
         "wk:page":"Aubel"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"b8ef5035c88d0a49e47b3d85d7721d54",
     "wof:hierarchy":[
         {
@@ -155,7 +158,7 @@
         }
     ],
     "wof:id":101810429,
-    "wof:lastmodified":1566611888,
+    "wof:lastmodified":1582345555,
     "wof:name":"Aubel",
     "wof:parent_id":102049935,
     "wof:placetype":"locality",

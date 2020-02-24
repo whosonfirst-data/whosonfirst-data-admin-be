@@ -199,6 +199,9 @@
         "wk:page":"Menen"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"cb82ca9abe45987cc0eabedb9b322716",
     "wof:hierarchy":[
         {
@@ -215,7 +218,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1566611864,
+    "wof:lastmodified":1582345551,
     "wof:name":"Menen",
     "wof:parent_id":1108830067,
     "wof:placetype":"locality",

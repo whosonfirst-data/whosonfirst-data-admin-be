@@ -140,6 +140,9 @@
         "wd:id":"Q723774"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"14fe4e9eefa2a969091b7d3f22f4916f",
     "wof:hierarchy":[
         {
@@ -153,7 +156,7 @@
         }
     ],
     "wof:id":101755649,
-    "wof:lastmodified":1566611838,
+    "wof:lastmodified":1582345546,
     "wof:name":"Berlaar",
     "wof:parent_id":1108830233,
     "wof:placetype":"locality",

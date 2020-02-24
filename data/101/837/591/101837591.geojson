@@ -164,6 +164,9 @@
         "wd:id":"Q724283"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"8201d0c3d491f56d4114a2c05886307a",
     "wof:hierarchy":[
         {
@@ -180,7 +183,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1566611961,
+    "wof:lastmodified":1582345567,
     "wof:name":"Essen",
     "wof:parent_id":1108830513,
     "wof:placetype":"locality",

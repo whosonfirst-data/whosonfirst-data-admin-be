@@ -79,6 +79,9 @@
         "wd:id":"Q3129578"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"f1820d6bfd46fac6d4fcb7a5a420b183",
     "wof:hierarchy":[
         {
@@ -92,7 +95,7 @@
         }
     ],
     "wof:id":101838967,
-    "wof:lastmodified":1566611928,
+    "wof:lastmodified":1582345561,
     "wof:name":"Helchteren",
     "wof:parent_id":1108830235,
     "wof:placetype":"locality",

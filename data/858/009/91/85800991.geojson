@@ -95,6 +95,10 @@
         "qs_pg:id":481460
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"36a0c2ed086766efffd86aac32b8b790",
     "wof:hierarchy":[
         {
@@ -111,7 +115,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1566611081,
+    "wof:lastmodified":1582345516,
     "wof:name":"Ch\u00ean\u00e9e",
     "wof:parent_id":101748083,
     "wof:placetype":"neighbourhood",

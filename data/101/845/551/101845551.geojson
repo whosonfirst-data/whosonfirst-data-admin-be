@@ -152,6 +152,9 @@
         "wk:page":"Martelange"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"430b062d893dff3b8d91bed8512bc788",
     "wof:hierarchy":[
         {
@@ -164,7 +167,7 @@
         }
     ],
     "wof:id":101845551,
-    "wof:lastmodified":1566611877,
+    "wof:lastmodified":1582345553,
     "wof:name":"Martelange",
     "wof:parent_id":102049909,
     "wof:placetype":"locality",

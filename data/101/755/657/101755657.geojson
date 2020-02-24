@@ -250,6 +250,9 @@
         "wd:id":"Q407465"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"0e72341c11b6caf7cd052bf187d0cb83",
     "wof:hierarchy":[
         {
@@ -263,7 +266,7 @@
         }
     ],
     "wof:id":101755657,
-    "wof:lastmodified":1566611825,
+    "wof:lastmodified":1582345543,
     "wof:name":"Heikant",
     "wof:parent_id":1108830233,
     "wof:placetype":"locality",

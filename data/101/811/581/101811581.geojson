@@ -161,6 +161,9 @@
         "wk:page":"Ciney"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"cd2e728874b7a53845d4ec4845601e06",
     "wof:hierarchy":[
         {
@@ -173,7 +176,7 @@
         }
     ],
     "wof:id":101811581,
-    "wof:lastmodified":1566611872,
+    "wof:lastmodified":1582345552,
     "wof:name":"Ciney",
     "wof:parent_id":102049919,
     "wof:placetype":"locality",

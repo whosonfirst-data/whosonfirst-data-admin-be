@@ -64,6 +64,9 @@
         "wd:id":"Q3163050"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"179a29c1f7a3b947147065350f9411b1",
     "wof:hierarchy":[
         {
@@ -76,7 +79,7 @@
         }
     ],
     "wof:id":101810491,
-    "wof:lastmodified":1566611884,
+    "wof:lastmodified":1582345554,
     "wof:name":"Jauche",
     "wof:parent_id":102049945,
     "wof:placetype":"locality",

@@ -99,6 +99,9 @@
         "wk:page":"Circuit Zolder"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"d089ad1ac6f2bfc04c8f53af613e39fb",
     "wof:hierarchy":[
         {
@@ -112,7 +115,7 @@
         }
     ],
     "wof:id":101838819,
-    "wof:lastmodified":1566611919,
+    "wof:lastmodified":1582345560,
     "wof:name":"Zolder",
     "wof:parent_id":1108830323,
     "wof:placetype":"locality",

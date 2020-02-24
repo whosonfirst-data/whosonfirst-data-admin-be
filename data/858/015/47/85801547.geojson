@@ -200,6 +200,9 @@
         "wk:page":"Laken"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"6e2fa181fabb786a0219c8798b73d396",
     "wof:hierarchy":[
         {
@@ -216,7 +219,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1566611072,
+    "wof:lastmodified":1582345514,
     "wof:name":"Laeken",
     "wof:parent_id":101751573,
     "wof:placetype":"neighbourhood",

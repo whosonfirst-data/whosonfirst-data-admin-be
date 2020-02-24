@@ -74,6 +74,9 @@
         "wd:id":"Q2673616"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"47486be5b5d76b8ffe257da647afaecd",
     "wof:hierarchy":[
         {
@@ -89,7 +92,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1566611931,
+    "wof:lastmodified":1582345562,
     "wof:name":"Houtain-Saint-Sim\u00e9on",
     "wof:parent_id":102049941,
     "wof:placetype":"locality",

@@ -91,6 +91,9 @@
         "wk:page":"Moerkerke"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"2bdf9e51cb26ae17b29b11df239509d2",
     "wof:hierarchy":[
         {
@@ -104,7 +107,7 @@
         }
     ],
     "wof:id":101809441,
-    "wof:lastmodified":1566611941,
+    "wof:lastmodified":1582345564,
     "wof:name":"Moerkerke",
     "wof:parent_id":1108830063,
     "wof:placetype":"locality",

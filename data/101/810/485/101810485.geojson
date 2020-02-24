@@ -155,6 +155,9 @@
         "wk:page":"Beauvechain"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"c62b9dda1b81cf85446a1aa064a8667e",
     "wof:hierarchy":[
         {
@@ -167,7 +170,7 @@
         }
     ],
     "wof:id":101810485,
-    "wof:lastmodified":1566611881,
+    "wof:lastmodified":1582345554,
     "wof:name":"Beauvechain",
     "wof:parent_id":102049945,
     "wof:placetype":"locality",

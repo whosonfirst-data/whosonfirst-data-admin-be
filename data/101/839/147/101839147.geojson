@@ -52,6 +52,9 @@
         "qs_pg:id":1024554
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"a42164401ea374336dc5cecd84f5253e",
     "wof:hierarchy":[
         {
@@ -65,7 +68,7 @@
         }
     ],
     "wof:id":101839147,
-    "wof:lastmodified":1566611980,
+    "wof:lastmodified":1582345571,
     "wof:name":"Zammel",
     "wof:parent_id":1108830531,
     "wof:placetype":"locality",

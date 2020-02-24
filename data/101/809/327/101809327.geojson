@@ -88,6 +88,9 @@
         "wk:page":"Aarsele"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"00cb485b0721db2223f06e78921ca50b",
     "wof:hierarchy":[
         {
@@ -104,7 +107,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1566611953,
+    "wof:lastmodified":1582345566,
     "wof:name":"Aarsele",
     "wof:parent_id":1108830265,
     "wof:placetype":"locality",

@@ -69,6 +69,9 @@
         "wd:id":"Q2655059"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"8c97732afc67253eee21238ac2f258c3",
     "wof:hierarchy":[
         {
@@ -84,7 +87,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1566611846,
+    "wof:lastmodified":1582345547,
     "wof:name":"Ham-sur-Sambre",
     "wof:parent_id":102049931,
     "wof:placetype":"locality",

@@ -611,6 +611,9 @@
         "wd:id":"Q12497"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"0f0dc81556fb82ba2a5bf7a8a3c0c95a",
     "wof:hierarchy":[
         {
@@ -624,7 +627,7 @@
         }
     ],
     "wof:id":101809417,
-    "wof:lastmodified":1566611948,
+    "wof:lastmodified":1582345565,
     "wof:name":"Bentille",
     "wof:parent_id":1108830091,
     "wof:placetype":"locality",

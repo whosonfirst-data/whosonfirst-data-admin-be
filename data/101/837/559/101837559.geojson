@@ -175,6 +175,9 @@
         "wk:page":"Maldegem"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"abfe9f01530d79132de0b9b4f9c3a314",
     "wof:hierarchy":[
         {
@@ -191,7 +194,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1566611956,
+    "wof:lastmodified":1582345567,
     "wof:name":"Maldegem",
     "wof:parent_id":1108830541,
     "wof:placetype":"locality",

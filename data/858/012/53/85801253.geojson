@@ -104,6 +104,9 @@
         "gp:id":970994
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"968e39346d8d39f02b004ab228b4f71b",
     "wof:hierarchy":[
         {
@@ -120,7 +123,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1566611074,
+    "wof:lastmodified":1582345514,
     "wof:name":"H\u00e8ne",
     "wof:parent_id":101758521,
     "wof:placetype":"neighbourhood",

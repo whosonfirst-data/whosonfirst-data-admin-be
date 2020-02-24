@@ -152,6 +152,9 @@
         "wd:id":"Q696871"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"ea36f1e93f38be02c29ef2d190a6976d",
     "wof:hierarchy":[
         {
@@ -165,7 +168,7 @@
         }
     ],
     "wof:id":101809295,
-    "wof:lastmodified":1566611943,
+    "wof:lastmodified":1582345564,
     "wof:name":"Lichtervelde",
     "wof:parent_id":1108830517,
     "wof:placetype":"locality",

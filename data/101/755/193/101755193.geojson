@@ -147,6 +147,9 @@
         "wk:page":"Trooz"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"0057120e8c58677af0fa0bccac1d4471",
     "wof:hierarchy":[
         {
@@ -162,7 +165,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1566611811,
+    "wof:lastmodified":1582345541,
     "wof:name":"Trooz",
     "wof:parent_id":102049941,
     "wof:placetype":"locality",

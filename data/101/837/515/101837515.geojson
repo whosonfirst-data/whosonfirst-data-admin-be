@@ -195,6 +195,9 @@
         "wk:page":"Bilzen"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"321ac3573d84a51268843668b891ff25",
     "wof:hierarchy":[
         {
@@ -208,7 +211,7 @@
         }
     ],
     "wof:id":101837515,
-    "wof:lastmodified":1566611963,
+    "wof:lastmodified":1582345568,
     "wof:name":"Bilzen",
     "wof:parent_id":1108830245,
     "wof:placetype":"locality",

@@ -71,6 +71,9 @@
         "wd:id":"Q2139309"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"bd55f723064c65a4427fe77fb782482c",
     "wof:hierarchy":[
         {
@@ -84,7 +87,7 @@
         }
     ],
     "wof:id":101838839,
-    "wof:lastmodified":1566611934,
+    "wof:lastmodified":1582345562,
     "wof:name":"Koersel",
     "wof:parent_id":1108830613,
     "wof:placetype":"locality",

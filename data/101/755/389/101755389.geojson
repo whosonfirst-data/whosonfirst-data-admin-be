@@ -55,6 +55,9 @@
         "qs_pg:id":192370
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"38c773531c01f627befaf669d998d81c",
     "wof:hierarchy":[
         {
@@ -68,7 +71,7 @@
         }
     ],
     "wof:id":101755389,
-    "wof:lastmodified":1566611852,
+    "wof:lastmodified":1582345548,
     "wof:name":"Schoonderbuken",
     "wof:parent_id":1108830367,
     "wof:placetype":"locality",

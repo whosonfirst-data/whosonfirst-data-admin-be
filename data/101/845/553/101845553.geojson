@@ -199,6 +199,9 @@
         "wd:id":"Q217216"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"0fcec24972b891ab58f3a4868f37dc1b",
     "wof:hierarchy":[
         {
@@ -211,7 +214,7 @@
         }
     ],
     "wof:id":101845553,
-    "wof:lastmodified":1566611878,
+    "wof:lastmodified":1582345553,
     "wof:name":"Bouillon",
     "wof:parent_id":102049913,
     "wof:placetype":"locality",

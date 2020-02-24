@@ -86,6 +86,9 @@
         "qs_pg:id":1027240
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"d8a02f4de3bec98f9dffc61431f63645",
     "wof:hierarchy":[
         {
@@ -102,7 +105,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1566611095,
+    "wof:lastmodified":1582345519,
     "wof:name":"Le Chat",
     "wof:parent_id":101751573,
     "wof:placetype":"neighbourhood",

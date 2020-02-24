@@ -152,6 +152,9 @@
         "wk:page":"Amay"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"9f4f78cd4b5c7403c460ac1f45f4e3fe",
     "wof:hierarchy":[
         {
@@ -164,7 +167,7 @@
         }
     ],
     "wof:id":101754253,
-    "wof:lastmodified":1566611865,
+    "wof:lastmodified":1582345551,
     "wof:name":"Amay",
     "wof:parent_id":102049925,
     "wof:placetype":"locality",

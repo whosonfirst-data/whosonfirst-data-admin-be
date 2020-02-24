@@ -127,6 +127,9 @@
         "wk:page":"Rupelmonde"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"8790ebff79e750ccfeed374636c9a04a",
     "wof:hierarchy":[
         {
@@ -140,7 +143,7 @@
         }
     ],
     "wof:id":101837563,
-    "wof:lastmodified":1566611960,
+    "wof:lastmodified":1582345567,
     "wof:name":"Rupelmonde",
     "wof:parent_id":1108830395,
     "wof:placetype":"locality",

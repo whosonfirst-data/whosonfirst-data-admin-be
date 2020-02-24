@@ -192,6 +192,9 @@
         "qs_pg:id":1077654
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"f70ebb3292eea89f15315490994fa6b5",
     "wof:hierarchy":[
         {
@@ -205,7 +208,7 @@
         }
     ],
     "wof:id":101755571,
-    "wof:lastmodified":1566611851,
+    "wof:lastmodified":1582345548,
     "wof:name":"Beveren",
     "wof:parent_id":1108830397,
     "wof:placetype":"locality",

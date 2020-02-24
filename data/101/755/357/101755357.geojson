@@ -65,6 +65,9 @@
         "wd:id":"Q842744"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"6285ed4a9815f7c342980da9d3400b38",
     "wof:hierarchy":[
         {
@@ -78,7 +81,7 @@
         }
     ],
     "wof:id":101755357,
-    "wof:lastmodified":1566611832,
+    "wof:lastmodified":1582345545,
     "wof:name":"Herdersem",
     "wof:parent_id":1108830515,
     "wof:placetype":"locality",

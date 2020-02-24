@@ -69,6 +69,9 @@
         "wd:id":"Q3381695"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"c291eda8c92dd3cdc563fcda41328a81",
     "wof:hierarchy":[
         {
@@ -82,7 +85,7 @@
         }
     ],
     "wof:id":101755445,
-    "wof:lastmodified":1566611843,
+    "wof:lastmodified":1582345547,
     "wof:name":"Rillaar",
     "wof:parent_id":1108830355,
     "wof:placetype":"locality",

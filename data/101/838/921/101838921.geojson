@@ -168,6 +168,9 @@
         "wd:id":"Q499599"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"3c26377c5f547c24bd5a878e3f695cd5",
     "wof:hierarchy":[
         {
@@ -181,7 +184,7 @@
         }
     ],
     "wof:id":101838921,
-    "wof:lastmodified":1566611936,
+    "wof:lastmodified":1582345563,
     "wof:name":"Hamont",
     "wof:parent_id":1108830117,
     "wof:placetype":"locality",

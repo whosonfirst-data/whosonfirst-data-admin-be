@@ -255,6 +255,9 @@
         "wd:id":"Q2693056"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"80dbdd61c8d1fe13cec66b8c087f6c68",
     "wof:hierarchy":[
         {
@@ -271,7 +274,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1566611940,
+    "wof:lastmodified":1582345564,
     "wof:name":"Vlamertinge",
     "wof:parent_id":1108830595,
     "wof:placetype":"locality",

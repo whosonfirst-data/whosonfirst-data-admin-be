@@ -141,6 +141,9 @@
         "wk:page":"Meerhout"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"d5467af588a0d4285f47cdf8780cc2c9",
     "wof:hierarchy":[
         {
@@ -154,7 +157,7 @@
         }
     ],
     "wof:id":101837609,
-    "wof:lastmodified":1566611961,
+    "wof:lastmodified":1582345567,
     "wof:name":"Meerhout",
     "wof:parent_id":1108830449,
     "wof:placetype":"locality",

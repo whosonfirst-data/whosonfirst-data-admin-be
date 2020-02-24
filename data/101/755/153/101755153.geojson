@@ -149,6 +149,9 @@
         "wk:page":"Plombi\u00e8res"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"6e07ba8611deedd1818fd4f5f1e18be7",
     "wof:hierarchy":[
         {
@@ -161,7 +164,7 @@
         }
     ],
     "wof:id":101755153,
-    "wof:lastmodified":1566611831,
+    "wof:lastmodified":1582345545,
     "wof:name":"Plombi\u00e8res",
     "wof:parent_id":102049935,
     "wof:placetype":"locality",

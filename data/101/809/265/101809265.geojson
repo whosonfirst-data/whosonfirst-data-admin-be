@@ -77,6 +77,9 @@
         "wd:id":"Q2026781"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"ecaa255aa09e10123dc089847d52f445",
     "wof:hierarchy":[
         {
@@ -90,7 +93,7 @@
         }
     ],
     "wof:id":101809265,
-    "wof:lastmodified":1566611951,
+    "wof:lastmodified":1582345566,
     "wof:name":"Poelkapelle",
     "wof:parent_id":1108830263,
     "wof:placetype":"locality",

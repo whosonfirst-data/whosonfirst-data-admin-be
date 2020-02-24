@@ -149,6 +149,9 @@
         "wk:page":"Herve"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"5a7156ef570a5efa9b9c9028b7f27455",
     "wof:hierarchy":[
         {
@@ -161,7 +164,7 @@
         }
     ],
     "wof:id":101755145,
-    "wof:lastmodified":1566611826,
+    "wof:lastmodified":1582345544,
     "wof:name":"Herve",
     "wof:parent_id":102049935,
     "wof:placetype":"locality",

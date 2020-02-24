@@ -143,6 +143,9 @@
         "wd:id":"Q227070"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"df3642a4b5ba04dc354e02bac46de31d",
     "wof:hierarchy":[
         {
@@ -156,7 +159,7 @@
         }
     ],
     "wof:id":101838747,
-    "wof:lastmodified":1566611924,
+    "wof:lastmodified":1582345561,
     "wof:name":"Zoutleeuw",
     "wof:parent_id":1108830427,
     "wof:placetype":"locality",

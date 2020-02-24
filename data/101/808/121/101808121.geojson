@@ -90,6 +90,9 @@
         "wk:page":"Wenduine"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"04d6ec3baa0ea0d036656d9a171e1e24",
     "wof:hierarchy":[
         {
@@ -103,7 +106,7 @@
         }
     ],
     "wof:id":101808121,
-    "wof:lastmodified":1566611963,
+    "wof:lastmodified":1582345568,
     "wof:name":"Wenduine",
     "wof:parent_id":1108830685,
     "wof:placetype":"locality",

@@ -152,6 +152,9 @@
         "wd:id":"Q911995"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"d2d7afe5c8d1104638db903b4bbdaadf",
     "wof:hierarchy":[
         {
@@ -168,7 +171,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1566611864,
+    "wof:lastmodified":1582345551,
     "wof:name":"Kapelle-op-den-Bos",
     "wof:parent_id":1108830039,
     "wof:placetype":"locality",

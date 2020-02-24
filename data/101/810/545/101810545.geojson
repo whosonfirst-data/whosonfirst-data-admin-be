@@ -72,6 +72,9 @@
         "wd:id":"Q3472771"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"802b0e039cd45507b6ff78fe00fa6205",
     "wof:hierarchy":[
         {
@@ -85,7 +88,7 @@
         }
     ],
     "wof:id":101810545,
-    "wof:lastmodified":1566611885,
+    "wof:lastmodified":1582345555,
     "wof:name":"Viane",
     "wof:parent_id":1108830521,
     "wof:placetype":"locality",

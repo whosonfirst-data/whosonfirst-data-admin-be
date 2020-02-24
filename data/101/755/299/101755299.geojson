@@ -77,6 +77,9 @@
         "wd:id":"Q2090721"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"e049d4d35d8b6b371e453797f3256229",
     "wof:hierarchy":[
         {
@@ -90,7 +93,7 @@
         }
     ],
     "wof:id":101755299,
-    "wof:lastmodified":1566611851,
+    "wof:lastmodified":1582345548,
     "wof:name":"Desselgem",
     "wof:parent_id":1108830341,
     "wof:placetype":"locality",

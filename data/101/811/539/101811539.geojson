@@ -88,6 +88,9 @@
         "wd:id":"Q354499"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"42e3e971d6373ba065020a69bf3a4fbd",
     "wof:hierarchy":[
         {
@@ -100,7 +103,7 @@
         }
     ],
     "wof:id":101811539,
-    "wof:lastmodified":1566611873,
+    "wof:lastmodified":1582345552,
     "wof:name":"Cerfontaine",
     "wof:parent_id":102049917,
     "wof:placetype":"locality",

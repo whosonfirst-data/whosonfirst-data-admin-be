@@ -71,6 +71,9 @@
         "qs_pg:id":771695
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"1b532020163622d7cdfaee4aad9fb919",
     "wof:hierarchy":[
         {
@@ -87,7 +90,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1566611098,
+    "wof:lastmodified":1582345520,
     "wof:name":"Stalle",
     "wof:parent_id":101751573,
     "wof:placetype":"neighbourhood",

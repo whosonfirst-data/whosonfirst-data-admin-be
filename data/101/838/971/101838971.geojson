@@ -78,6 +78,9 @@
         "wd:id":"Q3442961"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"8c4a7b8405b8b9144fa429d70d5b69d9",
     "wof:hierarchy":[
         {
@@ -91,7 +94,7 @@
         }
     ],
     "wof:id":101838971,
-    "wof:lastmodified":1566611924,
+    "wof:lastmodified":1582345561,
     "wof:name":"Rotem",
     "wof:parent_id":1108830389,
     "wof:placetype":"locality",

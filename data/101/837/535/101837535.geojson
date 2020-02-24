@@ -356,6 +356,9 @@
         "wk:page":"Hasselt"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"51967f07ed5b2cf60f71906fb7966a33",
     "wof:hierarchy":[
         {
@@ -372,7 +375,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1566611957,
+    "wof:lastmodified":1582345567,
     "wof:name":"Hasselt",
     "wof:parent_id":1108830649,
     "wof:placetype":"locality",

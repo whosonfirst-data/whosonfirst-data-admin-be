@@ -81,6 +81,9 @@
         "wk:page":"Erps-Kwerps"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"f9ed7f7d7f4e2497d6a8b7e15eadbeb1",
     "wof:hierarchy":[
         {
@@ -94,7 +97,7 @@
         }
     ],
     "wof:id":101758525,
-    "wof:lastmodified":1566611909,
+    "wof:lastmodified":1582345558,
     "wof:name":"Erps-Kwerps",
     "wof:parent_id":1108830227,
     "wof:placetype":"locality",

@@ -183,6 +183,9 @@
         "wd:id":"Q674954"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"4b523ddca8834b1a09715ee2438fede7",
     "wof:hierarchy":[
         {
@@ -199,7 +202,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1566611960,
+    "wof:lastmodified":1582345567,
     "wof:name":"De Panne",
     "wof:parent_id":1108830697,
     "wof:placetype":"locality",

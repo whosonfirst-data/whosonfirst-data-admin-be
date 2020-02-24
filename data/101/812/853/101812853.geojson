@@ -146,6 +146,9 @@
         "wk:page":"Vresse-sur-Semois"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"770d13944fb006447a3fc295d49736bb",
     "wof:hierarchy":[
         {
@@ -158,7 +161,7 @@
         }
     ],
     "wof:id":101812853,
-    "wof:lastmodified":1566611912,
+    "wof:lastmodified":1582345558,
     "wof:name":"Vresse",
     "wof:parent_id":102049919,
     "wof:placetype":"locality",

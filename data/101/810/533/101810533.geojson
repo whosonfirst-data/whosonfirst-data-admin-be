@@ -64,6 +64,9 @@
         "wd:id":"Q2017080"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"08090d25de34c04177f7d011939b4dc1",
     "wof:hierarchy":[
         {
@@ -76,7 +79,7 @@
         }
     ],
     "wof:id":101810533,
-    "wof:lastmodified":1566611878,
+    "wof:lastmodified":1582345553,
     "wof:name":"Templeuve",
     "wof:parent_id":102049951,
     "wof:placetype":"locality",

@@ -150,6 +150,9 @@
         "wk:page":"Bertogne"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"e83566c6f88a2f8f3d9007e06be93ecc",
     "wof:hierarchy":[
         {
@@ -162,7 +165,7 @@
         }
     ],
     "wof:id":101811525,
-    "wof:lastmodified":1566611877,
+    "wof:lastmodified":1582345553,
     "wof:name":"Bertogne",
     "wof:parent_id":102049915,
     "wof:placetype":"locality",

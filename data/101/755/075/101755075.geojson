@@ -64,6 +64,9 @@
         "wd:id":"Q2241954"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"6a48db92c8e1f91d364f0af8e1623d03",
     "wof:hierarchy":[
         {
@@ -76,7 +79,7 @@
         }
     ],
     "wof:id":101755075,
-    "wof:lastmodified":1566611840,
+    "wof:lastmodified":1582345546,
     "wof:name":"Godarville",
     "wof:parent_id":102049927,
     "wof:placetype":"locality",

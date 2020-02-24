@@ -98,6 +98,9 @@
         "wk:page":"Ekeren"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"51ca5a22b5d0bd47b0c339812090ad3e",
     "wof:hierarchy":[
         {
@@ -114,7 +117,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1566611895,
+    "wof:lastmodified":1582345557,
     "wof:name":"Ekeren",
     "wof:parent_id":1108830423,
     "wof:placetype":"locality",

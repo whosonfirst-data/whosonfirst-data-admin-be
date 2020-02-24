@@ -146,6 +146,9 @@
         "wd:id":"Q984874"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"2e155363a282592d0d3c3351a7227ee1",
     "wof:hierarchy":[
         {
@@ -159,7 +162,7 @@
         }
     ],
     "wof:id":101809257,
-    "wof:lastmodified":1566611942,
+    "wof:lastmodified":1582345564,
     "wof:name":"Geetbets",
     "wof:parent_id":1108830427,
     "wof:placetype":"locality",

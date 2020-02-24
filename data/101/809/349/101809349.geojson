@@ -88,6 +88,9 @@
         "wk:page":"Klerken"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"4701358f98e4f7f7399b5999ac07cec1",
     "wof:hierarchy":[
         {
@@ -101,7 +104,7 @@
         }
     ],
     "wof:id":101809349,
-    "wof:lastmodified":1566611945,
+    "wof:lastmodified":1582345565,
     "wof:name":"Klerken",
     "wof:parent_id":1108830335,
     "wof:placetype":"locality",

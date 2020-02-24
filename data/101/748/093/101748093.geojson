@@ -488,6 +488,9 @@
         "wk:page":"Ghent"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"2b4e39aef4e8dd1803a85022c893ab6b",
     "wof:hierarchy":[
         {
@@ -504,7 +507,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1566611896,
+    "wof:lastmodified":1582345557,
     "wof:name":"Gent",
     "wof:parent_id":1108830083,
     "wof:placetype":"locality",

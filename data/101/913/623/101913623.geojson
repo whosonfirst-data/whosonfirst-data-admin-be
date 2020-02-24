@@ -79,6 +79,9 @@
         "wd:id":"Q2465020"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"000688424784ccd528a47a40484212be",
     "wof:hierarchy":[
         {
@@ -91,7 +94,7 @@
         }
     ],
     "wof:id":101913623,
-    "wof:lastmodified":1561831420,
+    "wof:lastmodified":1582345557,
     "wof:name":"Jemelle",
     "wof:parent_id":102049919,
     "wof:placetype":"locality",

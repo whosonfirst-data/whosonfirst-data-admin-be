@@ -81,6 +81,9 @@
         "wk:page":"Mollem"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"a296f7cffd58fd95b6d0901a5e299b6c",
     "wof:hierarchy":[
         {
@@ -94,7 +97,7 @@
         }
     ],
     "wof:id":101809285,
-    "wof:lastmodified":1566611949,
+    "wof:lastmodified":1582345565,
     "wof:name":"Mollem",
     "wof:parent_id":1108830421,
     "wof:placetype":"locality",

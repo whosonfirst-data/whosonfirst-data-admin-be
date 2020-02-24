@@ -65,6 +65,9 @@
         "wd:id":"Q2058732"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"9af71a4c4771674cd7ae597674f40105",
     "wof:hierarchy":[
         {
@@ -78,7 +81,7 @@
         }
     ],
     "wof:id":101755363,
-    "wof:lastmodified":1566611811,
+    "wof:lastmodified":1582345541,
     "wof:name":"Pellenberg",
     "wof:parent_id":1108830497,
     "wof:placetype":"locality",

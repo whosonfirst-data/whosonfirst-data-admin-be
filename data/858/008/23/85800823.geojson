@@ -141,6 +141,10 @@
         "wk:page":"Berchem"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
     "wof:geomhash":"ef1fb20935339ec4aecec3fe995a6c61",
     "wof:hierarchy":[
         {
@@ -158,7 +162,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1566611083,
+    "wof:lastmodified":1582345516,
     "wof:name":"Berchem",
     "wof:parent_id":101748099,
     "wof:placetype":"neighbourhood",

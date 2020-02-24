@@ -67,6 +67,9 @@
         "wk:page":"Deurle"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"aa226e85bddec8c176c6383b20985b01",
     "wof:hierarchy":[
         {
@@ -80,7 +83,7 @@
         }
     ],
     "wof:id":101755679,
-    "wof:lastmodified":1566611843,
+    "wof:lastmodified":1582345547,
     "wof:name":"Deurle",
     "wof:parent_id":1108830439,
     "wof:placetype":"locality",

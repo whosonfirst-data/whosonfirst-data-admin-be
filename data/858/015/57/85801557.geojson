@@ -96,6 +96,9 @@
         "qs_pg:id":1103551
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"ef261951b01343949c4da12461fb1330",
     "wof:hierarchy":[
         {
@@ -112,7 +115,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1566611070,
+    "wof:lastmodified":1582345513,
     "wof:name":"Le Merlo",
     "wof:parent_id":101751573,
     "wof:placetype":"neighbourhood",

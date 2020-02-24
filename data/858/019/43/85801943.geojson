@@ -74,6 +74,9 @@
         "qs_pg:id":1116044
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"87d3b62ab92aa88b5ef826b0b3f37bd0",
     "wof:hierarchy":[
         {
@@ -90,7 +93,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1566611097,
+    "wof:lastmodified":1582345519,
     "wof:name":"Tenreuken",
     "wof:parent_id":101751573,
     "wof:placetype":"neighbourhood",

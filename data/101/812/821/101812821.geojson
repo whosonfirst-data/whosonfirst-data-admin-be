@@ -153,6 +153,9 @@
         "wk:page":"Meix-devant-Virton"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"82382bab6eb14089767a8281f204f08f",
     "wof:hierarchy":[
         {
@@ -165,7 +168,7 @@
         }
     ],
     "wof:id":101812821,
-    "wof:lastmodified":1566611911,
+    "wof:lastmodified":1582345558,
     "wof:name":"Meix-devant-Virton",
     "wof:parent_id":102049907,
     "wof:placetype":"locality",

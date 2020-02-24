@@ -146,6 +146,9 @@
         "wd:id":"Q746078"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"7d58a75ac86314ef1443846e1170ace6",
     "wof:hierarchy":[
         {
@@ -159,7 +162,7 @@
         }
     ],
     "wof:id":101755439,
-    "wof:lastmodified":1566611820,
+    "wof:lastmodified":1582345543,
     "wof:name":"Boortmeerbeek",
     "wof:parent_id":1108830657,
     "wof:placetype":"locality",

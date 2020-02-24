@@ -72,6 +72,9 @@
         "wd:id":"Q2928815"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"040cbfcc454768063a899ef6a8ceee2d",
     "wof:hierarchy":[
         {
@@ -85,7 +88,7 @@
         }
     ],
     "wof:id":101810311,
-    "wof:lastmodified":1566611891,
+    "wof:lastmodified":1582345556,
     "wof:name":"Ruddervoorde",
     "wof:parent_id":1108830181,
     "wof:placetype":"locality",

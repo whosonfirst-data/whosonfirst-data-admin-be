@@ -170,6 +170,9 @@
         "qs_pg:id":1243812
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"ce3bc86b8711069b06a60abeacfb26f0",
     "wof:hierarchy":[
         {
@@ -182,7 +185,7 @@
         }
     ],
     "wof:id":101755157,
-    "wof:lastmodified":1566611808,
+    "wof:lastmodified":1582345541,
     "wof:name":"Kelmis",
     "wof:parent_id":102049935,
     "wof:placetype":"locality",

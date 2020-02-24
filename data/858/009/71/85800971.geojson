@@ -85,6 +85,9 @@
         "qs_pg:id":899887
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"2a17ca57273c766d17a55d5dc4bef96d",
     "wof:hierarchy":[
         {
@@ -101,7 +104,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1566611082,
+    "wof:lastmodified":1582345516,
     "wof:name":"Broek",
     "wof:parent_id":101751573,
     "wof:placetype":"neighbourhood",

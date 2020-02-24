@@ -95,6 +95,10 @@
         "qs_pg:id":1114865
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"effd179c9ba0d664481b11541d537ed9",
     "wof:hierarchy":[
         {
@@ -112,7 +116,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1566611071,
+    "wof:lastmodified":1582345514,
     "wof:name":"Lage Kaart",
     "wof:parent_id":101755759,
     "wof:placetype":"neighbourhood",

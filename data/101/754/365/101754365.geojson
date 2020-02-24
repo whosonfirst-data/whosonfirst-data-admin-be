@@ -179,6 +179,9 @@
         "wd:id":"Q615109"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"2bc458cc6f825168559e56df6e3a3b43",
     "wof:hierarchy":[
         {
@@ -192,7 +195,7 @@
         }
     ],
     "wof:id":101754365,
-    "wof:lastmodified":1566611858,
+    "wof:lastmodified":1582345549,
     "wof:name":"Duffel",
     "wof:parent_id":1108830291,
     "wof:placetype":"locality",

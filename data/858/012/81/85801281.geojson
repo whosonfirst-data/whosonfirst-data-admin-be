@@ -155,6 +155,9 @@
         "wk:page":"Hoboken, Antwerp"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"0dade16f86c440b1681877888de522ce",
     "wof:hierarchy":[
         {
@@ -172,7 +175,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1566611073,
+    "wof:lastmodified":1582345514,
     "wof:name":"Hoboken-lez-Anvers",
     "wof:parent_id":101839013,
     "wof:placetype":"neighbourhood",

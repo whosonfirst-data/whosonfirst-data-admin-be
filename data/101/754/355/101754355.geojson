@@ -162,6 +162,9 @@
         "wk:page":"Wetteren"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"54adafe9d21eb09480c153f259e9c259",
     "wof:hierarchy":[
         {
@@ -175,7 +178,7 @@
         }
     ],
     "wof:id":101754355,
-    "wof:lastmodified":1566611859,
+    "wof:lastmodified":1582345549,
     "wof:name":"Wetteren",
     "wof:parent_id":1108830329,
     "wof:placetype":"locality",

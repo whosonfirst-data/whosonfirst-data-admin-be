@@ -55,6 +55,9 @@
         "qs_pg:id":326515
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"d847e7f05c0d3c942e2a199d9fe276d6",
     "wof:hierarchy":[
         {
@@ -68,7 +71,7 @@
         }
     ],
     "wof:id":101755273,
-    "wof:lastmodified":1566611814,
+    "wof:lastmodified":1582345542,
     "wof:name":"Smeermaas",
     "wof:parent_id":1108830075,
     "wof:placetype":"locality",

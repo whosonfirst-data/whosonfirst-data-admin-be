@@ -150,6 +150,9 @@
         "wk:page":"Esneux"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"5c577bbae54c674a4eed972625731496",
     "wof:hierarchy":[
         {
@@ -165,7 +168,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1566611857,
+    "wof:lastmodified":1582345549,
     "wof:name":"Esneux",
     "wof:parent_id":102049941,
     "wof:placetype":"locality",

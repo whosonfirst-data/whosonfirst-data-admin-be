@@ -158,6 +158,9 @@
         "wd:id":"Q735842"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"65dd1f070ab81c10744e6aa3d2e0f705",
     "wof:hierarchy":[
         {
@@ -171,7 +174,7 @@
         }
     ],
     "wof:id":101755569,
-    "wof:lastmodified":1566611806,
+    "wof:lastmodified":1582345541,
     "wof:name":"Ledegem",
     "wof:parent_id":1108830277,
     "wof:placetype":"locality",

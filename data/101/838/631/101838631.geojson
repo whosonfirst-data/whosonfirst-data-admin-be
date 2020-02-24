@@ -90,6 +90,9 @@
         "wk:page":"Athus"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"2db9e77933397216bad683544b9dd172",
     "wof:hierarchy":[
         {
@@ -102,7 +105,7 @@
         }
     ],
     "wof:id":101838631,
-    "wof:lastmodified":1566611934,
+    "wof:lastmodified":1582345563,
     "wof:name":"Athus",
     "wof:parent_id":102049909,
     "wof:placetype":"locality",

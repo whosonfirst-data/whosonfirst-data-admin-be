@@ -70,6 +70,9 @@
         "wd:id":"Q2450020"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"772ca2f3168ecd7c1b6e7c861af98e39",
     "wof:hierarchy":[
         {
@@ -82,7 +85,7 @@
         }
     ],
     "wof:id":101754293,
-    "wof:lastmodified":1566611861,
+    "wof:lastmodified":1582345550,
     "wof:name":"Herseaux",
     "wof:parent_id":1108782559,
     "wof:placetype":"locality",

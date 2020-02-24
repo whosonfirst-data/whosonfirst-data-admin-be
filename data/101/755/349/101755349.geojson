@@ -84,6 +84,9 @@
         "wd:id":"Q3472348"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"22376fb4f80db85c9cf097b150309168",
     "wof:hierarchy":[
         {
@@ -97,7 +100,7 @@
         }
     ],
     "wof:id":101755349,
-    "wof:lastmodified":1566611828,
+    "wof:lastmodified":1582345544,
     "wof:name":"Welle",
     "wof:parent_id":1108830457,
     "wof:placetype":"locality",

@@ -89,6 +89,9 @@
         "wk:page":"Rollegem"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"355d55e8ce8349f92bd0e0c60d7d01fa",
     "wof:hierarchy":[
         {
@@ -102,7 +105,7 @@
         }
     ],
     "wof:id":101809237,
-    "wof:lastmodified":1566611952,
+    "wof:lastmodified":1582345566,
     "wof:name":"Rollegem",
     "wof:parent_id":1108830299,
     "wof:placetype":"locality",

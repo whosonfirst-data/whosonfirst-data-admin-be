@@ -75,6 +75,9 @@
         "qs_pg:id":1291352
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"a2c93dd60b7f837cadfb18845f6e7c0b",
     "wof:hierarchy":[
         {
@@ -87,7 +90,7 @@
         }
     ],
     "wof:id":101810413,
-    "wof:lastmodified":1566611881,
+    "wof:lastmodified":1582345554,
     "wof:name":"Qu\u00e9vy-le-Petit",
     "wof:parent_id":102049933,
     "wof:placetype":"locality",

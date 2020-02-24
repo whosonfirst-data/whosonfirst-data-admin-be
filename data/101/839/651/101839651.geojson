@@ -54,6 +54,9 @@
         "qs_pg:id":905410
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"545ae29bb83225170ca4f84e7dcc84e1",
     "wof:hierarchy":[
         {
@@ -66,7 +69,7 @@
         }
     ],
     "wof:id":101839651,
-    "wof:lastmodified":1566611968,
+    "wof:lastmodified":1582345569,
     "wof:name":"Le Bizet",
     "wof:parent_id":1108782559,
     "wof:placetype":"locality",

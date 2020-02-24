@@ -85,6 +85,9 @@
         "wk:page":"Schepdaal"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"498a7ffb37bd0e196ded4a1afb75f0fa",
     "wof:hierarchy":[
         {
@@ -98,7 +101,7 @@
         }
     ],
     "wof:id":101755457,
-    "wof:lastmodified":1566611848,
+    "wof:lastmodified":1582345547,
     "wof:name":"Schepdaal",
     "wof:parent_id":1108830207,
     "wof:placetype":"locality",

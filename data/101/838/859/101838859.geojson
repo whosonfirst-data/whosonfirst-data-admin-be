@@ -66,6 +66,9 @@
         "qs_pg:id":210697
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"ddf108cc978afc0e9446c5142fcc3313",
     "wof:hierarchy":[
         {
@@ -79,7 +82,7 @@
         }
     ],
     "wof:id":101838859,
-    "wof:lastmodified":1566611920,
+    "wof:lastmodified":1582345560,
     "wof:name":"Kiewit",
     "wof:parent_id":1108830649,
     "wof:placetype":"locality",

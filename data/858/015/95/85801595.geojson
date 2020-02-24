@@ -113,6 +113,10 @@
         "wk:page":"Mariakerke, East Flanders"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"12b5a625034b432d6069533e383429d0",
     "wof:hierarchy":[
         {
@@ -130,7 +134,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1566611070,
+    "wof:lastmodified":1582345513,
     "wof:name":"Mariakerke",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

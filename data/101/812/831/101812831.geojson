@@ -157,6 +157,9 @@
         "wk:page":"Florenville"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"935a8572d4267ea24ea2610415014ef0",
     "wof:hierarchy":[
         {
@@ -169,7 +172,7 @@
         }
     ],
     "wof:id":101812831,
-    "wof:lastmodified":1566611912,
+    "wof:lastmodified":1582345558,
     "wof:name":"Florenville",
     "wof:parent_id":102049907,
     "wof:placetype":"locality",

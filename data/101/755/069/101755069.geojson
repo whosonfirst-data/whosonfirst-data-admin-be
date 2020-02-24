@@ -67,6 +67,9 @@
         "wd:id":"Q2596462"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"c05afae8dfedf1d63136e41698d1d4c1",
     "wof:hierarchy":[
         {
@@ -79,7 +82,7 @@
         }
     ],
     "wof:id":101755069,
-    "wof:lastmodified":1566611849,
+    "wof:lastmodified":1582345548,
     "wof:name":"Familleureux",
     "wof:parent_id":102049927,
     "wof:placetype":"locality",

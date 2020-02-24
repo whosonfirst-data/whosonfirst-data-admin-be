@@ -149,6 +149,9 @@
         "wd:id":"Q839119"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"e7205b08bf4eb452ff7ab50bdc72ac4c",
     "wof:hierarchy":[
         {
@@ -162,7 +165,7 @@
         }
     ],
     "wof:id":101809469,
-    "wof:lastmodified":1566611950,
+    "wof:lastmodified":1582345565,
     "wof:name":"Ravels",
     "wof:parent_id":1108830179,
     "wof:placetype":"locality",

@@ -91,6 +91,9 @@
         "wd:id":"Q2282962"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"5e11373f2bedbb6916f6131202b4375a",
     "wof:hierarchy":[
         {
@@ -103,7 +106,7 @@
         }
     ],
     "wof:id":101755019,
-    "wof:lastmodified":1566611843,
+    "wof:lastmodified":1582345547,
     "wof:name":"Carni\u00e8res",
     "wof:parent_id":102049923,
     "wof:placetype":"locality",

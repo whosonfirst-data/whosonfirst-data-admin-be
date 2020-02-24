@@ -211,6 +211,9 @@
         "wk:page":"Sint-Agatha-Berchem"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"0bf955ddb7140e54b11ce672d407aded",
     "wof:hierarchy":[
         {
@@ -227,7 +230,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1566611083,
+    "wof:lastmodified":1582345516,
     "wof:name":"Berchem-Ste.-Agathe",
     "wof:parent_id":101751573,
     "wof:placetype":"neighbourhood",

@@ -68,6 +68,9 @@
         "wd:id":"Q1917077"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"7bd94a577c14ce27535ebca19b7ea1a3",
     "wof:hierarchy":[
         {
@@ -81,7 +84,7 @@
         }
     ],
     "wof:id":101838685,
-    "wof:lastmodified":1566611930,
+    "wof:lastmodified":1582345562,
     "wof:name":"Hoepertingen",
     "wof:parent_id":1108830359,
     "wof:placetype":"locality",
