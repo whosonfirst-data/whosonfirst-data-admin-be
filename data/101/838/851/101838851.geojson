@@ -144,6 +144,9 @@
         "wk:page":"Opglabbeek"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"a0ead067e2ea174d91f194bcd40799c7",
     "wof:hierarchy":[
         {
@@ -157,7 +160,7 @@
         }
     ],
     "wof:id":101838851,
-    "wof:lastmodified":1566611921,
+    "wof:lastmodified":1582345560,
     "wof:name":"Opglabbeek",
     "wof:parent_id":1108830279,
     "wof:placetype":"locality",

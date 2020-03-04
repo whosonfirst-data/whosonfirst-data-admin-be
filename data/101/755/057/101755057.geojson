@@ -67,6 +67,9 @@
         "wd:id":"Q2328062"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"9818dd33e9b6690749e1643f9a2f8233",
     "wof:hierarchy":[
         {
@@ -79,7 +82,7 @@
         }
     ],
     "wof:id":101755057,
-    "wof:lastmodified":1566611847,
+    "wof:lastmodified":1582345547,
     "wof:name":"Forchies-la-Marche",
     "wof:parent_id":102049927,
     "wof:placetype":"locality",

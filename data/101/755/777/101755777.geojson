@@ -68,6 +68,9 @@
         "wd:id":"Q2747279"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"1d169a47ca100c08c03f33c1b08beceb",
     "wof:hierarchy":[
         {
@@ -81,7 +84,7 @@
         }
     ],
     "wof:id":101755777,
-    "wof:lastmodified":1566611830,
+    "wof:lastmodified":1582345544,
     "wof:name":"'s-Gravenwezel",
     "wof:parent_id":1108830185,
     "wof:placetype":"locality",

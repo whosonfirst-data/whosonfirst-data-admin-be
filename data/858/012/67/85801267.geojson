@@ -71,6 +71,9 @@
         "qs_pg:id":484569
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"5056f12927e4177f85483c73e2d5863d",
     "wof:hierarchy":[
         {
@@ -87,7 +90,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1566611073,
+    "wof:lastmodified":1582345514,
     "wof:name":"Het Reuken",
     "wof:parent_id":101751573,
     "wof:placetype":"neighbourhood",

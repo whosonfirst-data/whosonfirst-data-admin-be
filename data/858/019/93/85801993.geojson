@@ -75,6 +75,10 @@
         "qs_pg:id":1104320
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"442005e85b9f69f09170e095291a526e",
     "wof:hierarchy":[
         {
@@ -92,7 +96,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1566611096,
+    "wof:lastmodified":1582345519,
     "wof:name":"Wendelghem",
     "wof:parent_id":101754379,
     "wof:placetype":"neighbourhood",

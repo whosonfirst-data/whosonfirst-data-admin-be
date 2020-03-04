@@ -75,6 +75,9 @@
         "wd:id":"Q1975951"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"554b10b63253942f7be5194a115b4627",
     "wof:hierarchy":[
         {
@@ -88,7 +91,7 @@
         }
     ],
     "wof:id":101809409,
-    "wof:lastmodified":1566611944,
+    "wof:lastmodified":1582345564,
     "wof:name":"Meeuwen",
     "wof:parent_id":1108830211,
     "wof:placetype":"locality",

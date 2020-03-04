@@ -157,6 +157,9 @@
         "wk:page":"Lochristi"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"1faf34ab33302bfd9919eca378c8fb7c",
     "wof:hierarchy":[
         {
@@ -173,7 +176,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1566611856,
+    "wof:lastmodified":1582345549,
     "wof:name":"Lochristi",
     "wof:parent_id":1108830047,
     "wof:placetype":"locality",

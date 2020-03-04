@@ -68,6 +68,9 @@
         "wd:id":"Q936149"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"15d6087b092b8c92646811e57a4fda43",
     "wof:hierarchy":[
         {
@@ -80,7 +83,7 @@
         }
     ],
     "wof:id":101755209,
-    "wof:lastmodified":1566611844,
+    "wof:lastmodified":1582345547,
     "wof:name":"Boussoit",
     "wof:parent_id":102049943,
     "wof:placetype":"locality",

@@ -148,6 +148,9 @@
         "wk:page":"Zingem"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"fee8b36d5baec4d39ab05187e85a233d",
     "wof:hierarchy":[
         {
@@ -164,7 +167,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1566611916,
+    "wof:lastmodified":1582345559,
     "wof:name":"Zingem",
     "wof:parent_id":1108830009,
     "wof:placetype":"locality",

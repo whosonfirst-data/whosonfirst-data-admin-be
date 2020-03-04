@@ -201,6 +201,9 @@
         "wk:page":"Mouscron"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"a230c2f0aa6eb95bd49629dad1f9020a",
     "wof:hierarchy":[
         {
@@ -216,7 +219,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1566611860,
+    "wof:lastmodified":1582345550,
     "wof:name":"Mouscron",
     "wof:parent_id":1108782559,
     "wof:placetype":"locality",

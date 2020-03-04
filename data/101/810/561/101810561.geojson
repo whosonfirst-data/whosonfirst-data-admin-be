@@ -87,6 +87,9 @@
         "wk:page":"Velm"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"c1a5f2f6472335cdec1ede99f94069c7",
     "wof:hierarchy":[
         {
@@ -100,7 +103,7 @@
         }
     ],
     "wof:id":101810561,
-    "wof:lastmodified":1566611879,
+    "wof:lastmodified":1582345554,
     "wof:name":"Velm",
     "wof:parent_id":1108830223,
     "wof:placetype":"locality",

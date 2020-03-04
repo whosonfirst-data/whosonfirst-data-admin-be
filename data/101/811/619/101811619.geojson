@@ -142,6 +142,9 @@
         "wd:id":"Q715371"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"b12b8580dc48ab5bdee09eeea45fbe99",
     "wof:hierarchy":[
         {
@@ -154,7 +157,7 @@
         }
     ],
     "wof:id":101811619,
-    "wof:lastmodified":1566611870,
+    "wof:lastmodified":1582345552,
     "wof:name":"Bi\u00e8vre",
     "wof:parent_id":102049919,
     "wof:placetype":"locality",

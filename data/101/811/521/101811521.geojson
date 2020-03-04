@@ -173,6 +173,9 @@
         "wk:page":"Houffalize"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"54a2988185e5b067f20aa3422e31239c",
     "wof:hierarchy":[
         {
@@ -185,7 +188,7 @@
         }
     ],
     "wof:id":101811521,
-    "wof:lastmodified":1566611872,
+    "wof:lastmodified":1582345552,
     "wof:name":"Houffalize",
     "wof:parent_id":102049915,
     "wof:placetype":"locality",

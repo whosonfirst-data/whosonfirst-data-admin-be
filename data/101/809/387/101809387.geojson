@@ -167,6 +167,9 @@
         "wd:id":"Q736085"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"e605a8e850a96d76371f26c7c5377189",
     "wof:hierarchy":[
         {
@@ -180,7 +183,7 @@
         }
     ],
     "wof:id":101809387,
-    "wof:lastmodified":1566611953,
+    "wof:lastmodified":1582345566,
     "wof:name":"Peer",
     "wof:parent_id":1108830611,
     "wof:placetype":"locality",

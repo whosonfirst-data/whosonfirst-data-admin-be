@@ -156,6 +156,9 @@
         "qs_pg:id":1104369
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"07217d76449abf4cfbdfac4751a3e2b2",
     "wof:hierarchy":[
         {
@@ -172,7 +175,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1566611860,
+    "wof:lastmodified":1582345550,
     "wof:name":"Wommelgem",
     "wof:parent_id":1108830431,
     "wof:placetype":"locality",

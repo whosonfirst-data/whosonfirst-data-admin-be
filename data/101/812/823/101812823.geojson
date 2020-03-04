@@ -74,6 +74,9 @@
         "wd:id":"Q2126463"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"b3a39d2be2d10a3d7a3287d27c8b6c90",
     "wof:hierarchy":[
         {
@@ -89,7 +92,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1566611911,
+    "wof:lastmodified":1582345558,
     "wof:name":"\u00c8the",
     "wof:parent_id":102049907,
     "wof:placetype":"locality",

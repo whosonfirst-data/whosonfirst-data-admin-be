@@ -68,6 +68,9 @@
         "wd:id":"Q2721304"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"0d275af3668f5c88541dcfb179c0dea9",
     "wof:hierarchy":[
         {
@@ -83,7 +86,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1566611835,
+    "wof:lastmodified":1582345545,
     "wof:name":"Tilff",
     "wof:parent_id":102049941,
     "wof:placetype":"locality",

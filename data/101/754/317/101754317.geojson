@@ -171,6 +171,9 @@
         "wd:id":"Q385026"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"a18371a0bba0e542ca377690690321d7",
     "wof:hierarchy":[
         {
@@ -187,7 +190,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1566611868,
+    "wof:lastmodified":1582345551,
     "wof:name":"Ninove",
     "wof:parent_id":1108830403,
     "wof:placetype":"locality",

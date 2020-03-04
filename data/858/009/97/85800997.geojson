@@ -56,6 +56,10 @@
         "wd:id":"Q2981920"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"24fa5969af5f2ed7a8a043690cd588a5",
     "wof:hierarchy":[
         {
@@ -72,7 +76,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1566611082,
+    "wof:lastmodified":1582345516,
     "wof:name":"Cointe",
     "wof:parent_id":101748083,
     "wof:placetype":"neighbourhood",

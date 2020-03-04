@@ -116,6 +116,9 @@
         "wd:id":"Q182764"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"ed8c06d6747fc64e58dc597d0b737988",
     "wof:hierarchy":[
         {
@@ -129,7 +132,7 @@
         }
     ],
     "wof:id":101809399,
-    "wof:lastmodified":1566611939,
+    "wof:lastmodified":1582345563,
     "wof:name":"Bree",
     "wof:parent_id":1108830143,
     "wof:placetype":"locality",

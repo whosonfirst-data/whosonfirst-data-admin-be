@@ -148,6 +148,9 @@
         "wk:page":"Qui\u00e9vrain"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"2165b9c1c554d399b162c1f407bc85b1",
     "wof:hierarchy":[
         {
@@ -163,7 +166,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1566611978,
+    "wof:lastmodified":1582345571,
     "wof:name":"Qui\u00e9vrain",
     "wof:parent_id":102049933,
     "wof:placetype":"locality",

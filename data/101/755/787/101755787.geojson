@@ -79,6 +79,9 @@
         "wd:id":"Q2540666"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"5f1417fd95636e3dc7497a0407e45ec6",
     "wof:hierarchy":[
         {
@@ -104,7 +107,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1566611854,
+    "wof:lastmodified":1582345549,
     "wof:name":"Oelegem",
     "wof:parent_id":-4,
     "wof:placetype":"locality",

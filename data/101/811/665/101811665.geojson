@@ -141,6 +141,9 @@
         "wk:page":"Merbes-le-Ch\u00e2teau"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"289d5404a2bcf165a6b32b1a919f58f5",
     "wof:hierarchy":[
         {
@@ -156,7 +159,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1566611876,
+    "wof:lastmodified":1582345553,
     "wof:name":"Merbes-le-Ch\u00e2teau",
     "wof:parent_id":102049923,
     "wof:placetype":"locality",

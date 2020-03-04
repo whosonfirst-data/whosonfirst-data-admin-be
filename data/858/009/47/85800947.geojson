@@ -77,6 +77,9 @@
         "qs_pg:id":481444
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"880fe39368e177a2858dc2986b91cc32",
     "wof:hierarchy":[
         {
@@ -93,7 +96,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1566611082,
+    "wof:lastmodified":1582345516,
     "wof:name":"Boitsfort",
     "wof:parent_id":101751573,
     "wof:placetype":"neighbourhood",

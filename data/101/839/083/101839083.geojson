@@ -146,6 +146,9 @@
         "wd:id":"Q532277"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"93820e3e411c818feaa997c1070d1639",
     "wof:hierarchy":[
         {
@@ -159,7 +162,7 @@
         }
     ],
     "wof:id":101839083,
-    "wof:lastmodified":1566611967,
+    "wof:lastmodified":1582345569,
     "wof:name":"Merksplas",
     "wof:parent_id":1108830633,
     "wof:placetype":"locality",

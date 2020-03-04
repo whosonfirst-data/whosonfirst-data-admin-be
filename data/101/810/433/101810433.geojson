@@ -170,6 +170,9 @@
         "wd:id":"Q506739"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"153ce61ed029d2e46ee9daf591932caa",
     "wof:hierarchy":[
         {
@@ -182,7 +185,7 @@
         }
     ],
     "wof:id":101810433,
-    "wof:lastmodified":1566611890,
+    "wof:lastmodified":1582345556,
     "wof:name":"Limbourg",
     "wof:parent_id":102049935,
     "wof:placetype":"locality",

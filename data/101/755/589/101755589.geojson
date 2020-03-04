@@ -223,6 +223,9 @@
         "wk:page":"Dendermonde"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"cb666c16b32c1aacb30686e53802f39b",
     "wof:hierarchy":[
         {
@@ -239,7 +242,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1566611830,
+    "wof:lastmodified":1582345544,
     "wof:name":"Schoonaarde",
     "wof:parent_id":1108830417,
     "wof:placetype":"locality",

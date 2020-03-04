@@ -84,6 +84,9 @@
         "wd:id":"Q2568819"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"6152c087b00867d084bba363b37d8ef5",
     "wof:hierarchy":[
         {
@@ -100,7 +103,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1566611094,
+    "wof:lastmodified":1582345519,
     "wof:name":"Cureghem",
     "wof:parent_id":101751573,
     "wof:placetype":"neighbourhood",

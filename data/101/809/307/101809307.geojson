@@ -69,6 +69,9 @@
         "wd:id":"Q724562"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"8edaeb5c594d23c3441e11de41a38c39",
     "wof:hierarchy":[
         {
@@ -85,7 +88,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1566611937,
+    "wof:lastmodified":1582345563,
     "wof:name":"Oudegem",
     "wof:parent_id":1108830417,
     "wof:placetype":"locality",

@@ -84,6 +84,9 @@
         "wd:id":"Q2945138"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"c8bb0a16ec3c7c1c5ea1fa6a2510f5c1",
     "wof:hierarchy":[
         {
@@ -99,7 +102,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1566611849,
+    "wof:lastmodified":1582345548,
     "wof:name":"Ransart",
     "wof:parent_id":102049927,
     "wof:placetype":"locality",

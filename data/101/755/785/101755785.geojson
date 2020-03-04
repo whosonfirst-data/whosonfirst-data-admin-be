@@ -140,6 +140,9 @@
         "wd:id":"Q146656"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"fc4c4cdf4d2443bccea795af589ec617",
     "wof:hierarchy":[
         {
@@ -156,7 +159,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1566611827,
+    "wof:lastmodified":1582345544,
     "wof:name":"Zandhoven",
     "wof:parent_id":1108830405,
     "wof:placetype":"locality",

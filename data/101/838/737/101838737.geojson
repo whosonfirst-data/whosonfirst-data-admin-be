@@ -144,6 +144,9 @@
         "wd:id":"Q943502"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"a39f0d9b905f20a11926d28b17cf9a74",
     "wof:hierarchy":[
         {
@@ -157,7 +160,7 @@
         }
     ],
     "wof:id":101838737,
-    "wof:lastmodified":1566611915,
+    "wof:lastmodified":1582345559,
     "wof:name":"Landen",
     "wof:parent_id":1108830259,
     "wof:placetype":"locality",

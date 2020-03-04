@@ -156,6 +156,9 @@
         "wd:id":"Q822651"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"785caeadfa9686432485eb05106e17fd",
     "wof:hierarchy":[
         {
@@ -172,7 +175,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1566611953,
+    "wof:lastmodified":1582345566,
     "wof:name":"Nevele",
     "wof:parent_id":1108830463,
     "wof:placetype":"locality",

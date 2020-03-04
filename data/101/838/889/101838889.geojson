@@ -136,6 +136,9 @@
         "wk:page":"Gavere"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"07786a1d9d860ba9e829768e64a3cebc",
     "wof:hierarchy":[
         {
@@ -152,7 +155,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1566611918,
+    "wof:lastmodified":1582345559,
     "wof:name":"Gavere",
     "wof:parent_id":1108830425,
     "wof:placetype":"locality",

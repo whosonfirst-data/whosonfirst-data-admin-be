@@ -73,6 +73,9 @@
         "wd:id":"Q2265932"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"e2f36ac80d4ad7ae7696719c4e9119eb",
     "wof:hierarchy":[
         {
@@ -85,7 +88,7 @@
         }
     ],
     "wof:id":101811657,
-    "wof:lastmodified":1566611872,
+    "wof:lastmodified":1582345552,
     "wof:name":"Grand-Reng",
     "wof:parent_id":102049923,
     "wof:placetype":"locality",

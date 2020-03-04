@@ -71,6 +71,9 @@
         "wk:page":"Bouwel"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"7b51fdb102c85487fa8894c9dbae235c",
     "wof:hierarchy":[
         {
@@ -84,7 +87,7 @@
         }
     ],
     "wof:id":101839141,
-    "wof:lastmodified":1566611979,
+    "wof:lastmodified":1582345571,
     "wof:name":"Bouwel",
     "wof:parent_id":1108830319,
     "wof:placetype":"locality",

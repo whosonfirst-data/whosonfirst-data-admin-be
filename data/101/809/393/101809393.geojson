@@ -68,6 +68,9 @@
         "wd:id":"Q3194293"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"1702a5408b72d3104734f523657f36c1",
     "wof:hierarchy":[
         {
@@ -81,7 +84,7 @@
         }
     ],
     "wof:id":101809393,
-    "wof:lastmodified":1566611947,
+    "wof:lastmodified":1582345565,
     "wof:name":"Kaulille",
     "wof:parent_id":1108830639,
     "wof:placetype":"locality",

@@ -149,6 +149,9 @@
         "wd:id":"Q819152"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"ffc5faaf9c695af33d7c0f76240e5acc",
     "wof:hierarchy":[
         {
@@ -162,7 +165,7 @@
         }
     ],
     "wof:id":101838697,
-    "wof:lastmodified":1566611932,
+    "wof:lastmodified":1582345562,
     "wof:name":"Hoeselt",
     "wof:parent_id":1108830661,
     "wof:placetype":"locality",

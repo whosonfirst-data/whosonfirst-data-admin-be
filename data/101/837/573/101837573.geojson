@@ -189,6 +189,9 @@
         "wk:page":"Lokeren"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"c1bf089f5d071c54641b3866c0173c6d",
     "wof:hierarchy":[
         {
@@ -205,7 +208,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1566611960,
+    "wof:lastmodified":1582345567,
     "wof:name":"Lokeren",
     "wof:parent_id":1108830451,
     "wof:placetype":"locality",

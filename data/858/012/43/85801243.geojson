@@ -123,6 +123,9 @@
         "wk:page":"Heysel Plateau"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"7abe160d955a4a570d8652d6ceeeef72",
     "wof:hierarchy":[
         {
@@ -139,7 +142,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1566611073,
+    "wof:lastmodified":1582345514,
     "wof:name":"Heysel",
     "wof:parent_id":101751573,
     "wof:placetype":"neighbourhood",

@@ -52,6 +52,9 @@
         "qs_pg:id":326469
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"f753553b2320ad53254721b083327788",
     "wof:hierarchy":[
         {
@@ -65,7 +68,7 @@
         }
     ],
     "wof:id":101839087,
-    "wof:lastmodified":1566611975,
+    "wof:lastmodified":1582345570,
     "wof:name":"Oosthoven",
     "wof:parent_id":1108830455,
     "wof:placetype":"locality",

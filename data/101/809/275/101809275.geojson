@@ -77,6 +77,9 @@
         "wd:id":"Q1024880"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"f8500f34576dcd540e92ea60c561d259",
     "wof:hierarchy":[
         {
@@ -90,7 +93,7 @@
         }
     ],
     "wof:id":101809275,
-    "wof:lastmodified":1566611942,
+    "wof:lastmodified":1582345564,
     "wof:name":"Kemmel",
     "wof:parent_id":1108830671,
     "wof:placetype":"locality",

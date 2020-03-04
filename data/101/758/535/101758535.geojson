@@ -75,6 +75,9 @@
         "wk:page":"Weerde"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"04b926e1a07f31da095b286c7972b581",
     "wof:hierarchy":[
         {
@@ -88,7 +91,7 @@
         }
     ],
     "wof:id":101758535,
-    "wof:lastmodified":1566611908,
+    "wof:lastmodified":1582345558,
     "wof:name":"Weerde",
     "wof:parent_id":1108830589,
     "wof:placetype":"locality",

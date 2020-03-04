@@ -68,6 +68,9 @@
         "wd:id":"Q3471888"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"2c9532890ece32e8aeb0a449b999ff93",
     "wof:hierarchy":[
         {
@@ -81,7 +84,7 @@
         }
     ],
     "wof:id":101755499,
-    "wof:lastmodified":1566611822,
+    "wof:lastmodified":1582345543,
     "wof:name":"Wolvertem",
     "wof:parent_id":1108830037,
     "wof:placetype":"locality",

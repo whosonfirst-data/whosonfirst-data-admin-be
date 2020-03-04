@@ -186,6 +186,9 @@
         "wd:id":"Q623310"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"f532c110f980f769d77c533af6a251d8",
     "wof:hierarchy":[
         {
@@ -202,7 +205,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1566611862,
+    "wof:lastmodified":1582345550,
     "wof:name":"Nieuwpoort",
     "wof:parent_id":1108830679,
     "wof:placetype":"locality",

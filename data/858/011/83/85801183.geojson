@@ -164,6 +164,10 @@
         "wk:page":"Gr\u00e2ce-Hollogne"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
     "wof:geomhash":"2dfba1c90a9e256a271b47bce0002113",
     "wof:hierarchy":[
         {
@@ -180,7 +184,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1566611089,
+    "wof:lastmodified":1582345518,
     "wof:name":"Grace-Hollogne",
     "wof:parent_id":101748083,
     "wof:placetype":"neighbourhood",

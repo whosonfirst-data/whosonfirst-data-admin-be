@@ -142,6 +142,9 @@
         "wk:page":"Zoersel"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"f8b3f37e07237bb5e28de2f84b89fc11",
     "wof:hierarchy":[
         {
@@ -158,7 +161,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1566611833,
+    "wof:lastmodified":1582345545,
     "wof:name":"Zoersel",
     "wof:parent_id":1108830221,
     "wof:placetype":"locality",

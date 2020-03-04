@@ -72,6 +72,9 @@
         "qs_pg:id":1104170
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"c86a49e055c59ca411a33f19eece7de5",
     "wof:hierarchy":[
         {
@@ -88,7 +91,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1566611097,
+    "wof:lastmodified":1582345519,
     "wof:name":"Val Duchesse",
     "wof:parent_id":101751573,
     "wof:placetype":"neighbourhood",

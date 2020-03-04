@@ -170,6 +170,9 @@
         "wd:id":"Q696585"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"f9aa195f63c16525c607dbfacd15512c",
     "wof:hierarchy":[
         {
@@ -183,7 +186,7 @@
         }
     ],
     "wof:id":101913601,
-    "wof:lastmodified":1566611906,
+    "wof:lastmodified":1582345557,
     "wof:name":"Herk-de-Stad",
     "wof:parent_id":1108830495,
     "wof:placetype":"locality",

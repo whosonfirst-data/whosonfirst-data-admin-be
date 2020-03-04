@@ -255,6 +255,9 @@
         "wk:page":"Tournai"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"6f66f47de4634a92a5e4da2ad0e19ecc",
     "wof:hierarchy":[
         {
@@ -270,7 +273,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1566611919,
+    "wof:lastmodified":1582345560,
     "wof:name":"Tournai",
     "wof:parent_id":102049951,
     "wof:placetype":"locality",

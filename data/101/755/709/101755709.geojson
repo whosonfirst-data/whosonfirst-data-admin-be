@@ -153,6 +153,9 @@
         "wd:id":"Q840968"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"e4260cbd6d695e9082a8950e979613ff",
     "wof:hierarchy":[
         {
@@ -169,7 +172,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1566611810,
+    "wof:lastmodified":1582345541,
     "wof:name":"Lovendegem",
     "wof:parent_id":1108830071,
     "wof:placetype":"locality",

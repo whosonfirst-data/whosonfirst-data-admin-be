@@ -145,6 +145,9 @@
         "wd:id":"Q711502"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"5eee6ab03addcdc53c6a808aae8cef2a",
     "wof:hierarchy":[
         {
@@ -157,7 +160,7 @@
         }
     ],
     "wof:id":101810449,
-    "wof:lastmodified":1566611881,
+    "wof:lastmodified":1582345554,
     "wof:name":"Wasseiges",
     "wof:parent_id":102049937,
     "wof:placetype":"locality",

@@ -72,6 +72,9 @@
         "wd:id":"Q2291533"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"28768144de02ba3efb7679b7666e4278",
     "wof:hierarchy":[
         {
@@ -85,7 +88,7 @@
         }
     ],
     "wof:id":101755425,
-    "wof:lastmodified":1566611814,
+    "wof:lastmodified":1582345542,
     "wof:name":"Averbode",
     "wof:parent_id":1108830367,
     "wof:placetype":"locality",

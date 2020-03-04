@@ -167,6 +167,10 @@
         "wd:id":"Q839023"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
     "wof:geomhash":"4b4e3b87af947dc44d79091cc7fa37e9",
     "wof:hierarchy":[
         {
@@ -184,7 +188,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1566611077,
+    "wof:lastmodified":1582345515,
     "wof:name":"Kraainem",
     "wof:parent_id":101913231,
     "wof:placetype":"neighbourhood",

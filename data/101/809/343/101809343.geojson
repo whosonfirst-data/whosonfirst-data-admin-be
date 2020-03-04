@@ -78,6 +78,9 @@
         "wd:id":"Q1816170"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"8d8a19274ae68d3534d973170d47b66f",
     "wof:hierarchy":[
         {
@@ -91,7 +94,7 @@
         }
     ],
     "wof:id":101809343,
-    "wof:lastmodified":1566611954,
+    "wof:lastmodified":1582345566,
     "wof:name":"Bevel",
     "wof:parent_id":1108830199,
     "wof:placetype":"locality",

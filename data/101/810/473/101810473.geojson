@@ -168,6 +168,9 @@
         "wk:page":"Braine-le-Comte"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"f217bd043bf751ac3db7f67112f75e3a",
     "wof:hierarchy":[
         {
@@ -183,7 +186,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1566611889,
+    "wof:lastmodified":1582345555,
     "wof:name":"Braine-le-Comte",
     "wof:parent_id":102049943,
     "wof:placetype":"locality",

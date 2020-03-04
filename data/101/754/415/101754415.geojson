@@ -159,6 +159,9 @@
         "wk:page":"Herentals"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"7e628c17a3c70f0634901f5db66309f6",
     "wof:hierarchy":[
         {
@@ -172,7 +175,7 @@
         }
     ],
     "wof:id":101754415,
-    "wof:lastmodified":1566611860,
+    "wof:lastmodified":1582345550,
     "wof:name":"Herentals",
     "wof:parent_id":1108830061,
     "wof:placetype":"locality",

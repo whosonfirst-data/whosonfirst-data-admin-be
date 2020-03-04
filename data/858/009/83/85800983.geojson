@@ -91,6 +91,9 @@
         "qs_pg:id":1103030
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"655eb16b4d890efd6739f1e6f1bb5e89",
     "wof:hierarchy":[
         {
@@ -107,7 +110,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1566611082,
+    "wof:lastmodified":1582345516,
     "wof:name":"Carlo",
     "wof:parent_id":101913251,
     "wof:placetype":"neighbourhood",

@@ -208,6 +208,9 @@
         "wd:id":"Q242393"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"1cb8bf168c879be6765ff50cfe8709c4",
     "wof:hierarchy":[
         {
@@ -224,7 +227,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1566611084,
+    "wof:lastmodified":1582345517,
     "wof:name":"Woluwe-St.-Pierre",
     "wof:parent_id":101751573,
     "wof:placetype":"neighbourhood",

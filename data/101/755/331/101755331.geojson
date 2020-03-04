@@ -69,6 +69,9 @@
         "wd:id":"Q2690141"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"c5672dd7fcc449dd85b520948f5011f5",
     "wof:hierarchy":[
         {
@@ -82,7 +85,7 @@
         }
     ],
     "wof:id":101755331,
-    "wof:lastmodified":1566611807,
+    "wof:lastmodified":1582345541,
     "wof:name":"Kerksken",
     "wof:parent_id":1108830593,
     "wof:placetype":"locality",

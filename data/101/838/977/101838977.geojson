@@ -84,6 +84,9 @@
         "wd:id":"Q12993"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"b06df7b7fbd379ab83605c02dcdad9dc",
     "wof:hierarchy":[
         {
@@ -97,7 +100,7 @@
         }
     ],
     "wof:id":101838977,
-    "wof:lastmodified":1566611923,
+    "wof:lastmodified":1582345560,
     "wof:name":"Lembeke",
     "wof:parent_id":1108830287,
     "wof:placetype":"locality",

@@ -82,6 +82,9 @@
         "wd:id":"Q2340437"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"fbf0cca022e163f89692757da96df420",
     "wof:hierarchy":[
         {
@@ -98,7 +101,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1566611978,
+    "wof:lastmodified":1582345570,
     "wof:name":"Sint-Lenaarts",
     "wof:parent_id":1108830385,
     "wof:placetype":"locality",

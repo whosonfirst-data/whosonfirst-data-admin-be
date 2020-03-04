@@ -71,6 +71,9 @@
         "wd:id":"Q1850600"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"c48e1ffd4e5ae6d5e82cd30920c750fd",
     "wof:hierarchy":[
         {
@@ -83,7 +86,7 @@
         }
     ],
     "wof:id":101755235,
-    "wof:lastmodified":1566611821,
+    "wof:lastmodified":1582345543,
     "wof:name":"Limelette",
     "wof:parent_id":102049945,
     "wof:placetype":"locality",

@@ -144,6 +144,9 @@
         "wd:id":"Q12437"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"9341dd0b77e113a8c7e8c33a1b06576f",
     "wof:hierarchy":[
         {
@@ -160,7 +163,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1566611964,
+    "wof:lastmodified":1582345568,
     "wof:name":"Kaprijke",
     "wof:parent_id":1108830287,
     "wof:placetype":"locality",

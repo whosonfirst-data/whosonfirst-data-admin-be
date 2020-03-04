@@ -72,6 +72,9 @@
         "qs_pg:id":1267657
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"264eb004c904228a518621439a264c0f",
     "wof:hierarchy":[
         {
@@ -89,7 +92,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1566611075,
+    "wof:lastmodified":1582345514,
     "wof:name":"Stubben-kwartier",
     "wof:parent_id":101748097,
     "wof:placetype":"neighbourhood",

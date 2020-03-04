@@ -163,6 +163,9 @@
         "wd:id":"Q742920"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"2fef4de91def9f7fab7d3a4fa5901662",
     "wof:hierarchy":[
         {
@@ -179,7 +182,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1566611864,
+    "wof:lastmodified":1582345551,
     "wof:name":"Bredene",
     "wof:parent_id":1108830683,
     "wof:placetype":"locality",

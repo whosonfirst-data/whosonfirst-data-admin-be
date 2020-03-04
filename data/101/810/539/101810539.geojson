@@ -71,6 +71,9 @@
         "wd:id":"Q2011107"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"7379c243de58028f7035c7ed49ce80b7",
     "wof:hierarchy":[
         {
@@ -84,7 +87,7 @@
         }
     ],
     "wof:id":101810539,
-    "wof:lastmodified":1566611886,
+    "wof:lastmodified":1582345555,
     "wof:name":"Vlijtingen",
     "wof:parent_id":1108830103,
     "wof:placetype":"locality",

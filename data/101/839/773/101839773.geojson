@@ -276,6 +276,9 @@
         "wk:page":"Brugelette"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"48e460d4da17387f2a4657a77c7eb2fe",
     "wof:hierarchy":[
         {
@@ -291,7 +294,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1566611979,
+    "wof:lastmodified":1582345571,
     "wof:name":"Brugelette",
     "wof:parent_id":102049949,
     "wof:placetype":"locality",

@@ -179,6 +179,9 @@
         "wd:id":"Q49743"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"8691a8c7330e86e6209107035439153f",
     "wof:hierarchy":[
         {
@@ -194,7 +197,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1566611860,
+    "wof:lastmodified":1582345550,
     "wof:name":"Vis\u00e9",
     "wof:parent_id":102049941,
     "wof:placetype":"locality",

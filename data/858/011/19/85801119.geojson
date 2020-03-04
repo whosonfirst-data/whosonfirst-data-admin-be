@@ -73,6 +73,10 @@
         "qs_pg:id":262712
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"bd555a7ddf058ed1e2e5bbb7572da5b6",
     "wof:hierarchy":[
         {
@@ -89,7 +93,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1566611089,
+    "wof:lastmodified":1582345517,
     "wof:name":"El' Heur",
     "wof:parent_id":101758521,
     "wof:placetype":"neighbourhood",

@@ -287,6 +287,9 @@
         "wd:id":"Q912014"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"a302ba469242944dfb196b2a05d63f65",
     "wof:hierarchy":[
         {
@@ -300,7 +303,7 @@
         }
     ],
     "wof:id":101755493,
-    "wof:lastmodified":1566611844,
+    "wof:lastmodified":1582345547,
     "wof:name":"Gooik",
     "wof:parent_id":1108830505,
     "wof:placetype":"locality",

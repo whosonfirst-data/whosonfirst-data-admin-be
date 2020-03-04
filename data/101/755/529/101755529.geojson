@@ -68,6 +68,9 @@
         "wd:id":"Q1056288"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"0c677d92094276fa4e53fd6a5e557036",
     "wof:hierarchy":[
         {
@@ -81,7 +84,7 @@
         }
     ],
     "wof:id":101755529,
-    "wof:lastmodified":1566611828,
+    "wof:lastmodified":1582345544,
     "wof:name":"Huizingen",
     "wof:parent_id":1108830437,
     "wof:placetype":"locality",

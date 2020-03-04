@@ -143,6 +143,9 @@
         "wk:page":"Hamois"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"73c7f5dd3993303a1e600ebbe8ddb399",
     "wof:hierarchy":[
         {
@@ -155,7 +158,7 @@
         }
     ],
     "wof:id":101811585,
-    "wof:lastmodified":1566611877,
+    "wof:lastmodified":1582345553,
     "wof:name":"Hamois",
     "wof:parent_id":102049919,
     "wof:placetype":"locality",

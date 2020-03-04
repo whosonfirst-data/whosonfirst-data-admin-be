@@ -77,6 +77,10 @@
         "qs_pg:id":287538
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"5e2cb82f4525594eb54fd79f3d5cab25",
     "wof:hierarchy":[
         {
@@ -94,7 +98,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1566611075,
+    "wof:lastmodified":1582345514,
     "wof:name":"Kijkuit",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

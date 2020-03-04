@@ -157,6 +157,9 @@
         "wk:page":"Chi\u00e8vres"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"d013eaded2d3e60a0d07ddef0c34a904",
     "wof:hierarchy":[
         {
@@ -172,7 +175,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1566611979,
+    "wof:lastmodified":1582345571,
     "wof:name":"Chi\u00e8vres",
     "wof:parent_id":102049949,
     "wof:placetype":"locality",

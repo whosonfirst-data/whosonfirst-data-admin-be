@@ -157,6 +157,9 @@
         "wk:page":"Zeebrugge"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"a3bd79da67864eb69736ab98011bd998",
     "wof:hierarchy":[
         {
@@ -170,7 +173,7 @@
         }
     ],
     "wof:id":101837577,
-    "wof:lastmodified":1566611962,
+    "wof:lastmodified":1582345568,
     "wof:name":"Zeebrugge",
     "wof:parent_id":1108830689,
     "wof:placetype":"locality",

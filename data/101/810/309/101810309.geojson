@@ -82,6 +82,9 @@
         "wk:page":"Eernegem"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"994ad6ebc77d4f5dd9df95baac262c07",
     "wof:hierarchy":[
         {
@@ -95,7 +98,7 @@
         }
     ],
     "wof:id":101810309,
-    "wof:lastmodified":1566611878,
+    "wof:lastmodified":1582345553,
     "wof:name":"Eernegem",
     "wof:parent_id":1108830057,
     "wof:placetype":"locality",

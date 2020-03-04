@@ -177,6 +177,9 @@
         "wk:page":"Izegem"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"286c688e2b52caa6eec7763bca289731",
     "wof:hierarchy":[
         {
@@ -190,7 +193,7 @@
         }
     ],
     "wof:id":101754347,
-    "wof:lastmodified":1566611863,
+    "wof:lastmodified":1582345550,
     "wof:name":"Izegem",
     "wof:parent_id":1108830151,
     "wof:placetype":"locality",

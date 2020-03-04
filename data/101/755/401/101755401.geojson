@@ -69,6 +69,9 @@
         "wd:id":"Q1988823"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"fd0e0c038c4f432d38f05c0fbdd1469a",
     "wof:hierarchy":[
         {
@@ -82,7 +85,7 @@
         }
     ],
     "wof:id":101755401,
-    "wof:lastmodified":1566611820,
+    "wof:lastmodified":1582345543,
     "wof:name":"Betekom",
     "wof:parent_id":1108830539,
     "wof:placetype":"locality",

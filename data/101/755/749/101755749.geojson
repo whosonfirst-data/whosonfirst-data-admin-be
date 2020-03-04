@@ -166,6 +166,9 @@
         "wk:page":"Oostkamp"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"6b674db98129ee44b04afd59b1eb917b",
     "wof:hierarchy":[
         {
@@ -182,7 +185,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1566611828,
+    "wof:lastmodified":1582345544,
     "wof:name":"Oostkamp",
     "wof:parent_id":1108830181,
     "wof:placetype":"locality",

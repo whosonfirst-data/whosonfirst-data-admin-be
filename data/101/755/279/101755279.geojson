@@ -71,6 +71,9 @@
         "wd:id":"Q585297"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"19ba3f624d7014fd16b0a5f1c984691e",
     "wof:hierarchy":[
         {
@@ -84,7 +87,7 @@
         }
     ],
     "wof:id":101755279,
-    "wof:lastmodified":1566611838,
+    "wof:lastmodified":1582345546,
     "wof:name":"Neerharen",
     "wof:parent_id":1108830075,
     "wof:placetype":"locality",

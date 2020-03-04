@@ -164,6 +164,9 @@
         "wk:page":"Zwijndrecht, Belgium"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"140648db53352ad493a879d9bbbb4989",
     "wof:hierarchy":[
         {
@@ -180,7 +183,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1566611960,
+    "wof:lastmodified":1582345567,
     "wof:name":"Zwijndrecht",
     "wof:parent_id":1108830433,
     "wof:placetype":"locality",

@@ -89,6 +89,9 @@
         "wk:page":"Obourg"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"8ce17960df53a3a9029c3c86f58feeff",
     "wof:hierarchy":[
         {
@@ -101,7 +104,7 @@
         }
     ],
     "wof:id":101755127,
-    "wof:lastmodified":1566611827,
+    "wof:lastmodified":1582345544,
     "wof:name":"Obourg",
     "wof:parent_id":102049933,
     "wof:placetype":"locality",

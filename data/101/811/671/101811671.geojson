@@ -71,6 +71,9 @@
         "wd:id":"Q3475087"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"29972ba8b02a3b32175923b2686597d5",
     "wof:hierarchy":[
         {
@@ -86,7 +89,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1566611874,
+    "wof:lastmodified":1582345552,
     "wof:name":"Thuillies",
     "wof:parent_id":102049923,
     "wof:placetype":"locality",

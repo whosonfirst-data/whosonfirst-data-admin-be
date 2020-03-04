@@ -146,6 +146,9 @@
         "wd:id":"Q724534"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"a34ec9c16300a82ab35e4554d814cf98",
     "wof:hierarchy":[
         {
@@ -159,7 +162,7 @@
         }
     ],
     "wof:id":101808131,
-    "wof:lastmodified":1566611964,
+    "wof:lastmodified":1582345568,
     "wof:name":"Herenthout",
     "wof:parent_id":1108830597,
     "wof:placetype":"locality",

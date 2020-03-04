@@ -169,6 +169,9 @@
         "wd:id":"Q492351"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"4c20d15cac957d26224b111c8fa4e7f4",
     "wof:hierarchy":[
         {
@@ -185,7 +188,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1566611951,
+    "wof:lastmodified":1582345566,
     "wof:name":"De Haan",
     "wof:parent_id":1108830685,
     "wof:placetype":"locality",

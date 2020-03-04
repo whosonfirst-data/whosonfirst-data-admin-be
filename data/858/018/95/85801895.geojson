@@ -76,6 +76,9 @@
         "qs_pg:id":228746
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"8c82c381457d302575b3a3d887e1fd86",
     "wof:hierarchy":[
         {
@@ -93,7 +96,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1566611085,
+    "wof:lastmodified":1582345517,
     "wof:name":"St. Pieters",
     "wof:parent_id":101748097,
     "wof:placetype":"neighbourhood",

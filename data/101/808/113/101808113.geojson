@@ -294,6 +294,9 @@
         "wd:id":"Q215244"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"8baa3dc212918378c6ec679aedc4ba31",
     "wof:hierarchy":[
         {
@@ -310,7 +313,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1566611964,
+    "wof:lastmodified":1582345568,
     "wof:name":"Diksmuide",
     "wof:parent_id":1108830401,
     "wof:placetype":"locality",

@@ -60,6 +60,10 @@
         "wd:id":"Q3464441"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"a40017d07c710cbd4291efda61fa25e1",
     "wof:hierarchy":[
         {
@@ -76,7 +80,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1566611096,
+    "wof:lastmodified":1582345519,
     "wof:name":"Ste.-Walburge",
     "wof:parent_id":101748083,
     "wof:placetype":"neighbourhood",

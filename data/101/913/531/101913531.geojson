@@ -72,6 +72,9 @@
         "wk:page":"Kwaadmechelen"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"72aab68fbdcd86e5c78a76c9b2b063e1",
     "wof:hierarchy":[
         {
@@ -85,7 +88,7 @@
         }
     ],
     "wof:id":101913531,
-    "wof:lastmodified":1561831420,
+    "wof:lastmodified":1582345557,
     "wof:name":"Kwaadmechelen",
     "wof:parent_id":1108830379,
     "wof:placetype":"locality",

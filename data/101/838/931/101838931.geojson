@@ -69,6 +69,9 @@
         "wd:id":"Q63940"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"25c901711d90e5252e6287c51cbd376b",
     "wof:hierarchy":[
         {
@@ -82,7 +85,7 @@
         }
     ],
     "wof:id":101838931,
-    "wof:lastmodified":1566611913,
+    "wof:lastmodified":1582345559,
     "wof:name":"Lutlommel",
     "wof:parent_id":1108830169,
     "wof:placetype":"locality",

@@ -147,6 +147,9 @@
         "wd:id":"Q725268"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"aa5d649d60a562d0a45480b6576dfefa",
     "wof:hierarchy":[
         {
@@ -163,7 +166,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1566611861,
+    "wof:lastmodified":1582345550,
     "wof:name":"Lint",
     "wof:parent_id":1108830615,
     "wof:placetype":"locality",

@@ -104,6 +104,10 @@
         "wk:page":"Afsnee"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"b74d71f042bdca2894955771ac0d17f4",
     "wof:hierarchy":[
         {
@@ -121,7 +125,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1566611080,
+    "wof:lastmodified":1582345516,
     "wof:name":"Afsnee",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -149,6 +149,9 @@
         "wd:id":"Q914102"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"0135b3d57688acfd27fdbb95d8e1c748",
     "wof:hierarchy":[
         {
@@ -164,7 +167,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1566611890,
+    "wof:lastmodified":1582345556,
     "wof:name":"Juprelle",
     "wof:parent_id":102049941,
     "wof:placetype":"locality",

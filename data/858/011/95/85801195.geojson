@@ -72,6 +72,10 @@
         "qs_pg:id":1103278
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
     "wof:geomhash":"50f10f19abcc6a48bad3b7e67c830422",
     "wof:hierarchy":[
         {
@@ -89,7 +93,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1566611088,
+    "wof:lastmodified":1582345517,
     "wof:name":"Grand-Bigard",
     "wof:parent_id":101755455,
     "wof:placetype":"neighbourhood",

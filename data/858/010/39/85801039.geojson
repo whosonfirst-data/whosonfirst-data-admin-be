@@ -76,6 +76,10 @@
         "qs_pg:id":394035
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
     "wof:geomhash":"ebe4642de6edecd0d4474bc745fd0234",
     "wof:hierarchy":[
         {
@@ -93,7 +97,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1566611094,
+    "wof:lastmodified":1582345519,
     "wof:name":"Dachelenberg",
     "wof:parent_id":101755535,
     "wof:placetype":"neighbourhood",

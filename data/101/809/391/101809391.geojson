@@ -74,6 +74,9 @@
         "wd:id":"Q1592929"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"925872fcf7a0a572b6c99e536387d215",
     "wof:hierarchy":[
         {
@@ -87,7 +90,7 @@
         }
     ],
     "wof:id":101809391,
-    "wof:lastmodified":1566611938,
+    "wof:lastmodified":1582345563,
     "wof:name":"Hechtel",
     "wof:parent_id":1108830149,
     "wof:placetype":"locality",

@@ -63,6 +63,9 @@
         "qs_pg:id":186908
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"bd45d6c553f86f98fa7706460928ff92",
     "wof:hierarchy":[
         {
@@ -76,7 +79,7 @@
         }
     ],
     "wof:id":101838953,
-    "wof:lastmodified":1566611914,
+    "wof:lastmodified":1582345559,
     "wof:name":"Kerkhoven",
     "wof:parent_id":1108830169,
     "wof:placetype":"locality",

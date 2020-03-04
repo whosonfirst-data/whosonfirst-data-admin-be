@@ -153,6 +153,9 @@
         "wk:page":"Bornem"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"6f563fba4a67757b0d0216a01d75e90b",
     "wof:hierarchy":[
         {
@@ -166,7 +169,7 @@
         }
     ],
     "wof:id":101754367,
-    "wof:lastmodified":1566611864,
+    "wof:lastmodified":1582345551,
     "wof:name":"Bornem",
     "wof:parent_id":1108830535,
     "wof:placetype":"locality",

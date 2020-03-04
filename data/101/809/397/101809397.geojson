@@ -122,6 +122,9 @@
         "wd:id":"Q1159144"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"06816b4ee018b18f6f0f4fc2537c548e",
     "wof:hierarchy":[
         {
@@ -135,7 +138,7 @@
         }
     ],
     "wof:id":101809397,
-    "wof:lastmodified":1566611940,
+    "wof:lastmodified":1582345563,
     "wof:name":"Bocholt",
     "wof:parent_id":1108830639,
     "wof:placetype":"locality",

@@ -150,6 +150,9 @@
         "wd:id":"Q696825"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"f4e70c96d6372ce18862401164874219",
     "wof:hierarchy":[
         {
@@ -166,7 +169,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1566611863,
+    "wof:lastmodified":1582345550,
     "wof:name":"Denderleeuw",
     "wof:parent_id":1108830457,
     "wof:placetype":"locality",

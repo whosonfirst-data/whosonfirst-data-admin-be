@@ -145,6 +145,9 @@
         "wd:id":"Q713786"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"8024aa4416462d51f34fa45c9101a20e",
     "wof:hierarchy":[
         {
@@ -157,7 +160,7 @@
         }
     ],
     "wof:id":101812819,
-    "wof:lastmodified":1566611911,
+    "wof:lastmodified":1582345558,
     "wof:name":"Saint-L\u00e9ger",
     "wof:parent_id":102049907,
     "wof:placetype":"locality",

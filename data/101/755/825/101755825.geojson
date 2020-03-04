@@ -159,6 +159,9 @@
         "wk:page":"Westerlo"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"4b60cc0d9877b49dc2b003fac0bc1509",
     "wof:hierarchy":[
         {
@@ -172,7 +175,7 @@
         }
     ],
     "wof:id":101755825,
-    "wof:lastmodified":1566611843,
+    "wof:lastmodified":1582345547,
     "wof:name":"Westerlo",
     "wof:parent_id":1108830077,
     "wof:placetype":"locality",

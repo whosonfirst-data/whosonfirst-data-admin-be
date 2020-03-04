@@ -72,6 +72,9 @@
         "wd:id":"Q2083298"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"d15c512639012355dfa17aa66f7581ae",
     "wof:hierarchy":[
         {
@@ -88,7 +91,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1566611931,
+    "wof:lastmodified":1582345562,
     "wof:name":"Kermt",
     "wof:parent_id":1108830649,
     "wof:placetype":"locality",

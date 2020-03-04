@@ -70,6 +70,9 @@
         "wd:id":"Q1828501"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"7b4426c74f4b1040ad3fd44cd8020890",
     "wof:hierarchy":[
         {
@@ -82,7 +85,7 @@
         }
     ],
     "wof:id":101811503,
-    "wof:lastmodified":1566611870,
+    "wof:lastmodified":1582345552,
     "wof:name":"Libramont",
     "wof:parent_id":102049913,
     "wof:placetype":"locality",

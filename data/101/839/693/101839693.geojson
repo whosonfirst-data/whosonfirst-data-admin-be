@@ -52,6 +52,9 @@
         "qs_pg:id":234667
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"2bb5211890e78810bfaf97c3a4c4e8e5",
     "wof:hierarchy":[
         {
@@ -65,7 +68,7 @@
         }
     ],
     "wof:id":101839693,
-    "wof:lastmodified":1566611969,
+    "wof:lastmodified":1582345569,
     "wof:name":"Schoonbeek",
     "wof:parent_id":1108830245,
     "wof:placetype":"locality",

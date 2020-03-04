@@ -245,6 +245,9 @@
         "wk:page":"Sint-Niklaas"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"5456c92a9b2c33446a5baa483864b732",
     "wof:hierarchy":[
         {
@@ -261,7 +264,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1566611955,
+    "wof:lastmodified":1582345566,
     "wof:name":"Sint-Niklaas",
     "wof:parent_id":1108830559,
     "wof:placetype":"locality",

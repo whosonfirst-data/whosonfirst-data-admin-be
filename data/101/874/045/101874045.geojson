@@ -69,6 +69,9 @@
         "wd:id":"Q2997099"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"87bd8283f443a00976d1bccec7196e25",
     "wof:hierarchy":[
         {
@@ -82,7 +85,7 @@
         }
     ],
     "wof:id":101874045,
-    "wof:lastmodified":1566611878,
+    "wof:lastmodified":1582345553,
     "wof:name":"Sint-Joris-Weert",
     "wof:parent_id":1108830043,
     "wof:placetype":"locality",

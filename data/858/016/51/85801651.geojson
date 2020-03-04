@@ -73,6 +73,10 @@
         "qs_pg:id":1116042
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
     "wof:geomhash":"343ac44df504af29ac5f8b13e99514ac",
     "wof:hierarchy":[
         {
@@ -89,7 +93,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1566611091,
+    "wof:lastmodified":1582345518,
     "wof:name":"Moortebeek",
     "wof:parent_id":101751573,
     "wof:placetype":"neighbourhood",

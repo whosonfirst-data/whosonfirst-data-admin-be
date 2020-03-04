@@ -150,6 +150,9 @@
         "wk:page":"Buggenhout"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"8aabf911898800aefaea2737ab624873",
     "wof:hierarchy":[
         {
@@ -163,7 +166,7 @@
         }
     ],
     "wof:id":101755581,
-    "wof:lastmodified":1566611827,
+    "wof:lastmodified":1582345544,
     "wof:name":"Buggenhout",
     "wof:parent_id":1108830107,
     "wof:placetype":"locality",

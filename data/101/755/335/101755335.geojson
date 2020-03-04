@@ -85,6 +85,9 @@
         "wk:page":"Erpe"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"e649ca4bf4e27bcaecef002dfe792c41",
     "wof:hierarchy":[
         {
@@ -98,7 +101,7 @@
         }
     ],
     "wof:id":101755335,
-    "wof:lastmodified":1566611833,
+    "wof:lastmodified":1582345545,
     "wof:name":"Erpe",
     "wof:parent_id":1108830215,
     "wof:placetype":"locality",

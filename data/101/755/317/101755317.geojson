@@ -74,6 +74,9 @@
         "wd:id":"Q1978079"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"749def8eaae46a37f132bdaaf4ce3edb",
     "wof:hierarchy":[
         {
@@ -87,7 +90,7 @@
         }
     ],
     "wof:id":101755317,
-    "wof:lastmodified":1566611854,
+    "wof:lastmodified":1582345549,
     "wof:name":"Gullegem",
     "wof:parent_id":1108830127,
     "wof:placetype":"locality",

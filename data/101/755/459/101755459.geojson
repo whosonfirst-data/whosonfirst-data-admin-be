@@ -181,6 +181,9 @@
         "wk:page":"Sint-Pieters-Leeuw"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"76991f526d2430a6dd3421fc07265a61",
     "wof:hierarchy":[
         {
@@ -197,7 +200,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1566611849,
+    "wof:lastmodified":1582345548,
     "wof:name":"Sint-Pieters-Leeuw",
     "wof:parent_id":1108830529,
     "wof:placetype":"locality",

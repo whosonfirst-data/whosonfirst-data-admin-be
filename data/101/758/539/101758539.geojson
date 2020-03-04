@@ -65,6 +65,9 @@
         "wd:id":"Q969681"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"ea0c298327884f11650b7f16becaae11",
     "wof:hierarchy":[
         {
@@ -78,7 +81,7 @@
         }
     ],
     "wof:id":101758539,
-    "wof:lastmodified":1566611909,
+    "wof:lastmodified":1582345558,
     "wof:name":"Schellebelle",
     "wof:parent_id":1108830489,
     "wof:placetype":"locality",

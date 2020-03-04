@@ -74,6 +74,9 @@
         "wd:id":"Q2168341"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"19ab1ad34d8ec4d824615980460da19b",
     "wof:hierarchy":[
         {
@@ -87,7 +90,7 @@
         }
     ],
     "wof:id":101755455,
-    "wof:lastmodified":1566611822,
+    "wof:lastmodified":1582345543,
     "wof:name":"Groot-Bijgaarden",
     "wof:parent_id":1108830207,
     "wof:placetype":"locality",

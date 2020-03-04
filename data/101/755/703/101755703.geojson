@@ -154,6 +154,9 @@
         "wd:id":"Q737538"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"19671d185264bfd90fa274d7c6eea493",
     "wof:hierarchy":[
         {
@@ -170,7 +173,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1566611834,
+    "wof:lastmodified":1582345545,
     "wof:name":"Sint-Martens-Latem",
     "wof:parent_id":1108830439,
     "wof:placetype":"locality",

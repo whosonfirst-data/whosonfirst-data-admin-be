@@ -52,6 +52,9 @@
         "qs_pg:id":191680
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"91dabc8c8672eb8c234e26f93880daec",
     "wof:hierarchy":[
         {
@@ -65,7 +68,7 @@
         }
     ],
     "wof:id":101839053,
-    "wof:lastmodified":1566611968,
+    "wof:lastmodified":1582345569,
     "wof:name":"Achterbroek",
     "wof:parent_id":1108830415,
     "wof:placetype":"locality",

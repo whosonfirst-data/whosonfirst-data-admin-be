@@ -52,6 +52,9 @@
         "qs_pg:id":1060864
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"12c3dd7b99ed728e2a606ff00793de4a",
     "wof:hierarchy":[
         {
@@ -65,7 +68,7 @@
         }
     ],
     "wof:id":101755829,
-    "wof:lastmodified":1566611813,
+    "wof:lastmodified":1582345542,
     "wof:name":"Voortkapel",
     "wof:parent_id":1108830077,
     "wof:placetype":"locality",

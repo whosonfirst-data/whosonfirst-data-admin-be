@@ -147,6 +147,9 @@
         "wk:page":"Oosterzele"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"ccc778a52be2e3ffcac0bc1d893b1f82",
     "wof:hierarchy":[
         {
@@ -163,7 +166,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1566611914,
+    "wof:lastmodified":1582345559,
     "wof:name":"Oosterzele",
     "wof:parent_id":1108830191,
     "wof:placetype":"locality",

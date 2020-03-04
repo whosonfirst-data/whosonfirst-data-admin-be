@@ -77,6 +77,9 @@
         "wk:page":"Baudour"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"c7f3012f1fc89ccb917b19b468fc1dd2",
     "wof:hierarchy":[
         {
@@ -89,7 +92,7 @@
         }
     ],
     "wof:id":101755123,
-    "wof:lastmodified":1566611852,
+    "wof:lastmodified":1582345548,
     "wof:name":"Baudour",
     "wof:parent_id":102049933,
     "wof:placetype":"locality",

@@ -69,6 +69,9 @@
         "gp:id":976580
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"19bb8d934f89ef0ff598073e51c2e3bd",
     "wof:hierarchy":[
         {
@@ -86,7 +89,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1566611087,
+    "wof:lastmodified":1582345517,
     "wof:name":"Ruysbroeck",
     "wof:parent_id":101913243,
     "wof:placetype":"neighbourhood",

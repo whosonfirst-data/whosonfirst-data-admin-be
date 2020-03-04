@@ -83,6 +83,9 @@
         "wd:id":"Q12987"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"48604aece04732ceb05c2768d4589f43",
     "wof:hierarchy":[
         {
@@ -96,7 +99,7 @@
         }
     ],
     "wof:id":101809421,
-    "wof:lastmodified":1566611948,
+    "wof:lastmodified":1582345565,
     "wof:name":"Bassevelde",
     "wof:parent_id":1108830271,
     "wof:placetype":"locality",

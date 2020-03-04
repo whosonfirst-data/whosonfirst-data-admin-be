@@ -144,6 +144,9 @@
         "wk:page":"Herent"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"4bfa007a4e2952ca223a5a9bb0a84f7e",
     "wof:hierarchy":[
         {
@@ -157,7 +160,7 @@
         }
     ],
     "wof:id":101755373,
-    "wof:lastmodified":1566611854,
+    "wof:lastmodified":1582345548,
     "wof:name":"Herent",
     "wof:parent_id":1108830251,
     "wof:placetype":"locality",

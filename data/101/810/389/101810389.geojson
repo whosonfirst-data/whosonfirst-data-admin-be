@@ -77,6 +77,9 @@
         "wd:id":"Q2921292"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"d3ef977226dd98ea20d4f3e286ca8de1",
     "wof:hierarchy":[
         {
@@ -89,7 +92,7 @@
         }
     ],
     "wof:id":101810389,
-    "wof:lastmodified":1566611891,
+    "wof:lastmodified":1582345556,
     "wof:name":"Mellet",
     "wof:parent_id":102049927,
     "wof:placetype":"locality",

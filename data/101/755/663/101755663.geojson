@@ -75,6 +75,9 @@
         "wd:id":"Q404176"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"2cae591c9922d2da65ad0fc3ad4ff0bd",
     "wof:hierarchy":[
         {
@@ -88,7 +91,7 @@
         }
     ],
     "wof:id":101755663,
-    "wof:lastmodified":1566611845,
+    "wof:lastmodified":1582345547,
     "wof:name":"Ruisbroek",
     "wof:parent_id":1108830309,
     "wof:placetype":"locality",

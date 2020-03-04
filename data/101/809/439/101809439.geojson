@@ -306,6 +306,9 @@
         "wk:page":"Damme"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"fcbf91203b59e9d3b1e7b86ad3a5c625",
     "wof:hierarchy":[
         {
@@ -322,7 +325,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1566611943,
+    "wof:lastmodified":1582345564,
     "wof:name":"Damme",
     "wof:parent_id":1108830063,
     "wof:placetype":"locality",

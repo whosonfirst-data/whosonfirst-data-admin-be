@@ -77,6 +77,9 @@
         "wd:id":"Q323176"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"228378e66d8d28ed8275bb599cc22021",
     "wof:hierarchy":[
         {
@@ -90,7 +93,7 @@
         }
     ],
     "wof:id":101839695,
-    "wof:lastmodified":1566611970,
+    "wof:lastmodified":1582345569,
     "wof:name":"Munsterbilzen",
     "wof:parent_id":1108830245,
     "wof:placetype":"locality",

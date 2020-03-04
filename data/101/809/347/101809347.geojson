@@ -82,6 +82,9 @@
         "wk:page":"Oppuurs"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"d2a9bef90f5d7d465f4139db1e22359e",
     "wof:hierarchy":[
         {
@@ -95,7 +98,7 @@
         }
     ],
     "wof:id":101809347,
-    "wof:lastmodified":1566611945,
+    "wof:lastmodified":1582345565,
     "wof:name":"Oppuurs",
     "wof:parent_id":1108830145,
     "wof:placetype":"locality",

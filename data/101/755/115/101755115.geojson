@@ -71,6 +71,9 @@
         "wd:id":"Q2394198"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"094fb0ea6aedaff757be34574f02737b",
     "wof:hierarchy":[
         {
@@ -83,7 +86,7 @@
         }
     ],
     "wof:id":101755115,
-    "wof:lastmodified":1566611851,
+    "wof:lastmodified":1582345548,
     "wof:name":"Tertre",
     "wof:parent_id":102049933,
     "wof:placetype":"locality",

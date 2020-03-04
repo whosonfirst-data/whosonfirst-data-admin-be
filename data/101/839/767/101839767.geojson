@@ -150,6 +150,9 @@
         "wk:page":"Sombreffe"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"600d5d696a3000575bff10f4dd6adefe",
     "wof:hierarchy":[
         {
@@ -165,7 +168,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1566611973,
+    "wof:lastmodified":1582345570,
     "wof:name":"Sombreffe",
     "wof:parent_id":102049931,
     "wof:placetype":"locality",

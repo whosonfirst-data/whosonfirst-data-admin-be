@@ -146,6 +146,9 @@
         "wd:id":"Q119331"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"9d5a607f6f6eb0b5aca96d5caecff87a",
     "wof:hierarchy":[
         {
@@ -159,7 +162,7 @@
         }
     ],
     "wof:id":101838701,
-    "wof:lastmodified":1566611914,
+    "wof:lastmodified":1582345559,
     "wof:name":"Wellen",
     "wof:parent_id":1108830011,
     "wof:placetype":"locality",

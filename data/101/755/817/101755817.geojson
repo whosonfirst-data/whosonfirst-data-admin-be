@@ -62,6 +62,9 @@
         "wd:id":"Q2208007"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"f4054f2f13d3ebf5e4071e931b68e263",
     "wof:hierarchy":[
         {
@@ -75,7 +78,7 @@
         }
     ],
     "wof:id":101755817,
-    "wof:lastmodified":1566611817,
+    "wof:lastmodified":1582345542,
     "wof:name":"Heultje",
     "wof:parent_id":1108830503,
     "wof:placetype":"locality",

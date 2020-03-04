@@ -152,6 +152,9 @@
         "wk:page":"Jalhay"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"2681a140e03d8b4a68651c0ed3e1fd8e",
     "wof:hierarchy":[
         {
@@ -164,7 +167,7 @@
         }
     ],
     "wof:id":101810431,
-    "wof:lastmodified":1566611883,
+    "wof:lastmodified":1582345554,
     "wof:name":"Jalhay",
     "wof:parent_id":102049935,
     "wof:placetype":"locality",

@@ -150,6 +150,9 @@
         "wk:page":"Fexhe-le-Haut-Clocher"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"8ea6c61355c3a5016280c170bbe4a1d1",
     "wof:hierarchy":[
         {
@@ -165,7 +168,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1566611889,
+    "wof:lastmodified":1582345556,
     "wof:name":"Fexhe-le-Haut-Clocher",
     "wof:parent_id":102049937,
     "wof:placetype":"locality",

@@ -88,6 +88,9 @@
         "wk:page":"Westkapelle, Belgium"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"ddcb7992163c536044cc47e88855661e",
     "wof:hierarchy":[
         {
@@ -101,7 +104,7 @@
         }
     ],
     "wof:id":101837579,
-    "wof:lastmodified":1566611962,
+    "wof:lastmodified":1582345568,
     "wof:name":"Westkapelle",
     "wof:parent_id":1108830675,
     "wof:placetype":"locality",

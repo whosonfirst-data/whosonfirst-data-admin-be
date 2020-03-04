@@ -82,6 +82,9 @@
         "wd:id":"Q2115016"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"ddba68b3f810a91fddb4fc12779b746a",
     "wof:hierarchy":[
         {
@@ -95,7 +98,7 @@
         }
     ],
     "wof:id":101838955,
-    "wof:lastmodified":1566611917,
+    "wof:lastmodified":1582345559,
     "wof:name":"Houthalen",
     "wof:parent_id":1108830235,
     "wof:placetype":"locality",

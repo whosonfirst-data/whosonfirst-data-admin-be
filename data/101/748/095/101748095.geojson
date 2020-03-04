@@ -270,6 +270,9 @@
         "wk:page":"Ostend"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"a71d95c5114b4549cf8fb207ff87ff6a",
     "wof:hierarchy":[
         {
@@ -286,7 +289,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1566611895,
+    "wof:lastmodified":1582345557,
     "wof:name":"Oostende",
     "wof:parent_id":1108830687,
     "wof:placetype":"locality",

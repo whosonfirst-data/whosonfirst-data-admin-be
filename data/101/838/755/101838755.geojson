@@ -66,6 +66,9 @@
         "wd:id":"Q2162244"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"a0e8caaf13b183d1f9fd2a4dd2d83872",
     "wof:hierarchy":[
         {
@@ -79,7 +82,7 @@
         }
     ],
     "wof:id":101838755,
-    "wof:lastmodified":1566611914,
+    "wof:lastmodified":1582345559,
     "wof:name":"Attenhoven",
     "wof:parent_id":1108830259,
     "wof:placetype":"locality",

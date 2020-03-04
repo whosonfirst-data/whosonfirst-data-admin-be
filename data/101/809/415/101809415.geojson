@@ -87,6 +87,9 @@
         "wd:id":"Q12986"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"3e29dbe8ff1a7d5ff809892d43355d49",
     "wof:hierarchy":[
         {
@@ -100,7 +103,7 @@
         }
     ],
     "wof:id":101809415,
-    "wof:lastmodified":1566611942,
+    "wof:lastmodified":1582345564,
     "wof:name":"Boekhoute",
     "wof:parent_id":1108830271,
     "wof:placetype":"locality",

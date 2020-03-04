@@ -146,6 +146,9 @@
         "wk:page":"Brecht, Belgium"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"4468c94cd5db2e588ad58b286ba7913c",
     "wof:hierarchy":[
         {
@@ -162,7 +165,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1566611978,
+    "wof:lastmodified":1582345571,
     "wof:name":"Brecht",
     "wof:parent_id":1108830385,
     "wof:placetype":"locality",

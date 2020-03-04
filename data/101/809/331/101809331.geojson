@@ -172,6 +172,9 @@
         "wd:id":"Q639974"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"45ae64f4ca4dfc96b78bc4c61dc763af",
     "wof:hierarchy":[
         {
@@ -188,7 +191,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1566611938,
+    "wof:lastmodified":1582345563,
     "wof:name":"Ardooie",
     "wof:parent_id":1108830041,
     "wof:placetype":"locality",

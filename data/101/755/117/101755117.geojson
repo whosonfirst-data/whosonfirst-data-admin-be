@@ -86,6 +86,9 @@
         "wk:page":"Havr\u00e9"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"5192311c102c107480c1afa8168b74c7",
     "wof:hierarchy":[
         {
@@ -98,7 +101,7 @@
         }
     ],
     "wof:id":101755117,
-    "wof:lastmodified":1566611831,
+    "wof:lastmodified":1582345545,
     "wof:name":"Havr\u00e9",
     "wof:parent_id":102049943,
     "wof:placetype":"locality",

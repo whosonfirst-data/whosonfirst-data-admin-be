@@ -78,6 +78,9 @@
         "wd:id":"Q787775"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"b388c11518244342e2ec4dd0d7c11e71",
     "wof:hierarchy":[
         {
@@ -94,7 +97,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1566611854,
+    "wof:lastmodified":1582345549,
     "wof:name":"Baasrode",
     "wof:parent_id":1108830417,
     "wof:placetype":"locality",

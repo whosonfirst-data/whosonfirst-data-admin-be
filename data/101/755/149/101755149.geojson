@@ -70,6 +70,9 @@
         "wd:id":"Q2846884"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"c5aa1a24fd2c39fb808d604f6f114cab",
     "wof:hierarchy":[
         {
@@ -82,7 +85,7 @@
         }
     ],
     "wof:id":101755149,
-    "wof:lastmodified":1566611856,
+    "wof:lastmodified":1582345549,
     "wof:name":"Andrimont",
     "wof:parent_id":102049935,
     "wof:placetype":"locality",

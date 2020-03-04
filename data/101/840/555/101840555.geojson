@@ -141,6 +141,9 @@
         "wk:page":"Erquelinnes"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"477ede671d4409324be3774a95d69e39",
     "wof:hierarchy":[
         {
@@ -156,7 +159,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1566611913,
+    "wof:lastmodified":1582345559,
     "wof:name":"Erquelinnes",
     "wof:parent_id":102049923,
     "wof:placetype":"locality",

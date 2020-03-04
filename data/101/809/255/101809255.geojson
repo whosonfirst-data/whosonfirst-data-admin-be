@@ -81,6 +81,9 @@
         "wk:page":"Bavegem"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"c77eb3363e780eff86e915e0483ec6ad",
     "wof:hierarchy":[
         {
@@ -94,7 +97,7 @@
         }
     ],
     "wof:id":101809255,
-    "wof:lastmodified":1566611952,
+    "wof:lastmodified":1582345566,
     "wof:name":"Bavegem",
     "wof:parent_id":1108830121,
     "wof:placetype":"locality",

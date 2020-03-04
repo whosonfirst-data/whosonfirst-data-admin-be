@@ -74,6 +74,9 @@
         "wd:id":"Q1930545"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"91aa011cc8b56cfcac9f313479f0c889",
     "wof:hierarchy":[
         {
@@ -87,7 +90,7 @@
         }
     ],
     "wof:id":101838853,
-    "wof:lastmodified":1566611933,
+    "wof:lastmodified":1582345562,
     "wof:name":"Zelem",
     "wof:parent_id":1108830269,
     "wof:placetype":"locality",

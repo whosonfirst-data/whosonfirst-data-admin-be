@@ -141,6 +141,9 @@
         "wd:id":"Q929485"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"220bb81968dc6643d3637d22e91dd839",
     "wof:hierarchy":[
         {
@@ -154,7 +157,7 @@
         }
     ],
     "wof:id":101839099,
-    "wof:lastmodified":1566611969,
+    "wof:lastmodified":1582345569,
     "wof:name":"Vosselaar",
     "wof:parent_id":1108830349,
     "wof:placetype":"locality",

@@ -160,6 +160,9 @@
         "wk:page":"Houthulst"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"8f20c2da0d108bf9ce232608af349af4",
     "wof:hierarchy":[
         {
@@ -173,7 +176,7 @@
         }
     ],
     "wof:id":101809353,
-    "wof:lastmodified":1566611938,
+    "wof:lastmodified":1582345563,
     "wof:name":"Houthulst",
     "wof:parent_id":1108830335,
     "wof:placetype":"locality",

@@ -173,6 +173,9 @@
         "wd:id":"Q9845"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"b0d16daa66cf21bab0a12ab6618e3810",
     "wof:hierarchy":[
         {
@@ -186,7 +189,7 @@
         }
     ],
     "wof:id":101838811,
-    "wof:lastmodified":1566611918,
+    "wof:lastmodified":1582345559,
     "wof:name":"Heusden",
     "wof:parent_id":1108830323,
     "wof:placetype":"locality",

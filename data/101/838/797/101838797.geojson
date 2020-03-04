@@ -68,6 +68,9 @@
         "wd:id":"Q2388089"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"b5a1968fc9bfe79eb013873e5c5aa88c",
     "wof:hierarchy":[
         {
@@ -81,7 +84,7 @@
         }
     ],
     "wof:id":101838797,
-    "wof:lastmodified":1566611913,
+    "wof:lastmodified":1582345559,
     "wof:name":"Schulen",
     "wof:parent_id":1108830495,
     "wof:placetype":"locality",

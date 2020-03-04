@@ -68,6 +68,9 @@
         "wk:page":"Luttre"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"38d0fc0b4c7c4b6801af881a469fd5e7",
     "wof:hierarchy":[
         {
@@ -80,7 +83,7 @@
         }
     ],
     "wof:id":101839755,
-    "wof:lastmodified":1566611965,
+    "wof:lastmodified":1582345568,
     "wof:name":"Luttre",
     "wof:parent_id":102049927,
     "wof:placetype":"locality",

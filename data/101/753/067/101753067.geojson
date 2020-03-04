@@ -70,6 +70,9 @@
         "wd:id":"Q2538750"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"e4b50bb6d86a7de5a8a89eef8eb89d0b",
     "wof:hierarchy":[
         {
@@ -82,7 +85,7 @@
         }
     ],
     "wof:id":101753067,
-    "wof:lastmodified":1566611868,
+    "wof:lastmodified":1582345551,
     "wof:name":"Leers-Nord",
     "wof:parent_id":102049951,
     "wof:placetype":"locality",

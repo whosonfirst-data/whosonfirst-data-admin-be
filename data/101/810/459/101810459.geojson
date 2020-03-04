@@ -67,6 +67,9 @@
         "wd:id":"Q2200700"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"26d3ea9df9d015bc738ae269334669ba",
     "wof:hierarchy":[
         {
@@ -79,7 +82,7 @@
         }
     ],
     "wof:id":101810459,
-    "wof:lastmodified":1566611891,
+    "wof:lastmodified":1582345556,
     "wof:name":"Momalle",
     "wof:parent_id":102049937,
     "wof:placetype":"locality",

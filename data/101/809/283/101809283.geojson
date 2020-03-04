@@ -140,6 +140,9 @@
         "wd:id":"Q912106"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"1ca9b02bd27c3cb930177b186fea0c30",
     "wof:hierarchy":[
         {
@@ -153,7 +156,7 @@
         }
     ],
     "wof:id":101809283,
-    "wof:lastmodified":1566611947,
+    "wof:lastmodified":1582345565,
     "wof:name":"Merchtem",
     "wof:parent_id":1108830297,
     "wof:placetype":"locality",

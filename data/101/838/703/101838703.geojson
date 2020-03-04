@@ -68,6 +68,9 @@
         "wd:id":"Q1849663"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"0c63b5a158a6bbbcc360a29249196886",
     "wof:hierarchy":[
         {
@@ -81,7 +84,7 @@
         }
     ],
     "wof:id":101838703,
-    "wof:lastmodified":1566611928,
+    "wof:lastmodified":1582345561,
     "wof:name":"Heestert",
     "wof:parent_id":1108830095,
     "wof:placetype":"locality",

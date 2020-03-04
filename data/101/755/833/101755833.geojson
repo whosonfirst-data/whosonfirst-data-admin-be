@@ -81,6 +81,9 @@
         "wk:page":"Morkhoven"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"5a8a4d98fbeb25b85c88acf59a879ddd",
     "wof:hierarchy":[
         {
@@ -94,7 +97,7 @@
         }
     ],
     "wof:id":101755833,
-    "wof:lastmodified":1566611824,
+    "wof:lastmodified":1582345543,
     "wof:name":"Morkhoven",
     "wof:parent_id":1108830061,
     "wof:placetype":"locality",

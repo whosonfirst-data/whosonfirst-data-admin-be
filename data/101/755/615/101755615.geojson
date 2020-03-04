@@ -151,6 +151,9 @@
         "wk:page":"Oostrozebeke"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"783e412b859c5c5d9cd5027d91f4c7d0",
     "wof:hierarchy":[
         {
@@ -167,7 +170,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1566611841,
+    "wof:lastmodified":1582345546,
     "wof:name":"Oostrozebeke",
     "wof:parent_id":1108830079,
     "wof:placetype":"locality",

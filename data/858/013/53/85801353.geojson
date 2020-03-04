@@ -76,6 +76,9 @@
         "qs_pg:id":1103493
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"5edd5312ec1541d54620c08ffb0c5143",
     "wof:hierarchy":[
         {
@@ -92,7 +95,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1566611076,
+    "wof:lastmodified":1582345515,
     "wof:name":"Kapelveld",
     "wof:parent_id":101751573,
     "wof:placetype":"neighbourhood",

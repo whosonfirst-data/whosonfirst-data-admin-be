@@ -69,6 +69,9 @@
         "wd:id":"Q1824478"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"c60d313258c5de2a86eb3659da011ee0",
     "wof:hierarchy":[
         {
@@ -85,7 +88,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1566611944,
+    "wof:lastmodified":1582345564,
     "wof:name":"Loenhout",
     "wof:parent_id":1108830509,
     "wof:placetype":"locality",

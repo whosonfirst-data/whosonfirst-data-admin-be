@@ -78,6 +78,9 @@
         "qs_pg:id":1103530
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"254d61e2da9bcd31412d68f14ee5e57a",
     "wof:hierarchy":[
         {
@@ -94,7 +97,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1566611070,
+    "wof:lastmodified":1582345514,
     "wof:name":"La Chasse",
     "wof:parent_id":101751573,
     "wof:placetype":"neighbourhood",

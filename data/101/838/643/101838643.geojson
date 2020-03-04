@@ -71,6 +71,9 @@
         "wd:id":"Q2398607"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"e9340f7ca9a54576c77d58f6952e83d0",
     "wof:hierarchy":[
         {
@@ -86,7 +89,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1566611918,
+    "wof:lastmodified":1582345559,
     "wof:name":"Wonck",
     "wof:parent_id":102049941,
     "wof:placetype":"locality",

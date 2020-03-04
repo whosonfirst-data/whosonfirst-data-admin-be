@@ -116,6 +116,9 @@
         "wd:id":"Q2122534"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"0ac72651a57e724e32fd306e7c85e8e3",
     "wof:hierarchy":[
         {
@@ -133,7 +136,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1566611085,
+    "wof:lastmodified":1582345517,
     "wof:name":"Quatre Bras",
     "wof:parent_id":101913235,
     "wof:placetype":"neighbourhood",

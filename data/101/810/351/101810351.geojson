@@ -149,6 +149,9 @@
         "wk:page":"Havelange"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"e960a5a192634b107adf92f7f6830fe9",
     "wof:hierarchy":[
         {
@@ -161,7 +164,7 @@
         }
     ],
     "wof:id":101810351,
-    "wof:lastmodified":1566611886,
+    "wof:lastmodified":1582345555,
     "wof:name":"Havelange",
     "wof:parent_id":102049919,
     "wof:placetype":"locality",

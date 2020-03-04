@@ -157,6 +157,10 @@
         "wd:id":"Q724055"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
     "wof:geomhash":"e6a0dd62dead4eb6c6539eacfa104864",
     "wof:hierarchy":[
         {
@@ -174,7 +178,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1566611081,
+    "wof:lastmodified":1582345516,
     "wof:name":"Borsbeek",
     "wof:parent_id":101748099,
     "wof:placetype":"neighbourhood",

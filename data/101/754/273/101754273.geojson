@@ -218,6 +218,9 @@
         "wk:page":"Eupen"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"481bc49777777894b78430d167a58a2a",
     "wof:hierarchy":[
         {
@@ -230,7 +233,7 @@
         }
     ],
     "wof:id":101754273,
-    "wof:lastmodified":1566611859,
+    "wof:lastmodified":1582345550,
     "wof:name":"Eupen",
     "wof:parent_id":102049935,
     "wof:placetype":"locality",

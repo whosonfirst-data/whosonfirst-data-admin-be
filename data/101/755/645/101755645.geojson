@@ -299,6 +299,9 @@
         "wd:id":"Q528222"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"4a2057a94c178f92fa17ef5e5b14d4b2",
     "wof:hierarchy":[
         {
@@ -312,7 +315,7 @@
         }
     ],
     "wof:id":101755645,
-    "wof:lastmodified":1566611816,
+    "wof:lastmodified":1582345542,
     "wof:name":"Bonheiden",
     "wof:parent_id":1108830049,
     "wof:placetype":"locality",

@@ -68,6 +68,9 @@
         "wd:id":"Q2526091"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"bdf6204cbca8ab984894e9378ffed0fe",
     "wof:hierarchy":[
         {
@@ -81,7 +84,7 @@
         }
     ],
     "wof:id":101839145,
-    "wof:lastmodified":1566611970,
+    "wof:lastmodified":1582345569,
     "wof:name":"Eindhout",
     "wof:parent_id":1108830163,
     "wof:placetype":"locality",

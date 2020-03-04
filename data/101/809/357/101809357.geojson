@@ -158,6 +158,9 @@
         "wd:id":"Q822795"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"50c15891c218b757567fb1334e3c5adf",
     "wof:hierarchy":[
         {
@@ -171,7 +174,7 @@
         }
     ],
     "wof:id":101809357,
-    "wof:lastmodified":1566611946,
+    "wof:lastmodified":1582345565,
     "wof:name":"Koekelare",
     "wof:parent_id":1108830305,
     "wof:placetype":"locality",

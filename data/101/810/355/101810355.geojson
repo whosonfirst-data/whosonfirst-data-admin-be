@@ -146,6 +146,9 @@
         "wk:page":"Hamoir"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"9e28c7779558edf0585d268821599178",
     "wof:hierarchy":[
         {
@@ -158,7 +161,7 @@
         }
     ],
     "wof:id":101810355,
-    "wof:lastmodified":1566611880,
+    "wof:lastmodified":1582345554,
     "wof:name":"Hamoir",
     "wof:parent_id":102049925,
     "wof:placetype":"locality",

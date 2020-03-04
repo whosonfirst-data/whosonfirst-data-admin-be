@@ -159,6 +159,9 @@
         "wk:page":"Zonhoven"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"c9d2db3a9a0cd9ed149c6938d383401d",
     "wof:hierarchy":[
         {
@@ -172,7 +175,7 @@
         }
     ],
     "wof:id":101838775,
-    "wof:lastmodified":1566611935,
+    "wof:lastmodified":1582345563,
     "wof:name":"Zonhoven",
     "wof:parent_id":1108830153,
     "wof:placetype":"locality",

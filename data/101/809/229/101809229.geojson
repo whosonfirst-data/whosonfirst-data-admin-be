@@ -91,6 +91,9 @@
         "wk:page":"Bellegem"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"53e8228fe53ae648be0fbf5e70a18166",
     "wof:hierarchy":[
         {
@@ -104,7 +107,7 @@
         }
     ],
     "wof:id":101809229,
-    "wof:lastmodified":1566611940,
+    "wof:lastmodified":1582345563,
     "wof:name":"Bellegem",
     "wof:parent_id":1108830299,
     "wof:placetype":"locality",

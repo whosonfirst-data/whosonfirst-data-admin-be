@@ -260,6 +260,9 @@
         "wd:id":"Q2751461"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"0690fade573f3a600914317c27a39a29",
     "wof:hierarchy":[
         {
@@ -273,7 +276,7 @@
         }
     ],
     "wof:id":101809447,
-    "wof:lastmodified":1566611940,
+    "wof:lastmodified":1582345564,
     "wof:name":"Aartrijke",
     "wof:parent_id":1108830317,
     "wof:placetype":"locality",

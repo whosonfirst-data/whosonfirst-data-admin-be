@@ -169,6 +169,9 @@
         "qs_pg:id":966824
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"d9a5901b5bd8eaaf717401a6fdab702c",
     "wof:hierarchy":[
         {
@@ -181,7 +184,7 @@
         }
     ],
     "wof:id":101811439,
-    "wof:lastmodified":1566611871,
+    "wof:lastmodified":1582345552,
     "wof:name":"Perwez",
     "wof:parent_id":102049945,
     "wof:placetype":"locality",

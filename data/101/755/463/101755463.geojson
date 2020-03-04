@@ -75,6 +75,9 @@
         "wk:page":"Teralfene"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"90c6bb842374667d38cfe9370982de74",
     "wof:hierarchy":[
         {
@@ -88,7 +91,7 @@
         }
     ],
     "wof:id":101755463,
-    "wof:lastmodified":1566611821,
+    "wof:lastmodified":1582345543,
     "wof:name":"Teralfene",
     "wof:parent_id":1108830109,
     "wof:placetype":"locality",

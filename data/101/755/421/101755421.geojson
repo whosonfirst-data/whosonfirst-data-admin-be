@@ -144,6 +144,9 @@
         "wd:id":"Q929447"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"38d14952d19926a5367b37aa9241b0e5",
     "wof:hierarchy":[
         {
@@ -157,7 +160,7 @@
         }
     ],
     "wof:id":101755421,
-    "wof:lastmodified":1566611837,
+    "wof:lastmodified":1582345546,
     "wof:name":"Lubbeek",
     "wof:parent_id":1108830497,
     "wof:placetype":"locality",

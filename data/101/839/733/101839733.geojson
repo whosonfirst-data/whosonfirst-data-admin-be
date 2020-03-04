@@ -158,6 +158,9 @@
         "wk:page":"Messancy"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"a178bf528cf72331f288934d619cf0f2",
     "wof:hierarchy":[
         {
@@ -170,7 +173,7 @@
         }
     ],
     "wof:id":101839733,
-    "wof:lastmodified":1566611973,
+    "wof:lastmodified":1582345570,
     "wof:name":"Messancy",
     "wof:parent_id":102049909,
     "wof:placetype":"locality",

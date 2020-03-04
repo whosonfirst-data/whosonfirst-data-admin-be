@@ -159,6 +159,9 @@
         "wk:page":"Halen"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"0e89f3ead1f2d97be1faecd5bf946e09",
     "wof:hierarchy":[
         {
@@ -172,7 +175,7 @@
         }
     ],
     "wof:id":101838805,
-    "wof:lastmodified":1566611923,
+    "wof:lastmodified":1582345560,
     "wof:name":"Halen",
     "wof:parent_id":1108830269,
     "wof:placetype":"locality",

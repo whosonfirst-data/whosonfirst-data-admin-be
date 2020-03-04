@@ -154,6 +154,9 @@
         "wd:id":"Q690926"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"c3c99394618f1123fd696b3f59e5b3a6",
     "wof:hierarchy":[
         {
@@ -166,7 +169,7 @@
         }
     ],
     "wof:id":101812839,
-    "wof:lastmodified":1566611912,
+    "wof:lastmodified":1582345559,
     "wof:name":"Attert",
     "wof:parent_id":102049909,
     "wof:placetype":"locality",

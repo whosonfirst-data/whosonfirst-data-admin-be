@@ -188,6 +188,9 @@
         "wk:page":"Soignies"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"cd57551b8bdce818b9334bce3536f646",
     "wof:hierarchy":[
         {
@@ -203,7 +206,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1566611881,
+    "wof:lastmodified":1582345554,
     "wof:name":"Soignies",
     "wof:parent_id":102049943,
     "wof:placetype":"locality",

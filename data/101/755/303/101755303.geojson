@@ -190,6 +190,9 @@
         "wk:page":"Wevelgem"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"67f06be2cc69bf2313371e647cc0b862",
     "wof:hierarchy":[
         {
@@ -206,7 +209,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1566611832,
+    "wof:lastmodified":1582345545,
     "wof:name":"Wevelgem",
     "wof:parent_id":1108830127,
     "wof:placetype":"locality",

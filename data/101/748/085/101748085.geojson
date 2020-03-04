@@ -286,6 +286,9 @@
         "wk:page":"Kortrijk"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"6fc8743e67b6d48b188bf8a727b477de",
     "wof:hierarchy":[
         {
@@ -302,7 +305,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1566611894,
+    "wof:lastmodified":1582345556,
     "wof:name":"Kortrijk",
     "wof:parent_id":1108830299,
     "wof:placetype":"locality",

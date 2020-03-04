@@ -144,6 +144,9 @@
         "wk:page":"Balen"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"9782711930c30a30be420145f61e6861",
     "wof:hierarchy":[
         {
@@ -157,7 +160,7 @@
         }
     ],
     "wof:id":101913549,
-    "wof:lastmodified":1561831421,
+    "wof:lastmodified":1582345558,
     "wof:name":"Balen",
     "wof:parent_id":1108830443,
     "wof:placetype":"locality",

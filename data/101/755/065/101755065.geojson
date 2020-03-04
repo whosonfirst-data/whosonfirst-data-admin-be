@@ -152,6 +152,9 @@
         "wd:id":"Q666902"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"20b4f25c671c730175eaae296099e312",
     "wof:hierarchy":[
         {
@@ -167,7 +170,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1566611819,
+    "wof:lastmodified":1582345543,
     "wof:name":"Gerpinnes",
     "wof:parent_id":102049927,
     "wof:placetype":"locality",

@@ -170,6 +170,9 @@
         "wk:page":"Tubize"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"359553cb2a23558bbe970ff28acedd0b",
     "wof:hierarchy":[
         {
@@ -182,7 +185,7 @@
         }
     ],
     "wof:id":101754283,
-    "wof:lastmodified":1566611864,
+    "wof:lastmodified":1582345551,
     "wof:name":"Tubize",
     "wof:parent_id":102049945,
     "wof:placetype":"locality",

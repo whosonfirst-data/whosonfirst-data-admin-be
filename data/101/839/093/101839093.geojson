@@ -153,6 +153,9 @@
         "wd:id":"Q723728"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"e0e854e62d82757bd39dbd5daf2deb36",
     "wof:hierarchy":[
         {
@@ -166,7 +169,7 @@
         }
     ],
     "wof:id":101839093,
-    "wof:lastmodified":1566611978,
+    "wof:lastmodified":1582345570,
     "wof:name":"Beerse",
     "wof:parent_id":1108830491,
     "wof:placetype":"locality",

@@ -271,6 +271,9 @@
         "wk:page":"Ypres"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"1b455d61afd00598adfe5ced8fe6b72e",
     "wof:hierarchy":[
         {
@@ -287,7 +290,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1566611962,
+    "wof:lastmodified":1582345568,
     "wof:name":"Ieper",
     "wof:parent_id":1108830595,
     "wof:placetype":"locality",

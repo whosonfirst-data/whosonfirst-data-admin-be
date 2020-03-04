@@ -70,6 +70,9 @@
         "wd:id":"Q2340066"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"7107a392d475083004dd1b9f77f7fe76",
     "wof:hierarchy":[
         {
@@ -82,7 +85,7 @@
         }
     ],
     "wof:id":101839735,
-    "wof:lastmodified":1566611974,
+    "wof:lastmodified":1582345570,
     "wof:name":"Halanzy",
     "wof:parent_id":102049909,
     "wof:placetype":"locality",

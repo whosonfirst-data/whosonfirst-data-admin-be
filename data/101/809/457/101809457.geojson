@@ -69,6 +69,9 @@
         "wd:id":"Q2227222"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"ba02f146c0996cfbfc5df1156b20aa2a",
     "wof:hierarchy":[
         {
@@ -85,7 +88,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1566611951,
+    "wof:lastmodified":1582345566,
     "wof:name":"Pulderbos",
     "wof:parent_id":1108830405,
     "wof:placetype":"locality",

@@ -151,6 +151,9 @@
         "wk:page":"Moerbeke"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"fbde1aff0465e4370b11214227510e17",
     "wof:hierarchy":[
         {
@@ -167,7 +170,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1566611947,
+    "wof:lastmodified":1582345565,
     "wof:name":"Moerbeke",
     "wof:parent_id":1108830603,
     "wof:placetype":"locality",

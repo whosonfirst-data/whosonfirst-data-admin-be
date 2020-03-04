@@ -70,6 +70,9 @@
         "wd:id":"Q2653961"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"19f2c21626929a41dc02ad69ecdb2869",
     "wof:hierarchy":[
         {
@@ -82,7 +85,7 @@
         }
     ],
     "wof:id":101755027,
-    "wof:lastmodified":1566611839,
+    "wof:lastmodified":1582345546,
     "wof:name":"Ham-sur-Heure",
     "wof:parent_id":102049923,
     "wof:placetype":"locality",

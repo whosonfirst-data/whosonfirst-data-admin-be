@@ -287,6 +287,9 @@
         "wd:id":"Q599127"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"3aec339693a788a47938f50e8cd8bc65",
     "wof:hierarchy":[
         {
@@ -300,7 +303,7 @@
         }
     ],
     "wof:id":101755537,
-    "wof:lastmodified":1566611831,
+    "wof:lastmodified":1582345545,
     "wof:name":"Overijse",
     "wof:parent_id":1108830581,
     "wof:placetype":"locality",

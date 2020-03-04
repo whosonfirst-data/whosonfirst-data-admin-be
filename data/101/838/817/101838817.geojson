@@ -65,6 +65,9 @@
         "wd:id":"Q1816342"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"8fac8f32a3196ef10c1233f0d010958d",
     "wof:hierarchy":[
         {
@@ -78,7 +81,7 @@
         }
     ],
     "wof:id":101838817,
-    "wof:lastmodified":1561831423,
+    "wof:lastmodified":1582345560,
     "wof:name":"Oostham",
     "wof:parent_id":1108830379,
     "wof:placetype":"locality",

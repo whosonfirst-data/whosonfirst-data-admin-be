@@ -75,6 +75,9 @@
         "wd:id":"Q2610272"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"cf5b6f5c3c05529ecd24fd1e871f219b",
     "wof:hierarchy":[
         {
@@ -88,7 +91,7 @@
         }
     ],
     "wof:id":101755325,
-    "wof:lastmodified":1566611831,
+    "wof:lastmodified":1582345544,
     "wof:name":"Spiere",
     "wof:parent_id":1108830369,
     "wof:placetype":"locality",

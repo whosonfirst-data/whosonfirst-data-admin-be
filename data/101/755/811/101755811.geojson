@@ -131,6 +131,9 @@
         "wd:id":"Q518758"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"c15a6368f76c40faf4d227c1c882a6bc",
     "wof:hierarchy":[
         {
@@ -144,7 +147,7 @@
         }
     ],
     "wof:id":101755811,
-    "wof:lastmodified":1566611814,
+    "wof:lastmodified":1582345542,
     "wof:name":"Hulshout",
     "wof:parent_id":1108830503,
     "wof:placetype":"locality",

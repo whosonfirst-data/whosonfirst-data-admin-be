@@ -154,6 +154,9 @@
         "wk:page":"Wielsbeke"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"28c78a82b0dba5408aae07de7399c57d",
     "wof:hierarchy":[
         {
@@ -170,7 +173,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1566611814,
+    "wof:lastmodified":1582345542,
     "wof:name":"Wielsbeke",
     "wof:parent_id":1108830481,
     "wof:placetype":"locality",

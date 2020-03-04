@@ -198,6 +198,9 @@
         "qs_pg:id":1285579
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"1a6247a5aea8c449b051885b368e3263",
     "wof:hierarchy":[
         {
@@ -214,7 +217,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1566611961,
+    "wof:lastmodified":1582345568,
     "wof:name":"Aalter",
     "wof:parent_id":1108830383,
     "wof:placetype":"locality",

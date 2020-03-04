@@ -70,6 +70,9 @@
         "wk:page":"Heusden, Belgium"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"20d9f51fe1df49aa28511bcc3096e53c",
     "wof:hierarchy":[
         {
@@ -83,7 +86,7 @@
         }
     ],
     "wof:id":101755695,
-    "wof:lastmodified":1566611825,
+    "wof:lastmodified":1582345543,
     "wof:name":"Heusden",
     "wof:parent_id":1108830493,
     "wof:placetype":"locality",

@@ -157,6 +157,9 @@
         "wd:id":"Q152734"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"457e63b5142940a3b734543b88020682",
     "wof:hierarchy":[
         {
@@ -169,7 +172,7 @@
         }
     ],
     "wof:id":101810423,
-    "wof:lastmodified":1566611882,
+    "wof:lastmodified":1582345554,
     "wof:name":"Raeren",
     "wof:parent_id":102049935,
     "wof:placetype":"locality",

@@ -153,6 +153,9 @@
         "wk:page":"Ohey"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"7962bd69f5ba863367890a39fd0ddca5",
     "wof:hierarchy":[
         {
@@ -168,7 +171,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1566611878,
+    "wof:lastmodified":1582345553,
     "wof:name":"Ohey",
     "wof:parent_id":102049931,
     "wof:placetype":"locality",

@@ -62,6 +62,9 @@
         "wd:id":"Q2180996"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"c8c1786df947a815f2b884ba16aae3a0",
     "wof:hierarchy":[
         {
@@ -75,7 +78,7 @@
         }
     ],
     "wof:id":101913539,
-    "wof:lastmodified":1566611902,
+    "wof:lastmodified":1582345557,
     "wof:name":"Wezel",
     "wof:parent_id":1108830147,
     "wof:placetype":"locality",

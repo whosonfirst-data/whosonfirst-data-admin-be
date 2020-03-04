@@ -67,6 +67,9 @@
         "wd:id":"Q724577"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"0ee63f458fc4158f98714e6303fe51d1",
     "wof:hierarchy":[
         {
@@ -83,7 +86,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1566611847,
+    "wof:lastmodified":1582345547,
     "wof:name":"Appels",
     "wof:parent_id":1108830417,
     "wof:placetype":"locality",

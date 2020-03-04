@@ -65,6 +65,9 @@
         "wd:id":"Q1850990"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"e351da96f4f3a39f678d3d4688eec55d",
     "wof:hierarchy":[
         {
@@ -80,7 +83,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1566611881,
+    "wof:lastmodified":1582345554,
     "wof:name":"Poulseur",
     "wof:parent_id":102049941,
     "wof:placetype":"locality",

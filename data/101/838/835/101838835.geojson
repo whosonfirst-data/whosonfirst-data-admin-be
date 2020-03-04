@@ -68,6 +68,9 @@
         "qs_pg:id":192420
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"d5ec5b0c51566590e6e9481f84afc924",
     "wof:hierarchy":[
         {
@@ -81,7 +84,7 @@
         }
     ],
     "wof:id":101838835,
-    "wof:lastmodified":1566611921,
+    "wof:lastmodified":1582345560,
     "wof:name":"Stal",
     "wof:parent_id":1108830613,
     "wof:placetype":"locality",

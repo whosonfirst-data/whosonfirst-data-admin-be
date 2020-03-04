@@ -87,6 +87,9 @@
         "wk:page":"Marbais"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"ca303b97b6138ff9c912d84be1d54d8d",
     "wof:hierarchy":[
         {
@@ -99,7 +102,7 @@
         }
     ],
     "wof:id":101810497,
-    "wof:lastmodified":1566611883,
+    "wof:lastmodified":1582345554,
     "wof:name":"Marbais",
     "wof:parent_id":102049945,
     "wof:placetype":"locality",

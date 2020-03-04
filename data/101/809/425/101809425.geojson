@@ -71,6 +71,9 @@
         "wd:id":"Q2358119"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"9a13d6ab07e75a66047fe38f2b2ccdea",
     "wof:hierarchy":[
         {
@@ -84,7 +87,7 @@
         }
     ],
     "wof:id":101809425,
-    "wof:lastmodified":1566611941,
+    "wof:lastmodified":1582345564,
     "wof:name":"Vrasene",
     "wof:parent_id":1108830621,
     "wof:placetype":"locality",

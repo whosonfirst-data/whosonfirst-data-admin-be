@@ -65,6 +65,9 @@
         "wd:id":"Q2310340"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"e12a095a8d11ae468f8b67648914b11d",
     "wof:hierarchy":[
         {
@@ -77,7 +80,7 @@
         }
     ],
     "wof:id":101755245,
-    "wof:lastmodified":1566611815,
+    "wof:lastmodified":1582345542,
     "wof:name":"Limal",
     "wof:parent_id":102049945,
     "wof:placetype":"locality",

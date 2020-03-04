@@ -68,6 +68,9 @@
         "wd:id":"Q2647040"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"a2e56ddbcd7564276e1195b12bdd524d",
     "wof:hierarchy":[
         {
@@ -81,7 +84,7 @@
         }
     ],
     "wof:id":101809383,
-    "wof:lastmodified":1566611945,
+    "wof:lastmodified":1582345564,
     "wof:name":"Hansbeke",
     "wof:parent_id":1108830463,
     "wof:placetype":"locality",

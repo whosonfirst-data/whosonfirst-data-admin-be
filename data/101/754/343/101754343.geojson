@@ -171,6 +171,9 @@
         "wd:id":"Q841597"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"6f3dafb8ecb9df0d9b531cb5a0d316fa",
     "wof:hierarchy":[
         {
@@ -187,7 +190,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1566611868,
+    "wof:lastmodified":1582345551,
     "wof:name":"Sint-Genesius-Rode",
     "wof:parent_id":1108830499,
     "wof:placetype":"locality",

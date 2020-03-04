@@ -149,6 +149,9 @@
         "wk:page":"Braives"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"ee13aa299d94a963b0336ed76c0fe608",
     "wof:hierarchy":[
         {
@@ -161,7 +164,7 @@
         }
     ],
     "wof:id":101810461,
-    "wof:lastmodified":1566611890,
+    "wof:lastmodified":1582345556,
     "wof:name":"Braives",
     "wof:parent_id":102049937,
     "wof:placetype":"locality",

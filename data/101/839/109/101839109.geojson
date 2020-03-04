@@ -76,6 +76,9 @@
         "wk:page":"Wechelderzande"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"f0298af2b53325171275a0dd9a7079b8",
     "wof:hierarchy":[
         {
@@ -89,7 +92,7 @@
         }
     ],
     "wof:id":101839109,
-    "wof:lastmodified":1566611973,
+    "wof:lastmodified":1582345570,
     "wof:name":"Wechelderzande",
     "wof:parent_id":1108830113,
     "wof:placetype":"locality",

@@ -76,6 +76,9 @@
         "wk:page":"Warneton, Belgium"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"aed19330f83e985ecbbec6cd46ba820f",
     "wof:hierarchy":[
         {
@@ -88,7 +91,7 @@
         }
     ],
     "wof:id":101809227,
-    "wof:lastmodified":1566611940,
+    "wof:lastmodified":1582345564,
     "wof:name":"Warneton",
     "wof:parent_id":1108782559,
     "wof:placetype":"locality",

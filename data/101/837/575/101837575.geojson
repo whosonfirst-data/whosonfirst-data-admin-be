@@ -206,6 +206,9 @@
         "wk:page":"Knokke-Heist"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"bbbb74fdb04ecae668b6b676707591f6",
     "wof:hierarchy":[
         {
@@ -222,7 +225,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1566611958,
+    "wof:lastmodified":1582345567,
     "wof:name":"Knokke-Heist",
     "wof:parent_id":1108830675,
     "wof:placetype":"locality",

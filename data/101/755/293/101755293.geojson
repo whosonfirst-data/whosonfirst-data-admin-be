@@ -97,6 +97,9 @@
         "wk:page":"Aalbeke"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"0b6c1ef2af57f09e2944dff1bf328603",
     "wof:hierarchy":[
         {
@@ -110,7 +113,7 @@
         }
     ],
     "wof:id":101755293,
-    "wof:lastmodified":1566611823,
+    "wof:lastmodified":1582345543,
     "wof:name":"Aalbeke",
     "wof:parent_id":1108830299,
     "wof:placetype":"locality",

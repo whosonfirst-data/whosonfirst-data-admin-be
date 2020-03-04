@@ -68,6 +68,9 @@
         "wd:id":"Q2205068"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"93e704efa6713c7471a4d5e82e33eb94",
     "wof:hierarchy":[
         {
@@ -81,7 +84,7 @@
         }
     ],
     "wof:id":101755387,
-    "wof:lastmodified":1566611854,
+    "wof:lastmodified":1582345548,
     "wof:name":"Schaffen",
     "wof:parent_id":1108830307,
     "wof:placetype":"locality",

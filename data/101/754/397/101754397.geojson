@@ -181,6 +181,9 @@
         "wk:page":"Brasschaat"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"406e7efc6f0d1ea0af16712a173fb606",
     "wof:hierarchy":[
         {
@@ -197,7 +200,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1566611859,
+    "wof:lastmodified":1582345549,
     "wof:name":"Brasschaat",
     "wof:parent_id":1108830619,
     "wof:placetype":"locality",

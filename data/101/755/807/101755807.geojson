@@ -146,6 +146,9 @@
         "wd:id":"Q839044"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"8022eaeff21fb431709a818fe2df88dc",
     "wof:hierarchy":[
         {
@@ -159,7 +162,7 @@
         }
     ],
     "wof:id":101755807,
-    "wof:lastmodified":1566611844,
+    "wof:lastmodified":1582345547,
     "wof:name":"Olen",
     "wof:parent_id":1108830527,
     "wof:placetype":"locality",

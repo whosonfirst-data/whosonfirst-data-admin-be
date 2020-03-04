@@ -55,6 +55,9 @@
         "qs_pg:id":192206
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"05c3fd9479f431a6e199d57c2411dce4",
     "wof:hierarchy":[
         {
@@ -68,7 +71,7 @@
         }
     ],
     "wof:id":101839135,
-    "wof:lastmodified":1566611965,
+    "wof:lastmodified":1582345568,
     "wof:name":"Millegem",
     "wof:parent_id":1108830147,
     "wof:placetype":"locality",

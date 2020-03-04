@@ -74,6 +74,9 @@
         "wd:id":"Q2909807"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"c506247719770d76257bfe132e84aa64",
     "wof:hierarchy":[
         {
@@ -86,7 +89,7 @@
         }
     ],
     "wof:id":101839795,
-    "wof:lastmodified":1566611975,
+    "wof:lastmodified":1582345570,
     "wof:name":"Bon-Secours",
     "wof:parent_id":102049951,
     "wof:placetype":"locality",

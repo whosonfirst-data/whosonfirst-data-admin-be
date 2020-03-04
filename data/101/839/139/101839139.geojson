@@ -55,6 +55,9 @@
         "qs_pg:id":1060849
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"3f7b66295854410c12d44f0e934c8362",
     "wof:hierarchy":[
         {
@@ -68,7 +71,7 @@
         }
     ],
     "wof:id":101839139,
-    "wof:lastmodified":1566611974,
+    "wof:lastmodified":1582345570,
     "wof:name":"Rosselaar",
     "wof:parent_id":1108830443,
     "wof:placetype":"locality",

@@ -76,6 +76,9 @@
         "qs_pg:id":1176046
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"7af727032e0a1cbad6698bfb9bf2cf66",
     "wof:hierarchy":[
         {
@@ -93,7 +96,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1566611077,
+    "wof:lastmodified":1582345515,
     "wof:name":"St.-baafs",
     "wof:parent_id":101748097,
     "wof:placetype":"neighbourhood",

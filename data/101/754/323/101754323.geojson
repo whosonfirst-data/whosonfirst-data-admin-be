@@ -183,6 +183,9 @@
         "wk:page":"Aarschot"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"fe08a533f6c56601ef48bfc80b3285bd",
     "wof:hierarchy":[
         {
@@ -196,7 +199,7 @@
         }
     ],
     "wof:id":101754323,
-    "wof:lastmodified":1566611862,
+    "wof:lastmodified":1582345550,
     "wof:name":"Aarschot",
     "wof:parent_id":1108830355,
     "wof:placetype":"locality",

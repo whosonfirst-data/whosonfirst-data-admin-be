@@ -142,6 +142,9 @@
         "wd:id":"Q683321"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"786c93242efa1eca24fb74e6fb9b8c0e",
     "wof:hierarchy":[
         {
@@ -154,7 +157,7 @@
         }
     ],
     "wof:id":101810359,
-    "wof:lastmodified":1566611885,
+    "wof:lastmodified":1582345555,
     "wof:name":"H\u00e9ron",
     "wof:parent_id":102049925,
     "wof:placetype":"locality",

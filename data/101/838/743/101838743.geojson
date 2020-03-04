@@ -140,6 +140,9 @@
         "wd:id":"Q895293"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"8afaf45402dea9550bdb171c192bfef4",
     "wof:hierarchy":[
         {
@@ -153,7 +156,7 @@
         }
     ],
     "wof:id":101838743,
-    "wof:lastmodified":1566611935,
+    "wof:lastmodified":1582345563,
     "wof:name":"Boutersem",
     "wof:parent_id":1108830471,
     "wof:placetype":"locality",

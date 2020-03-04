@@ -248,6 +248,9 @@
         "wk:page":"Schaerbeek"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"b8b1fe4026b25e9602c7fca39ef3221d",
     "wof:hierarchy":[
         {
@@ -264,7 +267,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1566611087,
+    "wof:lastmodified":1582345517,
     "wof:name":"Schaarbeek",
     "wof:parent_id":101751573,
     "wof:placetype":"neighbourhood",

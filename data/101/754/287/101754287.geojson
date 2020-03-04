@@ -179,6 +179,9 @@
         "qs_pg:id":1151654
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"29a94f77b2a3b63032fb7e4257258304",
     "wof:hierarchy":[
         {
@@ -194,7 +197,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1566611859,
+    "wof:lastmodified":1582345550,
     "wof:name":"Ottignies-Louvain-la-Neuve",
     "wof:parent_id":102049945,
     "wof:placetype":"locality",

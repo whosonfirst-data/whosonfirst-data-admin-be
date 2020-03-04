@@ -106,6 +106,9 @@
         "wd:id":"Q3356632"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"41b13843ea4397c3020d750e2bb98d4a",
     "wof:hierarchy":[
         {
@@ -118,7 +121,7 @@
         }
     ],
     "wof:id":101810487,
-    "wof:lastmodified":1566611889,
+    "wof:lastmodified":1582345555,
     "wof:name":"Orp-le-Grand",
     "wof:parent_id":102049945,
     "wof:placetype":"locality",

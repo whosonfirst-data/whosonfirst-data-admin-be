@@ -81,6 +81,9 @@
         "wk:page":"Machelen, Zulte"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"ff1d8533689c26dbf235bf0cdd2bcc4c",
     "wof:hierarchy":[
         {
@@ -94,7 +97,7 @@
         }
     ],
     "wof:id":101838891,
-    "wof:lastmodified":1566611933,
+    "wof:lastmodified":1582345562,
     "wof:name":"Machelen",
     "wof:parent_id":1108830563,
     "wof:placetype":"locality",

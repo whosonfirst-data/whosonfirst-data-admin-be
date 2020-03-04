@@ -109,6 +109,10 @@
         "wk:page":"Sint-Amandsberg"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
     "wof:geomhash":"f3deceb1fdf225f6c2eb54620ff2d23f",
     "wof:hierarchy":[
         {
@@ -126,7 +130,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1566611087,
+    "wof:lastmodified":1582345517,
     "wof:name":"St.-Amandsberg",
     "wof:parent_id":101748093,
     "wof:placetype":"neighbourhood",

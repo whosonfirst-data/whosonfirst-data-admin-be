@@ -284,6 +284,10 @@
         "wk:page":"Wondelgem"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
     "wof:geomhash":"967fef6b6dda47192881704c3a739af7",
     "wof:hierarchy":[
         {
@@ -301,7 +305,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1566611084,
+    "wof:lastmodified":1582345516,
     "wof:name":"Wondelgem",
     "wof:parent_id":101748093,
     "wof:placetype":"neighbourhood",

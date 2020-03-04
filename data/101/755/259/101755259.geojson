@@ -164,6 +164,9 @@
         "wk:page":"Rixensart"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"5ce304b5216ee79eddc77c9a27caa77d",
     "wof:hierarchy":[
         {
@@ -176,7 +179,7 @@
         }
     ],
     "wof:id":101755259,
-    "wof:lastmodified":1566611820,
+    "wof:lastmodified":1582345543,
     "wof:name":"Rixensart",
     "wof:parent_id":102049945,
     "wof:placetype":"locality",

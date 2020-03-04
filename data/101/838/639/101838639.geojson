@@ -152,6 +152,9 @@
         "wk:page":"Hannut"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"d3464dc4de1249b520c2f5864565119f",
     "wof:hierarchy":[
         {
@@ -164,7 +167,7 @@
         }
     ],
     "wof:id":101838639,
-    "wof:lastmodified":1566611933,
+    "wof:lastmodified":1582345562,
     "wof:name":"Hannut",
     "wof:parent_id":102049937,
     "wof:placetype":"locality",

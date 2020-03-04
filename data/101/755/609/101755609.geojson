@@ -145,6 +145,9 @@
         "wk:page":"Berlare"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"2ff2a6b195d72578b04be96bb2fa9be5",
     "wof:hierarchy":[
         {
@@ -158,7 +161,7 @@
         }
     ],
     "wof:id":101755609,
-    "wof:lastmodified":1566611851,
+    "wof:lastmodified":1582345548,
     "wof:name":"Overmere",
     "wof:parent_id":1108830571,
     "wof:placetype":"locality",

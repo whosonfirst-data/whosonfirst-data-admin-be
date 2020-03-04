@@ -55,6 +55,9 @@
         "qs_pg:id":307615
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"459a68d94214a821a2ca7e1b1e394db0",
     "wof:hierarchy":[
         {
@@ -68,7 +71,7 @@
         }
     ],
     "wof:id":101755835,
-    "wof:lastmodified":1566611822,
+    "wof:lastmodified":1582345543,
     "wof:name":"Bergom",
     "wof:parent_id":1108830551,
     "wof:placetype":"locality",

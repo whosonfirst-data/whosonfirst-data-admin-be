@@ -114,6 +114,9 @@
         "wk:page":"Langemark"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"1d1e7aae0681e13eda444c81045c02ae",
     "wof:hierarchy":[
         {
@@ -127,7 +130,7 @@
         }
     ],
     "wof:id":101809267,
-    "wof:lastmodified":1566611944,
+    "wof:lastmodified":1582345564,
     "wof:name":"Langemark",
     "wof:parent_id":1108830263,
     "wof:placetype":"locality",

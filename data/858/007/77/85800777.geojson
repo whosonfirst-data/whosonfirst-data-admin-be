@@ -114,6 +114,9 @@
         "wk:page":"Assebroek"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"773b2e39682f39affed727539f69063a",
     "wof:hierarchy":[
         {
@@ -131,7 +134,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1566611081,
+    "wof:lastmodified":1582345516,
     "wof:name":"Assebroek",
     "wof:parent_id":101748097,
     "wof:placetype":"neighbourhood",

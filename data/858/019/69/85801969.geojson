@@ -75,6 +75,9 @@
         "gp:id":978522
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"9628750f3964c073e5ff7eac25b262c3",
     "wof:hierarchy":[
         {
@@ -92,7 +95,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1566611095,
+    "wof:lastmodified":1582345519,
     "wof:name":"Vriesdonck",
     "wof:parent_id":101748101,
     "wof:placetype":"neighbourhood",

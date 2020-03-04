@@ -55,6 +55,9 @@
         "qs_pg:id":888003
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"fe78710e59171e8caae6a2eedc2730d1",
     "wof:hierarchy":[
         {
@@ -68,7 +71,7 @@
         }
     ],
     "wof:id":101755669,
-    "wof:lastmodified":1566611822,
+    "wof:lastmodified":1582345543,
     "wof:name":"Elzestraat",
     "wof:parent_id":1108830007,
     "wof:placetype":"locality",

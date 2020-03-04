@@ -151,6 +151,9 @@
         "wk:page":"Musson"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"65098684c4fa0debc5044f3b4de553ce",
     "wof:hierarchy":[
         {
@@ -163,7 +166,7 @@
         }
     ],
     "wof:id":101839731,
-    "wof:lastmodified":1566611967,
+    "wof:lastmodified":1582345569,
     "wof:name":"Musson",
     "wof:parent_id":102049907,
     "wof:placetype":"locality",

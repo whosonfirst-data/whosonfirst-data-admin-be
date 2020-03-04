@@ -80,6 +80,9 @@
         "wd:id":"Q2340735"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"97be94f4e17ef98de205b8756ae82cc9",
     "wof:hierarchy":[
         {
@@ -93,7 +96,7 @@
         }
     ],
     "wof:id":101839045,
-    "wof:lastmodified":1566611975,
+    "wof:lastmodified":1582345570,
     "wof:name":"Loppem",
     "wof:parent_id":1108830317,
     "wof:placetype":"locality",

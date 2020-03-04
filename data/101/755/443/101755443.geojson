@@ -143,6 +143,9 @@
         "wd:id":"Q950129"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"f566c87020eb3083521ab59e01121437",
     "wof:hierarchy":[
         {
@@ -156,7 +159,7 @@
         }
     ],
     "wof:id":101755443,
-    "wof:lastmodified":1566611839,
+    "wof:lastmodified":1582345546,
     "wof:name":"Haacht",
     "wof:parent_id":1108830175,
     "wof:placetype":"locality",

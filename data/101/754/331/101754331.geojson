@@ -152,6 +152,9 @@
         "wd:id":"Q587819"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"5bde084d843180f4308d379ebef683a9",
     "wof:hierarchy":[
         {
@@ -165,7 +168,7 @@
         }
     ],
     "wof:id":101754331,
-    "wof:lastmodified":1566611858,
+    "wof:lastmodified":1582345549,
     "wof:name":"Londerzeel",
     "wof:parent_id":1108830053,
     "wof:placetype":"locality",

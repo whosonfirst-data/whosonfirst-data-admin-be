@@ -64,6 +64,9 @@
         "wd:id":"Q2760317"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"0d52182a1a2554824a7fe5c7bcfec9c2",
     "wof:hierarchy":[
         {
@@ -76,7 +79,7 @@
         }
     ],
     "wof:id":101839785,
-    "wof:lastmodified":1566611971,
+    "wof:lastmodified":1582345569,
     "wof:name":"Maffle",
     "wof:parent_id":102049949,
     "wof:placetype":"locality",

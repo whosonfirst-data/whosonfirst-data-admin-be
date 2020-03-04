@@ -65,6 +65,9 @@
         "wd:id":"Q1415632"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"0add0d932d03b31818274b0d22ce4e81",
     "wof:hierarchy":[
         {
@@ -78,7 +81,7 @@
         }
     ],
     "wof:id":101755613,
-    "wof:lastmodified":1566611837,
+    "wof:lastmodified":1582345546,
     "wof:name":"Wieze",
     "wof:parent_id":1108830479,
     "wof:placetype":"locality",

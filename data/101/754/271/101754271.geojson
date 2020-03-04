@@ -162,6 +162,9 @@
         "wk:page":"Dour"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"e4851af01bd524e75fc2cd65d6297127",
     "wof:hierarchy":[
         {
@@ -177,7 +180,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1566611865,
+    "wof:lastmodified":1582345551,
     "wof:name":"Dour",
     "wof:parent_id":102049933,
     "wof:placetype":"locality",

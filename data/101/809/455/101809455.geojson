@@ -54,6 +54,9 @@
         "qs_pg:id":893496
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"8e7702f2426c0168c67a1e5ed060c3e2",
     "wof:hierarchy":[
         {
@@ -67,7 +70,7 @@
         }
     ],
     "wof:id":101809455,
-    "wof:lastmodified":1566611944,
+    "wof:lastmodified":1582345564,
     "wof:name":"Antwerpen Linkeroever",
     "wof:parent_id":1108830423,
     "wof:placetype":"locality",

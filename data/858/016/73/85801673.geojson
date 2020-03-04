@@ -71,6 +71,9 @@
         "qs_pg:id":1071695
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"9774b958c50f1be27b6b0a352fe5b5d3",
     "wof:hierarchy":[
         {
@@ -87,7 +90,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1566611091,
+    "wof:lastmodified":1582345518,
     "wof:name":"Nederheembeek",
     "wof:parent_id":101751573,
     "wof:placetype":"neighbourhood",

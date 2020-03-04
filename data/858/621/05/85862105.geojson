@@ -106,6 +106,9 @@
         "qs_pg:id":221642
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"fcb4ba3c692f230c55d0f7e5e50900e6",
     "wof:hierarchy":[
         {
@@ -123,7 +126,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1566611074,
+    "wof:lastmodified":1582345514,
     "wof:name":"St.-jozef",
     "wof:parent_id":101748097,
     "wof:placetype":"neighbourhood",

@@ -76,6 +76,9 @@
         "wd:id":"Q2575787"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"65473ae0523069e0f7aa81cb799d4486",
     "wof:hierarchy":[
         {
@@ -92,7 +95,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1566611952,
+    "wof:lastmodified":1582345566,
     "wof:name":"Elverdinge",
     "wof:parent_id":1108830595,
     "wof:placetype":"locality",

@@ -104,6 +104,9 @@
         "wd:id":"Q1011455"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"944b894e6a57c661acbdd6a4441fd25e",
     "wof:hierarchy":[
         {
@@ -117,7 +120,7 @@
         }
     ],
     "wof:id":101755631,
-    "wof:lastmodified":1566611850,
+    "wof:lastmodified":1582345548,
     "wof:name":"Breendonk",
     "wof:parent_id":1108830309,
     "wof:placetype":"locality",

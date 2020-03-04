@@ -272,6 +272,9 @@
         "wd:id":"Q943472"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"849a155ca98ae13e99462d45a0c2ad96",
     "wof:hierarchy":[
         {
@@ -285,7 +288,7 @@
         }
     ],
     "wof:id":101755369,
-    "wof:lastmodified":1566611833,
+    "wof:lastmodified":1582345545,
     "wof:name":"Huldenberg",
     "wof:parent_id":1108830025,
     "wof:placetype":"locality",

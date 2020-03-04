@@ -72,6 +72,9 @@
         "wd:id":"Q2670002"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"65ea9a22c9bf257b72f0a4b4de358306",
     "wof:hierarchy":[
         {
@@ -88,7 +91,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1566611878,
+    "wof:lastmodified":1582345553,
     "wof:name":"Opoeteren",
     "wof:parent_id":1108830133,
     "wof:placetype":"locality",

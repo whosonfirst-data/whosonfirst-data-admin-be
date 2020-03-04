@@ -69,6 +69,9 @@
         "wk:page":"Denderhoutem"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"3c8758f0ededc550bf37044008b6ea2d",
     "wof:hierarchy":[
         {
@@ -82,7 +85,7 @@
         }
     ],
     "wof:id":101755327,
-    "wof:lastmodified":1566611851,
+    "wof:lastmodified":1582345548,
     "wof:name":"Denderhoutem",
     "wof:parent_id":1108830593,
     "wof:placetype":"locality",

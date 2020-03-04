@@ -203,6 +203,9 @@
         "wk:page":"Dinant"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"429d43d3e2df55d586b9d490ef5bb653",
     "wof:hierarchy":[
         {
@@ -218,7 +221,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1566611871,
+    "wof:lastmodified":1582345552,
     "wof:name":"Dinant",
     "wof:parent_id":102049919,
     "wof:placetype":"locality",

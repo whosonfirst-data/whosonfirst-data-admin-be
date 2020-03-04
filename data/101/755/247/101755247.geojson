@@ -155,6 +155,9 @@
         "wd:id":"Q670310"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"bd9b17fdbb7ded69a6ca2013b6ad2669",
     "wof:hierarchy":[
         {
@@ -167,7 +170,7 @@
         }
     ],
     "wof:id":101755247,
-    "wof:lastmodified":1566611841,
+    "wof:lastmodified":1582345546,
     "wof:name":"Grez-Doiceau",
     "wof:parent_id":102049945,
     "wof:placetype":"locality",

@@ -68,6 +68,9 @@
         "wd:id":"Q2109480"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"19474b7553228100e0e23ccd3bc7ba7b",
     "wof:hierarchy":[
         {
@@ -81,7 +84,7 @@
         }
     ],
     "wof:id":101810549,
-    "wof:lastmodified":1566611891,
+    "wof:lastmodified":1582345556,
     "wof:name":"Kumtich",
     "wof:parent_id":1108830017,
     "wof:placetype":"locality",

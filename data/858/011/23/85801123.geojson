@@ -242,6 +242,9 @@
         "wk:page":"Etterbeek"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"c5c682a0f1be8b02672416ebde9b0eaa",
     "wof:hierarchy":[
         {
@@ -258,7 +261,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1566611090,
+    "wof:lastmodified":1582345518,
     "wof:name":"Etterbeek",
     "wof:parent_id":101751573,
     "wof:placetype":"neighbourhood",

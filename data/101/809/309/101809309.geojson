@@ -65,6 +65,9 @@
         "wd:id":"Q600535"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"8915c11000bf6b85560b015427043f20",
     "wof:hierarchy":[
         {
@@ -78,7 +81,7 @@
         }
     ],
     "wof:id":101809309,
-    "wof:lastmodified":1566611938,
+    "wof:lastmodified":1582345563,
     "wof:name":"Denderbelle",
     "wof:parent_id":1108830479,
     "wof:placetype":"locality",

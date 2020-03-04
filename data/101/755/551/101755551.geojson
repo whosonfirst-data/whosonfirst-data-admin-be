@@ -90,6 +90,9 @@
         "wk:page":"Lembeek"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"1ba31a8496e811a73f2ddcbcb7ac5ef5",
     "wof:hierarchy":[
         {
@@ -103,7 +106,7 @@
         }
     ],
     "wof:id":101755551,
-    "wof:lastmodified":1566611806,
+    "wof:lastmodified":1582345541,
     "wof:name":"Lembeek",
     "wof:parent_id":1108830437,
     "wof:placetype":"locality",

@@ -68,6 +68,9 @@
         "wd:id":"Q2441418"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"d7735bc62a276537e9ec4e949ee3909c",
     "wof:hierarchy":[
         {
@@ -80,7 +83,7 @@
         }
     ],
     "wof:id":101755059,
-    "wof:lastmodified":1566611846,
+    "wof:lastmodified":1582345547,
     "wof:name":"Pi\u00e9ton",
     "wof:parent_id":102049927,
     "wof:placetype":"locality",

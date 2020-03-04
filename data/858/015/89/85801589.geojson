@@ -79,6 +79,9 @@
         "wd:id":"Q6744552"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"0cf67db8339b12f31bc25ed50253bfc8",
     "wof:hierarchy":[
         {
@@ -95,7 +98,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1566611070,
+    "wof:lastmodified":1582345514,
     "wof:name":"Malou",
     "wof:parent_id":101751573,
     "wof:placetype":"neighbourhood",

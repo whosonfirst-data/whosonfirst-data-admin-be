@@ -70,6 +70,9 @@
         "wd:id":"Q2795382"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"4e5839a21cfba31ee1ebc8feec33d44c",
     "wof:hierarchy":[
         {
@@ -86,7 +89,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1566611846,
+    "wof:lastmodified":1582345547,
     "wof:name":"Leest",
     "wof:parent_id":1108830407,
     "wof:placetype":"locality",

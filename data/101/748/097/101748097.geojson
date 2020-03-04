@@ -494,6 +494,9 @@
         "wk:page":"Bruges"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"e023ed89f0c3b7cac36f0082bb42e62f",
     "wof:hierarchy":[
         {
@@ -510,7 +513,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1566611895,
+    "wof:lastmodified":1582345557,
     "wof:name":"Brugge",
     "wof:parent_id":1108830689,
     "wof:placetype":"locality",

@@ -165,6 +165,9 @@
         "wk:page":"Pont-\u00e0-Celles"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"c7a76d900d6fdd9939fe26e1ad1f5191",
     "wof:hierarchy":[
         {
@@ -180,7 +183,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1566611966,
+    "wof:lastmodified":1582345568,
     "wof:name":"Pont-\u00e0-Celles",
     "wof:parent_id":102049927,
     "wof:placetype":"locality",

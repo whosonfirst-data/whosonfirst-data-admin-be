@@ -71,6 +71,9 @@
         "wd:id":"Q3016324"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"648670524ec36aa579ef783616ccdca9",
     "wof:hierarchy":[
         {
@@ -84,7 +87,7 @@
         }
     ],
     "wof:id":101755271,
-    "wof:lastmodified":1566611841,
+    "wof:lastmodified":1582345546,
     "wof:name":"Veldwezelt",
     "wof:parent_id":1108830075,
     "wof:placetype":"locality",

@@ -77,6 +77,10 @@
         "qs_pg:id":771690
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
     "wof:geomhash":"e42f7befb9c2c06f136d329fe2b2fd30",
     "wof:hierarchy":[
         {
@@ -93,7 +97,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1566611092,
+    "wof:lastmodified":1582345518,
     "wof:name":"Pontisse",
     "wof:parent_id":101748083,
     "wof:placetype":"neighbourhood",

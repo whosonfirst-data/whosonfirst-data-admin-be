@@ -68,6 +68,9 @@
         "wd:id":"Q2631148"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"1164cf5aa79c937599533095a3e3abbf",
     "wof:hierarchy":[
         {
@@ -81,7 +84,7 @@
         }
     ],
     "wof:id":101755523,
-    "wof:lastmodified":1566611856,
+    "wof:lastmodified":1582345549,
     "wof:name":"Humbeek",
     "wof:parent_id":1108830343,
     "wof:placetype":"locality",

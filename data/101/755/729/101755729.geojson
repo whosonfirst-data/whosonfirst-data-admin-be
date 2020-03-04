@@ -52,6 +52,9 @@
         "qs_pg:id":337706
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"fb1a2506ff0b4ff2ac84d3a9c438c42a",
     "wof:hierarchy":[
         {
@@ -65,7 +68,7 @@
         }
     ],
     "wof:id":101755729,
-    "wof:lastmodified":1566611856,
+    "wof:lastmodified":1582345549,
     "wof:name":"Westende-Bad",
     "wof:parent_id":1108830695,
     "wof:placetype":"locality",

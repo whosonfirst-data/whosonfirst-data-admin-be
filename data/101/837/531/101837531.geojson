@@ -158,6 +158,9 @@
         "wd:id":"Q736120"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"9c9f3349c5b6ee902a6ccbe2bbc11c67",
     "wof:hierarchy":[
         {
@@ -171,7 +174,7 @@
         }
     ],
     "wof:id":101837531,
-    "wof:lastmodified":1566611961,
+    "wof:lastmodified":1582345567,
     "wof:name":"Leopoldsburg",
     "wof:parent_id":1108830467,
     "wof:placetype":"locality",

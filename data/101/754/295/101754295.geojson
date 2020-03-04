@@ -177,6 +177,9 @@
         "wk:page":"Lanaken"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"53215b966a0386ef31297f35f14f7ab8",
     "wof:hierarchy":[
         {
@@ -190,7 +193,7 @@
         }
     ],
     "wof:id":101754295,
-    "wof:lastmodified":1566611860,
+    "wof:lastmodified":1582345550,
     "wof:name":"Lanaken",
     "wof:parent_id":1108830075,
     "wof:placetype":"locality",

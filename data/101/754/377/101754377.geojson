@@ -97,6 +97,9 @@
         "wk:page":"Drongen"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"82a17fc0ab68e47b5229dfaeb2bcb873",
     "wof:hierarchy":[
         {
@@ -110,7 +113,7 @@
         }
     ],
     "wof:id":101754377,
-    "wof:lastmodified":1566611862,
+    "wof:lastmodified":1582345550,
     "wof:name":"Drongen",
     "wof:parent_id":1108830083,
     "wof:placetype":"locality",

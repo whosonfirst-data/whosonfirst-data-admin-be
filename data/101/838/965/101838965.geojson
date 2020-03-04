@@ -72,6 +72,9 @@
         "wd:id":"Q2912775"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"936e7fa27449ffa964128d43b415c516",
     "wof:hierarchy":[
         {
@@ -88,7 +91,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1566611915,
+    "wof:lastmodified":1582345559,
     "wof:name":"Neeroeteren",
     "wof:parent_id":1108830133,
     "wof:placetype":"locality",

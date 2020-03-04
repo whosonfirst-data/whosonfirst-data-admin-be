@@ -157,6 +157,9 @@
         "wk:page":"Heist-op-den-Berg"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"afc86d8c50a57807a2e58351c6fa96ee",
     "wof:hierarchy":[
         {
@@ -173,7 +176,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1566611824,
+    "wof:lastmodified":1582345543,
     "wof:name":"Heist-op-den-Berg",
     "wof:parent_id":1108830023,
     "wof:placetype":"locality",

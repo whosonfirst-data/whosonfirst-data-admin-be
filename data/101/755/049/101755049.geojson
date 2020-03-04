@@ -76,6 +76,9 @@
         "wd:id":"Q2403008"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"1cb97f79dcadea7c06e41d5fa1a9f386",
     "wof:hierarchy":[
         {
@@ -88,7 +91,7 @@
         }
     ],
     "wof:id":101755049,
-    "wof:lastmodified":1566611819,
+    "wof:lastmodified":1582345542,
     "wof:name":"Wanferc\u00e9e-Baulet",
     "wof:parent_id":102049927,
     "wof:placetype":"locality",

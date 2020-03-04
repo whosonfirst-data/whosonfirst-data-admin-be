@@ -159,6 +159,9 @@
         "wk:page":"Moorslede"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"882feacaa57ea4038adf251f467e7e1f",
     "wof:hierarchy":[
         {
@@ -172,7 +175,7 @@
         }
     ],
     "wof:id":101838863,
-    "wof:lastmodified":1566611934,
+    "wof:lastmodified":1582345563,
     "wof:name":"Moorslede",
     "wof:parent_id":1108830667,
     "wof:placetype":"locality",

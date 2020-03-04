@@ -153,6 +153,9 @@
         "wd:id":"Q817375"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"4037a3370463a2769543ae632edf461f",
     "wof:hierarchy":[
         {
@@ -169,7 +172,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1566611951,
+    "wof:lastmodified":1582345566,
     "wof:name":"Kruishoutem",
     "wof:parent_id":1108830549,
     "wof:placetype":"locality",

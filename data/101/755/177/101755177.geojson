@@ -98,6 +98,9 @@
         "wd:id":"Q2725868"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"a43f3707a3322ad14b5c53d0a14ddbcf",
     "wof:hierarchy":[
         {
@@ -113,7 +116,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1566611853,
+    "wof:lastmodified":1582345548,
     "wof:name":"Bierset",
     "wof:parent_id":102049937,
     "wof:placetype":"locality",

@@ -71,6 +71,9 @@
         "wd:id":"Q3238232"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"974ac20415482b097fcb8102125b399d",
     "wof:hierarchy":[
         {
@@ -86,7 +89,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1566611826,
+    "wof:lastmodified":1582345544,
     "wof:name":"Liers",
     "wof:parent_id":102049941,
     "wof:placetype":"locality",

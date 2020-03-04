@@ -80,6 +80,9 @@
         "wk:page":"Rumbeke"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"26eb082f56c7a880c82f8b283c61d0b7",
     "wof:hierarchy":[
         {
@@ -96,7 +99,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1566611809,
+    "wof:lastmodified":1582345541,
     "wof:name":"Rumbeke",
     "wof:parent_id":1108830397,
     "wof:placetype":"locality",

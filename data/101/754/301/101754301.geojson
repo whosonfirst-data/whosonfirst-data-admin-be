@@ -156,6 +156,9 @@
         "wd:id":"Q822771"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"30219659fc8069052a54b2a6b9fcd56f",
     "wof:hierarchy":[
         {
@@ -172,7 +175,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1566611858,
+    "wof:lastmodified":1582345549,
     "wof:name":"Deerlijk",
     "wof:parent_id":1108830557,
     "wof:placetype":"locality",

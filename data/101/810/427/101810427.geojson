@@ -152,6 +152,9 @@
         "wk:page":"B\u00fctgenbach"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"2a4722bcf412ad2b169d1860153bb8f8",
     "wof:hierarchy":[
         {
@@ -164,7 +167,7 @@
         }
     ],
     "wof:id":101810427,
-    "wof:lastmodified":1566611889,
+    "wof:lastmodified":1582345555,
     "wof:name":"B\u00fctgenbach",
     "wof:parent_id":102049935,
     "wof:placetype":"locality",

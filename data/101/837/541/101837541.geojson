@@ -162,6 +162,9 @@
         "wk:page":"Zele"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"8307a801f07a11c2f4424ebafa558222",
     "wof:hierarchy":[
         {
@@ -175,7 +178,7 @@
         }
     ],
     "wof:id":101837541,
-    "wof:lastmodified":1566611962,
+    "wof:lastmodified":1582345568,
     "wof:name":"Zele",
     "wof:parent_id":1108830229,
     "wof:placetype":"locality",

@@ -150,6 +150,9 @@
         "wk:page":"Kortenberg"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"0cd8728a0f99e7dff66d362b55e18fdd",
     "wof:hierarchy":[
         {
@@ -163,7 +166,7 @@
         }
     ],
     "wof:id":101754327,
-    "wof:lastmodified":1566611867,
+    "wof:lastmodified":1582345551,
     "wof:name":"Kortenberg",
     "wof:parent_id":1108830227,
     "wof:placetype":"locality",

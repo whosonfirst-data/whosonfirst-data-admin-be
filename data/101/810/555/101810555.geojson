@@ -137,6 +137,9 @@
         "wd:id":"Q908554"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"54a838e8271f94f132310b5c68d9a0ee",
     "wof:hierarchy":[
         {
@@ -150,7 +153,7 @@
         }
     ],
     "wof:id":101810555,
-    "wof:lastmodified":1566611886,
+    "wof:lastmodified":1582345555,
     "wof:name":"Galmaarden",
     "wof:parent_id":1108830579,
     "wof:placetype":"locality",

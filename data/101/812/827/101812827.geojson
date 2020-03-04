@@ -158,6 +158,9 @@
         "wk:page":"Chiny"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"dae9f027e65a1cf0d8fc2773d3c9186f",
     "wof:hierarchy":[
         {
@@ -170,7 +173,7 @@
         }
     ],
     "wof:id":101812827,
-    "wof:lastmodified":1566611910,
+    "wof:lastmodified":1582345558,
     "wof:name":"Chiny",
     "wof:parent_id":102049907,
     "wof:placetype":"locality",

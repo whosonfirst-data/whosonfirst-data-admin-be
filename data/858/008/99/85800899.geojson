@@ -74,6 +74,9 @@
         "qs_pg:id":1141276
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"7649f41c89c830b4424ec92897f0cbb1",
     "wof:hierarchy":[
         {
@@ -90,7 +93,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1566611083,
+    "wof:lastmodified":1582345516,
     "wof:name":"Boendael",
     "wof:parent_id":101751573,
     "wof:placetype":"neighbourhood",

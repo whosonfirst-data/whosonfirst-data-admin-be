@@ -186,6 +186,9 @@
         "wk:page":"Geel"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"aa64fa72a2584e660d2eb6c8d0a8a302",
     "wof:hierarchy":[
         {
@@ -199,7 +202,7 @@
         }
     ],
     "wof:id":101755823,
-    "wof:lastmodified":1566611838,
+    "wof:lastmodified":1582345546,
     "wof:name":"Geel",
     "wof:parent_id":1108830531,
     "wof:placetype":"locality",

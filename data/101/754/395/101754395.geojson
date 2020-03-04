@@ -154,6 +154,9 @@
         "wd:id":"Q835128"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"d02e9d2ea8d5eed49280a13222d37350",
     "wof:hierarchy":[
         {
@@ -170,7 +173,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1566611863,
+    "wof:lastmodified":1582345550,
     "wof:name":"Oudenburg",
     "wof:parent_id":1108830363,
     "wof:placetype":"locality",

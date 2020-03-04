@@ -185,6 +185,9 @@
         "wk:page":"Jabbeke"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"fc16d8e262053811731b21751cad2eb6",
     "wof:hierarchy":[
         {
@@ -201,7 +204,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1566611855,
+    "wof:lastmodified":1582345549,
     "wof:name":"Jabbeke",
     "wof:parent_id":1108830157,
     "wof:placetype":"locality",

@@ -89,6 +89,9 @@
         "wk:page":"Veeweyde/Veeweide metro station"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"a72acfcacab171545c1276344d0d800f",
     "wof:hierarchy":[
         {
@@ -105,7 +108,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1566611095,
+    "wof:lastmodified":1582345519,
     "wof:name":"Veeweyde",
     "wof:parent_id":101751573,
     "wof:placetype":"neighbourhood",

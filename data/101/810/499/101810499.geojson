@@ -81,6 +81,9 @@
         "qs_pg:id":186991
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"ee0b60ba8e36627652e966cd3b3811c8",
     "wof:hierarchy":[
         {
@@ -93,7 +96,7 @@
         }
     ],
     "wof:id":101810499,
-    "wof:lastmodified":1566611883,
+    "wof:lastmodified":1582345554,
     "wof:name":"Neerheylissem",
     "wof:parent_id":102049945,
     "wof:placetype":"locality",

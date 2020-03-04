@@ -182,6 +182,9 @@
         "wk:page":"Blankenberge"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"e2a9340a075e193d0c7337a0008612e3",
     "wof:hierarchy":[
         {
@@ -198,7 +201,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1566611964,
+    "wof:lastmodified":1582345568,
     "wof:name":"Blankenberge",
     "wof:parent_id":1108830693,
     "wof:placetype":"locality",

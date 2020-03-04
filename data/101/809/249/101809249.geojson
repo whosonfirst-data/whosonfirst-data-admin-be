@@ -168,6 +168,9 @@
         "wd:id":"Q817372"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"973f31b89831edd58cd79a62e216a1ff",
     "wof:hierarchy":[
         {
@@ -184,7 +187,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1566611949,
+    "wof:lastmodified":1582345565,
     "wof:name":"Sint-Lievens-Houtem",
     "wof:parent_id":1108830121,
     "wof:placetype":"locality",

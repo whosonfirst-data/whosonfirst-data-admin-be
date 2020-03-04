@@ -205,6 +205,9 @@
         "wk:page":"Beveren"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"70f9131b017e3bcd9ca6ca1782b40979",
     "wof:hierarchy":[
         {
@@ -221,7 +224,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1566611956,
+    "wof:lastmodified":1582345567,
     "wof:name":"Beveren",
     "wof:parent_id":1108830621,
     "wof:placetype":"locality",

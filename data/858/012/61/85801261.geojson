@@ -82,6 +82,9 @@
         "wd:id":"Q2289943"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"423f4c9be4d17ac909f52a617b32ccad",
     "wof:hierarchy":[
         {
@@ -98,7 +101,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1566611072,
+    "wof:lastmodified":1582345514,
     "wof:name":"La Roue",
     "wof:parent_id":101751573,
     "wof:placetype":"neighbourhood",

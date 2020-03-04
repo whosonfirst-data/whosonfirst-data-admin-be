@@ -147,6 +147,9 @@
         "wk:page":"Awans"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"98885fb448f3e7384d2e8d16a9af7a96",
     "wof:hierarchy":[
         {
@@ -162,7 +165,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1566611828,
+    "wof:lastmodified":1582345544,
     "wof:name":"Awans",
     "wof:parent_id":102049941,
     "wof:placetype":"locality",

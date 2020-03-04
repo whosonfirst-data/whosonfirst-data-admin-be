@@ -67,6 +67,9 @@
         "wk:page":"Deftinge"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"cde72331156303aabe3cf8341db4e77a",
     "wof:hierarchy":[
         {
@@ -80,7 +83,7 @@
         }
     ],
     "wof:id":101809247,
-    "wof:lastmodified":1566611949,
+    "wof:lastmodified":1582345565,
     "wof:name":"Deftinge",
     "wof:parent_id":1108830669,
     "wof:placetype":"locality",

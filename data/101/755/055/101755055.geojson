@@ -76,6 +76,9 @@
         "wd:id":"Q3106454"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"e5c0e94a05b22db9e5f697a2deceb27f",
     "wof:hierarchy":[
         {
@@ -88,7 +91,7 @@
         }
     ],
     "wof:id":101755055,
-    "wof:lastmodified":1566611823,
+    "wof:lastmodified":1582345543,
     "wof:name":"Souvret",
     "wof:parent_id":102049927,
     "wof:placetype":"locality",

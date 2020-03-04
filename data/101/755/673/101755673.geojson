@@ -140,6 +140,9 @@
         "wd:id":"Q929397"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"6cbb05304f332a371ada9b420c03a560",
     "wof:hierarchy":[
         {
@@ -153,7 +156,7 @@
         }
     ],
     "wof:id":101755673,
-    "wof:lastmodified":1566611818,
+    "wof:lastmodified":1582345542,
     "wof:name":"Putte",
     "wof:parent_id":1108830381,
     "wof:placetype":"locality",

@@ -65,6 +65,9 @@
         "wd:id":"Q3472884"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"5214c075dd9bd775667655af713102c9",
     "wof:hierarchy":[
         {
@@ -78,7 +81,7 @@
         }
     ],
     "wof:id":101838731,
-    "wof:lastmodified":1566611917,
+    "wof:lastmodified":1582345559,
     "wof:name":"Schendelbeke",
     "wof:parent_id":1108830521,
     "wof:placetype":"locality",

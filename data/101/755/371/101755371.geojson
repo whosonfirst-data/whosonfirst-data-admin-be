@@ -140,6 +140,9 @@
         "wd:id":"Q432610"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"e14bd2e2c5781ae74f69128603e60429",
     "wof:hierarchy":[
         {
@@ -153,7 +156,7 @@
         }
     ],
     "wof:id":101755371,
-    "wof:lastmodified":1566611828,
+    "wof:lastmodified":1582345544,
     "wof:name":"Begijnendijk",
     "wof:parent_id":1108830539,
     "wof:placetype":"locality",

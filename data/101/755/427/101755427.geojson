@@ -68,6 +68,9 @@
         "wd:id":"Q3472051"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"6aa46f82e20d249c6bf9a21c2e7d7c21",
     "wof:hierarchy":[
         {
@@ -81,7 +84,7 @@
         }
     ],
     "wof:id":101755427,
-    "wof:lastmodified":1566611842,
+    "wof:lastmodified":1582345546,
     "wof:name":"Veltem-Beisem",
     "wof:parent_id":1108830251,
     "wof:placetype":"locality",

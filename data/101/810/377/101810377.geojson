@@ -147,6 +147,9 @@
         "wk:page":"Nandrin"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"5df0e5efa300b4c5f506ebe3529197b9",
     "wof:hierarchy":[
         {
@@ -159,7 +162,7 @@
         }
     ],
     "wof:id":101810377,
-    "wof:lastmodified":1566611884,
+    "wof:lastmodified":1582345555,
     "wof:name":"Nandrin",
     "wof:parent_id":102049925,
     "wof:placetype":"locality",

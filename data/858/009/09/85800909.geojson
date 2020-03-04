@@ -73,6 +73,10 @@
         "qs_pg:id":1102952
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"8611dace679013517a519f1554833d88",
     "wof:hierarchy":[
         {
@@ -89,7 +93,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1566611081,
+    "wof:lastmodified":1582345516,
     "wof:name":"Bois-de-Pontisse",
     "wof:parent_id":101748083,
     "wof:placetype":"neighbourhood",

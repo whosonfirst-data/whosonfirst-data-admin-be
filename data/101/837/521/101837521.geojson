@@ -203,6 +203,9 @@
         "wk:page":"Tienen"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"760936007c1ce4cdd1133a45b8f69cab",
     "wof:hierarchy":[
         {
@@ -216,7 +219,7 @@
         }
     ],
     "wof:id":101837521,
-    "wof:lastmodified":1566611958,
+    "wof:lastmodified":1582345567,
     "wof:name":"Tienen",
     "wof:parent_id":1108830017,
     "wof:placetype":"locality",

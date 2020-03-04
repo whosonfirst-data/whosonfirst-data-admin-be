@@ -64,6 +64,9 @@
         "wd:id":"Q2360576"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"971a055008e9c2fd41daba8767c945b6",
     "wof:hierarchy":[
         {
@@ -76,7 +79,7 @@
         }
     ],
     "wof:id":101755037,
-    "wof:lastmodified":1566611824,
+    "wof:lastmodified":1582345543,
     "wof:name":"Estinnes-au-Mont",
     "wof:parent_id":102049923,
     "wof:placetype":"locality",

@@ -110,6 +110,10 @@
         "wk:page":"Angleur"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"143cb7cf67ef12cf8b123992e805af33",
     "wof:hierarchy":[
         {
@@ -126,7 +130,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1566611081,
+    "wof:lastmodified":1582345516,
     "wof:name":"Angleur",
     "wof:parent_id":101748083,
     "wof:placetype":"neighbourhood",

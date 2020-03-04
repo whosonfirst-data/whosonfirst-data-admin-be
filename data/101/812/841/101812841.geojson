@@ -161,6 +161,9 @@
         "wk:page":"Bertrix"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"930b88d4abb4ad21626358ba1253fda6",
     "wof:hierarchy":[
         {
@@ -173,7 +176,7 @@
         }
     ],
     "wof:id":101812841,
-    "wof:lastmodified":1566611911,
+    "wof:lastmodified":1582345558,
     "wof:name":"Bertrix",
     "wof:parent_id":102049913,
     "wof:placetype":"locality",

@@ -144,6 +144,9 @@
         "wd:id":"Q912069"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"074f2714cbc9bd4554d97ba82214fbe8",
     "wof:hierarchy":[
         {
@@ -160,7 +163,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1566611946,
+    "wof:lastmodified":1582345565,
     "wof:name":"Knesselare",
     "wof:parent_id":1108830533,
     "wof:placetype":"locality",

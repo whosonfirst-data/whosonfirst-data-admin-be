@@ -145,6 +145,9 @@
         "wd:id":"Q531456"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"7b0d7bfe55d2b16c460f464341b56206",
     "wof:hierarchy":[
         {
@@ -157,7 +160,7 @@
         }
     ],
     "wof:id":101810507,
-    "wof:lastmodified":1566611887,
+    "wof:lastmodified":1582345555,
     "wof:name":"Ramillies-Offus",
     "wof:parent_id":102049945,
     "wof:placetype":"locality",

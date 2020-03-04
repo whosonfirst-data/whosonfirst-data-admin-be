@@ -71,6 +71,9 @@
         "qs_pg:id":875180
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"d22cd851c562a19c8b14d85a8f6b936a",
     "wof:hierarchy":[
         {
@@ -87,7 +90,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1566611071,
+    "wof:lastmodified":1582345514,
     "wof:name":"Langeveld",
     "wof:parent_id":101751573,
     "wof:placetype":"neighbourhood",

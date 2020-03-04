@@ -158,6 +158,9 @@
         "wd:id":"Q930292"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"dff49299b3cad8f0b3cbf985ed16cf69",
     "wof:hierarchy":[
         {
@@ -171,7 +174,7 @@
         }
     ],
     "wof:id":101755519,
-    "wof:lastmodified":1566611826,
+    "wof:lastmodified":1582345544,
     "wof:name":"Opwijk",
     "wof:parent_id":1108830247,
     "wof:placetype":"locality",

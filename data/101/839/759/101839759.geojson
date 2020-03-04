@@ -86,6 +86,9 @@
         "wd:id":"Q2124079"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"5222501fb6124e179a0849e998facc88",
     "wof:hierarchy":[
         {
@@ -98,7 +101,7 @@
         }
     ],
     "wof:id":101839759,
-    "wof:lastmodified":1566611975,
+    "wof:lastmodified":1582345570,
     "wof:name":"Sauveni\u00e8re",
     "wof:parent_id":102049931,
     "wof:placetype":"locality",

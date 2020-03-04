@@ -329,6 +329,9 @@
         "wd:id":"Q173603"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"a4bd48ee0ba069930c61b6b3046f888f",
     "wof:hierarchy":[
         {
@@ -345,7 +348,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1566611074,
+    "wof:lastmodified":1582345514,
     "wof:name":"Helmet",
     "wof:parent_id":101751573,
     "wof:placetype":"neighbourhood",

@@ -169,6 +169,9 @@
         "wk:page":"Evergem"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"7669653fb81791ac42fcb23c326ee2d5",
     "wof:hierarchy":[
         {
@@ -185,7 +188,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1566611861,
+    "wof:lastmodified":1582345550,
     "wof:name":"Evergem",
     "wof:parent_id":1108830413,
     "wof:placetype":"locality",

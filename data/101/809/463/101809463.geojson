@@ -72,6 +72,9 @@
         "wd:id":"Q1842482"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"ec305650b1081b641fcf843aef133361",
     "wof:hierarchy":[
         {
@@ -85,7 +88,7 @@
         }
     ],
     "wof:id":101809463,
-    "wof:lastmodified":1566611943,
+    "wof:lastmodified":1582345564,
     "wof:name":"Weelde",
     "wof:parent_id":1108830179,
     "wof:placetype":"locality",

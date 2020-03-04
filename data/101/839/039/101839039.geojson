@@ -156,6 +156,9 @@
         "wd:id":"Q281181"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"9e8e731d6d98bdd2cd5a7026867f9d4e",
     "wof:hierarchy":[
         {
@@ -172,7 +175,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1566611970,
+    "wof:lastmodified":1582345569,
     "wof:name":"Ichtegem",
     "wof:parent_id":1108830057,
     "wof:placetype":"locality",

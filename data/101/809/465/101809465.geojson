@@ -66,6 +66,9 @@
         "wd:id":"Q2443734"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"cffaa62e268023c230cb4f3959dd710e",
     "wof:hierarchy":[
         {
@@ -79,7 +82,7 @@
         }
     ],
     "wof:id":101809465,
-    "wof:lastmodified":1566611944,
+    "wof:lastmodified":1582345564,
     "wof:name":"Wortel",
     "wof:parent_id":1108830373,
     "wof:placetype":"locality",

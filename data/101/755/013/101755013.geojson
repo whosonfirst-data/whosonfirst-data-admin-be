@@ -189,6 +189,9 @@
         "wk:page":"Binche"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"9db2acdf4b3304dbdb7e5e893e5df2a3",
     "wof:hierarchy":[
         {
@@ -204,7 +207,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1566611816,
+    "wof:lastmodified":1582345542,
     "wof:name":"Binche",
     "wof:parent_id":102049923,
     "wof:placetype":"locality",

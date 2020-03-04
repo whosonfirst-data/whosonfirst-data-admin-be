@@ -55,6 +55,9 @@
         "qs_pg:id":1077673
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"1dbde7ff7349e3bf3d13360327dedb85",
     "wof:hierarchy":[
         {
@@ -68,7 +71,7 @@
         }
     ],
     "wof:id":101838979,
-    "wof:lastmodified":1566611923,
+    "wof:lastmodified":1582345560,
     "wof:name":"Kleit",
     "wof:parent_id":1108830541,
     "wof:placetype":"locality",

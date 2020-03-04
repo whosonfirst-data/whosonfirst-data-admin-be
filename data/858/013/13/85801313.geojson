@@ -75,6 +75,10 @@
         "qs_pg:id":1103446
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
     "wof:geomhash":"e21e6570d0b917206dc237fcc69fa33b",
     "wof:hierarchy":[
         {
@@ -92,7 +96,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1566611077,
+    "wof:lastmodified":1582345515,
     "wof:name":"Humelgem",
     "wof:parent_id":101913231,
     "wof:placetype":"neighbourhood",

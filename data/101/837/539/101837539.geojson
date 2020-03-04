@@ -169,6 +169,9 @@
         "wk:page":"Hamme"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"f89341f31c96a38d9bf0766b55842c49",
     "wof:hierarchy":[
         {
@@ -182,7 +185,7 @@
         }
     ],
     "wof:id":101837539,
-    "wof:lastmodified":1566611960,
+    "wof:lastmodified":1582345567,
     "wof:name":"Hamme",
     "wof:parent_id":1108830161,
     "wof:placetype":"locality",

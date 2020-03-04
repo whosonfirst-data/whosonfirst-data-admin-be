@@ -68,6 +68,9 @@
         "wd:id":"Q2799862"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"4b08a1e67af4beebe8cac2460f80f93a",
     "wof:hierarchy":[
         {
@@ -81,7 +84,7 @@
         }
     ],
     "wof:id":101839103,
-    "wof:lastmodified":1566611965,
+    "wof:lastmodified":1582345568,
     "wof:name":"Vlimmeren",
     "wof:parent_id":1108830491,
     "wof:placetype":"locality",

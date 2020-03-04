@@ -81,6 +81,9 @@
         "wk:page":"Koningshooikt"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"06aa17c51daf1079dac4713fe50bb4cc",
     "wof:hierarchy":[
         {
@@ -94,7 +97,7 @@
         }
     ],
     "wof:id":101755655,
-    "wof:lastmodified":1566611844,
+    "wof:lastmodified":1582345547,
     "wof:name":"Koningshooikt",
     "wof:parent_id":1108830097,
     "wof:placetype":"locality",

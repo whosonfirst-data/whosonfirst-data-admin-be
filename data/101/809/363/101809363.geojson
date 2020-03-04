@@ -80,6 +80,9 @@
         "wd:id":"Q116202"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"f6616709153b10040dd9c68f3059fdc8",
     "wof:hierarchy":[
         {
@@ -93,7 +96,7 @@
         }
     ],
     "wof:id":101809363,
-    "wof:lastmodified":1566611940,
+    "wof:lastmodified":1582345563,
     "wof:name":"Ursel",
     "wof:parent_id":1108830533,
     "wof:placetype":"locality",

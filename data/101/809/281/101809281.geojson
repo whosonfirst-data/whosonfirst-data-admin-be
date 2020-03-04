@@ -165,6 +165,9 @@
         "wk:page":"Mesen"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"732e33515fcabf3d32936f57f148cd6f",
     "wof:hierarchy":[
         {
@@ -178,7 +181,7 @@
         }
     ],
     "wof:id":101809281,
-    "wof:lastmodified":1566611942,
+    "wof:lastmodified":1582345564,
     "wof:name":"Mesen",
     "wof:parent_id":1108830585,
     "wof:placetype":"locality",

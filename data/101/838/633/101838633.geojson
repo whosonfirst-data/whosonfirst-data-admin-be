@@ -89,6 +89,9 @@
         "qs_pg:id":1037893
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"5201d6053f568e73d3f2cbc4ef2f81aa",
     "wof:hierarchy":[
         {
@@ -101,7 +104,7 @@
         }
     ],
     "wof:id":101838633,
-    "wof:lastmodified":1566611920,
+    "wof:lastmodified":1582345560,
     "wof:name":"Hasti\u00e8re-Lavaux",
     "wof:parent_id":102049919,
     "wof:placetype":"locality",

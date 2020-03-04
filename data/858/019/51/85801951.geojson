@@ -248,6 +248,9 @@
         "wk:page":"Uccle"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"8da3bad740bb7afbfa55f69acbc35569",
     "wof:hierarchy":[
         {
@@ -264,7 +267,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1566611095,
+    "wof:lastmodified":1582345519,
     "wof:name":"Uccle",
     "wof:parent_id":101751573,
     "wof:placetype":"neighbourhood",

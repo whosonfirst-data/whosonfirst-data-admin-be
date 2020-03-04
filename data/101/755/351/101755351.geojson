@@ -68,6 +68,9 @@
         "wd:id":"Q1876354"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"d2e8c678d050ec12cad96692bef43b84",
     "wof:hierarchy":[
         {
@@ -81,7 +84,7 @@
         }
     ],
     "wof:id":101755351,
-    "wof:lastmodified":1566611833,
+    "wof:lastmodified":1582345545,
     "wof:name":"Okegem",
     "wof:parent_id":1108830403,
     "wof:placetype":"locality",

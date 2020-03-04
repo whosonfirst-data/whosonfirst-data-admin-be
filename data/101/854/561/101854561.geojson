@@ -155,6 +155,10 @@
         "wk:page":"Herstappe"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"a4ae76d61f26bbfb4155014594a241aa",
     "wof:hierarchy":[
         {
@@ -168,7 +172,7 @@
         }
     ],
     "wof:id":101854561,
-    "wof:lastmodified":1566611954,
+    "wof:lastmodified":1582345566,
     "wof:name":"Herstappe",
     "wof:parent_id":1108830081,
     "wof:placetype":"locality",

@@ -81,6 +81,9 @@
         "wk:page":"Broechem"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"06cd43e64f68773dee83b9b39d0f3b96",
     "wof:hierarchy":[
         {
@@ -106,7 +109,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1566611832,
+    "wof:lastmodified":1582345545,
     "wof:name":"Broechem",
     "wof:parent_id":-4,
     "wof:placetype":"locality",

@@ -65,6 +65,9 @@
         "wd:id":"Q667788"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"d7e777970c33d2a87bf69110315f37b9",
     "wof:hierarchy":[
         {
@@ -78,7 +81,7 @@
         }
     ],
     "wof:id":101755651,
-    "wof:lastmodified":1566611821,
+    "wof:lastmodified":1582345543,
     "wof:name":"Itegem",
     "wof:parent_id":1108830023,
     "wof:placetype":"locality",

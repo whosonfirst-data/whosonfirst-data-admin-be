@@ -68,6 +68,9 @@
         "wd:id":"Q1938545"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"d8df52edcd11ab755805093b2685d643",
     "wof:hierarchy":[
         {
@@ -81,7 +84,7 @@
         }
     ],
     "wof:id":101809405,
-    "wof:lastmodified":1566611950,
+    "wof:lastmodified":1582345565,
     "wof:name":"Eksel",
     "wof:parent_id":1108830149,
     "wof:placetype":"locality",

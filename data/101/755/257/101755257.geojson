@@ -70,6 +70,9 @@
         "wd:id":"Q2553167"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"085899b6789abe9b69e720cafb5d3103",
     "wof:hierarchy":[
         {
@@ -82,7 +85,7 @@
         }
     ],
     "wof:id":101755257,
-    "wof:lastmodified":1566611819,
+    "wof:lastmodified":1582345542,
     "wof:name":"Genval",
     "wof:parent_id":102049945,
     "wof:placetype":"locality",

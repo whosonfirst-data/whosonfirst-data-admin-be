@@ -75,6 +75,9 @@
         "wd:id":"Q1827485"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"ec897e25a58fa928c568a6fdbe61e07a",
     "wof:hierarchy":[
         {
@@ -88,7 +91,7 @@
         }
     ],
     "wof:id":101808123,
-    "wof:lastmodified":1566611964,
+    "wof:lastmodified":1582345568,
     "wof:name":"Leffinge",
     "wof:parent_id":1108830695,
     "wof:placetype":"locality",

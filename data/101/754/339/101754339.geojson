@@ -146,6 +146,9 @@
         "wd:id":"Q818621"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"d6f72fde8b5130066d7847ccd1927e8f",
     "wof:hierarchy":[
         {
@@ -159,7 +162,7 @@
         }
     ],
     "wof:id":101754339,
-    "wof:lastmodified":1566611859,
+    "wof:lastmodified":1582345549,
     "wof:name":"Liedekerke",
     "wof:parent_id":1108830577,
     "wof:placetype":"locality",

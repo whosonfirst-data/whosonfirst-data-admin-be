@@ -83,6 +83,9 @@
         "qs_pg:id":267709
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"461558c9810b32984cdcbdf9ecd56777",
     "wof:hierarchy":[
         {
@@ -96,7 +99,7 @@
         }
     ],
     "wof:id":101755641,
-    "wof:lastmodified":1566611842,
+    "wof:lastmodified":1582345546,
     "wof:name":"Wintham",
     "wof:parent_id":1108830535,
     "wof:placetype":"locality",

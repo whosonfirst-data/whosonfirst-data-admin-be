@@ -132,6 +132,9 @@
         "wk:page":"Passendale"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"9142d2a171054dfc6288412bab295851",
     "wof:hierarchy":[
         {
@@ -145,7 +148,7 @@
         }
     ],
     "wof:id":101838759,
-    "wof:lastmodified":1566611929,
+    "wof:lastmodified":1582345561,
     "wof:name":"Passendale",
     "wof:parent_id":1108830101,
     "wof:placetype":"locality",

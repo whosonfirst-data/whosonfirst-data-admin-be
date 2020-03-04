@@ -84,6 +84,9 @@
         "wd:id":"Q2127148"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"fae86bd6444271bc7ed575a1ec4d2380",
     "wof:hierarchy":[
         {
@@ -97,7 +100,7 @@
         }
     ],
     "wof:id":101755311,
-    "wof:lastmodified":1566611852,
+    "wof:lastmodified":1582345548,
     "wof:name":"Lauwe",
     "wof:parent_id":1108830067,
     "wof:placetype":"locality",

@@ -142,6 +142,9 @@
         "wd:id":"Q682570"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"ddf4508a3c8732129826cc2ea9724ec0",
     "wof:hierarchy":[
         {
@@ -154,7 +157,7 @@
         }
     ],
     "wof:id":101810381,
-    "wof:lastmodified":1566611892,
+    "wof:lastmodified":1582345556,
     "wof:name":"Ferri\u00e8res",
     "wof:parent_id":102049925,
     "wof:placetype":"locality",

@@ -158,6 +158,9 @@
         "wk:page":"Hoegaarden"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"4e3603e934512817ebc92b2b752bd4ed",
     "wof:hierarchy":[
         {
@@ -171,7 +174,7 @@
         }
     ],
     "wof:id":101838751,
-    "wof:lastmodified":1566611928,
+    "wof:lastmodified":1582345561,
     "wof:name":"Hoegaarden",
     "wof:parent_id":1108830281,
     "wof:placetype":"locality",

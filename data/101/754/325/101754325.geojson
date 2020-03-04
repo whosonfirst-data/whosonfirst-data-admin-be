@@ -176,6 +176,9 @@
         "wk:page":"Diest"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"79eeae639b4c21406e7d3a9163c10f9b",
     "wof:hierarchy":[
         {
@@ -189,7 +192,7 @@
         }
     ],
     "wof:id":101754325,
-    "wof:lastmodified":1566611863,
+    "wof:lastmodified":1582345550,
     "wof:name":"Diest",
     "wof:parent_id":1108830307,
     "wof:placetype":"locality",

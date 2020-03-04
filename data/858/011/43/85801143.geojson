@@ -172,6 +172,10 @@
         "wk:page":"Fl\u00e9ron"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"5cc66cb386a93a9a9634dd3a8065674e",
     "wof:hierarchy":[
         {
@@ -188,7 +192,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1566611089,
+    "wof:lastmodified":1582345518,
     "wof:name":"Fl\u00e9ron",
     "wof:parent_id":101748083,
     "wof:placetype":"neighbourhood",

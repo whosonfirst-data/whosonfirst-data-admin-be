@@ -192,6 +192,9 @@
         "wk:page":"Mol, Belgium"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"6c18064465de0c0cde9c5aa84b9932e9",
     "wof:hierarchy":[
         {
@@ -205,7 +208,7 @@
         }
     ],
     "wof:id":101837615,
-    "wof:lastmodified":1566611961,
+    "wof:lastmodified":1582345567,
     "wof:name":"Mol",
     "wof:parent_id":1108830147,
     "wof:placetype":"locality",

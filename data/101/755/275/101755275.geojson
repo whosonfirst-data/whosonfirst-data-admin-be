@@ -71,6 +71,9 @@
         "wd:id":"Q2185177"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"7551598fdd4fcf46e49822a4061e24b8",
     "wof:hierarchy":[
         {
@@ -84,7 +87,7 @@
         }
     ],
     "wof:id":101755275,
-    "wof:lastmodified":1566611819,
+    "wof:lastmodified":1582345542,
     "wof:name":"Gellik",
     "wof:parent_id":1108830075,
     "wof:placetype":"locality",

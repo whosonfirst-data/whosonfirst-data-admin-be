@@ -65,6 +65,9 @@
         "wd:id":"Q2150821"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"474f172981a7f9447f36c5453e9ecfd4",
     "wof:hierarchy":[
         {
@@ -78,7 +81,7 @@
         }
     ],
     "wof:id":101809479,
-    "wof:lastmodified":1566611941,
+    "wof:lastmodified":1582345564,
     "wof:name":"Veerle",
     "wof:parent_id":1108830163,
     "wof:placetype":"locality",

@@ -72,6 +72,9 @@
         "wd:id":"Q2496883"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"6727ff525620af7b08f9fc2e8949338f",
     "wof:hierarchy":[
         {
@@ -84,7 +87,7 @@
         }
     ],
     "wof:id":101810383,
-    "wof:lastmodified":1566611884,
+    "wof:lastmodified":1582345555,
     "wof:name":"Gouy-lez-Pi\u00e9ton",
     "wof:parent_id":102049927,
     "wof:placetype":"locality",

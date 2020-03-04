@@ -256,6 +256,9 @@
         "wk:page":"Mechelen"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"ce24deb0f9eab0c458000ddd39cc6856",
     "wof:hierarchy":[
         {
@@ -269,7 +272,7 @@
         }
     ],
     "wof:id":101748091,
-    "wof:lastmodified":1566611894,
+    "wof:lastmodified":1582345556,
     "wof:name":"Mechelen",
     "wof:parent_id":1108830407,
     "wof:placetype":"locality",

@@ -140,6 +140,9 @@
         "wd:id":"Q280182"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"79cf8e871a61bf25617ac5392bf323dc",
     "wof:hierarchy":[
         {
@@ -153,7 +156,7 @@
         }
     ],
     "wof:id":101755841,
-    "wof:lastmodified":1566611836,
+    "wof:lastmodified":1582345546,
     "wof:name":"Herselt",
     "wof:parent_id":1108830551,
     "wof:placetype":"locality",

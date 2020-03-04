@@ -252,6 +252,9 @@
         "wd:id":"Q2123304"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"a96d4ce9a06f3b098175c914193cd309",
     "wof:hierarchy":[
         {
@@ -264,7 +267,7 @@
         }
     ],
     "wof:id":101838671,
-    "wof:lastmodified":1566611930,
+    "wof:lastmodified":1582345562,
     "wof:name":"Estaimbourg",
     "wof:parent_id":102049951,
     "wof:placetype":"locality",

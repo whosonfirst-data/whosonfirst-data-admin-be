@@ -94,6 +94,10 @@
         "wk:page":"Sterrebeek"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"fd3523ffb4b8bedc73c5a184d117f261",
     "wof:hierarchy":[
         {
@@ -111,7 +115,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1566611096,
+    "wof:lastmodified":1582345519,
     "wof:name":"Sterrebeek",
     "wof:parent_id":101755517,
     "wof:placetype":"neighbourhood",

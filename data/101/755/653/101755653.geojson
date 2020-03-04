@@ -68,6 +68,9 @@
         "wd:id":"Q2557967"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"af058a25b179c19cee483406667892be",
     "wof:hierarchy":[
         {
@@ -81,7 +84,7 @@
         }
     ],
     "wof:id":101755653,
-    "wof:lastmodified":1566611848,
+    "wof:lastmodified":1582345547,
     "wof:name":"Hingene",
     "wof:parent_id":1108830535,
     "wof:placetype":"locality",

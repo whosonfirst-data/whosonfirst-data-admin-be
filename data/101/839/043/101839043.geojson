@@ -159,6 +159,9 @@
         "wd:id":"Q687921"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"f54388b6fc42eecedc44484cf5121d95",
     "wof:hierarchy":[
         {
@@ -175,7 +178,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1566611976,
+    "wof:lastmodified":1582345570,
     "wof:name":"Beernem",
     "wof:parent_id":1108830289,
     "wof:placetype":"locality",

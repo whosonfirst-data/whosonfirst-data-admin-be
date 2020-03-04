@@ -158,6 +158,9 @@
         "wk:page":"Waremme"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"a1acb7b211d9cdd3236020f11e04cf7c",
     "wof:hierarchy":[
         {
@@ -173,7 +176,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1566611891,
+    "wof:lastmodified":1582345556,
     "wof:name":"Waremme",
     "wof:parent_id":102049937,
     "wof:placetype":"locality",

@@ -146,6 +146,9 @@
         "wd:id":"Q676893"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"b57bb2692081a78000dc3c1fd71bb5aa",
     "wof:hierarchy":[
         {
@@ -159,7 +162,7 @@
         }
     ],
     "wof:id":101755407,
-    "wof:lastmodified":1566611823,
+    "wof:lastmodified":1582345543,
     "wof:name":"Holsbeek",
     "wof:parent_id":1108830435,
     "wof:placetype":"locality",

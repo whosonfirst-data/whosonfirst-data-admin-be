@@ -54,6 +54,9 @@
         "wd:id":"Q10073"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"a1914b14d393db76c2dbc3f7bdd5ed32",
     "wof:hierarchy":[
         {
@@ -67,7 +70,7 @@
         }
     ],
     "wof:id":101913519,
-    "wof:lastmodified":1534985845,
+    "wof:lastmodified":1582345557,
     "wof:name":"Hulst",
     "wof:parent_id":1108830641,
     "wof:placetype":"locality",

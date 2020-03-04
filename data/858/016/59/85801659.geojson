@@ -117,6 +117,9 @@
         "wk:page":"Neder-Over-Heembeek"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"838a92e9aee86c64c2d6adeca5e3a863",
     "wof:hierarchy":[
         {
@@ -133,7 +136,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1566611090,
+    "wof:lastmodified":1582345518,
     "wof:name":"Neder-Over-Heembeek",
     "wof:parent_id":101751573,
     "wof:placetype":"neighbourhood",

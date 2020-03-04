@@ -258,6 +258,9 @@
         "wd:id":"Q1172527"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"ba8660c7446e8ca8ddf8f7628cbdc290",
     "wof:hierarchy":[
         {
@@ -270,7 +273,7 @@
         }
     ],
     "wof:id":101838677,
-    "wof:lastmodified":1566611932,
+    "wof:lastmodified":1582345562,
     "wof:name":"Comines",
     "wof:parent_id":1108782559,
     "wof:placetype":"locality",

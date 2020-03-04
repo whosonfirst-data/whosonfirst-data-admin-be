@@ -407,6 +407,9 @@
         "wk:page":"Charleroi"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"522067e4a1b70124c87ec236d6d5c9e9",
     "wof:hierarchy":[
         {
@@ -422,7 +425,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1566611895,
+    "wof:lastmodified":1582345557,
     "wof:name":"Charleroi",
     "wof:parent_id":102049927,
     "wof:placetype":"locality",

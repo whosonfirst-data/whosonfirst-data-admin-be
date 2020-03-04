@@ -65,6 +65,9 @@
         "wd:id":"Q1959372"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"e01d6542bb21f58d5aff4ca83ba8dc5e",
     "wof:hierarchy":[
         {
@@ -78,7 +81,7 @@
         }
     ],
     "wof:id":101755405,
-    "wof:lastmodified":1566611846,
+    "wof:lastmodified":1582345547,
     "wof:name":"Wijgmaal",
     "wof:parent_id":1108830125,
     "wof:placetype":"locality",

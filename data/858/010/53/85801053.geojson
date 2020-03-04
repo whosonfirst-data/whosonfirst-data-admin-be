@@ -80,6 +80,10 @@
         "qs_pg:id":1027241
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"995e046c786da8a902adfd60a45bb5f2",
     "wof:hierarchy":[
         {
@@ -97,7 +101,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1566611094,
+    "wof:lastmodified":1582345519,
     "wof:name":"Diegem Lo",
     "wof:parent_id":101913231,
     "wof:placetype":"neighbourhood",

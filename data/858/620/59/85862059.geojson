@@ -98,6 +98,10 @@
         "wk:page":"Jemeppe-sur-Meuse"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"d3861e9385fb78be1a46a30d5d871529",
     "wof:hierarchy":[
         {
@@ -114,7 +118,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1566611077,
+    "wof:lastmodified":1582345515,
     "wof:name":"Jemeppe-sur-meuse",
     "wof:parent_id":101748083,
     "wof:placetype":"neighbourhood",

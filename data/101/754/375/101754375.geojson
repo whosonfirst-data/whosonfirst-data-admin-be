@@ -86,6 +86,9 @@
         "wd:id":"Q607570"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"4b063efc485372e5b2989a6ba80f85ad",
     "wof:hierarchy":[
         {
@@ -99,7 +102,7 @@
         }
     ],
     "wof:id":101754375,
-    "wof:lastmodified":1566611868,
+    "wof:lastmodified":1582345551,
     "wof:name":"Sleidinge",
     "wof:parent_id":1108830413,
     "wof:placetype":"locality",

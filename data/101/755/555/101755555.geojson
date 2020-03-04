@@ -68,6 +68,9 @@
         "wd:id":"Q2625637"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"04d6b4bb88c80ef58ba4ad0dd648ff16",
     "wof:hierarchy":[
         {
@@ -81,7 +84,7 @@
         }
     ],
     "wof:id":101755555,
-    "wof:lastmodified":1566611832,
+    "wof:lastmodified":1582345545,
     "wof:name":"Gits",
     "wof:parent_id":1108830171,
     "wof:placetype":"locality",

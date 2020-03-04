@@ -155,6 +155,9 @@
         "wd:id":"Q587906"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"d19e19b59de2824febda2cff994bd9f4",
     "wof:hierarchy":[
         {
@@ -168,7 +171,7 @@
         }
     ],
     "wof:id":101838865,
-    "wof:lastmodified":1566611932,
+    "wof:lastmodified":1582345562,
     "wof:name":"Waasmunster",
     "wof:parent_id":1108830461,
     "wof:placetype":"locality",

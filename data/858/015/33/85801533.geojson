@@ -74,6 +74,9 @@
         "gp:id":972709
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"6b71eb53fd38ce0ad6d42afbca338dc5",
     "wof:hierarchy":[
         {
@@ -90,7 +93,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1566611070,
+    "wof:lastmodified":1582345513,
     "wof:name":"La Pr\u00e9alle",
     "wof:parent_id":101748083,
     "wof:placetype":"neighbourhood",

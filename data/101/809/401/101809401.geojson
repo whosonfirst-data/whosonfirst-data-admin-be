@@ -81,6 +81,9 @@
         "wd:id":"Q3050605"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"f0a3b421f1790c9a2ba0907e5cae3a95",
     "wof:hierarchy":[
         {
@@ -94,7 +97,7 @@
         }
     ],
     "wof:id":101809401,
-    "wof:lastmodified":1566611942,
+    "wof:lastmodified":1582345564,
     "wof:name":"Elen",
     "wof:parent_id":1108830389,
     "wof:placetype":"locality",

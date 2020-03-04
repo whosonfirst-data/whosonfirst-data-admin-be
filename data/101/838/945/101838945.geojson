@@ -68,6 +68,9 @@
         "wd:id":"Q2673070"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"49e1c7903f4cb31fe247ac8f3f2e0ca7",
     "wof:hierarchy":[
         {
@@ -81,7 +84,7 @@
         }
     ],
     "wof:id":101838945,
-    "wof:lastmodified":1566611936,
+    "wof:lastmodified":1582345563,
     "wof:name":"Molenbeersel",
     "wof:parent_id":1108830217,
     "wof:placetype":"locality",

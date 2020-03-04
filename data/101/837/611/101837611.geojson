@@ -55,6 +55,9 @@
         "qs_pg:id":1162775
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"f13d055f192631af39c3168186a2bce8",
     "wof:hierarchy":[
         {
@@ -68,7 +71,7 @@
         }
     ],
     "wof:id":101837611,
-    "wof:lastmodified":1566611957,
+    "wof:lastmodified":1582345567,
     "wof:name":"Winkelomheide",
     "wof:parent_id":1108830531,
     "wof:placetype":"locality",

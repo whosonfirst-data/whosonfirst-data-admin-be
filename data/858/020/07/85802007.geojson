@@ -70,6 +70,9 @@
         "gp:id":978998
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"c3c44aa76bb7c1de9a56ff182ff545cc",
     "wof:hierarchy":[
         {
@@ -86,7 +89,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1566611084,
+    "wof:lastmodified":1582345517,
     "wof:name":"Wixhon",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

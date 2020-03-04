@@ -70,6 +70,10 @@
         "wd:id":"Q572882"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"c9b3799e65257666836efdaabab611cf",
     "wof:hierarchy":[
         {
@@ -87,7 +91,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1566611079,
+    "wof:lastmodified":1582345515,
     "wof:name":"Malem",
     "wof:parent_id":101748093,
     "wof:placetype":"neighbourhood",

@@ -70,6 +70,9 @@
         "wd:id":"Q2264266"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"6b52347ce6c1e307c7599eb9bb5a104f",
     "wof:hierarchy":[
         {
@@ -82,7 +85,7 @@
         }
     ],
     "wof:id":101838637,
-    "wof:lastmodified":1566611932,
+    "wof:lastmodified":1582345562,
     "wof:name":"Thisnes",
     "wof:parent_id":102049937,
     "wof:placetype":"locality",

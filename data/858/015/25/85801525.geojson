@@ -72,6 +72,9 @@
         "qs_pg:id":1103542
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"51a60cba38d522a47dc6bcb3b84490aa",
     "wof:hierarchy":[
         {
@@ -88,7 +91,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1566611072,
+    "wof:lastmodified":1582345514,
     "wof:name":"La Petite Ile",
     "wof:parent_id":101751573,
     "wof:placetype":"neighbourhood",

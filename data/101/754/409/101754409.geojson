@@ -257,6 +257,9 @@
         "wd:id":"Q2346321"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"e971525975e932f4e074c349bce300e7",
     "wof:hierarchy":[
         {
@@ -270,7 +273,7 @@
         }
     ],
     "wof:id":101754409,
-    "wof:lastmodified":1566611861,
+    "wof:lastmodified":1582345550,
     "wof:name":"Noorderwijk",
     "wof:parent_id":1108830061,
     "wof:placetype":"locality",

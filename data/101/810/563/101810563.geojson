@@ -155,6 +155,9 @@
         "wd:id":"Q651837"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"c4bf006c941027e62a5c6c0df9ac513d",
     "wof:hierarchy":[
         {
@@ -168,7 +171,7 @@
         }
     ],
     "wof:id":101810563,
-    "wof:lastmodified":1566611886,
+    "wof:lastmodified":1582345555,
     "wof:name":"Gingelom",
     "wof:parent_id":1108830599,
     "wof:placetype":"locality",

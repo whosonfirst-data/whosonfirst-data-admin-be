@@ -233,6 +233,9 @@
         "wk:page":"Aalst, Belgium"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"38589875bc7285a0051b84808c3aa5de",
     "wof:hierarchy":[
         {
@@ -249,7 +252,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1566611858,
+    "wof:lastmodified":1582345549,
     "wof:name":"Aalst",
     "wof:parent_id":1108830515,
     "wof:placetype":"locality",

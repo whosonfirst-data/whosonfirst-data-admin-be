@@ -150,6 +150,9 @@
         "wd:id":"Q160709"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"d6d96a925d30b76107dd6840628070e0",
     "wof:hierarchy":[
         {
@@ -162,7 +165,7 @@
         }
     ],
     "wof:id":101811639,
-    "wof:lastmodified":1566611875,
+    "wof:lastmodified":1582345553,
     "wof:name":"Hotton",
     "wof:parent_id":102049921,
     "wof:placetype":"locality",

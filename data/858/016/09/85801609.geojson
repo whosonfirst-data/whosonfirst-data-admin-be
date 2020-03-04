@@ -107,6 +107,10 @@
         "wk:page":"Melsele"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"2682196185f60cc476d7ff94c88f0d91",
     "wof:hierarchy":[
         {
@@ -124,7 +128,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1566611091,
+    "wof:lastmodified":1582345518,
     "wof:name":"Melsele",
     "wof:parent_id":101837567,
     "wof:placetype":"neighbourhood",

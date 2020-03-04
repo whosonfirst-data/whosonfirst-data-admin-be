@@ -161,6 +161,9 @@
         "wd:id":"Q499604"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"69be59611162a2e840fe2c19d6114e14",
     "wof:hierarchy":[
         {
@@ -174,7 +177,7 @@
         }
     ],
     "wof:id":101839697,
-    "wof:lastmodified":1566611977,
+    "wof:lastmodified":1582345570,
     "wof:name":"Alken",
     "wof:parent_id":1108830441,
     "wof:placetype":"locality",

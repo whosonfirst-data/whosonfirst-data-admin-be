@@ -70,6 +70,9 @@
         "wd:id":"Q1828688"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"656953d50eea6e0114436fff5752de87",
     "wof:hierarchy":[
         {
@@ -82,7 +85,7 @@
         }
     ],
     "wof:id":101812829,
-    "wof:lastmodified":1566611910,
+    "wof:lastmodified":1582345558,
     "wof:name":"Habay-la-Neuve",
     "wof:parent_id":102049907,
     "wof:placetype":"locality",

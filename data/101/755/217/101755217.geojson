@@ -74,6 +74,9 @@
         "wk:page":"Thieu"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"8584b21bbf3f98aa846d550397a3a074",
     "wof:hierarchy":[
         {
@@ -86,7 +89,7 @@
         }
     ],
     "wof:id":101755217,
-    "wof:lastmodified":1566611817,
+    "wof:lastmodified":1582345542,
     "wof:name":"Thieu",
     "wof:parent_id":102049943,
     "wof:placetype":"locality",

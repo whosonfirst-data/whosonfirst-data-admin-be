@@ -141,6 +141,9 @@
         "wk:page":"Rumes"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"606ccd47fd4dd38d4487a11c2c5cf3c7",
     "wof:hierarchy":[
         {
@@ -156,7 +159,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1566611880,
+    "wof:lastmodified":1582345554,
     "wof:name":"Rumes",
     "wof:parent_id":102049951,
     "wof:placetype":"locality",

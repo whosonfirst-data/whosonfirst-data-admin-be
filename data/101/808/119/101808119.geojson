@@ -68,6 +68,9 @@
         "wd:id":"Q2662090"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"8ae2b8cf803b20d8804494f35a0eb172",
     "wof:hierarchy":[
         {
@@ -81,7 +84,7 @@
         }
     ],
     "wof:id":101808119,
-    "wof:lastmodified":1566611963,
+    "wof:lastmodified":1582345568,
     "wof:name":"Meerdonk",
     "wof:parent_id":1108830193,
     "wof:placetype":"locality",

@@ -161,6 +161,9 @@
         "wd:id":"Q499609"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"a903361dc009c2adc0d2c343d988e49f",
     "wof:hierarchy":[
         {
@@ -174,7 +177,7 @@
         }
     ],
     "wof:id":101838691,
-    "wof:lastmodified":1566611933,
+    "wof:lastmodified":1582345562,
     "wof:name":"Borgloon",
     "wof:parent_id":1108830359,
     "wof:placetype":"locality",

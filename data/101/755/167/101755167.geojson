@@ -152,6 +152,9 @@
         "wk:page":"Baelen"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"5baf90c403c7a991c8445993e1652a0d",
     "wof:hierarchy":[
         {
@@ -164,7 +167,7 @@
         }
     ],
     "wof:id":101755167,
-    "wof:lastmodified":1566611811,
+    "wof:lastmodified":1582345541,
     "wof:name":"Baelen",
     "wof:parent_id":102049935,
     "wof:placetype":"locality",

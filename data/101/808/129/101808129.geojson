@@ -138,6 +138,9 @@
         "wd:id":"Q912045"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"a6d48840234f2f1507665bf1ffed620b",
     "wof:hierarchy":[
         {
@@ -154,7 +157,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1566611963,
+    "wof:lastmodified":1582345568,
     "wof:name":"Wuustwezel",
     "wof:parent_id":1108830509,
     "wof:placetype":"locality",

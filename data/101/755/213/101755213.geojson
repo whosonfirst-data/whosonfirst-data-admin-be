@@ -64,6 +64,9 @@
         "wd:id":"Q2059179"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"be9c6d78c0531fe84d96b42a72604691",
     "wof:hierarchy":[
         {
@@ -76,7 +79,7 @@
         }
     ],
     "wof:id":101755213,
-    "wof:lastmodified":1566611844,
+    "wof:lastmodified":1582345547,
     "wof:name":"Trivi\u00e8res",
     "wof:parent_id":102049943,
     "wof:placetype":"locality",

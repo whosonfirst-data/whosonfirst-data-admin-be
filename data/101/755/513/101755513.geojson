@@ -68,6 +68,9 @@
         "wd:id":"Q2629754"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"2c53ae795ad131cd1a74e831c00d0c7a",
     "wof:hierarchy":[
         {
@@ -81,7 +84,7 @@
         }
     ],
     "wof:id":101755513,
-    "wof:lastmodified":1566611853,
+    "wof:lastmodified":1582345548,
     "wof:name":"Wambeek",
     "wof:parent_id":1108830119,
     "wof:placetype":"locality",

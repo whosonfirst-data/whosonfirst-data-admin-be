@@ -91,6 +91,9 @@
         "wk:page":"Zarren"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"7e90a94c9324c7f463678bbae093a6e3",
     "wof:hierarchy":[
         {
@@ -104,7 +107,7 @@
         }
     ],
     "wof:id":101809355,
-    "wof:lastmodified":1566611939,
+    "wof:lastmodified":1582345563,
     "wof:name":"Zarren",
     "wof:parent_id":1108830511,
     "wof:placetype":"locality",

@@ -148,6 +148,9 @@
         "wd:id":"Q837293"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"8b93572f2a12fbf1ef2e633a4a4323e1",
     "wof:hierarchy":[
         {
@@ -164,7 +167,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1566611090,
+    "wof:lastmodified":1582345518,
     "wof:name":"Flor\u00e9al",
     "wof:parent_id":101751573,
     "wof:placetype":"neighbourhood",

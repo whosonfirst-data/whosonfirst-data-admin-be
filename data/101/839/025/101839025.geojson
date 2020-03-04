@@ -52,6 +52,9 @@
         "qs_pg:id":192007
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"e490ab97f40889bb33b700f5f026a03e",
     "wof:hierarchy":[
         {
@@ -65,7 +68,7 @@
         }
     ],
     "wof:id":101839025,
-    "wof:lastmodified":1566611967,
+    "wof:lastmodified":1582345569,
     "wof:name":"Heiende",
     "wof:parent_id":1108830451,
     "wof:placetype":"locality",

@@ -78,6 +78,9 @@
         "wk:page":"Naast, Soignies"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"6b72f1fee841f6c055f0d8bd8004f1ed",
     "wof:hierarchy":[
         {
@@ -93,7 +96,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1566611888,
+    "wof:lastmodified":1582345555,
     "wof:name":"Naast",
     "wof:parent_id":102049943,
     "wof:placetype":"locality",

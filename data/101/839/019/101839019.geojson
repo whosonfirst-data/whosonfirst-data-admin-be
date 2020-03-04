@@ -71,6 +71,9 @@
         "wd:id":"Q3475052"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"eaa1f3abd93122b73e0b0ac10f8e2438",
     "wof:hierarchy":[
         {
@@ -84,7 +87,7 @@
         }
     ],
     "wof:id":101839019,
-    "wof:lastmodified":1566611977,
+    "wof:lastmodified":1582345570,
     "wof:name":"Sinaai",
     "wof:parent_id":1108830559,
     "wof:placetype":"locality",

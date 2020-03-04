@@ -143,6 +143,9 @@
         "wd:id":"Q696740"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"fae6f47632c1d3774749d98e49b1f4c7",
     "wof:hierarchy":[
         {
@@ -156,7 +159,7 @@
         }
     ],
     "wof:id":101913575,
-    "wof:lastmodified":1566611901,
+    "wof:lastmodified":1582345557,
     "wof:name":"Nieuwerkerken",
     "wof:parent_id":1108830617,
     "wof:placetype":"locality",

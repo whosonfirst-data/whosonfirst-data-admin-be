@@ -147,6 +147,9 @@
         "wd:id":"Q724777"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"695366b8d48f2011ec13ef65df2663cb",
     "wof:hierarchy":[
         {
@@ -163,7 +166,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1566611977,
+    "wof:lastmodified":1582345570,
     "wof:name":"Kalmthout",
     "wof:parent_id":1108830415,
     "wof:placetype":"locality",

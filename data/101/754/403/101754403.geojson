@@ -148,6 +148,9 @@
         "wk:page":"Kontich"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"0c00964e3cbd6239fb5e5f4019a09b70",
     "wof:hierarchy":[
         {
@@ -164,7 +167,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1566611867,
+    "wof:lastmodified":1582345551,
     "wof:name":"Kontich",
     "wof:parent_id":1108830209,
     "wof:placetype":"locality",

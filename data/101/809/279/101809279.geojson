@@ -77,6 +77,9 @@
         "wd:id":"Q2555902"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"afe6e0b7777d9951b095b9caa4ed8fc5",
     "wof:hierarchy":[
         {
@@ -90,7 +93,7 @@
         }
     ],
     "wof:id":101809279,
-    "wof:lastmodified":1566611948,
+    "wof:lastmodified":1582345565,
     "wof:name":"Oostvleteren",
     "wof:parent_id":1108830565,
     "wof:placetype":"locality",

@@ -170,6 +170,9 @@
         "wk:page":"Sint-Gillis-Waas"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"dcba0d0232ec7245dc27d3cd2f46c301",
     "wof:hierarchy":[
         {
@@ -186,7 +189,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1566611915,
+    "wof:lastmodified":1582345559,
     "wof:name":"Sint-Gillis-Waas",
     "wof:parent_id":1108830193,
     "wof:placetype":"locality",

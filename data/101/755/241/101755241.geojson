@@ -56,6 +56,9 @@
         "qs_pg:id":232214
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"e61a701302e6ad01f7e2efa029195ebd",
     "wof:hierarchy":[
         {
@@ -68,7 +71,7 @@
         }
     ],
     "wof:id":101755241,
-    "wof:lastmodified":1566611838,
+    "wof:lastmodified":1582345546,
     "wof:name":"Rebecq-Rognon",
     "wof:parent_id":102049945,
     "wof:placetype":"locality",

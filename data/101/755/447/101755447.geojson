@@ -146,6 +146,9 @@
         "wd:id":"Q815054"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"4bbc44a3db8b49962e3596cd3cadc7e0",
     "wof:hierarchy":[
         {
@@ -159,7 +162,7 @@
         }
     ],
     "wof:id":101755447,
-    "wof:lastmodified":1566611812,
+    "wof:lastmodified":1582345542,
     "wof:name":"Bekkevoort",
     "wof:parent_id":1108830131,
     "wof:placetype":"locality",

@@ -157,6 +157,9 @@
         "wd:id":"Q159958"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"acb031d9afe1679b56231510f1d51ea1",
     "wof:hierarchy":[
         {
@@ -169,7 +172,7 @@
         }
     ],
     "wof:id":101810419,
-    "wof:lastmodified":1566611888,
+    "wof:lastmodified":1582345555,
     "wof:name":"Lontzen",
     "wof:parent_id":102049935,
     "wof:placetype":"locality",

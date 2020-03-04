@@ -69,6 +69,9 @@
         "wd:id":"Q616933"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"3533e8af2dca051650e921eed96b5b74",
     "wof:hierarchy":[
         {
@@ -85,7 +88,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1566611977,
+    "wof:lastmodified":1582345570,
     "wof:name":"Nederename",
     "wof:parent_id":1108830311,
     "wof:placetype":"locality",

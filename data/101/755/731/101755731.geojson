@@ -95,6 +95,9 @@
         "wk:page":"Westende"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"ffbf1e550c7ef7acfb62d1ea45d0b90a",
     "wof:hierarchy":[
         {
@@ -108,7 +111,7 @@
         }
     ],
     "wof:id":101755731,
-    "wof:lastmodified":1566611811,
+    "wof:lastmodified":1582345541,
     "wof:name":"Westende",
     "wof:parent_id":1108830695,
     "wof:placetype":"locality",

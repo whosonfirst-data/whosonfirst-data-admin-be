@@ -84,6 +84,9 @@
         "wk:page":"Elewijt"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"a970dba80a61d3b475d710d037a0fd52",
     "wof:hierarchy":[
         {
@@ -97,7 +100,7 @@
         }
     ],
     "wof:id":101755497,
-    "wof:lastmodified":1566611821,
+    "wof:lastmodified":1582345543,
     "wof:name":"Elewijt",
     "wof:parent_id":1108830589,
     "wof:placetype":"locality",

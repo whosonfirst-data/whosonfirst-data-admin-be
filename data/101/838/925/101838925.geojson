@@ -55,6 +55,9 @@
         "qs_pg:id":1161290
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"949048984e2dfed9fd43f44909fd6698",
     "wof:hierarchy":[
         {
@@ -68,7 +71,7 @@
         }
     ],
     "wof:id":101838925,
-    "wof:lastmodified":1566611926,
+    "wof:lastmodified":1582345561,
     "wof:name":"Grote Heide",
     "wof:parent_id":1108830205,
     "wof:placetype":"locality",

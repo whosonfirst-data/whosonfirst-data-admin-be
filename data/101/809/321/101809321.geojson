@@ -83,6 +83,9 @@
         "wd:id":"Q2511918"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"28e5d6345a20e74c98bdd12ec4cabc53",
     "wof:hierarchy":[
         {
@@ -96,7 +99,7 @@
         }
     ],
     "wof:id":101809321,
-    "wof:lastmodified":1566611954,
+    "wof:lastmodified":1582345566,
     "wof:name":"Zwevezele",
     "wof:parent_id":1108830065,
     "wof:placetype":"locality",

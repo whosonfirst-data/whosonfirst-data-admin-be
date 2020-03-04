@@ -157,6 +157,9 @@
         "wk:page":"Assenede"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"c1bb467ab46614e94ae2eab5157ea7be",
     "wof:hierarchy":[
         {
@@ -173,7 +176,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1566611909,
+    "wof:lastmodified":1582345558,
     "wof:name":"Assenede",
     "wof:parent_id":1108830271,
     "wof:placetype":"locality",

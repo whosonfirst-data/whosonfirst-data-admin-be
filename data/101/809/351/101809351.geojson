@@ -144,6 +144,9 @@
         "wd:id":"Q2791245"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"bf33e7be3c2b6db7074b2d5b71159ebc",
     "wof:hierarchy":[
         {
@@ -157,7 +160,7 @@
         }
     ],
     "wof:id":101809351,
-    "wof:lastmodified":1566611947,
+    "wof:lastmodified":1582345565,
     "wof:name":"Lo",
     "wof:parent_id":1108830073,
     "wof:placetype":"locality",

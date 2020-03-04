@@ -72,6 +72,9 @@
         "wk:page":"Nederbrakel"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"84ce90fcdea603ca965da8ee93845955",
     "wof:hierarchy":[
         {
@@ -85,7 +88,7 @@
         }
     ],
     "wof:id":101838713,
-    "wof:lastmodified":1566611923,
+    "wof:lastmodified":1582345560,
     "wof:name":"Nederbrakel",
     "wof:parent_id":1108830545,
     "wof:placetype":"locality",

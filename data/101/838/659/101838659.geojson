@@ -166,6 +166,9 @@
         "wk:page":"Ronse"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"426323bfb6d870fdc6da4537c9b10d47",
     "wof:hierarchy":[
         {
@@ -179,7 +182,7 @@
         }
     ],
     "wof:id":101838659,
-    "wof:lastmodified":1561831424,
+    "wof:lastmodified":1582345560,
     "wof:name":"Ronse",
     "wof:parent_id":1108830167,
     "wof:placetype":"locality",

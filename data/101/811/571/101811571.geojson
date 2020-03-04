@@ -170,6 +170,9 @@
         "wk:page":"Philippeville"
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"14a96d80871d216c5e36d2331097a2c0",
     "wof:hierarchy":[
         {
@@ -185,7 +188,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1566611876,
+    "wof:lastmodified":1582345553,
     "wof:name":"Philippeville",
     "wof:parent_id":102049917,
     "wof:placetype":"locality",

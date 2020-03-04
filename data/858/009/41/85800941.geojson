@@ -68,6 +68,9 @@
         "gp:id":967657
     },
     "wof:country":"BE",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"e259c1a67c85025e49200eec97132b7d",
     "wof:hierarchy":[
         {
@@ -85,7 +88,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1566611082,
+    "wof:lastmodified":1582345516,
     "wof:name":"Boschbeek",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
