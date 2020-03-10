@@ -1163,9 +1163,7 @@
     ],
     "wof:concordances":{
         "dbp:id":"Belgium",
-        "digitalenvoy:country_code":[
-            56
-        ],
+        "digitalenvoy:country_code":56,
         "fb:id":"en.belgium",
         "fifa:id":"BEL",
         "fips:code":"BE",
@@ -1212,7 +1210,7 @@
         "fra",
         "deu"
     ],
-    "wof:lastmodified":1583529076,
+    "wof:lastmodified":1583797280,
     "wof:name":"Belgium",
     "wof:parent_id":102191581,
     "wof:placetype":"country",
