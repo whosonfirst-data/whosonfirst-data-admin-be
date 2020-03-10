@@ -489,9 +489,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "digitalenvoy:region_code":[
-            11057
-        ],
+        "digitalenvoy:region_code":11057,
         "fips:code":"BE01",
         "gn:id":2803136,
         "gp:id":7153308,
@@ -521,7 +519,7 @@
         "fra",
         "deu"
     ],
-    "wof:lastmodified":1583538233,
+    "wof:lastmodified":1583882702,
     "wof:name":"Antwerpen",
     "wof:parent_id":404227357,
     "wof:placetype":"region",

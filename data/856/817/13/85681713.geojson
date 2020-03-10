@@ -582,9 +582,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "digitalenvoy:region_code":[
-            28295
-        ],
+        "digitalenvoy:region_code":28295,
         "fips:code":"BE11",
         "gn:id":6693370,
         "gp:id":55965974,
@@ -614,7 +612,7 @@
         "fra",
         "deu"
     ],
-    "wof:lastmodified":1583538233,
+    "wof:lastmodified":1583882702,
     "wof:name":"Brussels-Capital Region",
     "wof:parent_id":404227355,
     "wof:placetype":"region",

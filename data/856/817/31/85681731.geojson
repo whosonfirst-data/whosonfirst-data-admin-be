@@ -397,9 +397,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "digitalenvoy:region_code":[
-            14480
-        ],
+        "digitalenvoy:region_code":14480,
         "fips:code":"BE12",
         "gn:id":3333250,
         "gp:id":22525998,
@@ -429,7 +427,7 @@
         "fra",
         "deu"
     ],
-    "wof:lastmodified":1583538233,
+    "wof:lastmodified":1583882702,
     "wof:name":"Vlaams-Brabant",
     "wof:parent_id":404227357,
     "wof:placetype":"region",

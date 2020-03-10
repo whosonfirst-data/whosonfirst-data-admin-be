@@ -808,9 +808,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "digitalenvoy:region_code":[
-            11060
-        ],
+        "digitalenvoy:region_code":11060,
         "fips:code":"BE06",
         "gn:id":2791993,
         "gp:id":7153302,
@@ -839,7 +837,7 @@
         "fra",
         "deu"
     ],
-    "wof:lastmodified":1583538233,
+    "wof:lastmodified":1583882702,
     "wof:name":"Luxembourg",
     "wof:parent_id":404227353,
     "wof:placetype":"region",

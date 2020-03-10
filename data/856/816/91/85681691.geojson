@@ -155,9 +155,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "digitalenvoy:region_code":[
-            11056
-        ],
+        "digitalenvoy:region_code":11056,
         "fips:code":"BE04",
         "gn:id":2792411,
         "gp:id":7153300,
@@ -186,7 +184,7 @@
         "fra",
         "deu"
     ],
-    "wof:lastmodified":1583538233,
+    "wof:lastmodified":1583882702,
     "wof:name":"Liege",
     "wof:parent_id":404227353,
     "wof:placetype":"region",

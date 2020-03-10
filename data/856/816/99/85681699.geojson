@@ -362,9 +362,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "digitalenvoy:region_code":[
-            11073
-        ],
+        "digitalenvoy:region_code":11073,
         "fips:code":"BE07",
         "gn:id":2790469,
         "gp:id":7153303,
@@ -393,7 +391,7 @@
         "fra",
         "deu"
     ],
-    "wof:lastmodified":1583538233,
+    "wof:lastmodified":1583882703,
     "wof:name":"Namur",
     "wof:parent_id":404227353,
     "wof:placetype":"region",

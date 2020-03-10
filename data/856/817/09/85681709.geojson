@@ -160,9 +160,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "digitalenvoy:region_code":[
-            11058
-        ],
+        "digitalenvoy:region_code":11058,
         "fips:code":"BE09",
         "gn:id":2783770,
         "gp:id":7153305,
@@ -190,7 +188,7 @@
         "fra",
         "deu"
     ],
-    "wof:lastmodified":1583538233,
+    "wof:lastmodified":1583882702,
     "wof:name":"West-Vlaanderen",
     "wof:parent_id":404227357,
     "wof:placetype":"region",

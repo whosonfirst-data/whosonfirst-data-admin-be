@@ -167,9 +167,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "digitalenvoy:region_code":[
-            11054
-        ],
+        "digitalenvoy:region_code":11054,
         "fips:code":"BE08",
         "gn:id":2789733,
         "gp:id":7153304,
@@ -197,7 +195,7 @@
         "fra",
         "deu"
     ],
-    "wof:lastmodified":1583538233,
+    "wof:lastmodified":1583882702,
     "wof:name":"Oost-Vlaanderen",
     "wof:parent_id":404227357,
     "wof:placetype":"region",

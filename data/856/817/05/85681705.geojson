@@ -294,9 +294,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "digitalenvoy:region_code":[
-            11071
-        ],
+        "digitalenvoy:region_code":11071,
         "fips:code":"BE05",
         "gn:id":2792347,
         "gp:id":7153301,
@@ -325,7 +323,7 @@
         "fra",
         "deu"
     ],
-    "wof:lastmodified":1583538233,
+    "wof:lastmodified":1583882702,
     "wof:name":"Limburg",
     "wof:parent_id":404227357,
     "wof:placetype":"region",

@@ -179,9 +179,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "digitalenvoy:region_code":[
-            11062
-        ],
+        "digitalenvoy:region_code":11062,
         "fips:code":"BE03",
         "gn:id":2796741,
         "gp:id":7153299,
@@ -210,7 +208,7 @@
         "fra",
         "deu"
     ],
-    "wof:lastmodified":1583538233,
+    "wof:lastmodified":1583882702,
     "wof:name":"Hainaut",
     "wof:parent_id":404227353,
     "wof:placetype":"region",
