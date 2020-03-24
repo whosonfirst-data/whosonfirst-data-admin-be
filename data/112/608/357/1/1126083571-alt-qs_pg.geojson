@@ -5,7 +5,8 @@
     "src:alt_label":"qs_pg",
     "src:geom":"qs_pg",
     "wof:geomhash":"297b04c9e0978b178e71d803fd5a9ff6",
-    "wof:id":1126083571
+    "wof:id":1126083571,
+    "wof:repo":"whosonfirst-data-admin-be"
 },
   "bbox": [
     4.335663,
