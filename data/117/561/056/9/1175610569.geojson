@@ -586,7 +586,9 @@
         85681713
     ],
     "wof:breaches":[],
-    "wof:capital_of":85632997,
+    "wof:capital_of":[
+        85632997
+    ],
     "wof:concordances":{
         "dbp:id":"Brussels",
         "fb:id":"en.brussels",
@@ -610,7 +612,7 @@
         }
     ],
     "wof:id":1175610569,
-    "wof:lastmodified":1587427973,
+    "wof:lastmodified":1607390891,
     "wof:megacity":1,
     "wof:name":"Brussel",
     "wof:parent_id":102049957,
