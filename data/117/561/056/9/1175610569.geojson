@@ -599,6 +599,9 @@
         "wd:id":"Q239",
         "wk:page":"City of Brussels"
     },
+    "wof:coterminous":[
+        85681713
+    ],
     "wof:country":"BE",
     "wof:geomhash":"f364ad0a658311ee8a38439a0357a9e2",
     "wof:hierarchy":[
@@ -612,7 +615,7 @@
         }
     ],
     "wof:id":1175610569,
-    "wof:lastmodified":1607390891,
+    "wof:lastmodified":1607980857,
     "wof:megacity":1,
     "wof:name":"Brussel",
     "wof:parent_id":102049957,
