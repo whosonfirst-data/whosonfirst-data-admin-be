@@ -8,7 +8,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.020728,
-    "geom:area_square_m":161866734.322435,
+    "geom:area_square_m":161866505.602235,
     "geom:bbox":"4.244673,50.763691,4.482281,50.913716",
     "geom:latitude":50.836055,
     "geom:longitude":4.370653,
@@ -591,6 +591,9 @@
         "unlc:id":"BE-BRU",
         "wd:id":"Q240"
     },
+    "wof:coterminous":[
+        1175610569
+    ],
     "wof:country":"BE",
     "wof:geomhash":"63ba5553be5939d695f2c2c22f43ea7a",
     "wof:hierarchy":[
@@ -612,7 +615,7 @@
         "fra",
         "deu"
     ],
-    "wof:lastmodified":1583882702,
+    "wof:lastmodified":1607980857,
     "wof:name":"Brussels-Capital Region",
     "wof:parent_id":404227355,
     "wof:placetype":"region",
