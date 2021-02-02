@@ -8,11 +8,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.463488,
-    "geom:area_square_m":3664248527.053918,
+    "geom:area_square_m":3664248382.317925,
     "geom:bbox":"4.285957,49.785622,5.402592,50.648327",
     "geom:latitude":50.255613,
     "geom:longitude":4.8523,
     "iso:country":"BE",
+    "label:deu_x_preferred_longname":[
+        "Provinz Nam\u00fcr"
+    ],
+    "label:deu_x_preferred_placetype":[
+        "provinz"
+    ],
     "label:eng_x_preferred_longname":[
         "Namur Province"
     ],
@@ -21,6 +27,18 @@
     ],
     "label:eng_x_preferred_shortcode":[
         "NA"
+    ],
+    "label:fra_x_preferred_longname":[
+        "Province de Namur"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "province"
+    ],
+    "label:nld_x_preferred_longname":[
+        "Provincie Namen"
+    ],
+    "label:nld_x_preferred_placetype":[
+        "provincie"
     ],
     "lbl:latitude":50.385631,
     "lbl:longitude":4.860581,
@@ -340,8 +358,8 @@
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"statoids",
-    "src:population_date":"2010-01-01",
+    "src:population":"wk",
+    "src:population_date":"2019-01-01",
     "statoids:area_km":"3,665",
     "statoids:area_mi":"1,415",
     "statoids:as_of_date":"2010-01-01",
@@ -391,12 +409,12 @@
         "fra",
         "deu"
     ],
-    "wof:lastmodified":1583882703,
+    "wof:lastmodified":1612307805,
     "wof:name":"Namur",
     "wof:parent_id":404227353,
     "wof:placetype":"region",
     "wof:placetype_local":"province",
-    "wof:population":472281,
+    "wof:population":494325,
     "wof:population_rank":10,
     "wof:repo":"whosonfirst-data-admin-be",
     "wof:shortcode":"NA",

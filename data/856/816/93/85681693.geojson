@@ -8,19 +8,40 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.139508,
-    "geom:area_square_m":1093320570.918643,
+    "geom:area_square_m":1093320717.726165,
     "geom:bbox":"4.091218,50.525417,5.020456,50.80735",
     "geom:latitude":50.669327,
     "geom:longitude":4.583829,
     "iso:country":"BE",
+    "label:deu_x_preferred_longname":[
+        "Provinz Wallonisch-Brabant"
+    ],
+    "label:deu_x_preferred_placetype":[
+        "provinz"
+    ],
     "label:eng_x_preferred_longname":[
-        "Brabant wallon Province"
+        "Walloon Brabant Province"
     ],
     "label:eng_x_preferred_placetype":[
         "province"
     ],
     "label:eng_x_preferred_shortcode":[
         "BW"
+    ],
+    "label:eng_x_variant_longname":[
+        "Brabant wallon Province"
+    ],
+    "label:fra_x_preferred_longname":[
+        "Province de Namur"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "province"
+    ],
+    "label:nld_x_preferred_longname":[
+        "Provincie Waals-Brabant"
+    ],
+    "label:nld_x_preferred_placetype":[
+        "provincie"
     ],
     "lbl:latitude":50.656119,
     "lbl:longitude":4.576695,
@@ -35,7 +56,8 @@
         "Wallonisch-Brabant"
     ],
     "name:deu_x_variant":[
-        "Provinz Wallonisch-Brabant"
+        "Provinz Wallonisch-Brabant",
+        "Waals-Brabant"
     ],
     "name:eng_x_preferred":[
         "Brabant wallon"
@@ -136,8 +158,8 @@
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"statoids",
-    "src:population_date":"2010-01-01",
+    "src:population":"wk",
+    "src:population_date":"2019-01-01",
     "statoids:area_km":"1,091",
     "statoids:area_mi":"421",
     "statoids:as_of_date":"2010-01-01",
@@ -187,12 +209,12 @@
         "fra",
         "deu"
     ],
-    "wof:lastmodified":1583882702,
+    "wof:lastmodified":1612307805,
     "wof:name":"Brabant wallon",
     "wof:parent_id":404227353,
     "wof:placetype":"region",
     "wof:placetype_local":"province",
-    "wof:population":379515,
+    "wof:population":403599,
     "wof:population_rank":10,
     "wof:repo":"whosonfirst-data-admin-be",
     "wof:shortcode":"BW",

@@ -8,19 +8,40 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.40584,
-    "geom:area_square_m":3157306856.359655,
+    "geom:area_square_m":3157306258.866916,
     "geom:bbox":"2.546011,50.708759,3.523682,51.369847",
     "geom:latitude":51.011622,
     "geom:longitude":3.057618,
     "iso:country":"BE",
+    "label:deu_x_preferred_longname":[
+        "Provinz Westflandern"
+    ],
+    "label:deu_x_preferred_placetype":[
+        "provinz"
+    ],
     "label:eng_x_preferred_longname":[
-        "West-Vlaanderen Province"
+        "West Flanders Province"
     ],
     "label:eng_x_preferred_placetype":[
         "province"
     ],
     "label:eng_x_preferred_shortcode":[
         "WV"
+    ],
+    "label:eng_x_variant_longname":[
+        "West-Vlaanderen Province"
+    ],
+    "label:fra_x_preferred_longname":[
+        "Province de Flandre-Occidentale"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "province"
+    ],
+    "label:nld_x_preferred_longname":[
+        "Provincie West-Vlaanderen"
+    ],
+    "label:nld_x_preferred_placetype":[
+        "provincie"
     ],
     "lbl:latitude":51.037182,
     "lbl:longitude":3.066484,
@@ -139,8 +160,8 @@
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"statoids",
-    "src:population_date":"2010-01-01",
+    "src:population":"wk",
+    "src:population_date":"2019-01-01",
     "statoids:area_km":"3,134",
     "statoids:area_mi":"1,210",
     "statoids:as_of_date":"2010-01-01",
@@ -188,12 +209,12 @@
         "fra",
         "deu"
     ],
-    "wof:lastmodified":1583882702,
+    "wof:lastmodified":1612307806,
     "wof:name":"West-Vlaanderen",
     "wof:parent_id":404227357,
     "wof:placetype":"region",
     "wof:placetype_local":"province",
-    "wof:population":1159366,
+    "wof:population":1195796,
     "wof:population_rank":12,
     "wof:repo":"whosonfirst-data-admin-be",
     "wof:shortcode":"WV",

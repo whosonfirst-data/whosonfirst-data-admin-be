@@ -10,6 +10,30 @@
     "geom:latitude":51.038215,
     "geom:longitude":4.239206,
     "iso:country":"BE",
+    "label:deu_x_preferred_longname":[
+        "Fl\u00e4mische Region"
+    ],
+    "label:deu_x_preferred_placetype":[
+        "region"
+    ],
+    "label:eng_x_preferred_longname":[
+        "Flemish Region"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "region"
+    ],
+    "label:fra_x_preferred_longname":[
+        "R\u00e9gion flamande"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "r\u00e9gion"
+    ],
+    "label:nld_x_preferred_longname":[
+        "Vlaams Gewest"
+    ],
+    "label:nld_x_preferred_placetype":[
+        "gewest"
+    ],
     "lbl:max_zoom":7.0,
     "lbl:min_zoom":5.0,
     "mz:hierarchy_label":0,
@@ -40,6 +64,9 @@
         "Vl\u00e1msk\u00fd region"
     ],
     "name:deu_x_preferred":[
+        "Fl\u00e4mische"
+    ],
+    "name:deu_x_variant":[
         "Fl\u00e4mische Region"
     ],
     "name:diq_x_preferred":[
@@ -61,6 +88,9 @@
         "\u0645\u0646\u0637\u0642\u0647 \u0641\u0644\u0645\u06cc\u0634"
     ],
     "name:fra_x_preferred":[
+        "Flamande"
+    ],
+    "name:fra_x_variant":[
         "R\u00e9gion flamande"
     ],
     "name:hin_x_preferred":[
@@ -109,7 +139,10 @@
         "Fjandri"
     ],
     "name:nld_x_preferred":[
-        "Vlaams Gewest"
+        "Vlaams"
+    ],
+    "name:nld_x_variant":[
+        "Vlaams gewest"
     ],
     "name:oss_x_preferred":[
         "\u0424\u043b\u0430\u043c\u0430\u043d\u0434\u0438\u0439\u044b \u0440\u0435\u0433\u0438\u043e\u043d"
@@ -210,7 +243,7 @@
         "fra",
         "deu"
     ],
-    "wof:lastmodified":1587427979,
+    "wof:lastmodified":1612307804,
     "wof:name":"Flemish Region",
     "wof:parent_id":85632997,
     "wof:placetype":"macroregion",

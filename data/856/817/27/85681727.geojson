@@ -8,11 +8,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.559041,
-    "geom:area_square_m":4446886131.285258,
+    "geom:area_square_m":4446885882.88696,
     "geom:bbox":"4.968106,49.497238,6.034501,50.43058",
     "geom:latitude":49.96159,
     "geom:longitude":5.51329,
     "iso:country":"BE",
+    "label:deu_x_preferred_longname":[
+        "Provinz Luxemburg"
+    ],
+    "label:deu_x_preferred_placetype":[
+        "provinz"
+    ],
     "label:eng_x_preferred_longname":[
         "Luxembourg Province"
     ],
@@ -21,6 +27,18 @@
     ],
     "label:eng_x_preferred_shortcode":[
         "LX"
+    ],
+    "label:fra_x_preferred_longname":[
+        "Province de Luxembourg"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "province"
+    ],
+    "label:nld_x_preferred_longname":[
+        "Provincie Luxemburg"
+    ],
+    "label:nld_x_preferred_placetype":[
+        "provincie"
     ],
     "lbl:latitude":49.902903,
     "lbl:longitude":5.460687,
@@ -786,8 +804,8 @@
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"statoids",
-    "src:population_date":"2010-01-01",
+    "src:population":"wk",
+    "src:population_date":"2019-01-01",
     "statoids:area_km":"4,441",
     "statoids:area_mi":"1,715",
     "statoids:as_of_date":"2010-01-01",
@@ -837,12 +855,12 @@
         "fra",
         "deu"
     ],
-    "wof:lastmodified":1583882702,
+    "wof:lastmodified":1612307805,
     "wof:name":"Luxembourg",
     "wof:parent_id":404227353,
     "wof:placetype":"region",
     "wof:placetype_local":"province",
-    "wof:population":269023,
+    "wof:population":284638,
     "wof:population_rank":10,
     "wof:repo":"whosonfirst-data-admin-be",
     "wof:shortcode":"LX",

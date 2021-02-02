@@ -8,19 +8,40 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.385492,
-    "geom:area_square_m":2997395868.296426,
+    "geom:area_square_m":2997396186.17955,
     "geom:bbox":"3.331306,50.720955,4.330065,51.352955",
     "geom:latitude":51.03652,
     "geom:longitude":3.816374,
     "iso:country":"BE",
+    "label:deu_x_preferred_longname":[
+        "Provinz Ostflandern"
+    ],
+    "label:deu_x_preferred_placetype":[
+        "provinz"
+    ],
     "label:eng_x_preferred_longname":[
-        "Oost-Vlaanderen Province"
+        "East Flanders Province"
     ],
     "label:eng_x_preferred_placetype":[
         "province"
     ],
     "label:eng_x_preferred_shortcode":[
         "OV"
+    ],
+    "label:eng_x_variant_longname":[
+        "Oost-Vlaanderen Province"
+    ],
+    "label:fra_x_preferred_longname":[
+        "Province de Flandre-Orientale"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "province"
+    ],
+    "label:nld_x_preferred_longname":[
+        "Provincie Oost-Vlaanderen"
+    ],
+    "label:nld_x_preferred_placetype":[
+        "provincie"
     ],
     "lbl:latitude":50.981154,
     "lbl:longitude":3.856605,
@@ -146,8 +167,8 @@
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"statoids",
-    "src:population_date":"2010-01-01",
+    "src:population":"wk",
+    "src:population_date":"2019-01-01",
     "statoids:area_km":"2,982",
     "statoids:area_mi":"1,151",
     "statoids:as_of_date":"2010-01-01",
@@ -195,12 +216,12 @@
         "fra",
         "deu"
     ],
-    "wof:lastmodified":1583882702,
+    "wof:lastmodified":1612307805,
     "wof:name":"Oost-Vlaanderen",
     "wof:parent_id":404227357,
     "wof:placetype":"region",
     "wof:placetype_local":"province",
-    "wof:population":1432326,
+    "wof:population":1515064,
     "wof:population_rank":12,
     "wof:repo":"whosonfirst-data-admin-be",
     "wof:shortcode":"OV",

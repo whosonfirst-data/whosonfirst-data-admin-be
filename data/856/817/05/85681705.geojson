@@ -8,11 +8,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.31078,
-    "geom:area_square_m":2418820107.712937,
+    "geom:area_square_m":2418820165.212022,
     "geom:bbox":"4.980297,50.69548,5.911112,51.300228",
     "geom:latitude":50.991498,
     "geom:longitude":5.429124,
     "iso:country":"BE",
+    "label:deu_x_preferred_longname":[
+        "Provinz Limburg"
+    ],
+    "label:deu_x_preferred_placetype":[
+        "provinz"
+    ],
     "label:eng_x_preferred_longname":[
         "Limburg Province"
     ],
@@ -21,6 +27,18 @@
     ],
     "label:eng_x_preferred_shortcode":[
         "LI"
+    ],
+    "label:fra_x_preferred_longname":[
+        "Province de Limbourg"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "province"
+    ],
+    "label:nld_x_preferred_longname":[
+        "Provincie Limburg"
+    ],
+    "label:nld_x_preferred_placetype":[
+        "provincie"
     ],
     "lbl:latitude":50.97529,
     "lbl:longitude":5.427647,
@@ -271,8 +289,8 @@
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"statoids",
-    "src:population_date":"2010-01-01",
+    "src:population":"wk",
+    "src:population_date":"2019-01-01",
     "statoids:area_km":"2,422",
     "statoids:area_mi":"935",
     "statoids:as_of_date":"2010-01-01",
@@ -323,12 +341,12 @@
         "fra",
         "deu"
     ],
-    "wof:lastmodified":1583882702,
+    "wof:lastmodified":1612307805,
     "wof:name":"Limburg",
     "wof:parent_id":404227357,
     "wof:placetype":"region",
     "wof:placetype_local":"province",
-    "wof:population":838505,
+    "wof:population":874048,
     "wof:population_rank":11,
     "wof:repo":"whosonfirst-data-admin-be",
     "wof:shortcode":"LI",
