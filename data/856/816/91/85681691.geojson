@@ -8,11 +8,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.488571,
-    "geom:area_square_m":3841039289.928265,
+    "geom:area_square_m":3841039130.326172,
     "geom:bbox":"4.979547,50.129902,6.406391,50.812252",
     "geom:latitude":50.520542,
     "geom:longitude":5.736152,
     "iso:country":"BE",
+    "label:deu_x_preferred_longname":[
+        "Provinz L\u00fcttich"
+    ],
+    "label:deu_x_preferred_placetype":[
+        "provinz"
+    ],
     "label:eng_x_preferred_longname":[
         "Liege Province"
     ],
@@ -21,6 +27,18 @@
     ],
     "label:eng_x_preferred_shortcode":[
         "LG"
+    ],
+    "label:fra_x_preferred_longname":[
+        "Province de Li\u00e8ge"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "province"
+    ],
+    "label:nld_x_preferred_longname":[
+        "Provincie Luik"
+    ],
+    "label:nld_x_preferred_placetype":[
+        "provincie"
     ],
     "lbl:latitude":50.558223,
     "lbl:longitude":5.725104,
@@ -133,8 +151,8 @@
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"statoids",
-    "src:population_date":"2010-01-01",
+    "src:population":"wk",
+    "src:population_date":"2019-01-01",
     "statoids:area_km":"3,862",
     "statoids:area_mi":"1,491",
     "statoids:as_of_date":"2010-01-01",
@@ -184,12 +202,12 @@
         "fra",
         "deu"
     ],
-    "wof:lastmodified":1583882702,
+    "wof:lastmodified":1612307805,
     "wof:name":"Liege",
     "wof:parent_id":404227353,
     "wof:placetype":"region",
     "wof:placetype_local":"province",
-    "wof:population":1067685,
+    "wof:population":1106992,
     "wof:population_rank":12,
     "wof:repo":"whosonfirst-data-admin-be",
     "wof:shortcode":"LG",

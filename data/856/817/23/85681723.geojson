@@ -8,11 +8,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.483219,
-    "geom:area_square_m":3803066396.759,
+    "geom:area_square_m":3803065223.172819,
     "geom:bbox":"2.842169,49.942314,4.617163,50.810776",
     "geom:latitude":50.469493,
     "geom:longitude":3.95949,
     "iso:country":"BE",
+    "label:deu_x_preferred_longname":[
+        "Provinz Hennegau"
+    ],
+    "label:deu_x_preferred_placetype":[
+        "provinz"
+    ],
     "label:eng_x_preferred_longname":[
         "Hainaut Province"
     ],
@@ -21,6 +27,18 @@
     ],
     "label:eng_x_preferred_shortcode":[
         "HT"
+    ],
+    "label:fra_x_preferred_longname":[
+        "Province de Hainaut"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "province"
+    ],
+    "label:nld_x_preferred_longname":[
+        "Provincie Henegouwen"
+    ],
+    "label:nld_x_preferred_placetype":[
+        "provincie"
     ],
     "lbl:latitude":50.513411,
     "lbl:longitude":3.92736,
@@ -156,8 +174,8 @@
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"statoids",
-    "src:population_date":"2010-01-01",
+    "src:population":"wk",
+    "src:population_date":"2019-01-01",
     "statoids:area_km":"3,787",
     "statoids:area_mi":"1,462",
     "statoids:as_of_date":"2010-01-01",
@@ -208,12 +226,12 @@
         "fra",
         "deu"
     ],
-    "wof:lastmodified":1583882702,
+    "wof:lastmodified":1612307805,
     "wof:name":"Hainaut",
     "wof:parent_id":404227353,
     "wof:placetype":"region",
     "wof:placetype_local":"province",
-    "wof:population":1309880,
+    "wof:population":1344241,
     "wof:population_rank":12,
     "wof:repo":"whosonfirst-data-admin-be",
     "wof:shortcode":"HT",

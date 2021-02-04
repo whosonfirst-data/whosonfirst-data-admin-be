@@ -13,6 +13,12 @@
     "geom:latitude":50.836055,
     "geom:longitude":4.370653,
     "iso:country":"BE",
+    "label:deu_x_preferred_longname":[
+        "Region Br\u00fcssel-Hauptstadt"
+    ],
+    "label:deu_x_preferred_placetype":[
+        "provinz"
+    ],
     "label:eng_x_preferred_longname":[
         "Brussels Capital Region"
     ],
@@ -21,6 +27,18 @@
     ],
     "label:eng_x_preferred_shortcode":[
         "BU"
+    ],
+    "label:fra_x_preferred_longname":[
+        "R\u00e9gion de Bruxelles-Capitale"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "province"
+    ],
+    "label:nld_x_preferred_longname":[
+        "Brussels Hoofdstedelijk Gewest"
+    ],
+    "label:nld_x_preferred_placetype":[
+        "provincie"
     ],
     "lbl:latitude":50.835819,
     "lbl:longitude":4.368897,
@@ -150,10 +168,11 @@
         "Brysselin p\u00e4\u00e4kaupunkialue"
     ],
     "name:fra_x_preferred":[
-        "R\u00e9gion de Bruxelles-Capitale"
+        "Bruxelles-Capitale"
     ],
     "name:fra_x_variant":[
-        "Bruxelles"
+        "Bruxelles",
+        "R\u00e9gion de Bruxelles-Capitale"
     ],
     "name:frr_x_preferred":[
         "Regiuun Br\u00fcssel"
@@ -560,8 +579,8 @@
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"statoids",
-    "src:population_date":"2010-01-01",
+    "src:population":"wk",
+    "src:population_date":"2019-01-01",
     "statoids:area_km":"161",
     "statoids:area_mi":"62",
     "statoids:as_of_date":"2010-01-01",
@@ -586,7 +605,7 @@
         "fips:code":"BE11",
         "gn:id":6693370,
         "gp:id":55965974,
-        "hasc:id":"BE.BU",
+        "hasc:id":"BE.BR",
         "iso:id":"BE-BRU",
         "unlc:id":"BE-BRU",
         "wd:id":"Q240"
@@ -615,7 +634,7 @@
         "fra",
         "deu"
     ],
-    "wof:lastmodified":1607980857,
+    "wof:lastmodified":1612307805,
     "wof:name":"Brussels-Capital Region",
     "wof:parent_id":404227355,
     "wof:placetype":"region",
@@ -623,7 +642,7 @@
         "county"
     ],
     "wof:placetype_local":"capital region",
-    "wof:population":1089538,
+    "wof:population":1208542,
     "wof:population_rank":12,
     "wof:repo":"whosonfirst-data-admin-be",
     "wof:shortcode":"BU",
