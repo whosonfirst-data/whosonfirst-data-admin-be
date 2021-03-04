@@ -168,11 +168,11 @@
         "Brysselin p\u00e4\u00e4kaupunkialue"
     ],
     "name:fra_x_preferred":[
-        "Bruxelles-Capitale"
+        "R\u00e9gion de Bruxelles-Capitale"
     ],
     "name:fra_x_variant":[
         "Bruxelles",
-        "R\u00e9gion de Bruxelles-Capitale"
+        "Bruxelles-Capitale"
     ],
     "name:frr_x_preferred":[
         "Regiuun Br\u00fcssel"
@@ -634,7 +634,7 @@
         "fra",
         "deu"
     ],
-    "wof:lastmodified":1612307805,
+    "wof:lastmodified":1614892938,
     "wof:name":"Brussels-Capital Region",
     "wof:parent_id":404227355,
     "wof:placetype":"region",
