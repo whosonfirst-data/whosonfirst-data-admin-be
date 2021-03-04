@@ -91,10 +91,11 @@
         "Wallonien"
     ],
     "name:deu_x_preferred":[
-        "Wallonische"
+        "Wallonie"
     ],
     "name:deu_x_variant":[
-        "Wallonische Region"
+        "Wallonische Region",
+        "Wallonische"
     ],
     "name:diq_x_preferred":[
         "Wallonya"
@@ -127,10 +128,10 @@
         "Vallonia"
     ],
     "name:fra_x_preferred":[
-        "Wallonne"
+        "R\u00e9gion wallonne"
     ],
     "name:fra_x_variant":[
-        "R\u00e9gion wallonne"
+        "Wallonne"
     ],
     "name:frp_x_preferred":[
         "Valonie"
@@ -226,11 +227,12 @@
         "\u0935\u093e\u0932\u0941\u0928 \u0915\u094d\u0937\u0947\u0924\u094d\u0930"
     ],
     "name:nld_x_preferred":[
-        "Wallonne"
+        "Walloni\u00eb"
     ],
     "name:nld_x_variant":[
         "Waals Gewest",
-        "Waals gewest"
+        "Waals gewest",
+        "Wallonne"
     ],
     "name:nob_x_preferred":[
         "Vallonia"
@@ -379,7 +381,7 @@
         "fra",
         "deu"
     ],
-    "wof:lastmodified":1612307805,
+    "wof:lastmodified":1614892938,
     "wof:name":"Wallonia",
     "wof:parent_id":85632997,
     "wof:placetype":"macroregion",
