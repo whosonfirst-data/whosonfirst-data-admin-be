@@ -19,6 +19,9 @@
     "name:eng_x_preferred":[
         "Kleine Brogel Air Base"
     ],
+    "name:eng_x_variant":[
+        "EBBL"
+    ],
     "name:fas_x_preferred":[
         "\u067e\u0627\u06cc\u06af\u0627\u0647 \u0647\u0648\u0627\u06cc\u06cc \u067e\u0647"
     ],
@@ -73,7 +76,7 @@
         }
     ],
     "wof:id":102546439,
-    "wof:lastmodified":1566610952,
+    "wof:lastmodified":1631750036,
     "wof:name":"Kleine Brogel Airport",
     "wof:parent_id":85681705,
     "wof:placetype":"campus",

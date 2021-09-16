@@ -22,6 +22,9 @@
     "name:eng_x_preferred":[
         "Florennes Air Base"
     ],
+    "name:eng_x_variant":[
+        "EBFS"
+    ],
     "name:fas_x_preferred":[
         "\u0641\u0644\u0648\u0631\u0646 \u067e\u0627\u06cc\u06af\u0627\u0647 \u0647\u0648\u0627\u06cc\u06cc"
     ],
@@ -79,7 +82,7 @@
         }
     ],
     "wof:id":102546445,
-    "wof:lastmodified":1566610953,
+    "wof:lastmodified":1631750036,
     "wof:name":"Florennes Airport",
     "wof:parent_id":85681699,
     "wof:placetype":"campus",
