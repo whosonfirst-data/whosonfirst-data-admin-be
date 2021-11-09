@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.001035,
     "geom:area_square_m":8057219.516145,
-    "geom:bbox":"3.4979601363,50.9565512705,3.54855237899,51.0027787501",
+    "geom:bbox":"3.4979601362997,50.95655127047189,3.54855237898931,51.00277875009192",
     "geom:latitude":50.98073,
     "geom:longitude":3.526783,
     "gn:population":29815,
@@ -39,10 +39,10 @@
         "Deinze"
     ],
     "name:eng_x_preferred":[
-        "Deynze"
+        "Deinze"
     ],
     "name:eng_x_variant":[
-        "Deinze"
+        "Deynze"
     ],
     "name:epo_x_preferred":[
         "Deinze"
@@ -158,12 +158,12 @@
     "src:population":"geonames",
     "wd:wordcount":432,
     "wof:belongsto":[
-        85681733,
         102191581,
-        1108830629,
         85632997,
+        102049989,
+        1108830629,
         404227357,
-        102049989
+        85681733
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -194,7 +194,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1582345566,
+    "wof:lastmodified":1636499291,
     "wof:name":"Deinze",
     "wof:parent_id":1108830629,
     "wof:placetype":"locality",
