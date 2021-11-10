@@ -33,6 +33,9 @@
     "name:heb_x_preferred":[
         "\u05d1\u05dc \u05d0\u05d9\u05d9\u05e8"
     ],
+    "name:hun_x_preferred":[
+        "Bel Air"
+    ],
     "name:ita_x_preferred":[
         "Bel Air"
     ],
@@ -114,7 +117,7 @@
         }
     ],
     "wof:id":1126095991,
-    "wof:lastmodified":1566612193,
+    "wof:lastmodified":1636500626,
     "wof:name":"Bel Air",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

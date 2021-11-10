@@ -58,6 +58,9 @@
     "name:bel_x_preferred":[
         "\u0425\u0430\u0441\u0435\u043b\u0442"
     ],
+    "name:ben_x_preferred":[
+        "\u09b9\u09cd\u09af\u09be\u09b8\u09c7\u09b2\u09cd\u099f"
+    ],
     "name:bre_x_preferred":[
         "Hasselt"
     ],
@@ -114,6 +117,9 @@
     ],
     "name:glv_x_preferred":[
         "Hasselt"
+    ],
+    "name:hin_x_preferred":[
+        "\u0939\u093e\u0938\u0947\u0932\u094d\u091f"
     ],
     "name:hun_x_preferred":[
         "Hasselt"
@@ -259,8 +265,8 @@
     "wof:belongsto":[
         102191581,
         85632997,
-        404227357,
-        85681705
+        85681705,
+        404227357
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -278,7 +284,7 @@
         }
     ],
     "wof:id":102049975,
-    "wof:lastmodified":1612307802,
+    "wof:lastmodified":1636500621,
     "wof:name":"Hasselt",
     "wof:parent_id":85681705,
     "wof:placetype":"county",

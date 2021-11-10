@@ -58,6 +58,9 @@
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u0410\u0440\u043b\u043e\u043d"
     ],
+    "name:ben_x_preferred":[
+        "\u0986\u09b0\u09b2\u09a8"
+    ],
     "name:bre_x_preferred":[
         "Arlon"
     ],
@@ -117,6 +120,9 @@
     ],
     "name:heb_x_preferred":[
         "\u05d0\u05e8\u05dc\u05d5\u05df"
+    ],
+    "name:hin_x_preferred":[
+        "\u0906\u0930\u094d\u0932\u094b\u0928"
     ],
     "name:hun_x_preferred":[
         "Arlon"
@@ -251,8 +257,8 @@
     "wof:belongsto":[
         102191581,
         85632997,
-        404227353,
-        85681727
+        85681727,
+        404227353
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -271,7 +277,7 @@
         }
     ],
     "wof:id":102049909,
-    "wof:lastmodified":1612307802,
+    "wof:lastmodified":1636500621,
     "wof:name":"Arlon",
     "wof:parent_id":85681727,
     "wof:placetype":"county",

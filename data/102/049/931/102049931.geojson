@@ -121,6 +121,9 @@
     "name:guj_x_preferred":[
         "\u0aa8\u0abe\u0aae\u0ac1\u0ab0"
     ],
+    "name:heb_x_preferred":[
+        "\u05e0\u05d0\u05de\u05d5\u05e8"
+    ],
     "name:hin_x_preferred":[
         "\u0928\u093e\u092e\u0941\u0930"
     ],
@@ -292,8 +295,8 @@
     "wof:belongsto":[
         102191581,
         85632997,
-        404227353,
-        85681699
+        85681699,
+        404227353
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -312,7 +315,7 @@
         }
     ],
     "wof:id":102049931,
-    "wof:lastmodified":1612307803,
+    "wof:lastmodified":1636500621,
     "wof:name":"Namur",
     "wof:parent_id":85681699,
     "wof:placetype":"county",

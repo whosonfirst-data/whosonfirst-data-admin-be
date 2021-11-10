@@ -62,6 +62,9 @@
     "name:fra_x_preferred":[
         "Heze"
     ],
+    "name:hun_x_preferred":[
+        "Heze"
+    ],
     "name:ita_x_preferred":[
         "Heze"
     ],
@@ -152,7 +155,7 @@
         }
     ],
     "wof:id":1260013727,
-    "wof:lastmodified":1566611479,
+    "wof:lastmodified":1636500623,
     "wof:name":"Heze",
     "wof:parent_id":1108830307,
     "wof:placetype":"locality",

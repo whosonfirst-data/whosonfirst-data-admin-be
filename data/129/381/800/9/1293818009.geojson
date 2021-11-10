@@ -44,6 +44,9 @@
     "name:bel_x_preferred":[
         "\u0425\u0430\u0441\u0435\u043b\u0442"
     ],
+    "name:ben_x_preferred":[
+        "\u09b9\u09cd\u09af\u09be\u09b8\u09c7\u09b2\u09cd\u099f"
+    ],
     "name:bre_x_preferred":[
         "Hasselt"
     ],
@@ -97,6 +100,9 @@
     ],
     "name:glv_x_preferred":[
         "Hasselt"
+    ],
+    "name:hin_x_preferred":[
+        "\u0939\u093e\u0938\u0947\u0932\u094d\u091f"
     ],
     "name:hun_x_preferred":[
         "Hasselt"
@@ -236,7 +242,7 @@
         }
     ],
     "wof:id":1293818009,
-    "wof:lastmodified":1566611214,
+    "wof:lastmodified":1636500623,
     "wof:name":"Hasselt",
     "wof:parent_id":1108830037,
     "wof:placetype":"locality",

@@ -22,6 +22,9 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ben_x_preferred":[
+        "\u09b0\u09cb\u09df\u09be\u09a8\u09a8\u09c7"
+    ],
     "name:deu_x_preferred":[
         "Roanne"
     ],
@@ -31,8 +34,14 @@
     "name:fra_x_preferred":[
         "Roanne"
     ],
+    "name:hin_x_preferred":[
+        "\u0930\u094b\u0906\u0928"
+    ],
     "name:nld_x_preferred":[
         "Roanne"
+    ],
+    "name:urd_x_preferred":[
+        "\u0631\u0648\u0646\u06d2"
     ],
     "qs_pg:aaroncc":"BE",
     "qs_pg:gn_country":"BE",
@@ -88,7 +97,7 @@
         }
     ],
     "wof:id":1125939425,
-    "wof:lastmodified":1566612022,
+    "wof:lastmodified":1636500626,
     "wof:name":"Roanne",
     "wof:parent_id":102049935,
     "wof:placetype":"locality",
