@@ -13,6 +13,18 @@
     "begov:uidn":"435",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"BE",
+    "eurostat:gisco_id":"BE_36010",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Ledegem",
+    "eurostat:nuts_2021_id":"36010",
+    "eurostat:nuts_2021_level_0":"BE",
+    "eurostat:nuts_2021_level_1":"BE2",
+    "eurostat:nuts_2021_level_2":"BE25",
+    "eurostat:nuts_2021_level_3":"BE256",
+    "eurostat:nuts_2021_level_lau":"36010",
+    "eurostat:population":9688,
+    "eurostat:population_year":2020,
     "geom:area":0.00317,
     "geom:area_square_m":24737981.380676,
     "geom:bbox":"3.09452566145,50.84763636,3.20886922287,50.892702549",
@@ -111,6 +123,8 @@
     "reversegeo:longitude":3.136743,
     "src:geom":"begov",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         85681709,
         102191581,
@@ -119,10 +133,13 @@
         102049977
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"BE_36010",
+        "eurostat:nuts_2021_id":"36010"
+    },
     "wof:country":"BE",
     "wof:created":1488241138,
-    "wof:geomhash":"f611aaecc507a31458a1385814f84797",
+    "wof:geomhash":"cf7549a54df93655feb517552772567a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -134,10 +151,12 @@
         }
     ],
     "wof:id":1108830277,
-    "wof:lastmodified":1566611603,
+    "wof:lastmodified":1684351664,
     "wof:name":"Ledegem",
     "wof:parent_id":102049977,
     "wof:placetype":"localadmin",
+    "wof:population":9688,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-be",
     "wof:superseded_by":[],
     "wof:supersedes":[],

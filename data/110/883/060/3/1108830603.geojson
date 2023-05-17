@@ -13,6 +13,18 @@
     "begov:uidn":"584",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"BE",
+    "eurostat:gisco_id":"BE_44045",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Moerbeke (Gent) / Moerbeke (Gand)",
+    "eurostat:nuts_2021_id":"44045",
+    "eurostat:nuts_2021_level_0":"BE",
+    "eurostat:nuts_2021_level_1":"BE2",
+    "eurostat:nuts_2021_level_2":"BE23",
+    "eurostat:nuts_2021_level_3":"BE234",
+    "eurostat:nuts_2021_level_lau":"44045",
+    "eurostat:population":6569,
+    "eurostat:population_year":2020,
     "geom:area":0.004879,
     "geom:area_square_m":37821239.654117,
     "geom:bbox":"3.90178918114,51.1366796246,3.998684344,51.2254122688",
@@ -102,6 +114,8 @@
     "reversegeo:longitude":3.945812,
     "src:geom":"begov",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         85681733,
         102191581,
@@ -110,10 +124,13 @@
         102049989
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"BE_44045",
+        "eurostat:nuts_2021_id":"44045"
+    },
     "wof:country":"BE",
     "wof:created":1488241192,
-    "wof:geomhash":"1a1de6487678ca089fb9a6052b30576b",
+    "wof:geomhash":"6212deebbcb01e9fee18ec6ec9de77b0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -125,10 +142,12 @@
         }
     ],
     "wof:id":1108830603,
-    "wof:lastmodified":1566611687,
+    "wof:lastmodified":1684351683,
     "wof:name":"Moerbeke",
     "wof:parent_id":102049989,
     "wof:placetype":"localadmin",
+    "wof:population":6569,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-be",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -13,6 +13,18 @@
     "begov:uidn":"333",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"BE",
+    "eurostat:gisco_id":"BE_24048",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Keerbergen",
+    "eurostat:nuts_2021_id":"24048",
+    "eurostat:nuts_2021_level_0":"BE",
+    "eurostat:nuts_2021_level_1":"BE2",
+    "eurostat:nuts_2021_level_2":"BE24",
+    "eurostat:nuts_2021_level_3":"BE242",
+    "eurostat:nuts_2021_level_lau":"24048",
+    "eurostat:population":12966,
+    "eurostat:population_year":2020,
     "geom:area":0.002372,
     "geom:area_square_m":18452179.785075,
     "geom:bbox":"4.59850898818,50.9852406639,4.70953838578,51.0241084716",
@@ -99,6 +111,8 @@
     "reversegeo:longitude":4.655142,
     "src:geom":"begov",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         85681731,
         102191581,
@@ -107,10 +121,13 @@
         102049969
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"BE_24048",
+        "eurostat:nuts_2021_id":"24048"
+    },
     "wof:country":"BE",
     "wof:created":1488241104,
-    "wof:geomhash":"4481aa79e8199988bf926d10109ce679",
+    "wof:geomhash":"388415e36140fec072e93ff42a853bfd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -122,10 +139,12 @@
         }
     ],
     "wof:id":1108830055,
-    "wof:lastmodified":1566611669,
+    "wof:lastmodified":1684351652,
     "wof:name":"Keerbergen",
     "wof:parent_id":102049969,
     "wof:placetype":"localadmin",
+    "wof:population":12966,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-be",
     "wof:superseded_by":[],
     "wof:supersedes":[],

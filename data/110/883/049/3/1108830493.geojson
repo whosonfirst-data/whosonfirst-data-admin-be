@@ -13,6 +13,18 @@
     "begov:uidn":"535",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"BE",
+    "eurostat:gisco_id":"BE_44013",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Destelbergen",
+    "eurostat:nuts_2021_id":"44013",
+    "eurostat:nuts_2021_level_0":"BE",
+    "eurostat:nuts_2021_level_1":"BE2",
+    "eurostat:nuts_2021_level_2":"BE23",
+    "eurostat:nuts_2021_level_3":"BE234",
+    "eurostat:nuts_2021_level_lau":"44013",
+    "eurostat:population":18551,
+    "eurostat:population_year":2020,
     "geom:area":0.003423,
     "geom:area_square_m":26615024.377732,
     "geom:bbox":"3.75607708797,50.9930444379,3.84448823988,51.0824682081",
@@ -108,6 +120,8 @@
     "reversegeo:longitude":3.80936,
     "src:geom":"begov",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         85681733,
         102191581,
@@ -116,10 +130,13 @@
         102049989
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"BE_44013",
+        "eurostat:nuts_2021_id":"44013"
+    },
     "wof:country":"BE",
     "wof:created":1488241173,
-    "wof:geomhash":"3d9aa7205f342bfa7402239ba25ab120",
+    "wof:geomhash":"480f9ca08883641b724d2e0c8d212982",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -131,10 +148,12 @@
         }
     ],
     "wof:id":1108830493,
-    "wof:lastmodified":1566611536,
+    "wof:lastmodified":1684351676,
     "wof:name":"Destelbergen",
     "wof:parent_id":102049989,
     "wof:placetype":"localadmin",
+    "wof:population":18551,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-be",
     "wof:superseded_by":[],
     "wof:supersedes":[],

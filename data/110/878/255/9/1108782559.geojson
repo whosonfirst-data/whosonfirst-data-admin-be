@@ -4,8 +4,22 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:coast_type":"1",
+    "eurostat:country_code":"TR",
+    "eurostat:level_code":"3",
+    "eurostat:mount_type":"2",
+    "eurostat:name_latin":"Antalya",
+    "eurostat:name_local":"Antalya",
+    "eurostat:nuts_2021_id":"TR611",
+    "eurostat:nuts_2021_level_0":"TR",
+    "eurostat:nuts_2021_level_1":"TR6",
+    "eurostat:nuts_2021_level_2":"TR61",
+    "eurostat:nuts_2021_level_3":"TR611",
+    "eurostat:population":2548308,
+    "eurostat:population_year":2021,
+    "eurostat:urban_type":"1",
     "geom:area":0.013016,
-    "geom:area_square_m":101837739.287045,
+    "geom:area_square_m":101837739.287046,
     "geom:bbox":"2.842169,50.693272,3.329059,50.810776",
     "geom:latitude":50.745464,
     "geom:longitude":3.058206,
@@ -205,22 +219,23 @@
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"wk",
-    "src:population_date":"2018-01-01",
+    "src:population":"eurostat",
+    "src:population_date":"2021",
     "wd:wordcount":818,
     "wof:belongsto":[
         102191581,
         85632997,
-        404227353,
-        85681723
+        85681723,
+        404227353
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eurostat:nuts_2021_id":"TR611",
         "hasc:id":"BE.HT.MC",
         "wd:id":"Q220145"
     },
     "wof:country":"BE",
-    "wof:geomhash":"0699a681e9db275dafbc4f206f78ab42",
+    "wof:geomhash":"57c309c7b87032cd61107cab9074edbe",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -231,12 +246,12 @@
         }
     ],
     "wof:id":1108782559,
-    "wof:lastmodified":1612307803,
+    "wof:lastmodified":1684351494,
     "wof:name":"Mouscron",
     "wof:parent_id":85681723,
     "wof:placetype":"county",
-    "wof:population":76297,
-    "wof:population_rank":8,
+    "wof:population":2548308,
+    "wof:population_rank":12,
     "wof:repo":"whosonfirst-data-admin-be",
     "wof:superseded_by":[],
     "wof:supersedes":[

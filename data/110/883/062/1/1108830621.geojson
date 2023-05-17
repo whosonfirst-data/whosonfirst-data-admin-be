@@ -13,6 +13,18 @@
     "begov:uidn":"592",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"BE",
+    "eurostat:gisco_id":"BE_46003",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Beveren (Sint-Niklaas) / Beveren (Saint-Nicolas)",
+    "eurostat:nuts_2021_id":"46003",
+    "eurostat:nuts_2021_level_0":"BE",
+    "eurostat:nuts_2021_level_1":"BE2",
+    "eurostat:nuts_2021_level_2":"BE23",
+    "eurostat:nuts_2021_level_3":"BE236",
+    "eurostat:nuts_2021_level_lau":"46003",
+    "eurostat:population":49080,
+    "eurostat:population_year":2020,
     "geom:area":0.019704,
     "geom:area_square_m":152490457.978754,
     "geom:bbox":"4.15249546418,51.1664060525,4.32180819634,51.3529592146",
@@ -144,6 +156,8 @@
     "reversegeo:longitude":4.229714,
     "src:geom":"begov",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         85681733,
         102191581,
@@ -152,10 +166,13 @@
         102049997
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"BE_46003",
+        "eurostat:nuts_2021_id":"46003"
+    },
     "wof:country":"BE",
     "wof:created":1488241200,
-    "wof:geomhash":"53fbd20d92e5a7783f87dc922dcad2cf",
+    "wof:geomhash":"cd11f001f72ccfe28ea0d34c72e6b3bb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -167,10 +184,12 @@
         }
     ],
     "wof:id":1108830621,
-    "wof:lastmodified":1566611547,
+    "wof:lastmodified":1684351684,
     "wof:name":"Beveren",
     "wof:parent_id":102049997,
     "wof:placetype":"localadmin",
+    "wof:population":49080,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-be",
     "wof:superseded_by":[],
     "wof:supersedes":[],

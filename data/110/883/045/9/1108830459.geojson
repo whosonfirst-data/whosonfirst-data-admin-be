@@ -13,6 +13,18 @@
     "begov:uidn":"519",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"BE",
+    "eurostat:gisco_id":"BE_23033",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Hoeilaart",
+    "eurostat:nuts_2021_id":"23033",
+    "eurostat:nuts_2021_level_0":"BE",
+    "eurostat:nuts_2021_level_1":"BE2",
+    "eurostat:nuts_2021_level_2":"BE24",
+    "eurostat:nuts_2021_level_3":"BE241",
+    "eurostat:nuts_2021_level_lau":"23033",
+    "eurostat:population":11418,
+    "eurostat:population_year":2020,
     "geom:area":0.002618,
     "geom:area_square_m":20480388.062577,
     "geom:bbox":"4.40507989962,50.7351183475,4.51149801336,50.782681985",
@@ -117,6 +129,8 @@
     "reversegeo:longitude":4.447218,
     "src:geom":"begov",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         85681731,
         102191581,
@@ -125,10 +139,13 @@
         102049973
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"BE_23033",
+        "eurostat:nuts_2021_id":"23033"
+    },
     "wof:country":"BE",
     "wof:created":1488241167,
-    "wof:geomhash":"b0ae9a6066fbd0a87bda4d3b80edee47",
+    "wof:geomhash":"44ee25ab206549c2522c6831842f729c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -140,10 +157,12 @@
         }
     ],
     "wof:id":1108830459,
-    "wof:lastmodified":1566611598,
+    "wof:lastmodified":1684351675,
     "wof:name":"Hoeilaart",
     "wof:parent_id":102049973,
     "wof:placetype":"localadmin",
+    "wof:population":11418,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-be",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -13,6 +13,18 @@
     "begov:uidn":"620",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"BE",
+    "eurostat:gisco_id":"BE_38016",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Nieuwpoort / Nieuport",
+    "eurostat:nuts_2021_id":"38016",
+    "eurostat:nuts_2021_level_0":"BE",
+    "eurostat:nuts_2021_level_1":"BE2",
+    "eurostat:nuts_2021_level_2":"BE25",
+    "eurostat:nuts_2021_level_3":"BE258",
+    "eurostat:nuts_2021_level_lau":"38016",
+    "eurostat:population":11639,
+    "eurostat:population_year":2020,
     "geom:area":0.004258,
     "geom:area_square_m":33044684.611431,
     "geom:bbox":"2.69980712486,51.0867210336,2.82489558855,51.1648823395",
@@ -48,6 +60,8 @@
     "reversegeo:longitude":2.780603,
     "src:geom":"begov",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         85681709,
         102191581,
@@ -56,10 +70,13 @@
         102049991
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"BE_38016",
+        "eurostat:nuts_2021_id":"38016"
+    },
     "wof:country":"BE",
     "wof:created":1488241209,
-    "wof:geomhash":"6041f7f5e16d90e96f4ded04674f3ec9",
+    "wof:geomhash":"f2eff0b3f9c75c81bef934bf7a74bb23",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,10 +88,12 @@
         }
     ],
     "wof:id":1108830679,
-    "wof:lastmodified":1566611679,
+    "wof:lastmodified":1684351688,
     "wof:name":"Nieuwpoort",
     "wof:parent_id":102049991,
     "wof:placetype":"localadmin",
+    "wof:population":11639,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-be",
     "wof:superseded_by":[],
     "wof:supersedes":[],

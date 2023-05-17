@@ -13,6 +13,18 @@
     "begov:uidn":"336",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"BE",
+    "eurostat:gisco_id":"BE_13011",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Herentals",
+    "eurostat:nuts_2021_id":"13011",
+    "eurostat:nuts_2021_level_0":"BE",
+    "eurostat:nuts_2021_level_1":"BE2",
+    "eurostat:nuts_2021_level_2":"BE21",
+    "eurostat:nuts_2021_level_3":"BE213",
+    "eurostat:nuts_2021_level_lau":"13011",
+    "eurostat:population":28299,
+    "eurostat:population_year":2020,
     "geom:area":0.006163,
     "geom:area_square_m":47785278.889308,
     "geom:bbox":"4.77563692787,51.1029841893,4.88261537385,51.2159335112",
@@ -111,6 +123,8 @@
     "reversegeo:longitude":4.824001,
     "src:geom":"begov",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         85681715,
         102191581,
@@ -119,10 +133,13 @@
         102050007
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"BE_13011",
+        "eurostat:nuts_2021_id":"13011"
+    },
     "wof:country":"BE",
     "wof:created":1488241105,
-    "wof:geomhash":"1d8292a7fefb3f872a165b1c2eb26337",
+    "wof:geomhash":"c5a521a5491595130b17e30332aae178",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -134,10 +151,12 @@
         }
     ],
     "wof:id":1108830061,
-    "wof:lastmodified":1566611592,
+    "wof:lastmodified":1684351652,
     "wof:name":"Herentals",
     "wof:parent_id":102050007,
     "wof:placetype":"localadmin",
+    "wof:population":28299,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-be",
     "wof:superseded_by":[],
     "wof:supersedes":[],

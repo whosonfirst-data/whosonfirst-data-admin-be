@@ -13,6 +13,18 @@
     "begov:uidn":"504",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"BE",
+    "eurostat:gisco_id":"BE_44020",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Gavere",
+    "eurostat:nuts_2021_id":"44020",
+    "eurostat:nuts_2021_level_0":"BE",
+    "eurostat:nuts_2021_level_1":"BE2",
+    "eurostat:nuts_2021_level_2":"BE23",
+    "eurostat:nuts_2021_level_3":"BE234",
+    "eurostat:nuts_2021_level_lau":"44020",
+    "eurostat:population":12913,
+    "eurostat:population_year":2020,
     "geom:area":0.004039,
     "geom:area_square_m":31478317.973637,
     "geom:bbox":"3.62396421135,50.9023855717,3.75568043612,50.9564370197",
@@ -102,6 +114,8 @@
     "reversegeo:longitude":3.680026,
     "src:geom":"begov",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         85681733,
         102191581,
@@ -110,10 +124,13 @@
         102049989
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"BE_44020",
+        "eurostat:nuts_2021_id":"44020"
+    },
     "wof:country":"BE",
     "wof:created":1488241161,
-    "wof:geomhash":"61230f82e88cde1a22e202509ba11698",
+    "wof:geomhash":"87814c9b1aaf82173a0ac3574fda411e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -125,10 +142,12 @@
         }
     ],
     "wof:id":1108830425,
-    "wof:lastmodified":1566611597,
+    "wof:lastmodified":1684351673,
     "wof:name":"Gavere",
     "wof:parent_id":102049989,
     "wof:placetype":"localadmin",
+    "wof:population":12913,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-be",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -13,6 +13,18 @@
     "begov:uidn":"546",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"BE",
+    "eurostat:gisco_id":"BE_36011",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Lichtervelde",
+    "eurostat:nuts_2021_id":"36011",
+    "eurostat:nuts_2021_level_0":"BE",
+    "eurostat:nuts_2021_level_1":"BE2",
+    "eurostat:nuts_2021_level_2":"BE25",
+    "eurostat:nuts_2021_level_3":"BE256",
+    "eurostat:nuts_2021_level_lau":"36011",
+    "eurostat:population":8952,
+    "eurostat:population_year":2020,
     "geom:area":0.003351,
     "geom:area_square_m":26057720.813754,
     "geom:bbox":"3.09774042755,50.991587808,3.18362258704,51.069175984",
@@ -108,6 +120,8 @@
     "reversegeo:longitude":3.145479,
     "src:geom":"begov",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         85681709,
         102191581,
@@ -116,10 +130,13 @@
         102049977
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"BE_36011",
+        "eurostat:nuts_2021_id":"36011"
+    },
     "wof:country":"BE",
     "wof:created":1488241176,
-    "wof:geomhash":"0100b46d6e489f4a8fe7f8d94afb6dd5",
+    "wof:geomhash":"1c10fd2983f9a0c798654f9c9a683bc9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -131,10 +148,12 @@
         }
     ],
     "wof:id":1108830517,
-    "wof:lastmodified":1566611678,
+    "wof:lastmodified":1684351678,
     "wof:name":"Lichtervelde",
     "wof:parent_id":102049977,
     "wof:placetype":"localadmin",
+    "wof:population":8952,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-be",
     "wof:superseded_by":[],
     "wof:supersedes":[],

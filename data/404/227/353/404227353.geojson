@@ -4,8 +4,17 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"BE",
+    "eurostat:level_code":"1",
+    "eurostat:name_latin":"R\u00e9gion wallonne",
+    "eurostat:name_local":"R\u00e9gion wallonne",
+    "eurostat:nuts_2021_id":"BE3",
+    "eurostat:nuts_2021_level_0":"BE",
+    "eurostat:nuts_2021_level_1":"BE3",
+    "eurostat:population":3679181,
+    "eurostat:population_year":2022,
     "geom:area":2.133827,
-    "geom:area_square_m":16848559336.430019,
+    "geom:area_square_m":16848559336.429874,
     "geom:bbox":"2.842169,49.497238,6.406391,50.812252",
     "geom:latitude":50.314724,
     "geom:longitude":5.008108,
@@ -353,16 +362,19 @@
     "qs:source":"EuroGlobalMap",
     "qs:type":"R\u00e9gion#Gewest#Region",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2022",
     "wof:belongsto":[
         102191581,
         85632997
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eurostat:nuts_2021_id":"BE3",
         "wd:id":"Q231"
     },
     "wof:country":"BE",
-    "wof:geomhash":"f6b0225c7f52cf3883c58e4b5b43a980",
+    "wof:geomhash":"05efcff6da2d970d87e448d4686a0dec",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -381,10 +393,12 @@
         "fra",
         "deu"
     ],
-    "wof:lastmodified":1614892938,
+    "wof:lastmodified":1684351349,
     "wof:name":"Wallonia",
     "wof:parent_id":85632997,
     "wof:placetype":"macroregion",
+    "wof:population":3679181,
+    "wof:population_rank":12,
     "wof:repo":"whosonfirst-data-admin-be",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -13,6 +13,18 @@
     "begov:uidn":"498",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"BE",
+    "eurostat:gisco_id":"BE_44019",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Evergem",
+    "eurostat:nuts_2021_id":"44019",
+    "eurostat:nuts_2021_level_0":"BE",
+    "eurostat:nuts_2021_level_1":"BE2",
+    "eurostat:nuts_2021_level_2":"BE23",
+    "eurostat:nuts_2021_level_3":"BE234",
+    "eurostat:nuts_2021_level_lau":"44019",
+    "eurostat:population":35659,
+    "eurostat:population_year":2020,
     "geom:area":0.009678,
     "geom:area_square_m":75075733.014668,
     "geom:bbox":"3.63236810213,51.0871478116,3.79896690933,51.1987050247",
@@ -120,6 +132,8 @@
     "reversegeo:longitude":3.715073,
     "src:geom":"begov",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         85681733,
         102191581,
@@ -128,10 +142,13 @@
         102049989
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"BE_44019",
+        "eurostat:nuts_2021_id":"44019"
+    },
     "wof:country":"BE",
     "wof:created":1488241159,
-    "wof:geomhash":"8a49131402fc7b9510c3b048d92680df",
+    "wof:geomhash":"d1c2814660e7f5f60fe590e3b1315229",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -143,10 +160,12 @@
         }
     ],
     "wof:id":1108830413,
-    "wof:lastmodified":1566611519,
+    "wof:lastmodified":1684351672,
     "wof:name":"Evergem",
     "wof:parent_id":102049989,
     "wof:placetype":"localadmin",
+    "wof:population":35659,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-be",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -13,6 +13,18 @@
     "begov:uidn":"391",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"BE",
+    "eurostat:gisco_id":"BE_23098",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Drogenbos",
+    "eurostat:nuts_2021_id":"23098",
+    "eurostat:nuts_2021_level_0":"BE",
+    "eurostat:nuts_2021_level_1":"BE2",
+    "eurostat:nuts_2021_level_2":"BE24",
+    "eurostat:nuts_2021_level_3":"BE241",
+    "eurostat:nuts_2021_level_lau":"23098",
+    "eurostat:population":5673,
+    "eurostat:population_year":2020,
     "geom:area":0.00032,
     "geom:area_square_m":2498485.825694,
     "geom:bbox":"4.28862304332,50.7797074346,4.32576616578,50.8130638963",
@@ -111,6 +123,8 @@
     "reversegeo:longitude":4.31057,
     "src:geom":"begov",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         85681731,
         102191581,
@@ -119,10 +133,13 @@
         102049973
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"BE_23098",
+        "eurostat:nuts_2021_id":"23098"
+    },
     "wof:country":"BE",
     "wof:created":1488241125,
-    "wof:geomhash":"9d11fd9301525c1e971474de825e7eb6",
+    "wof:geomhash":"636747d047025a1203c0951a4db188c9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -134,10 +151,12 @@
         }
     ],
     "wof:id":1108830183,
-    "wof:lastmodified":1566611606,
+    "wof:lastmodified":1684351659,
     "wof:name":"Drogenbos",
     "wof:parent_id":102049973,
     "wof:placetype":"localadmin",
+    "wof:population":5673,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-be",
     "wof:superseded_by":[],
     "wof:supersedes":[],

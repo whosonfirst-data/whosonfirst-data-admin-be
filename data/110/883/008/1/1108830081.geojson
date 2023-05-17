@@ -13,6 +13,18 @@
     "begov:uidn":"345",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"BE",
+    "eurostat:gisco_id":"BE_73028",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Herstappe",
+    "eurostat:nuts_2021_id":"73028",
+    "eurostat:nuts_2021_level_0":"BE",
+    "eurostat:nuts_2021_level_1":"BE2",
+    "eurostat:nuts_2021_level_2":"BE22",
+    "eurostat:nuts_2021_level_3":"BE223",
+    "eurostat:nuts_2021_level_lau":"73028",
+    "eurostat:population":79,
+    "eurostat:population_year":2020,
     "geom:area":0.00017,
     "geom:area_square_m":1329629.055715,
     "geom:bbox":"5.41543222615,50.7180865816,5.43627110919,50.7354108017",
@@ -114,6 +126,8 @@
     "reversegeo:longitude":5.425282,
     "src:geom":"begov",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         85681705,
         102191581,
@@ -122,10 +136,13 @@
         1108782563
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"BE_73028",
+        "eurostat:nuts_2021_id":"73028"
+    },
     "wof:country":"BE",
     "wof:created":1488241109,
-    "wof:geomhash":"6bd02c7a2aa2ad6c6d82dde00375ddfb",
+    "wof:geomhash":"cbf41ac4222fa3899f22e8c216c03ec2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -137,10 +154,12 @@
         }
     ],
     "wof:id":1108830081,
-    "wof:lastmodified":1566611582,
+    "wof:lastmodified":1684351653,
     "wof:name":"Herstappe",
     "wof:parent_id":1108782563,
     "wof:placetype":"localadmin",
+    "wof:population":79,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-be",
     "wof:superseded_by":[],
     "wof:supersedes":[],

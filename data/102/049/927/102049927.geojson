@@ -4,6 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:coast_type":"3",
+    "eurostat:country_code":"BE",
+    "eurostat:level_code":"3",
+    "eurostat:mount_type":"4",
+    "eurostat:name_latin":"Arr. Charleroi",
+    "eurostat:name_local":"Arr. Charleroi",
+    "eurostat:nuts_2021_id":"BE32B",
+    "eurostat:nuts_2021_level_0":"BE",
+    "eurostat:nuts_2021_level_1":"BE3",
+    "eurostat:nuts_2021_level_2":"BE32",
+    "eurostat:nuts_2021_level_3":"BE32B",
+    "eurostat:population":397731,
+    "eurostat:population_year":2022,
+    "eurostat:urban_type":"1",
     "geom:area":0.070804,
     "geom:area_square_m":557381762.399953,
     "geom:bbox":"4.186348,50.314602,4.617163,50.601619",
@@ -277,8 +291,8 @@
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"wk",
-    "src:population_date":"2018-01-01",
+    "src:population":"eurostat",
+    "src:population_date":"2022",
     "statoids:area_km":"555.0",
     "statoids:as_of_date":"2003-01-01",
     "statoids:capital":"Charleroi",
@@ -292,15 +306,16 @@
     "wof:belongsto":[
         102191581,
         85632997,
-        404227353,
-        85681723
+        85681723,
+        404227353
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eurostat:nuts_2021_id":"BE32B",
         "hasc:id":"BE.HT.CR"
     },
     "wof:country":"BE",
-    "wof:geomhash":"70d7fef25de8efa0409a9c8aa7b903c0",
+    "wof:geomhash":"2dbe5ed6e8a38a9925145e19cb3551d6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -311,12 +326,12 @@
         }
     ],
     "wof:id":102049927,
-    "wof:lastmodified":1612307802,
+    "wof:lastmodified":1684351492,
     "wof:name":"Charleroi",
     "wof:parent_id":85681723,
     "wof:placetype":"county",
     "wof:placetype_local":"arrondissement",
-    "wof:population":430701,
+    "wof:population":397731,
     "wof:population_rank":10,
     "wof:repo":"whosonfirst-data-admin-be",
     "wof:shortcode":"CR",

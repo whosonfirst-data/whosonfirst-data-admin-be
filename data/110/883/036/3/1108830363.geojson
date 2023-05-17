@@ -13,6 +13,18 @@
     "begov:uidn":"476",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"BE",
+    "eurostat:gisco_id":"BE_35014",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Oudenburg",
+    "eurostat:nuts_2021_id":"35014",
+    "eurostat:nuts_2021_level_0":"BE",
+    "eurostat:nuts_2021_level_1":"BE2",
+    "eurostat:nuts_2021_level_2":"BE25",
+    "eurostat:nuts_2021_level_3":"BE255",
+    "eurostat:nuts_2021_level_lau":"35014",
+    "eurostat:population":9513,
+    "eurostat:population_year":2020,
     "geom:area":0.004579,
     "geom:area_square_m":35486545.281208,
     "geom:bbox":"2.93627239693,51.1444627475,3.05809535489,51.2244719145",
@@ -108,6 +120,8 @@
     "reversegeo:longitude":3.01318,
     "src:geom":"begov",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         85681709,
         102191581,
@@ -116,10 +130,13 @@
         102049999
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"BE_35014",
+        "eurostat:nuts_2021_id":"35014"
+    },
     "wof:country":"BE",
     "wof:created":1488241151,
-    "wof:geomhash":"8c90fceb6aebc86732a65af411f9668f",
+    "wof:geomhash":"247a326fff4cc5d28402ffc78fd0bf77",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -131,10 +148,12 @@
         }
     ],
     "wof:id":1108830363,
-    "wof:lastmodified":1566611564,
+    "wof:lastmodified":1684351669,
     "wof:name":"Oudenburg",
     "wof:parent_id":102049999,
     "wof:placetype":"localadmin",
+    "wof:population":9513,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-be",
     "wof:superseded_by":[],
     "wof:supersedes":[],

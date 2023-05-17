@@ -13,6 +13,18 @@
     "begov:uidn":"350",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"BE",
+    "eurostat:gisco_id":"BE_44040",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Melle",
+    "eurostat:nuts_2021_id":"44040",
+    "eurostat:nuts_2021_level_0":"BE",
+    "eurostat:nuts_2021_level_1":"BE2",
+    "eurostat:nuts_2021_level_2":"BE23",
+    "eurostat:nuts_2021_level_3":"BE234",
+    "eurostat:nuts_2021_level_lau":"44040",
+    "eurostat:population":11826,
+    "eurostat:population_year":2020,
     "geom:area":0.001964,
     "geom:area_square_m":15283300.198858,
     "geom:bbox":"3.76289448982,50.9713552323,3.83623291075,51.0309420025",
@@ -102,6 +114,8 @@
     "reversegeo:longitude":3.793796,
     "src:geom":"begov",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         85681733,
         102191581,
@@ -110,10 +124,13 @@
         102049989
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"BE_44040",
+        "eurostat:nuts_2021_id":"44040"
+    },
     "wof:country":"BE",
     "wof:created":1488241110,
-    "wof:geomhash":"89962fd3a28de0ce751d219ea4671e89",
+    "wof:geomhash":"6f97eec9ebbde40ebafff72b566ec549",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -125,10 +142,12 @@
         }
     ],
     "wof:id":1108830093,
-    "wof:lastmodified":1566611562,
+    "wof:lastmodified":1684351653,
     "wof:name":"Melle",
     "wof:parent_id":102049989,
     "wof:placetype":"localadmin",
+    "wof:population":11826,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-be",
     "wof:superseded_by":[],
     "wof:supersedes":[],

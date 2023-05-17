@@ -13,6 +13,18 @@
     "begov:uidn":"578",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"BE",
+    "eurostat:gisco_id":"BE_23096",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Zemst",
+    "eurostat:nuts_2021_id":"23096",
+    "eurostat:nuts_2021_level_0":"BE",
+    "eurostat:nuts_2021_level_1":"BE2",
+    "eurostat:nuts_2021_level_2":"BE24",
+    "eurostat:nuts_2021_level_3":"BE241",
+    "eurostat:nuts_2021_level_lau":"23096",
+    "eurostat:population":23273,
+    "eurostat:population_year":2020,
     "geom:area":0.005526,
     "geom:area_square_m":43024381.940967,
     "geom:bbox":"4.3694401195,50.9465254991,4.52871130117,51.0093214016",
@@ -96,6 +108,8 @@
     "reversegeo:longitude":4.446159,
     "src:geom":"begov",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         85681731,
         102191581,
@@ -104,10 +118,13 @@
         102049973
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"BE_23096",
+        "eurostat:nuts_2021_id":"23096"
+    },
     "wof:country":"BE",
     "wof:created":1488241190,
-    "wof:geomhash":"98e7f540299241c80cc40a7a2ac90dc4",
+    "wof:geomhash":"10bf381d3fb275822cc68169a3ffbcb5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -119,10 +136,12 @@
         }
     ],
     "wof:id":1108830589,
-    "wof:lastmodified":1566611683,
+    "wof:lastmodified":1684351682,
     "wof:name":"Zemst",
     "wof:parent_id":102049973,
     "wof:placetype":"localadmin",
+    "wof:population":23273,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-be",
     "wof:superseded_by":[],
     "wof:supersedes":[],

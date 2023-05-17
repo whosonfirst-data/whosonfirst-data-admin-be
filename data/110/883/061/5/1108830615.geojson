@@ -13,8 +13,20 @@
     "begov:uidn":"589",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"BE",
+    "eurostat:gisco_id":"BE_11025",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Lint",
+    "eurostat:nuts_2021_id":"11025",
+    "eurostat:nuts_2021_level_0":"BE",
+    "eurostat:nuts_2021_level_1":"BE2",
+    "eurostat:nuts_2021_level_2":"BE21",
+    "eurostat:nuts_2021_level_3":"BE211",
+    "eurostat:nuts_2021_level_lau":"11025",
+    "eurostat:population":8827,
+    "eurostat:population_year":2020,
     "geom:area":0.000723,
-    "geom:area_square_m":5607763.938907,
+    "geom:area_square_m":5607763.938906,
     "geom:bbox":"4.472404,51.115639,4.527288,51.14237",
     "geom:latitude":51.12767,
     "geom:longitude":4.497903,
@@ -51,6 +63,8 @@
     "reversegeo:longitude":4.491443,
     "src:geom":"begov",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         85681715,
         102191581,
@@ -59,13 +73,16 @@
         102050005
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"BE_11025",
+        "eurostat:nuts_2021_id":"11025"
+    },
     "wof:coterminous":[
         101754407
     ],
     "wof:country":"BE",
     "wof:created":1488241194,
-    "wof:geomhash":"d2520bd01fdd231c63b9b3a7d790c092",
+    "wof:geomhash":"09d39814ec45461c4a677bfd0fcce083",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -77,10 +94,12 @@
         }
     ],
     "wof:id":1108830615,
-    "wof:lastmodified":1617130590,
+    "wof:lastmodified":1684351684,
     "wof:name":"Lint",
     "wof:parent_id":102050005,
     "wof:placetype":"localadmin",
+    "wof:population":8827,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-be",
     "wof:superseded_by":[],
     "wof:supersedes":[],

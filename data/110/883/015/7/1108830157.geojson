@@ -13,6 +13,18 @@
     "begov:uidn":"380",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"BE",
+    "eurostat:gisco_id":"BE_31012",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Jabbeke",
+    "eurostat:nuts_2021_id":"31012",
+    "eurostat:nuts_2021_level_0":"BE",
+    "eurostat:nuts_2021_level_1":"BE2",
+    "eurostat:nuts_2021_level_2":"BE25",
+    "eurostat:nuts_2021_level_3":"BE251",
+    "eurostat:nuts_2021_level_lau":"31012",
+    "eurostat:population":13874,
+    "eurostat:population_year":2020,
     "geom:area":0.006925,
     "geom:area_square_m":53671908.167484,
     "geom:bbox":"3.03986467211,51.1442023615,3.16253229295,51.238227362",
@@ -120,6 +132,8 @@
     "reversegeo:longitude":3.095211,
     "src:geom":"begov",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         85681709,
         102191581,
@@ -128,10 +142,13 @@
         102050003
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"BE_31012",
+        "eurostat:nuts_2021_id":"31012"
+    },
     "wof:country":"BE",
     "wof:created":1488241121,
-    "wof:geomhash":"22a4ced2d01dd94a7d56b60d6b702a75",
+    "wof:geomhash":"9b73b535b15971de05c91a632100f828",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -143,10 +160,12 @@
         }
     ],
     "wof:id":1108830157,
-    "wof:lastmodified":1566611512,
+    "wof:lastmodified":1684351657,
     "wof:name":"Jabbeke",
     "wof:parent_id":102050003,
     "wof:placetype":"localadmin",
+    "wof:population":13874,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-be",
     "wof:superseded_by":[],
     "wof:supersedes":[],

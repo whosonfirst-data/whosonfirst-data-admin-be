@@ -13,6 +13,18 @@
     "begov:uidn":"433",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"BE",
+    "eurostat:gisco_id":"BE_36007",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Ingelmunster",
+    "eurostat:nuts_2021_id":"36007",
+    "eurostat:nuts_2021_level_0":"BE",
+    "eurostat:nuts_2021_level_1":"BE2",
+    "eurostat:nuts_2021_level_2":"BE25",
+    "eurostat:nuts_2021_level_3":"BE256",
+    "eurostat:nuts_2021_level_lau":"36007",
+    "eurostat:population":11170,
+    "eurostat:population_year":2020,
     "geom:area":0.002101,
     "geom:area_square_m":16373525.570418,
     "geom:bbox":"3.22990725674,50.8963310856,3.29751423528,50.9473515041",
@@ -108,6 +120,8 @@
     "reversegeo:longitude":3.263423,
     "src:geom":"begov",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         85681709,
         102191581,
@@ -116,10 +130,13 @@
         102049977
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"BE_36007",
+        "eurostat:nuts_2021_id":"36007"
+    },
     "wof:country":"BE",
     "wof:created":1488241138,
-    "wof:geomhash":"53bdc76451b6b3e7cab0142786e2ab64",
+    "wof:geomhash":"2e0da87f095e09e078c32821578b10c4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -131,10 +148,12 @@
         }
     ],
     "wof:id":1108830273,
-    "wof:lastmodified":1566611604,
+    "wof:lastmodified":1684351663,
     "wof:name":"Ingelmunster",
     "wof:parent_id":102049977,
     "wof:placetype":"localadmin",
+    "wof:population":11170,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-be",
     "wof:superseded_by":[],
     "wof:supersedes":[],

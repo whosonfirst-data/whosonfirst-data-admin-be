@@ -13,6 +13,18 @@
     "begov:uidn":"600",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"BE",
+    "eurostat:gisco_id":"BE_11030",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Niel",
+    "eurostat:nuts_2021_id":"11030",
+    "eurostat:nuts_2021_level_0":"BE",
+    "eurostat:nuts_2021_level_1":"BE2",
+    "eurostat:nuts_2021_level_2":"BE21",
+    "eurostat:nuts_2021_level_3":"BE211",
+    "eurostat:nuts_2021_level_lau":"11030",
+    "eurostat:population":10557,
+    "eurostat:population_year":2020,
     "geom:area":0.000673,
     "geom:area_square_m":5222280.98251,
     "geom:bbox":"4.30804994908,51.0956741739,4.36318964755,51.1160807304",
@@ -57,6 +69,8 @@
     "reversegeo:longitude":4.336112,
     "src:geom":"begov",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         85681715,
         102191581,
@@ -65,10 +79,13 @@
         102050005
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"BE_11030",
+        "eurostat:nuts_2021_id":"11030"
+    },
     "wof:country":"BE",
     "wof:created":1488241203,
-    "wof:geomhash":"c4fa66ac19dd54e040a5cdbf32a9713d",
+    "wof:geomhash":"059513379f9505596ec756ac2be8d152",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -80,10 +97,12 @@
         }
     ],
     "wof:id":1108830637,
-    "wof:lastmodified":1566611574,
+    "wof:lastmodified":1684351685,
     "wof:name":"Niel",
     "wof:parent_id":102050005,
     "wof:placetype":"localadmin",
+    "wof:population":10557,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-be",
     "wof:superseded_by":[],
     "wof:supersedes":[],

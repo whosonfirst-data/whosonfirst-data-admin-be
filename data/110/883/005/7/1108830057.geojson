@@ -13,6 +13,18 @@
     "begov:uidn":"334",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"BE",
+    "eurostat:gisco_id":"BE_35006",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Ichtegem",
+    "eurostat:nuts_2021_id":"35006",
+    "eurostat:nuts_2021_level_0":"BE",
+    "eurostat:nuts_2021_level_1":"BE2",
+    "eurostat:nuts_2021_level_2":"BE25",
+    "eurostat:nuts_2021_level_3":"BE255",
+    "eurostat:nuts_2021_level_lau":"35006",
+    "eurostat:population":14044,
+    "eurostat:population_year":2020,
     "geom:area":0.005877,
     "geom:area_square_m":45624679.151529,
     "geom:bbox":"2.9817783365,51.0548718332,3.07856827267,51.164752329",
@@ -111,6 +123,8 @@
     "reversegeo:longitude":3.030091,
     "src:geom":"begov",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         85681709,
         102191581,
@@ -119,10 +133,13 @@
         102049999
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"BE_35006",
+        "eurostat:nuts_2021_id":"35006"
+    },
     "wof:country":"BE",
     "wof:created":1488241105,
-    "wof:geomhash":"587b7c253cdfea7fb973413067efcdc0",
+    "wof:geomhash":"a799306822253fdc159cb11afa6efdba",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -134,10 +151,12 @@
         }
     ],
     "wof:id":1108830057,
-    "wof:lastmodified":1566611669,
+    "wof:lastmodified":1684351652,
     "wof:name":"Ichtegem",
     "wof:parent_id":102049999,
     "wof:placetype":"localadmin",
+    "wof:population":14044,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-be",
     "wof:superseded_by":[],
     "wof:supersedes":[],

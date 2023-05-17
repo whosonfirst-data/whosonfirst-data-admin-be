@@ -13,6 +13,18 @@
     "begov:uidn":"507",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"BE",
+    "eurostat:gisco_id":"BE_11056",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Zwijndrecht",
+    "eurostat:nuts_2021_id":"11056",
+    "eurostat:nuts_2021_level_0":"BE",
+    "eurostat:nuts_2021_level_1":"BE2",
+    "eurostat:nuts_2021_level_2":"BE21",
+    "eurostat:nuts_2021_level_3":"BE211",
+    "eurostat:nuts_2021_level_lau":"11056",
+    "eurostat:population":19183,
+    "eurostat:population_year":2020,
     "geom:area":0.002583,
     "geom:area_square_m":20001274.214947,
     "geom:bbox":"4.29007464371,51.1856132291,4.35725254618,51.2614729084",
@@ -84,6 +96,8 @@
     "reversegeo:longitude":4.320505,
     "src:geom":"begov",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         85681715,
         102191581,
@@ -92,10 +106,13 @@
         102050005
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"BE_11056",
+        "eurostat:nuts_2021_id":"11056"
+    },
     "wof:country":"BE",
     "wof:created":1488241162,
-    "wof:geomhash":"4ef2e5183a03b6cec2ed2afb424bd1a2",
+    "wof:geomhash":"5da543d6d2dcdeaedd1967348a6ffae6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -107,10 +124,12 @@
         }
     ],
     "wof:id":1108830433,
-    "wof:lastmodified":1566611621,
+    "wof:lastmodified":1684351673,
     "wof:name":"Zwijndrecht",
     "wof:parent_id":102050005,
     "wof:placetype":"localadmin",
+    "wof:population":19183,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-be",
     "wof:superseded_by":[],
     "wof:supersedes":[],

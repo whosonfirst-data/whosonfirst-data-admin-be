@@ -13,6 +13,18 @@
     "begov:uidn":"332",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"BE",
+    "eurostat:gisco_id":"BE_23045",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Londerzeel",
+    "eurostat:nuts_2021_id":"23045",
+    "eurostat:nuts_2021_level_0":"BE",
+    "eurostat:nuts_2021_level_1":"BE2",
+    "eurostat:nuts_2021_level_2":"BE24",
+    "eurostat:nuts_2021_level_3":"BE241",
+    "eurostat:nuts_2021_level_lau":"23045",
+    "eurostat:population":18865,
+    "eurostat:population_year":2020,
     "geom:area":0.004679,
     "geom:area_square_m":36401958.202081,
     "geom:bbox":"4.22118170664,50.9738961733,4.33350119467,51.0432117928",
@@ -111,6 +123,8 @@
     "reversegeo:longitude":4.276406,
     "src:geom":"begov",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         85681731,
         102191581,
@@ -119,10 +133,13 @@
         102049973
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"BE_23045",
+        "eurostat:nuts_2021_id":"23045"
+    },
     "wof:country":"BE",
     "wof:created":1488241104,
-    "wof:geomhash":"bcbafc06d2b8678880cf6a9ca239d08b",
+    "wof:geomhash":"340abe5ae36c5b358253180a1a2281bb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -134,10 +151,12 @@
         }
     ],
     "wof:id":1108830053,
-    "wof:lastmodified":1566611669,
+    "wof:lastmodified":1684351651,
     "wof:name":"Londerzeel",
     "wof:parent_id":102049973,
     "wof:placetype":"localadmin",
+    "wof:population":18865,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-be",
     "wof:superseded_by":[],
     "wof:supersedes":[],

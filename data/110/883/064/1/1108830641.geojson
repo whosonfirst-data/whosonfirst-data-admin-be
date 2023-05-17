@@ -13,6 +13,18 @@
     "begov:uidn":"602",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"BE",
+    "eurostat:gisco_id":"BE_71057",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Tessenderlo",
+    "eurostat:nuts_2021_id":"71057",
+    "eurostat:nuts_2021_level_0":"BE",
+    "eurostat:nuts_2021_level_1":"BE2",
+    "eurostat:nuts_2021_level_2":"BE22",
+    "eurostat:nuts_2021_level_3":"BE224",
+    "eurostat:nuts_2021_level_lau":"71057",
+    "eurostat:population":18738,
+    "eurostat:population_year":2020,
     "geom:area":0.006617,
     "geom:area_square_m":51432766.924531,
     "geom:bbox":"4.98008035175,51.0154517989,5.1838936276,51.0854664972",
@@ -111,6 +123,8 @@
     "reversegeo:longitude":5.052562,
     "src:geom":"begov",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         85681705,
         102191581,
@@ -119,10 +133,13 @@
         102049975
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"BE_71057",
+        "eurostat:nuts_2021_id":"71057"
+    },
     "wof:country":"BE",
     "wof:created":1488241203,
-    "wof:geomhash":"47842cd60bdd8a871bbd9d5f29efb040",
+    "wof:geomhash":"5e01e7b4d8d8c8b111be9d03876ea1b2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -134,10 +151,12 @@
         }
     ],
     "wof:id":1108830641,
-    "wof:lastmodified":1566611579,
+    "wof:lastmodified":1684351685,
     "wof:name":"Tessenderlo",
     "wof:parent_id":102049975,
     "wof:placetype":"localadmin",
+    "wof:population":18738,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-be",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -13,6 +13,18 @@
     "begov:uidn":"625",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"BE",
+    "eurostat:gisco_id":"BE_13040",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Turnhout",
+    "eurostat:nuts_2021_id":"13040",
+    "eurostat:nuts_2021_level_0":"BE",
+    "eurostat:nuts_2021_level_1":"BE2",
+    "eurostat:nuts_2021_level_2":"BE21",
+    "eurostat:nuts_2021_level_3":"BE213",
+    "eurostat:nuts_2021_level_lau":"13040",
+    "eurostat:population":45400,
+    "eurostat:population_year":2020,
     "geom:area":0.007309,
     "geom:area_square_m":56474302.029455,
     "geom:bbox":"4.88874611368,51.2624178595,4.98493478068,51.3954449493",
@@ -153,6 +165,8 @@
     "reversegeo:longitude":4.93691,
     "src:geom":"begov",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         85681715,
         102191581,
@@ -161,10 +175,13 @@
         102050007
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"BE_13040",
+        "eurostat:nuts_2021_id":"13040"
+    },
     "wof:country":"BE",
     "wof:created":1488241211,
-    "wof:geomhash":"10eac9cd1b7a9e7a8e6289aed9d5e505",
+    "wof:geomhash":"4554bc92f576e44bb48fa43b9fd164d2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -176,10 +193,12 @@
         }
     ],
     "wof:id":1108830691,
-    "wof:lastmodified":1566611677,
+    "wof:lastmodified":1684351688,
     "wof:name":"Turnhout",
     "wof:parent_id":102050007,
     "wof:placetype":"localadmin",
+    "wof:population":45400,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-be",
     "wof:superseded_by":[],
     "wof:supersedes":[],
