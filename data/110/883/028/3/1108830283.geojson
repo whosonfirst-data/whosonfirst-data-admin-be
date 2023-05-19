@@ -13,6 +13,18 @@
     "begov:uidn":"439",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"BE",
+    "eurostat:gisco_id":"BE_46024",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Stekene",
+    "eurostat:nuts_2021_id":"46024",
+    "eurostat:nuts_2021_level_0":"BE",
+    "eurostat:nuts_2021_level_1":"BE2",
+    "eurostat:nuts_2021_level_2":"BE23",
+    "eurostat:nuts_2021_level_3":"BE236",
+    "eurostat:nuts_2021_level_lau":"46024",
+    "eurostat:population":18701,
+    "eurostat:population_year":2020,
     "geom:area":0.005825,
     "geom:area_square_m":45122893.508419,
     "geom:bbox":"3.97104098031,51.1687999369,4.093511635,51.2499385295",
@@ -111,6 +123,8 @@
     "reversegeo:longitude":4.024575,
     "src:geom":"begov",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         85681733,
         102191581,
@@ -119,10 +133,13 @@
         102049997
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"BE_46024",
+        "eurostat:nuts_2021_id":"46024"
+    },
     "wof:country":"BE",
     "wof:created":1488241139,
-    "wof:geomhash":"124706e65ae8d56fbcd40507d7a4c89b",
+    "wof:geomhash":"04dc487924278c5f660521468f1c899b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -134,10 +151,12 @@
         }
     ],
     "wof:id":1108830283,
-    "wof:lastmodified":1566611625,
+    "wof:lastmodified":1684351664,
     "wof:name":"Stekene",
     "wof:parent_id":102049997,
     "wof:placetype":"localadmin",
+    "wof:population":18701,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-be",
     "wof:superseded_by":[],
     "wof:supersedes":[],

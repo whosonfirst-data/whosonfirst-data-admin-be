@@ -13,6 +13,18 @@
     "begov:uidn":"453",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"BE",
+    "eurostat:gisco_id":"BE_23038",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Kampenhout",
+    "eurostat:nuts_2021_id":"23038",
+    "eurostat:nuts_2021_level_0":"BE",
+    "eurostat:nuts_2021_level_1":"BE2",
+    "eurostat:nuts_2021_level_2":"BE24",
+    "eurostat:nuts_2021_level_3":"BE241",
+    "eurostat:nuts_2021_level_lau":"23038",
+    "eurostat:population":12131,
+    "eurostat:population_year":2020,
     "geom:area":0.004303,
     "geom:area_square_m":33530308.510277,
     "geom:bbox":"4.51300848922,50.9093069306,4.61888350897,50.9706031009",
@@ -108,6 +120,8 @@
     "reversegeo:longitude":4.549102,
     "src:geom":"begov",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         85681731,
         102191581,
@@ -116,10 +130,13 @@
         102049973
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"BE_23038",
+        "eurostat:nuts_2021_id":"23038"
+    },
     "wof:country":"BE",
     "wof:created":1488241144,
-    "wof:geomhash":"8d6aca6bab0e64ecae3e8a8ea2699aed",
+    "wof:geomhash":"969d5b4db54395101189a38b06c7f590",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -131,10 +148,12 @@
         }
     ],
     "wof:id":1108830313,
-    "wof:lastmodified":1566611566,
+    "wof:lastmodified":1684351666,
     "wof:name":"Kampenhout",
     "wof:parent_id":102049973,
     "wof:placetype":"localadmin",
+    "wof:population":12131,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-be",
     "wof:superseded_by":[],
     "wof:supersedes":[],

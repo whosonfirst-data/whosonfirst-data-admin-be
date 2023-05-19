@@ -13,6 +13,18 @@
     "begov:uidn":"352",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"BE",
+    "eurostat:gisco_id":"BE_12021",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Lier / Lierre",
+    "eurostat:nuts_2021_id":"12021",
+    "eurostat:nuts_2021_level_0":"BE",
+    "eurostat:nuts_2021_level_1":"BE2",
+    "eurostat:nuts_2021_level_2":"BE21",
+    "eurostat:nuts_2021_level_3":"BE212",
+    "eurostat:nuts_2021_level_lau":"12021",
+    "eurostat:population":36711,
+    "eurostat:population_year":2020,
     "geom:area":0.0064,
     "geom:area_square_m":49678651.413891,
     "geom:bbox":"4.50584341765,51.0727289324,4.6428779568,51.1657434966",
@@ -81,6 +93,8 @@
     "reversegeo:longitude":4.580628,
     "src:geom":"begov",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         85681715,
         102191581,
@@ -89,10 +103,13 @@
         102049985
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"BE_12021",
+        "eurostat:nuts_2021_id":"12021"
+    },
     "wof:country":"BE",
     "wof:created":1488241111,
-    "wof:geomhash":"2974fedccdcecd5ffc994003aa07a266",
+    "wof:geomhash":"c3afcc8e13427532469b70da01358071",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -104,10 +121,12 @@
         }
     ],
     "wof:id":1108830097,
-    "wof:lastmodified":1566611561,
+    "wof:lastmodified":1684351654,
     "wof:name":"Lier",
     "wof:parent_id":102049985,
     "wof:placetype":"localadmin",
+    "wof:population":36711,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-be",
     "wof:superseded_by":[],
     "wof:supersedes":[],

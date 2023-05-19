@@ -13,6 +13,18 @@
     "begov:uidn":"443",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"BE",
+    "eurostat:gisco_id":"BE_11005",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Boom",
+    "eurostat:nuts_2021_id":"11005",
+    "eurostat:nuts_2021_level_0":"BE",
+    "eurostat:nuts_2021_level_1":"BE2",
+    "eurostat:nuts_2021_level_2":"BE21",
+    "eurostat:nuts_2021_level_3":"BE211",
+    "eurostat:nuts_2021_level_lau":"11005",
+    "eurostat:population":18593,
+    "eurostat:population_year":2020,
     "geom:area":0.000924,
     "geom:area_square_m":7173904.239025,
     "geom:bbox":"4.34066127197,51.0806529311,4.40623194052,51.1062104004",
@@ -87,6 +99,8 @@
     "reversegeo:longitude":4.373283,
     "src:geom":"begov",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         85681715,
         102191581,
@@ -95,10 +109,13 @@
         102050005
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"BE_11005",
+        "eurostat:nuts_2021_id":"11005"
+    },
     "wof:country":"BE",
     "wof:created":1488241140,
-    "wof:geomhash":"d534af006e9ef41c3ad39ba75fd78f16",
+    "wof:geomhash":"e8cddfdaf68c8adc7012c6937851270b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -110,10 +127,12 @@
         }
     ],
     "wof:id":1108830293,
-    "wof:lastmodified":1566611614,
+    "wof:lastmodified":1684351664,
     "wof:name":"Boom",
     "wof:parent_id":102050005,
     "wof:placetype":"localadmin",
+    "wof:population":18593,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-be",
     "wof:superseded_by":[],
     "wof:supersedes":[],

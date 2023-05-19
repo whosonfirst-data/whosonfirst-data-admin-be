@@ -13,6 +13,18 @@
     "begov:uidn":"609",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"BE",
+    "eurostat:gisco_id":"BE_24014",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Boortmeerbeek",
+    "eurostat:nuts_2021_id":"24014",
+    "eurostat:nuts_2021_level_0":"BE",
+    "eurostat:nuts_2021_level_1":"BE2",
+    "eurostat:nuts_2021_level_2":"BE24",
+    "eurostat:nuts_2021_level_3":"BE242",
+    "eurostat:nuts_2021_level_lau":"24014",
+    "eurostat:population":12635,
+    "eurostat:population_year":2020,
     "geom:area":0.002402,
     "geom:area_square_m":18698650.657689,
     "geom:bbox":"4.51242500473,50.9582186126,4.61288866074,51.0033499988",
@@ -99,6 +111,8 @@
     "reversegeo:longitude":4.551715,
     "src:geom":"begov",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         85681731,
         102191581,
@@ -107,10 +121,13 @@
         102049969
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"BE_24014",
+        "eurostat:nuts_2021_id":"24014"
+    },
     "wof:country":"BE",
     "wof:created":1488241206,
-    "wof:geomhash":"1bb52136cf7ff70e9db43d8955a05cd1",
+    "wof:geomhash":"48a26a314932c9aed7be85bcd76cbdbd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -122,10 +139,12 @@
         }
     ],
     "wof:id":1108830657,
-    "wof:lastmodified":1566611544,
+    "wof:lastmodified":1684351687,
     "wof:name":"Boortmeerbeek",
     "wof:parent_id":102049969,
     "wof:placetype":"localadmin",
+    "wof:population":12635,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-be",
     "wof:superseded_by":[],
     "wof:supersedes":[],

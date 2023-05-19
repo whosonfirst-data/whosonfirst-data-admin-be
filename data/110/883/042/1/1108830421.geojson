@@ -13,6 +13,18 @@
     "begov:uidn":"502",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"BE",
+    "eurostat:gisco_id":"BE_23002",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Asse",
+    "eurostat:nuts_2021_id":"23002",
+    "eurostat:nuts_2021_level_0":"BE",
+    "eurostat:nuts_2021_level_1":"BE2",
+    "eurostat:nuts_2021_level_2":"BE24",
+    "eurostat:nuts_2021_level_3":"BE241",
+    "eurostat:nuts_2021_level_lau":"23002",
+    "eurostat:population":33529,
+    "eurostat:population_year":2020,
     "geom:area":0.006418,
     "geom:area_square_m":50045780.615455,
     "geom:bbox":"4.13899743201,50.8734414061,4.30098652184,50.9444671027",
@@ -108,6 +120,8 @@
     "reversegeo:longitude":4.207365,
     "src:geom":"begov",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         85681731,
         102191581,
@@ -116,10 +130,13 @@
         102049973
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"BE_23002",
+        "eurostat:nuts_2021_id":"23002"
+    },
     "wof:country":"BE",
     "wof:created":1488241160,
-    "wof:geomhash":"714927ee582df54b042787fc85dd104c",
+    "wof:geomhash":"50a2d6b943440243ca125cbdfe5a3075",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -131,10 +148,12 @@
         }
     ],
     "wof:id":1108830421,
-    "wof:lastmodified":1566611595,
+    "wof:lastmodified":1684351672,
     "wof:name":"Asse",
     "wof:parent_id":102049973,
     "wof:placetype":"localadmin",
+    "wof:population":33529,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-be",
     "wof:superseded_by":[],
     "wof:supersedes":[],

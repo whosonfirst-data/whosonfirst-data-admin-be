@@ -13,6 +13,18 @@
     "begov:uidn":"463",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"BE",
+    "eurostat:gisco_id":"BE_32006",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Houthulst",
+    "eurostat:nuts_2021_id":"32006",
+    "eurostat:nuts_2021_level_0":"BE",
+    "eurostat:nuts_2021_level_1":"BE2",
+    "eurostat:nuts_2021_level_2":"BE25",
+    "eurostat:nuts_2021_level_3":"BE252",
+    "eurostat:nuts_2021_level_lau":"32006",
+    "eurostat:population":10117,
+    "eurostat:population_year":2020,
     "geom:area":0.00717,
     "geom:area_square_m":55833023.175531,
     "geom:bbox":"2.80565302025,50.9312113506,2.97370545336,51.0083748862",
@@ -111,6 +123,8 @@
     "reversegeo:longitude":2.902097,
     "src:geom":"begov",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         85681709,
         102191581,
@@ -119,10 +133,13 @@
         102049987
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"BE_32006",
+        "eurostat:nuts_2021_id":"32006"
+    },
     "wof:country":"BE",
     "wof:created":1488241147,
-    "wof:geomhash":"00131fd84dbede328f416a0c0a6e70b5",
+    "wof:geomhash":"9d6876da62ea2a7ba39cbf02000620b9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -134,10 +151,12 @@
         }
     ],
     "wof:id":1108830335,
-    "wof:lastmodified":1566611668,
+    "wof:lastmodified":1684351667,
     "wof:name":"Houthulst",
     "wof:parent_id":102049987,
     "wof:placetype":"localadmin",
+    "wof:population":10117,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-be",
     "wof:superseded_by":[],
     "wof:supersedes":[],

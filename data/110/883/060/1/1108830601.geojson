@@ -13,6 +13,18 @@
     "begov:uidn":"583",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"BE",
+    "eurostat:gisco_id":"BE_44048",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Nazareth",
+    "eurostat:nuts_2021_id":"44048",
+    "eurostat:nuts_2021_level_0":"BE",
+    "eurostat:nuts_2021_level_1":"BE2",
+    "eurostat:nuts_2021_level_2":"BE23",
+    "eurostat:nuts_2021_level_3":"BE234",
+    "eurostat:nuts_2021_level_lau":"44048",
+    "eurostat:population":11709,
+    "eurostat:population_year":2020,
     "geom:area":0.004533,
     "geom:area_square_m":35308211.159606,
     "geom:bbox":"3.53856354977,50.9285489245,3.67852576527,50.9882705467",
@@ -333,6 +345,8 @@
     "reversegeo:longitude":3.616816,
     "src:geom":"begov",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         85681733,
         102191581,
@@ -341,10 +355,13 @@
         102049989
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"BE_44048",
+        "eurostat:nuts_2021_id":"44048"
+    },
     "wof:country":"BE",
     "wof:created":1488241192,
-    "wof:geomhash":"f335d8bae2766b1cb11c1b99777e5076",
+    "wof:geomhash":"0cc8ff743cbc3715073d91c5debb45dc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -356,10 +373,12 @@
         }
     ],
     "wof:id":1108830601,
-    "wof:lastmodified":1566611686,
+    "wof:lastmodified":1684351683,
     "wof:name":"Nazareth",
     "wof:parent_id":102049989,
     "wof:placetype":"localadmin",
+    "wof:population":11709,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-be",
     "wof:superseded_by":[],
     "wof:supersedes":[],

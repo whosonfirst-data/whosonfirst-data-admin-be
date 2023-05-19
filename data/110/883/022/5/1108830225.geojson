@@ -13,6 +13,18 @@
     "begov:uidn":"410",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"BE",
+    "eurostat:gisco_id":"BE_13036",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Retie",
+    "eurostat:nuts_2021_id":"13036",
+    "eurostat:nuts_2021_level_0":"BE",
+    "eurostat:nuts_2021_level_1":"BE2",
+    "eurostat:nuts_2021_level_2":"BE21",
+    "eurostat:nuts_2021_level_3":"BE213",
+    "eurostat:nuts_2021_level_lau":"13036",
+    "eurostat:population":11519,
+    "eurostat:population_year":2020,
     "geom:area":0.006265,
     "geom:area_square_m":48470214.448474,
     "geom:bbox":"5.01628160521,51.2181882141,5.15906954696,51.297739312",
@@ -99,6 +111,8 @@
     "reversegeo:longitude":5.075738,
     "src:geom":"begov",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         85681715,
         102191581,
@@ -107,10 +121,13 @@
         102050007
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"BE_13036",
+        "eurostat:nuts_2021_id":"13036"
+    },
     "wof:country":"BE",
     "wof:created":1488241131,
-    "wof:geomhash":"4497e1e7933c25590215b2111277cad2",
+    "wof:geomhash":"a7a57846dfba1216ca25affb7664fce3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -122,10 +139,12 @@
         }
     ],
     "wof:id":1108830225,
-    "wof:lastmodified":1566611531,
+    "wof:lastmodified":1684351661,
     "wof:name":"Retie",
     "wof:parent_id":102050007,
     "wof:placetype":"localadmin",
+    "wof:population":11519,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-be",
     "wof:superseded_by":[],
     "wof:supersedes":[],

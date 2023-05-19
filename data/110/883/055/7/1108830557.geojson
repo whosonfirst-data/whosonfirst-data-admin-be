@@ -13,6 +13,18 @@
     "begov:uidn":"563",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"BE",
+    "eurostat:gisco_id":"BE_34009",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Deerlijk",
+    "eurostat:nuts_2021_id":"34009",
+    "eurostat:nuts_2021_level_0":"BE",
+    "eurostat:nuts_2021_level_1":"BE2",
+    "eurostat:nuts_2021_level_2":"BE25",
+    "eurostat:nuts_2021_level_3":"BE254",
+    "eurostat:nuts_2021_level_lau":"34009",
+    "eurostat:population":12086,
+    "eurostat:population_year":2020,
     "geom:area":0.002165,
     "geom:area_square_m":16907550.303801,
     "geom:bbox":"3.32486246109,50.8113624277,3.39381764205,50.8673393479",
@@ -111,6 +123,8 @@
     "reversegeo:longitude":3.365642,
     "src:geom":"begov",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         85681709,
         102191581,
@@ -119,10 +133,13 @@
         102049961
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"BE_34009",
+        "eurostat:nuts_2021_id":"34009"
+    },
     "wof:country":"BE",
     "wof:created":1488241183,
-    "wof:geomhash":"5eb986d37b496a7d5f4fd9701543f856",
+    "wof:geomhash":"67b91cba7911654f9ce607f94cec2bd6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -134,10 +151,12 @@
         }
     ],
     "wof:id":1108830557,
-    "wof:lastmodified":1566611571,
+    "wof:lastmodified":1684351680,
     "wof:name":"Deerlijk",
     "wof:parent_id":102049961,
     "wof:placetype":"localadmin",
+    "wof:population":12086,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-be",
     "wof:superseded_by":[],
     "wof:supersedes":[],

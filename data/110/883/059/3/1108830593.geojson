@@ -13,6 +13,18 @@
     "begov:uidn":"579",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"BE",
+    "eurostat:gisco_id":"BE_41024",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Haaltert",
+    "eurostat:nuts_2021_id":"41024",
+    "eurostat:nuts_2021_level_0":"BE",
+    "eurostat:nuts_2021_level_1":"BE2",
+    "eurostat:nuts_2021_level_2":"BE23",
+    "eurostat:nuts_2021_level_3":"BE231",
+    "eurostat:nuts_2021_level_lau":"41024",
+    "eurostat:population":18596,
+    "eurostat:population_year":2020,
     "geom:area":0.003899,
     "geom:area_square_m":30413961.197947,
     "geom:bbox":"3.93696485122,50.8585425077,4.0414990099,50.9163628395",
@@ -105,6 +117,8 @@
     "reversegeo:longitude":3.999603,
     "src:geom":"begov",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         85681733,
         102191581,
@@ -113,10 +127,13 @@
         102049967
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"BE_41024",
+        "eurostat:nuts_2021_id":"41024"
+    },
     "wof:country":"BE",
     "wof:created":1488241190,
-    "wof:geomhash":"1bb588260fe0e9a10d2efa958715c7ea",
+    "wof:geomhash":"0d321a5f26bc2ca36c62ab59d92e86ac",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -128,10 +145,12 @@
         }
     ],
     "wof:id":1108830593,
-    "wof:lastmodified":1566611655,
+    "wof:lastmodified":1684351682,
     "wof:name":"Haaltert",
     "wof:parent_id":102049967,
     "wof:placetype":"localadmin",
+    "wof:population":18596,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-be",
     "wof:superseded_by":[],
     "wof:supersedes":[],

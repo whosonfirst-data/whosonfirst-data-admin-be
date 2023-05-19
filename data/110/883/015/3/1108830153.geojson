@@ -13,6 +13,18 @@
     "begov:uidn":"378",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"BE",
+    "eurostat:gisco_id":"BE_71066",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Zonhoven",
+    "eurostat:nuts_2021_id":"71066",
+    "eurostat:nuts_2021_level_0":"BE",
+    "eurostat:nuts_2021_level_1":"BE2",
+    "eurostat:nuts_2021_level_2":"BE22",
+    "eurostat:nuts_2021_level_3":"BE224",
+    "eurostat:nuts_2021_level_lau":"71066",
+    "eurostat:population":21337,
+    "eurostat:population_year":2020,
     "geom:area":0.005081,
     "geom:area_square_m":39548606.430042,
     "geom:bbox":"5.30104146964,50.9628114857,5.4659655579,51.0124914124",
@@ -114,6 +126,8 @@
     "reversegeo:longitude":5.376678,
     "src:geom":"begov",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         85681705,
         102191581,
@@ -122,10 +136,13 @@
         102049975
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"BE_71066",
+        "eurostat:nuts_2021_id":"71066"
+    },
     "wof:country":"BE",
     "wof:created":1488241120,
-    "wof:geomhash":"89d7c1974fb3d7ae3718c6066f6ac446",
+    "wof:geomhash":"c22ef1d976d6a9f6cc62ccc92729e3c9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -137,10 +154,12 @@
         }
     ],
     "wof:id":1108830153,
-    "wof:lastmodified":1566611513,
+    "wof:lastmodified":1684351657,
     "wof:name":"Zonhoven",
     "wof:parent_id":102049975,
     "wof:placetype":"localadmin",
+    "wof:population":21337,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-be",
     "wof:superseded_by":[],
     "wof:supersedes":[],

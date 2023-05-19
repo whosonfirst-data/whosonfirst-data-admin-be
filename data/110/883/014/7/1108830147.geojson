@@ -13,6 +13,18 @@
     "begov:uidn":"375",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"BE",
+    "eurostat:gisco_id":"BE_13025",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Mol",
+    "eurostat:nuts_2021_id":"13025",
+    "eurostat:nuts_2021_level_0":"BE",
+    "eurostat:nuts_2021_level_1":"BE2",
+    "eurostat:nuts_2021_level_2":"BE21",
+    "eurostat:nuts_2021_level_3":"BE213",
+    "eurostat:nuts_2021_level_lau":"13025",
+    "eurostat:population":37082,
+    "eurostat:population_year":2020,
     "geom:area":0.014743,
     "geom:area_square_m":114143560.371878,
     "geom:bbox":"5.03536436664,51.1534808615,5.24225916956,51.3226989727",
@@ -117,6 +129,8 @@
     "reversegeo:longitude":5.194388,
     "src:geom":"begov",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         85681715,
         102191581,
@@ -125,10 +139,13 @@
         102050007
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"BE_13025",
+        "eurostat:nuts_2021_id":"13025"
+    },
     "wof:country":"BE",
     "wof:created":1488241119,
-    "wof:geomhash":"cd61bff61e0fa74f82e3fe24e8ddca46",
+    "wof:geomhash":"d1cf9f26b851c1836625efa05e0f0ba2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -140,10 +157,12 @@
         }
     ],
     "wof:id":1108830147,
-    "wof:lastmodified":1566611526,
+    "wof:lastmodified":1684351657,
     "wof:name":"Mol",
     "wof:parent_id":102050007,
     "wof:placetype":"localadmin",
+    "wof:population":37082,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-be",
     "wof:superseded_by":[],
     "wof:supersedes":[],

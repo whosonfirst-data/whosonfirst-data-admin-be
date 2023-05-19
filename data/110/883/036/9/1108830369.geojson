@@ -13,6 +13,18 @@
     "begov:uidn":"479",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"BE",
+    "eurostat:gisco_id":"BE_34043",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Spiere-Helkijn / Espierres-Helchin",
+    "eurostat:nuts_2021_id":"34043",
+    "eurostat:nuts_2021_level_0":"BE",
+    "eurostat:nuts_2021_level_1":"BE2",
+    "eurostat:nuts_2021_level_2":"BE25",
+    "eurostat:nuts_2021_level_3":"BE254",
+    "eurostat:nuts_2021_level_lau":"34043",
+    "eurostat:population":2076,
+    "eurostat:population_year":2020,
     "geom:area":0.001386,
     "geom:area_square_m":10851193.333882,
     "geom:bbox":"3.3235913187,50.7095961237,3.40432960423,50.7481715903",
@@ -105,6 +117,8 @@
     "reversegeo:longitude":3.353341,
     "src:geom":"begov",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         85681709,
         102191581,
@@ -113,10 +127,13 @@
         102049961
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"BE_34043",
+        "eurostat:nuts_2021_id":"34043"
+    },
     "wof:country":"BE",
     "wof:created":1488241152,
-    "wof:geomhash":"838c0ced64def77442c5aa8444776d12",
+    "wof:geomhash":"91b78085f5a2a09cb80a75807479c73e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -128,10 +145,12 @@
         }
     ],
     "wof:id":1108830369,
-    "wof:lastmodified":1566611563,
+    "wof:lastmodified":1684351669,
     "wof:name":"Spiere-Helkijn",
     "wof:parent_id":102049961,
     "wof:placetype":"localadmin",
+    "wof:population":2076,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-be",
     "wof:superseded_by":[],
     "wof:supersedes":[],

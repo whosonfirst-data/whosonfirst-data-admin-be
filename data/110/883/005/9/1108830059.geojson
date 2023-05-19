@@ -13,6 +13,18 @@
     "begov:uidn":"335",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"BE",
+    "eurostat:gisco_id":"BE_44073",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Wachtebeke",
+    "eurostat:nuts_2021_id":"44073",
+    "eurostat:nuts_2021_level_0":"BE",
+    "eurostat:nuts_2021_level_1":"BE2",
+    "eurostat:nuts_2021_level_2":"BE23",
+    "eurostat:nuts_2021_level_3":"BE234",
+    "eurostat:nuts_2021_level_lau":"44073",
+    "eurostat:population":7816,
+    "eurostat:population_year":2020,
     "geom:area":0.004457,
     "geom:area_square_m":34547102.639699,
     "geom:bbox":"3.82902400229,51.1440625173,3.92216907125,51.2230482687",
@@ -114,6 +126,8 @@
     "reversegeo:longitude":3.86775,
     "src:geom":"begov",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         85681733,
         102191581,
@@ -122,10 +136,13 @@
         102049989
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"BE_44073",
+        "eurostat:nuts_2021_id":"44073"
+    },
     "wof:country":"BE",
     "wof:created":1488241105,
-    "wof:geomhash":"0c69f4d2e0d1736b73959801f5ffe30d",
+    "wof:geomhash":"f75778e21ffba3abf5a8d9be93ce03c7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -137,10 +154,12 @@
         }
     ],
     "wof:id":1108830059,
-    "wof:lastmodified":1566611668,
+    "wof:lastmodified":1684351652,
     "wof:name":"Wachtebeke",
     "wof:parent_id":102049989,
     "wof:placetype":"localadmin",
+    "wof:population":7816,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-be",
     "wof:superseded_by":[],
     "wof:supersedes":[],

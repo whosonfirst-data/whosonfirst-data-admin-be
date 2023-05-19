@@ -4,8 +4,16 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"BE",
+    "eurostat:level_code":"0",
+    "eurostat:name_latin":"Belgique/Belgi\u00eb",
+    "eurostat:name_local":"Belgique/Belgi\u00eb",
+    "eurostat:nuts_2021_id":"BE",
+    "eurostat:nuts_2021_level_0":"BE",
+    "eurostat:population":11617623,
+    "eurostat:population_year":2022,
     "geom:area":3.897028,
-    "geom:area_square_m":30558537572.175819,
+    "geom:area_square_m":30558537572.175774,
     "geom:bbox":"2.546011,49.497238,6.406391,51.504844",
     "geom:latitude":50.64099,
     "geom:longitude":4.660919,
@@ -1259,7 +1267,8 @@
         "naturalearth"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"wk",
+    "src:population":"eurostat",
+    "src:population_date":"2022",
     "statoids:dial":"32",
     "statoids:ds":"B",
     "statoids:fifa":"BEL",
@@ -1288,6 +1297,7 @@
     "wof:concordances":{
         "dbp:id":"Belgium",
         "digitalenvoy:country_code":56,
+        "eurostat:nuts_2021_id":"BE",
         "fb:id":"en.belgium",
         "fifa:id":"BEL",
         "fips:code":"BE",
@@ -1317,7 +1327,7 @@
         "naturalearth-display-terrestrial-zoom6",
         "naturalearth"
     ],
-    "wof:geomhash":"46c0a0d08da0a862ea3d1b71de377dbe",
+    "wof:geomhash":"76687c18a825b3ff10851cdd8f80b20b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -1335,11 +1345,11 @@
         "fra",
         "deu"
     ],
-    "wof:lastmodified":1617827485,
+    "wof:lastmodified":1684351312,
     "wof:name":"Belgium",
     "wof:parent_id":102191581,
     "wof:placetype":"country",
-    "wof:population":11150516,
+    "wof:population":11617623,
     "wof:population_rank":14,
     "wof:repo":"whosonfirst-data-admin-be",
     "wof:shortcode":"BE",

@@ -13,6 +13,18 @@
     "begov:uidn":"567",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"BE",
+    "eurostat:gisco_id":"BE_33041",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Vleteren",
+    "eurostat:nuts_2021_id":"33041",
+    "eurostat:nuts_2021_level_0":"BE",
+    "eurostat:nuts_2021_level_1":"BE2",
+    "eurostat:nuts_2021_level_2":"BE25",
+    "eurostat:nuts_2021_level_3":"BE253",
+    "eurostat:nuts_2021_level_lau":"33041",
+    "eurostat:population":3655,
+    "eurostat:population_year":2020,
     "geom:area":0.004931,
     "geom:area_square_m":38445859.881097,
     "geom:bbox":"2.69003695098,50.8820849409,2.81040660026,50.9567627131",
@@ -108,6 +120,8 @@
     "reversegeo:longitude":2.732525,
     "src:geom":"begov",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         85681709,
         102191581,
@@ -116,10 +130,13 @@
         102049971
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"BE_33041",
+        "eurostat:nuts_2021_id":"33041"
+    },
     "wof:country":"BE",
     "wof:created":1488241185,
-    "wof:geomhash":"de3a851eb27e8fe893ae92cc023509c3",
+    "wof:geomhash":"44f6611f87ffebe2ac953a5a8e4c641c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -131,10 +148,12 @@
         }
     ],
     "wof:id":1108830565,
-    "wof:lastmodified":1566611676,
+    "wof:lastmodified":1684351681,
     "wof:name":"Vleteren",
     "wof:parent_id":102049971,
     "wof:placetype":"localadmin",
+    "wof:population":3655,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-be",
     "wof:superseded_by":[],
     "wof:supersedes":[],

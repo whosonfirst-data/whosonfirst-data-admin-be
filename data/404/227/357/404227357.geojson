@@ -4,8 +4,17 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"BE",
+    "eurostat:level_code":"1",
+    "eurostat:name_latin":"Vlaams Gewest",
+    "eurostat:name_local":"Vlaams Gewest",
+    "eurostat:nuts_2021_id":"BE2",
+    "eurostat:nuts_2021_level_0":"BE",
+    "eurostat:nuts_2021_level_1":"BE2",
+    "eurostat:population":6709787,
+    "eurostat:population_year":2022,
     "geom:area":1.742474,
-    "geom:area_square_m":13548111730.143658,
+    "geom:area_square_m":13548111730.143667,
     "geom:bbox":"2.546011,50.687694,5.911112,51.504844",
     "geom:latitude":51.038215,
     "geom:longitude":4.239206,
@@ -217,16 +226,19 @@
     "qs:source":"EuroGlobalMap",
     "qs:type":"R\u00e9gion#Gewest#Region",
     "src:geom":"quattroshapes",
+    "src:population":"eurostat",
+    "src:population_date":"2022",
     "wof:belongsto":[
         102191581,
         85632997
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eurostat:nuts_2021_id":"BE2",
         "wd:id":"Q9337"
     },
     "wof:country":"BE",
-    "wof:geomhash":"dbdc438dbedfc7db0ecbf46b0ba0757e",
+    "wof:geomhash":"c807ab4942c008e3ee07dd82aaa3f0db",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -245,10 +257,12 @@
         "fra",
         "deu"
     ],
-    "wof:lastmodified":1614892938,
+    "wof:lastmodified":1684351349,
     "wof:name":"Flemish Region",
     "wof:parent_id":85632997,
     "wof:placetype":"macroregion",
+    "wof:population":6709787,
+    "wof:population_rank":13,
     "wof:repo":"whosonfirst-data-admin-be",
     "wof:superseded_by":[],
     "wof:supersedes":[],

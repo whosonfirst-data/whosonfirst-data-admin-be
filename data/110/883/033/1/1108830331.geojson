@@ -13,6 +13,18 @@
     "begov:uidn":"461",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"BE",
+    "eurostat:gisco_id":"BE_41034",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Lede",
+    "eurostat:nuts_2021_id":"41034",
+    "eurostat:nuts_2021_level_0":"BE",
+    "eurostat:nuts_2021_level_1":"BE2",
+    "eurostat:nuts_2021_level_2":"BE23",
+    "eurostat:nuts_2021_level_3":"BE231",
+    "eurostat:nuts_2021_level_lau":"41034",
+    "eurostat:population":18897,
+    "eurostat:population_year":2020,
     "geom:area":0.003824,
     "geom:area_square_m":29780130.261716,
     "geom:bbox":"3.86758807053,50.9475472153,4.02405826906,50.9871705402",
@@ -42,6 +54,8 @@
     "reversegeo:longitude":3.93639,
     "src:geom":"begov",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         85681733,
         102191581,
@@ -50,10 +64,13 @@
         102049967
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"BE_41034",
+        "eurostat:nuts_2021_id":"41034"
+    },
     "wof:country":"BE",
     "wof:created":1488241146,
-    "wof:geomhash":"0dd2c62b52ca55ab57fad86ff0a2d86a",
+    "wof:geomhash":"473757dfa540ad5950db7a67d65b2792",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -65,10 +82,12 @@
         }
     ],
     "wof:id":1108830331,
-    "wof:lastmodified":1566611666,
+    "wof:lastmodified":1684351667,
     "wof:name":"Lede",
     "wof:parent_id":102049967,
     "wof:placetype":"localadmin",
+    "wof:population":18897,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-be",
     "wof:superseded_by":[],
     "wof:supersedes":[],

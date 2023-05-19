@@ -13,6 +13,18 @@
     "begov:uidn":"394",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"BE",
+    "eurostat:gisco_id":"BE_23099",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Kraainem",
+    "eurostat:nuts_2021_id":"23099",
+    "eurostat:nuts_2021_level_0":"BE",
+    "eurostat:nuts_2021_level_1":"BE2",
+    "eurostat:nuts_2021_level_2":"BE24",
+    "eurostat:nuts_2021_level_3":"BE241",
+    "eurostat:nuts_2021_level_lau":"23099",
+    "eurostat:population":13863,
+    "eurostat:population_year":2020,
     "geom:area":0.000747,
     "geom:area_square_m":5835619.94373,
     "geom:bbox":"4.44903553038,50.8182845995,4.49292592824,50.8671769305",
@@ -105,6 +117,8 @@
     "reversegeo:longitude":4.469186,
     "src:geom":"begov",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         85681731,
         102191581,
@@ -113,10 +127,13 @@
         102049973
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"BE_23099",
+        "eurostat:nuts_2021_id":"23099"
+    },
     "wof:country":"BE",
     "wof:created":1488241125,
-    "wof:geomhash":"3181a31eac7782a61f2644b8782ce0e3",
+    "wof:geomhash":"09b175e6bd0db0947014ab40875991b8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -128,10 +145,12 @@
         }
     ],
     "wof:id":1108830189,
-    "wof:lastmodified":1566611604,
+    "wof:lastmodified":1684351659,
     "wof:name":"Kraainem",
     "wof:parent_id":102049973,
     "wof:placetype":"localadmin",
+    "wof:population":13863,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-be",
     "wof:superseded_by":[],
     "wof:supersedes":[],

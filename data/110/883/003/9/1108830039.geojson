@@ -13,6 +13,18 @@
     "begov:uidn":"326",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"BE",
+    "eurostat:gisco_id":"BE_23039",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Kapelle-op-den-Bos",
+    "eurostat:nuts_2021_id":"23039",
+    "eurostat:nuts_2021_level_0":"BE",
+    "eurostat:nuts_2021_level_1":"BE2",
+    "eurostat:nuts_2021_level_2":"BE24",
+    "eurostat:nuts_2021_level_3":"BE241",
+    "eurostat:nuts_2021_level_lau":"23039",
+    "eurostat:population":9512,
+    "eurostat:population_year":2020,
     "geom:area":0.001975,
     "geom:area_square_m":15364078.424497,
     "geom:bbox":"4.31954349083,50.9686109401,4.39035681344,51.0309082982",
@@ -105,6 +117,8 @@
     "reversegeo:longitude":4.354198,
     "src:geom":"begov",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         85681731,
         102191581,
@@ -113,10 +127,13 @@
         102049973
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"BE_23039",
+        "eurostat:nuts_2021_id":"23039"
+    },
     "wof:country":"BE",
     "wof:created":1488241102,
-    "wof:geomhash":"8538f133a4cb3a281fcddf59e4da58d2",
+    "wof:geomhash":"3424a244861febe4106343d0152424bb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -128,10 +145,12 @@
         }
     ],
     "wof:id":1108830039,
-    "wof:lastmodified":1566611636,
+    "wof:lastmodified":1684351651,
     "wof:name":"Kapelle-op-den-Bos",
     "wof:parent_id":102049973,
     "wof:placetype":"localadmin",
+    "wof:population":9512,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-be",
     "wof:superseded_by":[],
     "wof:supersedes":[],

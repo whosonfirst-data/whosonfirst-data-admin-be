@@ -13,6 +13,18 @@
     "begov:uidn":"467",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"BE",
+    "eurostat:gisco_id":"BE_24054",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Kortenaken",
+    "eurostat:nuts_2021_id":"24054",
+    "eurostat:nuts_2021_level_0":"BE",
+    "eurostat:nuts_2021_level_1":"BE2",
+    "eurostat:nuts_2021_level_2":"BE24",
+    "eurostat:nuts_2021_level_3":"BE242",
+    "eurostat:nuts_2021_level_lau":"24054",
+    "eurostat:population":7903,
+    "eurostat:population_year":2020,
     "geom:area":0.006317,
     "geom:area_square_m":49267587.599117,
     "geom:bbox":"4.96919449784,50.8455280555,5.09203282145,50.9325855793",
@@ -99,6 +111,8 @@
     "reversegeo:longitude":5.021955,
     "src:geom":"begov",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         85681731,
         102191581,
@@ -107,10 +121,13 @@
         102049969
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"BE_24054",
+        "eurostat:nuts_2021_id":"24054"
+    },
     "wof:country":"BE",
     "wof:created":1488241148,
-    "wof:geomhash":"3083c3e07608c542f56966609a355093",
+    "wof:geomhash":"237fb1979b3242f705ae31dc6b8ca76a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -122,10 +139,12 @@
         }
     ],
     "wof:id":1108830345,
-    "wof:lastmodified":1566611665,
+    "wof:lastmodified":1684351667,
     "wof:name":"Kortenaken",
     "wof:parent_id":102049969,
     "wof:placetype":"localadmin",
+    "wof:population":7903,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-be",
     "wof:superseded_by":[],
     "wof:supersedes":[],

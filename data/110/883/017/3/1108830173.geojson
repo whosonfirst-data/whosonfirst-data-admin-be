@@ -13,6 +13,18 @@
     "begov:uidn":"387",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"BE",
+    "eurostat:gisco_id":"BE_11037",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Rumst",
+    "eurostat:nuts_2021_id":"11037",
+    "eurostat:nuts_2021_level_0":"BE",
+    "eurostat:nuts_2021_level_1":"BE2",
+    "eurostat:nuts_2021_level_2":"BE21",
+    "eurostat:nuts_2021_level_3":"BE211",
+    "eurostat:nuts_2021_level_lau":"11037",
+    "eurostat:population":15055,
+    "eurostat:population_year":2020,
     "geom:area":0.002585,
     "geom:area_square_m":20071052.772664,
     "geom:bbox":"4.35941422907,51.0715655974,4.47071852669,51.1190283249",
@@ -99,6 +111,8 @@
     "reversegeo:longitude":4.42193,
     "src:geom":"begov",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         85681715,
         102191581,
@@ -107,10 +121,13 @@
         102050005
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"BE_11037",
+        "eurostat:nuts_2021_id":"11037"
+    },
     "wof:country":"BE",
     "wof:created":1488241124,
-    "wof:geomhash":"03b63b0e119bdbd6fb5fcf40d3d8d21c",
+    "wof:geomhash":"edd8ab44b676acc5e342ea11977c5d6f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -122,10 +139,12 @@
         }
     ],
     "wof:id":1108830173,
-    "wof:lastmodified":1566611623,
+    "wof:lastmodified":1684351658,
     "wof:name":"Rumst",
     "wof:parent_id":102050005,
     "wof:placetype":"localadmin",
+    "wof:population":15055,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-be",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -13,6 +13,18 @@
     "begov:uidn":"541",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"BE",
+    "eurostat:gisco_id":"BE_11013",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Edegem",
+    "eurostat:nuts_2021_id":"11013",
+    "eurostat:nuts_2021_level_0":"BE",
+    "eurostat:nuts_2021_level_1":"BE2",
+    "eurostat:nuts_2021_level_2":"BE21",
+    "eurostat:nuts_2021_level_3":"BE211",
+    "eurostat:nuts_2021_level_lau":"11013",
+    "eurostat:population":22271,
+    "eurostat:population_year":2020,
     "geom:area":0.00112,
     "geom:area_square_m":8683615.906987,
     "geom:bbox":"4.39700511861,51.1447365196,4.46367064299,51.17320167",
@@ -105,6 +117,8 @@
     "reversegeo:longitude":4.433448,
     "src:geom":"begov",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         85681715,
         102191581,
@@ -113,10 +127,13 @@
         102050005
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"BE_11013",
+        "eurostat:nuts_2021_id":"11013"
+    },
     "wof:country":"BE",
     "wof:created":1488241175,
-    "wof:geomhash":"31a1aa802f9c193464245710b00617bc",
+    "wof:geomhash":"599cce59eadacfbf22327d005486683a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -128,10 +145,12 @@
         }
     ],
     "wof:id":1108830507,
-    "wof:lastmodified":1566611657,
+    "wof:lastmodified":1684351677,
     "wof:name":"Edegem",
     "wof:parent_id":102050005,
     "wof:placetype":"localadmin",
+    "wof:population":22271,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-be",
     "wof:superseded_by":[],
     "wof:supersedes":[],

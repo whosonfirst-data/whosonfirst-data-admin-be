@@ -13,6 +13,18 @@
     "begov:uidn":"556",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"BE",
+    "eurostat:gisco_id":"BE_43010",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Maldegem",
+    "eurostat:nuts_2021_id":"43010",
+    "eurostat:nuts_2021_level_0":"BE",
+    "eurostat:nuts_2021_level_1":"BE2",
+    "eurostat:nuts_2021_level_2":"BE23",
+    "eurostat:nuts_2021_level_3":"BE233",
+    "eurostat:nuts_2021_level_lau":"43010",
+    "eurostat:population":24011,
+    "eurostat:population_year":2020,
     "geom:area":0.012303,
     "geom:area_square_m":95327746.311261,
     "geom:bbox":"3.36022566585,51.1468520219,3.54500405207,51.2745118038",
@@ -123,6 +135,8 @@
     "reversegeo:longitude":3.451724,
     "src:geom":"begov",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         85681733,
         102191581,
@@ -131,10 +145,13 @@
         102049995
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"BE_43010",
+        "eurostat:nuts_2021_id":"43010"
+    },
     "wof:country":"BE",
     "wof:created":1488241180,
-    "wof:geomhash":"f3accff0b0ec6cda59645c3b5f324827",
+    "wof:geomhash":"6c7d877fdf14f5d30907af2f077e4972",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -146,10 +163,12 @@
         }
     ],
     "wof:id":1108830541,
-    "wof:lastmodified":1566611549,
+    "wof:lastmodified":1684351679,
     "wof:name":"Maldegem",
     "wof:parent_id":102049995,
     "wof:placetype":"localadmin",
+    "wof:population":24011,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-be",
     "wof:superseded_by":[],
     "wof:supersedes":[],

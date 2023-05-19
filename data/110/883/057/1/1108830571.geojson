@@ -13,6 +13,18 @@
     "begov:uidn":"570",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"BE",
+    "eurostat:gisco_id":"BE_42003",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Berlare",
+    "eurostat:nuts_2021_id":"42003",
+    "eurostat:nuts_2021_level_0":"BE",
+    "eurostat:nuts_2021_level_1":"BE2",
+    "eurostat:nuts_2021_level_2":"BE23",
+    "eurostat:nuts_2021_level_3":"BE232",
+    "eurostat:nuts_2021_level_lau":"42003",
+    "eurostat:population":15109,
+    "eurostat:population_year":2020,
     "geom:area":0.004899,
     "geom:area_square_m":38091719.71944,
     "geom:bbox":"3.92814717337,51.0040703101,4.04179862092,51.0739319897",
@@ -108,6 +120,8 @@
     "reversegeo:longitude":3.961251,
     "src:geom":"begov",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         85681733,
         102191581,
@@ -116,10 +130,13 @@
         102049979
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"BE_42003",
+        "eurostat:nuts_2021_id":"42003"
+    },
     "wof:country":"BE",
     "wof:created":1488241185,
-    "wof:geomhash":"60a0493798528b3906144913f39a2303",
+    "wof:geomhash":"1f3e0ff2b7c55d1300262461c140ab8b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -131,10 +148,12 @@
         }
     ],
     "wof:id":1108830571,
-    "wof:lastmodified":1566611660,
+    "wof:lastmodified":1684351681,
     "wof:name":"Berlare",
     "wof:parent_id":102049979,
     "wof:placetype":"localadmin",
+    "wof:population":15109,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-be",
     "wof:superseded_by":[],
     "wof:supersedes":[],

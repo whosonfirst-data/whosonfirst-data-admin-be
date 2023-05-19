@@ -13,6 +13,18 @@
     "begov:uidn":"509",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"BE",
+    "eurostat:gisco_id":"BE_23027",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Halle (Halle-Vilvoorde) / Hal (Hal-Vilvorde)",
+    "eurostat:nuts_2021_id":"23027",
+    "eurostat:nuts_2021_level_0":"BE",
+    "eurostat:nuts_2021_level_1":"BE2",
+    "eurostat:nuts_2021_level_2":"BE24",
+    "eurostat:nuts_2021_level_3":"BE241",
+    "eurostat:nuts_2021_level_lau":"23027",
+    "eurostat:population":40208,
+    "eurostat:population_year":2020,
     "geom:area":0.005736,
     "geom:area_square_m":44899901.146953,
     "geom:bbox":"4.1720325744,50.6894529262,4.3119611728,50.7780969274",
@@ -147,6 +159,8 @@
     "reversegeo:longitude":4.237002,
     "src:geom":"begov",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         85681731,
         102191581,
@@ -155,10 +169,13 @@
         102049973
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"BE_23027",
+        "eurostat:nuts_2021_id":"23027"
+    },
     "wof:country":"BE",
     "wof:created":1488241163,
-    "wof:geomhash":"bf6b20a65b80c3c42be69a740bb891ad",
+    "wof:geomhash":"89ad4f1c3c86946406845d8a9bccf731",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -170,10 +187,12 @@
         }
     ],
     "wof:id":1108830437,
-    "wof:lastmodified":1566611620,
+    "wof:lastmodified":1684351673,
     "wof:name":"Halle",
     "wof:parent_id":102049973,
     "wof:placetype":"localadmin",
+    "wof:population":40208,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-be",
     "wof:superseded_by":[],
     "wof:supersedes":[],

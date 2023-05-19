@@ -13,6 +13,18 @@
     "begov:uidn":"312",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"BE",
+    "eurostat:gisco_id":"BE_73098",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Wellen",
+    "eurostat:nuts_2021_id":"73098",
+    "eurostat:nuts_2021_level_0":"BE",
+    "eurostat:nuts_2021_level_1":"BE2",
+    "eurostat:nuts_2021_level_2":"BE22",
+    "eurostat:nuts_2021_level_3":"BE223",
+    "eurostat:nuts_2021_level_lau":"73098",
+    "eurostat:population":7366,
+    "eurostat:population_year":2020,
     "geom:area":0.003421,
     "geom:area_square_m":26709794.995847,
     "geom:bbox":"5.26477264044,50.8117544422,5.37224163653,50.8675942443",
@@ -102,6 +114,8 @@
     "reversegeo:longitude":5.32423,
     "src:geom":"begov",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         85681705,
         102191581,
@@ -110,10 +124,13 @@
         1108782563
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"BE_73098",
+        "eurostat:nuts_2021_id":"73098"
+    },
     "wof:country":"BE",
     "wof:created":1488241096,
-    "wof:geomhash":"46c817204d69ffcf141e3cf10ed7c568",
+    "wof:geomhash":"f09b7845f694344f723d294d05793efa",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -125,10 +142,12 @@
         }
     ],
     "wof:id":1108830011,
-    "wof:lastmodified":1566611588,
+    "wof:lastmodified":1684351649,
     "wof:name":"Wellen",
     "wof:parent_id":1108782563,
     "wof:placetype":"localadmin",
+    "wof:population":7366,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-be",
     "wof:superseded_by":[],
     "wof:supersedes":[],

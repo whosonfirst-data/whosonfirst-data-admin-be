@@ -13,6 +13,18 @@
     "begov:uidn":"462",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"BE",
+    "eurostat:gisco_id":"BE_31033",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Torhout",
+    "eurostat:nuts_2021_id":"31033",
+    "eurostat:nuts_2021_level_0":"BE",
+    "eurostat:nuts_2021_level_1":"BE2",
+    "eurostat:nuts_2021_level_2":"BE25",
+    "eurostat:nuts_2021_level_3":"BE251",
+    "eurostat:nuts_2021_level_lau":"31033",
+    "eurostat:population":20496,
+    "eurostat:population_year":2020,
     "geom:area":0.005812,
     "geom:area_square_m":45164020.571007,
     "geom:bbox":"3.04353684869,51.0135427468,3.15779627484,51.1040458865",
@@ -114,6 +126,8 @@
     "reversegeo:longitude":3.091611,
     "src:geom":"begov",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         85681709,
         102191581,
@@ -122,10 +136,13 @@
         102050003
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"BE_31033",
+        "eurostat:nuts_2021_id":"31033"
+    },
     "wof:country":"BE",
     "wof:created":1488241147,
-    "wof:geomhash":"29630cb31ebc959fd2e6937d8dc5b26b",
+    "wof:geomhash":"7213195e547cee66fb5c830e32b0c90b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -137,10 +154,12 @@
         }
     ],
     "wof:id":1108830333,
-    "wof:lastmodified":1566611667,
+    "wof:lastmodified":1684351667,
     "wof:name":"Torhout",
     "wof:parent_id":102050003,
     "wof:placetype":"localadmin",
+    "wof:population":20496,
+    "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-be",
     "wof:superseded_by":[],
     "wof:supersedes":[],

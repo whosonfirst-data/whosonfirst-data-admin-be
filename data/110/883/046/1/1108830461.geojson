@@ -13,6 +13,18 @@
     "begov:uidn":"520",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"BE",
+    "eurostat:gisco_id":"BE_42023",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Waasmunster",
+    "eurostat:nuts_2021_id":"42023",
+    "eurostat:nuts_2021_level_0":"BE",
+    "eurostat:nuts_2021_level_1":"BE2",
+    "eurostat:nuts_2021_level_2":"BE23",
+    "eurostat:nuts_2021_level_3":"BE232",
+    "eurostat:nuts_2021_level_lau":"42023",
+    "eurostat:population":10938,
+    "eurostat:population_year":2020,
     "geom:area":0.004136,
     "geom:area_square_m":32106376.529903,
     "geom:bbox":"4.01218499368,51.0909549138,4.14167398453,51.1458903229",
@@ -114,6 +126,8 @@
     "reversegeo:longitude":4.059648,
     "src:geom":"begov",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         85681733,
         102191581,
@@ -122,10 +136,13 @@
         102049979
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"BE_42023",
+        "eurostat:nuts_2021_id":"42023"
+    },
     "wof:country":"BE",
     "wof:created":1488241167,
-    "wof:geomhash":"be16cf4b02e5e3e274b6aa4ce2c8a92d",
+    "wof:geomhash":"494b8fdd9435dd534e6d16a4be262f19",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -137,10 +154,12 @@
         }
     ],
     "wof:id":1108830461,
-    "wof:lastmodified":1566611517,
+    "wof:lastmodified":1684351675,
     "wof:name":"Waasmunster",
     "wof:parent_id":102049979,
     "wof:placetype":"localadmin",
+    "wof:population":10938,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-be",
     "wof:superseded_by":[],
     "wof:supersedes":[],

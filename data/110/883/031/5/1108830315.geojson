@@ -13,6 +13,18 @@
     "begov:uidn":"454",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"BE",
+    "eurostat:gisco_id":"BE_36019",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Staden",
+    "eurostat:nuts_2021_id":"36019",
+    "eurostat:nuts_2021_level_0":"BE",
+    "eurostat:nuts_2021_level_1":"BE2",
+    "eurostat:nuts_2021_level_2":"BE25",
+    "eurostat:nuts_2021_level_3":"BE256",
+    "eurostat:nuts_2021_level_lau":"36019",
+    "eurostat:population":11518,
+    "eurostat:population_year":2020,
     "geom:area":0.005992,
     "geom:area_square_m":46673685.186566,
     "geom:bbox":"2.95897863995,50.9160922562,3.08832405149,50.9993665416",
@@ -114,6 +126,8 @@
     "reversegeo:longitude":3.007241,
     "src:geom":"begov",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         85681709,
         102191581,
@@ -122,10 +136,13 @@
         102049977
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"BE_36019",
+        "eurostat:nuts_2021_id":"36019"
+    },
     "wof:country":"BE",
     "wof:created":1488241144,
-    "wof:geomhash":"57ec35979b912ba0b9c096d81a8a36c0",
+    "wof:geomhash":"0d7c84b5ae31085af1724a133e3c358f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -137,10 +154,12 @@
         }
     ],
     "wof:id":1108830315,
-    "wof:lastmodified":1566611567,
+    "wof:lastmodified":1684351666,
     "wof:name":"Staden",
     "wof:parent_id":102049977,
     "wof:placetype":"localadmin",
+    "wof:population":11518,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-be",
     "wof:superseded_by":[],
     "wof:supersedes":[],

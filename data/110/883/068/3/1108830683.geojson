@@ -13,6 +13,18 @@
     "begov:uidn":"621",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"BE",
+    "eurostat:gisco_id":"BE_35002",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Bredene",
+    "eurostat:nuts_2021_id":"35002",
+    "eurostat:nuts_2021_level_0":"BE",
+    "eurostat:nuts_2021_level_1":"BE2",
+    "eurostat:nuts_2021_level_2":"BE25",
+    "eurostat:nuts_2021_level_3":"BE255",
+    "eurostat:nuts_2021_level_lau":"35002",
+    "eurostat:population":18190,
+    "eurostat:population_year":2020,
     "geom:area":0.001823,
     "geom:area_square_m":14114697.869716,
     "geom:bbox":"2.94154445326,51.2143709199,3.01257175283,51.2633549724",
@@ -108,6 +120,8 @@
     "reversegeo:longitude":2.976843,
     "src:geom":"begov",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         85681709,
         102191581,
@@ -116,10 +130,13 @@
         102049999
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"BE_35002",
+        "eurostat:nuts_2021_id":"35002"
+    },
     "wof:country":"BE",
     "wof:created":1488241210,
-    "wof:geomhash":"a8f063c33e8e3fffd0c52c08b213da6b",
+    "wof:geomhash":"91d667ecda4d02f785cc9f6c0937ab2f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -131,10 +148,12 @@
         }
     ],
     "wof:id":1108830683,
-    "wof:lastmodified":1566611662,
+    "wof:lastmodified":1684351688,
     "wof:name":"Bredene",
     "wof:parent_id":102049999,
     "wof:placetype":"localadmin",
+    "wof:population":18190,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-be",
     "wof:superseded_by":[],
     "wof:supersedes":[],

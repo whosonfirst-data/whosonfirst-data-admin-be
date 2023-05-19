@@ -13,6 +13,18 @@
     "begov:uidn":"533",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"BE",
+    "eurostat:gisco_id":"BE_42026",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Wichelen",
+    "eurostat:nuts_2021_id":"42026",
+    "eurostat:nuts_2021_level_0":"BE",
+    "eurostat:nuts_2021_level_1":"BE2",
+    "eurostat:nuts_2021_level_2":"BE23",
+    "eurostat:nuts_2021_level_3":"BE232",
+    "eurostat:nuts_2021_level_lau":"42026",
+    "eurostat:population":11667,
+    "eurostat:population_year":2020,
     "geom:area":0.002973,
     "geom:area_square_m":23131799.909023,
     "geom:bbox":"3.91138448809,50.9713142505,4.00633875362,51.0342607864",
@@ -105,6 +117,8 @@
     "reversegeo:longitude":3.966049,
     "src:geom":"begov",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         85681733,
         102191581,
@@ -113,10 +127,13 @@
         102049979
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"BE_42026",
+        "eurostat:nuts_2021_id":"42026"
+    },
     "wof:country":"BE",
     "wof:created":1488241171,
-    "wof:geomhash":"b6a8ba49261bc85083edde5f7b158e14",
+    "wof:geomhash":"409bffc29f31a36b6c36112bea9e94ab",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -128,10 +145,12 @@
         }
     ],
     "wof:id":1108830489,
-    "wof:lastmodified":1566611520,
+    "wof:lastmodified":1684351676,
     "wof:name":"Wichelen",
     "wof:parent_id":102049979,
     "wof:placetype":"localadmin",
+    "wof:population":11667,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-be",
     "wof:superseded_by":[],
     "wof:supersedes":[],

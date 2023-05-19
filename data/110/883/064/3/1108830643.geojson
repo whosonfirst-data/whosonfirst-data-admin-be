@@ -13,6 +13,18 @@
     "begov:uidn":"603",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"BE",
+    "eurostat:gisco_id":"BE_44012",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"De Pinte",
+    "eurostat:nuts_2021_id":"44012",
+    "eurostat:nuts_2021_level_0":"BE",
+    "eurostat:nuts_2021_level_1":"BE2",
+    "eurostat:nuts_2021_level_2":"BE23",
+    "eurostat:nuts_2021_level_3":"BE234",
+    "eurostat:nuts_2021_level_lau":"44012",
+    "eurostat:population":10885,
+    "eurostat:population_year":2020,
     "geom:area":0.002277,
     "geom:area_square_m":17725071.379532,
     "geom:bbox":"3.62361615193,50.9540851579,3.71110052921,51.0143119793",
@@ -105,6 +117,8 @@
     "reversegeo:longitude":3.683221,
     "src:geom":"begov",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         85681733,
         102191581,
@@ -113,10 +127,13 @@
         102049989
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"BE_44012",
+        "eurostat:nuts_2021_id":"44012"
+    },
     "wof:country":"BE",
     "wof:created":1488241204,
-    "wof:geomhash":"3ae81d94d260cb633bfc80397b37ac5c",
+    "wof:geomhash":"a020788669db84046db00932bd34db93",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -128,10 +145,12 @@
         }
     ],
     "wof:id":1108830643,
-    "wof:lastmodified":1566611579,
+    "wof:lastmodified":1684351686,
     "wof:name":"De Pinte",
     "wof:parent_id":102049989,
     "wof:placetype":"localadmin",
+    "wof:population":10885,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-be",
     "wof:superseded_by":[],
     "wof:supersedes":[],

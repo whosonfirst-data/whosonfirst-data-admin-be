@@ -13,6 +13,18 @@
     "begov:uidn":"557",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"BE",
+    "eurostat:gisco_id":"BE_24028",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Geetbets",
+    "eurostat:nuts_2021_id":"24028",
+    "eurostat:nuts_2021_level_0":"BE",
+    "eurostat:nuts_2021_level_1":"BE2",
+    "eurostat:nuts_2021_level_2":"BE24",
+    "eurostat:nuts_2021_level_3":"BE242",
+    "eurostat:nuts_2021_level_lau":"24028",
+    "eurostat:population":6142,
+    "eurostat:population_year":2020,
     "geom:area":0.004539,
     "geom:area_square_m":35404793.620968,
     "geom:bbox":"5.06549549534,50.8578852853,5.18803268172,50.9215393899",
@@ -102,6 +114,8 @@
     "reversegeo:longitude":5.13207,
     "src:geom":"begov",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         85681731,
         102191581,
@@ -110,10 +124,13 @@
         102049969
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"BE_24028",
+        "eurostat:nuts_2021_id":"24028"
+    },
     "wof:country":"BE",
     "wof:created":1488241181,
-    "wof:geomhash":"2e67afc1f151c4f519403f368516131f",
+    "wof:geomhash":"d41223ae7f6ddb2e0c9f5dc21a06d865",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -125,10 +142,12 @@
         }
     ],
     "wof:id":1108830543,
-    "wof:lastmodified":1566611550,
+    "wof:lastmodified":1684351679,
     "wof:name":"Geetbets",
     "wof:parent_id":102049969,
     "wof:placetype":"localadmin",
+    "wof:population":6142,
+    "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-be",
     "wof:superseded_by":[],
     "wof:supersedes":[],

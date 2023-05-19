@@ -13,6 +13,18 @@
     "begov:uidn":"428",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"BE",
+    "eurostat:gisco_id":"BE_23097",
+    "eurostat:level_code":"lau",
+    "eurostat:name_local":"Roosdaal",
+    "eurostat:nuts_2021_id":"23097",
+    "eurostat:nuts_2021_level_0":"BE",
+    "eurostat:nuts_2021_level_1":"BE2",
+    "eurostat:nuts_2021_level_2":"BE24",
+    "eurostat:nuts_2021_level_3":"BE241",
+    "eurostat:nuts_2021_level_lau":"23097",
+    "eurostat:population":11664,
+    "eurostat:population_year":2020,
     "geom:area":0.002797,
     "geom:area_square_m":21842067.801367,
     "geom:bbox":"4.04066397113,50.811497093,4.15058147275,50.8586192928",
@@ -105,6 +117,8 @@
     "reversegeo:longitude":4.089071,
     "src:geom":"begov",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2020",
     "wof:belongsto":[
         85681731,
         102191581,
@@ -113,10 +127,13 @@
         102049973
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eg:gisco_id":"BE_23097",
+        "eurostat:nuts_2021_id":"23097"
+    },
     "wof:country":"BE",
     "wof:created":1488241136,
-    "wof:geomhash":"b23b4c2637a82f89a6137ebaa098b02c",
+    "wof:geomhash":"5badaa7b8e8fe2fdea74e53b5d627bd8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -128,10 +145,12 @@
         }
     ],
     "wof:id":1108830261,
-    "wof:lastmodified":1566611629,
+    "wof:lastmodified":1684351663,
     "wof:name":"Roosdaal",
     "wof:parent_id":102049973,
     "wof:placetype":"localadmin",
+    "wof:population":11664,
+    "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-be",
     "wof:superseded_by":[],
     "wof:supersedes":[],
