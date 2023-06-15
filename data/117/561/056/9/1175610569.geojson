@@ -120,10 +120,10 @@
         "Capital of Europe"
     ],
     "name:eng_x_preferred":[
-        "Brussel"
+        "Brussels"
     ],
     "name:eng_x_variant":[
-        "Brussels"
+        "Brussel"
     ],
     "name:epo_x_preferred":[
         "Bruselo"
@@ -578,12 +578,12 @@
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
-        85681713,
         102191581,
         85632997,
-        404227355,
+        102049957,
         101751573,
-        102049957
+        404227355,
+        85681713
     ],
     "wof:breaches":[],
     "wof:capital_of":[
@@ -615,9 +615,9 @@
         }
     ],
     "wof:id":1175610569,
-    "wof:lastmodified":1617130184,
+    "wof:lastmodified":1686849190,
     "wof:megacity":1,
-    "wof:name":"Brussel",
+    "wof:name":"Brussels",
     "wof:parent_id":102049957,
     "wof:placetype":"locality",
     "wof:population":1019022,
