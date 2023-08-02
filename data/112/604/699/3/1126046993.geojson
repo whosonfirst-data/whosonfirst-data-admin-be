@@ -28,6 +28,12 @@
     "name:fra_x_preferred":[
         "Opvelp"
     ],
+    "name:fra_x_variant":[
+        "Haute-Fleppe"
+    ],
+    "name:gle_x_preferred":[
+        "Opvelp"
+    ],
     "name:hun_x_preferred":[
         "Opvelp"
     ],
@@ -93,7 +99,7 @@
         }
     ],
     "wof:id":1126046993,
-    "wof:lastmodified":1566612066,
+    "wof:lastmodified":1690856728,
     "wof:name":"Opvelp",
     "wof:parent_id":1108830409,
     "wof:placetype":"locality",

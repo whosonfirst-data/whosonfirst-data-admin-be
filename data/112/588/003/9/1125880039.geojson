@@ -52,6 +52,9 @@
     "name:fra_x_preferred":[
         "Oupeye"
     ],
+    "name:gle_x_preferred":[
+        "Oupeye"
+    ],
     "name:hun_x_preferred":[
         "Oupeye"
     ],
@@ -115,6 +118,9 @@
     "name:wln_x_preferred":[
         "O\u00fbp\u00eaye"
     ],
+    "name:zea_x_preferred":[
+        "Oupeye"
+    ],
     "name:zho_x_preferred":[
         "\u4e4c\u4f69"
     ],
@@ -169,7 +175,7 @@
         }
     ],
     "wof:id":1125880039,
-    "wof:lastmodified":1566612095,
+    "wof:lastmodified":1690856761,
     "wof:name":"Oupeye",
     "wof:parent_id":102049941,
     "wof:placetype":"locality",

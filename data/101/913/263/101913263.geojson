@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.000001,
     "geom:area_square_m":6725.601683,
-    "geom:bbox":"4.69597321292,50.7861415216,4.69702446571,50.7870861196",
+    "geom:bbox":"4.695973,50.786142,4.697024,50.787086",
     "geom:latitude":50.786601,
     "geom:longitude":4.696496,
     "iso:country":"BE",
@@ -26,6 +26,9 @@
         "Hamme-Mille"
     ],
     "name:fra_x_preferred":[
+        "Hamme-Mille"
+    ],
+    "name:gle_x_preferred":[
         "Hamme-Mille"
     ],
     "name:nld_x_preferred":[
@@ -65,7 +68,7 @@
         "wd:id":"Q2207097"
     },
     "wof:country":"BE",
-    "wof:geomhash":"8a0ba70a5f5c77d2dff338076696bb4c",
+    "wof:geomhash":"54e79c8f58659af27ae6c692d7e50741",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -77,7 +80,7 @@
         }
     ],
     "wof:id":101913263,
-    "wof:lastmodified":1566611906,
+    "wof:lastmodified":1690856578,
     "wof:name":"Hamme-Mille",
     "wof:parent_id":102049945,
     "wof:placetype":"locality",
@@ -87,10 +90,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    4.6959732129223,
-    50.78614152163067,
-    4.69702446571375,
-    50.78708611957006
+    4.695973,
+    50.786142,
+    4.697024,
+    50.787086
 ],
-  "geometry": {"coordinates":[[[4.6959732129223,50.78614152163067],[4.69606383692377,50.78704661570464],[4.69692248137119,50.78708611957006],[4.69702446571375,50.78618988673014],[4.6959732129223,50.78614152163067]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[4.695973,50.786142],[4.696064,50.787047],[4.696922,50.787086],[4.697024,50.78619],[4.695973,50.786142]]],"type":"Polygon"}
 }

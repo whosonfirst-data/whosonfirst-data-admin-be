@@ -28,6 +28,9 @@
     "name:fra_x_preferred":[
         "Elst"
     ],
+    "name:gle_x_preferred":[
+        "Elst"
+    ],
     "name:hun_x_preferred":[
         "Elst"
     ],
@@ -88,7 +91,7 @@
         }
     ],
     "wof:id":1125949985,
-    "wof:lastmodified":1566612013,
+    "wof:lastmodified":1690856674,
     "wof:name":"Elst",
     "wof:parent_id":1108830545,
     "wof:placetype":"locality",

@@ -28,6 +28,9 @@
     "name:fra_x_preferred":[
         "Outrelouxhe"
     ],
+    "name:gle_x_preferred":[
+        "Outrelouxhe"
+    ],
     "name:hun_x_preferred":[
         "Outrelouxhe"
     ],
@@ -86,7 +89,7 @@
         }
     ],
     "wof:id":1125776661,
-    "wof:lastmodified":1566612239,
+    "wof:lastmodified":1690856901,
     "wof:name":"Outrelouxhe",
     "wof:parent_id":102049925,
     "wof:placetype":"locality",

@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"5.070705,51.0970945,5.070705,51.0970945",
+    "geom:bbox":"5.070705,51.097094,5.070705,51.097094",
     "geom:latitude":51.097094,
     "geom:longitude":5.070705,
     "gn:country":null,
@@ -20,6 +20,9 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u0644\u0643\u062f\u0644"
+    ],
     "name:bre_x_preferred":[
         "Laakdal"
     ],
@@ -50,14 +53,23 @@
     "name:fra_x_preferred":[
         "Laakdal"
     ],
+    "name:gle_x_preferred":[
+        "Laakdal"
+    ],
     "name:hun_x_preferred":[
         "Laakdal"
     ],
     "name:ita_x_preferred":[
         "Laakdal"
     ],
+    "name:jpn_x_preferred":[
+        "\u30e9\u30fc\u30af\u30c0\u30eb"
+    ],
     "name:ltz_x_preferred":[
         "Laakdal"
+    ],
+    "name:mdf_x_preferred":[
+        "\u041b\u0430\u043a\u0434\u0430\u043b"
     ],
     "name:nld_x_preferred":[
         "Laakdal"
@@ -85,6 +97,15 @@
     ],
     "name:swe_x_preferred":[
         "Laakdal"
+    ],
+    "name:szl_x_preferred":[
+        "Laakdal"
+    ],
+    "name:tur_x_preferred":[
+        "Laakdal"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041b\u0430\u043a\u0434\u0430\u043b"
     ],
     "name:vie_x_preferred":[
         "Laakdal"
@@ -137,7 +158,7 @@
     },
     "wof:country":"BE",
     "wof:created":1497289890,
-    "wof:geomhash":"75e1694caf57ae3b58f39321c2b3a6a6",
+    "wof:geomhash":"b139ccaaf9ae5ec8ded681f0cdf81fd5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -150,7 +171,7 @@
         }
     ],
     "wof:id":1125765851,
-    "wof:lastmodified":1566612202,
+    "wof:lastmodified":1690856858,
     "wof:name":"Laakdal",
     "wof:parent_id":1108830163,
     "wof:placetype":"locality",
@@ -161,9 +182,9 @@
 },
   "bbox": [
     5.070705,
-    51.0970945,
+    51.097094,
     5.070705,
-    51.0970945
+    51.097094
 ],
-  "geometry": {"coordinates":[5.070705,51.0970945],"type":"Point"}
+  "geometry": {"coordinates":[5.070705,51.097094],"type":"Point"}
 }

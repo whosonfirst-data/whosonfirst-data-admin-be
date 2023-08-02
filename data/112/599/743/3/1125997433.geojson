@@ -28,6 +28,9 @@
     "name:fra_x_preferred":[
         "Gelinden"
     ],
+    "name:gle_x_preferred":[
+        "Gelinden"
+    ],
     "name:hun_x_preferred":[
         "Gelinden"
     ],
@@ -91,7 +94,7 @@
         }
     ],
     "wof:id":1125997433,
-    "wof:lastmodified":1566612137,
+    "wof:lastmodified":1690856794,
     "wof:name":"Gelinden",
     "wof:parent_id":1108830223,
     "wof:placetype":"locality",

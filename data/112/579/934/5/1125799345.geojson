@@ -55,13 +55,22 @@
     "name:fra_x_preferred":[
         "Alveringem"
     ],
+    "name:gle_x_preferred":[
+        "Alveringem"
+    ],
     "name:hun_x_preferred":[
         "Alveringem"
     ],
     "name:ita_x_preferred":[
         "Alveringem"
     ],
+    "name:lav_x_preferred":[
+        "Alveringema"
+    ],
     "name:lim_x_preferred":[
+        "Alveringem"
+    ],
+    "name:ltz_x_preferred":[
         "Alveringem"
     ],
     "name:nld_x_preferred":[
@@ -163,7 +172,7 @@
         }
     ],
     "wof:id":1125799345,
-    "wof:lastmodified":1566612225,
+    "wof:lastmodified":1690856883,
     "wof:name":"Alveringem",
     "wof:parent_id":1108830587,
     "wof:placetype":"locality",

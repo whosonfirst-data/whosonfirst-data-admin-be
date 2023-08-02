@@ -34,6 +34,9 @@
     "name:ceb_x_preferred":[
         "Wijnegem"
     ],
+    "name:dan_x_preferred":[
+        "Wijnegem"
+    ],
     "name:deu_x_preferred":[
         "Wijnegem"
     ],
@@ -60,6 +63,9 @@
     ],
     "name:ita_x_preferred":[
         "Wijnegem"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ef\u30a4\u30f3\u30a8\u30fc\u30b2\u30e0"
     ],
     "name:lat_x_preferred":[
         "Wijnegem"
@@ -103,6 +109,12 @@
     "name:swe_x_preferred":[
         "Wijnegem"
     ],
+    "name:tur_x_preferred":[
+        "Wijnegem"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0412\u0435\u0439\u043d\u0435\u0433\u0435\u043c"
+    ],
     "name:und_x_variant":[
         "Wyneghem"
     ],
@@ -116,6 +128,9 @@
         "Wijnegem"
     ],
     "name:war_x_preferred":[
+        "Wijnegem"
+    ],
+    "name:zea_x_preferred":[
         "Wijnegem"
     ],
     "name:zho_x_preferred":[
@@ -178,7 +193,7 @@
         }
     ],
     "wof:id":1125871701,
-    "wof:lastmodified":1566612117,
+    "wof:lastmodified":1690856783,
     "wof:name":"Wijnegem",
     "wof:parent_id":1108830625,
     "wof:placetype":"locality",

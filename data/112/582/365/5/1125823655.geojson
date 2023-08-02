@@ -28,6 +28,9 @@
     "name:fra_x_preferred":[
         "Petite-Jamine"
     ],
+    "name:gle_x_preferred":[
+        "Klein-Gelmen"
+    ],
     "name:hun_x_preferred":[
         "Klein-Gelmen"
     ],
@@ -91,7 +94,7 @@
         }
     ],
     "wof:id":1125823655,
-    "wof:lastmodified":1566612193,
+    "wof:lastmodified":1690856848,
     "wof:name":"Klein-Gelmen",
     "wof:parent_id":1108830275,
     "wof:placetype":"locality",

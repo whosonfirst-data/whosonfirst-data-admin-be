@@ -34,6 +34,9 @@
     "name:dan_x_preferred":[
         "Marcinelle"
     ],
+    "name:deu_x_preferred":[
+        "Marcinelle"
+    ],
     "name:eng_x_preferred":[
         "Marcinelle"
     ],
@@ -44,6 +47,9 @@
         "\u0645\u0627\u0631\u0633\u06cc\u0646\u0644"
     ],
     "name:fra_x_preferred":[
+        "Marcinelle"
+    ],
+    "name:gle_x_preferred":[
         "Marcinelle"
     ],
     "name:hun_x_preferred":[
@@ -64,6 +70,9 @@
     "name:nob_x_preferred":[
         "Marcinelle"
     ],
+    "name:pcd_x_preferred":[
+        "M\u00e2rcin\u00e8le"
+    ],
     "name:swe_x_preferred":[
         "Marcinelle"
     ],
@@ -72,6 +81,9 @@
     ],
     "name:wln_x_preferred":[
         "M\u00e5rcinele"
+    ],
+    "name:zho_x_preferred":[
+        "\u9a6c\u5c14\u897f\u5185\u52d2"
     ],
     "qs_pg:aaroncc":"BE",
     "qs_pg:gn_country":"BE",
@@ -127,7 +139,7 @@
         }
     ],
     "wof:id":1125891277,
-    "wof:lastmodified":1566612103,
+    "wof:lastmodified":1690856767,
     "wof:name":"Marcinelle",
     "wof:parent_id":102049927,
     "wof:placetype":"locality",

@@ -28,6 +28,9 @@
     "name:fra_x_preferred":[
         "Schalkhoven"
     ],
+    "name:gle_x_preferred":[
+        "Schalkhoven"
+    ],
     "name:hun_x_preferred":[
         "Schalkhoven"
     ],
@@ -88,7 +91,7 @@
         }
     ],
     "wof:id":1125791089,
-    "wof:lastmodified":1566612225,
+    "wof:lastmodified":1690856883,
     "wof:name":"Schalkhoven",
     "wof:parent_id":1108830661,
     "wof:placetype":"locality",

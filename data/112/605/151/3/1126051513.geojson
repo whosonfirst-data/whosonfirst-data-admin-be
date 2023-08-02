@@ -58,6 +58,9 @@
     "name:fra_x_preferred":[
         "Tinlot"
     ],
+    "name:gle_x_preferred":[
+        "Tinlot"
+    ],
     "name:hun_x_preferred":[
         "Tinlot"
     ],
@@ -107,6 +110,12 @@
         "Tinlot"
     ],
     "name:war_x_preferred":[
+        "Tinlot"
+    ],
+    "name:wln_x_preferred":[
+        "Tinlot"
+    ],
+    "name:zea_x_preferred":[
         "Tinlot"
     ],
     "name:zho_x_preferred":[
@@ -165,7 +174,7 @@
         }
     ],
     "wof:id":1126051513,
-    "wof:lastmodified":1566612051,
+    "wof:lastmodified":1690856708,
     "wof:name":"Tinlot",
     "wof:parent_id":102049925,
     "wof:placetype":"locality",

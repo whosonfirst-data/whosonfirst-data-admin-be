@@ -31,6 +31,9 @@
     "name:fra_x_preferred":[
         "Rumigny"
     ],
+    "name:gle_x_preferred":[
+        "Rummen"
+    ],
     "name:hun_x_preferred":[
         "Rummen"
     ],
@@ -92,7 +95,7 @@
         }
     ],
     "wof:id":1125802669,
-    "wof:lastmodified":1566612110,
+    "wof:lastmodified":1690856774,
     "wof:name":"Rummen",
     "wof:parent_id":1108830543,
     "wof:placetype":"locality",

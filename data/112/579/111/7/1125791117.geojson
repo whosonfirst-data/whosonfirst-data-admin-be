@@ -28,6 +28,9 @@
     "name:fra_x_preferred":[
         "Schelderode"
     ],
+    "name:gle_x_preferred":[
+        "Schelderode"
+    ],
     "name:hun_x_preferred":[
         "Schelderode"
     ],
@@ -88,7 +91,7 @@
         }
     ],
     "wof:id":1125791117,
-    "wof:lastmodified":1566612224,
+    "wof:lastmodified":1690856882,
     "wof:name":"Schelderode",
     "wof:parent_id":1108830115,
     "wof:placetype":"locality",

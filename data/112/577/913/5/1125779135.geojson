@@ -28,6 +28,9 @@
     "name:fra_x_preferred":[
         "Mehaigne"
     ],
+    "name:gle_x_preferred":[
+        "Mehaigne"
+    ],
     "name:hun_x_preferred":[
         "Mehaigne"
     ],
@@ -90,7 +93,7 @@
         }
     ],
     "wof:id":1125779135,
-    "wof:lastmodified":1566612242,
+    "wof:lastmodified":1690856906,
     "wof:name":"Mehaigne",
     "wof:parent_id":102049931,
     "wof:placetype":"locality",

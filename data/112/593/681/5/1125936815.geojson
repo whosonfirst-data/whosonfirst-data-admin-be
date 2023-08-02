@@ -25,6 +25,9 @@
     "name:bul_x_preferred":[
         "\u0411\u0443\u0438\u0437\u0438\u043d\u0433\u0435\u043d"
     ],
+    "name:cat_x_preferred":[
+        "Buizingen"
+    ],
     "name:ceb_x_preferred":[
         "Buizingen"
     ],
@@ -38,6 +41,9 @@
         "\u0628\u0648\u06cc\u06cc\u0632\u06cc\u0646\u06af\u0646"
     ],
     "name:fra_x_preferred":[
+        "Buizingen"
+    ],
+    "name:gle_x_preferred":[
         "Buizingen"
     ],
     "name:hun_x_preferred":[
@@ -57,6 +63,9 @@
     ],
     "name:und_x_variant":[
         "Buysinghen"
+    ],
+    "name:zho_x_preferred":[
+        "\u4f2f\u4f0a\u6d25\u6069"
     ],
     "qs_pg:aaroncc":"BE",
     "qs_pg:gn_country":"BE",
@@ -112,7 +121,7 @@
         }
     ],
     "wof:id":1125936815,
-    "wof:lastmodified":1566612019,
+    "wof:lastmodified":1690856681,
     "wof:name":"Buizingen",
     "wof:parent_id":1108830437,
     "wof:placetype":"locality",

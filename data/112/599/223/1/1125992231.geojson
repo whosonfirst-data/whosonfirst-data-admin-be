@@ -28,6 +28,9 @@
     "name:fra_x_preferred":[
         "Waltwilder"
     ],
+    "name:gle_x_preferred":[
+        "Waltwilder"
+    ],
     "name:hun_x_preferred":[
         "Waltwilder"
     ],
@@ -89,7 +92,7 @@
         }
     ],
     "wof:id":1125992231,
-    "wof:lastmodified":1566612135,
+    "wof:lastmodified":1690856792,
     "wof:name":"Waltwilder",
     "wof:parent_id":1108830245,
     "wof:placetype":"locality",

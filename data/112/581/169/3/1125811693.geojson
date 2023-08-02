@@ -31,6 +31,9 @@
     "name:fra_x_preferred":[
         "Bodeghem-Saint-Martin"
     ],
+    "name:gle_x_preferred":[
+        "Sint-Martens-Bodegem"
+    ],
     "name:hun_x_preferred":[
         "Sint-Martens-Bodegem"
     ],
@@ -99,7 +102,7 @@
         }
     ],
     "wof:id":1125811693,
-    "wof:lastmodified":1566612084,
+    "wof:lastmodified":1690856747,
     "wof:name":"St.-Martens-Bodegem",
     "wof:parent_id":1108830207,
     "wof:placetype":"locality",

@@ -58,11 +58,17 @@
     "name:fra_x_preferred":[
         "Orp-Jauche"
     ],
+    "name:gle_x_preferred":[
+        "Orp-Jauche"
+    ],
     "name:hun_x_preferred":[
         "Orp-Jauche"
     ],
     "name:ita_x_preferred":[
         "Orp-Jauche"
+    ],
+    "name:lat_x_preferred":[
+        "Orpium-Jauche"
     ],
     "name:ltz_x_preferred":[
         "Orp-Jauche"
@@ -109,8 +115,14 @@
     "name:wln_x_preferred":[
         "O\u00fb-Dj\u00e5ce"
     ],
+    "name:zea_x_preferred":[
+        "Adorp-Geten"
+    ],
     "name:zho_x_preferred":[
         "\u5965\u5c14\u666e\uff0d\u82e5\u4ec0"
+    ],
+    "name:zho_x_variant":[
+        "\u5965\u5c14\u666e-\u82e5\u4ec0"
     ],
     "qs_pg:aaroncc":"BE",
     "qs_pg:gn_country":"BE",
@@ -166,7 +178,7 @@
         }
     ],
     "wof:id":1125929449,
-    "wof:lastmodified":1566612029,
+    "wof:lastmodified":1690856690,
     "wof:name":"Orp-Jauche",
     "wof:parent_id":102049945,
     "wof:placetype":"locality",

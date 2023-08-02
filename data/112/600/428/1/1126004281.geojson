@@ -59,6 +59,9 @@
     "name:fra_x_preferred":[
         "Merelbeke"
     ],
+    "name:gle_x_preferred":[
+        "Merelbeke"
+    ],
     "name:hun_x_preferred":[
         "Merelbeke"
     ],
@@ -91,6 +94,9 @@
     ],
     "name:ron_x_preferred":[
         "Merelbeke"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0435\u0440\u0435\u043b\u0431\u0435\u043a\u0435"
     ],
     "name:sco_x_preferred":[
         "Merelbeke"
@@ -168,7 +174,7 @@
         }
     ],
     "wof:id":1126004281,
-    "wof:lastmodified":1566612187,
+    "wof:lastmodified":1690856843,
     "wof:name":"Meirelbeke",
     "wof:parent_id":1108830115,
     "wof:placetype":"locality",

@@ -28,6 +28,9 @@
     "name:bul_x_preferred":[
         "\u0410\u043d\u0433\u043b\u0435\u0443\u0440"
     ],
+    "name:cat_x_preferred":[
+        "Angleur"
+    ],
     "name:ceb_x_preferred":[
         "Angleur"
     ],
@@ -38,6 +41,9 @@
         "Angleur"
     ],
     "name:fra_x_preferred":[
+        "Angleur"
+    ],
+    "name:gle_x_preferred":[
         "Angleur"
     ],
     "name:hun_x_preferred":[
@@ -60,6 +66,9 @@
     ],
     "name:wln_x_preferred":[
         "Angleur"
+    ],
+    "name:zho_x_preferred":[
+        "\u6602\u683c\u52d2\u5c14"
     ],
     "qs:gn_adm0_cc":"BE",
     "qs:gn_fcode":"PPL",
@@ -130,7 +139,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1582345516,
+    "wof:lastmodified":1690856412,
     "wof:name":"Angleur",
     "wof:parent_id":101748083,
     "wof:placetype":"neighbourhood",

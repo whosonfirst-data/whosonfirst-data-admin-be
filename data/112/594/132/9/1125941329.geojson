@@ -25,6 +25,9 @@
     "name:bre_x_preferred":[
         "Achouffe"
     ],
+    "name:cat_x_preferred":[
+        "Achouffe"
+    ],
     "name:eng_x_preferred":[
         "Achouffe"
     ],
@@ -86,7 +89,7 @@
         }
     ],
     "wof:id":1125941329,
-    "wof:lastmodified":1566612013,
+    "wof:lastmodified":1690856674,
     "wof:name":"Achouffe",
     "wof:parent_id":102049915,
     "wof:placetype":"locality",

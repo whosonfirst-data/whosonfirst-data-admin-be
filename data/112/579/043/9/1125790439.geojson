@@ -28,6 +28,9 @@
     "name:fra_x_preferred":[
         "Kersbeek-Miskom"
     ],
+    "name:gle_x_preferred":[
+        "Kersbeek-Miskom"
+    ],
     "name:hun_x_preferred":[
         "Kersbeek-Miskom"
     ],
@@ -91,7 +94,7 @@
         }
     ],
     "wof:id":1125790439,
-    "wof:lastmodified":1566612226,
+    "wof:lastmodified":1690856884,
     "wof:name":"Kersbeek-Miskom",
     "wof:parent_id":1108830345,
     "wof:placetype":"locality",

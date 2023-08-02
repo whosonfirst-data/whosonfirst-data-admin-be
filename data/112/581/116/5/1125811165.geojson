@@ -34,6 +34,9 @@
     "name:fra_x_preferred":[
         "Houtain-le-Val"
     ],
+    "name:gle_x_preferred":[
+        "Houtain-le-Val"
+    ],
     "name:hun_x_preferred":[
         "Houtain-le-Val"
     ],
@@ -100,7 +103,7 @@
         }
     ],
     "wof:id":1125811165,
-    "wof:lastmodified":1566612085,
+    "wof:lastmodified":1690856748,
     "wof:name":"Houtain-le-Val",
     "wof:parent_id":102049945,
     "wof:placetype":"locality",

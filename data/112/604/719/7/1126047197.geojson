@@ -31,6 +31,9 @@
     "name:fra_x_preferred":[
         "Rhode-Saint-Pierre"
     ],
+    "name:gle_x_preferred":[
+        "Sint-Pieters-Rode"
+    ],
     "name:hun_x_preferred":[
         "Sint-Pieters-Rode"
     ],
@@ -93,7 +96,7 @@
         }
     ],
     "wof:id":1126047197,
-    "wof:lastmodified":1566612068,
+    "wof:lastmodified":1690856730,
     "wof:name":"St.-Pieters-Rode",
     "wof:parent_id":1108830435,
     "wof:placetype":"locality",

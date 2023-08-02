@@ -28,6 +28,9 @@
     "name:fra_x_preferred":[
         "Neigem"
     ],
+    "name:gle_x_preferred":[
+        "Neigem"
+    ],
     "name:hun_x_preferred":[
         "Neigem"
     ],
@@ -96,7 +99,7 @@
         }
     ],
     "wof:id":1125781715,
-    "wof:lastmodified":1566612215,
+    "wof:lastmodified":1690856875,
     "wof:name":"Neigem",
     "wof:parent_id":1108830403,
     "wof:placetype":"locality",

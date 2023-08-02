@@ -58,11 +58,17 @@
     "name:fra_x_preferred":[
         "Wavre-Sainte-Catherine"
     ],
+    "name:gle_x_preferred":[
+        "Sint-Katelijne-Waver"
+    ],
     "name:hun_x_preferred":[
         "Sint-Katelijne-Waver"
     ],
     "name:ita_x_preferred":[
         "Sint-Katelijne-Waver"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b7\u30f3\u30c8\uff1d\u30ab\u30fc\u30c6\u30e9\u30a4\u30cd\uff1d\u30ef\u30fc\u30d5\u30a7\u30eb"
     ],
     "name:lit_x_preferred":[
         "Sin Katelin Vaveras"
@@ -72,6 +78,9 @@
     ],
     "name:mkd_x_preferred":[
         "\u0421\u0438\u043d\u0442 \u041a\u0430\u0442\u0435\u043b\u0435\u0458\u043d\u0435 \u0412\u0430\u0432\u0435\u0440"
+    ],
+    "name:mkd_x_variant":[
+        "\u0421\u0438\u043d\u0442 \u041a\u0430\u0442\u0435\u043b\u0435\u0458\u043d\u0435-\u0412\u0430\u0432\u0435\u0440"
     ],
     "name:nld_x_preferred":[
         "Sint-Katelijne-Waver"
@@ -103,6 +112,12 @@
     "name:swe_x_preferred":[
         "Sint-Katelijne-Waver"
     ],
+    "name:tur_x_preferred":[
+        "Sint-Katelijne-Waver"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0456\u043d\u0442-\u041a\u0430\u0442\u0435\u043b\u0435\u0439\u043d\u0435-\u0412\u0430\u0432\u0435\u0440"
+    ],
     "name:vie_x_preferred":[
         "Sint-Katelijne-Waver"
     ],
@@ -111,6 +126,9 @@
     ],
     "name:war_x_preferred":[
         "Sint-Katelijne-Waver"
+    ],
+    "name:zea_x_preferred":[
+        "Sint-Kateliene-Waver"
     ],
     "name:zho_x_preferred":[
         "\u5723\u5361\u7279\u83b1\u5a1c-\u74e6\u5f17\u5c14"
@@ -172,7 +190,7 @@
         }
     ],
     "wof:id":1125811659,
-    "wof:lastmodified":1566612086,
+    "wof:lastmodified":1690856750,
     "wof:name":"St.-Katelijne-Waver",
     "wof:parent_id":1108830007,
     "wof:placetype":"locality",

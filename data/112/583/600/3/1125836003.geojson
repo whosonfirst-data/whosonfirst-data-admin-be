@@ -37,6 +37,9 @@
     "name:fra_x_preferred":[
         "Watervliet"
     ],
+    "name:gle_x_preferred":[
+        "Watervliet"
+    ],
     "name:hun_x_preferred":[
         "Watervliet"
     ],
@@ -111,7 +114,7 @@
         }
     ],
     "wof:id":1125836003,
-    "wof:lastmodified":1566612258,
+    "wof:lastmodified":1690856927,
     "wof:name":"Watervliet",
     "wof:parent_id":1108830091,
     "wof:placetype":"locality",

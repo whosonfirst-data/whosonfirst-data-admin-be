@@ -31,6 +31,9 @@
     "name:fra_x_preferred":[
         "Huccorgne"
     ],
+    "name:gle_x_preferred":[
+        "Huccorgne"
+    ],
     "name:hun_x_preferred":[
         "Huccorgne"
     ],
@@ -97,7 +100,7 @@
         }
     ],
     "wof:id":1125891267,
-    "wof:lastmodified":1566612104,
+    "wof:lastmodified":1690856768,
     "wof:name":"Huccorgne",
     "wof:parent_id":102049925,
     "wof:placetype":"locality",

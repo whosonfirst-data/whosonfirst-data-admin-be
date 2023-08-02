@@ -28,6 +28,9 @@
     "name:fra_x_preferred":[
         "Mettekoven"
     ],
+    "name:gle_x_preferred":[
+        "Mettekoven"
+    ],
     "name:hun_x_preferred":[
         "Mettekoven"
     ],
@@ -91,7 +94,7 @@
         }
     ],
     "wof:id":1125861227,
-    "wof:lastmodified":1566612083,
+    "wof:lastmodified":1690856745,
     "wof:name":"Mettekoven",
     "wof:parent_id":1108830275,
     "wof:placetype":"locality",

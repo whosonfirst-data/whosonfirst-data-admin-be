@@ -28,6 +28,9 @@
     "name:fra_x_preferred":[
         "Hekelgem"
     ],
+    "name:gle_x_preferred":[
+        "Hekelgem"
+    ],
     "name:hun_x_preferred":[
         "Hekelgem"
     ],
@@ -91,7 +94,7 @@
         }
     ],
     "wof:id":1126058885,
-    "wof:lastmodified":1566612053,
+    "wof:lastmodified":1690856711,
     "wof:name":"Hekelgem",
     "wof:parent_id":1108830109,
     "wof:placetype":"locality",

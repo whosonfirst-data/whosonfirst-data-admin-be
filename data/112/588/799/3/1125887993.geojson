@@ -31,6 +31,9 @@
     "name:fra_x_preferred":[
         "Ragnies"
     ],
+    "name:gle_x_preferred":[
+        "Ragnies"
+    ],
     "name:hun_x_preferred":[
         "Ragnies"
     ],
@@ -97,7 +100,7 @@
         }
     ],
     "wof:id":1125887993,
-    "wof:lastmodified":1566612090,
+    "wof:lastmodified":1690856755,
     "wof:name":"Ragnies",
     "wof:parent_id":102049923,
     "wof:placetype":"locality",

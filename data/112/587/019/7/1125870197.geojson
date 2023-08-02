@@ -22,16 +22,28 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:deu_x_preferred":[
+        "Sint-Baafs-Vijve"
+    ],
     "name:eng_x_preferred":[
         "Sint-Baafs-Vijve"
     ],
     "name:fra_x_preferred":[
         "Vive-Saint-Bavon"
     ],
+    "name:gle_x_preferred":[
+        "Sint-Baafs-Vijve"
+    ],
     "name:hun_x_preferred":[
         "Sint-Baafs-Vijve"
     ],
+    "name:ita_x_preferred":[
+        "Sint-Baafs-Vijve"
+    ],
     "name:nld_x_preferred":[
+        "Sint-Baafs-Vijve"
+    ],
+    "name:spa_x_preferred":[
         "Sint-Baafs-Vijve"
     ],
     "name:vls_x_preferred":[
@@ -91,7 +103,7 @@
         }
     ],
     "wof:id":1125870197,
-    "wof:lastmodified":1566612116,
+    "wof:lastmodified":1690856782,
     "wof:name":"St.-Baafs-Vijve",
     "wof:parent_id":1108830341,
     "wof:placetype":"locality",

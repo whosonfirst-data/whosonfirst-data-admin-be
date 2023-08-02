@@ -28,6 +28,9 @@
     "name:fra_x_preferred":[
         "Varendonk"
     ],
+    "name:gle_x_preferred":[
+        "Varendonk"
+    ],
     "name:hun_x_preferred":[
         "Varendonk"
     ],
@@ -93,7 +96,7 @@
         }
     ],
     "wof:id":1125832883,
-    "wof:lastmodified":1566612255,
+    "wof:lastmodified":1690856923,
     "wof:name":"Varendonk",
     "wof:parent_id":1108830163,
     "wof:placetype":"locality",

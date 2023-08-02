@@ -22,6 +22,9 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Chauss\u00e9e-Notre-Dame-Louvignies"
+    ],
     "name:ceb_x_preferred":[
         "Chauss\u00e9e-Notre-Dame-Louvignies"
     ],
@@ -29,6 +32,9 @@
         "Chauss\u00e9e-Notre-Dame-Louvignies"
     ],
     "name:fra_x_preferred":[
+        "Chauss\u00e9e-Notre-Dame-Louvignies"
+    ],
+    "name:gle_x_preferred":[
         "Chauss\u00e9e-Notre-Dame-Louvignies"
     ],
     "name:hun_x_preferred":[
@@ -90,7 +96,7 @@
         }
     ],
     "wof:id":1126034549,
-    "wof:lastmodified":1566612070,
+    "wof:lastmodified":1690856733,
     "wof:name":"Chauss\u00e9e-Notre-Dame-Louvignies",
     "wof:parent_id":102049943,
     "wof:placetype":"locality",

@@ -25,7 +25,13 @@
     "name:bul_x_preferred":[
         "\u041d\u0438\u043c\u0439"
     ],
+    "name:cat_x_preferred":[
+        "Nimy"
+    ],
     "name:ceb_x_preferred":[
+        "Nimy"
+    ],
+    "name:deu_x_preferred":[
         "Nimy"
     ],
     "name:ell_x_preferred":[
@@ -37,10 +43,16 @@
     "name:fra_x_preferred":[
         "Nimy"
     ],
+    "name:gle_x_preferred":[
+        "Nimy"
+    ],
     "name:hun_x_preferred":[
         "Nimy"
     ],
     "name:nld_x_preferred":[
+        "Nimy"
+    ],
+    "name:ron_x_preferred":[
         "Nimy"
     ],
     "name:swe_x_preferred":[
@@ -101,7 +113,7 @@
         }
     ],
     "wof:id":1125799539,
-    "wof:lastmodified":1566612218,
+    "wof:lastmodified":1690856876,
     "wof:name":"Nimy",
     "wof:parent_id":102049933,
     "wof:placetype":"locality",

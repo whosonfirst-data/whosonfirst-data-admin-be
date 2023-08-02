@@ -35,6 +35,9 @@
     "name:fra_x_preferred":[
         "Flanders Expo"
     ],
+    "name:jpn_x_preferred":[
+        "\u30d5\u30e9\u30f3\u30c0\u30fc\u30b9\u30fb\u30a8\u30ad\u30b9\u30dd"
+    ],
     "name:nld_x_preferred":[
         "Flanders Expo"
     ],
@@ -106,7 +109,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1582345518,
+    "wof:lastmodified":1690856418,
     "wof:name":"Flanders Expo",
     "wof:parent_id":101748093,
     "wof:placetype":"neighbourhood",

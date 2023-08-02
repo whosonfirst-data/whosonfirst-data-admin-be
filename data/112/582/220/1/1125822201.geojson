@@ -22,6 +22,9 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Humain"
+    ],
     "name:deu_x_preferred":[
         "Humain"
     ],
@@ -30,6 +33,12 @@
     ],
     "name:fra_x_preferred":[
         "Humain"
+    ],
+    "name:gle_x_preferred":[
+        "Humain"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30e6\u30de\u30f3"
     ],
     "name:ltz_x_preferred":[
         "Humain"
@@ -97,7 +106,7 @@
         }
     ],
     "wof:id":1125822201,
-    "wof:lastmodified":1566612194,
+    "wof:lastmodified":1690856849,
     "wof:name":"Humain",
     "wof:parent_id":102049921,
     "wof:placetype":"locality",

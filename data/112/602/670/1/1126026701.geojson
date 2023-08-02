@@ -61,6 +61,9 @@
     "name:fra_x_preferred":[
         "Merelbeke"
     ],
+    "name:gle_x_preferred":[
+        "Merelbeke"
+    ],
     "name:hun_x_preferred":[
         "Merelbeke"
     ],
@@ -181,7 +184,7 @@
         }
     ],
     "wof:id":1126026701,
-    "wof:lastmodified":1566612047,
+    "wof:lastmodified":1690856704,
     "wof:name":"Merelbeke",
     "wof:parent_id":1108830115,
     "wof:placetype":"locality",

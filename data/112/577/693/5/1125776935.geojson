@@ -37,6 +37,9 @@
     "name:fra_x_preferred":[
         "Anser\u0153ul"
     ],
+    "name:gle_x_preferred":[
+        "Anser\u0153ul"
+    ],
     "name:hun_x_preferred":[
         "Anser\u0153ul"
     ],
@@ -96,7 +99,7 @@
         }
     ],
     "wof:id":1125776935,
-    "wof:lastmodified":1566612238,
+    "wof:lastmodified":1690856900,
     "wof:name":"Anseroeul",
     "wof:parent_id":102049951,
     "wof:placetype":"locality",

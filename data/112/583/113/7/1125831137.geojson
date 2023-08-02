@@ -22,10 +22,22 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Bouvignes-sur-Meuse"
+    ],
+    "name:dan_x_preferred":[
+        "Bouvignes-sur-Meuse"
+    ],
+    "name:deu_x_preferred":[
+        "Bouvignes-sur-Meuse"
+    ],
     "name:eng_x_preferred":[
         "Bouvignes-sur-Meuse"
     ],
     "name:fra_x_preferred":[
+        "Bouvignes-sur-Meuse"
+    ],
+    "name:gle_x_preferred":[
         "Bouvignes-sur-Meuse"
     ],
     "name:hun_x_preferred":[
@@ -41,6 +53,9 @@
         "Bouvignes-sur-Meuse"
     ],
     "name:spa_x_preferred":[
+        "Bouvignes-sur-Meuse"
+    ],
+    "name:swe_x_preferred":[
         "Bouvignes-sur-Meuse"
     ],
     "name:und_x_variant":[
@@ -101,7 +116,7 @@
         }
     ],
     "wof:id":1125831137,
-    "wof:lastmodified":1566612258,
+    "wof:lastmodified":1690856927,
     "wof:name":"Bouvignes-sur-Meuse",
     "wof:parent_id":102049919,
     "wof:placetype":"locality",

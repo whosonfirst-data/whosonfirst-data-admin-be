@@ -22,6 +22,9 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Schoenberg"
+    ],
     "name:deu_x_preferred":[
         "Sch\u00f6nberg"
     ],
@@ -29,6 +32,9 @@
         "Schoenberg"
     ],
     "name:fra_x_preferred":[
+        "Schoenberg"
+    ],
+    "name:gle_x_preferred":[
         "Schoenberg"
     ],
     "name:hun_x_preferred":[
@@ -94,7 +100,7 @@
         }
     ],
     "wof:id":1125830071,
-    "wof:lastmodified":1566612255,
+    "wof:lastmodified":1690856923,
     "wof:name":"Schoenberg",
     "wof:parent_id":102049935,
     "wof:placetype":"locality",

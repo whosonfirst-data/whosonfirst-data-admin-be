@@ -31,6 +31,9 @@
     "name:fra_x_preferred":[
         "Pipaix"
     ],
+    "name:gle_x_preferred":[
+        "Pipaix"
+    ],
     "name:hun_x_preferred":[
         "Pipaix"
     ],
@@ -89,7 +92,7 @@
         }
     ],
     "wof:id":1126026487,
-    "wof:lastmodified":1566612048,
+    "wof:lastmodified":1690856704,
     "wof:name":"Pipaix",
     "wof:parent_id":102049949,
     "wof:placetype":"locality",

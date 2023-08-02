@@ -28,6 +28,9 @@
     "name:fra_x_preferred":[
         "Werm"
     ],
+    "name:gle_x_preferred":[
+        "Werm"
+    ],
     "name:hun_x_preferred":[
         "Werm"
     ],
@@ -91,7 +94,7 @@
         }
     ],
     "wof:id":1125906717,
-    "wof:lastmodified":1566612142,
+    "wof:lastmodified":1690856801,
     "wof:name":"Werm",
     "wof:parent_id":1108830661,
     "wof:placetype":"locality",

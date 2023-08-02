@@ -22,10 +22,16 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Jamagne"
+    ],
     "name:eng_x_preferred":[
         "Jamagne"
     ],
     "name:fra_x_preferred":[
+        "Jamagne"
+    ],
+    "name:gle_x_preferred":[
         "Jamagne"
     ],
     "name:nld_x_preferred":[
@@ -84,7 +90,7 @@
         }
     ],
     "wof:id":1125778271,
-    "wof:lastmodified":1566612234,
+    "wof:lastmodified":1690856895,
     "wof:name":"Jamagne",
     "wof:parent_id":102049917,
     "wof:placetype":"locality",

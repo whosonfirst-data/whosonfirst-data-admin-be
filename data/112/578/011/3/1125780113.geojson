@@ -28,6 +28,9 @@
     "name:fra_x_preferred":[
         "Smetlede"
     ],
+    "name:gle_x_preferred":[
+        "Smetlede"
+    ],
     "name:hun_x_preferred":[
         "Smetlede"
     ],
@@ -86,7 +89,7 @@
         }
     ],
     "wof:id":1125780113,
-    "wof:lastmodified":1566612211,
+    "wof:lastmodified":1690856871,
     "wof:name":"Smetlede",
     "wof:parent_id":1108830331,
     "wof:placetype":"locality",

@@ -31,6 +31,9 @@
     "name:fra_x_preferred":[
         "Itterbeek"
     ],
+    "name:gle_x_preferred":[
+        "Itterbeek"
+    ],
     "name:hun_x_preferred":[
         "Itterbeek"
     ],
@@ -94,7 +97,7 @@
         }
     ],
     "wof:id":1125902021,
-    "wof:lastmodified":1566612140,
+    "wof:lastmodified":1690856799,
     "wof:name":"Itterbeek",
     "wof:parent_id":1108830207,
     "wof:placetype":"locality",

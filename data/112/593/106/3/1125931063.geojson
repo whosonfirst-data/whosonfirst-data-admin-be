@@ -28,6 +28,9 @@
     "name:fra_x_preferred":[
         "Hellebecq"
     ],
+    "name:gle_x_preferred":[
+        "Hellebecq"
+    ],
     "name:hun_x_preferred":[
         "Hellebecq"
     ],
@@ -86,7 +89,7 @@
         }
     ],
     "wof:id":1125931063,
-    "wof:lastmodified":1566612020,
+    "wof:lastmodified":1690856684,
     "wof:name":"Hellebecq",
     "wof:parent_id":102049943,
     "wof:placetype":"locality",

@@ -25,6 +25,9 @@
     "name:bul_x_preferred":[
         "\u0412\u043b\u0435\u043a\u0435\u043c"
     ],
+    "name:cat_x_preferred":[
+        "Vlekkem"
+    ],
     "name:ceb_x_preferred":[
         "Vlekkem"
     ],
@@ -38,6 +41,9 @@
         "\u0648\u0644\u06a9\u0645"
     ],
     "name:fra_x_preferred":[
+        "Vlekkem"
+    ],
+    "name:gle_x_preferred":[
         "Vlekkem"
     ],
     "name:hun_x_preferred":[
@@ -104,7 +110,7 @@
         }
     ],
     "wof:id":1126021613,
-    "wof:lastmodified":1566612044,
+    "wof:lastmodified":1690856699,
     "wof:name":"Vlekkem",
     "wof:parent_id":1108830215,
     "wof:placetype":"locality",

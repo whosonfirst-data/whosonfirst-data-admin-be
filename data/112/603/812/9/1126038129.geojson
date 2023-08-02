@@ -25,6 +25,12 @@
     "name:ara_x_preferred":[
         "\u0633\u0627\u0646 \u0645\u064a\u0634\u064a\u0644"
     ],
+    "name:arz_x_preferred":[
+        "\u0633\u0627\u0646 \u0645\u064a\u0634\u064a\u0644"
+    ],
+    "name:cat_x_preferred":[
+        "Sint-Michiels"
+    ],
     "name:ceb_x_preferred":[
         "Sint-Michiels"
     ],
@@ -55,6 +61,9 @@
     "name:fra_x_variant":[
         "Sint-Michiels",
         "Saint-Michel"
+    ],
+    "name:gle_x_preferred":[
+        "Sint-Michiels"
     ],
     "name:hun_x_preferred":[
         "Sint-Michiels"
@@ -130,7 +139,7 @@
         }
     ],
     "wof:id":1126038129,
-    "wof:lastmodified":1566612071,
+    "wof:lastmodified":1690856735,
     "wof:name":"St.-Michiels",
     "wof:parent_id":1108830689,
     "wof:placetype":"locality",

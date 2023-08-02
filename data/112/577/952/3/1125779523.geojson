@@ -28,14 +28,23 @@
     "name:fra_x_preferred":[
         "Opgrimbie"
     ],
+    "name:gle_x_preferred":[
+        "Opgrimbie"
+    ],
     "name:hun_x_preferred":[
         "Opgrimbie"
+    ],
+    "name:lim_x_preferred":[
+        "Grumme"
     ],
     "name:nld_x_preferred":[
         "Opgrimbie"
     ],
     "name:und_x_variant":[
         "Opgrimby"
+    ],
+    "name:zho_x_preferred":[
+        "\u5965\u666e\u8d6b\u6797\u6bd4"
     ],
     "qs_pg:aaroncc":"BE",
     "qs_pg:gn_country":"BE",
@@ -89,7 +98,7 @@
         }
     ],
     "wof:id":1125779523,
-    "wof:lastmodified":1566612234,
+    "wof:lastmodified":1690856894,
     "wof:name":"Opgrimbie",
     "wof:parent_id":1108830295,
     "wof:placetype":"locality",

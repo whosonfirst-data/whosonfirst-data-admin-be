@@ -55,6 +55,9 @@
     "name:fra_x_preferred":[
         "Daverdisse"
     ],
+    "name:gle_x_preferred":[
+        "Daverdisse"
+    ],
     "name:hun_x_preferred":[
         "Daverdisse"
     ],
@@ -106,8 +109,14 @@
     "name:wln_x_preferred":[
         "D\u00e5vdisse"
     ],
+    "name:zea_x_preferred":[
+        "Daverdisse"
+    ],
     "name:zho_x_preferred":[
         "\u8fbe\u5f17\u5c14\u8fea\u65af"
+    ],
+    "name:zho_x_variant":[
+        "\u8fbe\u97e6\u8fea\u65af"
     ],
     "qs_pg:aaroncc":"BE",
     "qs_pg:gn_country":"BE",
@@ -164,7 +173,7 @@
         }
     ],
     "wof:id":1126036329,
-    "wof:lastmodified":1566612070,
+    "wof:lastmodified":1690856733,
     "wof:name":"Daverdisse",
     "wof:parent_id":102049913,
     "wof:placetype":"locality",

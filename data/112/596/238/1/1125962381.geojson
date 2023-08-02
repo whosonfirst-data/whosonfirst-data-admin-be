@@ -31,6 +31,12 @@
     "name:fra_x_preferred":[
         "Bolland"
     ],
+    "name:gle_x_preferred":[
+        "Bolland"
+    ],
+    "name:lat_x_preferred":[
+        "Bollandum"
+    ],
     "name:ltz_x_preferred":[
         "Bolland"
     ],
@@ -92,7 +98,7 @@
         }
     ],
     "wof:id":1125962381,
-    "wof:lastmodified":1566612162,
+    "wof:lastmodified":1690856812,
     "wof:name":"Bolland",
     "wof:parent_id":102049935,
     "wof:placetype":"locality",

@@ -22,6 +22,9 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Petit-Rechain"
+    ],
     "name:deu_x_preferred":[
         "Petit-Rechain"
     ],
@@ -29,6 +32,9 @@
         "Petit-Rechain"
     ],
     "name:fra_x_preferred":[
+        "Petit-Rechain"
+    ],
+    "name:gle_x_preferred":[
         "Petit-Rechain"
     ],
     "name:ita_x_preferred":[
@@ -97,7 +103,7 @@
         }
     ],
     "wof:id":1126047031,
-    "wof:lastmodified":1566612065,
+    "wof:lastmodified":1690856726,
     "wof:name":"Petit-Rechain",
     "wof:parent_id":102049935,
     "wof:placetype":"locality",

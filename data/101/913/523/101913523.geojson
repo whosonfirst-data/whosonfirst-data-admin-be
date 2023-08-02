@@ -6,9 +6,9 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":526.973594,
-    "geom:bbox":"5.10822355498,51.0394275423,5.10837885508,51.0408994368",
+    "geom:bbox":"5.108224,51.039428,5.108379,51.040899",
     "geom:latitude":51.039919,
-    "geom:longitude":5.108296,
+    "geom:longitude":5.108297,
     "iso:country":"BE",
     "lbl:latitude":51.039475,
     "lbl:longitude":5.108329,
@@ -25,11 +25,17 @@
     "name:ara_x_preferred":[
         "\u0647\u0648\u0644\u0633\u062a"
     ],
+    "name:arz_x_preferred":[
+        "\u0647\u0648\u0644\u0633\u062a"
+    ],
     "name:ast_x_preferred":[
         "Hulst"
     ],
     "name:bre_x_preferred":[
         "Hulst"
+    ],
+    "name:bul_x_preferred":[
+        "\u0425\u0443\u043b\u0441\u0442"
     ],
     "name:cat_x_preferred":[
         "Hulst"
@@ -37,13 +43,22 @@
     "name:ceb_x_preferred":[
         "Gemeente Hulst"
     ],
+    "name:ces_x_preferred":[
+        "Hulst"
+    ],
     "name:dan_x_preferred":[
         "Hulst"
     ],
     "name:deu_x_preferred":[
         "Hulst"
     ],
+    "name:ell_x_preferred":[
+        "\u03a7\u03bf\u03c5\u03bb\u03c3\u03c4"
+    ],
     "name:eng_x_preferred":[
+        "Hulst"
+    ],
+    "name:epo_x_preferred":[
         "Hulst"
     ],
     "name:eus_x_preferred":[
@@ -61,6 +76,9 @@
     "name:gle_x_preferred":[
         "Hulst"
     ],
+    "name:hun_x_preferred":[
+        "Hulst"
+    ],
     "name:hye_x_preferred":[
         "\u0540\u0578\u0582\u056c\u057d\u057f"
     ],
@@ -70,11 +88,23 @@
     "name:ita_x_preferred":[
         "Hulst"
     ],
+    "name:jpn_x_preferred":[
+        "\u30d5\u30eb\u30b9\u30c8"
+    ],
+    "name:kur_x_preferred":[
+        "Hulst"
+    ],
+    "name:lav_x_preferred":[
+        "Hilsta"
+    ],
     "name:lim_x_preferred":[
         "Hulst"
     ],
     "name:ltz_x_preferred":[
         "Hulst"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0425\u0443\u043b\u0441\u0442"
     ],
     "name:msa_x_preferred":[
         "Hulst"
@@ -122,6 +152,12 @@
         "Hulst"
     ],
     "name:tur_x_preferred":[
+        "Hulst"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0425\u044e\u043b\u044c\u0441\u0442"
+    ],
+    "name:vec_x_preferred":[
         "Hulst"
     ],
     "name:vls_x_preferred":[
@@ -172,7 +208,7 @@
         "wd:id":"Q10073"
     },
     "wof:country":"BE",
-    "wof:geomhash":"593afc424b6bf357e51f7d049ccbf97d",
+    "wof:geomhash":"244b36b197992923c208d09c51e95e28",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -185,7 +221,7 @@
         }
     ],
     "wof:id":101913523,
-    "wof:lastmodified":1566611907,
+    "wof:lastmodified":1690856579,
     "wof:name":"Hulst",
     "wof:parent_id":1108830307,
     "wof:placetype":"locality",
@@ -195,10 +231,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    5.1082235549784,
-    51.0394275422517,
-    5.10837885508448,
-    51.04089943681123
+    5.108224,
+    51.039428,
+    5.108379,
+    51.040899
 ],
-  "geometry": {"coordinates":[[[5.10828692532897,51.0394275422517],[5.1082235549784,51.04089943681123],[5.10837885508448,51.0394314269862],[5.10828692532897,51.0394275422517]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[5.108287,51.039428],[5.108224,51.040899],[5.108379,51.039431],[5.108287,51.039428]]],"type":"Polygon"}
 }

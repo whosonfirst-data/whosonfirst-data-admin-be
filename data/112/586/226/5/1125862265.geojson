@@ -52,6 +52,9 @@
     "name:fra_x_preferred":[
         "Dison"
     ],
+    "name:gle_x_preferred":[
+        "Dison"
+    ],
     "name:hun_x_preferred":[
         "Dison"
     ],
@@ -106,6 +109,9 @@
     "name:wln_x_preferred":[
         "Dizon"
     ],
+    "name:zea_x_preferred":[
+        "Dison"
+    ],
     "name:zho_x_preferred":[
         "\u8fea\u677e"
     ],
@@ -150,7 +156,7 @@
         }
     ],
     "wof:id":1125862265,
-    "wof:lastmodified":1566612077,
+    "wof:lastmodified":1690856738,
     "wof:name":"Dison",
     "wof:parent_id":102049935,
     "wof:placetype":"locality",

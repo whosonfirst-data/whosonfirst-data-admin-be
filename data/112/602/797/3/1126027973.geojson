@@ -22,10 +22,16 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Henripont"
+    ],
     "name:eng_x_preferred":[
         "Henripont"
     ],
     "name:fra_x_preferred":[
+        "Henripont"
+    ],
+    "name:gle_x_preferred":[
         "Henripont"
     ],
     "name:hun_x_preferred":[
@@ -88,7 +94,7 @@
         }
     ],
     "wof:id":1126027973,
-    "wof:lastmodified":1566612043,
+    "wof:lastmodified":1690856698,
     "wof:name":"Henripont",
     "wof:parent_id":102049943,
     "wof:placetype":"locality",

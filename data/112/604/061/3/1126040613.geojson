@@ -127,6 +127,9 @@
     "name:ita_x_preferred":[
         "Aartselaar"
     ],
+    "name:jpn_x_preferred":[
+        "\u30a2\u30fc\u30eb\u30c4\u30a7\u30e9\u30fc\u30eb"
+    ],
     "name:kon_x_preferred":[
         "Aartselaar"
     ],
@@ -217,6 +220,9 @@
     "name:swe_x_preferred":[
         "Aartselaar"
     ],
+    "name:tur_x_preferred":[
+        "Aartselaar"
+    ],
     "name:und_x_variant":[
         "Aertselaer"
     ],
@@ -244,8 +250,14 @@
     "name:wol_x_preferred":[
         "Aartselaar"
     ],
+    "name:zea_x_preferred":[
+        "Aertselaer"
+    ],
     "name:zho_x_preferred":[
         "\u963f\u5c14\u7279\u65af\u62c9\u5c14"
+    ],
+    "name:zho_x_variant":[
+        "\u963f\u5c14\u7b56\u62c9\u5c14"
     ],
     "name:zul_x_preferred":[
         "Aartselaar"
@@ -307,7 +319,7 @@
         }
     ],
     "wof:id":1126040613,
-    "wof:lastmodified":1566612067,
+    "wof:lastmodified":1690856729,
     "wof:name":"Aartselaar",
     "wof:parent_id":1108830013,
     "wof:placetype":"locality",

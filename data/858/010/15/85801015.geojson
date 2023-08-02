@@ -56,6 +56,9 @@
     "name:fra_x_preferred":[
         "Kraainem"
     ],
+    "name:gle_x_preferred":[
+        "Kraainem"
+    ],
     "name:hun_x_preferred":[
         "Kraainem"
     ],
@@ -113,8 +116,14 @@
     "name:war_x_preferred":[
         "Kraainem"
     ],
+    "name:zea_x_preferred":[
+        "Kraainem"
+    ],
     "name:zho_x_preferred":[
         "\u514b\u8d56\u5185\u59c6"
+    ],
+    "name:zho_x_variant":[
+        "\u514b\u62c9\u4f0a\u5185\u59c6"
     ],
     "qs:gn_id":0,
     "qs:gn_local":0,
@@ -181,7 +190,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1582345519,
+    "wof:lastmodified":1690856422,
     "wof:name":"Crainhem",
     "wof:parent_id":101913231,
     "wof:placetype":"neighbourhood",

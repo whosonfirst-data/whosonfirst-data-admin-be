@@ -22,10 +22,16 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Mazenzele"
+    ],
     "name:eng_x_preferred":[
         "Mazenzele"
     ],
     "name:fra_x_preferred":[
+        "Mazenzele"
+    ],
+    "name:gle_x_preferred":[
         "Mazenzele"
     ],
     "name:hun_x_preferred":[
@@ -94,7 +100,7 @@
         }
     ],
     "wof:id":1125863833,
-    "wof:lastmodified":1566612079,
+    "wof:lastmodified":1690856740,
     "wof:name":"Mazenzele",
     "wof:parent_id":1108830247,
     "wof:placetype":"locality",

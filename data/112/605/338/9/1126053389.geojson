@@ -28,6 +28,9 @@
     "name:fra_x_preferred":[
         "Oplinter"
     ],
+    "name:gle_x_preferred":[
+        "Oplinter"
+    ],
     "name:hun_x_preferred":[
         "Oplinter"
     ],
@@ -36,6 +39,9 @@
     ],
     "name:und_x_variant":[
         "Tienen (Oplinter)"
+    ],
+    "name:wln_x_preferred":[
+        "H\u00f4te L\u00e9nte"
     ],
     "qs_pg:aaroncc":"BE",
     "qs_pg:gn_country":"BE",
@@ -89,7 +95,7 @@
         }
     ],
     "wof:id":1126053389,
-    "wof:lastmodified":1566612049,
+    "wof:lastmodified":1690856707,
     "wof:name":"Oplinter",
     "wof:parent_id":1108830017,
     "wof:placetype":"locality",

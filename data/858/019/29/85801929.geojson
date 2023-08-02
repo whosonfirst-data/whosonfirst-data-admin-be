@@ -38,6 +38,9 @@
     "name:nld_x_preferred":[
         "Sainte-Walburge"
     ],
+    "name:zho_x_preferred":[
+        "\u5723\u74e6\u5c14\u6bd4\u70ed"
+    ],
     "src:geom":"mz",
     "src:geom_alt":[
         "quattroshapes_pg",
@@ -80,7 +83,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1582345519,
+    "wof:lastmodified":1690856423,
     "wof:name":"Ste.-Walburge",
     "wof:parent_id":101748083,
     "wof:placetype":"neighbourhood",

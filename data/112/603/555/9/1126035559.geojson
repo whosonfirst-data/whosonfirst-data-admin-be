@@ -28,10 +28,16 @@
     "name:fra_x_preferred":[
         "Poupehan"
     ],
+    "name:gle_x_preferred":[
+        "Poupehan"
+    ],
     "name:hun_x_preferred":[
         "Poupehan"
     ],
     "name:lim_x_preferred":[
+        "Poupehan"
+    ],
+    "name:ltz_x_preferred":[
         "Poupehan"
     ],
     "name:nld_x_preferred":[
@@ -94,7 +100,7 @@
         }
     ],
     "wof:id":1126035559,
-    "wof:lastmodified":1566612071,
+    "wof:lastmodified":1690856734,
     "wof:name":"Poupehan",
     "wof:parent_id":102049913,
     "wof:placetype":"locality",

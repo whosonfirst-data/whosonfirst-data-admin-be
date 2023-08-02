@@ -31,6 +31,9 @@
     "name:fra_x_preferred":[
         "Lixhe"
     ],
+    "name:gle_x_preferred":[
+        "Lixhe"
+    ],
     "name:hun_x_preferred":[
         "Lixhe"
     ],
@@ -39,6 +42,9 @@
     ],
     "name:nld_x_preferred":[
         "Lieze"
+    ],
+    "name:ron_x_preferred":[
+        "Lixhe"
     ],
     "name:wln_x_preferred":[
         "Lixhe"
@@ -95,7 +101,7 @@
         }
     ],
     "wof:id":1126016869,
-    "wof:lastmodified":1566612171,
+    "wof:lastmodified":1690856820,
     "wof:name":"Lixhe",
     "wof:parent_id":102049941,
     "wof:placetype":"locality",

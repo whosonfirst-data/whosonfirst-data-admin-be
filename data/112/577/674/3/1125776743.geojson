@@ -31,6 +31,9 @@
     "name:fra_x_preferred":[
         "Sainte-Marguerite"
     ],
+    "name:gle_x_preferred":[
+        "Sint-Margriete"
+    ],
     "name:hun_x_preferred":[
         "Sint-Margriete"
     ],
@@ -98,7 +101,7 @@
         }
     ],
     "wof:id":1125776743,
-    "wof:lastmodified":1566612236,
+    "wof:lastmodified":1690856897,
     "wof:name":"St.-Margriete",
     "wof:parent_id":1108830091,
     "wof:placetype":"locality",

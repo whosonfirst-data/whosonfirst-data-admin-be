@@ -28,6 +28,9 @@
     "name:fra_x_preferred":[
         "Lustin"
     ],
+    "name:gle_x_preferred":[
+        "Lustin"
+    ],
     "name:nld_x_preferred":[
         "Lustin"
     ],
@@ -86,7 +89,7 @@
         }
     ],
     "wof:id":1126058891,
-    "wof:lastmodified":1566612052,
+    "wof:lastmodified":1690856709,
     "wof:name":"Lustin",
     "wof:parent_id":102049931,
     "wof:placetype":"locality",

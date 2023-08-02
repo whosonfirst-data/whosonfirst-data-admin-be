@@ -46,6 +46,9 @@
     "name:fra_x_preferred":[
         "Melsele"
     ],
+    "name:gle_x_preferred":[
+        "Melsele"
+    ],
     "name:hun_x_preferred":[
         "Melsele"
     ],
@@ -128,7 +131,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1582345518,
+    "wof:lastmodified":1690856420,
     "wof:name":"Melsele",
     "wof:parent_id":101837567,
     "wof:placetype":"neighbourhood",

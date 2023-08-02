@@ -28,6 +28,9 @@
     "name:fra_x_preferred":[
         "Nerem"
     ],
+    "name:gle_x_preferred":[
+        "Nerem"
+    ],
     "name:hun_x_preferred":[
         "Nerem"
     ],
@@ -91,7 +94,7 @@
         }
     ],
     "wof:id":1125884483,
-    "wof:lastmodified":1566612091,
+    "wof:lastmodified":1690856756,
     "wof:name":"Nerem",
     "wof:parent_id":1108830031,
     "wof:placetype":"locality",

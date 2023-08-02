@@ -22,10 +22,16 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Hemelveerdegem"
+    ],
     "name:eng_x_preferred":[
         "Hemelveerdegem"
     ],
     "name:fra_x_preferred":[
+        "Hemelveerdegem"
+    ],
+    "name:gle_x_preferred":[
         "Hemelveerdegem"
     ],
     "name:hun_x_preferred":[
@@ -93,7 +99,7 @@
         }
     ],
     "wof:id":1125895181,
-    "wof:lastmodified":1566612103,
+    "wof:lastmodified":1690856767,
     "wof:name":"Hemelveerdegem",
     "wof:parent_id":1108830669,
     "wof:placetype":"locality",

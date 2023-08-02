@@ -28,6 +28,9 @@
     "name:fra_x_preferred":[
         "Nieuwenhove"
     ],
+    "name:gle_x_preferred":[
+        "Nieuwenhove"
+    ],
     "name:hun_x_preferred":[
         "Nieuwenhove"
     ],
@@ -90,7 +93,7 @@
         }
     ],
     "wof:id":1125802327,
-    "wof:lastmodified":1566612110,
+    "wof:lastmodified":1690856775,
     "wof:name":"Nieuwenhove",
     "wof:parent_id":1108830403,
     "wof:placetype":"locality",

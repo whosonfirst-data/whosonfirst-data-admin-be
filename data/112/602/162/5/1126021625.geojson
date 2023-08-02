@@ -28,6 +28,9 @@
     "name:fra_x_preferred":[
         "Zonnegem"
     ],
+    "name:gle_x_preferred":[
+        "Zonnegem"
+    ],
     "name:hun_x_preferred":[
         "Zonnegem"
     ],
@@ -86,7 +89,7 @@
         }
     ],
     "wof:id":1126021625,
-    "wof:lastmodified":1566612047,
+    "wof:lastmodified":1690856702,
     "wof:name":"Zonnegem",
     "wof:parent_id":1108830121,
     "wof:placetype":"locality",

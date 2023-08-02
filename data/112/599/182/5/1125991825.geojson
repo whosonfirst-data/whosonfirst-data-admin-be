@@ -22,10 +22,19 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Abolens"
+    ],
+    "name:dan_x_preferred":[
+        "Abolens"
+    ],
     "name:eng_x_preferred":[
         "Abolens"
     ],
     "name:fra_x_preferred":[
+        "Abolens"
+    ],
+    "name:gle_x_preferred":[
         "Abolens"
     ],
     "name:hun_x_preferred":[
@@ -36,6 +45,9 @@
     ],
     "name:und_x_variant":[
         "Hannut (Abolens)"
+    ],
+    "name:wln_x_preferred":[
+        "Li B\u00f4lin"
     ],
     "qs_pg:aaroncc":"BE",
     "qs_pg:gn_country":"BE",
@@ -87,7 +99,7 @@
         }
     ],
     "wof:id":1125991825,
-    "wof:lastmodified":1566612138,
+    "wof:lastmodified":1690856796,
     "wof:name":"Abolens",
     "wof:parent_id":102049937,
     "wof:placetype":"locality",

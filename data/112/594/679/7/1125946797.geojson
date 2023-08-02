@@ -22,6 +22,9 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Harnoncourt"
+    ],
     "name:ceb_x_preferred":[
         "Harnoncourt"
     ],
@@ -29,6 +32,9 @@
         "Harnoncourt"
     ],
     "name:fra_x_preferred":[
+        "Harnoncourt"
+    ],
+    "name:gle_x_preferred":[
         "Harnoncourt"
     ],
     "name:hun_x_preferred":[
@@ -91,7 +97,7 @@
         }
     ],
     "wof:id":1125946797,
-    "wof:lastmodified":1566612017,
+    "wof:lastmodified":1690856679,
     "wof:name":"Harnoncourt",
     "wof:parent_id":102049907,
     "wof:placetype":"locality",

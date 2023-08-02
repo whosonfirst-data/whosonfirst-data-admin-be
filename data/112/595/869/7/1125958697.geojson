@@ -22,10 +22,16 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:deu_x_preferred":[
+        "Zegelsem"
+    ],
     "name:eng_x_preferred":[
         "Zegelsem"
     ],
     "name:fra_x_preferred":[
+        "Zegelsem"
+    ],
+    "name:gle_x_preferred":[
         "Zegelsem"
     ],
     "name:hun_x_preferred":[
@@ -91,7 +97,7 @@
         }
     ],
     "wof:id":1125958697,
-    "wof:lastmodified":1566612030,
+    "wof:lastmodified":1690856692,
     "wof:name":"Zegelsem",
     "wof:parent_id":1108830545,
     "wof:placetype":"locality",

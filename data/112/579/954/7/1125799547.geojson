@@ -28,7 +28,13 @@
     "name:fra_x_preferred":[
         "Pellaines"
     ],
+    "name:gle_x_preferred":[
+        "Pellaines"
+    ],
     "name:hun_x_preferred":[
+        "Pellaines"
+    ],
+    "name:ltz_x_preferred":[
         "Pellaines"
     ],
     "name:nld_x_preferred":[
@@ -89,7 +95,7 @@
         }
     ],
     "wof:id":1125799547,
-    "wof:lastmodified":1566612218,
+    "wof:lastmodified":1690856876,
     "wof:name":"Pellaines",
     "wof:parent_id":102049937,
     "wof:placetype":"locality",

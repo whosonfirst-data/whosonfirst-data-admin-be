@@ -28,6 +28,9 @@
     "name:fra_x_preferred":[
         "Nieuwrode"
     ],
+    "name:gle_x_preferred":[
+        "Nieuwrode"
+    ],
     "name:hun_x_preferred":[
         "Nieuwrode"
     ],
@@ -93,7 +96,7 @@
         }
     ],
     "wof:id":1125766577,
-    "wof:lastmodified":1566612199,
+    "wof:lastmodified":1690856856,
     "wof:name":"Nieuwrode",
     "wof:parent_id":1108830435,
     "wof:placetype":"locality",

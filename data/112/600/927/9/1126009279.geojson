@@ -22,6 +22,9 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Melsbroek"
+    ],
     "name:deu_x_preferred":[
         "Kategorie:Melsbroek"
     ],
@@ -29,6 +32,9 @@
         "Melsbroek"
     ],
     "name:fra_x_preferred":[
+        "Melsbroek"
+    ],
+    "name:gle_x_preferred":[
         "Melsbroek"
     ],
     "name:jpn_x_preferred":[
@@ -96,7 +102,7 @@
         }
     ],
     "wof:id":1126009279,
-    "wof:lastmodified":1566612188,
+    "wof:lastmodified":1690856845,
     "wof:name":"Melsbroek",
     "wof:parent_id":1108830137,
     "wof:placetype":"locality",

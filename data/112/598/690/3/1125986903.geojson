@@ -31,6 +31,9 @@
     "name:fra_x_preferred":[
         "Ch\u00e2telineau"
     ],
+    "name:gle_x_preferred":[
+        "Ch\u00e2telineau"
+    ],
     "name:hun_x_preferred":[
         "Ch\u00e2telineau"
     ],
@@ -95,7 +98,7 @@
         }
     ],
     "wof:id":1125986903,
-    "wof:lastmodified":1566612166,
+    "wof:lastmodified":1690856817,
     "wof:name":"Ch\u00e2telineau",
     "wof:parent_id":102049927,
     "wof:placetype":"locality",

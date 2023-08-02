@@ -43,6 +43,9 @@
     "name:fra_x_variant":[
         "Keyem"
     ],
+    "name:gle_x_preferred":[
+        "Keiem"
+    ],
     "name:hun_x_preferred":[
         "Keiem"
     ],
@@ -112,7 +115,7 @@
         }
     ],
     "wof:id":1125778411,
-    "wof:lastmodified":1566612246,
+    "wof:lastmodified":1690856911,
     "wof:name":"Keiem",
     "wof:parent_id":1108830401,
     "wof:placetype":"locality",

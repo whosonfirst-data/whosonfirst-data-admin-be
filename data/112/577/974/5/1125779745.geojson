@@ -118,6 +118,9 @@
     "name:kon_x_preferred":[
         "Quevaucamps"
     ],
+    "name:lat_x_preferred":[
+        "Equicampus"
+    ],
     "name:lij_x_preferred":[
         "Quevaucamps"
     ],
@@ -272,7 +275,7 @@
         }
     ],
     "wof:id":1125779745,
-    "wof:lastmodified":1566612252,
+    "wof:lastmodified":1690856920,
     "wof:name":"Quevaucamps",
     "wof:parent_id":102049949,
     "wof:placetype":"locality",

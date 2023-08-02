@@ -28,14 +28,23 @@
     "name:fra_x_preferred":[
         "Boorsem"
     ],
+    "name:gle_x_preferred":[
+        "Boorsem"
+    ],
     "name:hun_x_preferred":[
         "Boorsem"
+    ],
+    "name:lim_x_preferred":[
+        "Boorse"
     ],
     "name:nld_x_preferred":[
         "Boorsem"
     ],
     "name:und_x_variant":[
         "Boorsheim"
+    ],
+    "name:zho_x_preferred":[
+        "\u5e03\u723e\u68ee"
     ],
     "qs_pg:aaroncc":"BE",
     "qs_pg:gn_country":"BE",
@@ -89,7 +98,7 @@
         }
     ],
     "wof:id":1125777173,
-    "wof:lastmodified":1566612252,
+    "wof:lastmodified":1690856920,
     "wof:name":"Boorsem",
     "wof:parent_id":1108830295,
     "wof:placetype":"locality",

@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.000001,
     "geom:area_square_m":10313.570234,
-    "geom:bbox":"5.21074351657,50.836815007,5.21365870289,50.8376041506",
+    "geom:bbox":"5.210744,50.836815,5.213659,50.837604",
     "geom:latitude":50.837289,
     "geom:longitude":5.212519,
     "gn:population":6466,
@@ -44,10 +44,16 @@
     "name:epo_x_preferred":[
         "Nieuwerkerken"
     ],
+    "name:eus_x_preferred":[
+        "Nieuwerkerken"
+    ],
     "name:fas_x_preferred":[
         "\u0646\u06cc\u0648\u0631\u06a9\u0631\u06a9\u0627\u0646"
     ],
     "name:fra_x_preferred":[
+        "Nieuwerkerken"
+    ],
+    "name:gle_x_preferred":[
         "Nieuwerkerken"
     ],
     "name:hun_x_preferred":[
@@ -104,6 +110,9 @@
     "name:war_x_preferred":[
         "Nieuwerkerken"
     ],
+    "name:zea_x_preferred":[
+        "Nieuwerkerken"
+    ],
     "name:zho_x_preferred":[
         "\u5c3c\u6c83\u51ef\u5c14\u80af"
     ],
@@ -141,7 +150,7 @@
         "wd:id":"Q696740"
     },
     "wof:country":"BE",
-    "wof:geomhash":"d8caeaccf6c4896e677ba56c425eb03e",
+    "wof:geomhash":"71b2ff64b505045adb87f0cf37c8966b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -154,7 +163,7 @@
         }
     ],
     "wof:id":101913563,
-    "wof:lastmodified":1566611903,
+    "wof:lastmodified":1690856572,
     "wof:name":"Nieuwerkerken",
     "wof:parent_id":1108830223,
     "wof:placetype":"locality",
@@ -166,10 +175,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    5.2107435165662,
-    50.8368150070155,
-    5.21365870288821,
-    50.83760415057367
+    5.210744,
+    50.836815,
+    5.213659,
+    50.837604
 ],
-  "geometry": {"coordinates":[[[5.21357755845162,50.83760415057367],[5.21365870288821,50.8368150070155],[5.21075781301715,50.83734763754808],[5.2107435165662,50.83748659090656],[5.21357755845162,50.83760415057367]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[5.213578,50.837604],[5.213659,50.836815],[5.210758,50.837348],[5.210744,50.837487],[5.213578,50.837604]]],"type":"Polygon"}
 }

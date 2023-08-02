@@ -31,6 +31,9 @@
     "name:fra_x_preferred":[
         "Widooie"
     ],
+    "name:gle_x_preferred":[
+        "Widooie"
+    ],
     "name:hun_x_preferred":[
         "Widooie"
     ],
@@ -98,7 +101,7 @@
         }
     ],
     "wof:id":1125890553,
-    "wof:lastmodified":1566612102,
+    "wof:lastmodified":1690856766,
     "wof:name":"Widooie",
     "wof:parent_id":1108830031,
     "wof:placetype":"locality",

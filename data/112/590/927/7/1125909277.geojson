@@ -28,6 +28,12 @@
     "name:fra_x_preferred":[
         "Mielen-boven-Aalst"
     ],
+    "name:fra_x_variant":[
+        "Mielen-sur-Alost"
+    ],
+    "name:gle_x_preferred":[
+        "Mielen-boven-Aalst"
+    ],
     "name:hun_x_preferred":[
         "Mielen-boven-Aalst"
     ],
@@ -91,7 +97,7 @@
         }
     ],
     "wof:id":1125909277,
-    "wof:lastmodified":1566612143,
+    "wof:lastmodified":1690856802,
     "wof:name":"Mielen-boven-Aalst",
     "wof:parent_id":1108830599,
     "wof:placetype":"locality",

@@ -31,6 +31,9 @@
     "name:fra_x_preferred":[
         "Kerkhove"
     ],
+    "name:gle_x_preferred":[
+        "Kerkhove"
+    ],
     "name:hun_x_preferred":[
         "Kerkhove"
     ],
@@ -97,7 +100,7 @@
         }
     ],
     "wof:id":1125842165,
-    "wof:lastmodified":1566612228,
+    "wof:lastmodified":1690856888,
     "wof:name":"Kerkhove",
     "wof:parent_id":1108830525,
     "wof:placetype":"locality",

@@ -22,14 +22,23 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Uikhoven"
+    ],
     "name:eng_x_preferred":[
         "Uikhoven"
     ],
     "name:fra_x_preferred":[
         "Uikhoven"
     ],
+    "name:gle_x_preferred":[
+        "Uikhoven"
+    ],
     "name:hun_x_preferred":[
         "Uikhoven"
+    ],
+    "name:lim_x_preferred":[
+        "Uukeve"
     ],
     "name:nld_x_preferred":[
         "Uikhoven"
@@ -93,7 +102,7 @@
         }
     ],
     "wof:id":1125830147,
-    "wof:lastmodified":1566612254,
+    "wof:lastmodified":1690856923,
     "wof:name":"Uikhoven",
     "wof:parent_id":1108830295,
     "wof:placetype":"locality",

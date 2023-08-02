@@ -40,6 +40,9 @@
     "name:fra_x_preferred":[
         "Afsnee"
     ],
+    "name:gle_x_preferred":[
+        "Afsnee"
+    ],
     "name:hun_x_preferred":[
         "Afsnee"
     ],
@@ -54,6 +57,12 @@
     ],
     "name:und_x_variant":[
         "Afsn\u00e9"
+    ],
+    "name:vls_x_preferred":[
+        "Ofsnee"
+    ],
+    "name:zho_x_preferred":[
+        "\u963f\u592b\u65af\u5185"
     ],
     "qs:gn_adm0_cc":"BE",
     "qs:gn_fcode":"PPL",
@@ -125,7 +134,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1582345516,
+    "wof:lastmodified":1690856412,
     "wof:name":"Afsnee",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

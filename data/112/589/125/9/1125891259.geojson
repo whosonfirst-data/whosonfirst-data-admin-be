@@ -28,6 +28,9 @@
     "name:fra_x_preferred":[
         "Hees"
     ],
+    "name:gle_x_preferred":[
+        "Hees"
+    ],
     "name:hun_x_preferred":[
         "Hees"
     ],
@@ -96,7 +99,7 @@
         }
     ],
     "wof:id":1125891259,
-    "wof:lastmodified":1566612107,
+    "wof:lastmodified":1690856772,
     "wof:name":"Hees",
     "wof:parent_id":1108830245,
     "wof:placetype":"locality",

@@ -34,8 +34,14 @@
     "name:fra_x_variant":[
         "Fourons (Fouron-le-Comte)"
     ],
+    "name:gle_x_preferred":[
+        "'s-Gravenvoeren"
+    ],
     "name:hun_x_preferred":[
         "'s-Gravenvoeren"
+    ],
+    "name:lat_x_preferred":[
+        "Forum Comitis"
     ],
     "name:lim_x_preferred":[
         "Voere"
@@ -104,7 +110,7 @@
         }
     ],
     "wof:id":1126007013,
-    "wof:lastmodified":1566612180,
+    "wof:lastmodified":1690856832,
     "wof:name":"'s Gravenvoeren",
     "wof:parent_id":1108830021,
     "wof:placetype":"locality",

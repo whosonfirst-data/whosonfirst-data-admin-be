@@ -28,6 +28,9 @@
     "name:fra_x_preferred":[
         "Binkom"
     ],
+    "name:gle_x_preferred":[
+        "Binkom"
+    ],
     "name:hun_x_preferred":[
         "Binkom"
     ],
@@ -86,7 +89,7 @@
         }
     ],
     "wof:id":1125777153,
-    "wof:lastmodified":1566612241,
+    "wof:lastmodified":1690856905,
     "wof:name":"Binkom",
     "wof:parent_id":1108830497,
     "wof:placetype":"locality",

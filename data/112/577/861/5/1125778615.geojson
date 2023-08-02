@@ -22,10 +22,16 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Lambusart"
+    ],
     "name:eng_x_preferred":[
         "Lambusart"
     ],
     "name:fra_x_preferred":[
+        "Lambusart"
+    ],
+    "name:gle_x_preferred":[
         "Lambusart"
     ],
     "name:hun_x_preferred":[
@@ -39,6 +45,9 @@
     ],
     "name:vls_x_preferred":[
         "Lambusart"
+    ],
+    "name:wln_x_preferred":[
+        "Lambuss\u00e5t"
     ],
     "qs_pg:aaroncc":"BE",
     "qs_pg:gn_country":"BE",
@@ -90,7 +99,7 @@
         }
     ],
     "wof:id":1125778615,
-    "wof:lastmodified":1566612237,
+    "wof:lastmodified":1690856899,
     "wof:name":"Lambusart",
     "wof:parent_id":102049927,
     "wof:placetype":"locality",

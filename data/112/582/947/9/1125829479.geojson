@@ -31,7 +31,13 @@
     "name:fra_x_preferred":[
         "Cheratte"
     ],
+    "name:gle_x_preferred":[
+        "Cheratte"
+    ],
     "name:hun_x_preferred":[
+        "Cheratte"
+    ],
+    "name:ita_x_preferred":[
         "Cheratte"
     ],
     "name:jpn_x_preferred":[
@@ -100,7 +106,7 @@
         }
     ],
     "wof:id":1125829479,
-    "wof:lastmodified":1566612195,
+    "wof:lastmodified":1690856851,
     "wof:name":"Cheratte",
     "wof:parent_id":102049941,
     "wof:placetype":"locality",

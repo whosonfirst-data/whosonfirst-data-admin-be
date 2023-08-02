@@ -28,6 +28,9 @@
     "name:fra_x_preferred":[
         "Zevergem"
     ],
+    "name:gle_x_preferred":[
+        "Zevergem"
+    ],
     "name:hun_x_preferred":[
         "Zevergem"
     ],
@@ -93,7 +96,7 @@
         }
     ],
     "wof:id":1125776411,
-    "wof:lastmodified":1566612247,
+    "wof:lastmodified":1690856914,
     "wof:name":"Zevergem",
     "wof:parent_id":1108830643,
     "wof:placetype":"locality",

@@ -40,6 +40,9 @@
     "name:fra_x_preferred":[
         "Heule"
     ],
+    "name:gle_x_preferred":[
+        "Heule"
+    ],
     "name:hun_x_preferred":[
         "Heule"
     ],
@@ -114,7 +117,7 @@
         }
     ],
     "wof:id":1125882897,
-    "wof:lastmodified":1566612090,
+    "wof:lastmodified":1690856756,
     "wof:name":"Heule",
     "wof:parent_id":1108830299,
     "wof:placetype":"locality",

@@ -28,6 +28,9 @@
     "name:fra_x_preferred":[
         "Grand-Halleux"
     ],
+    "name:gle_x_preferred":[
+        "Grand-Halleux"
+    ],
     "name:hun_x_preferred":[
         "Grand-Halleux"
     ],
@@ -86,7 +89,7 @@
         }
     ],
     "wof:id":1125863803,
-    "wof:lastmodified":1566612083,
+    "wof:lastmodified":1690856745,
     "wof:name":"Grand-Halleux",
     "wof:parent_id":102049915,
     "wof:placetype":"locality",

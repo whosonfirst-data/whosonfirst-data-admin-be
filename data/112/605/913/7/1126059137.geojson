@@ -28,10 +28,16 @@
     "name:fra_x_preferred":[
         "Wortegem"
     ],
+    "name:gle_x_preferred":[
+        "Wortegem"
+    ],
     "name:hun_x_preferred":[
         "Wortegem"
     ],
     "name:nld_x_preferred":[
+        "Wortegem"
+    ],
+    "name:nob_x_preferred":[
         "Wortegem"
     ],
     "name:vls_x_preferred":[
@@ -91,7 +97,7 @@
         }
     ],
     "wof:id":1126059137,
-    "wof:lastmodified":1566612055,
+    "wof:lastmodified":1690856714,
     "wof:name":"Wortegem",
     "wof:parent_id":1108830419,
     "wof:placetype":"locality",

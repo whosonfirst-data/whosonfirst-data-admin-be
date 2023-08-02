@@ -28,6 +28,9 @@
     "name:fra_x_preferred":[
         "Lemberge"
     ],
+    "name:gle_x_preferred":[
+        "Lemberge"
+    ],
     "name:hun_x_preferred":[
         "Lemberge"
     ],
@@ -90,7 +93,7 @@
         }
     ],
     "wof:id":1125813223,
-    "wof:lastmodified":1566612086,
+    "wof:lastmodified":1690856749,
     "wof:name":"Lemberge",
     "wof:parent_id":1108830115,
     "wof:placetype":"locality",

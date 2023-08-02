@@ -31,6 +31,9 @@
     "name:fra_x_preferred":[
         "Sint-Martens-Lennik"
     ],
+    "name:gle_x_preferred":[
+        "Sint-Martens-Lennik"
+    ],
     "name:hun_x_preferred":[
         "Sint-Martens-Lennik"
     ],
@@ -100,7 +103,7 @@
         }
     ],
     "wof:id":1125924941,
-    "wof:lastmodified":1566612028,
+    "wof:lastmodified":1690856690,
     "wof:name":"St.-Martens-Lennik",
     "wof:parent_id":1108830469,
     "wof:placetype":"locality",

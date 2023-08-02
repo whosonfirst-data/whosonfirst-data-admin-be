@@ -22,6 +22,9 @@
     "mz:is_current":1,
     "mz:min_zoom":9.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u0645\u0648\u0631\u062a\u0633\u064a\u0644"
+    ],
     "name:bel_x_preferred":[
         "\u041c\u0430\u0440\u0442\u0441\u0435\u043b"
     ],
@@ -64,6 +67,9 @@
     "name:gle_x_preferred":[
         "Mortsel"
     ],
+    "name:heb_x_preferred":[
+        "\u05de\u05d5\u05e8\u05e6\u05dc"
+    ],
     "name:hun_x_preferred":[
         "Mortsel"
     ],
@@ -78,6 +84,9 @@
     ],
     "name:jpn_x_preferred":[
         "\u30e2\u30eb\u30c4\u30a7\u30eb"
+    ],
+    "name:kat_x_preferred":[
+        "\u10db\u10dd\u10e0\u10e2\u10e1\u10d4\u10da\u10d8"
     ],
     "name:lat_x_preferred":[
         "Mortensella"
@@ -121,6 +130,12 @@
     "name:swe_x_preferred":[
         "Mortsel"
     ],
+    "name:szl_x_preferred":[
+        "Mortsel"
+    ],
+    "name:tur_x_preferred":[
+        "Mortsel"
+    ],
     "name:vie_x_preferred":[
         "Mortsel"
     ],
@@ -128,6 +143,9 @@
         "Mortsel"
     ],
     "name:war_x_preferred":[
+        "Mortsel"
+    ],
+    "name:zea_x_preferred":[
         "Mortsel"
     ],
     "name:zho_x_preferred":[
@@ -190,7 +208,7 @@
         }
     ],
     "wof:id":1125943925,
-    "wof:lastmodified":1566612015,
+    "wof:lastmodified":1690856677,
     "wof:name":"Mortsel",
     "wof:parent_id":1108830135,
     "wof:placetype":"locality",

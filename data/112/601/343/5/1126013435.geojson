@@ -34,6 +34,9 @@
     "name:cat_x_preferred":[
         "Saint-Hubert"
     ],
+    "name:ces_x_preferred":[
+        "Saint-Hubert"
+    ],
     "name:deu_x_preferred":[
         "Saint-Hubert"
     ],
@@ -55,6 +58,9 @@
     "name:fra_x_preferred":[
         "Saint-Hubert"
     ],
+    "name:gle_x_preferred":[
+        "Saint-Hubert"
+    ],
     "name:hun_x_preferred":[
         "Saint-Hubert"
     ],
@@ -63,6 +69,9 @@
     ],
     "name:jpn_x_preferred":[
         "\u30b5\u30f3\uff1d\u30c6\u30e5\u30d9\u30fc\u30eb"
+    ],
+    "name:lat_x_preferred":[
+        "Andagium"
     ],
     "name:lim_x_preferred":[
         "Saint-Hubert"
@@ -118,8 +127,14 @@
     "name:yue_x_preferred":[
         "\u8056\u5b87\u62dc"
     ],
+    "name:zea_x_preferred":[
+        "Saint-Hubert"
+    ],
     "name:zho_x_preferred":[
         "\u5723\u80e1\u4f2f\u7279"
+    ],
+    "name:zho_x_variant":[
+        "\u5723\u4e8e\u8d1d\u5c14"
     ],
     "qs_pg:aaroncc":"BE",
     "qs_pg:gn_country":"BE",
@@ -176,7 +191,7 @@
         }
     ],
     "wof:id":1126013435,
-    "wof:lastmodified":1566612179,
+    "wof:lastmodified":1690856832,
     "wof:name":"St.-Hubert",
     "wof:parent_id":102049913,
     "wof:placetype":"locality",

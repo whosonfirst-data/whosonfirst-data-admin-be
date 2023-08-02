@@ -22,6 +22,9 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Post"
+    ],
     "name:eng_x_preferred":[
         "Post"
     ],
@@ -84,7 +87,7 @@
         }
     ],
     "wof:id":1125890467,
-    "wof:lastmodified":1566612100,
+    "wof:lastmodified":1690856764,
     "wof:name":"Post",
     "wof:parent_id":102049909,
     "wof:placetype":"locality",

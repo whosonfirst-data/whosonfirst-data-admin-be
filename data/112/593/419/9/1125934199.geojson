@@ -46,6 +46,9 @@
     "name:vls_x_preferred":[
         "Raversyde"
     ],
+    "name:zho_x_preferred":[
+        "\u62c9\u97e6\u897f\u5fb7"
+    ],
     "qs_pg:aaroncc":"BE",
     "qs_pg:gn_country":"BE",
     "qs_pg:gn_fcode":"PPL",
@@ -102,7 +105,7 @@
         }
     ],
     "wof:id":1125934199,
-    "wof:lastmodified":1566612020,
+    "wof:lastmodified":1690856684,
     "wof:name":"Raversijde",
     "wof:parent_id":1108830687,
     "wof:placetype":"locality",

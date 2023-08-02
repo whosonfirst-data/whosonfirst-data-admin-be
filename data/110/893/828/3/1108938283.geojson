@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"4.36249188813,50.8453072072,4.36249188813,50.8453072072",
+    "geom:bbox":"4.362492,50.845307,4.362492,50.845307",
     "geom:latitude":50.845307,
     "geom:longitude":4.362492,
     "iso:country":"BE",
@@ -23,6 +23,9 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
     "mz:tier_metro":30,
+    "name:cat_x_preferred":[
+        "Barri Reial"
+    ],
     "name:dut_x_variant":[
         "Koninkijke Wijk"
     ],
@@ -41,6 +44,9 @@
     "name:rus_x_preferred":[
         "\u041a\u043e\u0440\u043e\u043b\u0435\u0432\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d"
     ],
+    "name:swe_x_preferred":[
+        "Kungliga kvarteren"
+    ],
     "src:lbl_centroid":"mz",
     "wof:belongsto":[
         102191581,
@@ -56,7 +62,7 @@
     },
     "wof:country":"BE",
     "wof:created":1491360268,
-    "wof:geomhash":"8ec080165a5944d93cf03d94220f3e60",
+    "wof:geomhash":"e89d61d36cd42ad235c074138fa75f86",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -69,7 +75,7 @@
         }
     ],
     "wof:id":1108938283,
-    "wof:lastmodified":1566611506,
+    "wof:lastmodified":1690856428,
     "wof:name":"Quartier Royal",
     "wof:parent_id":101751573,
     "wof:placetype":"neighbourhood",
@@ -79,10 +85,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    4.36249188813273,
-    50.84530720722002,
-    4.36249188813273,
-    50.84530720722002
+    4.362492,
+    50.845307,
+    4.362492,
+    50.845307
 ],
-  "geometry": {"coordinates":[4.36249188813273,50.84530720722002],"type":"Point"}
+  "geometry": {"coordinates":[4.362492,50.845307],"type":"Point"}
 }

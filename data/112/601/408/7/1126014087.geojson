@@ -31,6 +31,9 @@
     "name:fra_x_preferred":[
         "Durnal"
     ],
+    "name:gle_x_preferred":[
+        "Durnal"
+    ],
     "name:hun_x_preferred":[
         "Durnal"
     ],
@@ -45,6 +48,9 @@
     ],
     "name:und_x_variant":[
         "Yvoir (Durnal)"
+    ],
+    "name:wln_x_preferred":[
+        "Durnale"
     ],
     "qs_pg:aaroncc":"BE",
     "qs_pg:gn_country":"BE",
@@ -100,7 +106,7 @@
         }
     ],
     "wof:id":1126014087,
-    "wof:lastmodified":1566612172,
+    "wof:lastmodified":1690856822,
     "wof:name":"Durnal",
     "wof:parent_id":102049919,
     "wof:placetype":"locality",

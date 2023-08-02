@@ -102,6 +102,9 @@
     "name:deu_x_preferred":[
         "L\u00fcttich"
     ],
+    "name:deu_x_variant":[
+        "Provinz L\u00fcttich"
+    ],
     "name:ell_x_preferred":[
         "\u039b\u03b9\u03ad\u03b3\u03b7"
     ],
@@ -126,14 +129,23 @@
     "name:fra_x_preferred":[
         "Li\u00e8ge"
     ],
+    "name:frr_x_preferred":[
+        "L\u00fcttich"
+    ],
     "name:fry_x_preferred":[
         "Luik"
+    ],
+    "name:gle_x_preferred":[
+        "C\u00faige Liege"
     ],
     "name:glg_x_preferred":[
         "Provincia de Liexa"
     ],
     "name:guj_x_preferred":[
         "\u0ab2\u0ac0\u0a9c"
+    ],
+    "name:heb_x_preferred":[
+        "\u05dc\u05d9\u05d9\u05d6'"
     ],
     "name:hin_x_preferred":[
         "\u0932\u0940\u091c"
@@ -205,13 +217,16 @@
         "Luik"
     ],
     "name:nld_x_variant":[
-        "Luik"
+        "provincie Luik"
     ],
     "name:nob_x_preferred":[
         "Li\u00e8ge"
     ],
     "name:oci_x_preferred":[
         "Prov\u00edncia de Li\u00e8ja"
+    ],
+    "name:pcd_x_preferred":[
+        "Prouvinche Lidje"
     ],
     "name:pnb_x_preferred":[
         "\u0635\u0648\u0628\u06c1 \u0644\u06cc\u062c\u06d2"
@@ -243,6 +258,9 @@
     "name:spa_x_preferred":[
         "Provincia de Lieja"
     ],
+    "name:sqi_x_preferred":[
+        "Provinca Li\u00e8ge"
+    ],
     "name:srp_x_preferred":[
         "\u041f\u0440\u043e\u0432\u0438\u043d\u0446\u0438\u0458\u0430 \u041b\u0438\u0458\u0435\u0436"
     ],
@@ -258,6 +276,9 @@
     "name:tha_x_preferred":[
         "\u0e21\u0e13\u0e11\u0e25\u0e25\u0e35\u0e41\u0e22\u0e0c"
     ],
+    "name:tha_x_variant":[
+        "\u0e08\u0e31\u0e07\u0e2b\u0e27\u0e31\u0e14\u0e25\u0e35\u0e41\u0e22\u0e0c"
+    ],
     "name:tur_x_preferred":[
         "Li\u00e8ge"
     ],
@@ -266,6 +287,9 @@
     ],
     "name:urd_x_preferred":[
         "\u0644\u06cc\u06cc\u062c"
+    ],
+    "name:urd_x_variant":[
+        "\u0644\u06cc\u0626\u062c"
     ],
     "name:vie_x_preferred":[
         "Li\u00e8ge"
@@ -284,6 +308,9 @@
     ],
     "name:wuu_x_preferred":[
         "\u5217\u65e5\u7701"
+    ],
+    "name:zea_x_preferred":[
+        "Luik"
     ],
     "name:zho_x_preferred":[
         "\u5217\u65e5\u7701"
@@ -331,7 +358,7 @@
         "wd:id":"Q1127"
     },
     "wof:country":"BE",
-    "wof:geomhash":"2d3f99e33f940a34fd6e441595697b2e",
+    "wof:geomhash":"f1eddb65b59b91458313eca18a6f9017",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -342,7 +369,7 @@
         }
     ],
     "wof:id":102049941,
-    "wof:lastmodified":1684351493,
+    "wof:lastmodified":1690856397,
     "wof:name":"Li\u00e8ge",
     "wof:parent_id":85681691,
     "wof:placetype":"county",

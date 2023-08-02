@@ -28,6 +28,9 @@
     "name:fra_x_preferred":[
         "Outgaarden"
     ],
+    "name:gle_x_preferred":[
+        "Outgaarden"
+    ],
     "name:hun_x_preferred":[
         "Outgaarden"
     ],
@@ -36,6 +39,9 @@
     ],
     "name:und_x_variant":[
         "Autgaerde"
+    ],
+    "name:wln_x_preferred":[
+        "Outch\u00e5r"
     ],
     "qs_pg:aaroncc":"BE",
     "qs_pg:gn_country":"BE",
@@ -91,7 +97,7 @@
         }
     ],
     "wof:id":1125776675,
-    "wof:lastmodified":1566612238,
+    "wof:lastmodified":1690856900,
     "wof:name":"Outgaarden",
     "wof:parent_id":1108830281,
     "wof:placetype":"locality",

@@ -22,10 +22,16 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Goz\u00e9e"
+    ],
     "name:eng_x_preferred":[
         "Goz\u00e9e"
     ],
     "name:fra_x_preferred":[
+        "Goz\u00e9e"
+    ],
+    "name:gle_x_preferred":[
         "Goz\u00e9e"
     ],
     "name:hun_x_preferred":[
@@ -36,6 +42,9 @@
     ],
     "name:und_x_variant":[
         "Thuin (Goz\u00e9e)"
+    ],
+    "name:wln_x_preferred":[
+        "Gouz\u00eaye"
     ],
     "qs_pg:aaroncc":"BE",
     "qs_pg:gn_country":"BE",
@@ -89,7 +98,7 @@
         }
     ],
     "wof:id":1126031275,
-    "wof:lastmodified":1566612070,
+    "wof:lastmodified":1690856734,
     "wof:name":"Goz\u00e9e",
     "wof:parent_id":102049923,
     "wof:placetype":"locality",

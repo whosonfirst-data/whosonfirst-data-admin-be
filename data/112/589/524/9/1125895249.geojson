@@ -28,6 +28,9 @@
     "name:fra_x_preferred":[
         "Overhespen"
     ],
+    "name:gle_x_preferred":[
+        "Overhespen"
+    ],
     "name:hun_x_preferred":[
         "Overhespen"
     ],
@@ -86,7 +89,7 @@
         }
     ],
     "wof:id":1125895249,
-    "wof:lastmodified":1566612107,
+    "wof:lastmodified":1690856772,
     "wof:name":"Overhespen",
     "wof:parent_id":1108830045,
     "wof:placetype":"locality",

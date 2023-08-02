@@ -28,6 +28,9 @@
     "name:fra_x_preferred":[
         "Nederokkerzeel"
     ],
+    "name:gle_x_preferred":[
+        "Nederokkerzeel"
+    ],
     "name:hun_x_preferred":[
         "Nederokkerzeel"
     ],
@@ -96,7 +99,7 @@
         }
     ],
     "wof:id":1126009303,
-    "wof:lastmodified":1566612181,
+    "wof:lastmodified":1690856834,
     "wof:name":"Nederokkerzeel",
     "wof:parent_id":1108830313,
     "wof:placetype":"locality",

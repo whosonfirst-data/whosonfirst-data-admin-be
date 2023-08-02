@@ -40,6 +40,9 @@
     "name:fra_x_preferred":[
         "Zillebeke"
     ],
+    "name:gle_x_preferred":[
+        "Zillebeke"
+    ],
     "name:hun_x_preferred":[
         "Zillebeke"
     ],
@@ -51,6 +54,9 @@
     ],
     "name:swe_x_preferred":[
         "Zillebeke"
+    ],
+    "name:urd_x_preferred":[
+        "\u0632\u06cc\u0644\u06cc\u0628\u06cc\u06a9"
     ],
     "name:vls_x_preferred":[
         "Zillebeke"
@@ -111,7 +117,7 @@
         }
     ],
     "wof:id":1125766667,
-    "wof:lastmodified":1566612199,
+    "wof:lastmodified":1690856856,
     "wof:name":"Zillebeke",
     "wof:parent_id":1108830595,
     "wof:placetype":"locality",

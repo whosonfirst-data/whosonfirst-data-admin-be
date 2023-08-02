@@ -94,6 +94,9 @@
     "name:ell_x_preferred":[
         "\u03a3\u03b9\u03bd\u03c4-\u03a4\u03c1\u03bf\u03c5\u03af\u03bd\u03c4\u03b5\u03bd"
     ],
+    "name:ell_x_variant":[
+        "\u03a3\u03b9\u03bd\u03c4-\u03a4\u03c1\u03ad\u03b9\u03bd\u03c4\u03b5\u03bd"
+    ],
     "name:eml_x_preferred":[
         "Sint-Truiden"
     ],
@@ -307,14 +310,23 @@
     "name:wln_x_variant":[
         "Sint-Truiden"
     ],
+    "name:wuu_x_preferred":[
+        "\u5723\u7279\u8d56\u767b"
+    ],
     "name:yue_x_preferred":[
         "\u8056\u7279\u96f7\u767b"
+    ],
+    "name:yue_x_variant":[
+        "\u8056\u7279\u8cf4\u767b"
     ],
     "name:zea_x_preferred":[
         "Sint-Truiden"
     ],
     "name:zho_x_preferred":[
         "\u5723\u7279\u96f7\u767b"
+    ],
+    "name:zho_x_variant":[
+        "\u5723\u7279\u8d56\u767b"
     ],
     "qs_pg:aaroncc":"BE",
     "qs_pg:gn_country":"BE",
@@ -373,7 +385,7 @@
         }
     ],
     "wof:id":1125811685,
-    "wof:lastmodified":1566612083,
+    "wof:lastmodified":1690856746,
     "wof:name":"St.-Truiden",
     "wof:parent_id":1108830223,
     "wof:placetype":"locality",

@@ -22,6 +22,9 @@
     "mz:is_current":1,
     "mz:min_zoom":10.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:aze_x_preferred":[
+        "Aud-Heverle"
+    ],
     "name:bre_x_preferred":[
         "Oud-Heverlee"
     ],
@@ -52,6 +55,9 @@
     "name:fra_x_preferred":[
         "Oud-Heverlee"
     ],
+    "name:gle_x_preferred":[
+        "Oud-Heverlee"
+    ],
     "name:hun_x_preferred":[
         "Oud-Heverlee"
     ],
@@ -60,6 +66,9 @@
     ],
     "name:kor_x_preferred":[
         "\uc544\uc6b0\ud2b8\ud5e4\ubca0\ub97c\ub808\uc774"
+    ],
+    "name:lat_x_preferred":[
+        "Vetus Heverlea"
     ],
     "name:lit_x_preferred":[
         "Aud Heverlis"
@@ -97,6 +106,9 @@
     "name:swe_x_preferred":[
         "Oud-Heverlee"
     ],
+    "name:tur_x_preferred":[
+        "Oud-Heverlee"
+    ],
     "name:ukr_x_preferred":[
         "\u0410\u0443\u0434-\u0413\u0435\u0432\u0435\u0440\u043b\u0435"
     ],
@@ -112,8 +124,17 @@
     "name:war_x_preferred":[
         "Oud-Heverlee"
     ],
+    "name:wln_x_preferred":[
+        "V\u00ee-Heverlee"
+    ],
+    "name:zea_x_preferred":[
+        "Oud-Heverlee"
+    ],
     "name:zho_x_preferred":[
         "\u65e7\u8d6b\u7eb2\u5c14\u83b1"
+    ],
+    "name:zho_x_variant":[
+        "\u65e7\u6d77\u5f17\u83b1"
     ],
     "qs_pg:aaroncc":"BE",
     "qs_pg:gn_country":"BE",
@@ -172,7 +193,7 @@
         }
     ],
     "wof:id":1126016603,
-    "wof:lastmodified":1566612173,
+    "wof:lastmodified":1690856823,
     "wof:name":"Oud-Heverlee",
     "wof:parent_id":1108830043,
     "wof:placetype":"locality",

@@ -31,6 +31,9 @@
     "name:fra_x_preferred":[
         "Heindonk"
     ],
+    "name:gle_x_preferred":[
+        "Heindonk"
+    ],
     "name:hun_x_preferred":[
         "Heindonk"
     ],
@@ -94,7 +97,7 @@
         }
     ],
     "wof:id":1125790109,
-    "wof:lastmodified":1566612226,
+    "wof:lastmodified":1690856884,
     "wof:name":"Heindonk",
     "wof:parent_id":1108830353,
     "wof:placetype":"locality",

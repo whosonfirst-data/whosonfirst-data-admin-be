@@ -28,6 +28,9 @@
     "name:fra_x_preferred":[
         "Emblem"
     ],
+    "name:gle_x_preferred":[
+        "Emblem"
+    ],
     "name:hun_x_preferred":[
         "Emblem"
     ],
@@ -103,7 +106,7 @@
         }
     ],
     "wof:id":1125781181,
-    "wof:lastmodified":1566612210,
+    "wof:lastmodified":1690856870,
     "wof:name":"Emblem",
     "wof:parent_id":-4,
     "wof:placetype":"locality",

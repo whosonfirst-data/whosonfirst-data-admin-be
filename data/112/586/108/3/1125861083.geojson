@@ -28,6 +28,9 @@
     "name:fra_x_preferred":[
         "Hoeleden"
     ],
+    "name:gle_x_preferred":[
+        "Hoeleden"
+    ],
     "name:hun_x_preferred":[
         "Hoeleden"
     ],
@@ -86,7 +89,7 @@
         }
     ],
     "wof:id":1125861083,
-    "wof:lastmodified":1566612080,
+    "wof:lastmodified":1690856743,
     "wof:name":"Hoeleden",
     "wof:parent_id":1108830345,
     "wof:placetype":"locality",

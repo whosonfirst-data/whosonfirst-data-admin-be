@@ -28,6 +28,9 @@
     "name:fra_x_preferred":[
         "Belgrade"
     ],
+    "name:gle_x_preferred":[
+        "Belgrade"
+    ],
     "name:hun_x_preferred":[
         "Belgrade"
     ],
@@ -93,7 +96,7 @@
         }
     ],
     "wof:id":1125908555,
-    "wof:lastmodified":1566612143,
+    "wof:lastmodified":1690856802,
     "wof:name":"Belgrade",
     "wof:parent_id":102049931,
     "wof:placetype":"locality",

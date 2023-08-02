@@ -22,6 +22,9 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Eynatten"
+    ],
     "name:deu_x_preferred":[
         "Eynatten"
     ],
@@ -29,6 +32,9 @@
         "Eynatten"
     ],
     "name:fra_x_preferred":[
+        "Eynatten"
+    ],
+    "name:gle_x_preferred":[
         "Eynatten"
     ],
     "name:hun_x_preferred":[
@@ -39,6 +45,9 @@
     ],
     "name:und_x_variant":[
         "Raeren (Eynatten)"
+    ],
+    "name:zho_x_preferred":[
+        "\u827e\u7eb3\u6ed5"
     ],
     "qs_pg:aaroncc":"BE",
     "qs_pg:gn_country":"BE",
@@ -90,7 +99,7 @@
         }
     ],
     "wof:id":1125840143,
-    "wof:lastmodified":1566612229,
+    "wof:lastmodified":1690856888,
     "wof:name":"Eynatten",
     "wof:parent_id":102049935,
     "wof:placetype":"locality",

@@ -25,6 +25,9 @@
     "name:bul_x_preferred":[
         "\u041b\u0438\u0431\u0435\u0440\u0447\u0438\u0435\u0441"
     ],
+    "name:cat_x_preferred":[
+        "Liberchies"
+    ],
     "name:ceb_x_preferred":[
         "Liberchies"
     ],
@@ -32,6 +35,9 @@
         "Liberchies"
     ],
     "name:fra_x_preferred":[
+        "Liberchies"
+    ],
+    "name:gle_x_preferred":[
         "Liberchies"
     ],
     "name:hun_x_preferred":[
@@ -51,6 +57,9 @@
     ],
     "name:swe_x_preferred":[
         "Liberchies"
+    ],
+    "name:wln_x_preferred":[
+        "Luberciye"
     ],
     "qs_pg:aaroncc":"BE",
     "qs_pg:gn_country":"BE",
@@ -104,7 +113,7 @@
         }
     ],
     "wof:id":1125950287,
-    "wof:lastmodified":1566612033,
+    "wof:lastmodified":1690856696,
     "wof:name":"Liberchies",
     "wof:parent_id":102049927,
     "wof:placetype":"locality",

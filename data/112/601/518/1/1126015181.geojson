@@ -22,10 +22,19 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dan_x_preferred":[
+        "Baardegem"
+    ],
+    "name:deu_x_preferred":[
+        "Baardegem"
+    ],
     "name:eng_x_preferred":[
         "Baardegem"
     ],
     "name:fra_x_preferred":[
+        "Baardegem"
+    ],
+    "name:gle_x_preferred":[
         "Baardegem"
     ],
     "name:hun_x_preferred":[
@@ -35,6 +44,15 @@
         "Baardegem"
     ],
     "name:nld_x_preferred":[
+        "Baardegem"
+    ],
+    "name:nno_x_preferred":[
+        "Baardegem"
+    ],
+    "name:nob_x_preferred":[
+        "Baardegem"
+    ],
+    "name:swe_x_preferred":[
         "Baardegem"
     ],
     "name:und_x_variant":[
@@ -99,7 +117,7 @@
         }
     ],
     "wof:id":1126015181,
-    "wof:lastmodified":1566612174,
+    "wof:lastmodified":1690856825,
     "wof:name":"Baardegem",
     "wof:parent_id":1108830515,
     "wof:placetype":"locality",

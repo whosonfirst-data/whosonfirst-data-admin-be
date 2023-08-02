@@ -31,6 +31,9 @@
     "name:fra_x_preferred":[
         "Estinnes-au-Val"
     ],
+    "name:gle_x_preferred":[
+        "Estinnes-au-Val"
+    ],
     "name:hun_x_preferred":[
         "Estinnes-au-Val"
     ],
@@ -93,7 +96,7 @@
         }
     ],
     "wof:id":1125866329,
-    "wof:lastmodified":1566612078,
+    "wof:lastmodified":1690856739,
     "wof:name":"Estinnes-au-Val",
     "wof:parent_id":102049923,
     "wof:placetype":"locality",

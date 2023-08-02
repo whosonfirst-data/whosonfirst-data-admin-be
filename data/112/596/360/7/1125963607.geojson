@@ -22,22 +22,103 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bre_x_preferred":[
+        "\u00c9caussinnes-d'Enghien"
+    ],
+    "name:cat_x_preferred":[
+        "\u00c9caussinnes-d'Enghien"
+    ],
     "name:ceb_x_preferred":[
+        "\u00c9caussinnes-d'Enghien"
+    ],
+    "name:ces_x_preferred":[
+        "\u00c9caussinnes-d'Enghien"
+    ],
+    "name:cos_x_preferred":[
+        "\u00c9caussinnes-d'Enghien"
+    ],
+    "name:cym_x_preferred":[
+        "\u00c9caussinnes-d'Enghien"
+    ],
+    "name:dan_x_preferred":[
+        "\u00c9caussinnes-d'Enghien"
+    ],
+    "name:deu_x_preferred":[
         "\u00c9caussinnes-d'Enghien"
     ],
     "name:eng_x_preferred":[
         "\u00c9caussinnes-d'Enghien"
     ],
+    "name:est_x_preferred":[
+        "\u00c9caussinnes-d'Enghien"
+    ],
+    "name:fin_x_preferred":[
+        "\u00c9caussinnes-d'Enghien"
+    ],
     "name:fra_x_preferred":[
+        "\u00c9caussinnes-d'Enghien"
+    ],
+    "name:gle_x_preferred":[
+        "\u00c9caussinnes-d'Enghien"
+    ],
+    "name:glg_x_preferred":[
+        "\u00c9caussinnes-d'Enghien"
+    ],
+    "name:hrv_x_preferred":[
         "\u00c9caussinnes-d'Enghien"
     ],
     "name:hun_x_preferred":[
         "\u00c9caussinnes-d'Enghien"
     ],
+    "name:ind_x_preferred":[
+        "\u00c9caussinnes-d'Enghien"
+    ],
+    "name:ita_x_preferred":[
+        "\u00c9caussinnes-d'Enghien"
+    ],
+    "name:lav_x_preferred":[
+        "\u00c9caussinnes-d'Enghien"
+    ],
+    "name:lit_x_preferred":[
+        "\u00c9caussinnes-d'Enghien"
+    ],
+    "name:ltz_x_preferred":[
+        "\u00c9caussinnes-d'Enghien"
+    ],
     "name:nld_x_preferred":[
         "\u00c9caussinnes-d'Enghien"
     ],
+    "name:nrm_x_preferred":[
+        "\u00c9caussinnes-d'Enghien"
+    ],
+    "name:oci_x_preferred":[
+        "\u00c9caussinnes-d'Enghien"
+    ],
+    "name:pol_x_preferred":[
+        "\u00c9caussinnes-d'Enghien"
+    ],
+    "name:por_x_preferred":[
+        "\u00c9caussinnes-d'Enghien"
+    ],
+    "name:ron_x_preferred":[
+        "\u00c9caussinnes-d'Enghien"
+    ],
+    "name:slk_x_preferred":[
+        "\u00c9caussinnes-d'Enghien"
+    ],
+    "name:slv_x_preferred":[
+        "\u00c9caussinnes-d'Enghien"
+    ],
+    "name:spa_x_preferred":[
+        "\u00c9caussinnes-d'Enghien"
+    ],
     "name:swe_x_preferred":[
+        "\u00c9caussinnes-d'Enghien"
+    ],
+    "name:tah_x_preferred":[
+        "\u00c9caussinnes-d'Enghien"
+    ],
+    "name:tur_x_preferred":[
         "\u00c9caussinnes-d'Enghien"
     ],
     "name:und_x_variant":[
@@ -101,7 +182,7 @@
         }
     ],
     "wof:id":1125963607,
-    "wof:lastmodified":1566612161,
+    "wof:lastmodified":1690856812,
     "wof:name":"\u00c9caussinnes-d'Enghien",
     "wof:parent_id":102049943,
     "wof:placetype":"locality",

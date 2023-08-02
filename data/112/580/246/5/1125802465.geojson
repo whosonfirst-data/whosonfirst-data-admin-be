@@ -37,6 +37,9 @@
     "name:fra_x_preferred":[
         "Bissegem"
     ],
+    "name:gle_x_preferred":[
+        "Bissegem"
+    ],
     "name:hun_x_preferred":[
         "Bissegem"
     ],
@@ -111,7 +114,7 @@
         }
     ],
     "wof:id":1125802465,
-    "wof:lastmodified":1566612112,
+    "wof:lastmodified":1690856777,
     "wof:name":"Bissegem",
     "wof:parent_id":1108830299,
     "wof:placetype":"locality",

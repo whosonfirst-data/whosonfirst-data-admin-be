@@ -28,6 +28,9 @@
     "name:fra_x_preferred":[
         "Ulbeek"
     ],
+    "name:gle_x_preferred":[
+        "Ulbeek"
+    ],
     "name:hun_x_preferred":[
         "Ulbeek"
     ],
@@ -91,7 +94,7 @@
         }
     ],
     "wof:id":1125903437,
-    "wof:lastmodified":1566612144,
+    "wof:lastmodified":1690856803,
     "wof:name":"Ulbeek",
     "wof:parent_id":1108830011,
     "wof:placetype":"locality",

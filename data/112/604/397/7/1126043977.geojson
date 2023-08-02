@@ -28,6 +28,9 @@
     "name:fra_x_preferred":[
         "Overboelare"
     ],
+    "name:gle_x_preferred":[
+        "Overboelare"
+    ],
     "name:hun_x_preferred":[
         "Overboelare"
     ],
@@ -89,7 +92,7 @@
         }
     ],
     "wof:id":1126043977,
-    "wof:lastmodified":1566612061,
+    "wof:lastmodified":1690856722,
     "wof:name":"Overboelare",
     "wof:parent_id":1108830521,
     "wof:placetype":"locality",

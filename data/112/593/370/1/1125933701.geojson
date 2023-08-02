@@ -31,6 +31,9 @@
     "name:fra_x_preferred":[
         "Hollogne-sur-Geer"
     ],
+    "name:gle_x_preferred":[
+        "Hollogne-sur-Geer"
+    ],
     "name:hun_x_preferred":[
         "Hollogne-sur-Geer"
     ],
@@ -91,7 +94,7 @@
         }
     ],
     "wof:id":1125933701,
-    "wof:lastmodified":1566612019,
+    "wof:lastmodified":1690856682,
     "wof:name":"Hollogne-sur-Geer",
     "wof:parent_id":102049937,
     "wof:placetype":"locality",

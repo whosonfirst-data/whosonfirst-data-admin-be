@@ -102,6 +102,9 @@
     "name:fry_x_preferred":[
         "Marche-en-Famenne"
     ],
+    "name:gle_x_preferred":[
+        "Marche-en-Famenne"
+    ],
     "name:hun_x_preferred":[
         "Marche-en-Famenne"
     ],
@@ -150,6 +153,12 @@
     "name:swe_x_preferred":[
         "Marche-en-Famenne"
     ],
+    "name:szl_x_preferred":[
+        "Marche-en-Famenne"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0430\u0440\u0448-\u0430\u043d-\u0424\u0430\u043c\u0435\u043d"
+    ],
     "name:vie_x_preferred":[
         "Marche-en-Famenne"
     ],
@@ -162,8 +171,14 @@
     "name:wln_x_preferred":[
         "M\u00e5tche-el-F\u00e5mene"
     ],
+    "name:zea_x_preferred":[
+        "Marche-en-Famenne"
+    ],
     "name:zho_x_preferred":[
         "\u6cd5\u6885\u6069\u5730\u533a\u9a6c\u5c14\u4ec0"
+    ],
+    "name:zho_x_variant":[
+        "\u9a6c\u5c14\u4ec0\u6602\u6cd5\u6885\u8bb7"
     ],
     "qs:a0":"Belgi\u00c3\u00ab#Belgique#Belgien",
     "qs:a0_lc":"BE000000",
@@ -209,7 +224,7 @@
         "wd:id":"Q269908"
     },
     "wof:country":"BE",
-    "wof:geomhash":"fc84018fa1431c85a01634a5d7654da2",
+    "wof:geomhash":"15216cf6ceb8e06d503cc1c39b189d83",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -220,7 +235,7 @@
         }
     ],
     "wof:id":102049921,
-    "wof:lastmodified":1684351492,
+    "wof:lastmodified":1690856400,
     "wof:name":"Marche-en-Famenne",
     "wof:parent_id":85681727,
     "wof:placetype":"county",

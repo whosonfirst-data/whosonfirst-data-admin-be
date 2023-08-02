@@ -22,6 +22,9 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Langdorp"
+    ],
     "name:dan_x_preferred":[
         "Langdorp"
     ],
@@ -35,6 +38,9 @@
         "Langdorp"
     ],
     "name:fra_x_preferred":[
+        "Langdorp"
+    ],
+    "name:gle_x_preferred":[
         "Langdorp"
     ],
     "name:hun_x_preferred":[
@@ -114,7 +120,7 @@
         }
     ],
     "wof:id":1125995637,
-    "wof:lastmodified":1566612134,
+    "wof:lastmodified":1690856790,
     "wof:name":"Langdorp",
     "wof:parent_id":1108830355,
     "wof:placetype":"locality",

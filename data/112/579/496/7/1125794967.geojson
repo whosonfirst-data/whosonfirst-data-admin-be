@@ -37,6 +37,9 @@
     "name:fra_x_preferred":[
         "Pollinkhove"
     ],
+    "name:gle_x_preferred":[
+        "Pollinkhove"
+    ],
     "name:hun_x_preferred":[
         "Pollinkhove"
     ],
@@ -54,6 +57,9 @@
     ],
     "name:vls_x_preferred":[
         "Pollienkove"
+    ],
+    "name:zho_x_preferred":[
+        "\u6ce2\u6797\u514b\u970d\u5f17"
     ],
     "qs_pg:aaroncc":"BE",
     "qs_pg:gn_country":"BE",
@@ -111,7 +117,7 @@
         }
     ],
     "wof:id":1125794967,
-    "wof:lastmodified":1566612223,
+    "wof:lastmodified":1690856881,
     "wof:name":"Pollinkhove",
     "wof:parent_id":1108830073,
     "wof:placetype":"locality",

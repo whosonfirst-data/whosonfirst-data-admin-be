@@ -22,16 +22,28 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Marcourt"
+    ],
     "name:eng_x_preferred":[
         "Marcourt"
     ],
     "name:fra_x_preferred":[
         "Marcourt"
     ],
+    "name:gle_x_preferred":[
+        "Marcourt"
+    ],
+    "name:ltz_x_preferred":[
+        "Marcourt"
+    ],
     "name:nld_x_preferred":[
         "Marcourt"
     ],
     "name:spa_x_preferred":[
+        "Marcourt"
+    ],
+    "name:swe_x_preferred":[
         "Marcourt"
     ],
     "name:wln_x_preferred":[
@@ -91,7 +103,7 @@
         }
     ],
     "wof:id":1126015487,
-    "wof:lastmodified":1566612178,
+    "wof:lastmodified":1690856831,
     "wof:name":"Marcourt",
     "wof:parent_id":102049921,
     "wof:placetype":"locality",

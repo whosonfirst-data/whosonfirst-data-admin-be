@@ -22,10 +22,16 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Herfelingen"
+    ],
     "name:eng_x_preferred":[
         "Herfelingen"
     ],
     "name:fra_x_preferred":[
+        "Herfelingen"
+    ],
+    "name:gle_x_preferred":[
         "Herfelingen"
     ],
     "name:hun_x_preferred":[
@@ -91,7 +97,7 @@
         }
     ],
     "wof:id":1125999609,
-    "wof:lastmodified":1566612134,
+    "wof:lastmodified":1690856791,
     "wof:name":"Herfelingen",
     "wof:parent_id":1108830399,
     "wof:placetype":"locality",

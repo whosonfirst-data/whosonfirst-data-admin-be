@@ -37,6 +37,9 @@
     "name:fra_x_preferred":[
         "Steenkerke"
     ],
+    "name:gle_x_preferred":[
+        "Steenkerke"
+    ],
     "name:hun_x_preferred":[
         "Steenkerke"
     ],
@@ -98,7 +101,7 @@
         }
     ],
     "wof:id":1125900273,
-    "wof:lastmodified":1566612142,
+    "wof:lastmodified":1690856801,
     "wof:name":"Steenkerke",
     "wof:parent_id":1108830165,
     "wof:placetype":"locality",

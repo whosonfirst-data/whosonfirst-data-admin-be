@@ -22,11 +22,23 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Werbomont"
+    ],
+    "name:ces_x_preferred":[
+        "Werbomont"
+    ],
     "name:eng_x_preferred":[
         "Werbomont"
     ],
     "name:fra_x_preferred":[
         "Werbomont"
+    ],
+    "name:gle_x_preferred":[
+        "Werbomont"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a6\u30a7\u30eb\u30dc\u30e2\u30f3"
     ],
     "name:ltz_x_preferred":[
         "Werbomont"
@@ -91,7 +103,7 @@
         }
     ],
     "wof:id":1125950659,
-    "wof:lastmodified":1566612030,
+    "wof:lastmodified":1690856692,
     "wof:name":"Werbomont",
     "wof:parent_id":102049925,
     "wof:placetype":"locality",

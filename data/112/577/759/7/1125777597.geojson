@@ -31,6 +31,9 @@
     "name:fra_x_preferred":[
         "Wibrin"
     ],
+    "name:gle_x_preferred":[
+        "Wibrin"
+    ],
     "name:hun_x_preferred":[
         "Wibrin"
     ],
@@ -97,7 +100,7 @@
         }
     ],
     "wof:id":1125777597,
-    "wof:lastmodified":1566612246,
+    "wof:lastmodified":1690856911,
     "wof:name":"Wibrin",
     "wof:parent_id":102049915,
     "wof:placetype":"locality",

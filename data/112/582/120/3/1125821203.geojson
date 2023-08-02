@@ -55,6 +55,9 @@
     "name:fra_x_preferred":[
         "Mont-Saint-Guibert"
     ],
+    "name:gle_x_preferred":[
+        "Mont-Saint-Guibert"
+    ],
     "name:hun_x_preferred":[
         "Mont-Saint-Guibert"
     ],
@@ -109,8 +112,14 @@
     "name:wln_x_variant":[
         "Mont-Sint-Gubiet"
     ],
+    "name:zea_x_preferred":[
+        "Mont-Saint-Guibert"
+    ],
     "name:zho_x_preferred":[
         "\u8499\uff0d\u5723\u5409\u8d1d\u5c14"
+    ],
+    "name:zho_x_variant":[
+        "\u8499\u5723\u5409\u8d1d\u5c14"
     ],
     "qs_pg:aaroncc":"BE",
     "qs_pg:gn_country":"BE",
@@ -167,7 +176,7 @@
         }
     ],
     "wof:id":1125821203,
-    "wof:lastmodified":1566612195,
+    "wof:lastmodified":1690856850,
     "wof:name":"Mont-St.-Guibert",
     "wof:parent_id":102049945,
     "wof:placetype":"locality",

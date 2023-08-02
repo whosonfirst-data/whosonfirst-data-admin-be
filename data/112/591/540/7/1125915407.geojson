@@ -31,6 +31,9 @@
     "name:fra_x_preferred":[
         "Fraipont"
     ],
+    "name:gle_x_preferred":[
+        "Fraipont"
+    ],
     "name:nld_x_preferred":[
         "Fraipont"
     ],
@@ -97,7 +100,7 @@
         }
     ],
     "wof:id":1125915407,
-    "wof:lastmodified":1566612164,
+    "wof:lastmodified":1690856814,
     "wof:name":"Fraipont",
     "wof:parent_id":102049941,
     "wof:placetype":"locality",

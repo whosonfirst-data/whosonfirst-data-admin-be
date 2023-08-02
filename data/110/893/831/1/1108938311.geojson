@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"4.35460976594,50.8599601162,4.35460976594,50.8599601162",
+    "geom:bbox":"4.35461,50.85996,4.35461,50.85996",
     "geom:latitude":50.85996,
     "geom:longitude":4.35461,
     "iso:country":"BE",
@@ -23,11 +23,20 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":13.0,
     "mz:tier_metro":30,
+    "name:cat_x_preferred":[
+        "barri Nord"
+    ],
+    "name:deu_x_preferred":[
+        "Northwijk"
+    ],
     "name:eng_x_preferred":[
         "Northern Quarter"
     ],
     "name:fra_x_preferred":[
         "quartier Nord"
+    ],
+    "name:fra_x_variant":[
+        "Quartier Nord"
     ],
     "name:ind_x_preferred":[
         "Quartier Nord"
@@ -56,7 +65,7 @@
     },
     "wof:country":"BE",
     "wof:created":1491360284,
-    "wof:geomhash":"6c7ee82c49219704fc0ede7be698d7e3",
+    "wof:geomhash":"70e0b552142eb35634250fcafb7b4cc0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -69,7 +78,7 @@
         }
     ],
     "wof:id":1108938311,
-    "wof:lastmodified":1566611507,
+    "wof:lastmodified":1690856428,
     "wof:name":"Espace Nord",
     "wof:parent_id":101751573,
     "wof:placetype":"neighbourhood",
@@ -79,10 +88,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    4.35460976594173,
-    50.85996011617381,
-    4.35460976594173,
-    50.85996011617381
+    4.35461,
+    50.85996,
+    4.35461,
+    50.85996
 ],
-  "geometry": {"coordinates":[4.35460976594173,50.85996011617381],"type":"Point"}
+  "geometry": {"coordinates":[4.35461,50.85996],"type":"Point"}
 }

@@ -28,6 +28,9 @@
     "name:epo_x_preferred":[
         "Moerbrugge"
     ],
+    "name:fra_x_preferred":[
+        "Moerbrugge"
+    ],
     "name:nld_x_preferred":[
         "Moerbrugge"
     ],
@@ -88,7 +91,7 @@
         }
     ],
     "wof:id":1125879391,
-    "wof:lastmodified":1566612113,
+    "wof:lastmodified":1690856778,
     "wof:name":"Moerbrugge",
     "wof:parent_id":1108830181,
     "wof:placetype":"locality",

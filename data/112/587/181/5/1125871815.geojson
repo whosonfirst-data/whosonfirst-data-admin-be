@@ -28,6 +28,9 @@
     "name:fra_x_preferred":[
         "Hallaer"
     ],
+    "name:gle_x_preferred":[
+        "Hallaar"
+    ],
     "name:hun_x_preferred":[
         "Hallaar"
     ],
@@ -88,7 +91,7 @@
         }
     ],
     "wof:id":1125871815,
-    "wof:lastmodified":1566612114,
+    "wof:lastmodified":1690856779,
     "wof:name":"Hallaar",
     "wof:parent_id":1108830023,
     "wof:placetype":"locality",

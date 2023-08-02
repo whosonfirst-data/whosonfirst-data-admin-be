@@ -37,6 +37,9 @@
     "name:fra_x_variant":[
         "Fourons (Mouland)"
     ],
+    "name:gle_x_preferred":[
+        "Moelingen"
+    ],
     "name:hun_x_preferred":[
         "Moelingen"
     ],
@@ -48,6 +51,9 @@
     ],
     "name:nld_x_variant":[
         "Moelingen"
+    ],
+    "name:zho_x_preferred":[
+        "\u7a46\u7075\u6069"
     ],
     "qs_pg:aaroncc":"BE",
     "qs_pg:gn_country":"BE",
@@ -105,7 +111,7 @@
         }
     ],
     "wof:id":1125781699,
-    "wof:lastmodified":1566612206,
+    "wof:lastmodified":1690856864,
     "wof:name":"Mouland",
     "wof:parent_id":1108830021,
     "wof:placetype":"locality",

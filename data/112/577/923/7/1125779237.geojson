@@ -22,6 +22,9 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Molenbeek-Wersbeek"
+    ],
     "name:deu_x_preferred":[
         "Molenbeek-Wersbeek"
     ],
@@ -32,6 +35,9 @@
         "Molenbeek-Wersbeek"
     ],
     "name:fra_x_preferred":[
+        "Molenbeek-Wersbeek"
+    ],
+    "name:gle_x_preferred":[
         "Molenbeek-Wersbeek"
     ],
     "name:hun_x_preferred":[
@@ -98,7 +104,7 @@
         }
     ],
     "wof:id":1125779237,
-    "wof:lastmodified":1566612241,
+    "wof:lastmodified":1690856904,
     "wof:name":"Molenbeek-Wersbeek",
     "wof:parent_id":1108830131,
     "wof:placetype":"locality",

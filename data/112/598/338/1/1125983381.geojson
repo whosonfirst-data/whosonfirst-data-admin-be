@@ -22,6 +22,9 @@
     "mz:is_current":1,
     "mz:min_zoom":10.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:arz_x_preferred":[
+        "\u0631\u0648\u0645\u0633\u062a"
+    ],
     "name:bre_x_preferred":[
         "Rumst"
     ],
@@ -61,14 +64,23 @@
     "name:fra_x_preferred":[
         "Rumst"
     ],
+    "name:gle_x_preferred":[
+        "Rumst"
+    ],
     "name:hun_x_preferred":[
         "Rumst"
     ],
     "name:ita_x_preferred":[
         "Rumst"
     ],
+    "name:jpn_x_preferred":[
+        "\u30eb\u30e0\u30b9\u30c8"
+    ],
     "name:kal_x_preferred":[
         "Rumst"
+    ],
+    "name:lat_x_preferred":[
+        "Rumesta"
     ],
     "name:lit_x_preferred":[
         "Rumstas"
@@ -86,6 +98,9 @@
         "Rumst"
     ],
     "name:oci_x_preferred":[
+        "Rumst"
+    ],
+    "name:pol_x_preferred":[
         "Rumst"
     ],
     "name:por_x_preferred":[
@@ -106,6 +121,9 @@
     "name:swe_x_preferred":[
         "Rumst"
     ],
+    "name:tur_x_preferred":[
+        "Rumst"
+    ],
     "name:und_x_variant":[
         "Rumpst"
     ],
@@ -116,6 +134,9 @@
         "Rumst"
     ],
     "name:war_x_preferred":[
+        "Rumst"
+    ],
+    "name:zea_x_preferred":[
         "Rumst"
     ],
     "name:zho_x_preferred":[
@@ -178,7 +199,7 @@
         }
     ],
     "wof:id":1125983381,
-    "wof:lastmodified":1566612164,
+    "wof:lastmodified":1690856814,
     "wof:name":"Rumst",
     "wof:parent_id":1108830173,
     "wof:placetype":"locality",

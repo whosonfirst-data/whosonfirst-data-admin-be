@@ -43,6 +43,9 @@
     "name:fra_x_variant":[
         "Reninghelst"
     ],
+    "name:gle_x_preferred":[
+        "Reningelst"
+    ],
     "name:hun_x_preferred":[
         "Reningelst"
     ],
@@ -117,7 +120,7 @@
         }
     ],
     "wof:id":1126040457,
-    "wof:lastmodified":1566612065,
+    "wof:lastmodified":1690856726,
     "wof:name":"Reningelst",
     "wof:parent_id":1108830029,
     "wof:placetype":"locality",

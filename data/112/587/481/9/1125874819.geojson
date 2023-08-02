@@ -22,6 +22,9 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Saint-G\u00e9rard"
+    ],
     "name:eng_x_preferred":[
         "Saint-G\u00e9rard"
     ],
@@ -86,7 +89,7 @@
         }
     ],
     "wof:id":1125874819,
-    "wof:lastmodified":1566612116,
+    "wof:lastmodified":1690856782,
     "wof:name":"St.-G\u00e9rard",
     "wof:parent_id":102049931,
     "wof:placetype":"locality",

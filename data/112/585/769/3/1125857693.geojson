@@ -28,6 +28,9 @@
     "name:fra_x_preferred":[
         "Haasrode"
     ],
+    "name:gle_x_preferred":[
+        "Haasrode"
+    ],
     "name:hun_x_preferred":[
         "Haasrode"
     ],
@@ -94,7 +97,7 @@
         }
     ],
     "wof:id":1125857693,
-    "wof:lastmodified":1566612204,
+    "wof:lastmodified":1690856861,
     "wof:name":"Haasrode",
     "wof:parent_id":1108830043,
     "wof:placetype":"locality",

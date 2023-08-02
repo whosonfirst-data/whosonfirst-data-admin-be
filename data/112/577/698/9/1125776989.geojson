@@ -28,6 +28,9 @@
     "name:fra_x_preferred":[
         "Baronville"
     ],
+    "name:gle_x_preferred":[
+        "Baronville"
+    ],
     "name:hun_x_preferred":[
         "Baronville"
     ],
@@ -87,7 +90,7 @@
         }
     ],
     "wof:id":1125776989,
-    "wof:lastmodified":1566612250,
+    "wof:lastmodified":1690856917,
     "wof:name":"Baronville",
     "wof:parent_id":102049919,
     "wof:placetype":"locality",

@@ -25,6 +25,9 @@
     "name:bul_x_preferred":[
         "\u0425\u0439\u043e\u043d"
     ],
+    "name:cat_x_preferred":[
+        "Hyon"
+    ],
     "name:ceb_x_preferred":[
         "Hyon"
     ],
@@ -34,10 +37,22 @@
     "name:fra_x_preferred":[
         "Hyon"
     ],
+    "name:gle_x_preferred":[
+        "Hyon"
+    ],
+    "name:lat_x_preferred":[
+        "Hium"
+    ],
     "name:nld_x_preferred":[
         "Hyon"
     ],
     "name:swe_x_preferred":[
+        "Hyon"
+    ],
+    "name:tur_x_preferred":[
+        "Hyon"
+    ],
+    "name:wln_x_preferred":[
         "Hyon"
     ],
     "qs_pg:aaroncc":"BE",
@@ -94,7 +109,7 @@
         }
     ],
     "wof:id":1125776071,
-    "wof:lastmodified":1566612250,
+    "wof:lastmodified":1690856918,
     "wof:name":"Hyon",
     "wof:parent_id":102049933,
     "wof:placetype":"locality",

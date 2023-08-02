@@ -28,14 +28,23 @@
     "name:fra_x_preferred":[
         "Ellikom"
     ],
+    "name:gle_x_preferred":[
+        "Ellikom"
+    ],
     "name:hun_x_preferred":[
         "Ellikom"
+    ],
+    "name:lim_x_preferred":[
+        "Elekom"
     ],
     "name:nld_x_preferred":[
         "Ellikom"
     ],
     "name:und_x_variant":[
         "Ellicum"
+    ],
+    "name:zho_x_preferred":[
+        "\u57c3\u5229\u79d1\u59c6"
     ],
     "qs_pg:aaroncc":"BE",
     "qs_pg:gn_country":"BE",
@@ -93,7 +102,7 @@
         }
     ],
     "wof:id":1125979823,
-    "wof:lastmodified":1566612145,
+    "wof:lastmodified":1690856805,
     "wof:name":"Ellikom",
     "wof:parent_id":1108830211,
     "wof:placetype":"locality",

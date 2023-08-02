@@ -22,10 +22,16 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:deu_x_preferred":[
+        "Liezele"
+    ],
     "name:eng_x_preferred":[
         "Liezele"
     ],
     "name:fra_x_preferred":[
+        "Liezele"
+    ],
+    "name:gle_x_preferred":[
         "Liezele"
     ],
     "name:hun_x_preferred":[
@@ -33,6 +39,9 @@
     ],
     "name:nld_x_preferred":[
         "Liezele"
+    ],
+    "name:zho_x_preferred":[
+        "\u5229\u6cfd\u52d2"
     ],
     "qs_pg:aaroncc":"BE",
     "qs_pg:gn_country":"BE",
@@ -86,7 +95,7 @@
         }
     ],
     "wof:id":1125890435,
-    "wof:lastmodified":1566612106,
+    "wof:lastmodified":1690856770,
     "wof:name":"Liezele",
     "wof:parent_id":1108830309,
     "wof:placetype":"locality",

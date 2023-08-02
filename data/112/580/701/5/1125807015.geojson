@@ -22,6 +22,9 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Floriffoux"
+    ],
     "name:eng_x_preferred":[
         "Floriffoux"
     ],
@@ -36,6 +39,9 @@
     ],
     "name:wln_x_preferred":[
         "Florifo\u00fb"
+    ],
+    "name:zho_x_preferred":[
+        "\u5f17\u6d1b\u91cc\u798f\u514b\u65af"
     ],
     "qs_pg:aaroncc":"BE",
     "qs_pg:gn_country":"BE",
@@ -91,7 +97,7 @@
         }
     ],
     "wof:id":1125807015,
-    "wof:lastmodified":1566612108,
+    "wof:lastmodified":1690856773,
     "wof:name":"Floriffoux",
     "wof:parent_id":102049931,
     "wof:placetype":"locality",

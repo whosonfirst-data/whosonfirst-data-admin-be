@@ -58,6 +58,9 @@
     "name:fra_x_preferred":[
         "Niel"
     ],
+    "name:gle_x_preferred":[
+        "Niel"
+    ],
     "name:hun_x_preferred":[
         "Niel"
     ],
@@ -66,6 +69,9 @@
     ],
     "name:ita_x_preferred":[
         "Niel"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30cb\u30fc\u30eb"
     ],
     "name:ltz_x_preferred":[
         "Niel"
@@ -97,10 +103,16 @@
     "name:swe_x_preferred":[
         "Niel"
     ],
+    "name:tur_x_preferred":[
+        "Niel"
+    ],
     "name:vol_x_preferred":[
         "Niel"
     ],
     "name:war_x_preferred":[
+        "Niel"
+    ],
+    "name:zea_x_preferred":[
         "Niel"
     ],
     "name:zho_x_preferred":[
@@ -163,7 +175,7 @@
         }
     ],
     "wof:id":1126016617,
-    "wof:lastmodified":1566612174,
+    "wof:lastmodified":1690856825,
     "wof:name":"Niel",
     "wof:parent_id":1108830637,
     "wof:placetype":"locality",

@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.000005,
     "geom:area_square_m":42699.979092,
-    "geom:bbox":"4.23414704263,51.0179019429,4.23706213974,51.0200600234",
+    "geom:bbox":"4.234147,51.017902,4.237062,51.02006",
     "geom:latitude":51.019002,
     "geom:longitude":4.235635,
     "iso:country":"BE",
@@ -26,6 +26,9 @@
         "Malderen"
     ],
     "name:fra_x_preferred":[
+        "Malderen"
+    ],
+    "name:gle_x_preferred":[
         "Malderen"
     ],
     "name:ltz_x_preferred":[
@@ -67,7 +70,7 @@
         "wd:id":"Q637158"
     },
     "wof:country":"BE",
-    "wof:geomhash":"48b166ea495101a267a53d58eca54f0d",
+    "wof:geomhash":"b101058f32487db162f4beca04604a8d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -80,7 +83,7 @@
         }
     ],
     "wof:id":101913639,
-    "wof:lastmodified":1566611905,
+    "wof:lastmodified":1690856576,
     "wof:name":"Malderen",
     "wof:parent_id":1108830107,
     "wof:placetype":"locality",
@@ -90,10 +93,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    4.23414704262569,
-    51.01790194287111,
-    4.23706213974015,
-    51.0200600234358
+    4.234147,
+    51.017902,
+    4.237062,
+    51.02006
 ],
-  "geometry": {"coordinates":[[[4.23439866615945,51.01790194287111],[4.23414704262569,51.01991980598359],[4.23696374811766,51.0200600234358],[4.23706213974015,51.01809219098379],[4.23439866615945,51.01790194287111]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[4.234399,51.017902],[4.234147,51.01992],[4.236964,51.02006],[4.237062,51.018092],[4.234399,51.017902]]],"type":"Polygon"}
 }

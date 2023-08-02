@@ -52,6 +52,9 @@
     "name:fra_x_preferred":[
         "Thimister-Clermont"
     ],
+    "name:gle_x_preferred":[
+        "Thimister-Clermont"
+    ],
     "name:hun_x_preferred":[
         "Thimister-Clermont"
     ],
@@ -94,6 +97,9 @@
     "name:swe_x_preferred":[
         "Thimister-Clermont"
     ],
+    "name:szl_x_preferred":[
+        "Thimister-Clermont"
+    ],
     "name:vie_x_preferred":[
         "Thimister-Clermont"
     ],
@@ -106,8 +112,14 @@
     "name:wln_x_preferred":[
         "Timister-Clairmont"
     ],
+    "name:zea_x_preferred":[
+        "Thimister-Clermont"
+    ],
     "name:zho_x_preferred":[
         "\u8482\u7c73\u65af\u7279\u5c14\u2014\u514b\u52d2\u5c14\u8499"
+    ],
+    "name:zho_x_variant":[
+        "\u8482\u7c73\u65af\u6cf0\u5c14-\u514b\u83b1\u8499"
     ],
     "qs_pg:aaroncc":"BE",
     "qs_pg:gn_country":"BE",
@@ -163,7 +175,7 @@
         }
     ],
     "wof:id":1125887875,
-    "wof:lastmodified":1566612096,
+    "wof:lastmodified":1690856763,
     "wof:name":"Thimister-clermont",
     "wof:parent_id":102049935,
     "wof:placetype":"locality",

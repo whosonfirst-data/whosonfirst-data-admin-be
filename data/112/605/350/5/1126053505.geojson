@@ -28,6 +28,9 @@
     "name:fra_x_preferred":[
         "Tollembeek"
     ],
+    "name:gle_x_preferred":[
+        "Tollembeek"
+    ],
     "name:hun_x_preferred":[
         "Tollembeek"
     ],
@@ -89,7 +92,7 @@
         }
     ],
     "wof:id":1126053505,
-    "wof:lastmodified":1566612056,
+    "wof:lastmodified":1690856715,
     "wof:name":"Tollembeek",
     "wof:parent_id":1108830579,
     "wof:placetype":"locality",

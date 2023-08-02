@@ -66,8 +66,17 @@
     "name:ara_x_preferred":[
         "\u062a\u0648\u0631\u0646\u0627\u064a"
     ],
+    "name:ara_x_variant":[
+        "\u0637\u0631\u0646\u0627\u064a"
+    ],
+    "name:arz_x_preferred":[
+        "\u062a\u0648\u0631\u0646\u0627\u0649"
+    ],
     "name:bel_x_preferred":[
         "\u0422\u0443\u0440\u043d\u044d"
+    ],
+    "name:ben_x_preferred":[
+        "\u09a4\u09c1\u09b0\u09cd\u09a8\u09c7"
     ],
     "name:bre_x_preferred":[
         "Tournai"
@@ -117,6 +126,12 @@
     "name:fra_x_preferred":[
         "Tournai"
     ],
+    "name:frr_x_preferred":[
+        "Tournai"
+    ],
+    "name:fry_x_preferred":[
+        "Doarnik"
+    ],
     "name:gle_x_preferred":[
         "Tournai"
     ],
@@ -152,6 +167,9 @@
     ],
     "name:lat_x_preferred":[
         "Turnacum"
+    ],
+    "name:lav_x_preferred":[
+        "Turn\u0113"
     ],
     "name:lim_x_preferred":[
         "Doornik"
@@ -213,6 +231,9 @@
     "name:swe_x_preferred":[
         "Tournai"
     ],
+    "name:szl_x_preferred":[
+        "Tournai"
+    ],
     "name:tat_x_preferred":[
         "\u0422\u0443\u0440\u043d\u0435"
     ],
@@ -240,8 +261,14 @@
     "name:wln_x_preferred":[
         "Tournai"
     ],
+    "name:wuu_x_preferred":[
+        "\u56fe\u5c14\u5948"
+    ],
     "name:yue_x_preferred":[
         "\u5716\u723e\u5948"
+    ],
+    "name:zea_x_preferred":[
+        "Doornik"
     ],
     "name:zho_x_preferred":[
         "\u56fe\u5c14\u5948"
@@ -280,7 +307,7 @@
         "wd:id":"Q173219"
     },
     "wof:country":"BE",
-    "wof:geomhash":"3ebfe16fb5e72646aea6d23d4f49b677",
+    "wof:geomhash":"471c085157517fff1ec6502a29ff3114",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -291,7 +318,7 @@
         }
     ],
     "wof:id":102049951,
-    "wof:lastmodified":1684351493,
+    "wof:lastmodified":1690856399,
     "wof:name":"Tournai",
     "wof:parent_id":85681723,
     "wof:placetype":"county",

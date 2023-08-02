@@ -66,6 +66,9 @@
     "name:ara_x_preferred":[
         "\u0647\u0648\u064a"
     ],
+    "name:arz_x_preferred":[
+        "\u0647\u0648\u0649"
+    ],
     "name:bre_x_preferred":[
         "Huy"
     ],
@@ -108,6 +111,9 @@
     "name:fra_x_preferred":[
         "Huy"
     ],
+    "name:gle_x_preferred":[
+        "Huy"
+    ],
     "name:heb_x_preferred":[
         "\u05d0\u05d5\u05d0\u05d9"
     ],
@@ -126,8 +132,14 @@
     "name:jpn_x_preferred":[
         "\u30e6\u30a4"
     ],
+    "name:kat_x_preferred":[
+        "\u10d8\u10e3\u10d8"
+    ],
     "name:kor_x_preferred":[
         "\uc774"
+    ],
+    "name:lat_x_preferred":[
+        "Hoium"
     ],
     "name:lav_x_preferred":[
         "Ija"
@@ -201,6 +213,9 @@
     "name:wln_x_preferred":[
         "Hu"
     ],
+    "name:zea_x_preferred":[
+        "Hoei"
+    ],
     "name:zho_x_preferred":[
         "\u4e8e\u4f0a"
     ],
@@ -248,7 +263,7 @@
         "wd:id":"Q207095"
     },
     "wof:country":"BE",
-    "wof:geomhash":"4d72eeadea95bef88539ea17f751f494",
+    "wof:geomhash":"f03164ec25ad784b35fb5f576be421bd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -259,7 +274,7 @@
         }
     ],
     "wof:id":102049925,
-    "wof:lastmodified":1684351492,
+    "wof:lastmodified":1690856397,
     "wof:name":"Huy",
     "wof:parent_id":85681691,
     "wof:placetype":"county",

@@ -26,13 +26,22 @@
     "mz:min_zoom":13.0,
     "mz:tier_locality":2,
     "mz:tier_metro":30,
+    "name:ara_x_preferred":[
+        "\u0645\u0631\u0643\u0633\u064a\u0645"
+    ],
     "name:bre_x_preferred":[
         "Merksem"
     ],
     "name:bul_x_preferred":[
         "\u041c\u0435\u0440\u043a\u0441\u0435\u043c"
     ],
+    "name:cat_x_preferred":[
+        "Merksem"
+    ],
     "name:ceb_x_preferred":[
+        "Merksem"
+    ],
+    "name:dan_x_preferred":[
         "Merksem"
     ],
     "name:deu_x_preferred":[
@@ -48,6 +57,9 @@
         "\u0645\u0631\u06a9\u200c\u0633\u0627\u0645"
     ],
     "name:fra_x_preferred":[
+        "Merksem"
+    ],
+    "name:gle_x_preferred":[
         "Merksem"
     ],
     "name:hun_x_preferred":[
@@ -76,6 +88,9 @@
     ],
     "name:swe_x_preferred":[
         "Merksem"
+    ],
+    "name:zho_x_preferred":[
+        "\u6885\u514b\u745f\u59c6"
     ],
     "qs:gn_adm0_cc":"BE",
     "qs:gn_fcode":"PPL",
@@ -148,7 +163,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1582345518,
+    "wof:lastmodified":1690856420,
     "wof:name":"Merksem",
     "wof:parent_id":101748099,
     "wof:placetype":"neighbourhood",

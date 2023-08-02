@@ -28,8 +28,17 @@
     "name:fra_x_preferred":[
         "Beffe"
     ],
+    "name:gle_x_preferred":[
+        "Beffe"
+    ],
     "name:hun_x_preferred":[
         "Beffe"
+    ],
+    "name:ita_x_preferred":[
+        "Beffe"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d9\u30c3\u30d5\u30a7"
     ],
     "name:nld_x_preferred":[
         "Beffe"
@@ -91,7 +100,7 @@
         }
     ],
     "wof:id":1126046117,
-    "wof:lastmodified":1566612063,
+    "wof:lastmodified":1690856724,
     "wof:name":"Beffe",
     "wof:parent_id":102049921,
     "wof:placetype":"locality",

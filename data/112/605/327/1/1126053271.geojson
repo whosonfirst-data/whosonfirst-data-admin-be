@@ -28,6 +28,9 @@
     "name:fra_x_preferred":[
         "Godveerdegem"
     ],
+    "name:gle_x_preferred":[
+        "Godveerdegem"
+    ],
     "name:hun_x_preferred":[
         "Godveerdegem"
     ],
@@ -89,7 +92,7 @@
         }
     ],
     "wof:id":1126053271,
-    "wof:lastmodified":1566612059,
+    "wof:lastmodified":1690856720,
     "wof:name":"Godveerdegem",
     "wof:parent_id":1108830019,
     "wof:placetype":"locality",

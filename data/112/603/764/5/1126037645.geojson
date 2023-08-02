@@ -28,6 +28,9 @@
     "name:fra_x_preferred":[
         "Obigies"
     ],
+    "name:gle_x_preferred":[
+        "Obigies"
+    ],
     "name:hun_x_preferred":[
         "Obigies"
     ],
@@ -88,7 +91,7 @@
         }
     ],
     "wof:id":1126037645,
-    "wof:lastmodified":1566612068,
+    "wof:lastmodified":1690856731,
     "wof:name":"Obigies",
     "wof:parent_id":102049951,
     "wof:placetype":"locality",

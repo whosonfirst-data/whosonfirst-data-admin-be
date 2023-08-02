@@ -28,6 +28,9 @@
     "name:fra_x_preferred":[
         "Hoevenen"
     ],
+    "name:gle_x_preferred":[
+        "Hoevenen"
+    ],
     "name:hun_x_preferred":[
         "Hoevenen"
     ],
@@ -90,7 +93,7 @@
         }
     ],
     "wof:id":1125995603,
-    "wof:lastmodified":1566612129,
+    "wof:lastmodified":1690856784,
     "wof:name":"Hoevenen",
     "wof:parent_id":1108830377,
     "wof:placetype":"locality",

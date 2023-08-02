@@ -49,6 +49,12 @@
     "name:fra_x_variant":[
         "Jupille-sur-Meuse"
     ],
+    "name:gle_x_preferred":[
+        "Jupille-sur-Meuse"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d6'\u05d9\u05e4\u05d9\u05d9-\u05e1\u05d9\u05e8-\u05de\u05d6"
+    ],
     "name:hun_x_preferred":[
         "Jupille-sur-Meuse"
     ],
@@ -81,6 +87,9 @@
     ],
     "name:wln_x_preferred":[
         "Djoupeye"
+    ],
+    "name:zho_x_preferred":[
+        "\u9ed8\u5179\u6cb3\u7554\u745e\u76ae\u8036"
     ],
     "qs:gn_adm0_cc":"BE",
     "qs:gn_fcode":"PPL",
@@ -151,7 +160,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1582345515,
+    "wof:lastmodified":1690856409,
     "wof:name":"Jupille",
     "wof:parent_id":101748083,
     "wof:placetype":"neighbourhood",

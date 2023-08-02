@@ -31,6 +31,9 @@
     "name:fra_x_preferred":[
         "Krombeke"
     ],
+    "name:gle_x_preferred":[
+        "Krombeke"
+    ],
     "name:hun_x_preferred":[
         "Krombeke"
     ],
@@ -99,7 +102,7 @@
         }
     ],
     "wof:id":1125829995,
-    "wof:lastmodified":1566612194,
+    "wof:lastmodified":1690856848,
     "wof:name":"Krombeke",
     "wof:parent_id":1108830029,
     "wof:placetype":"locality",

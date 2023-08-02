@@ -22,10 +22,19 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Frahan"
+    ],
+    "name:deu_x_preferred":[
+        "Frahan"
+    ],
     "name:eng_x_preferred":[
         "Frahan"
     ],
     "name:fra_x_preferred":[
+        "Frahan"
+    ],
+    "name:ltz_x_preferred":[
         "Frahan"
     ],
     "name:nld_x_preferred":[
@@ -88,7 +97,7 @@
         }
     ],
     "wof:id":1125779429,
-    "wof:lastmodified":1566612252,
+    "wof:lastmodified":1690856920,
     "wof:name":"Frahan",
     "wof:parent_id":102049913,
     "wof:placetype":"locality",

@@ -40,6 +40,9 @@
     "name:fra_x_preferred":[
         "Loker"
     ],
+    "name:gle_x_preferred":[
+        "Loker"
+    ],
     "name:hun_x_preferred":[
         "Loker"
     ],
@@ -111,7 +114,7 @@
         }
     ],
     "wof:id":1126032153,
-    "wof:lastmodified":1566612071,
+    "wof:lastmodified":1690856735,
     "wof:name":"Loker",
     "wof:parent_id":1108830671,
     "wof:placetype":"locality",

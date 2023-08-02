@@ -37,6 +37,9 @@
     "name:fra_x_variant":[
         "Eggewaerts-Capelle"
     ],
+    "name:gle_x_preferred":[
+        "Eggewaartskapelle"
+    ],
     "name:hun_x_preferred":[
         "Eggewaartskapelle"
     ],
@@ -103,7 +106,7 @@
         }
     ],
     "wof:id":1125916559,
-    "wof:lastmodified":1566612164,
+    "wof:lastmodified":1690856814,
     "wof:name":"Eggewaartskapelle",
     "wof:parent_id":1108830165,
     "wof:placetype":"locality",

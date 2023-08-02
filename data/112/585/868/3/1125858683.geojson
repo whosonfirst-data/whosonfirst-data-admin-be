@@ -28,6 +28,9 @@
     "name:fra_x_preferred":[
         "Soy"
     ],
+    "name:gle_x_preferred":[
+        "Soy"
+    ],
     "name:hun_x_preferred":[
         "Soy"
     ],
@@ -88,7 +91,7 @@
         }
     ],
     "wof:id":1125858683,
-    "wof:lastmodified":1566612203,
+    "wof:lastmodified":1690856860,
     "wof:name":"Soy",
     "wof:parent_id":102049921,
     "wof:placetype":"locality",

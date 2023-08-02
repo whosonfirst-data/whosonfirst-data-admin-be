@@ -70,6 +70,9 @@
     "name:fra_x_preferred":[
         "Saint-Ghislain"
     ],
+    "name:gle_x_preferred":[
+        "Saint-Ghislain"
+    ],
     "name:heb_x_preferred":[
         "\u05e1\u05df-\u05d2\u05d9\u05e1\u05dc\u05df"
     ],
@@ -84,6 +87,9 @@
     ],
     "name:jpn_x_preferred":[
         "\u30b5\u30f3\uff1d\u30ae\u30b9\u30e9\u30f3"
+    ],
+    "name:lat_x_preferred":[
+        "Ghislenopolis"
     ],
     "name:lim_x_preferred":[
         "Saint-Ghislain"
@@ -134,6 +140,12 @@
     "name:swe_x_preferred":[
         "Saint-Ghislain"
     ],
+    "name:tur_x_preferred":[
+        "Saint-Ghislain"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0435\u043d-\u0413\u0456\u0437\u043b\u0435\u043d"
+    ],
     "name:urd_x_preferred":[
         "\u0633\u06cc\u0646\u0679-\u063a\u0635\u0644\u06cc\u06ba"
     ],
@@ -151,6 +163,9 @@
     ],
     "name:zho_x_preferred":[
         "\u8056\u5409\u65af\u862d"
+    ],
+    "name:zho_x_variant":[
+        "\u5723\u5409\u5170"
     ],
     "qs_pg:aaroncc":"BE",
     "qs_pg:gn_country":"BE",
@@ -207,7 +222,7 @@
         }
     ],
     "wof:id":1126016587,
-    "wof:lastmodified":1566612173,
+    "wof:lastmodified":1690856823,
     "wof:name":"St.-Ghislain",
     "wof:parent_id":102049933,
     "wof:placetype":"locality",

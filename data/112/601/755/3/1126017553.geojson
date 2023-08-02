@@ -22,13 +22,22 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Weert"
+    ],
     "name:eng_x_preferred":[
         "Weert"
     ],
     "name:fra_x_preferred":[
         "Weert"
     ],
+    "name:gle_x_preferred":[
+        "Weert"
+    ],
     "name:hun_x_preferred":[
+        "Weert"
+    ],
+    "name:ita_x_preferred":[
         "Weert"
     ],
     "name:nld_x_preferred":[
@@ -96,7 +105,7 @@
         }
     ],
     "wof:id":1126017553,
-    "wof:lastmodified":1566612170,
+    "wof:lastmodified":1690856819,
     "wof:name":"Weert",
     "wof:parent_id":1108830535,
     "wof:placetype":"locality",

@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.000002,
     "geom:area_square_m":18369.983998,
-    "geom:bbox":"5.16443268224,50.9535344245,5.16758473864,50.9545221416",
+    "geom:bbox":"5.164433,50.953534,5.167585,50.954522",
     "geom:latitude":50.954013,
     "geom:longitude":5.165804,
     "gn:population":11566,
@@ -41,6 +41,9 @@
     "name:deu_x_preferred":[
         "Herk-de-Stad"
     ],
+    "name:ell_x_preferred":[
+        "\u03a7\u03b5\u03c1\u03ba-\u03bd\u03c4\u03b5-\u03a3\u03c4\u03b1\u03c4"
+    ],
     "name:eng_x_preferred":[
         "Herk-de-Stad"
     ],
@@ -59,6 +62,9 @@
     "name:fra_x_preferred":[
         "Herck-la-Ville"
     ],
+    "name:gle_x_preferred":[
+        "Herk-de-Stad"
+    ],
     "name:hun_x_preferred":[
         "Herk-de-Stad"
     ],
@@ -67,6 +73,9 @@
     ],
     "name:kal_x_preferred":[
         "Herk-de-Stad"
+    ],
+    "name:lat_x_preferred":[
+        "Herka"
     ],
     "name:lim_x_preferred":[
         "Herk"
@@ -128,8 +137,14 @@
     "name:war_x_preferred":[
         "Herk-de-Stad"
     ],
+    "name:zea_x_preferred":[
+        "Herk-de-Stad"
+    ],
     "name:zho_x_preferred":[
         "\u8d6b\u5c14\u514b\u5fb7\u65af\u5854\u5fb7"
+    ],
+    "name:zho_x_variant":[
+        "\u6d77\u5c14\u514b\u57ce"
     ],
     "qs:a0":"Belgi\u00eb#Belgique#Belgien",
     "qs:a1":"*Limburg",
@@ -165,7 +180,7 @@
         "wd:id":"Q696585"
     },
     "wof:country":"BE",
-    "wof:geomhash":"98aa114635d859bcc45021998a7566bc",
+    "wof:geomhash":"4666da13b9b0c3cd8bcbe31086bfa771",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -178,7 +193,7 @@
         }
     ],
     "wof:id":101913583,
-    "wof:lastmodified":1566611907,
+    "wof:lastmodified":1690856579,
     "wof:name":"Herk-de-Stad",
     "wof:parent_id":1108830495,
     "wof:placetype":"locality",
@@ -190,10 +205,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    5.16443268224305,
-    50.95353442448732,
-    5.16758473863922,
-    50.95452214163805
+    5.164433,
+    50.953534,
+    5.167585,
+    50.954522
 ],
-  "geometry": {"coordinates":[[[5.16758473863922,50.95366223520483],[5.16452618209712,50.95353442448732],[5.16443268224305,50.95443107652807],[5.16661157441462,50.95452214163805],[5.16758473863922,50.95366223520483]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[5.167585,50.953662],[5.164526,50.953534],[5.164433,50.954431],[5.166612,50.954522],[5.167585,50.953662]]],"type":"Polygon"}
 }

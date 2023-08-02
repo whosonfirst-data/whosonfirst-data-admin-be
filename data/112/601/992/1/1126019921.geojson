@@ -28,6 +28,9 @@
     "name:fra_x_preferred":[
         "Wommersom"
     ],
+    "name:gle_x_preferred":[
+        "Wommersom"
+    ],
     "name:hun_x_preferred":[
         "Wommersom"
     ],
@@ -90,7 +93,7 @@
         }
     ],
     "wof:id":1126019921,
-    "wof:lastmodified":1566612175,
+    "wof:lastmodified":1690856825,
     "wof:name":"Wommersom",
     "wof:parent_id":1108830045,
     "wof:placetype":"locality",

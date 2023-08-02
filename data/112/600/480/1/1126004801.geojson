@@ -22,10 +22,19 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Chevetogne"
+    ],
     "name:eng_x_preferred":[
         "Chevetogne"
     ],
     "name:fra_x_preferred":[
+        "Chevetogne"
+    ],
+    "name:gle_x_preferred":[
+        "Chevetogne"
+    ],
+    "name:ita_x_preferred":[
         "Chevetogne"
     ],
     "name:nld_x_preferred":[
@@ -94,7 +103,7 @@
         }
     ],
     "wof:id":1126004801,
-    "wof:lastmodified":1566612187,
+    "wof:lastmodified":1690856844,
     "wof:name":"Chevetogne",
     "wof:parent_id":102049919,
     "wof:placetype":"locality",

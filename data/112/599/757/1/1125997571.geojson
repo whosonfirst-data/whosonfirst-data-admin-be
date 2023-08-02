@@ -28,6 +28,9 @@
     "name:fra_x_preferred":[
         "Ezemaal"
     ],
+    "name:gle_x_preferred":[
+        "Ezemaal"
+    ],
     "name:hun_x_preferred":[
         "Ezemaal"
     ],
@@ -93,7 +96,7 @@
         }
     ],
     "wof:id":1125997571,
-    "wof:lastmodified":1566612135,
+    "wof:lastmodified":1690856791,
     "wof:name":"Ezemaal",
     "wof:parent_id":1108830259,
     "wof:placetype":"locality",

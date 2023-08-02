@@ -22,6 +22,9 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Montignies-sur-Sambre"
+    ],
     "name:ceb_x_preferred":[
         "Montignies-sur-Sambre"
     ],
@@ -40,8 +43,17 @@
     "name:fra_x_preferred":[
         "Montignies-sur-Sambre"
     ],
+    "name:gle_x_preferred":[
+        "Montignies-sur-Sambre"
+    ],
     "name:hun_x_preferred":[
         "Montignies-sur-Sambre"
+    ],
+    "name:ita_x_preferred":[
+        "Montignies-sur-Sambre"
+    ],
+    "name:lat_x_preferred":[
+        "Montinium"
     ],
     "name:ltz_x_preferred":[
         "Montignies-sur-Sambre"
@@ -52,8 +64,17 @@
     "name:pol_x_preferred":[
         "Montignies-sur-Sambre"
     ],
+    "name:ron_x_preferred":[
+        "Montignies-sur-Sambre"
+    ],
     "name:und_x_variant":[
         "Charleroi (Montignies-sur-Sambre)"
+    ],
+    "name:wln_x_preferred":[
+        "Montgneye-so-Sambe"
+    ],
+    "name:zho_x_preferred":[
+        "\u6851\u5e03\u5c14\u6cb3\u7554\u8499\u8482\u5c3c"
     ],
     "qs_pg:aaroncc":"BE",
     "qs_pg:gn_country":"BE",
@@ -107,7 +128,7 @@
         }
     ],
     "wof:id":1125929351,
-    "wof:lastmodified":1566612027,
+    "wof:lastmodified":1690856689,
     "wof:name":"Montignies-sur-Sambre",
     "wof:parent_id":102049927,
     "wof:placetype":"locality",

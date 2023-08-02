@@ -28,6 +28,12 @@
     "name:fra_x_preferred":[
         "Haute-Croix"
     ],
+    "name:gle_x_preferred":[
+        "Heikruis"
+    ],
+    "name:lat_x_preferred":[
+        "Hadonis crucem"
+    ],
     "name:nld_x_preferred":[
         "Heikruis"
     ],
@@ -88,7 +94,7 @@
         }
     ],
     "wof:id":1125790105,
-    "wof:lastmodified":1566612226,
+    "wof:lastmodified":1690856885,
     "wof:name":"Heikruis",
     "wof:parent_id":1108830351,
     "wof:placetype":"locality",

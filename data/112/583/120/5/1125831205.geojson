@@ -28,10 +28,16 @@
     "name:fra_x_preferred":[
         "Ere"
     ],
+    "name:gle_x_preferred":[
+        "Ere"
+    ],
     "name:hun_x_preferred":[
         "Ere"
     ],
     "name:nld_x_preferred":[
+        "Ere"
+    ],
+    "name:vls_x_preferred":[
         "Ere"
     ],
     "qs_pg:aaroncc":"BE",
@@ -86,7 +92,7 @@
         }
     ],
     "wof:id":1125831205,
-    "wof:lastmodified":1566612256,
+    "wof:lastmodified":1690856925,
     "wof:name":"Ere",
     "wof:parent_id":102049951,
     "wof:placetype":"locality",

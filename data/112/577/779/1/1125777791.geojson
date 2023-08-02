@@ -31,6 +31,9 @@
     "name:fra_x_preferred":[
         "Nieuwmunster"
     ],
+    "name:gle_x_preferred":[
+        "Nieuwmunster"
+    ],
     "name:hun_x_preferred":[
         "Nieuwmunster"
     ],
@@ -99,7 +102,7 @@
         }
     ],
     "wof:id":1125777791,
-    "wof:lastmodified":1566612242,
+    "wof:lastmodified":1690856905,
     "wof:name":"Nieuwmunster",
     "wof:parent_id":1108830569,
     "wof:placetype":"locality",

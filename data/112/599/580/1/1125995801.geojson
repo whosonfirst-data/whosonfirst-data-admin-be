@@ -37,6 +37,9 @@
     "name:bar_x_preferred":[
         "Schoten"
     ],
+    "name:bel_x_preferred":[
+        "\u0421\u0445\u043e\u0442\u044d\u043d"
+    ],
     "name:bre_x_preferred":[
         "Schoten"
     ],
@@ -64,6 +67,9 @@
     "name:deu_x_preferred":[
         "Schoten"
     ],
+    "name:ell_x_preferred":[
+        "\u03a3\u03c7\u03cc\u03c4\u03b5\u03bd"
+    ],
     "name:eng_x_preferred":[
         "Schoten"
     ],
@@ -86,6 +92,9 @@
         "Schoten"
     ],
     "name:frp_x_preferred":[
+        "Schoten"
+    ],
+    "name:frr_x_preferred":[
         "Schoten"
     ],
     "name:fur_x_preferred":[
@@ -130,6 +139,9 @@
     "name:ita_x_preferred":[
         "Schoten"
     ],
+    "name:jpn_x_preferred":[
+        "\u30b9\u30b3\u30fc\u30c6\u30f3"
+    ],
     "name:kon_x_preferred":[
         "Schoten"
     ],
@@ -144,6 +156,9 @@
     ],
     "name:ltz_x_preferred":[
         "Schoten"
+    ],
+    "name:mdf_x_preferred":[
+        "\u0421\u0445\u043e\u0442\u044d\u043d"
     ],
     "name:min_x_preferred":[
         "Schoten"
@@ -223,6 +238,12 @@
     "name:swe_x_preferred":[
         "Schoten"
     ],
+    "name:tur_x_preferred":[
+        "Schoten"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0445\u043e\u0442\u0435\u043d"
+    ],
     "name:und_x_variant":[
         "Schooten"
     ],
@@ -245,6 +266,9 @@
         "Schoten"
     ],
     "name:wol_x_preferred":[
+        "Schoten"
+    ],
+    "name:zea_x_preferred":[
         "Schoten"
     ],
     "name:zho_x_preferred":[
@@ -310,7 +334,7 @@
         }
     ],
     "wof:id":1125995801,
-    "wof:lastmodified":1566612133,
+    "wof:lastmodified":1690856789,
     "wof:name":"Schoten",
     "wof:parent_id":1108830155,
     "wof:placetype":"locality",

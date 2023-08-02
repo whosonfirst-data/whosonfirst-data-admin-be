@@ -22,8 +22,14 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u0633\u0627\u0646\u062a \u0641\u064a\u062b"
+    ],
     "name:bre_x_preferred":[
         "Sankt-Vith"
+    ],
+    "name:bre_x_variant":[
+        "Sankt Vith"
     ],
     "name:bul_x_preferred":[
         "\u0421\u0430\u043d\u043a\u0442 \u0412\u0438\u0442"
@@ -35,6 +41,9 @@
         "Saint-Vith"
     ],
     "name:ces_x_preferred":[
+        "Sankt Vith"
+    ],
+    "name:dan_x_preferred":[
         "Sankt Vith"
     ],
     "name:deu_x_preferred":[
@@ -57,6 +66,9 @@
     ],
     "name:fra_x_preferred":[
         "Saint-Vith"
+    ],
+    "name:gle_x_preferred":[
+        "Sankt Vith"
     ],
     "name:heb_x_preferred":[
         "\u05e1\u05df \u05d5\u05d9\u05ea"
@@ -121,6 +133,12 @@
     "name:swe_x_preferred":[
         "Saint-Vith"
     ],
+    "name:szl_x_preferred":[
+        "Sankt Vith"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0430\u043d\u043a\u0442-\u0412\u0456\u0442"
+    ],
     "name:vie_x_preferred":[
         "St. Vith"
     ],
@@ -133,8 +151,14 @@
     "name:wln_x_preferred":[
         "Sint-Vi"
     ],
+    "name:zea_x_preferred":[
+        "Sankt Vith"
+    ],
     "name:zho_x_preferred":[
         "\u5723\u7ef4\u7279"
+    ],
+    "name:zho_x_variant":[
+        "\u5723\u83f2\u7279"
     ],
     "qs_pg:aaroncc":"BE",
     "qs_pg:gn_country":"BE",
@@ -177,7 +201,7 @@
         }
     ],
     "wof:id":1125901795,
-    "wof:lastmodified":1566612144,
+    "wof:lastmodified":1690856803,
     "wof:name":"Saint-Vith",
     "wof:parent_id":102049935,
     "wof:placetype":"locality",

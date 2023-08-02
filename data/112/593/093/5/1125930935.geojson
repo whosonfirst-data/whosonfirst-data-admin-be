@@ -31,6 +31,9 @@
     "name:fra_x_preferred":[
         "Brielen"
     ],
+    "name:gle_x_preferred":[
+        "Brielen"
+    ],
     "name:hun_x_preferred":[
         "Brielen"
     ],
@@ -94,7 +97,7 @@
         }
     ],
     "wof:id":1125930935,
-    "wof:lastmodified":1566612022,
+    "wof:lastmodified":1690856685,
     "wof:name":"Brielen",
     "wof:parent_id":1108830595,
     "wof:placetype":"locality",

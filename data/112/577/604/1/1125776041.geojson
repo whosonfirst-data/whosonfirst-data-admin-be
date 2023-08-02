@@ -37,6 +37,9 @@
     "name:fra_x_preferred":[
         "Desteldonk"
     ],
+    "name:gle_x_preferred":[
+        "Desteldonk"
+    ],
     "name:hun_x_preferred":[
         "Desteldonk"
     ],
@@ -51,6 +54,9 @@
     ],
     "name:und_x_variant":[
         "Desteldonck"
+    ],
+    "name:zho_x_preferred":[
+        "\u4ee3\u65af\u7279\u5c14\u4e1c\u514b"
     ],
     "qs_pg:aaroncc":"BE",
     "qs_pg:gn_country":"BE",
@@ -108,7 +114,7 @@
         }
     ],
     "wof:id":1125776041,
-    "wof:lastmodified":1566612238,
+    "wof:lastmodified":1690856900,
     "wof:name":"Desteldonk",
     "wof:parent_id":1108830083,
     "wof:placetype":"locality",

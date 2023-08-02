@@ -61,6 +61,12 @@
     "name:fra_x_preferred":[
         "Linter"
     ],
+    "name:gle_x_preferred":[
+        "Linter"
+    ],
+    "name:heb_x_preferred":[
+        "\u05dc\u05d9\u05e0\u05d8\u05e8"
+    ],
     "name:hun_x_preferred":[
         "Linter"
     ],
@@ -85,11 +91,17 @@
     "name:oci_x_preferred":[
         "Linter"
     ],
+    "name:pol_x_preferred":[
+        "Linter"
+    ],
     "name:por_x_preferred":[
         "Linter"
     ],
     "name:ron_x_preferred":[
         "Linter"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u0438\u043d\u0442\u0435\u0440"
     ],
     "name:slk_x_preferred":[
         "Linter"
@@ -100,6 +112,9 @@
     "name:swe_x_preferred":[
         "Linter"
     ],
+    "name:tur_x_preferred":[
+        "Linter"
+    ],
     "name:vie_x_preferred":[
         "Linter"
     ],
@@ -107,6 +122,12 @@
         "Linter"
     ],
     "name:war_x_preferred":[
+        "Linter"
+    ],
+    "name:wln_x_preferred":[
+        "L\u00e9nte"
+    ],
+    "name:zea_x_preferred":[
         "Linter"
     ],
     "name:zho_x_preferred":[
@@ -168,7 +189,7 @@
         }
     ],
     "wof:id":1125952833,
-    "wof:lastmodified":1566612032,
+    "wof:lastmodified":1690856695,
     "wof:name":"Linter",
     "wof:parent_id":1108830045,
     "wof:placetype":"locality",

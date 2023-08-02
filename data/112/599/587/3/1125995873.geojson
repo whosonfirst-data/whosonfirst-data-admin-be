@@ -28,6 +28,9 @@
     "name:fra_x_preferred":[
         "Leerbeek"
     ],
+    "name:gle_x_preferred":[
+        "Leerbeek"
+    ],
     "name:hun_x_preferred":[
         "Leerbeek"
     ],
@@ -91,7 +94,7 @@
         }
     ],
     "wof:id":1125995873,
-    "wof:lastmodified":1566612133,
+    "wof:lastmodified":1690856789,
     "wof:name":"Leerbeek",
     "wof:parent_id":1108830505,
     "wof:placetype":"locality",

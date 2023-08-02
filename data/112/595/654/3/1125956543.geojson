@@ -28,6 +28,9 @@
     "name:fra_x_preferred":[
         "Qu\u00e9vy-le-Grand"
     ],
+    "name:gle_x_preferred":[
+        "Qu\u00e9vy-le-Grand"
+    ],
     "name:hun_x_preferred":[
         "Qu\u00e9vy-le-Grand"
     ],
@@ -88,7 +91,7 @@
         }
     ],
     "wof:id":1125956543,
-    "wof:lastmodified":1566612034,
+    "wof:lastmodified":1690856697,
     "wof:name":"Qu\u00e9vy-le-Grand",
     "wof:parent_id":102049933,
     "wof:placetype":"locality",

@@ -59,11 +59,17 @@
     "name:fra_x_preferred":[
         "Borsbeek"
     ],
+    "name:gle_x_preferred":[
+        "Borsbeek"
+    ],
     "name:hun_x_preferred":[
         "Borsbeek"
     ],
     "name:ita_x_preferred":[
         "Borsbeek"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30dc\u30eb\u30b9\u30d9\u30fc\u30af"
     ],
     "name:ltz_x_preferred":[
         "Borsbeek"
@@ -95,6 +101,9 @@
     "name:swe_x_preferred":[
         "Borsbeek"
     ],
+    "name:tur_x_preferred":[
+        "Borsbeek"
+    ],
     "name:vie_x_preferred":[
         "Borsbeek"
     ],
@@ -102,6 +111,9 @@
         "Borsbeek"
     ],
     "name:war_x_preferred":[
+        "Borsbeek"
+    ],
+    "name:zea_x_preferred":[
         "Borsbeek"
     ],
     "name:zho_x_preferred":[
@@ -178,7 +190,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1582345516,
+    "wof:lastmodified":1690856413,
     "wof:name":"Borsbeek",
     "wof:parent_id":101748099,
     "wof:placetype":"neighbourhood",

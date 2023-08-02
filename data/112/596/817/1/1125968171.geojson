@@ -34,6 +34,9 @@
     "name:fra_x_preferred":[
         "Ghislenghien"
     ],
+    "name:gle_x_preferred":[
+        "Ghislenghien"
+    ],
     "name:hun_x_preferred":[
         "Ghislenghien"
     ],
@@ -101,7 +104,7 @@
         }
     ],
     "wof:id":1125968171,
-    "wof:lastmodified":1566612159,
+    "wof:lastmodified":1690856809,
     "wof:name":"Ghislenghien",
     "wof:parent_id":102049949,
     "wof:placetype":"locality",

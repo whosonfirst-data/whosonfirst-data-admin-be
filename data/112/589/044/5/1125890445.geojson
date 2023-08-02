@@ -34,6 +34,9 @@
     "name:fra_x_variant":[
         "Ligne"
     ],
+    "name:gle_x_preferred":[
+        "Ligne"
+    ],
     "name:hun_x_preferred":[
         "Ligne"
     ],
@@ -49,7 +52,13 @@
     "name:nld_x_preferred":[
         "Ligne"
     ],
+    "name:pcd_x_preferred":[
+        "Lin"
+    ],
     "name:spa_x_preferred":[
+        "Ligne"
+    ],
+    "name:wln_x_preferred":[
         "Ligne"
     ],
     "qs_pg:aaroncc":"BE",
@@ -102,7 +111,7 @@
         }
     ],
     "wof:id":1125890445,
-    "wof:lastmodified":1566612105,
+    "wof:lastmodified":1690856770,
     "wof:name":"Ligne",
     "wof:parent_id":102049949,
     "wof:placetype":"locality",

@@ -28,6 +28,9 @@
     "name:fra_x_preferred":[
         "Vellereille-le-Sec"
     ],
+    "name:gle_x_preferred":[
+        "Vellereille-le-Sec"
+    ],
     "name:hun_x_preferred":[
         "Vellereille-le-Sec"
     ],
@@ -86,7 +89,7 @@
         }
     ],
     "wof:id":1125801571,
-    "wof:lastmodified":1566612109,
+    "wof:lastmodified":1690856773,
     "wof:name":"Vellereille-le-Sec",
     "wof:parent_id":102049923,
     "wof:placetype":"locality",

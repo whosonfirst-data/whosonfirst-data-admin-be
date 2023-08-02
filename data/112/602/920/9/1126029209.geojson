@@ -28,6 +28,9 @@
     "name:fra_x_preferred":[
         "Vurste"
     ],
+    "name:gle_x_preferred":[
+        "Vurste"
+    ],
     "name:hun_x_preferred":[
         "Vurste"
     ],
@@ -88,7 +91,7 @@
         }
     ],
     "wof:id":1126029209,
-    "wof:lastmodified":1566612048,
+    "wof:lastmodified":1690856704,
     "wof:name":"Vurste",
     "wof:parent_id":1108830425,
     "wof:placetype":"locality",

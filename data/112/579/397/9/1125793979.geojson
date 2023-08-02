@@ -37,6 +37,9 @@
     "name:fra_x_preferred":[
         "Zande"
     ],
+    "name:gle_x_preferred":[
+        "Zande"
+    ],
     "name:hun_x_preferred":[
         "Zande"
     ],
@@ -109,7 +112,7 @@
         }
     ],
     "wof:id":1125793979,
-    "wof:lastmodified":1566612219,
+    "wof:lastmodified":1690856877,
     "wof:name":"Zande",
     "wof:parent_id":1108830305,
     "wof:placetype":"locality",

@@ -31,6 +31,9 @@
     "name:fra_x_preferred":[
         "Impe"
     ],
+    "name:gle_x_preferred":[
+        "Impe"
+    ],
     "name:hun_x_preferred":[
         "Impe"
     ],
@@ -92,7 +95,7 @@
         }
     ],
     "wof:id":1125778281,
-    "wof:lastmodified":1566612236,
+    "wof:lastmodified":1690856897,
     "wof:name":"Impe",
     "wof:parent_id":1108830331,
     "wof:placetype":"locality",

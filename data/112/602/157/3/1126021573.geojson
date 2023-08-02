@@ -28,6 +28,9 @@
     "name:fra_x_preferred":[
         "Webbekom"
     ],
+    "name:gle_x_preferred":[
+        "Webbekom"
+    ],
     "name:hun_x_preferred":[
         "Webbekom"
     ],
@@ -93,7 +96,7 @@
         }
     ],
     "wof:id":1126021573,
-    "wof:lastmodified":1566612044,
+    "wof:lastmodified":1690856699,
     "wof:name":"Webbekom",
     "wof:parent_id":1108830307,
     "wof:placetype":"locality",

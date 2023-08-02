@@ -28,6 +28,9 @@
     "name:fra_x_preferred":[
         "Lieferinge"
     ],
+    "name:gle_x_preferred":[
+        "Lieferinge"
+    ],
     "name:hun_x_preferred":[
         "Lieferinge"
     ],
@@ -93,7 +96,7 @@
         }
     ],
     "wof:id":1125990787,
-    "wof:lastmodified":1566612131,
+    "wof:lastmodified":1690856787,
     "wof:name":"Lieferinge",
     "wof:parent_id":1108830403,
     "wof:placetype":"locality",

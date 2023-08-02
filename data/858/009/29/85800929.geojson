@@ -32,6 +32,9 @@
     "name:bul_x_preferred":[
         "\u0411\u043e\u0440\u0433\u0435\u0440\u0445\u043e\u0443\u0442"
     ],
+    "name:cat_x_preferred":[
+        "Borgerhout"
+    ],
     "name:ceb_x_preferred":[
         "Borgerhout"
     ],
@@ -56,11 +59,17 @@
     "name:fra_x_preferred":[
         "Borgerhout"
     ],
+    "name:gle_x_preferred":[
+        "Borgerhout"
+    ],
     "name:hun_x_preferred":[
         "Borgerhout"
     ],
     "name:hye_x_preferred":[
         "\u0532\u0578\u0580\u056d\u0565\u0580\u0570\u0561\u0578\u0582\u0569"
+    ],
+    "name:ita_x_preferred":[
+        "Borgerhout"
     ],
     "name:nld_x_preferred":[
         "Borgerhout"
@@ -70,6 +79,12 @@
     ],
     "name:swe_x_preferred":[
         "Borgerhout"
+    ],
+    "name:tur_x_preferred":[
+        "Borgerhout"
+    ],
+    "name:zho_x_preferred":[
+        "\u535a\u8d6b\u5c14\u8c6a\u7279"
     ],
     "qs:gn_adm0_cc":"BE",
     "qs:gn_fcode":"PPL",
@@ -143,7 +158,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1582345516,
+    "wof:lastmodified":1690856413,
     "wof:name":"Borgerhout",
     "wof:parent_id":101748099,
     "wof:placetype":"neighbourhood",

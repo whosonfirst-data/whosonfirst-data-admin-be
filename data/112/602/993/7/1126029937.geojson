@@ -22,6 +22,9 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Desni\u00e9"
+    ],
     "name:deu_x_preferred":[
         "Desni\u00e9"
     ],
@@ -91,7 +94,7 @@
         }
     ],
     "wof:id":1126029937,
-    "wof:lastmodified":1566612047,
+    "wof:lastmodified":1690856703,
     "wof:name":"Desni\u00e9",
     "wof:parent_id":102049935,
     "wof:placetype":"locality",

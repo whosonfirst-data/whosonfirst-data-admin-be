@@ -25,6 +25,9 @@
     "name:bre_x_preferred":[
         "Louvain-la-Neuve"
     ],
+    "name:cat_x_preferred":[
+        "Louvain-la-Neuve"
+    ],
     "name:ceb_x_preferred":[
         "Louvain-la-Neuve"
     ],
@@ -43,7 +46,13 @@
     "name:fra_x_preferred":[
         "Louvain-la-Neuve"
     ],
+    "name:heb_x_preferred":[
+        "\u05dc\u05d5\u05d5\u05df \u05d4\u05d7\u05d3\u05e9\u05d4"
+    ],
     "name:ind_x_preferred":[
+        "Louvain-la-Neuve"
+    ],
+    "name:ita_x_preferred":[
         "Louvain-la-Neuve"
     ],
     "name:jpn_x_preferred":[
@@ -56,6 +65,12 @@
         "Louvain-la-Neuve"
     ],
     "name:nld_x_preferred":[
+        "Louvain-la-Neuve"
+    ],
+    "name:nno_x_preferred":[
+        "Louvain-la-Neuve"
+    ],
+    "name:nob_x_preferred":[
         "Louvain-la-Neuve"
     ],
     "name:ron_x_preferred":[
@@ -73,6 +88,9 @@
     "name:swe_x_preferred":[
         "Louvain-la-Neuve"
     ],
+    "name:tur_x_preferred":[
+        "Louvain-la-Neuve"
+    ],
     "name:und_x_variant":[
         "Ottignies-Louvain-la-Neuve (Louvain-la-Neuve)"
     ],
@@ -84,6 +102,9 @@
     ],
     "name:wln_x_preferred":[
         "Li No\u00fb Lov\u00e9n"
+    ],
+    "name:zho_x_preferred":[
+        "\u65b0\u9c81\u6c76"
     ],
     "qs_pg:aaroncc":"BE",
     "qs_pg:gn_country":"BE",
@@ -140,7 +161,7 @@
         }
     ],
     "wof:id":1125954005,
-    "wof:lastmodified":1566612030,
+    "wof:lastmodified":1690856693,
     "wof:name":"Louvain-la-Neuve",
     "wof:parent_id":102049945,
     "wof:placetype":"locality",

@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.000052,
     "geom:area_square_m":409115.936495,
-    "geom:bbox":"4.32586669922,50.8389013775,4.33410644531,50.8475729537",
+    "geom:bbox":"4.325867,50.838901,4.334106,50.847573",
     "geom:latitude":50.843395,
     "geom:longitude":4.330486,
     "iso:country":"BE",
@@ -31,11 +31,17 @@
     "name:ara_x_preferred":[
         "\u0622\u0646\u062f\u0631\u0644\u062e\u062a"
     ],
+    "name:ara_x_variant":[
+        "\u0623\u0646\u062f\u0631\u0644\u062e\u062a"
+    ],
     "name:arz_x_preferred":[
         "\u0627\u0646\u062f\u0631\u0644\u062e\u062a"
     ],
     "name:ast_x_preferred":[
         "Anderlecht"
+    ],
+    "name:aze_x_preferred":[
+        "Anderlext"
     ],
     "name:bel_x_preferred":[
         "\u0410\u043d\u0434\u044d\u0440\u043b\u0435\u0445\u0442"
@@ -100,7 +106,13 @@
     "name:fra_x_variant":[
         "Anderlecht"
     ],
+    "name:frr_x_preferred":[
+        "Anderlecht"
+    ],
     "name:gle_x_preferred":[
+        "Anderlecht"
+    ],
+    "name:glg_x_preferred":[
         "Anderlecht"
     ],
     "name:heb_x_preferred":[
@@ -147,6 +159,9 @@
     ],
     "name:ltz_x_preferred":[
         "Anderlecht"
+    ],
+    "name:mar_x_preferred":[
+        "\u0905\u0901\u0921\u0930\u0932\u0947\u091a\u094d\u091f"
     ],
     "name:msa_x_preferred":[
         "Anderlecht"
@@ -211,6 +226,9 @@
     "name:urd_x_preferred":[
         "\u0622\u0646\u062f\u0631\u0644\u06cc\u062e\u062a"
     ],
+    "name:vec_x_preferred":[
+        "Anderlecht"
+    ],
     "name:vie_x_preferred":[
         "Anderlecht"
     ],
@@ -225,6 +243,12 @@
     ],
     "name:wln_x_preferred":[
         "Anderlek"
+    ],
+    "name:wuu_x_preferred":[
+        "\u5b89\u5fb7\u83b1\u8d6b\u7279"
+    ],
+    "name:zea_x_preferred":[
+        "Anderlecht"
     ],
     "name:zho_x_preferred":[
         "\u5b89\u5fb7\u83b1\u8d6b\u7279"
@@ -278,7 +302,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"744f2129a0dc5467eb1f9953384b0a5e",
+    "wof:geomhash":"8b6ab5d8cf3ffb27b90bea73dc6c7b4a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -294,7 +318,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1582345515,
+    "wof:lastmodified":1690856411,
     "wof:name":"Anderlecht",
     "wof:parent_id":101751573,
     "wof:placetype":"neighbourhood",
@@ -304,10 +328,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    4.32586669922017,
-    50.83890137745014,
-    4.33410644531182,
-    50.84757295370009
+    4.325867,
+    50.838901,
+    4.334106,
+    50.847573
 ],
-  "geometry": {"coordinates":[[[4.33135986328006,50.84063581869403],[4.33135986327997,50.83890137745014],[4.32861328125017,50.83890137936685],[4.32861328125017,50.84063581466295],[4.32586669922017,50.84063582195738],[4.32586669922017,50.84237019813783],[4.32586669922017,50.8441045104086],[4.32861328391496,50.84410451221417],[4.32861328125009,50.84757295370009],[4.32884363249332,50.84757295370009],[4.33410644531006,50.84757295370009],[4.33410644531182,50.84735390390573],[4.33410644531094,50.84562551080747],[4.33410644531068,50.84410451980001],[4.33410644531014,50.84237019813783],[4.33410644531014,50.84063582093357],[4.33135986328006,50.84063581869403]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[4.33136,50.840636],[4.33136,50.838901],[4.328613,50.838901],[4.328613,50.840636],[4.325867,50.840636],[4.325867,50.84237],[4.325867,50.844105],[4.328613,50.844105],[4.328613,50.847573],[4.328844,50.847573],[4.334106,50.847573],[4.334106,50.847354],[4.334106,50.845626],[4.334106,50.844105],[4.334106,50.84237],[4.334106,50.840636],[4.33136,50.840636]]],"type":"Polygon"}
 }

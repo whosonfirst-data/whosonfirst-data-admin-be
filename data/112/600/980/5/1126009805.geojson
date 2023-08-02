@@ -31,6 +31,9 @@
     "name:fra_x_preferred":[
         "Bossuit"
     ],
+    "name:gle_x_preferred":[
+        "Bossuit"
+    ],
     "name:hun_x_preferred":[
         "Bossuit"
     ],
@@ -100,7 +103,7 @@
         }
     ],
     "wof:id":1126009805,
-    "wof:lastmodified":1566612189,
+    "wof:lastmodified":1690856846,
     "wof:name":"Bossuit",
     "wof:parent_id":1108830525,
     "wof:placetype":"locality",

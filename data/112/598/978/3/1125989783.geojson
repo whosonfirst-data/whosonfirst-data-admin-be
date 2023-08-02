@@ -22,6 +22,9 @@
     "mz:is_current":1,
     "mz:min_zoom":9.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u0647\u064a\u0631\u0633\u062a\u0627\u0644"
+    ],
     "name:bel_x_preferred":[
         "\u042d\u0440\u0441\u0442\u0430\u043b\u044c"
     ],
@@ -48,6 +51,9 @@
     ],
     "name:ell_x_preferred":[
         "\u03a7\u03b5\u03c1\u03c3\u03c4\u03ac\u03bb"
+    ],
+    "name:ell_x_variant":[
+        "\u03a7\u03ad\u03c1\u03c3\u03c4\u03b1\u03bb"
     ],
     "name:eng_x_preferred":[
         "Herstal"
@@ -85,6 +91,9 @@
     "name:ina_x_preferred":[
         "Herstal"
     ],
+    "name:ind_x_preferred":[
+        "Herstal"
+    ],
     "name:ita_x_preferred":[
         "Herstal"
     ],
@@ -96,6 +105,9 @@
     ],
     "name:lat_x_preferred":[
         "Heristalium"
+    ],
+    "name:lat_x_variant":[
+        "Charistalius"
     ],
     "name:lim_x_preferred":[
         "Herstal"
@@ -154,8 +166,17 @@
     "name:wln_x_preferred":[
         "Hesta"
     ],
+    "name:wln_x_variant":[
+        "H\u00e8sta"
+    ],
+    "name:zea_x_preferred":[
+        "Herstal"
+    ],
     "name:zho_x_preferred":[
         "\u8d6b\u5c14\u65af\u5854\u5c14"
+    ],
+    "name:zho_x_variant":[
+        "\u57c3\u65af\u5854\u52d2"
     ],
     "qs_pg:aaroncc":"BE",
     "qs_pg:gn_country":"BE",
@@ -212,7 +233,7 @@
         }
     ],
     "wof:id":1125989783,
-    "wof:lastmodified":1566612165,
+    "wof:lastmodified":1690856816,
     "wof:name":"Herstal",
     "wof:parent_id":102049941,
     "wof:placetype":"locality",

@@ -28,6 +28,9 @@
     "name:fra_x_preferred":[
         "Eisden"
     ],
+    "name:gle_x_preferred":[
+        "Eisden"
+    ],
     "name:hun_x_preferred":[
         "Eisden"
     ],
@@ -39,6 +42,9 @@
     ],
     "name:und_x_variant":[
         "Eysden"
+    ],
+    "name:zho_x_preferred":[
+        "\u827e\u65af\u767b"
     ],
     "qs_pg:aaroncc":"BE",
     "qs_pg:gn_country":"BE",
@@ -94,7 +100,7 @@
         }
     ],
     "wof:id":1126005539,
-    "wof:lastmodified":1566612186,
+    "wof:lastmodified":1690856842,
     "wof:name":"Eisden",
     "wof:parent_id":1108830295,
     "wof:placetype":"locality",

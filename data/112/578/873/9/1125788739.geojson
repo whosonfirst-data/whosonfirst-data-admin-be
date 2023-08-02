@@ -28,6 +28,9 @@
     "name:fra_x_preferred":[
         "Mater"
     ],
+    "name:gle_x_preferred":[
+        "Mater"
+    ],
     "name:hun_x_preferred":[
         "Mater"
     ],
@@ -91,7 +94,7 @@
         }
     ],
     "wof:id":1125788739,
-    "wof:lastmodified":1566612208,
+    "wof:lastmodified":1690856866,
     "wof:name":"Mater",
     "wof:parent_id":1108830311,
     "wof:placetype":"locality",

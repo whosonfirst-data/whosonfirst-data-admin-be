@@ -52,6 +52,9 @@
     "name:fra_x_preferred":[
         "Lasne"
     ],
+    "name:gle_x_preferred":[
+        "Lasne"
+    ],
     "name:hun_x_preferred":[
         "Lasne"
     ],
@@ -105,6 +108,9 @@
     ],
     "name:wln_x_preferred":[
         "Lane"
+    ],
+    "name:zea_x_preferred":[
+        "Lasne"
     ],
     "name:zho_x_preferred":[
         "\u62c9\u6069"
@@ -163,7 +169,7 @@
         }
     ],
     "wof:id":1126057579,
-    "wof:lastmodified":1566612057,
+    "wof:lastmodified":1690856717,
     "wof:name":"Lasne-Chapelle-St.-Lambert",
     "wof:parent_id":102049945,
     "wof:placetype":"locality",

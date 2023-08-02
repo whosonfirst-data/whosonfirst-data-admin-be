@@ -40,6 +40,9 @@
     "name:ces_x_preferred":[
         "Seraing"
     ],
+    "name:che_x_preferred":[
+        "\u0421\u0435\u0433\u04c0\u0435\u043d"
+    ],
     "name:dan_x_preferred":[
         "Seraing"
     ],
@@ -175,6 +178,9 @@
     "name:wln_x_preferred":[
         "Ser\u00e8"
     ],
+    "name:zea_x_preferred":[
+        "Seraing"
+    ],
     "name:zho_x_preferred":[
         "\u745f\u5170"
     ],
@@ -233,7 +239,7 @@
         }
     ],
     "wof:id":1125875013,
-    "wof:lastmodified":1566612115,
+    "wof:lastmodified":1690856780,
     "wof:name":"Seraing",
     "wof:parent_id":102049941,
     "wof:placetype":"locality",

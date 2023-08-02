@@ -28,6 +28,9 @@
     "name:fra_x_preferred":[
         "Bekkerzeel"
     ],
+    "name:gle_x_preferred":[
+        "Bekkerzeel"
+    ],
     "name:hun_x_preferred":[
         "Bekkerzeel"
     ],
@@ -93,7 +96,7 @@
         }
     ],
     "wof:id":1126046549,
-    "wof:lastmodified":1566612068,
+    "wof:lastmodified":1690856729,
     "wof:name":"Bekkerzeel",
     "wof:parent_id":1108830421,
     "wof:placetype":"locality",

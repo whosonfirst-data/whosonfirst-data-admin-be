@@ -31,6 +31,9 @@
     "name:fra_x_preferred":[
         "Meux"
     ],
+    "name:gle_x_preferred":[
+        "Meux"
+    ],
     "name:ita_x_preferred":[
         "Meux"
     ],
@@ -98,7 +101,7 @@
         }
     ],
     "wof:id":1126031495,
-    "wof:lastmodified":1566612073,
+    "wof:lastmodified":1690856737,
     "wof:name":"Meux",
     "wof:parent_id":102049931,
     "wof:placetype":"locality",

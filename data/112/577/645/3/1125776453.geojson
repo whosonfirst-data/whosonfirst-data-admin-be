@@ -25,6 +25,9 @@
     "name:bul_x_preferred":[
         "\u041a\u043e\u0431\u0435\u0433\u0435\u043c"
     ],
+    "name:cat_x_preferred":[
+        "Kobbegem"
+    ],
     "name:ceb_x_preferred":[
         "Kobbegem"
     ],
@@ -36,6 +39,9 @@
     ],
     "name:fra_x_preferred":[
         "Kobbeghem"
+    ],
+    "name:gle_x_preferred":[
+        "Kobbegem"
     ],
     "name:hun_x_preferred":[
         "Kobbegem"
@@ -103,7 +109,7 @@
         }
     ],
     "wof:id":1125776453,
-    "wof:lastmodified":1566612236,
+    "wof:lastmodified":1690856896,
     "wof:name":"Cobbeghem",
     "wof:parent_id":1108830421,
     "wof:placetype":"locality",

@@ -37,6 +37,12 @@
     "name:fra_x_preferred":[
         "Bogaarden"
     ],
+    "name:gle_x_preferred":[
+        "Bogaarden"
+    ],
+    "name:ita_x_preferred":[
+        "Bogaarden"
+    ],
     "name:nld_x_preferred":[
         "Bogaarden"
     ],
@@ -98,7 +104,7 @@
         }
     ],
     "wof:id":1126021507,
-    "wof:lastmodified":1566612044,
+    "wof:lastmodified":1690856699,
     "wof:name":"Bogaarden",
     "wof:parent_id":1108830351,
     "wof:placetype":"locality",

@@ -31,6 +31,9 @@
     "name:fra_x_preferred":[
         "Zuidschote"
     ],
+    "name:gle_x_preferred":[
+        "Zuidschote"
+    ],
     "name:hun_x_preferred":[
         "Zuidschote"
     ],
@@ -97,7 +100,7 @@
         }
     ],
     "wof:id":1125890975,
-    "wof:lastmodified":1566612102,
+    "wof:lastmodified":1690856766,
     "wof:name":"Zuidschote",
     "wof:parent_id":1108830595,
     "wof:placetype":"locality",

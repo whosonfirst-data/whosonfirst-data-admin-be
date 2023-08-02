@@ -37,6 +37,9 @@
     "name:fra_x_preferred":[
         "Den\u00e9e"
     ],
+    "name:gle_x_preferred":[
+        "Den\u00e9e"
+    ],
     "name:ita_x_preferred":[
         "Den\u00e9e"
     ],
@@ -112,7 +115,7 @@
         }
     ],
     "wof:id":1125862835,
-    "wof:lastmodified":1566612080,
+    "wof:lastmodified":1690856743,
     "wof:name":"Den\u00e9e",
     "wof:parent_id":102049919,
     "wof:placetype":"locality",

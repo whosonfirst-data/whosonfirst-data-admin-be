@@ -22,6 +22,9 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Ch\u00e9oux"
+    ],
     "name:eng_x_preferred":[
         "Ch\u00e9oux"
     ],
@@ -30,6 +33,9 @@
     ],
     "name:nld_x_preferred":[
         "Ch\u00e9oux"
+    ],
+    "name:wln_x_preferred":[
+        "Tcheyou"
     ],
     "qs_pg:aaroncc":"BE",
     "qs_pg:gn_country":"BE",
@@ -81,7 +87,7 @@
         }
     ],
     "wof:id":1125949661,
-    "wof:lastmodified":1566612015,
+    "wof:lastmodified":1690856677,
     "wof:name":"Ch\u00e9oux",
     "wof:parent_id":102049921,
     "wof:placetype":"locality",

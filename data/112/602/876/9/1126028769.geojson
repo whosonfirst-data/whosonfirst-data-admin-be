@@ -28,6 +28,9 @@
     "name:fra_x_preferred":[
         "Welden"
     ],
+    "name:gle_x_preferred":[
+        "Welden"
+    ],
     "name:hun_x_preferred":[
         "Welden"
     ],
@@ -93,7 +96,7 @@
         }
     ],
     "wof:id":1126028769,
-    "wof:lastmodified":1566612047,
+    "wof:lastmodified":1690856703,
     "wof:name":"Welden",
     "wof:parent_id":1108830311,
     "wof:placetype":"locality",

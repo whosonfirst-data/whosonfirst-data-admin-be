@@ -31,6 +31,9 @@
     "name:fra_x_preferred":[
         "Leernes"
     ],
+    "name:gle_x_preferred":[
+        "Leernes"
+    ],
     "name:hun_x_preferred":[
         "Leernes"
     ],
@@ -95,7 +98,7 @@
         }
     ],
     "wof:id":1125790611,
-    "wof:lastmodified":1566612226,
+    "wof:lastmodified":1690856885,
     "wof:name":"Leernes",
     "wof:parent_id":102049927,
     "wof:placetype":"locality",

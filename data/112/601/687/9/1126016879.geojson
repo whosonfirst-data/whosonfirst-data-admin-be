@@ -40,6 +40,9 @@
     "name:deu_x_preferred":[
         "Boom"
     ],
+    "name:ell_x_preferred":[
+        "\u039c\u03c0\u03bf\u03bc"
+    ],
     "name:eng_x_preferred":[
         "Boom"
     ],
@@ -61,6 +64,15 @@
     "name:fra_x_preferred":[
         "Boom"
     ],
+    "name:gle_x_preferred":[
+        "Boom"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d1\u05d5\u05dd"
+    ],
+    "name:hrv_x_preferred":[
+        "Boom"
+    ],
     "name:hun_x_preferred":[
         "Boom"
     ],
@@ -69,6 +81,9 @@
     ],
     "name:ita_x_preferred":[
         "Boom"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30dc\u30fc\u30e0"
     ],
     "name:kal_x_preferred":[
         "Boom"
@@ -117,6 +132,12 @@
     ],
     "name:swe_x_preferred":[
         "Boom"
+    ],
+    "name:tur_x_preferred":[
+        "Boom"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u043e\u043c"
     ],
     "name:vie_x_preferred":[
         "Boom"
@@ -187,7 +208,7 @@
         }
     ],
     "wof:id":1126016879,
-    "wof:lastmodified":1566612172,
+    "wof:lastmodified":1690856822,
     "wof:name":"Boom",
     "wof:parent_id":1108830293,
     "wof:placetype":"locality",

@@ -31,6 +31,9 @@
     "name:fra_x_preferred":[
         "Barchon"
     ],
+    "name:gle_x_preferred":[
+        "Barchon"
+    ],
     "name:hun_x_preferred":[
         "Barchon"
     ],
@@ -101,7 +104,7 @@
         }
     ],
     "wof:id":1125766331,
-    "wof:lastmodified":1566612199,
+    "wof:lastmodified":1690856855,
     "wof:name":"Barchon",
     "wof:parent_id":102049941,
     "wof:placetype":"locality",

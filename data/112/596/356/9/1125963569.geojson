@@ -28,10 +28,16 @@
     "name:fra_x_preferred":[
         "Borlon"
     ],
+    "name:gle_x_preferred":[
+        "Borlon"
+    ],
     "name:hun_x_preferred":[
         "Borlon"
     ],
     "name:nld_x_preferred":[
+        "Borlon"
+    ],
+    "name:wln_x_preferred":[
         "Borlon"
     ],
     "qs_pg:aaroncc":"BE",
@@ -88,7 +94,7 @@
         }
     ],
     "wof:id":1125963569,
-    "wof:lastmodified":1566612161,
+    "wof:lastmodified":1690856811,
     "wof:name":"Borlon",
     "wof:parent_id":102049921,
     "wof:placetype":"locality",

@@ -31,6 +31,9 @@
     "name:fra_x_preferred":[
         "Wagnel\u00e9e"
     ],
+    "name:gle_x_preferred":[
+        "Wagnel\u00e9e"
+    ],
     "name:hun_x_preferred":[
         "Wagnel\u00e9e"
     ],
@@ -95,7 +98,7 @@
         }
     ],
     "wof:id":1125801577,
-    "wof:lastmodified":1566612108,
+    "wof:lastmodified":1690856773,
     "wof:name":"Wagnel\u00e9e",
     "wof:parent_id":102049927,
     "wof:placetype":"locality",

@@ -31,11 +31,17 @@
     "name:fra_x_preferred":[
         "Wangenies"
     ],
+    "name:gle_x_preferred":[
+        "Wangenies"
+    ],
     "name:hun_x_preferred":[
         "Wangenies"
     ],
     "name:nld_x_preferred":[
         "Wangenies"
+    ],
+    "name:pcd_x_preferred":[
+        "Wandjniye"
     ],
     "name:und_x_variant":[
         "Fleurus (Wangenies)"
@@ -93,7 +99,7 @@
         }
     ],
     "wof:id":1125992113,
-    "wof:lastmodified":1566612130,
+    "wof:lastmodified":1690856785,
     "wof:name":"Wangenies",
     "wof:parent_id":102049927,
     "wof:placetype":"locality",

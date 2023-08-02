@@ -28,11 +28,20 @@
     "name:eng_x_preferred":[
         "Wulvergem"
     ],
+    "name:eng_x_variant":[
+        "Wulverghem"
+    ],
     "name:est_x_preferred":[
         "Wulvergem"
     ],
     "name:fra_x_preferred":[
         "Wulvergem"
+    ],
+    "name:fra_x_variant":[
+        "Wulverghem"
+    ],
+    "name:gle_x_preferred":[
+        "Wulverghem"
     ],
     "name:hun_x_preferred":[
         "Wulvergem"
@@ -45,6 +54,9 @@
     ],
     "name:vls_x_preferred":[
         "Wulvergem"
+    ],
+    "name:zho_x_preferred":[
+        "\u7ef4\u5c14\u5f17\u6d77\u59c6"
     ],
     "qs_pg:aaroncc":"BE",
     "qs_pg:gn_country":"BE",
@@ -102,7 +114,7 @@
         }
     ],
     "wof:id":1125858623,
-    "wof:lastmodified":1566612205,
+    "wof:lastmodified":1690856862,
     "wof:name":"Wulvergem",
     "wof:parent_id":1108830671,
     "wof:placetype":"locality",

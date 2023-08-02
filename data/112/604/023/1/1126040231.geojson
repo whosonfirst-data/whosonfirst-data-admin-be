@@ -31,6 +31,9 @@
     "name:deu_x_preferred":[
         "Sint-Andries"
     ],
+    "name:ell_x_preferred":[
+        "\u03a3\u03b9\u03bd\u03c4-\u0391\u03bd\u03c4\u03c1\u03af\u03c2"
+    ],
     "name:eng_x_preferred":[
         "Sint-Andries"
     ],
@@ -46,7 +49,19 @@
     "name:fra_x_preferred":[
         "Sint-Andries"
     ],
+    "name:fra_x_variant":[
+        "Saint-Andr\u00e9"
+    ],
+    "name:fry_x_preferred":[
+        "Sint-Andries"
+    ],
+    "name:gle_x_preferred":[
+        "Sint-Andries"
+    ],
     "name:hun_x_preferred":[
+        "Sint-Andries"
+    ],
+    "name:ita_x_preferred":[
         "Sint-Andries"
     ],
     "name:nld_x_preferred":[
@@ -63,6 +78,9 @@
     ],
     "name:vls_x_preferred":[
         "Sint-Andries"
+    ],
+    "name:zho_x_preferred":[
+        "\u5723\u5b89\u5fb7\u91cc\u65af"
     ],
     "qs_pg:aaroncc":"BE",
     "qs_pg:gn_country":"BE",
@@ -120,7 +138,7 @@
         }
     ],
     "wof:id":1126040231,
-    "wof:lastmodified":1566612061,
+    "wof:lastmodified":1690856723,
     "wof:name":"St.-Andries",
     "wof:parent_id":1108830689,
     "wof:placetype":"locality",

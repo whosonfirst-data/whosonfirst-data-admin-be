@@ -40,6 +40,9 @@
     "name:fra_x_preferred":[
         "Beerst"
     ],
+    "name:gle_x_preferred":[
+        "Beerst"
+    ],
     "name:hun_x_preferred":[
         "Beerst"
     ],
@@ -107,7 +110,7 @@
         }
     ],
     "wof:id":1126043911,
-    "wof:lastmodified":1566612060,
+    "wof:lastmodified":1690856721,
     "wof:name":"Beerst",
     "wof:parent_id":1108830401,
     "wof:placetype":"locality",

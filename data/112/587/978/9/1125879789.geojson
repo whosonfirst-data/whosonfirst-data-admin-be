@@ -34,6 +34,9 @@
     "name:fra_x_preferred":[
         "Westouter"
     ],
+    "name:gle_x_preferred":[
+        "Westouter"
+    ],
     "name:hun_x_preferred":[
         "Westouter"
     ],
@@ -102,7 +105,7 @@
         }
     ],
     "wof:id":1125879789,
-    "wof:lastmodified":1566612114,
+    "wof:lastmodified":1690856779,
     "wof:name":"Westouter",
     "wof:parent_id":1108830671,
     "wof:placetype":"locality",

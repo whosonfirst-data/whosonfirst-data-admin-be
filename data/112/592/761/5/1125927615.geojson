@@ -25,6 +25,9 @@
     "name:bre_x_preferred":[
         "Nieuwkerke"
     ],
+    "name:cat_x_preferred":[
+        "Nieuwkerke"
+    ],
     "name:eng_x_preferred":[
         "Nieuwkerke"
     ],
@@ -33,6 +36,9 @@
     ],
     "name:fra_x_preferred":[
         "Neuve-\u00c9glise"
+    ],
+    "name:gle_x_preferred":[
+        "Nieuwkerke"
     ],
     "name:hun_x_preferred":[
         "Nieuwkerke"
@@ -99,7 +105,7 @@
         }
     ],
     "wof:id":1125927615,
-    "wof:lastmodified":1566612028,
+    "wof:lastmodified":1690856689,
     "wof:name":"Nieuwkerke",
     "wof:parent_id":1108830671,
     "wof:placetype":"locality",

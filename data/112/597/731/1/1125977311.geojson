@@ -22,13 +22,31 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:deu_x_preferred":[
+        "Mutsaard"
+    ],
     "name:eng_x_preferred":[
         "Mutsaard"
     ],
     "name:fra_x_preferred":[
         "Mutsaard"
     ],
+    "name:lat_x_preferred":[
+        "Mutsaard"
+    ],
+    "name:lim_x_preferred":[
+        "Mutsaard"
+    ],
     "name:nld_x_preferred":[
+        "Mutsaard"
+    ],
+    "name:pcd_x_preferred":[
+        "Mutsaard"
+    ],
+    "name:vls_x_preferred":[
+        "Mutsaard"
+    ],
+    "name:wln_x_preferred":[
         "Mutsaard"
     ],
     "qs_pg:aaroncc":"BE",
@@ -85,7 +103,7 @@
         }
     ],
     "wof:id":1125977311,
-    "wof:lastmodified":1566612144,
+    "wof:lastmodified":1690856803,
     "wof:name":"Mutsaard",
     "wof:parent_id":102049957,
     "wof:placetype":"locality",

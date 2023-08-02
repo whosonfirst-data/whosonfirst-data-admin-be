@@ -28,6 +28,9 @@
     "name:fra_x_preferred":[
         "Borchtlombeek"
     ],
+    "name:gle_x_preferred":[
+        "Borchtlombeek"
+    ],
     "name:hun_x_preferred":[
         "Borchtlombeek"
     ],
@@ -91,7 +94,7 @@
         }
     ],
     "wof:id":1125946631,
-    "wof:lastmodified":1566612017,
+    "wof:lastmodified":1690856680,
     "wof:name":"Borchtlombeek",
     "wof:parent_id":1108830261,
     "wof:placetype":"locality",

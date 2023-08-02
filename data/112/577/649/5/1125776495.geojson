@@ -34,6 +34,9 @@
     "name:fra_x_preferred":[
         "Elingen"
     ],
+    "name:gle_x_preferred":[
+        "Elingen"
+    ],
     "name:nld_x_preferred":[
         "Elingen"
     ],
@@ -97,7 +100,7 @@
         }
     ],
     "wof:id":1125776495,
-    "wof:lastmodified":1566612246,
+    "wof:lastmodified":1690856913,
     "wof:name":"Elingen",
     "wof:parent_id":1108830351,
     "wof:placetype":"locality",

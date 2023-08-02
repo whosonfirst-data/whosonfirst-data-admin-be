@@ -43,6 +43,9 @@
     "name:fra_x_preferred":[
         "Leisele"
     ],
+    "name:gle_x_preferred":[
+        "Leisele"
+    ],
     "name:hun_x_preferred":[
         "Leisele"
     ],
@@ -114,7 +117,7 @@
         }
     ],
     "wof:id":1125811265,
-    "wof:lastmodified":1566612086,
+    "wof:lastmodified":1690856749,
     "wof:name":"Leisele",
     "wof:parent_id":1108830587,
     "wof:placetype":"locality",

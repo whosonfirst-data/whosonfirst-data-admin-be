@@ -22,6 +22,9 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Crombach"
+    ],
     "name:deu_x_preferred":[
         "Crombach"
     ],
@@ -29,6 +32,9 @@
         "Crombach"
     ],
     "name:fra_x_preferred":[
+        "Crombach"
+    ],
+    "name:gle_x_preferred":[
         "Crombach"
     ],
     "name:hun_x_preferred":[
@@ -90,7 +96,7 @@
         }
     ],
     "wof:id":1125991937,
-    "wof:lastmodified":1566612130,
+    "wof:lastmodified":1690856784,
     "wof:name":"Crombach",
     "wof:parent_id":102049935,
     "wof:placetype":"locality",

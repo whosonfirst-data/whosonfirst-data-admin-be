@@ -22,22 +22,187 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:afr_x_preferred":[
+        "Zwartberg"
+    ],
+    "name:arg_x_preferred":[
+        "Zwartberg"
+    ],
+    "name:ast_x_preferred":[
+        "Zwartberg"
+    ],
+    "name:bar_x_preferred":[
+        "Zwartberg"
+    ],
+    "name:bre_x_preferred":[
+        "Zwartberg"
+    ],
+    "name:cat_x_preferred":[
+        "Zwartberg"
+    ],
     "name:ceb_x_preferred":[
+        "Zwartberg"
+    ],
+    "name:ces_x_preferred":[
+        "Zwartberg"
+    ],
+    "name:cos_x_preferred":[
+        "Zwartberg"
+    ],
+    "name:cym_x_preferred":[
+        "Zwartberg"
+    ],
+    "name:dan_x_preferred":[
+        "Zwartberg"
+    ],
+    "name:deu_x_preferred":[
         "Zwartberg"
     ],
     "name:eng_x_preferred":[
         "Zwartberg"
     ],
+    "name:epo_x_preferred":[
+        "Zwartberg"
+    ],
+    "name:est_x_preferred":[
+        "Zwartberg"
+    ],
+    "name:eus_x_preferred":[
+        "Zwartberg"
+    ],
     "name:fas_x_preferred":[
         "\u0648\u0627\u0631\u062a\u0628\u0631\u06af"
+    ],
+    "name:fin_x_preferred":[
+        "Zwartberg"
+    ],
+    "name:fra_x_preferred":[
+        "Zwartberg"
+    ],
+    "name:frp_x_preferred":[
+        "Zwartberg"
+    ],
+    "name:fur_x_preferred":[
+        "Zwartberg"
+    ],
+    "name:gla_x_preferred":[
+        "Zwartberg"
+    ],
+    "name:gle_x_preferred":[
+        "Zwartberg"
+    ],
+    "name:glg_x_preferred":[
+        "Zwartberg"
+    ],
+    "name:gsw_x_preferred":[
+        "Zwartberg"
+    ],
+    "name:hrv_x_preferred":[
+        "Zwartberg"
+    ],
+    "name:hun_x_preferred":[
+        "Zwartberg"
+    ],
+    "name:ido_x_preferred":[
+        "Zwartberg"
+    ],
+    "name:ile_x_preferred":[
+        "Zwartberg"
+    ],
+    "name:ina_x_preferred":[
+        "Zwartberg"
+    ],
+    "name:ind_x_preferred":[
+        "Zwartberg"
+    ],
+    "name:isl_x_preferred":[
+        "Zwartberg"
+    ],
+    "name:ita_x_preferred":[
+        "Zwartberg"
     ],
     "name:jpn_x_preferred":[
         "\u30c4\u30ef\u30fc\u30eb\u30c8\u30d9\u30eb\u30d5"
     ],
+    "name:kon_x_preferred":[
+        "Zwartberg"
+    ],
+    "name:lij_x_preferred":[
+        "Zwartberg"
+    ],
+    "name:lim_x_preferred":[
+        "Zjwarbirg"
+    ],
+    "name:ltz_x_preferred":[
+        "Zwartberg"
+    ],
+    "name:min_x_preferred":[
+        "Zwartberg"
+    ],
+    "name:mlg_x_preferred":[
+        "Zwartberg"
+    ],
+    "name:msa_x_preferred":[
+        "Zwartberg"
+    ],
+    "name:nap_x_preferred":[
+        "Zwartberg"
+    ],
+    "name:nds_x_preferred":[
+        "Zwartberg"
+    ],
     "name:nld_x_preferred":[
         "Zwartberg"
     ],
+    "name:nno_x_preferred":[
+        "Zwartberg"
+    ],
+    "name:nob_x_preferred":[
+        "Zwartberg"
+    ],
+    "name:nrm_x_preferred":[
+        "Zwartberg"
+    ],
+    "name:oci_x_preferred":[
+        "Zwartberg"
+    ],
+    "name:pcd_x_preferred":[
+        "Zwartberg"
+    ],
+    "name:pms_x_preferred":[
+        "Zwartberg"
+    ],
     "name:pol_x_preferred":[
+        "Zwartberg"
+    ],
+    "name:por_x_preferred":[
+        "Zwartberg"
+    ],
+    "name:roh_x_preferred":[
+        "Zwartberg"
+    ],
+    "name:ron_x_preferred":[
+        "Zwartberg"
+    ],
+    "name:scn_x_preferred":[
+        "Zwartberg"
+    ],
+    "name:sco_x_preferred":[
+        "Zwartberg"
+    ],
+    "name:slk_x_preferred":[
+        "Zwartberg"
+    ],
+    "name:slv_x_preferred":[
+        "Zwartberg"
+    ],
+    "name:spa_x_preferred":[
+        "Zwartberg"
+    ],
+    "name:srd_x_preferred":[
+        "Zwartberg"
+    ],
+    "name:swa_x_preferred":[
         "Zwartberg"
     ],
     "name:swe_x_preferred":[
@@ -45,6 +210,27 @@
     ],
     "name:und_x_variant":[
         "Zwartberg-Cit\u00e9s"
+    ],
+    "name:vec_x_preferred":[
+        "Zwartberg"
+    ],
+    "name:vie_x_preferred":[
+        "Zwartberg"
+    ],
+    "name:vls_x_preferred":[
+        "Zwartberg"
+    ],
+    "name:vol_x_preferred":[
+        "Zwartberg"
+    ],
+    "name:wln_x_preferred":[
+        "Zwartberg"
+    ],
+    "name:wol_x_preferred":[
+        "Zwartberg"
+    ],
+    "name:zul_x_preferred":[
+        "Zwartberg"
     ],
     "qs_pg:aaroncc":"BE",
     "qs_pg:gn_country":"BE",
@@ -102,7 +288,7 @@
         }
     ],
     "wof:id":1125883129,
-    "wof:lastmodified":1566612092,
+    "wof:lastmodified":1690856758,
     "wof:name":"Zwartberg",
     "wof:parent_id":1108830655,
     "wof:placetype":"locality",

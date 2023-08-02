@@ -22,6 +22,18 @@
     "mz:is_current":1,
     "mz:min_zoom":9.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:afr_x_preferred":[
+        "Vilvoorde"
+    ],
+    "name:ara_x_preferred":[
+        "\u0641\u064a\u0644\u0641\u0648\u0631\u062f"
+    ],
+    "name:ast_x_preferred":[
+        "Vilvoorde"
+    ],
+    "name:aze_x_preferred":[
+        "Vilvorde"
+    ],
     "name:bel_x_preferred":[
         "\u0412\u0456\u043b\u0432\u0430\u0440\u0434\u044d"
     ],
@@ -67,10 +79,19 @@
     "name:fra_x_preferred":[
         "Vilvorde"
     ],
+    "name:frr_x_preferred":[
+        "Vilvoorde"
+    ],
     "name:gle_x_preferred":[
         "Vilvoorde"
     ],
+    "name:heb_x_preferred":[
+        "\u05d5\u05d9\u05dc\u05d5\u05d5\u05e8\u05d3\u05d4"
+    ],
     "name:hun_x_preferred":[
+        "Vilvoorde"
+    ],
+    "name:ind_x_preferred":[
         "Vilvoorde"
     ],
     "name:ita_x_preferred":[
@@ -81,6 +102,15 @@
     ],
     "name:kat_x_preferred":[
         "\u10d5\u10d8\u10da\u10d5\u10dd\u10e0\u10d3\u10d4"
+    ],
+    "name:lat_x_preferred":[
+        "Vilvordia"
+    ],
+    "name:lav_x_preferred":[
+        "Vilvorde"
+    ],
+    "name:lim_x_preferred":[
+        "Vilvoorde"
     ],
     "name:lit_x_preferred":[
         "Vilvord\u0117"
@@ -142,14 +172,26 @@
     "name:vie_x_preferred":[
         "Vilvoorde"
     ],
+    "name:vls_x_preferred":[
+        "Vilvoorde"
+    ],
     "name:vol_x_preferred":[
         "Vilvoorde"
     ],
     "name:war_x_preferred":[
         "Vilvoorde"
     ],
+    "name:wln_x_preferred":[
+        "Vilv\u00f4r"
+    ],
+    "name:zea_x_preferred":[
+        "Vilvoorde"
+    ],
     "name:zho_x_preferred":[
         "\u83f2\u5c14\u798f\u5c14\u5fb7"
+    ],
+    "name:zho_x_variant":[
+        "\u7ef4\u5c14\u798f\u5fb7"
     ],
     "qs_pg:aaroncc":"BE",
     "qs_pg:gn_country":"BE",
@@ -208,7 +250,7 @@
         }
     ],
     "wof:id":1125811729,
-    "wof:lastmodified":1566612086,
+    "wof:lastmodified":1690856749,
     "wof:name":"Vilvoorde",
     "wof:parent_id":1108830085,
     "wof:placetype":"locality",

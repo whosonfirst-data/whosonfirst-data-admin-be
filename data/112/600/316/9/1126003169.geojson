@@ -28,6 +28,12 @@
     "name:fra_x_preferred":[
         "Vechmaal"
     ],
+    "name:fra_x_variant":[
+        "Fimal"
+    ],
+    "name:gle_x_preferred":[
+        "Vechmaal"
+    ],
     "name:hun_x_preferred":[
         "Vechmaal"
     ],
@@ -36,6 +42,9 @@
     ],
     "name:und_x_variant":[
         "Vechmael"
+    ],
+    "name:wln_x_preferred":[
+        "F\u00eem\u00e5le"
     ],
     "qs_pg:aaroncc":"BE",
     "qs_pg:gn_country":"BE",
@@ -91,7 +100,7 @@
         }
     ],
     "wof:id":1126003169,
-    "wof:lastmodified":1566612189,
+    "wof:lastmodified":1690856846,
     "wof:name":"Vechmaal",
     "wof:parent_id":1108830275,
     "wof:placetype":"locality",

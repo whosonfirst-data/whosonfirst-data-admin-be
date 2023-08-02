@@ -22,10 +22,16 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u0625\u0628\u064a\u0646 \u0625\u0645\u064a\u0644"
+    ],
     "name:eng_x_preferred":[
         "\u00c9ben-\u00c9mael"
     ],
     "name:fra_x_preferred":[
+        "\u00c9ben-\u00c9mael"
+    ],
+    "name:gle_x_preferred":[
         "\u00c9ben-\u00c9mael"
     ],
     "name:hun_x_preferred":[
@@ -37,11 +43,17 @@
     "name:nld_x_preferred":[
         "Eben-Emael"
     ],
+    "name:nob_x_preferred":[
+        "\u00c9ben-\u00c9mael"
+    ],
     "name:ukr_x_preferred":[
         "\u0415\u0431\u0435\u043d-\u0415\u043c\u0430\u0435\u043b\u044c"
     ],
     "name:und_x_variant":[
         "Eben-Emaal"
+    ],
+    "name:zho_x_preferred":[
+        "\u57c3\u672c-\u57c3\u9a6c\u5c14"
     ],
     "qs_pg:aaroncc":"BE",
     "qs_pg:gn_country":"BE",
@@ -97,7 +109,7 @@
         }
     ],
     "wof:id":1125779399,
-    "wof:lastmodified":1566612233,
+    "wof:lastmodified":1690856893,
     "wof:name":"Eben-Emael",
     "wof:parent_id":102049941,
     "wof:placetype":"locality",

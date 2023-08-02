@@ -28,6 +28,12 @@
     "name:fra_x_preferred":[
         "Beert"
     ],
+    "name:fra_x_variant":[
+        "Brages"
+    ],
+    "name:gle_x_preferred":[
+        "Beert"
+    ],
     "name:hun_x_preferred":[
         "Beert"
     ],
@@ -94,7 +100,7 @@
         }
     ],
     "wof:id":1125783229,
-    "wof:lastmodified":1566612211,
+    "wof:lastmodified":1690856871,
     "wof:name":"Beert",
     "wof:parent_id":1108830351,
     "wof:placetype":"locality",

@@ -31,11 +31,20 @@
     "name:fra_x_preferred":[
         "Petit-Enghien"
     ],
+    "name:gle_x_preferred":[
+        "Petit-Enghien"
+    ],
     "name:hun_x_preferred":[
         "Petit-Enghien"
     ],
+    "name:lat_x_preferred":[
+        "Parva Angia"
+    ],
     "name:nld_x_preferred":[
         "Lettelingen"
+    ],
+    "name:pcd_x_preferred":[
+        "P'tit Ing\u00ee"
     ],
     "name:wln_x_preferred":[
         "Pitit-Ingu\u00ee"
@@ -90,7 +99,7 @@
         }
     ],
     "wof:id":1125844055,
-    "wof:lastmodified":1566612230,
+    "wof:lastmodified":1690856891,
     "wof:name":"Lettelingen",
     "wof:parent_id":102049943,
     "wof:placetype":"locality",

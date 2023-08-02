@@ -22,10 +22,16 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ell_x_preferred":[
+        "\u0393\u03ba\u03c1\u03cc\u03c4\u03b5-\u039c\u03c0\u03c1\u03cc\u03b3\u03ba\u03b5\u03bb"
+    ],
     "name:eng_x_preferred":[
         "Grote-Brogel"
     ],
     "name:fra_x_preferred":[
+        "Grote-Brogel"
+    ],
+    "name:gle_x_preferred":[
         "Grote-Brogel"
     ],
     "name:hun_x_preferred":[
@@ -94,7 +100,7 @@
         }
     ],
     "wof:id":1125784859,
-    "wof:lastmodified":1566612207,
+    "wof:lastmodified":1690856865,
     "wof:name":"Grote-Brogel",
     "wof:parent_id":1108830611,
     "wof:placetype":"locality",

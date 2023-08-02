@@ -22,6 +22,9 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Harlue"
+    ],
     "name:eng_x_preferred":[
         "Harlue"
     ],
@@ -84,7 +87,7 @@
         }
     ],
     "wof:id":1125985699,
-    "wof:lastmodified":1566612164,
+    "wof:lastmodified":1690856815,
     "wof:name":"Harlue",
     "wof:parent_id":102049931,
     "wof:placetype":"locality",

@@ -28,6 +28,9 @@
     "name:fra_x_preferred":[
         "Kuttekoven"
     ],
+    "name:gle_x_preferred":[
+        "Kuttekoven"
+    ],
     "name:hun_x_preferred":[
         "Kuttekoven"
     ],
@@ -91,7 +94,7 @@
         }
     ],
     "wof:id":1125948529,
-    "wof:lastmodified":1566612018,
+    "wof:lastmodified":1690856680,
     "wof:name":"Kuttekoven",
     "wof:parent_id":1108830359,
     "wof:placetype":"locality",

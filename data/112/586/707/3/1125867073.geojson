@@ -22,10 +22,16 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:deu_x_preferred":[
+        "Leugnies"
+    ],
     "name:eng_x_preferred":[
         "Leugnies"
     ],
     "name:fra_x_preferred":[
+        "Leugnies"
+    ],
+    "name:gle_x_preferred":[
         "Leugnies"
     ],
     "name:hun_x_preferred":[
@@ -39,6 +45,9 @@
     ],
     "name:und_x_variant":[
         "Beaumont (Leugnies)"
+    ],
+    "name:wln_x_preferred":[
+        "Leugniye"
     ],
     "qs_pg:aaroncc":"BE",
     "qs_pg:gn_country":"BE",
@@ -90,7 +99,7 @@
         }
     ],
     "wof:id":1125867073,
-    "wof:lastmodified":1566612076,
+    "wof:lastmodified":1690856738,
     "wof:name":"Leugnies",
     "wof:parent_id":102049923,
     "wof:placetype":"locality",

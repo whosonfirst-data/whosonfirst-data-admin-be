@@ -61,6 +61,9 @@
     "name:fra_x_preferred":[
         "Rouvroy"
     ],
+    "name:gle_x_preferred":[
+        "Rouvroy"
+    ],
     "name:hun_x_preferred":[
         "Rouvroy"
     ],
@@ -115,8 +118,17 @@
     "name:war_x_preferred":[
         "Rouvroy"
     ],
+    "name:wln_x_preferred":[
+        "Rovroe-e-G\u00e5me"
+    ],
+    "name:zea_x_preferred":[
+        "Rouvroy"
+    ],
     "name:zho_x_preferred":[
         "\u9c81\u5f17\u9c81\u74e6"
+    ],
+    "name:zho_x_variant":[
+        "\u9c81\u592b\u9c81\u74e6"
     ],
     "qs_pg:aaroncc":"BE",
     "qs_pg:gn_country":"BE",
@@ -173,7 +185,7 @@
         }
     ],
     "wof:id":1126050085,
-    "wof:lastmodified":1566612054,
+    "wof:lastmodified":1690856712,
     "wof:name":"Rouvroy",
     "wof:parent_id":102049907,
     "wof:placetype":"locality",

@@ -31,6 +31,9 @@
     "name:fra_x_preferred":[
         "Callenelle"
     ],
+    "name:gle_x_preferred":[
+        "Callenelle"
+    ],
     "name:hun_x_preferred":[
         "Callenelle"
     ],
@@ -89,7 +92,7 @@
         }
     ],
     "wof:id":1126007833,
-    "wof:lastmodified":1566612184,
+    "wof:lastmodified":1690856839,
     "wof:name":"Callenelle",
     "wof:parent_id":102049951,
     "wof:placetype":"locality",

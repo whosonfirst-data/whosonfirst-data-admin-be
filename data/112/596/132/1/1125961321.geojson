@@ -28,8 +28,14 @@
     "name:fra_x_preferred":[
         "Meeswijk"
     ],
+    "name:gle_x_preferred":[
+        "Meeswijk"
+    ],
     "name:hun_x_preferred":[
         "Meeswijk"
+    ],
+    "name:lim_x_preferred":[
+        "Mee\u00ebzek"
     ],
     "name:nld_x_preferred":[
         "Meeswijk"
@@ -93,7 +99,7 @@
         }
     ],
     "wof:id":1125961321,
-    "wof:lastmodified":1566612157,
+    "wof:lastmodified":1690856808,
     "wof:name":"Meeswijk",
     "wof:parent_id":1108830295,
     "wof:placetype":"locality",

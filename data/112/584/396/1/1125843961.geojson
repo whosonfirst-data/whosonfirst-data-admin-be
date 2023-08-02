@@ -55,11 +55,17 @@
     "name:fra_x_preferred":[
         "Hemiksem"
     ],
+    "name:gle_x_preferred":[
+        "Hemiksem"
+    ],
     "name:hun_x_preferred":[
         "Hemiksem"
     ],
     "name:ita_x_preferred":[
         "Hemiksem"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d8\u30fc\u30df\u30af\u30bb\u30e0"
     ],
     "name:lit_x_preferred":[
         "Hemiksemas"
@@ -74,6 +80,9 @@
         "Hemiksem"
     ],
     "name:oci_x_preferred":[
+        "Hemiksem"
+    ],
+    "name:pol_x_preferred":[
         "Hemiksem"
     ],
     "name:por_x_preferred":[
@@ -91,6 +100,9 @@
     "name:swe_x_preferred":[
         "Hemiksem"
     ],
+    "name:tur_x_preferred":[
+        "Hemiksem"
+    ],
     "name:und_x_variant":[
         "Hemixem"
     ],
@@ -101,6 +113,9 @@
         "Hemiksem"
     ],
     "name:war_x_preferred":[
+        "Hemiksem"
+    ],
+    "name:zea_x_preferred":[
         "Hemiksem"
     ],
     "name:zho_x_preferred":[
@@ -163,7 +178,7 @@
         }
     ],
     "wof:id":1125843961,
-    "wof:lastmodified":1566612228,
+    "wof:lastmodified":1690856888,
     "wof:name":"Hemiksem",
     "wof:parent_id":1108830523,
     "wof:placetype":"locality",

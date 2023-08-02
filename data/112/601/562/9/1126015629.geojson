@@ -25,6 +25,9 @@
     "name:bul_x_preferred":[
         "\u0425\u043e\u0440\u0443\u0435\u0441"
     ],
+    "name:cat_x_preferred":[
+        "Horrues"
+    ],
     "name:ceb_x_preferred":[
         "Horrues"
     ],
@@ -32,6 +35,9 @@
         "Horrues"
     ],
     "name:fra_x_preferred":[
+        "Horrues"
+    ],
+    "name:gle_x_preferred":[
         "Horrues"
     ],
     "name:hun_x_preferred":[
@@ -98,7 +104,7 @@
         }
     ],
     "wof:id":1126015629,
-    "wof:lastmodified":1566612176,
+    "wof:lastmodified":1690856827,
     "wof:name":"Horrues",
     "wof:parent_id":102049943,
     "wof:placetype":"locality",

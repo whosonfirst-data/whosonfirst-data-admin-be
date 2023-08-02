@@ -22,6 +22,9 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Steinbach"
+    ],
     "name:deu_x_preferred":[
         "Steinbach"
     ],
@@ -39,6 +42,9 @@
     ],
     "name:ltz_x_preferred":[
         "Steinbach"
+    ],
+    "name:ltz_x_variant":[
+        "Steemich"
     ],
     "name:nld_x_preferred":[
         "Steinbach"
@@ -98,7 +104,7 @@
         }
     ],
     "wof:id":1126017601,
-    "wof:lastmodified":1636500626,
+    "wof:lastmodified":1690856826,
     "wof:name":"Steinbach",
     "wof:parent_id":102049915,
     "wof:placetype":"locality",

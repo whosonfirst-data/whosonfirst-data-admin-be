@@ -55,6 +55,9 @@
     "name:fra_x_preferred":[
         "Machelen"
     ],
+    "name:gle_x_preferred":[
+        "Machelen"
+    ],
     "name:hun_x_preferred":[
         "Machelen"
     ],
@@ -63,6 +66,9 @@
     ],
     "name:lit_x_preferred":[
         "Ma\u010delenas"
+    ],
+    "name:ltz_x_preferred":[
+        "Machelen"
     ],
     "name:nld_x_preferred":[
         "Machelen"
@@ -94,7 +100,13 @@
     "name:tur_x_preferred":[
         "Machelen"
     ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0430\u0445\u0435\u043b\u0435\u043d"
+    ],
     "name:vie_x_preferred":[
+        "Machelen"
+    ],
+    "name:vls_x_preferred":[
         "Machelen"
     ],
     "name:vol_x_preferred":[
@@ -161,7 +173,7 @@
         }
     ],
     "wof:id":1125898771,
-    "wof:lastmodified":1566612105,
+    "wof:lastmodified":1690856770,
     "wof:name":"Machelen",
     "wof:parent_id":1108830477,
     "wof:placetype":"locality",

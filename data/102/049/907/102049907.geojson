@@ -102,6 +102,12 @@
     "name:fra_x_preferred":[
         "Virton"
     ],
+    "name:gle_x_preferred":[
+        "Virton"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d5\u05d9\u05e8\u05d8\u05d5\u05df"
+    ],
     "name:hun_x_preferred":[
         "Virton"
     ],
@@ -116,6 +122,9 @@
     ],
     "name:kor_x_preferred":[
         "\ube44\ub974\ud1b5"
+    ],
+    "name:lat_x_preferred":[
+        "Vertonum"
     ],
     "name:lim_x_preferred":[
         "Virton"
@@ -165,6 +174,9 @@
     "name:wln_x_preferred":[
         "Vierton"
     ],
+    "name:zea_x_preferred":[
+        "Virton"
+    ],
     "name:zho_x_preferred":[
         "\u7ef4\u5c14\u901a"
     ],
@@ -212,7 +224,7 @@
         "wd:id":"Q456495"
     },
     "wof:country":"BE",
-    "wof:geomhash":"09cd979164f0c22a00bad024a8dafeb6",
+    "wof:geomhash":"813063cbf194176cff9874fc3cd5bb49",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -223,7 +235,7 @@
         }
     ],
     "wof:id":102049907,
-    "wof:lastmodified":1684351492,
+    "wof:lastmodified":1690856395,
     "wof:name":"Virton",
     "wof:parent_id":85681727,
     "wof:placetype":"county",

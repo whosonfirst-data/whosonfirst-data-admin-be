@@ -25,6 +25,9 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
     "mz:tier_locality":1,
+    "name:cat_x_preferred":[
+        "Jemeppe-sur-Meuse"
+    ],
     "name:eng_x_preferred":[
         "Jemeppe-sur-Meuse"
     ],
@@ -33,6 +36,9 @@
     ],
     "name:fra_x_variant":[
         "Jemeppe-sur-meuse"
+    ],
+    "name:gle_x_preferred":[
+        "Jemeppe-sur-Meuse"
     ],
     "name:hun_x_preferred":[
         "Jemeppe-sur-Meuse"
@@ -118,7 +124,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1582345515,
+    "wof:lastmodified":1690856410,
     "wof:name":"Jemeppe-sur-meuse",
     "wof:parent_id":101748083,
     "wof:placetype":"neighbourhood",

@@ -31,6 +31,9 @@
     "name:fra_x_preferred":[
         "Saint-Jean-in-Eremo"
     ],
+    "name:gle_x_preferred":[
+        "Sint-Jan-in-Eremo"
+    ],
     "name:hun_x_preferred":[
         "Sint-Jan-in-Eremo"
     ],
@@ -96,7 +99,7 @@
         }
     ],
     "wof:id":1125898847,
-    "wof:lastmodified":1566612105,
+    "wof:lastmodified":1690856769,
     "wof:name":"St.-Jan-in-Eremo",
     "wof:parent_id":1108830091,
     "wof:placetype":"locality",

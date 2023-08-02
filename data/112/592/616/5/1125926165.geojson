@@ -55,6 +55,9 @@
     "name:fra_x_preferred":[
         "Melle"
     ],
+    "name:gle_x_preferred":[
+        "Melle"
+    ],
     "name:hun_x_preferred":[
         "Melle"
     ],
@@ -181,7 +184,7 @@
         }
     ],
     "wof:id":1125926165,
-    "wof:lastmodified":1566612027,
+    "wof:lastmodified":1690856688,
     "wof:name":"Melle",
     "wof:parent_id":1108830093,
     "wof:placetype":"locality",

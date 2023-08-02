@@ -31,6 +31,9 @@
     "name:fra_x_preferred":[
         "Schore"
     ],
+    "name:gle_x_preferred":[
+        "Schore"
+    ],
     "name:hun_x_preferred":[
         "Schore"
     ],
@@ -97,7 +100,7 @@
         }
     ],
     "wof:id":1126014451,
-    "wof:lastmodified":1566612177,
+    "wof:lastmodified":1690856829,
     "wof:name":"Schore",
     "wof:parent_id":1108830695,
     "wof:placetype":"locality",

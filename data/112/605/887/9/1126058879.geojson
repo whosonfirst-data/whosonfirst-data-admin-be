@@ -28,6 +28,9 @@
     "name:fra_x_preferred":[
         "Elene"
     ],
+    "name:gle_x_preferred":[
+        "Elene"
+    ],
     "name:hun_x_preferred":[
         "Elene"
     ],
@@ -88,7 +91,7 @@
         }
     ],
     "wof:id":1126058879,
-    "wof:lastmodified":1566612052,
+    "wof:lastmodified":1690856710,
     "wof:name":"Elene",
     "wof:parent_id":1108830019,
     "wof:placetype":"locality",

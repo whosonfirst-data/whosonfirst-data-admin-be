@@ -25,13 +25,22 @@
     "name:bul_x_preferred":[
         "\u041c\u0438\u0447\u0435\u043b\u0431\u0435\u043a\u0435"
     ],
+    "name:cat_x_preferred":[
+        "Michelbeke"
+    ],
     "name:ceb_x_preferred":[
+        "Michelbeke"
+    ],
+    "name:deu_x_preferred":[
         "Michelbeke"
     ],
     "name:eng_x_preferred":[
         "Michelbeke"
     ],
     "name:fra_x_preferred":[
+        "Michelbeke"
+    ],
+    "name:gle_x_preferred":[
         "Michelbeke"
     ],
     "name:hun_x_preferred":[
@@ -97,7 +106,7 @@
         }
     ],
     "wof:id":1125863841,
-    "wof:lastmodified":1566612079,
+    "wof:lastmodified":1690856741,
     "wof:name":"Michelbeke",
     "wof:parent_id":1108830545,
     "wof:placetype":"locality",

@@ -69,6 +69,9 @@
     "name:ast_x_preferred":[
         "Roeselare"
     ],
+    "name:bel_x_preferred":[
+        "\u0420\u0443\u0441\u0435\u043b\u0430\u0440\u044d"
+    ],
     "name:bre_x_preferred":[
         "Roeselare"
     ],
@@ -123,6 +126,9 @@
     "name:heb_x_preferred":[
         "\u05e8\u05d5\u05e1\u05dc\u05d0\u05e8"
     ],
+    "name:heb_x_variant":[
+        "\u05e8\u05d5\u05e1\u05dc\u05d0\u05e8\u05d4"
+    ],
     "name:hun_x_preferred":[
         "Roeselare"
     ],
@@ -137,6 +143,9 @@
     ],
     "name:kor_x_preferred":[
         "\ub8e8\uc140\ub77c\ub808"
+    ],
+    "name:lat_x_preferred":[
+        "Roslara"
     ],
     "name:lav_x_preferred":[
         "R\u016bselare"
@@ -222,6 +231,9 @@
     "name:war_x_preferred":[
         "Roeselare"
     ],
+    "name:zea_x_preferred":[
+        "Roeselaore"
+    ],
     "name:zho_x_preferred":[
         "\u9c81\u745f\u62c9\u52d2"
     ],
@@ -269,7 +281,7 @@
         "wd:id":"Q211037"
     },
     "wof:country":"BE",
-    "wof:geomhash":"565adad30ef83db1a92c8aa650608f09",
+    "wof:geomhash":"803d2f5be468a2f57c7fc8def2b635f7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -280,7 +292,7 @@
         }
     ],
     "wof:id":102049977,
-    "wof:lastmodified":1684351493,
+    "wof:lastmodified":1690856396,
     "wof:name":"Roeselare",
     "wof:parent_id":85681709,
     "wof:placetype":"county",

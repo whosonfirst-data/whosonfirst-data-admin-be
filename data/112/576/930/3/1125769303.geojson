@@ -22,6 +22,9 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Bothey"
+    ],
     "name:eng_x_preferred":[
         "Bothey"
     ],
@@ -32,6 +35,9 @@
         "\u0628\u0648\u062a\u0627\u06cc"
     ],
     "name:fra_x_preferred":[
+        "Bothey"
+    ],
+    "name:gle_x_preferred":[
         "Bothey"
     ],
     "name:nld_x_preferred":[
@@ -97,7 +103,7 @@
         }
     ],
     "wof:id":1125769303,
-    "wof:lastmodified":1566612198,
+    "wof:lastmodified":1690856855,
     "wof:name":"Bothey",
     "wof:parent_id":102049931,
     "wof:placetype":"locality",

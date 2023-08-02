@@ -31,6 +31,9 @@
     "name:fra_x_preferred":[
         "Oeselgem"
     ],
+    "name:gle_x_preferred":[
+        "Oeselgem"
+    ],
     "name:hun_x_preferred":[
         "Oeselgem"
     ],
@@ -95,7 +98,7 @@
         }
     ],
     "wof:id":1125779461,
-    "wof:lastmodified":1566612240,
+    "wof:lastmodified":1690856903,
     "wof:name":"Oeselgem",
     "wof:parent_id":1108830197,
     "wof:placetype":"locality",

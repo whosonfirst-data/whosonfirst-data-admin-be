@@ -34,8 +34,14 @@
     "name:fra_x_variant":[
         "Quaremont"
     ],
+    "name:gle_x_preferred":[
+        "Kwaremont"
+    ],
     "name:hun_x_preferred":[
         "Kwaremont"
+    ],
+    "name:lat_x_preferred":[
+        "Quadrus montem"
     ],
     "name:nld_x_preferred":[
         "Kwaremont"
@@ -99,7 +105,7 @@
         }
     ],
     "wof:id":1126046981,
-    "wof:lastmodified":1566612067,
+    "wof:lastmodified":1690856729,
     "wof:name":"Kwaremont",
     "wof:parent_id":1108830129,
     "wof:placetype":"locality",

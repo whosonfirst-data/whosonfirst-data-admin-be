@@ -31,6 +31,9 @@
     "name:fra_x_preferred":[
         "Membruggen"
     ],
+    "name:gle_x_preferred":[
+        "Membruggen"
+    ],
     "name:hun_x_preferred":[
         "Membruggen"
     ],
@@ -99,7 +102,7 @@
         }
     ],
     "wof:id":1125811347,
-    "wof:lastmodified":1566612084,
+    "wof:lastmodified":1690856746,
     "wof:name":"Membruggen",
     "wof:parent_id":1108830103,
     "wof:placetype":"locality",

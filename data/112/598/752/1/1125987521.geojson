@@ -31,6 +31,9 @@
     "name:fra_x_preferred":[
         "Werken"
     ],
+    "name:gle_x_preferred":[
+        "Werken"
+    ],
     "name:hun_x_preferred":[
         "Werken"
     ],
@@ -105,7 +108,7 @@
         }
     ],
     "wof:id":1125987521,
-    "wof:lastmodified":1566612164,
+    "wof:lastmodified":1690856815,
     "wof:name":"Werken",
     "wof:parent_id":1108830511,
     "wof:placetype":"locality",

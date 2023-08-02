@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.000226,
     "geom:area_square_m":1753721.879259,
-    "geom:bbox":"2.57217842145,51.0669362601,2.60870389983,51.0887610683",
+    "geom:bbox":"2.572178,51.066936,2.608704,51.088761",
     "geom:latitude":51.077871,
     "geom:longitude":2.595486,
     "iso:country":"BE",
@@ -19,13 +19,40 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":12.0,
+    "name:afr_x_preferred":[
+        "Adinkerke"
+    ],
+    "name:arg_x_preferred":[
+        "Adinkerke"
+    ],
+    "name:ast_x_preferred":[
+        "Adinkerke"
+    ],
+    "name:bar_x_preferred":[
+        "Adinkerke"
+    ],
     "name:bre_x_preferred":[
         "Adinkerke"
     ],
     "name:bul_x_preferred":[
         "\u0410\u0434\u0438\u043d\u043a\u0435\u0440\u043a\u0435"
     ],
+    "name:cat_x_preferred":[
+        "Adinkerke"
+    ],
     "name:ceb_x_preferred":[
+        "Adinkerke"
+    ],
+    "name:ces_x_preferred":[
+        "Adinkerke"
+    ],
+    "name:cos_x_preferred":[
+        "Adinkerke"
+    ],
+    "name:cym_x_preferred":[
+        "Adinkerke"
+    ],
+    "name:dan_x_preferred":[
         "Adinkerke"
     ],
     "name:deu_x_preferred":[
@@ -34,29 +61,182 @@
     "name:eng_x_preferred":[
         "Adinkerke"
     ],
+    "name:epo_x_preferred":[
+        "Adinkerke"
+    ],
+    "name:est_x_preferred":[
+        "Adinkerke"
+    ],
+    "name:eus_x_preferred":[
+        "Adinkerke"
+    ],
+    "name:fin_x_preferred":[
+        "Adinkerke"
+    ],
     "name:fra_x_preferred":[
         "Adinkerke"
     ],
     "name:fra_x_variant":[
         "Adinkerque"
     ],
+    "name:frp_x_preferred":[
+        "Adinkerke"
+    ],
+    "name:fur_x_preferred":[
+        "Adinkerke"
+    ],
+    "name:gla_x_preferred":[
+        "Adinkerke"
+    ],
+    "name:gle_x_preferred":[
+        "Adinkerke"
+    ],
+    "name:glg_x_preferred":[
+        "Adinkerke"
+    ],
+    "name:gsw_x_preferred":[
+        "Adinkerke"
+    ],
     "name:heb_x_preferred":[
         "\u05d0\u05d3\u05d9\u05e0\u05e7\u05e8\u05e7\u05d4"
     ],
+    "name:hrv_x_preferred":[
+        "Adinkerke"
+    ],
     "name:hun_x_preferred":[
+        "Adinkerke"
+    ],
+    "name:ido_x_preferred":[
+        "Adinkerke"
+    ],
+    "name:ile_x_preferred":[
+        "Adinkerke"
+    ],
+    "name:ina_x_preferred":[
+        "Adinkerke"
+    ],
+    "name:ind_x_preferred":[
+        "Adinkerke"
+    ],
+    "name:isl_x_preferred":[
+        "Adinkerke"
+    ],
+    "name:ita_x_preferred":[
+        "Adinkerke"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a2\u30c7\u30a3\u30f3\u30b1\u30eb\u30b1"
+    ],
+    "name:kon_x_preferred":[
+        "Adinkerke"
+    ],
+    "name:lij_x_preferred":[
+        "Adinkerke"
+    ],
+    "name:lim_x_preferred":[
+        "Adinkerke"
+    ],
+    "name:ltz_x_preferred":[
+        "Adinkerke"
+    ],
+    "name:min_x_preferred":[
+        "Adinkerke"
+    ],
+    "name:mlg_x_preferred":[
+        "Adinkerke"
+    ],
+    "name:msa_x_preferred":[
+        "Adinkerke"
+    ],
+    "name:nap_x_preferred":[
+        "Adinkerke"
+    ],
+    "name:nds_x_preferred":[
         "Adinkerke"
     ],
     "name:nld_x_preferred":[
         "Adinkerke"
     ],
+    "name:nno_x_preferred":[
+        "Adinkerke"
+    ],
+    "name:nob_x_preferred":[
+        "Adinkerke"
+    ],
+    "name:nrm_x_preferred":[
+        "Adinkerke"
+    ],
+    "name:oci_x_preferred":[
+        "Adinkerke"
+    ],
+    "name:pcd_x_preferred":[
+        "Adinkerke"
+    ],
+    "name:pms_x_preferred":[
+        "Adinkerke"
+    ],
+    "name:pol_x_preferred":[
+        "Adinkerke"
+    ],
+    "name:por_x_preferred":[
+        "Adinkerke"
+    ],
+    "name:roh_x_preferred":[
+        "Adinkerke"
+    ],
+    "name:ron_x_preferred":[
+        "Adinkerke"
+    ],
+    "name:scn_x_preferred":[
+        "Adinkerke"
+    ],
+    "name:sco_x_preferred":[
+        "Adinkerke"
+    ],
+    "name:slk_x_preferred":[
+        "Adinkerke"
+    ],
+    "name:slv_x_preferred":[
+        "Adinkerke"
+    ],
+    "name:spa_x_preferred":[
+        "Adinkerke"
+    ],
+    "name:srd_x_preferred":[
+        "Adinkerke"
+    ],
+    "name:swa_x_preferred":[
+        "Adinkerke"
+    ],
     "name:swe_x_preferred":[
+        "Adinkerke"
+    ],
+    "name:vec_x_preferred":[
+        "Adinkerke"
+    ],
+    "name:vie_x_preferred":[
         "Adinkerke"
     ],
     "name:vls_x_preferred":[
         "Adiengkerke"
     ],
+    "name:vol_x_preferred":[
+        "Adinkerke"
+    ],
+    "name:wln_x_preferred":[
+        "Adinkerke"
+    ],
+    "name:wol_x_preferred":[
+        "Adinkerke"
+    ],
     "name:zho_x_preferred":[
         "\u963f\u4e01\u79d1\u514b"
+    ],
+    "name:zho_x_variant":[
+        "\u963f\u4e01\u51ef\u5c14\u514b"
+    ],
+    "name:zul_x_preferred":[
+        "Adinkerke"
     ],
     "qs:a0":"Belgi\u00eb#Belgique#Belgien",
     "qs:a1":"*West-Vlanderen",
@@ -97,7 +277,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"017f63e12947f989fc21a9284a6ebee6",
+    "wof:geomhash":"d144aa390f8cc5ebaff4d6037a8e43e8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -110,7 +290,7 @@
         }
     ],
     "wof:id":101809385,
-    "wof:lastmodified":1582345565,
+    "wof:lastmodified":1690856628,
     "wof:name":"Adinkerke",
     "wof:parent_id":1108830697,
     "wof:placetype":"locality",
@@ -120,10 +300,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    2.57217842144922,
-    51.06693626005602,
-    2.60870389982813,
-    51.08876106826625
+    2.572178,
+    51.066936,
+    2.608704,
+    51.088761
 ],
-  "geometry": {"coordinates":[[[2.60257613511595,51.08679227371738],[2.60401128851811,51.07785642552835],[2.60827373160123,51.07812877191839],[2.60870389982813,51.07544799101396],[2.60444170048231,51.0751756627601],[2.60458515739214,51.07428207431775],[2.60316446160124,51.07419126549524],[2.60345140895919,51.07240409136233],[2.60061014105543,51.07222242965315],[2.60104067299193,51.06954167734892],[2.59962012794443,51.06945082648076],[2.59947659710161,51.07034440899258],[2.59237381340864,51.0698898839542],[2.5925174796019,51.06899631152959],[2.58967645616673,51.06881438393339],[2.58996387617862,51.06702724587575],[2.58854342629041,51.06693626005602],[2.58839969266006,51.06782982727958],[2.58697922083849,51.06773882206789],[2.58640410919838,51.07131307860465],[2.58924527452291,51.07149508781185],[2.58910153353952,51.07238865491604],[2.5905221509737,51.07247963547712],[2.59037843017916,51.07337320417309],[2.5917990798194,51.07346416937827],[2.59165537921547,51.07435773966569],[2.59733813738831,51.07472143480356],[2.59690731921819,51.07740216732219],[2.59406576739695,51.07722034239765],[2.5939220934174,51.07811391501389],[2.59534289384459,51.07820483818313],[2.59476823743182,51.08177913245294],[2.58766374494451,51.08132430244535],[2.58780755480098,51.08043073961557],[2.58212416160529,51.08006657087827],[2.58226807290327,51.07917301570546],[2.57658487027743,51.07880857701309],[2.57672888300146,51.07791502950261],[2.57246661627329,51.07764152409516],[2.57217842144922,51.07942860654464],[2.57786167067792,51.0797932618575],[2.57771767123694,51.08068681053504],[2.58055938087875,51.08086903797209],[2.58041542870683,51.0817625902672],[2.58609901802174,51.08212684468936],[2.58595516729821,51.08302040464395],[2.59163894717483,51.08338438908459],[2.59149519791504,51.08427795669348],[2.59717916831056,51.08464167113459],[2.59703552053048,51.08553524639228],[2.59987759070577,51.0857170033662],[2.59973399023096,51.08661058223328],[2.60115506010874,51.08670143666609],[2.60086789270974,51.08848859715715],[2.60513129569915,51.08876106826625],[2.60541830051409,51.08697389567487],[2.60257613511595,51.08679227371738]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[2.602576,51.086792],[2.604011,51.077856],[2.608274,51.078129],[2.608704,51.075448],[2.604442,51.075176],[2.604585,51.074282],[2.603164,51.074191],[2.603451,51.072404],[2.60061,51.072222],[2.601041,51.069542],[2.59962,51.069451],[2.599477,51.070344],[2.592374,51.06989],[2.592517,51.068996],[2.589676,51.068814],[2.589964,51.067027],[2.588543,51.066936],[2.5884,51.06783],[2.586979,51.067739],[2.586404,51.071313],[2.589245,51.071495],[2.589102,51.072389],[2.590522,51.07248],[2.590378,51.073373],[2.591799,51.073464],[2.591655,51.074358],[2.597338,51.074721],[2.596907,51.077402],[2.594066,51.07722],[2.593922,51.078114],[2.595343,51.078205],[2.594768,51.081779],[2.587664,51.081324],[2.587808,51.080431],[2.582124,51.080067],[2.582268,51.079173],[2.576585,51.078809],[2.576729,51.077915],[2.572467,51.077642],[2.572178,51.079429],[2.577862,51.079793],[2.577718,51.080687],[2.580559,51.080869],[2.580415,51.081763],[2.586099,51.082127],[2.585955,51.08302],[2.591639,51.083384],[2.591495,51.084278],[2.597179,51.084642],[2.597036,51.085535],[2.599878,51.085717],[2.599734,51.086611],[2.601155,51.086701],[2.600868,51.088489],[2.605131,51.088761],[2.605418,51.086974],[2.602576,51.086792]]],"type":"Polygon"}
 }

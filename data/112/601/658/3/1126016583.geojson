@@ -22,10 +22,16 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:deu_x_preferred":[
+        "\u00c9vrehailles"
+    ],
     "name:eng_x_preferred":[
         "\u00c9vrehailles"
     ],
     "name:fra_x_preferred":[
+        "\u00c9vrehailles"
+    ],
+    "name:gle_x_preferred":[
         "\u00c9vrehailles"
     ],
     "name:ltz_x_preferred":[
@@ -89,7 +95,7 @@
         }
     ],
     "wof:id":1126016583,
-    "wof:lastmodified":1566612173,
+    "wof:lastmodified":1690856824,
     "wof:name":"Evrehailles",
     "wof:parent_id":102049919,
     "wof:placetype":"locality",

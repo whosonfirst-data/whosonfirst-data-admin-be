@@ -31,6 +31,12 @@
     "name:fra_x_preferred":[
         "Poeke"
     ],
+    "name:fra_x_variant":[
+        "Poucques"
+    ],
+    "name:gle_x_preferred":[
+        "Poeke"
+    ],
     "name:hun_x_preferred":[
         "Poeke"
     ],
@@ -96,7 +102,7 @@
         }
     ],
     "wof:id":1125990915,
-    "wof:lastmodified":1566612131,
+    "wof:lastmodified":1690856787,
     "wof:name":"Poeke",
     "wof:parent_id":1108830383,
     "wof:placetype":"locality",

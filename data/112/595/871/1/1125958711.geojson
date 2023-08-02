@@ -28,6 +28,9 @@
     "name:fra_x_preferred":[
         "Gors-Opleeuw"
     ],
+    "name:gle_x_preferred":[
+        "Gors-Opleeuw"
+    ],
     "name:hun_x_preferred":[
         "Gors-Opleeuw"
     ],
@@ -94,7 +97,7 @@
         }
     ],
     "wof:id":1125958711,
-    "wof:lastmodified":1566612033,
+    "wof:lastmodified":1690856695,
     "wof:name":"Gors-Opleeuw",
     "wof:parent_id":1108830359,
     "wof:placetype":"locality",

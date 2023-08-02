@@ -37,6 +37,9 @@
     "name:rus_x_preferred":[
         "\u041f\u0430\u0442\u0435\u0440\u0441\u0445\u043e\u043b"
     ],
+    "name:zho_x_preferred":[
+        "\u795e\u7236\u6d1e"
+    ],
     "src:geom":"mz",
     "src:geom_alt":[
         "quattroshapes_pg",
@@ -81,7 +84,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1582345515,
+    "wof:lastmodified":1690856411,
     "wof:name":"Patershol",
     "wof:parent_id":101748093,
     "wof:placetype":"neighbourhood",

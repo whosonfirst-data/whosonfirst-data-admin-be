@@ -55,6 +55,9 @@
     "name:fra_x_preferred":[
         "Stabroek"
     ],
+    "name:gle_x_preferred":[
+        "Stabroek"
+    ],
     "name:hun_x_preferred":[
         "Stabroek"
     ],
@@ -100,6 +103,9 @@
     "name:swe_x_preferred":[
         "Stabroek"
     ],
+    "name:tur_x_preferred":[
+        "Stabroek"
+    ],
     "name:und_x_variant":[
         "Stabroeck"
     ],
@@ -110,6 +116,9 @@
         "Stabroek"
     ],
     "name:war_x_preferred":[
+        "Stabroek"
+    ],
+    "name:zea_x_preferred":[
         "Stabroek"
     ],
     "name:zho_x_preferred":[
@@ -172,7 +181,7 @@
         }
     ],
     "wof:id":1125934269,
-    "wof:lastmodified":1566612020,
+    "wof:lastmodified":1690856684,
     "wof:name":"Stabroek",
     "wof:parent_id":1108830377,
     "wof:placetype":"locality",

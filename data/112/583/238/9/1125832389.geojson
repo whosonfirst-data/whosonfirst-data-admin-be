@@ -31,6 +31,9 @@
     "name:fra_x_preferred":[
         "Dikkele"
     ],
+    "name:gle_x_preferred":[
+        "Dikkele"
+    ],
     "name:hun_x_preferred":[
         "Dikkele"
     ],
@@ -96,7 +99,7 @@
         }
     ],
     "wof:id":1125832389,
-    "wof:lastmodified":1566612257,
+    "wof:lastmodified":1690856927,
     "wof:name":"Dikkele",
     "wof:parent_id":1108830583,
     "wof:placetype":"locality",

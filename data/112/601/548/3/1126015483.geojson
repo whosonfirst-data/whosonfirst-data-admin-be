@@ -28,6 +28,12 @@
     "name:fra_x_preferred":[
         "Jamoigne"
     ],
+    "name:gle_x_preferred":[
+        "Jamoigne"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d6'\u05d0\u05de\u05d5\u05d0\u05df"
+    ],
     "name:hun_x_preferred":[
         "Jamoigne"
     ],
@@ -36,6 +42,9 @@
     ],
     "name:wln_x_preferred":[
         "Djamogne"
+    ],
+    "name:zho_x_preferred":[
+        "\u52a0\u83ab\u6d85"
     ],
     "qs_pg:aaroncc":"BE",
     "qs_pg:gn_country":"BE",
@@ -91,7 +100,7 @@
         }
     ],
     "wof:id":1126015483,
-    "wof:lastmodified":1566612178,
+    "wof:lastmodified":1690856831,
     "wof:name":"Jamoigne",
     "wof:parent_id":102049907,
     "wof:placetype":"locality",

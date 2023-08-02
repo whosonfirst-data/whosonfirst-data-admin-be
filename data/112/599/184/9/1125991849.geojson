@@ -22,11 +22,17 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Aalst"
+    ],
     "name:eng_x_preferred":[
         "Aalst"
     ],
     "name:fra_x_preferred":[
         "Alost"
+    ],
+    "name:gle_x_preferred":[
+        "Aalst"
     ],
     "name:hun_x_preferred":[
         "Aalst"
@@ -92,7 +98,7 @@
         }
     ],
     "wof:id":1125991849,
-    "wof:lastmodified":1566612137,
+    "wof:lastmodified":1690856794,
     "wof:name":"Aalst",
     "wof:parent_id":1108830223,
     "wof:placetype":"locality",

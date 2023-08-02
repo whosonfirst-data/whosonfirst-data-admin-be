@@ -55,6 +55,9 @@
     "name:zho_x_preferred":[
         "\u535a\u5f17\u5c1a"
     ],
+    "name:zho_x_variant":[
+        "\u535a\u6c83\u5c1a\u7a7a\u519b\u57fa\u5730"
+    ],
     "oa:elevation_ft":"370",
     "oa:type":"medium_airport",
     "src:geom":"wikidata",
@@ -88,7 +91,7 @@
         }
     ],
     "wof:id":102546431,
-    "wof:lastmodified":1631750036,
+    "wof:lastmodified":1690856403,
     "wof:name":"Beauvechain Airport",
     "wof:parent_id":85681693,
     "wof:placetype":"campus",

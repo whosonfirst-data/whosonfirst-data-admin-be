@@ -31,6 +31,9 @@
     "name:arg_x_preferred":[
         "Wondelgem"
     ],
+    "name:arz_x_preferred":[
+        "\u0648\u0646\u062f\u064a\u0644\u062c\u064a\u0645"
+    ],
     "name:ast_x_preferred":[
         "Wondelgem"
     ],
@@ -229,6 +232,9 @@
     "name:wol_x_preferred":[
         "Wondelgem"
     ],
+    "name:zho_x_preferred":[
+        "\u7fc1\u5fb7\u5c14\u6d77\u59c6"
+    ],
     "name:zul_x_preferred":[
         "Wondelgem"
     ],
@@ -305,7 +311,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1582345516,
+    "wof:lastmodified":1690856414,
     "wof:name":"Wondelgem",
     "wof:parent_id":101748093,
     "wof:placetype":"neighbourhood",

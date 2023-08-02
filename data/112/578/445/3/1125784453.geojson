@@ -28,6 +28,12 @@
     "name:fra_x_preferred":[
         "Groot-Loon"
     ],
+    "name:fra_x_variant":[
+        "Grand-Looz"
+    ],
+    "name:gle_x_preferred":[
+        "Groot-Loon"
+    ],
     "name:hun_x_preferred":[
         "Groot-Loon"
     ],
@@ -94,7 +100,7 @@
         }
     ],
     "wof:id":1125784453,
-    "wof:lastmodified":1566612213,
+    "wof:lastmodified":1690856872,
     "wof:name":"Groot-Loon",
     "wof:parent_id":1108830359,
     "wof:placetype":"locality",

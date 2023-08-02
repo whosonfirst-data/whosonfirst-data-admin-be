@@ -40,6 +40,9 @@
     "name:fra_x_variant":[
         "Fourons (Fouron-Saint-Pierre)"
     ],
+    "name:gle_x_preferred":[
+        "Sint-Pieters-Voeren"
+    ],
     "name:hun_x_preferred":[
         "Sint-Pieters-Voeren"
     ],
@@ -98,7 +101,7 @@
         }
     ],
     "wof:id":1125862257,
-    "wof:lastmodified":1566612081,
+    "wof:lastmodified":1690856744,
     "wof:name":"Sint-Pieters-Voeren",
     "wof:parent_id":1108830021,
     "wof:placetype":"locality",

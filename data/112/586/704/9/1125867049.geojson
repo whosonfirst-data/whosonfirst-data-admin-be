@@ -22,6 +22,9 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bul_x_preferred":[
+        "\u041b\u0430\u043d\u0442\u0440\u044c\u043e\u043c\u0430\u043d\u0436"
+    ],
     "name:cat_x_preferred":[
         "Lantremange"
     ],
@@ -29,6 +32,9 @@
         "Lantremange"
     ],
     "name:fra_x_preferred":[
+        "Lantremange"
+    ],
+    "name:gle_x_preferred":[
         "Lantremange"
     ],
     "name:hun_x_preferred":[
@@ -42,6 +48,9 @@
     ],
     "name:und_x_variant":[
         "Waremme (Lantremange)"
+    ],
+    "name:wln_x_preferred":[
+        "Loncmindje"
     ],
     "qs_pg:aaroncc":"BE",
     "qs_pg:gn_country":"BE",
@@ -93,7 +102,7 @@
         }
     ],
     "wof:id":1125867049,
-    "wof:lastmodified":1566612080,
+    "wof:lastmodified":1690856742,
     "wof:name":"Lantremange",
     "wof:parent_id":102049937,
     "wof:placetype":"locality",

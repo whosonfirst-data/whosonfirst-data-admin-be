@@ -28,6 +28,9 @@
     "name:fra_x_preferred":[
         "Overwinden"
     ],
+    "name:gle_x_preferred":[
+        "Overwinden"
+    ],
     "name:hun_x_preferred":[
         "Overwinden"
     ],
@@ -86,7 +89,7 @@
         }
     ],
     "wof:id":1125890459,
-    "wof:lastmodified":1566612105,
+    "wof:lastmodified":1690856769,
     "wof:name":"Overwinden",
     "wof:parent_id":1108830259,
     "wof:placetype":"locality",

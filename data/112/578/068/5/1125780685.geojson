@@ -28,6 +28,9 @@
     "name:fra_x_preferred":[
         "Vliermaal"
     ],
+    "name:gle_x_preferred":[
+        "Vliermaal"
+    ],
     "name:hun_x_preferred":[
         "Vliermaal"
     ],
@@ -89,7 +92,7 @@
         }
     ],
     "wof:id":1125780685,
-    "wof:lastmodified":1566612214,
+    "wof:lastmodified":1690856874,
     "wof:name":"Vliermaal",
     "wof:parent_id":1108830391,
     "wof:placetype":"locality",

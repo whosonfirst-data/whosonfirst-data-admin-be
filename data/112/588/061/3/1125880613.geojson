@@ -22,7 +22,13 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Boxbergheide"
+    ],
     "name:eng_x_preferred":[
+        "Boxbergheide"
+    ],
+    "name:fra_x_preferred":[
         "Boxbergheide"
     ],
     "name:nld_x_preferred":[
@@ -82,7 +88,7 @@
         }
     ],
     "wof:id":1125880613,
-    "wof:lastmodified":1566612095,
+    "wof:lastmodified":1690856762,
     "wof:name":"Boksbergheide",
     "wof:parent_id":1108830655,
     "wof:placetype":"locality",

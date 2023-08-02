@@ -28,6 +28,9 @@
     "name:fra_x_preferred":[
         "Tisselt"
     ],
+    "name:gle_x_preferred":[
+        "Tisselt"
+    ],
     "name:hun_x_preferred":[
         "Tisselt"
     ],
@@ -94,7 +97,7 @@
         }
     ],
     "wof:id":1126058909,
-    "wof:lastmodified":1566612059,
+    "wof:lastmodified":1690856719,
     "wof:name":"Tisselt",
     "wof:parent_id":1108830353,
     "wof:placetype":"locality",

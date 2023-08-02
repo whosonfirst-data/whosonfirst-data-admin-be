@@ -22,10 +22,22 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Bande"
+    ],
+    "name:deu_x_preferred":[
+        "Bande"
+    ],
     "name:eng_x_preferred":[
         "Bande"
     ],
+    "name:epo_x_preferred":[
+        "Bande"
+    ],
     "name:fra_x_preferred":[
+        "Bande"
+    ],
+    "name:gle_x_preferred":[
         "Bande"
     ],
     "name:hun_x_preferred":[
@@ -89,7 +101,7 @@
         }
     ],
     "wof:id":1125782661,
-    "wof:lastmodified":1566612209,
+    "wof:lastmodified":1690856868,
     "wof:name":"Bande",
     "wof:parent_id":102049921,
     "wof:placetype":"locality",

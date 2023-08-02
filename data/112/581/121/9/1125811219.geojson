@@ -37,6 +37,9 @@
     "name:fra_x_preferred":[
         "Lapscheure"
     ],
+    "name:gle_x_preferred":[
+        "Lapscheure"
+    ],
     "name:hun_x_preferred":[
         "Lapscheure"
     ],
@@ -108,7 +111,7 @@
         }
     ],
     "wof:id":1125811219,
-    "wof:lastmodified":1566612086,
+    "wof:lastmodified":1690856749,
     "wof:name":"Lapscheure",
     "wof:parent_id":1108830063,
     "wof:placetype":"locality",

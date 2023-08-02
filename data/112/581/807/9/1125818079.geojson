@@ -22,10 +22,16 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Hasti\u00e8re-par-del\u00e0"
+    ],
     "name:eng_x_preferred":[
         "Hasti\u00e8re-par-del\u00e0"
     ],
     "name:fra_x_preferred":[
+        "Hasti\u00e8re-par-del\u00e0"
+    ],
+    "name:gle_x_preferred":[
         "Hasti\u00e8re-par-del\u00e0"
     ],
     "name:nld_x_preferred":[
@@ -88,7 +94,7 @@
         }
     ],
     "wof:id":1125818079,
-    "wof:lastmodified":1566612088,
+    "wof:lastmodified":1690856752,
     "wof:name":"Hasti\u00e8re-par-del\u00e0",
     "wof:parent_id":102049919,
     "wof:placetype":"locality",

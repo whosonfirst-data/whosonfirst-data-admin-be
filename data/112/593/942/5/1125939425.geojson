@@ -25,6 +25,9 @@
     "name:ben_x_preferred":[
         "\u09b0\u09cb\u09df\u09be\u09a8\u09a8\u09c7"
     ],
+    "name:cat_x_preferred":[
+        "Roanne"
+    ],
     "name:deu_x_preferred":[
         "Roanne"
     ],
@@ -97,7 +100,7 @@
         }
     ],
     "wof:id":1125939425,
-    "wof:lastmodified":1636500626,
+    "wof:lastmodified":1690856686,
     "wof:name":"Roanne",
     "wof:parent_id":102049935,
     "wof:placetype":"locality",

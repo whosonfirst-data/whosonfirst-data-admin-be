@@ -40,6 +40,9 @@
     "name:deu_x_preferred":[
         "Gr\u00e2ce-Hollogne"
     ],
+    "name:ell_x_preferred":[
+        "\u0393\u03ba\u03c1\u03b1\u03c2-\u039f\u03bb\u03cc\u03bd\u03b9"
+    ],
     "name:eng_x_preferred":[
         "Gr\u00e2ce-Hollogne"
     ],
@@ -58,11 +61,17 @@
     "name:fra_x_variant":[
         "Grace-Hollogne"
     ],
+    "name:gle_x_preferred":[
+        "Gr\u00e2ce-Hollogne"
+    ],
     "name:hun_x_preferred":[
         "Gr\u00e2ce-Hollogne"
     ],
     "name:ita_x_preferred":[
         "Gr\u00e2ce-Hollogne"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b0\u30e9\u30fc\u30b9\uff1d\u30aa\u30ed\u30fc\u30cb\u30e5"
     ],
     "name:lim_x_preferred":[
         "Gr\u00e2ce-Hollogne"
@@ -111,6 +120,9 @@
     ],
     "name:wln_x_preferred":[
         "Gr\u00e5ce-Hologne"
+    ],
+    "name:zea_x_preferred":[
+        "Gr\u00e2ce-Hollogne"
     ],
     "name:zho_x_preferred":[
         "\u683c\u62c9\u65af-\u5965\u6d1b\u6d85"
@@ -184,7 +196,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1582345518,
+    "wof:lastmodified":1690856419,
     "wof:name":"Grace-Hollogne",
     "wof:parent_id":101748083,
     "wof:placetype":"neighbourhood",

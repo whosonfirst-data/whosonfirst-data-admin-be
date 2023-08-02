@@ -28,6 +28,9 @@
     "name:fra_x_preferred":[
         "Opdorp"
     ],
+    "name:gle_x_preferred":[
+        "Opdorp"
+    ],
     "name:hun_x_preferred":[
         "Opdorp"
     ],
@@ -91,7 +94,7 @@
         }
     ],
     "wof:id":1126029819,
-    "wof:lastmodified":1566612049,
+    "wof:lastmodified":1690856706,
     "wof:name":"Opdorp",
     "wof:parent_id":1108830107,
     "wof:placetype":"locality",

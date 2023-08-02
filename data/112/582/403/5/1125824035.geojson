@@ -34,6 +34,9 @@
     "name:fra_x_preferred":[
         "Sint-Joris"
     ],
+    "name:gle_x_preferred":[
+        "Sint-Joris"
+    ],
     "name:hun_x_preferred":[
         "Sint-Joris"
     ],
@@ -108,7 +111,7 @@
         }
     ],
     "wof:id":1125824035,
-    "wof:lastmodified":1566612197,
+    "wof:lastmodified":1690856853,
     "wof:name":"St.-Joris",
     "wof:parent_id":1108830289,
     "wof:placetype":"locality",

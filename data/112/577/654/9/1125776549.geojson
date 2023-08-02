@@ -28,6 +28,9 @@
     "name:fra_x_preferred":[
         "Meigem"
     ],
+    "name:gle_x_preferred":[
+        "Meigem"
+    ],
     "name:hun_x_preferred":[
         "Meigem"
     ],
@@ -94,7 +97,7 @@
         }
     ],
     "wof:id":1125776549,
-    "wof:lastmodified":1566612250,
+    "wof:lastmodified":1690856918,
     "wof:name":"Meigem",
     "wof:parent_id":1108830629,
     "wof:placetype":"locality",

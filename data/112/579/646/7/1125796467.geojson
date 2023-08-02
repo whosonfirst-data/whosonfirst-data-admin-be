@@ -40,6 +40,9 @@
     "name:fra_x_preferred":[
         "Bovekerke"
     ],
+    "name:gle_x_preferred":[
+        "Bovekerke"
+    ],
     "name:hun_x_preferred":[
         "Bovekerke"
     ],
@@ -109,7 +112,7 @@
         }
     ],
     "wof:id":1125796467,
-    "wof:lastmodified":1566612226,
+    "wof:lastmodified":1690856884,
     "wof:name":"Bovekerke",
     "wof:parent_id":1108830305,
     "wof:placetype":"locality",

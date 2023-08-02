@@ -22,10 +22,16 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:deu_x_preferred":[
+        "Pamel"
+    ],
     "name:eng_x_preferred":[
         "Pamel"
     ],
     "name:fra_x_preferred":[
+        "Pamel"
+    ],
+    "name:gle_x_preferred":[
         "Pamel"
     ],
     "name:hun_x_preferred":[
@@ -34,8 +40,14 @@
     "name:nld_x_preferred":[
         "Pamel"
     ],
+    "name:spa_x_preferred":[
+        "Pamel"
+    ],
     "name:und_x_variant":[
         "Roosdaal (Pamel)"
+    ],
+    "name:vls_x_preferred":[
+        "Pamel"
     ],
     "qs_pg:aaroncc":"BE",
     "qs_pg:gn_country":"BE",
@@ -89,7 +101,7 @@
         }
     ],
     "wof:id":1126053375,
-    "wof:lastmodified":1566612050,
+    "wof:lastmodified":1690856707,
     "wof:name":"Pamel",
     "wof:parent_id":1108830261,
     "wof:placetype":"locality",

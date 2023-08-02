@@ -55,6 +55,9 @@
     "name:fra_x_preferred":[
         "Hove"
     ],
+    "name:gle_x_preferred":[
+        "Hove"
+    ],
     "name:hun_x_preferred":[
         "Hove"
     ],
@@ -91,6 +94,9 @@
     "name:swe_x_preferred":[
         "Hove"
     ],
+    "name:tur_x_preferred":[
+        "Hove"
+    ],
     "name:vie_x_preferred":[
         "Hove"
     ],
@@ -98,6 +104,9 @@
         "Hove"
     ],
     "name:war_x_preferred":[
+        "Hove"
+    ],
+    "name:zea_x_preferred":[
         "Hove"
     ],
     "name:zho_x_preferred":[
@@ -160,7 +169,7 @@
         }
     ],
     "wof:id":1125960839,
-    "wof:lastmodified":1566612158,
+    "wof:lastmodified":1690856809,
     "wof:name":"Hove",
     "wof:parent_id":1108830567,
     "wof:placetype":"locality",

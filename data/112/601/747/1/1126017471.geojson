@@ -34,6 +34,9 @@
     "name:fra_x_preferred":[
         "Bulskamp"
     ],
+    "name:gle_x_preferred":[
+        "Bulskamp"
+    ],
     "name:hun_x_preferred":[
         "Bulskamp"
     ],
@@ -100,7 +103,7 @@
         }
     ],
     "wof:id":1126017471,
-    "wof:lastmodified":1566612174,
+    "wof:lastmodified":1690856825,
     "wof:name":"Bulskamp",
     "wof:parent_id":1108830165,
     "wof:placetype":"locality",

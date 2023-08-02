@@ -28,6 +28,9 @@
     "name:fra_x_preferred":[
         "Havinnes"
     ],
+    "name:gle_x_preferred":[
+        "Havinnes"
+    ],
     "name:hun_x_preferred":[
         "Havinnes"
     ],
@@ -88,7 +91,7 @@
         }
     ],
     "wof:id":1125776141,
-    "wof:lastmodified":1566612246,
+    "wof:lastmodified":1690856912,
     "wof:name":"Havinnes",
     "wof:parent_id":102049951,
     "wof:placetype":"locality",

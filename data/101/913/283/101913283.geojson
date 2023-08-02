@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":558.82995,
-    "geom:bbox":"4.05597558269,50.7003095,4.05631383872,50.700830937",
+    "geom:bbox":"4.055976,50.700309,4.056314,50.700831",
     "geom:latitude":50.700652,
     "geom:longitude":4.056179,
     "gn:population":11367,
@@ -56,6 +56,9 @@
     "name:fra_x_preferred":[
         "Enghien"
     ],
+    "name:gle_x_preferred":[
+        "Enghien"
+    ],
     "name:hun_x_preferred":[
         "Enghien"
     ],
@@ -67,6 +70,9 @@
     ],
     "name:jpn_x_preferred":[
         "\u30a2\u30f3\u30ae\u30e3\u30f3"
+    ],
+    "name:lat_x_preferred":[
+        "Angia"
     ],
     "name:lim_x_preferred":[
         "Edinge"
@@ -82,6 +88,9 @@
     ],
     "name:oci_x_preferred":[
         "Enghien"
+    ],
+    "name:pcd_x_preferred":[
+        "Ing\u00ee"
     ],
     "name:pol_x_preferred":[
         "Enghien"
@@ -107,8 +116,14 @@
     "name:tur_x_preferred":[
         "Enghien"
     ],
+    "name:urd_x_preferred":[
+        "\u0622\u0646\u06af\u06cc\u0627\u06ba"
+    ],
     "name:vie_x_preferred":[
         "Enghien"
+    ],
+    "name:vls_x_preferred":[
+        "Enge"
     ],
     "name:vol_x_preferred":[
         "Enghien"
@@ -118,6 +133,12 @@
     ],
     "name:wln_x_preferred":[
         "Ingu\u00ee"
+    ],
+    "name:zea_x_preferred":[
+        "Edingen"
+    ],
+    "name:zho_x_preferred":[
+        "\u6602\u5409\u5b89"
     ],
     "qs:a0":"Belgi\u00eb#Belgique#Belgien",
     "qs:a1":"*Hainaut",
@@ -155,7 +176,7 @@
         "wk:page":"Enghien"
     },
     "wof:country":"BE",
-    "wof:geomhash":"e66a35c558c87c91858d1c864395dfa9",
+    "wof:geomhash":"f6c00d683aad38faf55561c55444bbec",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -168,7 +189,7 @@
         }
     ],
     "wof:id":101913283,
-    "wof:lastmodified":1566611903,
+    "wof:lastmodified":1690856573,
     "wof:name":"Enghien",
     "wof:parent_id":1108830399,
     "wof:placetype":"locality",
@@ -180,10 +201,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    4.05597558269181,
-    50.70030949999898,
-    4.0563138387152,
-    50.7008309369545
+    4.055976,
+    50.700309,
+    4.056314,
+    50.700831
 ],
-  "geometry": {"coordinates":[[[4.0562474768127,50.7008309369545],[4.0563138387152,50.70030949999898],[4.05597558269181,50.70081688403457],[4.0562474768127,50.7008309369545]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[4.056247,50.700831],[4.056314,50.700309],[4.055976,50.700817],[4.056247,50.700831]]],"type":"Polygon"}
 }

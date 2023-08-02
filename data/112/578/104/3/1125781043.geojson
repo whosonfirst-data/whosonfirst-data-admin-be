@@ -28,6 +28,12 @@
     "name:fra_x_preferred":[
         "Zarlardinge"
     ],
+    "name:fra_x_variant":[
+        "Sarlardinge"
+    ],
+    "name:gle_x_preferred":[
+        "Zarlardinge"
+    ],
     "name:hun_x_preferred":[
         "Zarlardinge"
     ],
@@ -89,7 +95,7 @@
         }
     ],
     "wof:id":1125781043,
-    "wof:lastmodified":1566612206,
+    "wof:lastmodified":1690856863,
     "wof:name":"Zarlardinge",
     "wof:parent_id":1108830521,
     "wof:placetype":"locality",

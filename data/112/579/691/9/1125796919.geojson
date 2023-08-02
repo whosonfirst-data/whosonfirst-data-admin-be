@@ -43,7 +43,13 @@
     "name:fra_x_preferred":[
         "Kanegem"
     ],
+    "name:gle_x_preferred":[
+        "Kanegem"
+    ],
     "name:hun_x_preferred":[
+        "Kanegem"
+    ],
+    "name:ita_x_preferred":[
         "Kanegem"
     ],
     "name:ltz_x_preferred":[
@@ -120,7 +126,7 @@
         }
     ],
     "wof:id":1125796919,
-    "wof:lastmodified":1566612227,
+    "wof:lastmodified":1690856886,
     "wof:name":"Kanegem",
     "wof:parent_id":1108830265,
     "wof:placetype":"locality",
