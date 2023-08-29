@@ -22,6 +22,9 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Villers-Saint-Ghislain"
+    ],
     "name:ceb_x_preferred":[
         "Villers-Saint-Ghislain"
     ],
@@ -29,6 +32,9 @@
         "Villers-Saint-Ghislain"
     ],
     "name:fra_x_preferred":[
+        "Villers-Saint-Ghislain"
+    ],
+    "name:gle_x_preferred":[
         "Villers-Saint-Ghislain"
     ],
     "name:hun_x_preferred":[
@@ -39,6 +45,9 @@
     ],
     "name:swe_x_preferred":[
         "Villers-Saint-Ghislain"
+    ],
+    "name:wln_x_preferred":[
+        "Vil\u00e9-Sint-Guilin"
     ],
     "qs_pg:aaroncc":"BE",
     "qs_pg:gn_country":"BE",
@@ -92,7 +101,7 @@
         }
     ],
     "wof:id":1125863891,
-    "wof:lastmodified":1566612082,
+    "wof:lastmodified":1690856745,
     "wof:name":"Villers-St.-Ghislain",
     "wof:parent_id":102049933,
     "wof:placetype":"locality",

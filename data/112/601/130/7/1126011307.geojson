@@ -25,6 +25,9 @@
     "name:bul_x_preferred":[
         "\u0421\u043f\u0438\u0435\u043d\u0435\u0441"
     ],
+    "name:cat_x_preferred":[
+        "Spiennes"
+    ],
     "name:ceb_x_preferred":[
         "Spiennes"
     ],
@@ -42,6 +45,12 @@
     ],
     "name:fra_x_preferred":[
         "Spiennes"
+    ],
+    "name:gle_x_preferred":[
+        "Spiennes"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e1\u05e4\u05d9\u05d9\u05df"
     ],
     "name:hrv_x_preferred":[
         "Spiennes"
@@ -81,6 +90,12 @@
     ],
     "name:swe_x_preferred":[
         "Spiennes"
+    ],
+    "name:tur_x_preferred":[
+        "Spiennes"
+    ],
+    "name:wln_x_preferred":[
+        "Spiene"
     ],
     "qs_pg:aaroncc":"BE",
     "qs_pg:gn_country":"BE",
@@ -134,7 +149,7 @@
         }
     ],
     "wof:id":1126011307,
-    "wof:lastmodified":1566612176,
+    "wof:lastmodified":1690856827,
     "wof:name":"Spiennes",
     "wof:parent_id":102049933,
     "wof:placetype":"locality",

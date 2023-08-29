@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"4.3523638618,50.8437897226,4.3523638618,50.8437897226",
+    "geom:bbox":"4.352364,50.84379,4.352364,50.84379",
     "geom:latitude":50.84379,
     "geom:longitude":4.352364,
     "iso:country":"BE",
@@ -23,6 +23,9 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":13.0,
     "mz:tier_metro":30,
+    "name:cat_x_preferred":[
+        "Pentagon"
+    ],
     "name:eng_x_preferred":[
         "Pentagon"
     ],
@@ -38,8 +41,20 @@
     "name:ita_x_preferred":[
         "Pentagono"
     ],
+    "name:ltz_x_preferred":[
+        "Pentagon"
+    ],
     "name:nld_x_preferred":[
         "Vijfhoek"
+    ],
+    "name:nob_x_preferred":[
+        "Pentagon"
+    ],
+    "name:swe_x_preferred":[
+        "Pentagonen"
+    ],
+    "name:zho_x_preferred":[
+        "\u4e94\u8fb9\u5f62"
     ],
     "src:lbl_centroid":"mz",
     "wof:belongsto":[
@@ -56,7 +71,7 @@
     },
     "wof:country":"BE",
     "wof:created":1491360263,
-    "wof:geomhash":"e1c7e3bb0c7ffa097266807fdfdc2a52",
+    "wof:geomhash":"eee49c1aa30a0ea8cad31ebd130177d3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -69,7 +84,7 @@
         }
     ],
     "wof:id":1108938277,
-    "wof:lastmodified":1566611505,
+    "wof:lastmodified":1690856427,
     "wof:name":"Pentagone",
     "wof:parent_id":101751573,
     "wof:placetype":"neighbourhood",
@@ -79,10 +94,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    4.35236386179656,
-    50.84378972255708,
-    4.35236386179656,
-    50.84378972255708
+    4.352364,
+    50.84379,
+    4.352364,
+    50.84379
 ],
-  "geometry": {"coordinates":[4.35236386179656,50.84378972255708],"type":"Point"}
+  "geometry": {"coordinates":[4.352364,50.84379],"type":"Point"}
 }

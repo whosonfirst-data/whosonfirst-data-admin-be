@@ -41,6 +41,12 @@
     "name:fra_x_preferred":[
         "Sint-Amandsberg"
     ],
+    "name:fra_x_variant":[
+        "Mont-Saint-Amand"
+    ],
+    "name:gle_x_preferred":[
+        "Sint-Amandsberg"
+    ],
     "name:hun_x_preferred":[
         "Sint-Amandsberg"
     ],
@@ -50,6 +56,9 @@
     "name:nld_x_variant":[
         "St.-Amandsberg"
     ],
+    "name:nob_x_preferred":[
+        "Sint-Amandsberg"
+    ],
     "name:sco_x_preferred":[
         "Sint-Amandsberg"
     ],
@@ -58,6 +67,9 @@
     ],
     "name:und_x_variant":[
         "Mont-Saint Amand"
+    ],
+    "name:zho_x_preferred":[
+        "\u5723\u963f\u66fc\u5179\u8d1d\u8d6b"
     ],
     "qs:gn_adm0_cc":"BE",
     "qs:gn_fcode":"PPL",
@@ -130,7 +142,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1582345517,
+    "wof:lastmodified":1690856416,
     "wof:name":"St.-Amandsberg",
     "wof:parent_id":101748093,
     "wof:placetype":"neighbourhood",

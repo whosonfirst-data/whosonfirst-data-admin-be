@@ -28,6 +28,9 @@
     "name:fra_x_preferred":[
         "Wiekevorst"
     ],
+    "name:gle_x_preferred":[
+        "Wiekevorst"
+    ],
     "name:hun_x_preferred":[
         "Wiekevorst"
     ],
@@ -86,7 +89,7 @@
         }
     ],
     "wof:id":1126058453,
-    "wof:lastmodified":1566612051,
+    "wof:lastmodified":1690856709,
     "wof:name":"Wiekevorst",
     "wof:parent_id":1108830023,
     "wof:placetype":"locality",

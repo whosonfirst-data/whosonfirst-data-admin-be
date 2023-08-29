@@ -28,6 +28,9 @@
     "name:fra_x_preferred":[
         "Martenslinde"
     ],
+    "name:gle_x_preferred":[
+        "Martenslinde"
+    ],
     "name:hun_x_preferred":[
         "Martenslinde"
     ],
@@ -92,7 +95,7 @@
         }
     ],
     "wof:id":1125779117,
-    "wof:lastmodified":1566612251,
+    "wof:lastmodified":1690856918,
     "wof:name":"Martenslinde",
     "wof:parent_id":1108830245,
     "wof:placetype":"locality",

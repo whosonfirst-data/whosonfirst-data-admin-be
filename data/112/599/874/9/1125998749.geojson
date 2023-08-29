@@ -31,10 +31,16 @@
     "name:fra_x_preferred":[
         "Chassepierre"
     ],
+    "name:gle_x_preferred":[
+        "Chassepierre"
+    ],
     "name:hun_x_preferred":[
         "Chassepierre"
     ],
     "name:ind_x_preferred":[
+        "Chassepierre"
+    ],
+    "name:ita_x_preferred":[
         "Chassepierre"
     ],
     "name:jpn_x_preferred":[
@@ -51,6 +57,9 @@
     ],
     "name:wln_x_preferred":[
         "Tchespire"
+    ],
+    "name:zho_x_preferred":[
+        "\u590f\u745f\u76ae\u8036"
     ],
     "qs_pg:aaroncc":"BE",
     "qs_pg:gn_country":"BE",
@@ -106,7 +115,7 @@
         }
     ],
     "wof:id":1125998749,
-    "wof:lastmodified":1566612130,
+    "wof:lastmodified":1690856785,
     "wof:name":"Chassepierre",
     "wof:parent_id":102049907,
     "wof:placetype":"locality",

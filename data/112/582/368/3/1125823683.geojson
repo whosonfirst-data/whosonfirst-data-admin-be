@@ -28,6 +28,9 @@
     "name:fra_x_preferred":[
         "Nederhasselt"
     ],
+    "name:gle_x_preferred":[
+        "Nederhasselt"
+    ],
     "name:hun_x_preferred":[
         "Nederhasselt"
     ],
@@ -86,7 +89,7 @@
         }
     ],
     "wof:id":1125823683,
-    "wof:lastmodified":1566612196,
+    "wof:lastmodified":1690856852,
     "wof:name":"Nederhasselt",
     "wof:parent_id":1108830403,
     "wof:placetype":"locality",

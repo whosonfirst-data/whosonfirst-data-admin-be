@@ -28,6 +28,9 @@
     "name:fra_x_preferred":[
         "Strijpen"
     ],
+    "name:gle_x_preferred":[
+        "Strijpen"
+    ],
     "name:hun_x_preferred":[
         "Strijpen"
     ],
@@ -89,7 +92,7 @@
         }
     ],
     "wof:id":1125780389,
-    "wof:lastmodified":1566612209,
+    "wof:lastmodified":1690856868,
     "wof:name":"Strijpen",
     "wof:parent_id":1108830019,
     "wof:placetype":"locality",

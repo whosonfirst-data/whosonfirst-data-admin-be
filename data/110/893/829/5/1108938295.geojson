@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"4.34761456131,50.8548445388,4.34761456131,50.8548445388",
+    "geom:bbox":"4.347615,50.854845,4.347615,50.854845",
     "geom:latitude":50.854845,
     "geom:longitude":4.347615,
     "iso:country":"BE",
@@ -38,6 +38,9 @@
     "name:nld_x_preferred":[
         "Kaaienwijk"
     ],
+    "name:swe_x_preferred":[
+        "Hamnkvarteren"
+    ],
     "src:lbl_centroid":"mz",
     "wof:belongsto":[
         102191581,
@@ -53,7 +56,7 @@
     },
     "wof:country":"BE",
     "wof:created":1491360275,
-    "wof:geomhash":"46e93dad9d169d0adb8f5e7877b4e0af",
+    "wof:geomhash":"a42049e3000c18073206d3ef4611e984",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -66,7 +69,7 @@
         }
     ],
     "wof:id":1108938295,
-    "wof:lastmodified":1566611506,
+    "wof:lastmodified":1690856427,
     "wof:name":"Quartier des Quais",
     "wof:parent_id":101751573,
     "wof:placetype":"neighbourhood",
@@ -76,10 +79,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    4.34761456131123,
-    50.85484453879987,
-    4.34761456131123,
-    50.85484453879987
+    4.347615,
+    50.854845,
+    4.347615,
+    50.854845
 ],
-  "geometry": {"coordinates":[4.34761456131123,50.85484453879987],"type":"Point"}
+  "geometry": {"coordinates":[4.347615,50.854845],"type":"Point"}
 }

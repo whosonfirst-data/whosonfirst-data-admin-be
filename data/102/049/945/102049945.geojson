@@ -72,6 +72,9 @@
     "name:ceb_x_preferred":[
         "Nivelles"
     ],
+    "name:ces_x_preferred":[
+        "Nivelles"
+    ],
     "name:dan_x_preferred":[
         "Nivelles"
     ],
@@ -85,6 +88,9 @@
         "Nivelles"
     ],
     "name:epo_x_preferred":[
+        "Nivelles"
+    ],
+    "name:est_x_preferred":[
         "Nivelles"
     ],
     "name:eus_x_preferred":[
@@ -119,6 +125,9 @@
     ],
     "name:jpn_x_preferred":[
         "\u30cb\u30f4\u30a7\u30eb"
+    ],
+    "name:lat_x_preferred":[
+        "Nivellae"
     ],
     "name:lit_x_preferred":[
         "Nivelis"
@@ -168,6 +177,9 @@
     "name:vie_x_preferred":[
         "Nivelles"
     ],
+    "name:vls_x_preferred":[
+        "Neyvel"
+    ],
     "name:vol_x_preferred":[
         "Nivelles"
     ],
@@ -177,8 +189,14 @@
     "name:wln_x_preferred":[
         "Nivele"
     ],
+    "name:zea_x_preferred":[
+        "Neivel"
+    ],
     "name:zho_x_preferred":[
         "\u5c3c\u97e6\u5c14"
+    ],
+    "name:zho_x_variant":[
+        "\u5c3c\u97e6\u52d2"
     ],
     "qs:a0":"Belgi\u00c3\u00ab#Belgique#Belgien",
     "qs:a0_lc":"BE000000",
@@ -224,7 +242,7 @@
         "wd:id":"Q319463"
     },
     "wof:country":"BE",
-    "wof:geomhash":"102f902d3e450b0409f6f7c2b621b628",
+    "wof:geomhash":"625447c80acc1c2e4a5ed7ee6f5e8d92",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -235,7 +253,7 @@
         }
     ],
     "wof:id":102049945,
-    "wof:lastmodified":1684351493,
+    "wof:lastmodified":1690856399,
     "wof:name":"Nivelles",
     "wof:parent_id":85681693,
     "wof:placetype":"county",

@@ -22,6 +22,9 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Monceau-sur-Sambre"
+    ],
     "name:ceb_x_preferred":[
         "Monceau-sur-Sambre"
     ],
@@ -29,6 +32,9 @@
         "Monceau-sur-Sambre"
     ],
     "name:fra_x_preferred":[
+        "Monceau-sur-Sambre"
+    ],
+    "name:gle_x_preferred":[
         "Monceau-sur-Sambre"
     ],
     "name:hun_x_preferred":[
@@ -45,6 +51,9 @@
     ],
     "name:wln_x_preferred":[
         "Li Moncha-so-Sambe"
+    ],
+    "name:wln_x_variant":[
+        "Moncea-so-Sambe"
     ],
     "qs_pg:aaroncc":"BE",
     "qs_pg:gn_country":"BE",
@@ -98,7 +107,7 @@
         }
     ],
     "wof:id":1125796621,
-    "wof:lastmodified":1566612227,
+    "wof:lastmodified":1690856886,
     "wof:name":"Monceau-sur-Sambre",
     "wof:parent_id":102049927,
     "wof:placetype":"locality",

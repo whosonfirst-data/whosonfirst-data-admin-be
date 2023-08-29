@@ -22,6 +22,9 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Eizeringen"
+    ],
     "name:deu_x_preferred":[
         "Eizeringen"
     ],
@@ -95,7 +98,7 @@
         }
     ],
     "wof:id":1125777471,
-    "wof:lastmodified":1566612241,
+    "wof:lastmodified":1690856904,
     "wof:name":"Eizeringen",
     "wof:parent_id":1108830469,
     "wof:placetype":"locality",

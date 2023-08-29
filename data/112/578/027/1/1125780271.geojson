@@ -31,6 +31,9 @@
     "name:fra_x_preferred":[
         "Winkel-Sainte-Croix"
     ],
+    "name:gle_x_preferred":[
+        "Sint-Kruis-Winkel"
+    ],
     "name:hun_x_preferred":[
         "Sint-Kruis-Winkel"
     ],
@@ -42,6 +45,12 @@
     ],
     "name:swe_x_preferred":[
         "Sint-Kruis-Winkel"
+    ],
+    "name:vls_x_preferred":[
+        "Sint-Kruus-Winkel"
+    ],
+    "name:zho_x_preferred":[
+        "\u5723\u514b\u8d56\u65af-\u6e29\u514b\u5c14"
     ],
     "qs_pg:aaroncc":"BE",
     "qs_pg:gn_country":"BE",
@@ -95,7 +104,7 @@
         }
     ],
     "wof:id":1125780271,
-    "wof:lastmodified":1566612211,
+    "wof:lastmodified":1690856871,
     "wof:name":"St.-Kruis-Winkel",
     "wof:parent_id":1108830083,
     "wof:placetype":"locality",

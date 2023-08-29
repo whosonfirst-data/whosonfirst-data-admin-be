@@ -22,11 +22,17 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ell_x_preferred":[
+        "\u03a3\u03b9\u03bd\u03c4-\u039a\u03bf\u03c1\u03bd\u03ad\u03bb\u03b9\u03c2-\u03a7\u03cc\u03c1\u03b5\u03bc\u03c0\u03b5\u03ba\u03b5"
+    ],
     "name:eng_x_preferred":[
         "Sint-Kornelis-Horebeke"
     ],
     "name:fra_x_preferred":[
         "Hoorebeke-Saint-Corneille"
+    ],
+    "name:gle_x_preferred":[
+        "Sint-Kornelis-Horebeke"
     ],
     "name:hun_x_preferred":[
         "Sint-Kornelis-Horebeke"
@@ -90,7 +96,7 @@
         }
     ],
     "wof:id":1125963737,
-    "wof:lastmodified":1566612163,
+    "wof:lastmodified":1690856813,
     "wof:name":"St.-Kornelis-Horebeke",
     "wof:parent_id":1108830445,
     "wof:placetype":"locality",

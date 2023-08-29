@@ -31,6 +31,12 @@
     "name:fra_x_preferred":[
         "Piringen"
     ],
+    "name:fra_x_variant":[
+        "Pirange"
+    ],
+    "name:gle_x_preferred":[
+        "Piringen"
+    ],
     "name:hun_x_preferred":[
         "Piringen"
     ],
@@ -92,7 +98,7 @@
         }
     ],
     "wof:id":1125953709,
-    "wof:lastmodified":1566612031,
+    "wof:lastmodified":1690856693,
     "wof:name":"Piringen",
     "wof:parent_id":1108830031,
     "wof:placetype":"locality",

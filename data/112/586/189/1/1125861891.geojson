@@ -28,6 +28,9 @@
     "name:fra_x_preferred":[
         "Joncret"
     ],
+    "name:gle_x_preferred":[
+        "Joncret"
+    ],
     "name:hun_x_preferred":[
         "Joncret"
     ],
@@ -36,6 +39,9 @@
     ],
     "name:und_x_variant":[
         "Gerpinnes (Joncret)"
+    ],
+    "name:wln_x_preferred":[
+        "Djoncret"
     ],
     "qs_pg:aaroncc":"BE",
     "qs_pg:gn_country":"BE",
@@ -87,7 +93,7 @@
         }
     ],
     "wof:id":1125861891,
-    "wof:lastmodified":1566612079,
+    "wof:lastmodified":1690856741,
     "wof:name":"Joncret",
     "wof:parent_id":102049927,
     "wof:placetype":"locality",

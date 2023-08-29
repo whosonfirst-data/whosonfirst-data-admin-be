@@ -54,6 +54,9 @@
     "name:fra_x_preferred":[
         "Herstappe"
     ],
+    "name:gle_x_preferred":[
+        "Herstappe"
+    ],
     "name:hun_x_preferred":[
         "Herstappe"
     ],
@@ -114,8 +117,14 @@
     "name:wln_x_preferred":[
         "Hestape"
     ],
+    "name:zea_x_preferred":[
+        "Herstappe"
+    ],
     "name:zho_x_preferred":[
         "\u57c3\u5c14\u65af\u5854\u666e"
+    ],
+    "name:zho_x_variant":[
+        "\u6d77\u5c14\u65af\u5854\u73c0"
     ],
     "qs:a0":"Belgi\u00eb#Belgique#Belgien",
     "qs:a1":"*Limburg",
@@ -172,7 +181,7 @@
         }
     ],
     "wof:id":101854561,
-    "wof:lastmodified":1582345566,
+    "wof:lastmodified":1690856642,
     "wof:name":"Herstappe",
     "wof:parent_id":1108830081,
     "wof:placetype":"locality",

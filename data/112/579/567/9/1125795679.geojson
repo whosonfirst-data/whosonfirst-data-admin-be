@@ -28,6 +28,9 @@
     "name:fra_x_preferred":[
         "Voort"
     ],
+    "name:gle_x_preferred":[
+        "Voort"
+    ],
     "name:hun_x_preferred":[
         "Voort"
     ],
@@ -96,7 +99,7 @@
         }
     ],
     "wof:id":1125795679,
-    "wof:lastmodified":1566612218,
+    "wof:lastmodified":1690856876,
     "wof:name":"Voort",
     "wof:parent_id":1108830323,
     "wof:placetype":"locality",

@@ -22,16 +22,28 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Halle-Booienhoven"
+    ],
+    "name:deu_x_preferred":[
+        "Halle-Booienhoven"
+    ],
     "name:eng_x_preferred":[
         "Halle-Booienhoven"
     ],
     "name:fra_x_preferred":[
         "Halle-Booienhoven"
     ],
+    "name:gle_x_preferred":[
+        "Halle-Booienhoven"
+    ],
     "name:hun_x_preferred":[
         "Halle-Booienhoven"
     ],
     "name:nld_x_preferred":[
+        "Halle-Booienhoven"
+    ],
+    "name:spa_x_preferred":[
         "Halle-Booienhoven"
     ],
     "name:und_x_variant":[
@@ -89,7 +101,7 @@
         }
     ],
     "wof:id":1126043949,
-    "wof:lastmodified":1566612065,
+    "wof:lastmodified":1690856726,
     "wof:name":"Halle-Booienhoven",
     "wof:parent_id":1108830427,
     "wof:placetype":"locality",

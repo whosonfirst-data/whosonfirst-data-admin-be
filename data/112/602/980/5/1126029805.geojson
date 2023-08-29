@@ -31,6 +31,9 @@
     "name:fra_x_preferred":[
         "Meetkerke"
     ],
+    "name:gle_x_preferred":[
+        "Meetkerke"
+    ],
     "name:hun_x_preferred":[
         "Meetkerke"
     ],
@@ -99,7 +102,7 @@
         }
     ],
     "wof:id":1126029805,
-    "wof:lastmodified":1566612048,
+    "wof:lastmodified":1690856705,
     "wof:name":"Meetkerke",
     "wof:parent_id":1108830569,
     "wof:placetype":"locality",

@@ -28,6 +28,9 @@
     "name:fra_x_preferred":[
         "Binderveld"
     ],
+    "name:gle_x_preferred":[
+        "Binderveld"
+    ],
     "name:hun_x_preferred":[
         "Binderveld"
     ],
@@ -88,7 +91,7 @@
         }
     ],
     "wof:id":1126017445,
-    "wof:lastmodified":1566612178,
+    "wof:lastmodified":1690856830,
     "wof:name":"Binderveld",
     "wof:parent_id":1108830617,
     "wof:placetype":"locality",

@@ -25,16 +25,25 @@
     "name:ceb_x_preferred":[
         "Leeuwergem"
     ],
+    "name:deu_x_preferred":[
+        "Leeuwergem"
+    ],
     "name:eng_x_preferred":[
         "Leeuwergem"
     ],
     "name:fra_x_preferred":[
         "Leeuwergem"
     ],
+    "name:gle_x_preferred":[
+        "Leeuwergem"
+    ],
     "name:hun_x_preferred":[
         "Leeuwergem"
     ],
     "name:nld_x_preferred":[
+        "Leeuwergem"
+    ],
+    "name:spa_x_preferred":[
         "Leeuwergem"
     ],
     "name:swe_x_preferred":[
@@ -92,7 +101,7 @@
         }
     ],
     "wof:id":1125890393,
-    "wof:lastmodified":1566612102,
+    "wof:lastmodified":1690856766,
     "wof:name":"Leeuwergem",
     "wof:parent_id":1108830019,
     "wof:placetype":"locality",

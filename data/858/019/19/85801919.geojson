@@ -26,11 +26,17 @@
     "mz:min_zoom":13.0,
     "mz:tier_locality":1,
     "mz:tier_metro":30,
+    "name:cat_x_preferred":[
+        "Sint-Stevens-Woluwe"
+    ],
     "name:eng_x_preferred":[
         "Sint-Stevens-Woluwe"
     ],
     "name:fra_x_preferred":[
         "Woluwe-Saint-\u00c9tienne"
+    ],
+    "name:gle_x_preferred":[
+        "Sint-Stevens-Woluwe"
     ],
     "name:ita_x_preferred":[
         "Sint-Stevens-Woluwe"
@@ -122,7 +128,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1582345519,
+    "wof:lastmodified":1690856424,
     "wof:name":"Sint-Stevens-Woluwe",
     "wof:parent_id":101913231,
     "wof:placetype":"neighbourhood",

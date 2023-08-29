@@ -34,6 +34,9 @@
     "name:fra_x_preferred":[
         "Waardamme"
     ],
+    "name:gle_x_preferred":[
+        "Waardamme"
+    ],
     "name:hun_x_preferred":[
         "Waardamme"
     ],
@@ -101,7 +104,7 @@
         }
     ],
     "wof:id":1126043989,
-    "wof:lastmodified":1566612061,
+    "wof:lastmodified":1690856722,
     "wof:name":"Waardamme",
     "wof:parent_id":1108830181,
     "wof:placetype":"locality",

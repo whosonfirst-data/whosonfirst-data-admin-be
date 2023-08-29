@@ -72,6 +72,9 @@
     "name:bar_x_preferred":[
         "Diksmuide"
     ],
+    "name:bel_x_preferred":[
+        "\u0414\u044b\u043a\u0441\u043c\u0451\u0439\u0434\u044d"
+    ],
     "name:bre_x_preferred":[
         "Diksmuide"
     ],
@@ -171,6 +174,9 @@
     "name:kon_x_preferred":[
         "Diksmuide"
     ],
+    "name:lat_x_preferred":[
+        "Dixmuda"
+    ],
     "name:lij_x_preferred":[
         "Diksmuide"
     ],
@@ -267,6 +273,9 @@
     "name:swe_x_preferred":[
         "Diksmuide"
     ],
+    "name:ukr_x_preferred":[
+        "\u0414\u0456\u043a\u0441\u043c\u0435\u0439\u0434\u0435"
+    ],
     "name:vec_x_preferred":[
         "Diksmuide"
     ],
@@ -293,6 +302,9 @@
     ],
     "name:zho_x_preferred":[
         "\u8fea\u514b\u65af\u6885\u5fb7"
+    ],
+    "name:zho_x_variant":[
+        "\u8fea\u514b\u65af\u8fc8\u5fb7"
     ],
     "name:zul_x_preferred":[
         "Diksmuide"
@@ -341,7 +353,7 @@
         "wd:id":"Q215244"
     },
     "wof:country":"BE",
-    "wof:geomhash":"e9860505d59e167adcec19d0c2ca21f4",
+    "wof:geomhash":"a1e293505f193a20563c717c8999f49e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -352,7 +364,7 @@
         }
     ],
     "wof:id":102049987,
-    "wof:lastmodified":1684351493,
+    "wof:lastmodified":1690856399,
     "wof:name":"Diksmuide",
     "wof:parent_id":85681709,
     "wof:placetype":"county",

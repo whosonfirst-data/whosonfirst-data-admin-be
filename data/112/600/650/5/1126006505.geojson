@@ -31,6 +31,12 @@
     "name:fra_x_preferred":[
         "Kotem"
     ],
+    "name:gle_x_preferred":[
+        "Kotem"
+    ],
+    "name:lim_x_preferred":[
+        "Kote"
+    ],
     "name:nld_x_preferred":[
         "Kotem"
     ],
@@ -93,7 +99,7 @@
         }
     ],
     "wof:id":1126006505,
-    "wof:lastmodified":1566612183,
+    "wof:lastmodified":1690856837,
     "wof:name":"Kotem",
     "wof:parent_id":1108830295,
     "wof:placetype":"locality",

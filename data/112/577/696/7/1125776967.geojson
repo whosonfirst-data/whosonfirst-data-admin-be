@@ -28,6 +28,9 @@
     "name:fra_x_preferred":[
         "Autre-\u00c9glise"
     ],
+    "name:gle_x_preferred":[
+        "Autre-\u00c9glise"
+    ],
     "name:hun_x_preferred":[
         "Autre-\u00c9glise"
     ],
@@ -39,6 +42,9 @@
     ],
     "name:wln_x_preferred":[
         "\u00d4te-Gl\u00e9jhe"
+    ],
+    "name:zho_x_preferred":[
+        "\u5965\u7279\u96f7-\u57c3\u683c\u5229\u65af"
     ],
     "qs_pg:aaroncc":"BE",
     "qs_pg:gn_country":"BE",
@@ -90,7 +96,7 @@
         }
     ],
     "wof:id":1125776967,
-    "wof:lastmodified":1566612250,
+    "wof:lastmodified":1690856916,
     "wof:name":"Autre-\u00c9glise",
     "wof:parent_id":102049945,
     "wof:placetype":"locality",

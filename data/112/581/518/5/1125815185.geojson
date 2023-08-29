@@ -31,6 +31,9 @@
     "name:fra_x_preferred":[
         "Vosselare"
     ],
+    "name:gle_x_preferred":[
+        "Vosselare"
+    ],
     "name:hun_x_preferred":[
         "Vosselare"
     ],
@@ -39,6 +42,9 @@
     ],
     "name:und_x_variant":[
         "Vosselaere"
+    ],
+    "name:zho_x_preferred":[
+        "\u798f\u745f\u62c9\u52d2"
     ],
     "qs_pg:aaroncc":"BE",
     "qs_pg:gn_country":"BE",
@@ -94,7 +100,7 @@
         }
     ],
     "wof:id":1125815185,
-    "wof:lastmodified":1566612086,
+    "wof:lastmodified":1690856748,
     "wof:name":"Vosselare",
     "wof:parent_id":1108830463,
     "wof:placetype":"locality",

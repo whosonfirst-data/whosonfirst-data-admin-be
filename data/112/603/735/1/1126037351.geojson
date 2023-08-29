@@ -22,6 +22,9 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Tongrinne"
+    ],
     "name:eng_x_preferred":[
         "Tongrinne"
     ],
@@ -32,6 +35,9 @@
         "\u062a\u0646\u06af\u0631\u06cc\u0646\u0647"
     ],
     "name:fra_x_preferred":[
+        "Tongrinne"
+    ],
+    "name:gle_x_preferred":[
         "Tongrinne"
     ],
     "name:ltz_x_preferred":[
@@ -97,7 +103,7 @@
         }
     ],
     "wof:id":1126037351,
-    "wof:lastmodified":1566612071,
+    "wof:lastmodified":1690856734,
     "wof:name":"Tongrinne",
     "wof:parent_id":102049931,
     "wof:placetype":"locality",

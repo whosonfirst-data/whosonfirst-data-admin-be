@@ -37,6 +37,9 @@
     "name:fra_x_preferred":[
         "Ingooigem"
     ],
+    "name:gle_x_preferred":[
+        "Ingooigem"
+    ],
     "name:hun_x_preferred":[
         "Ingooigem"
     ],
@@ -109,7 +112,7 @@
         }
     ],
     "wof:id":1126042909,
-    "wof:lastmodified":1566612068,
+    "wof:lastmodified":1690856730,
     "wof:name":"Ingooigem",
     "wof:parent_id":1108830475,
     "wof:placetype":"locality",

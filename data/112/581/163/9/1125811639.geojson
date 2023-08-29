@@ -31,8 +31,14 @@
     "name:fra_x_preferred":[
         "Sint-Gillis-bij-Dendermonde"
     ],
+    "name:gle_x_preferred":[
+        "Sint-Gillis-bij-Dendermonde"
+    ],
     "name:hun_x_preferred":[
         "Sint-Gillis-bij-Dendermonde"
+    ],
+    "name:lat_x_preferred":[
+        "Swiviacum"
     ],
     "name:nld_x_preferred":[
         "Sint-Gillis-bij-Dendermonde"
@@ -102,7 +108,7 @@
         }
     ],
     "wof:id":1125811639,
-    "wof:lastmodified":1566612087,
+    "wof:lastmodified":1690856750,
     "wof:name":"St.-Gillis-bij-Dendermonde",
     "wof:parent_id":1108830417,
     "wof:placetype":"locality",

@@ -61,11 +61,17 @@
     "name:fra_x_preferred":[
         "Edegem"
     ],
+    "name:gle_x_preferred":[
+        "Edegem"
+    ],
     "name:hun_x_preferred":[
         "Edegem"
     ],
     "name:ita_x_preferred":[
         "Edegem"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a8\u30c7\u30b2\u30e0"
     ],
     "name:lit_x_preferred":[
         "\u0116degemas"
@@ -91,6 +97,9 @@
     "name:ron_x_preferred":[
         "Edegem"
     ],
+    "name:rus_x_preferred":[
+        "\u042d\u0434\u0435\u0433\u0435\u043c"
+    ],
     "name:slk_x_preferred":[
         "Edegem"
     ],
@@ -98,6 +107,9 @@
         "Edegem"
     ],
     "name:swe_x_preferred":[
+        "Edegem"
+    ],
+    "name:tur_x_preferred":[
         "Edegem"
     ],
     "name:ukr_x_preferred":[
@@ -113,6 +125,9 @@
         "Edegem"
     ],
     "name:war_x_preferred":[
+        "Edegem"
+    ],
+    "name:zea_x_preferred":[
         "Edegem"
     ],
     "name:zho_x_preferred":[
@@ -175,7 +190,7 @@
         }
     ],
     "wof:id":1125776225,
-    "wof:lastmodified":1566612246,
+    "wof:lastmodified":1690856912,
     "wof:name":"Edegem",
     "wof:parent_id":1108830507,
     "wof:placetype":"locality",

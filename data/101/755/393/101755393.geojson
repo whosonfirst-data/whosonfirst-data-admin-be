@@ -22,6 +22,9 @@
     "name:ara_x_preferred":[
         "\u0646\u064a\u0646\u062f\u064a"
     ],
+    "name:cat_x_preferred":[
+        "Ninde"
+    ],
     "name:ell_x_preferred":[
         "\u039d\u03af\u03bd\u03c4\u03b5"
     ],
@@ -114,7 +117,7 @@
         }
     ],
     "wof:id":101755393,
-    "wof:lastmodified":1636500625,
+    "wof:lastmodified":1690856474,
     "wof:name":"Ninde",
     "wof:parent_id":1108830055,
     "wof:placetype":"locality",

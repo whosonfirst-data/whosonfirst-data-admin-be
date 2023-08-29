@@ -22,10 +22,16 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Orsmaal-Gussenhoven"
+    ],
     "name:eng_x_preferred":[
         "Orsmaal-Gussenhoven"
     ],
     "name:fra_x_preferred":[
+        "Orsmaal-Gussenhoven"
+    ],
+    "name:gle_x_preferred":[
         "Orsmaal-Gussenhoven"
     ],
     "name:hun_x_preferred":[
@@ -89,7 +95,7 @@
         }
     ],
     "wof:id":1126053393,
-    "wof:lastmodified":1566612051,
+    "wof:lastmodified":1690856708,
     "wof:name":"Orsmaal-Gussenhoven",
     "wof:parent_id":1108830045,
     "wof:placetype":"locality",

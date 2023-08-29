@@ -34,6 +34,9 @@
     "name:fra_x_preferred":[
         "Aye"
     ],
+    "name:gle_x_preferred":[
+        "Aye"
+    ],
     "name:hun_x_preferred":[
         "Aye"
     ],
@@ -107,7 +110,7 @@
         }
     ],
     "wof:id":1125840559,
-    "wof:lastmodified":1566612229,
+    "wof:lastmodified":1690856889,
     "wof:name":"Aye",
     "wof:parent_id":102049921,
     "wof:placetype":"locality",

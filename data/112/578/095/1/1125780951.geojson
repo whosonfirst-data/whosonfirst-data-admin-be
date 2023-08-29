@@ -28,6 +28,9 @@
     "name:fra_x_preferred":[
         "Wintershoven"
     ],
+    "name:gle_x_preferred":[
+        "Wintershoven"
+    ],
     "name:hun_x_preferred":[
         "Wintershoven"
     ],
@@ -86,7 +89,7 @@
         }
     ],
     "wof:id":1125780951,
-    "wof:lastmodified":1566612213,
+    "wof:lastmodified":1690856873,
     "wof:name":"Wintershoven",
     "wof:parent_id":1108830391,
     "wof:placetype":"locality",

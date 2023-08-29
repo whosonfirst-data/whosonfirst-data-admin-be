@@ -25,6 +25,9 @@
     "name:bul_x_preferred":[
         "\u041c\u0435\u0441\u0432\u0438\u043d"
     ],
+    "name:cat_x_preferred":[
+        "Mesvin"
+    ],
     "name:ceb_x_preferred":[
         "Mesvin"
     ],
@@ -32,6 +35,9 @@
         "Mesvin"
     ],
     "name:fra_x_preferred":[
+        "Mesvin"
+    ],
+    "name:gle_x_preferred":[
         "Mesvin"
     ],
     "name:hun_x_preferred":[
@@ -42,6 +48,9 @@
     ],
     "name:swe_x_preferred":[
         "Mesvin"
+    ],
+    "name:wln_x_preferred":[
+        "Mevin"
     ],
     "qs_pg:aaroncc":"BE",
     "qs_pg:gn_country":"BE",
@@ -95,7 +104,7 @@
         }
     ],
     "wof:id":1125801555,
-    "wof:lastmodified":1566612111,
+    "wof:lastmodified":1690856776,
     "wof:name":"Mesvin",
     "wof:parent_id":102049933,
     "wof:placetype":"locality",

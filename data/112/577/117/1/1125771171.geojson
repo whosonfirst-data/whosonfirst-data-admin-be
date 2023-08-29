@@ -85,7 +85,13 @@
     "name:fra_x_preferred":[
         "Kuurne"
     ],
+    "name:fra_x_variant":[
+        "Cuerne"
+    ],
     "name:frp_x_preferred":[
+        "Kuurne"
+    ],
+    "name:fry_x_preferred":[
         "Kuurne"
     ],
     "name:fur_x_preferred":[
@@ -102,6 +108,9 @@
     ],
     "name:gsw_x_preferred":[
         "Kuurne"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e7\u05d5\u05e8\u05df"
     ],
     "name:hrv_x_preferred":[
         "Kuurne"
@@ -253,6 +262,9 @@
     "name:zho_x_preferred":[
         "\u5c48\u5c14\u5185"
     ],
+    "name:zho_x_variant":[
+        "\u5c48\u5c14\u8bb7"
+    ],
     "name:zul_x_preferred":[
         "Kuurne"
     ],
@@ -313,7 +325,7 @@
         }
     ],
     "wof:id":1125771171,
-    "wof:lastmodified":1566612243,
+    "wof:lastmodified":1690856906,
     "wof:name":"Kuurne",
     "wof:parent_id":1108830327,
     "wof:placetype":"locality",

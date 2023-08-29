@@ -34,6 +34,9 @@
     "name:fra_x_preferred":[
         "Zepperen"
     ],
+    "name:gle_x_preferred":[
+        "Zepperen"
+    ],
     "name:hun_x_preferred":[
         "Zepperen"
     ],
@@ -100,7 +103,7 @@
         }
     ],
     "wof:id":1125781055,
-    "wof:lastmodified":1566612206,
+    "wof:lastmodified":1690856864,
     "wof:name":"Zepperen",
     "wof:parent_id":1108830223,
     "wof:placetype":"locality",

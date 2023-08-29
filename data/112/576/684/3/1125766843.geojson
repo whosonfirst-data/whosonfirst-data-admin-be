@@ -22,6 +22,9 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Sart-Risbart"
+    ],
     "name:deu_x_preferred":[
         "Sart-Risbart"
     ],
@@ -29,6 +32,9 @@
         "Sart-Risbart"
     ],
     "name:fra_x_preferred":[
+        "Sart-Risbart"
+    ],
+    "name:ita_x_preferred":[
         "Sart-Risbart"
     ],
     "name:nld_x_preferred":[
@@ -86,7 +92,7 @@
         }
     ],
     "wof:id":1125766843,
-    "wof:lastmodified":1566612201,
+    "wof:lastmodified":1690856858,
     "wof:name":"Sart Risbart",
     "wof:parent_id":102049945,
     "wof:placetype":"locality",

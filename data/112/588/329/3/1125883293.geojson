@@ -34,6 +34,9 @@
     "name:fra_x_preferred":[
         "Vinkt"
     ],
+    "name:gle_x_preferred":[
+        "Vinkt"
+    ],
     "name:hun_x_preferred":[
         "Vinkt"
     ],
@@ -102,7 +105,7 @@
         }
     ],
     "wof:id":1125883293,
-    "wof:lastmodified":1566612096,
+    "wof:lastmodified":1690856763,
     "wof:name":"Vinkt",
     "wof:parent_id":1108830629,
     "wof:placetype":"locality",

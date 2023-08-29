@@ -6,9 +6,9 @@
     "edtf:inception":"uuuu",
     "geom:area":0.000047,
     "geom:area_square_m":369397.287459,
-    "geom:bbox":"4.46611636632,50.9861629082,4.47682466324,50.995063715",
+    "geom:bbox":"4.466116,50.986163,4.476825,50.995064",
     "geom:latitude":50.990518,
-    "geom:longitude":4.472055,
+    "geom:longitude":4.472056,
     "gn:population":77530,
     "iso:country":"BE",
     "lbl:latitude":50.990291,
@@ -26,6 +26,15 @@
     "name:ara_x_preferred":[
         "\u0645\u064a\u0634\u064a\u0644\u064a\u0646"
     ],
+    "name:ara_x_variant":[
+        "\u0645\u0650\u0634\u0650\u0644\u064a\u0646"
+    ],
+    "name:arz_x_preferred":[
+        "\u0645\u064a\u0634\u064a\u0644\u064a\u0646"
+    ],
+    "name:ast_x_preferred":[
+        "Mechelen"
+    ],
     "name:bel_x_preferred":[
         "\u041c\u0435\u0445\u0435\u043b\u0435\u043d"
     ],
@@ -37,6 +46,9 @@
     ],
     "name:cat_x_preferred":[
         "Mechelen"
+    ],
+    "name:cat_x_variant":[
+        "Malines"
     ],
     "name:ceb_x_preferred":[
         "Mechelen"
@@ -68,6 +80,9 @@
     "name:epo_x_preferred":[
         "Me\u0125leno"
     ],
+    "name:est_x_preferred":[
+        "Mechelen"
+    ],
     "name:eus_x_preferred":[
         "Malinas"
     ],
@@ -80,6 +95,9 @@
     "name:fra_x_preferred":[
         "Malines"
     ],
+    "name:frr_x_preferred":[
+        "Mechelen"
+    ],
     "name:gle_x_preferred":[
         "Mechelen"
     ],
@@ -91,6 +109,9 @@
     ],
     "name:hye_x_preferred":[
         "\u0544\u0565\u056d\u0565\u056c\u0565\u0576"
+    ],
+    "name:ile_x_preferred":[
+        "Mechelen"
     ],
     "name:ind_x_preferred":[
         "Mechelen"
@@ -131,6 +152,12 @@
     "name:ltz_x_preferred":[
         "Mechelen"
     ],
+    "name:mkd_x_preferred":[
+        "\u041c\u0435\u0445\u0435\u043b\u0435\u043d"
+    ],
+    "name:mlt_x_preferred":[
+        "Mechelen"
+    ],
     "name:nap_x_preferred":[
         "Malines"
     ],
@@ -142,6 +169,9 @@
     ],
     "name:oci_x_preferred":[
         "Malines"
+    ],
+    "name:oss_x_preferred":[
+        "\u041c\u0435\u0445\u0435\u043b\u0435\u043d"
     ],
     "name:pol_x_preferred":[
         "Mechelen"
@@ -191,6 +221,9 @@
     "name:ukr_x_preferred":[
         "\u041c\u0435\u0445\u0435\u043b\u0435\u043d"
     ],
+    "name:urd_x_preferred":[
+        "\u0645\u06cc\u062e\u0644\u0646"
+    ],
     "name:vie_x_preferred":[
         "Mechelen"
     ],
@@ -201,6 +234,12 @@
         "Mechelen"
     ],
     "name:war_x_preferred":[
+        "Mechelen"
+    ],
+    "name:wuu_x_preferred":[
+        "\u6885\u8d6b\u4f26"
+    ],
+    "name:zea_x_preferred":[
         "Mechelen"
     ],
     "name:zho_x_preferred":[
@@ -244,7 +283,7 @@
         "wk:page":"Mechelen"
     },
     "wof:country":"BE",
-    "wof:geomhash":"36c686b9b8d9b31e39a97db7a39ba859",
+    "wof:geomhash":"42365c48516aad7e082d5378e400e55b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -260,7 +299,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1566611901,
+    "wof:lastmodified":1690856569,
     "wof:name":"Mechelen",
     "wof:parent_id":1108830589,
     "wof:placetype":"locality",
@@ -272,10 +311,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    4.46611636632059,
-    50.98616290820428,
-    4.47682466324068,
-    50.9950637149928
+    4.466116,
+    50.986163,
+    4.476825,
+    50.995064
 ],
-  "geometry": {"coordinates":[[[4.47478343477252,50.99273186657746],[4.47486924342013,50.99201312957706],[4.47629012440046,50.99208097487019],[4.47682466324068,50.98760120823908],[4.47114170690156,50.98732975271014],[4.47128105744957,50.98616290820428],[4.46994453822413,50.98634939925893],[4.46895209433262,50.98722508504557],[4.46972097736932,50.98726184530187],[4.46918575770979,50.99174157427933],[4.46776489584039,50.99167364192414],[4.46755071759014,50.99346552823829],[4.46612980507325,50.99339757545516],[4.46611636632059,50.99350997160235],[4.46922385310137,50.9950637149928],[4.47038155306853,50.99390601502529],[4.47406514387427,50.99243257870296],[4.47478343477252,50.99273186657746]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[4.474783,50.992732],[4.474869,50.992013],[4.47629,50.992081],[4.476825,50.987601],[4.471142,50.98733],[4.471281,50.986163],[4.469945,50.986349],[4.468952,50.987225],[4.469721,50.987262],[4.469186,50.991742],[4.467765,50.991674],[4.467551,50.993466],[4.46613,50.993398],[4.466116,50.99351],[4.469224,50.995064],[4.470382,50.993906],[4.474065,50.992433],[4.474783,50.992732]]],"type":"Polygon"}
 }

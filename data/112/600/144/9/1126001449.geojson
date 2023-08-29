@@ -58,6 +58,9 @@
     "name:fra_x_preferred":[
         "\u00c9talle"
     ],
+    "name:gle_x_preferred":[
+        "\u00c9talle"
+    ],
     "name:hun_x_preferred":[
         "\u00c9talle"
     ],
@@ -107,6 +110,12 @@
         "\u00c9talle"
     ],
     "name:war_x_preferred":[
+        "\u00c9talle"
+    ],
+    "name:wln_x_preferred":[
+        "Et\u00e5le"
+    ],
+    "name:zea_x_preferred":[
         "\u00c9talle"
     ],
     "name:zho_x_preferred":[
@@ -167,7 +176,7 @@
         }
     ],
     "wof:id":1126001449,
-    "wof:lastmodified":1566612184,
+    "wof:lastmodified":1690856838,
     "wof:name":"Etalle",
     "wof:parent_id":102049907,
     "wof:placetype":"locality",

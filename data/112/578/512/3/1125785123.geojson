@@ -31,6 +31,9 @@
     "name:cat_x_preferred":[
         "La Bruy\u00e8re"
     ],
+    "name:ckb_x_preferred":[
+        "\u0644\u0627 \u0628\u0648\u06ce\u0631"
+    ],
     "name:deu_x_preferred":[
         "La Bruy\u00e8re"
     ],
@@ -47,6 +50,9 @@
         "\u0644\u0628\u0631\u0648\u06cc\u0631"
     ],
     "name:fra_x_preferred":[
+        "La Bruy\u00e8re"
+    ],
+    "name:gle_x_preferred":[
         "La Bruy\u00e8re"
     ],
     "name:hun_x_preferred":[
@@ -88,6 +94,9 @@
     "name:swe_x_preferred":[
         "La Bruy\u00e8re"
     ],
+    "name:tur_x_preferred":[
+        "La Bruy\u00e8re"
+    ],
     "name:vie_x_preferred":[
         "La Bruy\u00e8re"
     ],
@@ -100,8 +109,14 @@
     "name:wln_x_preferred":[
         "Les Brouhires"
     ],
+    "name:zea_x_preferred":[
+        "La Bruy\u00e8re"
+    ],
     "name:zho_x_preferred":[
         "\u62c9\u5e03\u5415\u57c3"
+    ],
+    "name:zho_x_variant":[
+        "\u62c9\u5e03\u5415\u8036\u5c14"
     ],
     "qs_pg:aaroncc":"BE",
     "qs_pg:gn_country":"BE",
@@ -155,7 +170,7 @@
         }
     ],
     "wof:id":1125785123,
-    "wof:lastmodified":1566612215,
+    "wof:lastmodified":1690856875,
     "wof:name":"La Bruy\u00e8re",
     "wof:parent_id":102049945,
     "wof:placetype":"locality",

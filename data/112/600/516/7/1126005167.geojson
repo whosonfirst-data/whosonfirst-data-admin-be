@@ -34,6 +34,12 @@
     "name:fra_x_preferred":[
         "Avekapelle"
     ],
+    "name:fra_x_variant":[
+        "Avecappelle"
+    ],
+    "name:gle_x_preferred":[
+        "Avekapelle"
+    ],
     "name:hun_x_preferred":[
         "Avekapelle"
     ],
@@ -100,7 +106,7 @@
         }
     ],
     "wof:id":1126005167,
-    "wof:lastmodified":1566612184,
+    "wof:lastmodified":1690856839,
     "wof:name":"Avekapelle",
     "wof:parent_id":1108830165,
     "wof:placetype":"locality",

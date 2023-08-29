@@ -37,6 +37,9 @@
     "name:fra_x_preferred":[
         "Leke"
     ],
+    "name:gle_x_preferred":[
+        "Leke"
+    ],
     "name:hun_x_preferred":[
         "Leke"
     ],
@@ -104,7 +107,7 @@
         }
     ],
     "wof:id":1125778705,
-    "wof:lastmodified":1566612246,
+    "wof:lastmodified":1690856912,
     "wof:name":"Leke",
     "wof:parent_id":1108830401,
     "wof:placetype":"locality",

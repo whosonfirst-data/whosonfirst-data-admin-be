@@ -28,6 +28,9 @@
     "name:fra_x_preferred":[
         "Fexhe-Slins"
     ],
+    "name:gle_x_preferred":[
+        "Fexhe-Slins"
+    ],
     "name:hun_x_preferred":[
         "Fexhe-Slins"
     ],
@@ -87,7 +90,7 @@
         }
     ],
     "wof:id":1125871627,
-    "wof:lastmodified":1566612115,
+    "wof:lastmodified":1690856780,
     "wof:name":"Fexhe-Slins",
     "wof:parent_id":102049941,
     "wof:placetype":"locality",

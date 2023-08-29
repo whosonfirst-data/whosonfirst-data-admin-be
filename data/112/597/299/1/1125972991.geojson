@@ -28,6 +28,9 @@
     "name:fra_x_preferred":[
         "Dormaal"
     ],
+    "name:gle_x_preferred":[
+        "Dormaal"
+    ],
     "name:hun_x_preferred":[
         "Dormaal"
     ],
@@ -91,7 +94,7 @@
         }
     ],
     "wof:id":1125972991,
-    "wof:lastmodified":1566612146,
+    "wof:lastmodified":1690856806,
     "wof:name":"Dormaal",
     "wof:parent_id":1108830427,
     "wof:placetype":"locality",

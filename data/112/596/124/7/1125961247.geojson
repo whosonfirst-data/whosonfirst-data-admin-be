@@ -25,10 +25,19 @@
     "name:bre_x_preferred":[
         "Marche-les-Dames"
     ],
+    "name:cat_x_preferred":[
+        "Marche-les-Dames"
+    ],
     "name:eng_x_preferred":[
         "Marche-les-Dames"
     ],
     "name:fra_x_preferred":[
+        "Marche-les-Dames"
+    ],
+    "name:gle_x_preferred":[
+        "Marche-les-Dames"
+    ],
+    "name:ita_x_preferred":[
         "Marche-les-Dames"
     ],
     "name:jpn_x_preferred":[
@@ -45,6 +54,9 @@
     ],
     "name:wln_x_preferred":[
         "M\u00e5tche-les-Dames"
+    ],
+    "name:zho_x_preferred":[
+        "\u99ac\u723e\u4ec0\u840a\u9054\u59c6"
     ],
     "qs_pg:aaroncc":"BE",
     "qs_pg:gn_country":"BE",
@@ -100,7 +112,7 @@
         }
     ],
     "wof:id":1125961247,
-    "wof:lastmodified":1566612162,
+    "wof:lastmodified":1690856813,
     "wof:name":"Marche-les-Dames",
     "wof:parent_id":102049931,
     "wof:placetype":"locality",

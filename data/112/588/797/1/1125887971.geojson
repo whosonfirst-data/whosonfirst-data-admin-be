@@ -34,6 +34,9 @@
     "name:fra_x_preferred":[
         "Melden"
     ],
+    "name:gle_x_preferred":[
+        "Melden"
+    ],
     "name:hun_x_preferred":[
         "Melden"
     ],
@@ -99,7 +102,7 @@
         }
     ],
     "wof:id":1125887971,
-    "wof:lastmodified":1566612089,
+    "wof:lastmodified":1690856754,
     "wof:name":"Melden",
     "wof:parent_id":1108830311,
     "wof:placetype":"locality",

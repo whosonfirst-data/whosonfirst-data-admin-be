@@ -28,6 +28,9 @@
     "name:fra_x_preferred":[
         "Kaggevinne"
     ],
+    "name:gle_x_preferred":[
+        "Kaggevinne"
+    ],
     "name:hun_x_preferred":[
         "Kaggevinne"
     ],
@@ -36,6 +39,9 @@
     ],
     "name:und_x_variant":[
         "Caggevinne"
+    ],
+    "name:zho_x_preferred":[
+        "\u5361\u8d6b\u82ac\u8bb7"
     ],
     "qs_pg:aaroncc":"BE",
     "qs_pg:gn_country":"BE",
@@ -91,7 +97,7 @@
         }
     ],
     "wof:id":1125953753,
-    "wof:lastmodified":1566612035,
+    "wof:lastmodified":1690856698,
     "wof:name":"Kaggevinne",
     "wof:parent_id":1108830307,
     "wof:placetype":"locality",

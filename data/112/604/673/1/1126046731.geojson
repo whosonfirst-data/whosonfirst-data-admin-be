@@ -28,6 +28,9 @@
     "name:fra_x_preferred":[
         "Houwaart"
     ],
+    "name:gle_x_preferred":[
+        "Houwaart"
+    ],
     "name:hun_x_preferred":[
         "Houwaart"
     ],
@@ -93,7 +96,7 @@
         }
     ],
     "wof:id":1126046731,
-    "wof:lastmodified":1566612063,
+    "wof:lastmodified":1690856723,
     "wof:name":"Houwaart",
     "wof:parent_id":1108830337,
     "wof:placetype":"locality",

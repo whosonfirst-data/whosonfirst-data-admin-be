@@ -65,6 +65,9 @@
     "name:afr_x_preferred":[
         "Antwerpen"
     ],
+    "name:aka_x_preferred":[
+        "Antwerp"
+    ],
     "name:amh_x_preferred":[
         "\u12a0\u1295\u1275\u12c8\u122d\u1355"
     ],
@@ -83,17 +86,26 @@
     "name:ast_x_preferred":[
         "Amberes"
     ],
+    "name:avk_x_preferred":[
+        "Antwerpen"
+    ],
     "name:aze_x_preferred":[
         "Antverpen"
     ],
     "name:bak_x_preferred":[
         "\u0410\u043d\u0442\u0432\u0435\u0440\u043f\u0435\u043d"
     ],
+    "name:ban_x_preferred":[
+        "Antwerp"
+    ],
     "name:bel_x_preferred":[
         "\u0410\u043d\u0442\u0432\u0435\u0440\u043f\u0435\u043d"
     ],
     "name:ben_x_preferred":[
         "\u0985\u09cd\u09af\u09be\u09a8\u09cd\u099f\u0993\u09af\u09bc\u09c7\u09aa"
+    ],
+    "name:ben_x_variant":[
+        "\u0986\u09a8\u09cd\u099f\u09ad\u09c7\u09b0\u09cd\u09aa"
     ],
     "name:bos_x_preferred":[
         "Antwerpen"
@@ -122,6 +134,9 @@
     "name:cos_x_preferred":[
         "Anversu"
     ],
+    "name:crh_x_preferred":[
+        "Antverpen"
+    ],
     "name:csb_x_preferred":[
         "Antwerpa"
     ],
@@ -136,6 +151,9 @@
     ],
     "name:deu_x_variant":[
         "Provinz Antwerpen"
+    ],
+    "name:diq_x_preferred":[
+        "Antwerp"
     ],
     "name:ell_x_preferred":[
         "\u0391\u03bc\u03b2\u03ad\u03c1\u03c3\u03b1"
@@ -171,7 +189,13 @@
     "name:fra_x_variant":[
         "Province d\u2019Anvers"
     ],
+    "name:frr_x_preferred":[
+        "Antwerpen"
+    ],
     "name:fry_x_preferred":[
+        "Antwerpen"
+    ],
+    "name:gla_x_preferred":[
         "Antwerpen"
     ],
     "name:gle_x_preferred":[
@@ -179,6 +203,9 @@
     ],
     "name:glg_x_preferred":[
         "Antuerpen"
+    ],
+    "name:grn_x_preferred":[
+        "Amberes"
     ],
     "name:gsw_x_preferred":[
         "Antw\u00e4rpe"
@@ -205,6 +232,9 @@
         "Antwerpen"
     ],
     "name:hye_x_preferred":[
+        "\u0531\u0576\u057f\u057e\u0565\u0580\u057a\u0565\u0576"
+    ],
+    "name:hyw_x_preferred":[
         "\u0531\u0576\u057f\u057e\u0565\u0580\u057a\u0565\u0576"
     ],
     "name:ido_x_preferred":[
@@ -246,11 +276,17 @@
     "name:kor_x_preferred":[
         "\uc548\ud2b8\ubca0\ub974\ud39c"
     ],
+    "name:kur_x_preferred":[
+        "Antwerpen"
+    ],
     "name:lat_x_preferred":[
         "Antverpia"
     ],
     "name:lav_x_preferred":[
         "Antverpene"
+    ],
+    "name:lfn_x_preferred":[
+        "Antwerp"
     ],
     "name:lim_x_preferred":[
         "Antwerpe"
@@ -270,8 +306,17 @@
     "name:mar_x_preferred":[
         "\u0905\u0901\u091f\u0935\u0930\u094d\u092a"
     ],
+    "name:mdf_x_preferred":[
+        "\u0410\u043d\u0442\u0432\u044d\u0440\u043f\u044d\u043d"
+    ],
     "name:mkd_x_preferred":[
         "\u0410\u043d\u0442\u0432\u0435\u0440\u043f\u0435\u043d"
+    ],
+    "name:mlt_x_preferred":[
+        "Anversa"
+    ],
+    "name:mri_x_preferred":[
+        "Anatawepa"
     ],
     "name:msa_x_preferred":[
         "Antwerp"
@@ -375,6 +420,9 @@
     "name:tel_x_preferred":[
         "\u0c06\u0c02\u0c1f\u0c4d\u0c35\u0c46\u0c30\u0c4d\u0c2a\u0c4d"
     ],
+    "name:tgk_x_preferred":[
+        "\u041e\u043d\u0442\u0432\u0435\u0440\u043f"
+    ],
     "name:tgl_x_preferred":[
         "Amberes"
     ],
@@ -393,7 +441,16 @@
     "name:urd_x_preferred":[
         "\u0627\u0646\u062a\u0648\u0631\u0628"
     ],
+    "name:urd_x_variant":[
+        "\u0627\u06cc\u0646\u0679 \u0648\u0631\u067e\u0646"
+    ],
     "name:uzb_x_preferred":[
+        "Antverpen"
+    ],
+    "name:vec_x_preferred":[
+        "Anversa"
+    ],
+    "name:vep_x_preferred":[
         "Antverpen"
     ],
     "name:vie_x_preferred":[
@@ -410,6 +467,9 @@
     ],
     "name:wln_x_preferred":[
         "Anverse"
+    ],
+    "name:wuu_x_preferred":[
+        "\u5b89\u7279\u536b\u666e"
     ],
     "name:yid_x_preferred":[
         "\u05d0\u05e0\u05d8\u05d5\u05d5\u05e2\u05e8\u05e4\u05df"
@@ -531,7 +591,7 @@
         "wd:id":"Q12892"
     },
     "wof:country":"BE",
-    "wof:geomhash":"2d2e02b4e2d0e704fbf048cb77a11dcc",
+    "wof:geomhash":"4571ce636ce417dcd9886f1b0a3578f1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -551,7 +611,7 @@
         "fra",
         "deu"
     ],
-    "wof:lastmodified":1684351396,
+    "wof:lastmodified":1690856405,
     "wof:name":"Antwerpen",
     "wof:parent_id":404227357,
     "wof:placetype":"region",

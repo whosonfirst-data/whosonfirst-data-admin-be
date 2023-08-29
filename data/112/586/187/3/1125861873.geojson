@@ -22,10 +22,16 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Haine-Saint-Paul"
+    ],
     "name:eng_x_preferred":[
         "Haine-Saint-Paul"
     ],
     "name:fra_x_preferred":[
+        "Haine-Saint-Paul"
+    ],
+    "name:gle_x_preferred":[
         "Haine-Saint-Paul"
     ],
     "name:hun_x_preferred":[
@@ -87,7 +93,7 @@
         }
     ],
     "wof:id":1125861873,
-    "wof:lastmodified":1566612079,
+    "wof:lastmodified":1690856740,
     "wof:name":"Haine-St.-Paul",
     "wof:parent_id":102049943,
     "wof:placetype":"locality",

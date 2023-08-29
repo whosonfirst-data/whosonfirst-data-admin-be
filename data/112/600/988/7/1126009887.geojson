@@ -28,6 +28,9 @@
     "name:fra_x_preferred":[
         "Fologne"
     ],
+    "name:gle_x_preferred":[
+        "Veulen"
+    ],
     "name:hun_x_preferred":[
         "Veulen"
     ],
@@ -88,7 +91,7 @@
         }
     ],
     "wof:id":1126009887,
-    "wof:lastmodified":1566612189,
+    "wof:lastmodified":1690856847,
     "wof:name":"Veulen",
     "wof:parent_id":1108830275,
     "wof:placetype":"locality",

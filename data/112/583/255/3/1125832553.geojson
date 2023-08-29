@@ -28,6 +28,9 @@
     "name:fra_x_preferred":[
         "Bonsin"
     ],
+    "name:gle_x_preferred":[
+        "Bonsin"
+    ],
     "name:hun_x_preferred":[
         "Bonsin"
     ],
@@ -86,7 +89,7 @@
         }
     ],
     "wof:id":1125832553,
-    "wof:lastmodified":1566612258,
+    "wof:lastmodified":1690856927,
     "wof:name":"Bonsin",
     "wof:parent_id":102049919,
     "wof:placetype":"locality",

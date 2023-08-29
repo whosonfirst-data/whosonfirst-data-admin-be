@@ -28,6 +28,9 @@
     "name:fra_x_preferred":[
         "Messelbroek"
     ],
+    "name:gle_x_preferred":[
+        "Messelbroek"
+    ],
     "name:hun_x_preferred":[
         "Messelbroek"
     ],
@@ -36,6 +39,9 @@
     ],
     "name:und_x_variant":[
         "Messelbroeck"
+    ],
+    "name:zho_x_preferred":[
+        "\u6885\u745f\u5c14\u5e03\u9c81\u514b"
     ],
     "qs_pg:aaroncc":"BE",
     "qs_pg:gn_country":"BE",
@@ -91,7 +97,7 @@
         }
     ],
     "wof:id":1125861209,
-    "wof:lastmodified":1566612079,
+    "wof:lastmodified":1690856741,
     "wof:name":"Messelbroek",
     "wof:parent_id":1108830367,
     "wof:placetype":"locality",

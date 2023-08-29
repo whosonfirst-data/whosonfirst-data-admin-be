@@ -28,6 +28,9 @@
     "name:fra_x_preferred":[
         "Hendrieken"
     ],
+    "name:gle_x_preferred":[
+        "Hendrieken"
+    ],
     "name:hun_x_preferred":[
         "Hendrieken"
     ],
@@ -88,7 +91,7 @@
         }
     ],
     "wof:id":1125931049,
-    "wof:lastmodified":1566612018,
+    "wof:lastmodified":1690856681,
     "wof:name":"Hendrieken",
     "wof:parent_id":1108830359,
     "wof:placetype":"locality",

@@ -31,6 +31,9 @@
     "name:fra_x_preferred":[
         "Blicquy"
     ],
+    "name:gle_x_preferred":[
+        "Blicquy"
+    ],
     "name:hun_x_preferred":[
         "Blicquy"
     ],
@@ -91,7 +94,7 @@
         }
     ],
     "wof:id":1125990689,
-    "wof:lastmodified":1566612136,
+    "wof:lastmodified":1690856793,
     "wof:name":"Blicquy",
     "wof:parent_id":102049951,
     "wof:placetype":"locality",

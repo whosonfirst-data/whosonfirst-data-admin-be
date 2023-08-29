@@ -31,6 +31,9 @@
     "name:fra_x_preferred":[
         "Muno"
     ],
+    "name:gle_x_preferred":[
+        "Muno"
+    ],
     "name:hun_x_preferred":[
         "Muno"
     ],
@@ -91,7 +94,7 @@
         }
     ],
     "wof:id":1125948759,
-    "wof:lastmodified":1566612015,
+    "wof:lastmodified":1690856676,
     "wof:name":"Muno",
     "wof:parent_id":102049907,
     "wof:placetype":"locality",

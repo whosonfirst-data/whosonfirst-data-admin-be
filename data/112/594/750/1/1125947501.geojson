@@ -28,8 +28,14 @@
     "name:fra_x_preferred":[
         "Ch\u00e2tillon"
     ],
+    "name:gle_x_preferred":[
+        "Ch\u00e2tillon"
+    ],
     "name:ltz_x_preferred":[
         "Ch\u00e2tillon"
+    ],
+    "name:ltz_x_variant":[
+        "Sch\u00e4ttljong"
     ],
     "name:nld_x_preferred":[
         "Ch\u00e2tillon"
@@ -88,7 +94,7 @@
         }
     ],
     "wof:id":1125947501,
-    "wof:lastmodified":1566612016,
+    "wof:lastmodified":1690856678,
     "wof:name":"Ch\u00e2tillon",
     "wof:parent_id":102049907,
     "wof:placetype":"locality",

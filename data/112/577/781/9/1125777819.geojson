@@ -28,6 +28,9 @@
     "name:fra_x_preferred":[
         "Gottem"
     ],
+    "name:gle_x_preferred":[
+        "Gottem"
+    ],
     "name:hun_x_preferred":[
         "Gottem"
     ],
@@ -92,7 +95,7 @@
         }
     ],
     "wof:id":1125777819,
-    "wof:lastmodified":1566612251,
+    "wof:lastmodified":1690856919,
     "wof:name":"Gottem",
     "wof:parent_id":1108830629,
     "wof:placetype":"locality",

@@ -37,6 +37,9 @@
     "name:fra_x_preferred":[
         "Russon"
     ],
+    "name:gle_x_preferred":[
+        "Rutten"
+    ],
     "name:hun_x_preferred":[
         "Rutten"
     ],
@@ -100,7 +103,7 @@
         }
     ],
     "wof:id":1125858011,
-    "wof:lastmodified":1566612205,
+    "wof:lastmodified":1690856863,
     "wof:name":"Rutten",
     "wof:parent_id":1108830031,
     "wof:placetype":"locality",

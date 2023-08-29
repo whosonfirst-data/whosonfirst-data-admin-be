@@ -105,6 +105,9 @@
     "name:fra_x_preferred":[
         "Ath"
     ],
+    "name:frr_x_preferred":[
+        "Ath"
+    ],
     "name:gle_x_preferred":[
         "Ath"
     ],
@@ -189,6 +192,9 @@
     "name:wln_x_preferred":[
         "Ate"
     ],
+    "name:zea_x_preferred":[
+        "Aet"
+    ],
     "name:zho_x_preferred":[
         "\u963f\u5854"
     ],
@@ -236,7 +242,7 @@
         "wd:id":"Q95096"
     },
     "wof:country":"BE",
-    "wof:geomhash":"05ce4bd697edd1278ae5266c32902e6c",
+    "wof:geomhash":"ecd36d9730d3cee0bfc8cc8d76ff07ed",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -247,7 +253,7 @@
         }
     ],
     "wof:id":102049949,
-    "wof:lastmodified":1684351493,
+    "wof:lastmodified":1690856397,
     "wof:name":"Ath",
     "wof:parent_id":85681723,
     "wof:placetype":"county",

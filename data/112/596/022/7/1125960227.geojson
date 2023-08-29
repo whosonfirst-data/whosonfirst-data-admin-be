@@ -55,6 +55,9 @@
     "name:fra_x_preferred":[
         "Courcelles"
     ],
+    "name:frr_x_preferred":[
+        "Courcelles"
+    ],
     "name:gle_x_preferred":[
         "Courcelles"
     ],
@@ -130,6 +133,9 @@
     "name:wln_x_preferred":[
         "Courcele"
     ],
+    "name:zho_x_preferred":[
+        "\u5e93\u723e\u585e\u52d2"
+    ],
     "qs_pg:aaroncc":"BE",
     "qs_pg:gn_country":"BE",
     "qs_pg:gn_fcode":"PPL",
@@ -185,7 +191,7 @@
         }
     ],
     "wof:id":1125960227,
-    "wof:lastmodified":1566612159,
+    "wof:lastmodified":1690856809,
     "wof:name":"Courcelles",
     "wof:parent_id":102049927,
     "wof:placetype":"locality",

@@ -22,10 +22,16 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Klemskerke"
+    ],
     "name:eng_x_preferred":[
         "Klemskerke"
     ],
     "name:fra_x_preferred":[
+        "Klemskerke"
+    ],
+    "name:gle_x_preferred":[
         "Klemskerke"
     ],
     "name:hun_x_preferred":[
@@ -97,7 +103,7 @@
         }
     ],
     "wof:id":1125796499,
-    "wof:lastmodified":1566612225,
+    "wof:lastmodified":1690856884,
     "wof:name":"Klemskerke",
     "wof:parent_id":1108830685,
     "wof:placetype":"locality",

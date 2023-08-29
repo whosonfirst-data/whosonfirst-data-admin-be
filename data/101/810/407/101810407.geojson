@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.000081,
     "geom:area_square_m":637822.704309,
-    "geom:bbox":"5.0181384227,50.365685799,5.03040000142,50.3754880705",
+    "geom:bbox":"5.018138,50.365686,5.0304,50.375488",
     "geom:latitude":50.370303,
     "geom:longitude":5.024375,
     "gn:population":6279,
@@ -32,6 +32,9 @@
     "name:ceb_x_preferred":[
         "Assesse"
     ],
+    "name:ckb_x_preferred":[
+        "\u0626\u0627\u0633\u06ce\u0633"
+    ],
     "name:deu_x_preferred":[
         "Assesse"
     ],
@@ -53,6 +56,9 @@
     "name:fra_x_preferred":[
         "Assesse"
     ],
+    "name:gle_x_preferred":[
+        "Assesse"
+    ],
     "name:hun_x_preferred":[
         "Assesse"
     ],
@@ -61,6 +67,9 @@
     ],
     "name:ita_x_preferred":[
         "Assesse"
+    ],
+    "name:kor_x_preferred":[
+        "\uc544\uc138\uc2a4"
     ],
     "name:lim_x_preferred":[
         "Assesse"
@@ -98,6 +107,9 @@
     "name:swe_x_preferred":[
         "Assesse"
     ],
+    "name:tur_x_preferred":[
+        "Assesse"
+    ],
     "name:vie_x_preferred":[
         "Assesse"
     ],
@@ -108,6 +120,9 @@
         "Assesse"
     ],
     "name:wln_x_preferred":[
+        "Assesse"
+    ],
+    "name:zea_x_preferred":[
         "Assesse"
     ],
     "name:zho_x_preferred":[
@@ -152,7 +167,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"3dfc3ee33e822bdb7dd00081a79d10e0",
+    "wof:geomhash":"0100d0a14cedc4208e2fc91faf31a4f2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -167,7 +182,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1582345554,
+    "wof:lastmodified":1690856542,
     "wof:name":"Assesse",
     "wof:parent_id":102049931,
     "wof:placetype":"locality",
@@ -179,10 +194,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    5.0181384226978,
-    50.36568579904576,
-    5.03040000141851,
-    50.37548807054355
+    5.018138,
+    50.365686,
+    5.0304,
+    50.375488
 ],
-  "geometry": {"coordinates":[[[5.02094436762826,50.37548807054355],[5.02113340109059,50.37369474921707],[5.02814805727661,50.37399969883887],[5.02843117765531,50.37130969441557],[5.02983403957938,50.37137062885103],[5.03040000141851,50.36599060304678],[5.02338651741735,50.36568579904576],[5.02329206952817,50.36658246420512],[5.02188935626458,50.36652145058093],[5.02160590657081,50.36921144006965],[5.01880033151764,50.36908935334634],[5.0181384226978,50.37536596519618],[5.02094436762826,50.37548807054355]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[5.020944,50.375488],[5.021133,50.373695],[5.028148,50.374],[5.028431,50.37131],[5.029834,50.371371],[5.0304,50.365991],[5.023387,50.365686],[5.023292,50.366582],[5.021889,50.366521],[5.021606,50.369211],[5.0188,50.369089],[5.018138,50.375366],[5.020944,50.375488]]],"type":"Polygon"}
 }

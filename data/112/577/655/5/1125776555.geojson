@@ -28,7 +28,13 @@
     "name:fra_x_preferred":[
         "Marlinne"
     ],
+    "name:gle_x_preferred":[
+        "Mechelen-Bovelingen"
+    ],
     "name:hun_x_preferred":[
+        "Mechelen-Bovelingen"
+    ],
+    "name:ltz_x_preferred":[
         "Mechelen-Bovelingen"
     ],
     "name:nld_x_preferred":[
@@ -88,7 +94,7 @@
         }
     ],
     "wof:id":1125776555,
-    "wof:lastmodified":1566612248,
+    "wof:lastmodified":1690856915,
     "wof:name":"Mechelen-Bovelingen",
     "wof:parent_id":1108830275,
     "wof:placetype":"locality",

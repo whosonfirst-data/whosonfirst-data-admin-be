@@ -31,6 +31,9 @@
     "name:fra_x_preferred":[
         "Str\u00e9py-Bracquegnies"
     ],
+    "name:gle_x_preferred":[
+        "Str\u00e9py-Bracquegnies"
+    ],
     "name:hun_x_preferred":[
         "Str\u00e9py-Bracquegnies"
     ],
@@ -39,6 +42,12 @@
     ],
     "name:und_x_variant":[
         "Str\u00e9py"
+    ],
+    "name:wln_x_preferred":[
+        "Sterpi-Bracgnere"
+    ],
+    "name:zho_x_preferred":[
+        "\u65af\u7279\u96f7\u76ae"
     ],
     "qs_pg:aaroncc":"BE",
     "qs_pg:gn_country":"BE",
@@ -94,7 +103,7 @@
         }
     ],
     "wof:id":1125779563,
-    "wof:lastmodified":1566612245,
+    "wof:lastmodified":1690856909,
     "wof:name":"Str\u00e9py-Bracquegnies",
     "wof:parent_id":102049943,
     "wof:placetype":"locality",

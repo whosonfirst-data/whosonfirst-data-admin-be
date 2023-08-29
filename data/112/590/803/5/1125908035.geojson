@@ -31,6 +31,9 @@
     "name:fra_x_preferred":[
         "Brustem"
     ],
+    "name:gle_x_preferred":[
+        "Brustem"
+    ],
     "name:heb_x_preferred":[
         "\u05d1\u05e8\u05d5\u05e1\u05d8\u05dd"
     ],
@@ -102,7 +105,7 @@
         }
     ],
     "wof:id":1125908035,
-    "wof:lastmodified":1566612140,
+    "wof:lastmodified":1690856799,
     "wof:name":"Brustem",
     "wof:parent_id":1108830223,
     "wof:placetype":"locality",

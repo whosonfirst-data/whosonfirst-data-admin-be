@@ -22,10 +22,16 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Wespelaar"
+    ],
     "name:eng_x_preferred":[
         "Wespelaar"
     ],
     "name:fra_x_preferred":[
+        "Wespelaar"
+    ],
+    "name:gle_x_preferred":[
         "Wespelaar"
     ],
     "name:nld_x_preferred":[
@@ -90,7 +96,7 @@
         }
     ],
     "wof:id":1126060441,
-    "wof:lastmodified":1566612170,
+    "wof:lastmodified":1690856819,
     "wof:name":"Wespelaar",
     "wof:parent_id":1108830175,
     "wof:placetype":"locality",

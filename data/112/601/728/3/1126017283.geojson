@@ -28,6 +28,9 @@
     "name:fra_x_preferred":[
         "Erwetegem"
     ],
+    "name:gle_x_preferred":[
+        "Erwetegem"
+    ],
     "name:hun_x_preferred":[
         "Erwetegem"
     ],
@@ -90,7 +93,7 @@
         }
     ],
     "wof:id":1126017283,
-    "wof:lastmodified":1566612178,
+    "wof:lastmodified":1690856831,
     "wof:name":"Erwetegem",
     "wof:parent_id":1108830019,
     "wof:placetype":"locality",

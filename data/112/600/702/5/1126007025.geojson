@@ -22,6 +22,9 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Weyler"
+    ],
     "name:eng_x_preferred":[
         "Weyler"
     ],
@@ -34,11 +37,17 @@
     "name:ltz_x_preferred":[
         "Weyler"
     ],
+    "name:ltz_x_variant":[
+        "Weller"
+    ],
     "name:nld_x_preferred":[
         "Weyler"
     ],
     "name:wln_x_preferred":[
         "Weyler"
+    ],
+    "name:zho_x_preferred":[
+        "\u97e6\u83b1\u5c14"
     ],
     "qs_pg:aaroncc":"BE",
     "qs_pg:gn_country":"BE",
@@ -92,7 +101,7 @@
         }
     ],
     "wof:id":1126007025,
-    "wof:lastmodified":1566612185,
+    "wof:lastmodified":1690856840,
     "wof:name":"Weyler",
     "wof:parent_id":102049909,
     "wof:placetype":"locality",

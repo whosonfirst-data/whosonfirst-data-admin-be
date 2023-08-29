@@ -37,7 +37,13 @@
     "name:fra_x_preferred":[
         "Markegem"
     ],
+    "name:gle_x_preferred":[
+        "Markegem"
+    ],
     "name:hun_x_preferred":[
+        "Markegem"
+    ],
+    "name:ltz_x_preferred":[
         "Markegem"
     ],
     "name:nld_x_preferred":[
@@ -103,7 +109,7 @@
         }
     ],
     "wof:id":1125928363,
-    "wof:lastmodified":1566612028,
+    "wof:lastmodified":1690856690,
     "wof:name":"Markegem",
     "wof:parent_id":1108830197,
     "wof:placetype":"locality",

@@ -28,6 +28,9 @@
     "name:fra_x_preferred":[
         "Guigoven"
     ],
+    "name:gle_x_preferred":[
+        "Guigoven"
+    ],
     "name:hun_x_preferred":[
         "Guigoven"
     ],
@@ -91,7 +94,7 @@
         }
     ],
     "wof:id":1125831317,
-    "wof:lastmodified":1566612256,
+    "wof:lastmodified":1690856925,
     "wof:name":"Guigoven",
     "wof:parent_id":1108830391,
     "wof:placetype":"locality",

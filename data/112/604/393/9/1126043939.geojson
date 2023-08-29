@@ -28,11 +28,17 @@
     "name:fra_x_preferred":[
         "Crehen"
     ],
+    "name:gle_x_preferred":[
+        "Crehen"
+    ],
     "name:hun_x_preferred":[
         "Crehen"
     ],
     "name:nld_x_preferred":[
         "Crehen"
+    ],
+    "name:wln_x_preferred":[
+        "Crehin"
     ],
     "qs_pg:aaroncc":"BE",
     "qs_pg:gn_country":"BE",
@@ -84,7 +90,7 @@
         }
     ],
     "wof:id":1126043939,
-    "wof:lastmodified":1566612065,
+    "wof:lastmodified":1690856726,
     "wof:name":"Crehen",
     "wof:parent_id":102049937,
     "wof:placetype":"locality",

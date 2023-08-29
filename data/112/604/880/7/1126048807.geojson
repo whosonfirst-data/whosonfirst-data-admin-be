@@ -22,6 +22,9 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Tintange"
+    ],
     "name:deu_x_preferred":[
         "Tintange"
     ],
@@ -30,6 +33,12 @@
     ],
     "name:fra_x_preferred":[
         "Tintange"
+    ],
+    "name:gle_x_preferred":[
+        "Tintange"
+    ],
+    "name:ltz_x_preferred":[
+        "T\u00ebnnen"
     ],
     "name:nld_x_preferred":[
         "Tintange"
@@ -94,7 +103,7 @@
         }
     ],
     "wof:id":1126048807,
-    "wof:lastmodified":1566612062,
+    "wof:lastmodified":1690856723,
     "wof:name":"Tintange",
     "wof:parent_id":102049915,
     "wof:placetype":"locality",

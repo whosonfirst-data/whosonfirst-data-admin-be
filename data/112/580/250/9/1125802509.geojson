@@ -31,6 +31,9 @@
     "name:fra_x_preferred":[
         "Sougn\u00e9-Remouchamps"
     ],
+    "name:gle_x_preferred":[
+        "Sougn\u00e9-Remouchamps"
+    ],
     "name:hun_x_preferred":[
         "Sougn\u00e9-Remouchamps"
     ],
@@ -45,6 +48,12 @@
     ],
     "name:wln_x_preferred":[
         "Sougn\u00e9-Remoutchamp"
+    ],
+    "name:wln_x_variant":[
+        "So\u00fbgn\u00e9-Rmo\u00fbtchamp"
+    ],
+    "name:zho_x_preferred":[
+        "\u82cf\u6d85-\u52d2\u7a46\u5c1a"
     ],
     "qs_pg:aaroncc":"BE",
     "qs_pg:gn_country":"BE",
@@ -100,7 +109,7 @@
         }
     ],
     "wof:id":1125802509,
-    "wof:lastmodified":1566612109,
+    "wof:lastmodified":1690856774,
     "wof:name":"Sougn\u00e9-Remouchamps",
     "wof:parent_id":102049941,
     "wof:placetype":"locality",

@@ -28,6 +28,9 @@
     "name:fra_x_preferred":[
         "Rosi\u00e8res"
     ],
+    "name:gle_x_preferred":[
+        "Rosi\u00e8res"
+    ],
     "name:hun_x_preferred":[
         "Rosi\u00e8res"
     ],
@@ -94,7 +97,7 @@
         }
     ],
     "wof:id":1126040171,
-    "wof:lastmodified":1566612066,
+    "wof:lastmodified":1690856727,
     "wof:name":"Rosi\u00e8res",
     "wof:parent_id":102049945,
     "wof:placetype":"locality",

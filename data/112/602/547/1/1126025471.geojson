@@ -25,6 +25,9 @@
     "name:bul_x_preferred":[
         "\u0422\u0435\u0441\u0442\u0435\u043b\u0442"
     ],
+    "name:cat_x_preferred":[
+        "Testelt"
+    ],
     "name:ceb_x_preferred":[
         "Testelt"
     ],
@@ -32,6 +35,9 @@
         "Testelt"
     ],
     "name:fra_x_preferred":[
+        "Testelt"
+    ],
+    "name:gle_x_preferred":[
         "Testelt"
     ],
     "name:hun_x_preferred":[
@@ -45,6 +51,9 @@
     ],
     "name:und_x_variant":[
         "Scherpenheuvel-Zichem (Testelt)"
+    ],
+    "name:zho_x_preferred":[
+        "\u6cf0\u65af\u7279\u5c14\u7279"
     ],
     "qs_pg:aaroncc":"BE",
     "qs_pg:gn_country":"BE",
@@ -102,7 +111,7 @@
         }
     ],
     "wof:id":1126025471,
-    "wof:lastmodified":1566612048,
+    "wof:lastmodified":1690856705,
     "wof:name":"Testelt",
     "wof:parent_id":1108830367,
     "wof:placetype":"locality",

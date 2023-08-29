@@ -66,6 +66,15 @@
     "name:ara_x_preferred":[
         "\u0623\u0648\u0633\u062a\u0646\u062f"
     ],
+    "name:arz_x_preferred":[
+        "\u0627\u0648\u0633\u062a\u0646\u062f"
+    ],
+    "name:ast_x_preferred":[
+        "Oostende"
+    ],
+    "name:aze_x_preferred":[
+        "Ostende"
+    ],
     "name:bel_x_preferred":[
         "\u0410\u0441\u0442\u044d\u043d\u0434\u044d"
     ],
@@ -171,6 +180,9 @@
     "name:ltz_x_preferred":[
         "Oostende"
     ],
+    "name:mdf_x_preferred":[
+        "\u041e\u0441\u0442\u044d\u043d\u0434\u044d"
+    ],
     "name:mkd_x_preferred":[
         "\u041e\u0441\u0442\u0435\u043d\u0434\u0435"
     ],
@@ -225,6 +237,9 @@
     "name:swe_x_preferred":[
         "Oostende"
     ],
+    "name:szl_x_preferred":[
+        "Ostende"
+    ],
     "name:tam_x_preferred":[
         "\u0b86\u0bb8\u0bcd\u0b9f\u0bc6\u0ba3\u0bcd\u0b9f\u0bcd"
     ],
@@ -239,6 +254,9 @@
     ],
     "name:urd_x_preferred":[
         "\u0627\u0648\u0633\u062a\u06cc\u0646\u062f"
+    ],
+    "name:urd_x_variant":[
+        "\u0627\u0648\u0633\u0679\u06cc\u0646\u0688"
     ],
     "name:vie_x_preferred":[
         "Ostend"
@@ -255,8 +273,17 @@
     "name:wln_x_preferred":[
         "Ostinde"
     ],
+    "name:wuu_x_preferred":[
+        "\u5965\u65af\u5766\u5fb7"
+    ],
+    "name:zea_x_preferred":[
+        "O\u00f4stende"
+    ],
     "name:zho_x_preferred":[
         "\u5965\u65af\u6ed5\u5fb7"
+    ],
+    "name:zho_x_variant":[
+        "\u5965\u65af\u5766\u5fb7"
     ],
     "qs:a0":"Belgi\u00c3\u00ab#Belgique#Belgien",
     "qs:a0_lc":"BE000000",
@@ -302,7 +329,7 @@
         "wd:id":"Q12996"
     },
     "wof:country":"BE",
-    "wof:geomhash":"d2cb78ebbfc65aa02b3cf4feb5ee237b",
+    "wof:geomhash":"043a1ff394568cdc694001d3f28fa902",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -313,7 +340,7 @@
         }
     ],
     "wof:id":102049999,
-    "wof:lastmodified":1684351494,
+    "wof:lastmodified":1690856396,
     "wof:name":"Oostende",
     "wof:parent_id":85681709,
     "wof:placetype":"county",

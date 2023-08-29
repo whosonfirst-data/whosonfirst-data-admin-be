@@ -25,16 +25,25 @@
     "name:cat_x_preferred":[
         "Sint-Eloois-Vijve"
     ],
+    "name:dan_x_preferred":[
+        "Sint-Eloois-Vijve"
+    ],
     "name:eng_x_preferred":[
         "Sint-Eloois-Vijve"
     ],
     "name:fra_x_preferred":[
         "Vive-Saint-\u00c9loi"
     ],
+    "name:gle_x_preferred":[
+        "Sint-Eloois-Vijve"
+    ],
     "name:hun_x_preferred":[
         "Sint-Eloois-Vijve"
     ],
     "name:nld_x_preferred":[
+        "Sint-Eloois-Vijve"
+    ],
+    "name:pol_x_preferred":[
         "Sint-Eloois-Vijve"
     ],
     "name:rus_x_preferred":[
@@ -96,7 +105,7 @@
         }
     ],
     "wof:id":1125785203,
-    "wof:lastmodified":1566612210,
+    "wof:lastmodified":1690856870,
     "wof:name":"St.-Eloois-Vijve",
     "wof:parent_id":1108830341,
     "wof:placetype":"locality",

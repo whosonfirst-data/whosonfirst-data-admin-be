@@ -31,6 +31,9 @@
     "name:fra_x_preferred":[
         "Asper"
     ],
+    "name:gle_x_preferred":[
+        "Asper"
+    ],
     "name:hun_x_preferred":[
         "Asper"
     ],
@@ -93,7 +96,7 @@
         }
     ],
     "wof:id":1125865909,
-    "wof:lastmodified":1566612080,
+    "wof:lastmodified":1690856742,
     "wof:name":"Asper",
     "wof:parent_id":1108830425,
     "wof:placetype":"locality",

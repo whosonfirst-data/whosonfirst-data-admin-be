@@ -28,11 +28,17 @@
     "name:fra_x_preferred":[
         "Linden"
     ],
+    "name:gle_x_preferred":[
+        "Linden"
+    ],
     "name:heb_x_preferred":[
         "\u05dc\u05d9\u05e0\u05d3\u05df"
     ],
     "name:hun_x_preferred":[
         "Linden"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ea\u30f3\u30c7\u30f3"
     ],
     "name:nld_x_preferred":[
         "Linden"
@@ -88,7 +94,7 @@
         }
     ],
     "wof:id":101755375,
-    "wof:lastmodified":1636500625,
+    "wof:lastmodified":1690856498,
     "wof:name":"Linden",
     "wof:parent_id":1108830497,
     "wof:placetype":"locality",

@@ -28,6 +28,9 @@
     "name:fra_x_preferred":[
         "Broekom"
     ],
+    "name:gle_x_preferred":[
+        "Broekom"
+    ],
     "name:hun_x_preferred":[
         "Broekom"
     ],
@@ -89,7 +92,7 @@
         }
     ],
     "wof:id":1125991913,
-    "wof:lastmodified":1566612134,
+    "wof:lastmodified":1690856790,
     "wof:name":"Broekom",
     "wof:parent_id":1108830359,
     "wof:placetype":"locality",

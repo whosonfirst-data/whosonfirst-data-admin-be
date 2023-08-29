@@ -25,6 +25,9 @@
     "name:bul_x_preferred":[
         "\u041e\u0442\u0438\u0433\u043d\u0438\u0435\u0441"
     ],
+    "name:cat_x_preferred":[
+        "Ottignies"
+    ],
     "name:ceb_x_preferred":[
         "Ottignies"
     ],
@@ -36,6 +39,12 @@
     ],
     "name:fra_x_preferred":[
         "Ottignies"
+    ],
+    "name:gle_x_preferred":[
+        "Ottignies"
+    ],
+    "name:lat_x_preferred":[
+        "Ottiniacum"
     ],
     "name:lit_x_preferred":[
         "Otinji Luven la Njuvas"
@@ -60,6 +69,9 @@
     ],
     "name:wln_x_preferred":[
         "Ocgniye"
+    ],
+    "name:zho_x_preferred":[
+        "\u5965\u8482\u5c3c"
     ],
     "qs_pg:aaroncc":"BE",
     "qs_pg:gn_country":"BE",
@@ -116,7 +128,7 @@
         }
     ],
     "wof:id":1125963193,
-    "wof:lastmodified":1566612163,
+    "wof:lastmodified":1690856813,
     "wof:name":"Ottignies",
     "wof:parent_id":102049945,
     "wof:placetype":"locality",

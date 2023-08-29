@@ -40,6 +40,12 @@
     "name:fra_x_preferred":[
         "Oudekapelle"
     ],
+    "name:fra_x_variant":[
+        "Oudecapelle"
+    ],
+    "name:gle_x_preferred":[
+        "Oudekapelle"
+    ],
     "name:hun_x_preferred":[
         "Oudekapelle"
     ],
@@ -110,7 +116,7 @@
         }
     ],
     "wof:id":1125953825,
-    "wof:lastmodified":1566612031,
+    "wof:lastmodified":1690856694,
     "wof:name":"Oudekapelle",
     "wof:parent_id":1108830401,
     "wof:placetype":"locality",

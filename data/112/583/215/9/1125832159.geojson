@@ -28,11 +28,20 @@
     "name:fra_x_preferred":[
         "Anlier"
     ],
+    "name:gle_x_preferred":[
+        "Anlier"
+    ],
     "name:hun_x_preferred":[
         "Anlier"
     ],
+    "name:lat_x_preferred":[
+        "Anliarium"
+    ],
     "name:ltz_x_preferred":[
         "Anlier"
+    ],
+    "name:ltz_x_variant":[
+        "Aasler"
     ],
     "name:nld_x_preferred":[
         "Anlier"
@@ -91,7 +100,7 @@
         }
     ],
     "wof:id":1125832159,
-    "wof:lastmodified":1566612257,
+    "wof:lastmodified":1690856926,
     "wof:name":"Anlier",
     "wof:parent_id":102049907,
     "wof:placetype":"locality",

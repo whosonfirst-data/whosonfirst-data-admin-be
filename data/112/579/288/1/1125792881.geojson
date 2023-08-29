@@ -28,6 +28,9 @@
     "name:fra_x_preferred":[
         "Willebringen"
     ],
+    "name:gle_x_preferred":[
+        "Willebringen"
+    ],
     "name:hun_x_preferred":[
         "Willebringen"
     ],
@@ -91,7 +94,7 @@
         }
     ],
     "wof:id":1125792881,
-    "wof:lastmodified":1566612221,
+    "wof:lastmodified":1690856879,
     "wof:name":"Willebringen",
     "wof:parent_id":1108830471,
     "wof:placetype":"locality",

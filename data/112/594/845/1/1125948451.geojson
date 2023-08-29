@@ -28,6 +28,9 @@
     "name:fra_x_preferred":[
         "Edelare"
     ],
+    "name:gle_x_preferred":[
+        "Edelare"
+    ],
     "name:hun_x_preferred":[
         "Edelare"
     ],
@@ -91,7 +94,7 @@
         }
     ],
     "wof:id":1125948451,
-    "wof:lastmodified":1566612014,
+    "wof:lastmodified":1690856675,
     "wof:name":"Edelare",
     "wof:parent_id":1108830311,
     "wof:placetype":"locality",

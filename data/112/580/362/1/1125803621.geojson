@@ -31,6 +31,9 @@
     "name:fra_x_preferred":[
         "Lierde-Sainte-Marie"
     ],
+    "name:gle_x_preferred":[
+        "Sint-Maria-Lierde"
+    ],
     "name:hun_x_preferred":[
         "Sint-Maria-Lierde"
     ],
@@ -83,7 +86,7 @@
         }
     ],
     "wof:id":1125803621,
-    "wof:lastmodified":1566612109,
+    "wof:lastmodified":1690856773,
     "wof:name":"Sint-Maria-Lierde",
     "wof:parent_id":1108830669,
     "wof:placetype":"locality",

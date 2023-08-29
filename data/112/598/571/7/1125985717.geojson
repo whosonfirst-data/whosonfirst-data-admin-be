@@ -22,10 +22,16 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:deu_x_preferred":[
+        "Roclenge-sur-Geer"
+    ],
     "name:eng_x_preferred":[
         "Roclenge-sur-Geer"
     ],
     "name:fra_x_preferred":[
+        "Roclenge-sur-Geer"
+    ],
+    "name:gle_x_preferred":[
         "Roclenge-sur-Geer"
     ],
     "name:hun_x_preferred":[
@@ -96,7 +102,7 @@
         }
     ],
     "wof:id":1125985717,
-    "wof:lastmodified":1566612167,
+    "wof:lastmodified":1690856818,
     "wof:name":"Roclenge-sur-Geer",
     "wof:parent_id":102049941,
     "wof:placetype":"locality",

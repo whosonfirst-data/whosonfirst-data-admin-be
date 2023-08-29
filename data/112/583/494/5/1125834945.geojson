@@ -34,6 +34,9 @@
     "name:fra_x_preferred":[
         "Watou"
     ],
+    "name:gle_x_preferred":[
+        "Watou"
+    ],
     "name:hun_x_preferred":[
         "Watou"
     ],
@@ -102,7 +105,7 @@
         }
     ],
     "wof:id":1125834945,
-    "wof:lastmodified":1566612257,
+    "wof:lastmodified":1690856926,
     "wof:name":"Watou",
     "wof:parent_id":1108830029,
     "wof:placetype":"locality",

@@ -28,14 +28,23 @@
     "name:fra_x_preferred":[
         "Merendree"
     ],
+    "name:gle_x_preferred":[
+        "Merendree"
+    ],
     "name:hun_x_preferred":[
         "Merendree"
     ],
     "name:nld_x_preferred":[
         "Merendree"
     ],
+    "name:spa_x_preferred":[
+        "Merendree"
+    ],
     "name:und_x_variant":[
         "Meerendr\u00e9"
+    ],
+    "name:zho_x_preferred":[
+        "\u6885\u4f26\u5fb7\u96f7"
     ],
     "qs_pg:aaroncc":"BE",
     "qs_pg:gn_country":"BE",
@@ -93,7 +102,7 @@
         }
     ],
     "wof:id":1125835267,
-    "wof:lastmodified":1566612256,
+    "wof:lastmodified":1690856924,
     "wof:name":"Merendree",
     "wof:parent_id":1108830463,
     "wof:placetype":"locality",

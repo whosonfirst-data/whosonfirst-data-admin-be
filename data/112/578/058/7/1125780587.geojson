@@ -22,6 +22,9 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Udange"
+    ],
     "name:eng_x_preferred":[
         "Udange"
     ],
@@ -31,8 +34,14 @@
     "name:fra_x_preferred":[
         "Udange"
     ],
+    "name:ltz_x_preferred":[
+        "Eiden"
+    ],
     "name:nld_x_preferred":[
         "Udange"
+    ],
+    "name:zho_x_preferred":[
+        "\u4e8e\u5f53\u65e5"
     ],
     "qs_pg:aaroncc":"BE",
     "qs_pg:gn_country":"BE",
@@ -86,7 +95,7 @@
         }
     ],
     "wof:id":1125780587,
-    "wof:lastmodified":1566612215,
+    "wof:lastmodified":1690856875,
     "wof:name":"Udange",
     "wof:parent_id":102049909,
     "wof:placetype":"locality",

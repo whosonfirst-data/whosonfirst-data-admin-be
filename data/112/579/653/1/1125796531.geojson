@@ -37,6 +37,12 @@
     "name:fra_x_preferred":[
         "Kaaskerke"
     ],
+    "name:fra_x_variant":[
+        "Caeskerke"
+    ],
+    "name:gle_x_preferred":[
+        "Kaaskerke"
+    ],
     "name:hun_x_preferred":[
         "Kaaskerke"
     ],
@@ -109,7 +115,7 @@
         }
     ],
     "wof:id":1125796531,
-    "wof:lastmodified":1566612227,
+    "wof:lastmodified":1690856886,
     "wof:name":"Kaaskerke",
     "wof:parent_id":1108830401,
     "wof:placetype":"locality",

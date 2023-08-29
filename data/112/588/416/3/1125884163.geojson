@@ -28,6 +28,9 @@
     "name:fra_x_preferred":[
         "Isi\u00e8res"
     ],
+    "name:gle_x_preferred":[
+        "Isi\u00e8res"
+    ],
     "name:hun_x_preferred":[
         "Isi\u00e8res"
     ],
@@ -36,6 +39,9 @@
     ],
     "name:nld_x_preferred":[
         "Isi\u00e8res"
+    ],
+    "name:pcd_x_preferred":[
+        "Isi\u00e8re"
     ],
     "qs_pg:aaroncc":"BE",
     "qs_pg:gn_country":"BE",
@@ -89,7 +95,7 @@
         }
     ],
     "wof:id":1125884163,
-    "wof:lastmodified":1566612094,
+    "wof:lastmodified":1690856760,
     "wof:name":"Isi\u00e8res",
     "wof:parent_id":102049949,
     "wof:placetype":"locality",

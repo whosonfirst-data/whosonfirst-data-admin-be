@@ -28,6 +28,9 @@
     "name:fra_x_preferred":[
         "Oombergen"
     ],
+    "name:gle_x_preferred":[
+        "Oombergen"
+    ],
     "name:hun_x_preferred":[
         "Oombergen"
     ],
@@ -86,7 +89,7 @@
         }
     ],
     "wof:id":1125779501,
-    "wof:lastmodified":1566612243,
+    "wof:lastmodified":1690856906,
     "wof:name":"Oombergen",
     "wof:parent_id":1108830019,
     "wof:placetype":"locality",

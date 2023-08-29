@@ -34,6 +34,9 @@
     "name:fra_x_preferred":[
         "Liernu"
     ],
+    "name:gle_x_preferred":[
+        "Liernu"
+    ],
     "name:hun_x_preferred":[
         "Liernu"
     ],
@@ -98,7 +101,7 @@
         }
     ],
     "wof:id":1126016875,
-    "wof:lastmodified":1566612172,
+    "wof:lastmodified":1690856822,
     "wof:name":"Liernu",
     "wof:parent_id":102049931,
     "wof:placetype":"locality",

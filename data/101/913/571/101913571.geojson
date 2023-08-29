@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":3146.396307,
-    "geom:bbox":"5.23482114492,50.8646061384,5.2352120664,50.8664095382",
+    "geom:bbox":"5.234821,50.864606,5.235212,50.86641",
     "geom:latitude":50.86553,
     "geom:longitude":5.235023,
     "gn:population":6466,
@@ -44,10 +44,16 @@
     "name:epo_x_preferred":[
         "Nieuwerkerken"
     ],
+    "name:eus_x_preferred":[
+        "Nieuwerkerken"
+    ],
     "name:fas_x_preferred":[
         "\u0646\u06cc\u0648\u0631\u06a9\u0631\u06a9\u0627\u0646"
     ],
     "name:fra_x_preferred":[
+        "Nieuwerkerken"
+    ],
+    "name:gle_x_preferred":[
         "Nieuwerkerken"
     ],
     "name:hun_x_preferred":[
@@ -104,6 +110,9 @@
     "name:war_x_preferred":[
         "Nieuwerkerken"
     ],
+    "name:zea_x_preferred":[
+        "Nieuwerkerken"
+    ],
     "name:zho_x_preferred":[
         "\u5c3c\u6c83\u51ef\u5c14\u80af"
     ],
@@ -141,7 +150,7 @@
         "wd:id":"Q696740"
     },
     "wof:country":"BE",
-    "wof:geomhash":"2480e0dbb865bdc4bcf55bf19413bef7",
+    "wof:geomhash":"83bc451287c95e4722f629024e78573f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -154,7 +163,7 @@
         }
     ],
     "wof:id":101913571,
-    "wof:lastmodified":1566611907,
+    "wof:lastmodified":1690856578,
     "wof:name":"Nieuwerkerken",
     "wof:parent_id":1108830223,
     "wof:placetype":"locality",
@@ -166,10 +175,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    5.23482114491611,
-    50.86460613836175,
-    5.23521206640453,
-    50.86640953819477
+    5.234821,
+    50.864606,
+    5.235212,
+    50.86641
 ],
-  "geometry": {"coordinates":[[[5.23521206640453,50.86461468509947],[5.23500490444104,50.86460613836175],[5.23482114491611,50.86639961442171],[5.23506168302413,50.86640953819477],[5.23521206640453,50.86461468509947]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[5.235212,50.864615],[5.235005,50.864606],[5.234821,50.8664],[5.235062,50.86641],[5.235212,50.864615]]],"type":"Polygon"}
 }

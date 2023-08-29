@@ -22,6 +22,9 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Recht"
+    ],
     "name:deu_x_preferred":[
         "Recht"
     ],
@@ -29,6 +32,9 @@
         "Recht"
     ],
     "name:fra_x_preferred":[
+        "Recht"
+    ],
+    "name:gle_x_preferred":[
         "Recht"
     ],
     "name:nld_x_preferred":[
@@ -92,7 +98,7 @@
         }
     ],
     "wof:id":1126007819,
-    "wof:lastmodified":1566612188,
+    "wof:lastmodified":1690856845,
     "wof:name":"Recht",
     "wof:parent_id":102049935,
     "wof:placetype":"locality",

@@ -31,6 +31,9 @@
     "name:fra_x_preferred":[
         "Chapelle-\u00e0-Oie"
     ],
+    "name:gle_x_preferred":[
+        "Chapelle-\u00e0-Oie"
+    ],
     "name:hun_x_preferred":[
         "Chapelle-\u00e0-Oie"
     ],
@@ -89,7 +92,7 @@
         }
     ],
     "wof:id":1125900247,
-    "wof:lastmodified":1566612139,
+    "wof:lastmodified":1690856797,
     "wof:name":"Chapelle-\u00c0-Oie",
     "wof:parent_id":102049951,
     "wof:placetype":"locality",

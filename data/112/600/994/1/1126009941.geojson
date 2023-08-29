@@ -34,6 +34,9 @@
     "name:fra_x_preferred":[
         "Teuven"
     ],
+    "name:gle_x_preferred":[
+        "Teuven"
+    ],
     "name:hun_x_preferred":[
         "Teuven"
     ],
@@ -105,7 +108,7 @@
         }
     ],
     "wof:id":1126009941,
-    "wof:lastmodified":1566612186,
+    "wof:lastmodified":1690856841,
     "wof:name":"Teuven",
     "wof:parent_id":1108830021,
     "wof:placetype":"locality",

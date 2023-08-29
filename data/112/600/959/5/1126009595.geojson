@@ -25,10 +25,19 @@
     "name:bre_x_preferred":[
         "Bikschote"
     ],
+    "name:deu_x_preferred":[
+        "Bikschote"
+    ],
     "name:eng_x_preferred":[
         "Bikschote"
     ],
     "name:fra_x_preferred":[
+        "Bikschote"
+    ],
+    "name:fra_x_variant":[
+        "Bischoote"
+    ],
+    "name:gle_x_preferred":[
         "Bikschote"
     ],
     "name:hun_x_preferred":[
@@ -97,7 +106,7 @@
         }
     ],
     "wof:id":1126009595,
-    "wof:lastmodified":1566612185,
+    "wof:lastmodified":1690856841,
     "wof:name":"Bikschote",
     "wof:parent_id":1108830263,
     "wof:placetype":"locality",

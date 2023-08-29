@@ -25,6 +25,9 @@
     "name:bul_x_preferred":[
         "\u0413\u0430\u0441\u0431\u0435\u043a"
     ],
+    "name:cat_x_preferred":[
+        "Gaasbeek"
+    ],
     "name:ceb_x_preferred":[
         "Gaasbeek"
     ],
@@ -34,11 +37,23 @@
     "name:fra_x_preferred":[
         "Gaasbeek"
     ],
+    "name:fra_x_variant":[
+        "Gaesbeek"
+    ],
+    "name:gle_x_preferred":[
+        "Gaasbeek"
+    ],
     "name:hun_x_preferred":[
         "Gaasbeek"
     ],
     "name:hye_x_preferred":[
         "\u0533\u0561\u0561\u057d\u0562\u0565\u0565\u056f"
+    ],
+    "name:ita_x_preferred":[
+        "Gaasbeek"
+    ],
+    "name:lat_x_preferred":[
+        "Gasbeca"
     ],
     "name:nld_x_preferred":[
         "Gaasbeek"
@@ -109,7 +124,7 @@
         }
     ],
     "wof:id":1125829833,
-    "wof:lastmodified":1566612195,
+    "wof:lastmodified":1690856850,
     "wof:name":"Gaasbeek",
     "wof:parent_id":1108830469,
     "wof:placetype":"locality",

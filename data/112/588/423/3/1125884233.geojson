@@ -22,16 +22,100 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bre_x_preferred":[
+        "Marenne"
+    ],
+    "name:cat_x_preferred":[
+        "Marenne"
+    ],
+    "name:ces_x_preferred":[
+        "Marenne"
+    ],
+    "name:cos_x_preferred":[
+        "Marenne"
+    ],
+    "name:cym_x_preferred":[
+        "Marenne"
+    ],
+    "name:dan_x_preferred":[
+        "Marenne"
+    ],
+    "name:deu_x_preferred":[
+        "Marenne"
+    ],
     "name:eng_x_preferred":[
+        "Marenne"
+    ],
+    "name:est_x_preferred":[
+        "Marenne"
+    ],
+    "name:fin_x_preferred":[
         "Marenne"
     ],
     "name:fra_x_preferred":[
         "Marenne"
     ],
+    "name:gle_x_preferred":[
+        "Marenne"
+    ],
+    "name:glg_x_preferred":[
+        "Marenne"
+    ],
+    "name:hrv_x_preferred":[
+        "Marenne"
+    ],
     "name:hun_x_preferred":[
         "Marenne"
     ],
+    "name:ind_x_preferred":[
+        "Marenne"
+    ],
+    "name:ita_x_preferred":[
+        "Marenne"
+    ],
+    "name:lav_x_preferred":[
+        "Marenne"
+    ],
+    "name:lit_x_preferred":[
+        "Marenne"
+    ],
+    "name:ltz_x_preferred":[
+        "Marenne"
+    ],
     "name:nld_x_preferred":[
+        "Marenne"
+    ],
+    "name:nrm_x_preferred":[
+        "Marenne"
+    ],
+    "name:oci_x_preferred":[
+        "Marenne"
+    ],
+    "name:pol_x_preferred":[
+        "Marenne"
+    ],
+    "name:por_x_preferred":[
+        "Marenne"
+    ],
+    "name:ron_x_preferred":[
+        "Marenne"
+    ],
+    "name:slk_x_preferred":[
+        "Marenne"
+    ],
+    "name:slv_x_preferred":[
+        "Marenne"
+    ],
+    "name:spa_x_preferred":[
+        "Marenne"
+    ],
+    "name:swe_x_preferred":[
+        "Marenne"
+    ],
+    "name:tah_x_preferred":[
+        "Marenne"
+    ],
+    "name:tur_x_preferred":[
         "Marenne"
     ],
     "qs_pg:aaroncc":"BE",
@@ -88,7 +172,7 @@
         }
     ],
     "wof:id":1125884233,
-    "wof:lastmodified":1566612091,
+    "wof:lastmodified":1690856757,
     "wof:name":"Marenne",
     "wof:parent_id":102049921,
     "wof:placetype":"locality",

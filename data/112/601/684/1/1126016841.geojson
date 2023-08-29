@@ -34,6 +34,9 @@
     "name:ceb_x_preferred":[
         "Fosses-la-Ville"
     ],
+    "name:ckb_x_preferred":[
+        "\u0641\u06c6\u0633-\u0644\u0627-\u06a4\u06cc\u0644"
+    ],
     "name:deu_x_preferred":[
         "Fosses-la-Ville"
     ],
@@ -50,6 +53,9 @@
         "\u0641\u0633 \u0644\u0648\u06cc\u0644"
     ],
     "name:fra_x_preferred":[
+        "Fosses-la-Ville"
+    ],
+    "name:gle_x_preferred":[
         "Fosses-la-Ville"
     ],
     "name:hun_x_preferred":[
@@ -100,6 +106,9 @@
     "name:swe_x_preferred":[
         "Fosses-la-Ville"
     ],
+    "name:tur_x_preferred":[
+        "Fosses-la-Ville"
+    ],
     "name:vie_x_preferred":[
         "Fosses-la-Ville"
     ],
@@ -111,6 +120,9 @@
     ],
     "name:wln_x_preferred":[
         "Fosse-li-Veye"
+    ],
+    "name:zea_x_preferred":[
+        "Fosses-la-Ville"
     ],
     "name:zho_x_preferred":[
         "\u798f\u65af\u57ce"
@@ -170,7 +182,7 @@
         }
     ],
     "wof:id":1126016841,
-    "wof:lastmodified":1566612177,
+    "wof:lastmodified":1690856829,
     "wof:name":"Fosse",
     "wof:parent_id":102049931,
     "wof:placetype":"locality",

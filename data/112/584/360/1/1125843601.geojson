@@ -37,6 +37,9 @@
     "name:fra_x_preferred":[
         "Budingen"
     ],
+    "name:gle_x_preferred":[
+        "Budingen"
+    ],
     "name:hun_x_preferred":[
         "Budingen"
     ],
@@ -95,7 +98,7 @@
         }
     ],
     "wof:id":1125843601,
-    "wof:lastmodified":1566612230,
+    "wof:lastmodified":1690856890,
     "wof:name":"Budingen",
     "wof:parent_id":1108830427,
     "wof:placetype":"locality",

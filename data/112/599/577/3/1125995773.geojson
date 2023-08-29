@@ -55,6 +55,9 @@
     "name:fra_x_preferred":[
         "Rendeux"
     ],
+    "name:gle_x_preferred":[
+        "Rendeux"
+    ],
     "name:hun_x_preferred":[
         "Rendeux"
     ],
@@ -108,6 +111,9 @@
     ],
     "name:wln_x_preferred":[
         "Rindeu"
+    ],
+    "name:zea_x_preferred":[
+        "Rendeux"
     ],
     "name:zho_x_preferred":[
         "\u6717\u5fb7"
@@ -165,7 +171,7 @@
         }
     ],
     "wof:id":1125995773,
-    "wof:lastmodified":1566612137,
+    "wof:lastmodified":1690856795,
     "wof:name":"Rendeux",
     "wof:parent_id":102049921,
     "wof:placetype":"locality",

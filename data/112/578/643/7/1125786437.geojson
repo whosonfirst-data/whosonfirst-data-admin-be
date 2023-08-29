@@ -22,13 +22,25 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Pontillas"
+    ],
+    "name:ceb_x_preferred":[
+        "Pontillas"
+    ],
     "name:eng_x_preferred":[
         "Pontillas"
     ],
     "name:fra_x_preferred":[
         "Pontillas"
     ],
+    "name:gle_x_preferred":[
+        "Pontillas"
+    ],
     "name:nld_x_preferred":[
+        "Pontillas"
+    ],
+    "name:swe_x_preferred":[
         "Pontillas"
     ],
     "name:und_x_variant":[
@@ -89,7 +101,7 @@
         }
     ],
     "wof:id":1125786437,
-    "wof:lastmodified":1566612207,
+    "wof:lastmodified":1690856865,
     "wof:name":"Pontillas",
     "wof:parent_id":102049931,
     "wof:placetype":"locality",

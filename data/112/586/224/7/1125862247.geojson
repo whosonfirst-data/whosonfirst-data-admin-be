@@ -28,6 +28,12 @@
     "name:fra_x_preferred":[
         "Schorisse"
     ],
+    "name:fra_x_variant":[
+        "Escornaix"
+    ],
+    "name:gle_x_preferred":[
+        "Schorisse"
+    ],
     "name:hun_x_preferred":[
         "Schorisse"
     ],
@@ -93,7 +99,7 @@
         }
     ],
     "wof:id":1125862247,
-    "wof:lastmodified":1566612081,
+    "wof:lastmodified":1690856743,
     "wof:name":"Schorisse",
     "wof:parent_id":1108830139,
     "wof:placetype":"locality",

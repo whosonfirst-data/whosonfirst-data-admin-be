@@ -31,6 +31,9 @@
     "name:fra_x_preferred":[
         "Eine"
     ],
+    "name:gle_x_preferred":[
+        "Eine"
+    ],
     "name:hun_x_preferred":[
         "Eine"
     ],
@@ -96,7 +99,7 @@
         }
     ],
     "wof:id":1125979811,
-    "wof:lastmodified":1566612147,
+    "wof:lastmodified":1690856807,
     "wof:name":"Eine",
     "wof:parent_id":1108830311,
     "wof:placetype":"locality",

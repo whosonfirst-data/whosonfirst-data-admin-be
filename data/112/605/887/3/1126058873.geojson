@@ -28,6 +28,9 @@
     "name:fra_x_preferred":[
         "Denderwindeke"
     ],
+    "name:gle_x_preferred":[
+        "Denderwindeke"
+    ],
     "name:hun_x_preferred":[
         "Denderwindeke"
     ],
@@ -88,7 +91,7 @@
         }
     ],
     "wof:id":1126058873,
-    "wof:lastmodified":1566612052,
+    "wof:lastmodified":1690856710,
     "wof:name":"Denderwindeke",
     "wof:parent_id":1108830403,
     "wof:placetype":"locality",

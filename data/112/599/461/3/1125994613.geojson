@@ -31,11 +31,17 @@
     "name:fra_x_preferred":[
         "Wannegem-Lede"
     ],
+    "name:gle_x_preferred":[
+        "Wannegem-Lede"
+    ],
     "name:hun_x_preferred":[
         "Wannegem-Lede"
     ],
     "name:nld_x_preferred":[
         "Wannegem-Lede"
+    ],
+    "name:zho_x_preferred":[
+        "\u4e07\u8bb7\u6d77\u59c6-\u83b1\u5fb7"
     ],
     "qs_pg:aaroncc":"BE",
     "qs_pg:gn_country":"BE",
@@ -93,7 +99,7 @@
         }
     ],
     "wof:id":1125994613,
-    "wof:lastmodified":1566612136,
+    "wof:lastmodified":1690856793,
     "wof:name":"Wannegem-Lede",
     "wof:parent_id":1108830549,
     "wof:placetype":"locality",

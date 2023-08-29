@@ -55,6 +55,9 @@
     "name:fra_x_preferred":[
         "Quaregnon"
     ],
+    "name:gle_x_preferred":[
+        "Quaregnon"
+    ],
     "name:hun_x_preferred":[
         "Quaregnon"
     ],
@@ -63,6 +66,9 @@
     ],
     "name:jpn_x_preferred":[
         "\u30ab\u30ec\u30cb\u30e7\u30f3"
+    ],
+    "name:lat_x_preferred":[
+        "Quaregio"
     ],
     "name:lim_x_preferred":[
         "Quaregnon"
@@ -106,6 +112,12 @@
     "name:swe_x_preferred":[
         "Quaregnon"
     ],
+    "name:szl_x_preferred":[
+        "Quaregnon"
+    ],
+    "name:tur_x_preferred":[
+        "Quaregnon"
+    ],
     "name:vie_x_preferred":[
         "Quaregnon"
     ],
@@ -117,6 +129,9 @@
     ],
     "name:wln_x_preferred":[
         "Cargnon"
+    ],
+    "name:zho_x_preferred":[
+        "\u5361\u5c14\u5c3c\u7fc1"
     ],
     "qs_pg:aaroncc":"BE",
     "qs_pg:gn_country":"BE",
@@ -173,7 +188,7 @@
         }
     ],
     "wof:id":1125940237,
-    "wof:lastmodified":1566612014,
+    "wof:lastmodified":1690856675,
     "wof:name":"Quaregnon",
     "wof:parent_id":102049933,
     "wof:placetype":"locality",

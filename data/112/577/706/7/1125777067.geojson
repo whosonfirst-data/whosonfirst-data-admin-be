@@ -28,6 +28,9 @@
     "name:fra_x_preferred":[
         "Beigem"
     ],
+    "name:gle_x_preferred":[
+        "Beigem"
+    ],
     "name:hun_x_preferred":[
         "Beigem"
     ],
@@ -89,7 +92,7 @@
         }
     ],
     "wof:id":1125777067,
-    "wof:lastmodified":1566612232,
+    "wof:lastmodified":1690856893,
     "wof:name":"Beigem",
     "wof:parent_id":1108830343,
     "wof:placetype":"locality",

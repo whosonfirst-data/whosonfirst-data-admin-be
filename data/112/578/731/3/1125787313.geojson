@@ -28,6 +28,9 @@
     "name:fra_x_preferred":[
         "Massemen"
     ],
+    "name:gle_x_preferred":[
+        "Massemen"
+    ],
     "name:hun_x_preferred":[
         "Massemen"
     ],
@@ -88,7 +91,7 @@
         }
     ],
     "wof:id":1125787313,
-    "wof:lastmodified":1566612206,
+    "wof:lastmodified":1690856864,
     "wof:name":"Massemen",
     "wof:parent_id":1108830329,
     "wof:placetype":"locality",

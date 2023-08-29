@@ -28,6 +28,9 @@
     "name:fra_x_preferred":[
         "Hombeek"
     ],
+    "name:gle_x_preferred":[
+        "Hombeek"
+    ],
     "name:hun_x_preferred":[
         "Hombeek"
     ],
@@ -93,7 +96,7 @@
         }
     ],
     "wof:id":1125999705,
-    "wof:lastmodified":1566612132,
+    "wof:lastmodified":1690856788,
     "wof:name":"Hombeek",
     "wof:parent_id":1108830407,
     "wof:placetype":"locality",

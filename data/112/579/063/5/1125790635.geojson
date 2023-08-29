@@ -28,6 +28,12 @@
     "name:fra_x_preferred":[
         "Neerhespen"
     ],
+    "name:fra_x_variant":[
+        "Bas-H\u00e8pe"
+    ],
+    "name:gle_x_preferred":[
+        "Neerhespen"
+    ],
     "name:hun_x_preferred":[
         "Neerhespen"
     ],
@@ -88,7 +94,7 @@
         }
     ],
     "wof:id":1125790635,
-    "wof:lastmodified":1566612223,
+    "wof:lastmodified":1690856881,
     "wof:name":"Neerhespen",
     "wof:parent_id":1108830045,
     "wof:placetype":"locality",

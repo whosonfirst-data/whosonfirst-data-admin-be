@@ -22,10 +22,16 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:deu_x_preferred":[
+        "Kerkom"
+    ],
     "name:eng_x_preferred":[
         "Kerkom"
     ],
     "name:fra_x_preferred":[
+        "Kerkom"
+    ],
+    "name:gle_x_preferred":[
         "Kerkom"
     ],
     "name:hun_x_preferred":[
@@ -89,7 +95,7 @@
         }
     ],
     "wof:id":1125953803,
-    "wof:lastmodified":1566612034,
+    "wof:lastmodified":1690856697,
     "wof:name":"Kerkom",
     "wof:parent_id":1108830471,
     "wof:placetype":"locality",

@@ -28,6 +28,9 @@
     "name:fra_x_preferred":[
         "Heks"
     ],
+    "name:gle_x_preferred":[
+        "Heks"
+    ],
     "name:hun_x_preferred":[
         "Heks"
     ],
@@ -94,7 +97,7 @@
         }
     ],
     "wof:id":1125801533,
-    "wof:lastmodified":1566612111,
+    "wof:lastmodified":1690856776,
     "wof:name":"Heks",
     "wof:parent_id":1108830275,
     "wof:placetype":"locality",

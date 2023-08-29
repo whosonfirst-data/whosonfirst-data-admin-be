@@ -28,6 +28,9 @@
     "name:fra_x_preferred":[
         "Sart-Bernard"
     ],
+    "name:gle_x_preferred":[
+        "Sart-Bernard"
+    ],
     "name:hun_x_preferred":[
         "Sart-Bernard"
     ],
@@ -89,7 +92,7 @@
         }
     ],
     "wof:id":1126008951,
-    "wof:lastmodified":1566612182,
+    "wof:lastmodified":1690856836,
     "wof:name":"Sart-Bernard",
     "wof:parent_id":102049931,
     "wof:placetype":"locality",

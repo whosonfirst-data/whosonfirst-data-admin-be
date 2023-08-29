@@ -28,6 +28,9 @@
     "name:fra_x_preferred":[
         "Zeveren"
     ],
+    "name:gle_x_preferred":[
+        "Zeveren"
+    ],
     "name:hun_x_preferred":[
         "Zeveren"
     ],
@@ -88,7 +91,7 @@
         }
     ],
     "wof:id":1125794771,
-    "wof:lastmodified":1566612220,
+    "wof:lastmodified":1690856878,
     "wof:name":"Zeveren",
     "wof:parent_id":1108830629,
     "wof:placetype":"locality",

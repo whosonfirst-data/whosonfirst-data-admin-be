@@ -22,20 +22,203 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:afr_x_preferred":[
+        "Avernas-le-Bauduin"
+    ],
+    "name:arg_x_preferred":[
+        "Avernas-le-Bauduin"
+    ],
+    "name:ast_x_preferred":[
+        "Avernas-le-Bauduin"
+    ],
+    "name:bar_x_preferred":[
+        "Avernas-le-Bauduin"
+    ],
+    "name:bre_x_preferred":[
+        "Avernas-le-Bauduin"
+    ],
+    "name:cat_x_preferred":[
+        "Avernas-le-Bauduin"
+    ],
+    "name:ces_x_preferred":[
+        "Avernas-le-Bauduin"
+    ],
+    "name:cos_x_preferred":[
+        "Avernas-le-Bauduin"
+    ],
+    "name:cym_x_preferred":[
+        "Avernas-le-Bauduin"
+    ],
+    "name:dan_x_preferred":[
+        "Avernas-le-Bauduin"
+    ],
+    "name:deu_x_preferred":[
+        "Avernas-le-Bauduin"
+    ],
     "name:eng_x_preferred":[
+        "Avernas-le-Bauduin"
+    ],
+    "name:epo_x_preferred":[
+        "Avernas-le-Bauduin"
+    ],
+    "name:est_x_preferred":[
+        "Avernas-le-Bauduin"
+    ],
+    "name:eus_x_preferred":[
+        "Avernas-le-Bauduin"
+    ],
+    "name:fin_x_preferred":[
         "Avernas-le-Bauduin"
     ],
     "name:fra_x_preferred":[
         "Avernas-le-Bauduin"
     ],
+    "name:frp_x_preferred":[
+        "Avernas-le-Bauduin"
+    ],
+    "name:fur_x_preferred":[
+        "Avernas-le-Bauduin"
+    ],
+    "name:gla_x_preferred":[
+        "Avernas-le-Bauduin"
+    ],
+    "name:gle_x_preferred":[
+        "Avernas-le-Bauduin"
+    ],
+    "name:glg_x_preferred":[
+        "Avernas-le-Bauduin"
+    ],
+    "name:gsw_x_preferred":[
+        "Avernas-le-Bauduin"
+    ],
+    "name:hrv_x_preferred":[
+        "Avernas-le-Bauduin"
+    ],
     "name:hun_x_preferred":[
+        "Avernas-le-Bauduin"
+    ],
+    "name:ido_x_preferred":[
+        "Avernas-le-Bauduin"
+    ],
+    "name:ile_x_preferred":[
+        "Avernas-le-Bauduin"
+    ],
+    "name:ina_x_preferred":[
+        "Avernas-le-Bauduin"
+    ],
+    "name:ind_x_preferred":[
+        "Avernas-le-Bauduin"
+    ],
+    "name:isl_x_preferred":[
+        "Avernas-le-Bauduin"
+    ],
+    "name:ita_x_preferred":[
+        "Avernas-le-Bauduin"
+    ],
+    "name:kon_x_preferred":[
+        "Avernas-le-Bauduin"
+    ],
+    "name:lij_x_preferred":[
+        "Avernas-le-Bauduin"
+    ],
+    "name:lim_x_preferred":[
+        "Avernas-le-Bauduin"
+    ],
+    "name:ltz_x_preferred":[
+        "Avernas-le-Bauduin"
+    ],
+    "name:min_x_preferred":[
+        "Avernas-le-Bauduin"
+    ],
+    "name:mlg_x_preferred":[
+        "Avernas-le-Bauduin"
+    ],
+    "name:msa_x_preferred":[
+        "Avernas-le-Bauduin"
+    ],
+    "name:nap_x_preferred":[
+        "Avernas-le-Bauduin"
+    ],
+    "name:nds_x_preferred":[
         "Avernas-le-Bauduin"
     ],
     "name:nld_x_preferred":[
         "Avernas-le-Bauduin"
     ],
+    "name:nno_x_preferred":[
+        "Avernas-le-Bauduin"
+    ],
+    "name:nob_x_preferred":[
+        "Avernas-le-Bauduin"
+    ],
+    "name:nrm_x_preferred":[
+        "Avernas-le-Bauduin"
+    ],
+    "name:oci_x_preferred":[
+        "Avernas-le-Bauduin"
+    ],
+    "name:pcd_x_preferred":[
+        "Avernas-le-Bauduin"
+    ],
+    "name:pms_x_preferred":[
+        "Avernas-le-Bauduin"
+    ],
+    "name:pol_x_preferred":[
+        "Avernas-le-Bauduin"
+    ],
+    "name:por_x_preferred":[
+        "Avernas-le-Bauduin"
+    ],
+    "name:roh_x_preferred":[
+        "Avernas-le-Bauduin"
+    ],
+    "name:ron_x_preferred":[
+        "Avernas-le-Bauduin"
+    ],
+    "name:scn_x_preferred":[
+        "Avernas-le-Bauduin"
+    ],
+    "name:sco_x_preferred":[
+        "Avernas-le-Bauduin"
+    ],
+    "name:slk_x_preferred":[
+        "Avernas-le-Bauduin"
+    ],
+    "name:slv_x_preferred":[
+        "Avernas-le-Bauduin"
+    ],
+    "name:spa_x_preferred":[
+        "Avernas-le-Bauduin"
+    ],
+    "name:srd_x_preferred":[
+        "Avernas-le-Bauduin"
+    ],
+    "name:swa_x_preferred":[
+        "Avernas-le-Bauduin"
+    ],
+    "name:swe_x_preferred":[
+        "Avernas-le-Bauduin"
+    ],
+    "name:vec_x_preferred":[
+        "Avernas-le-Bauduin"
+    ],
+    "name:vie_x_preferred":[
+        "Avernas-le-Bauduin"
+    ],
+    "name:vls_x_preferred":[
+        "Avernas-le-Bauduin"
+    ],
+    "name:vol_x_preferred":[
+        "Avernas-le-Bauduin"
+    ],
     "name:wln_x_preferred":[
         "Invna"
+    ],
+    "name:wol_x_preferred":[
+        "Avernas-le-Bauduin"
+    ],
+    "name:zul_x_preferred":[
+        "Avernas-le-Bauduin"
     ],
     "qs_pg:aaroncc":"BE",
     "qs_pg:gn_country":"BE",
@@ -89,7 +272,7 @@
         }
     ],
     "wof:id":1126009545,
-    "wof:lastmodified":1566612180,
+    "wof:lastmodified":1690856832,
     "wof:name":"Avernas-le-Bauduin",
     "wof:parent_id":102049937,
     "wof:placetype":"locality",

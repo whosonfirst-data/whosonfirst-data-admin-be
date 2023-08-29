@@ -34,6 +34,9 @@
     "name:fra_x_preferred":[
         "Noordschote"
     ],
+    "name:gle_x_preferred":[
+        "Noordschote"
+    ],
     "name:hun_x_preferred":[
         "Noordschote"
     ],
@@ -48,6 +51,9 @@
     ],
     "name:vls_x_preferred":[
         "Noordschote"
+    ],
+    "name:zho_x_preferred":[
+        "\u8bfa\u5fb7\u65af\u970d\u7279"
     ],
     "qs_pg:aaroncc":"BE",
     "qs_pg:gn_country":"BE",
@@ -103,7 +109,7 @@
         }
     ],
     "wof:id":1125810113,
-    "wof:lastmodified":1566612087,
+    "wof:lastmodified":1690856751,
     "wof:name":"Noordschote",
     "wof:parent_id":1108830073,
     "wof:placetype":"locality",

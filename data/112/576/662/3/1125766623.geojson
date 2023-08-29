@@ -28,6 +28,9 @@
     "name:fra_x_preferred":[
         "Stevoort"
     ],
+    "name:gle_x_preferred":[
+        "Stevoort"
+    ],
     "name:hun_x_preferred":[
         "Stevoort"
     ],
@@ -93,7 +96,7 @@
         }
     ],
     "wof:id":1125766623,
-    "wof:lastmodified":1566612201,
+    "wof:lastmodified":1690856858,
     "wof:name":"Stevoort",
     "wof:parent_id":1108830649,
     "wof:placetype":"locality",

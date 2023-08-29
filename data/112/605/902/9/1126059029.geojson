@@ -28,6 +28,9 @@
     "name:fra_x_preferred":[
         "Biesme-sous-Thuin"
     ],
+    "name:gle_x_preferred":[
+        "Biesme-sous-Thuin"
+    ],
     "name:nld_x_preferred":[
         "Biesme-sous-Thuin"
     ],
@@ -89,7 +92,7 @@
         }
     ],
     "wof:id":1126059029,
-    "wof:lastmodified":1566612058,
+    "wof:lastmodified":1690856718,
     "wof:name":"Biesme-sous-Thuin",
     "wof:parent_id":102049923,
     "wof:placetype":"locality",

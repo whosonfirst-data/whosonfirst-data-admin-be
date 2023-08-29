@@ -22,7 +22,13 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Foy"
+    ],
     "name:ceb_x_preferred":[
+        "Foy"
+    ],
+    "name:ces_x_preferred":[
         "Foy"
     ],
     "name:deu_x_preferred":[
@@ -37,6 +43,9 @@
     "name:fra_x_preferred":[
         "Foy"
     ],
+    "name:hun_x_preferred":[
+        "Foy"
+    ],
     "name:ita_x_preferred":[
         "Foy"
     ],
@@ -47,6 +56,9 @@
         "Foy"
     ],
     "name:pol_x_preferred":[
+        "Foy"
+    ],
+    "name:slk_x_preferred":[
         "Foy"
     ],
     "name:swe_x_preferred":[
@@ -109,7 +121,7 @@
         }
     ],
     "wof:id":1125944439,
-    "wof:lastmodified":1566612016,
+    "wof:lastmodified":1690856679,
     "wof:name":"Foy",
     "wof:parent_id":102049915,
     "wof:placetype":"locality",

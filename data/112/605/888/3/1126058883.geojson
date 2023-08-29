@@ -40,6 +40,9 @@
     "name:fra_x_preferred":[
         "Esen"
     ],
+    "name:gle_x_preferred":[
+        "Esen"
+    ],
     "name:hun_x_preferred":[
         "Esen"
     ],
@@ -112,7 +115,7 @@
         }
     ],
     "wof:id":1126058883,
-    "wof:lastmodified":1566612053,
+    "wof:lastmodified":1690856711,
     "wof:name":"Esen",
     "wof:parent_id":1108830401,
     "wof:placetype":"locality",

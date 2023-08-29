@@ -22,10 +22,16 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ell_x_preferred":[
+        "\u03a1\u03ad\u03c0\u03c0\u03b5\u03bb"
+    ],
     "name:eng_x_preferred":[
         "Reppel"
     ],
     "name:fra_x_preferred":[
+        "Reppel"
+    ],
+    "name:gle_x_preferred":[
         "Reppel"
     ],
     "name:hun_x_preferred":[
@@ -90,7 +96,7 @@
         }
     ],
     "wof:id":1125769535,
-    "wof:lastmodified":1566612198,
+    "wof:lastmodified":1690856854,
     "wof:name":"Reppel",
     "wof:parent_id":1108830639,
     "wof:placetype":"locality",

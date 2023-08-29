@@ -22,6 +22,9 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Lavacherie"
+    ],
     "name:eng_x_preferred":[
         "Lavacherie"
     ],
@@ -84,7 +87,7 @@
         }
     ],
     "wof:id":1125992015,
-    "wof:lastmodified":1566612136,
+    "wof:lastmodified":1690856793,
     "wof:name":"Lavacherie",
     "wof:parent_id":102049915,
     "wof:placetype":"locality",

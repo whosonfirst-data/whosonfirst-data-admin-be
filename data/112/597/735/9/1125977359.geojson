@@ -22,6 +22,9 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Nisramont"
+    ],
     "name:eng_x_preferred":[
         "Nisramont"
     ],
@@ -85,7 +88,7 @@
         }
     ],
     "wof:id":1125977359,
-    "wof:lastmodified":1566612146,
+    "wof:lastmodified":1690856805,
     "wof:name":"Nisramont",
     "wof:parent_id":102049921,
     "wof:placetype":"locality",

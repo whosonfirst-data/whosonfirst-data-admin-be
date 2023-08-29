@@ -31,6 +31,9 @@
     "name:fra_x_preferred":[
         "Saint-Paul"
     ],
+    "name:gle_x_preferred":[
+        "Sint-Pauwels"
+    ],
     "name:hun_x_preferred":[
         "Sint-Pauwels"
     ],
@@ -91,7 +94,7 @@
         }
     ],
     "wof:id":1125780311,
-    "wof:lastmodified":1566612209,
+    "wof:lastmodified":1690856869,
     "wof:name":"St.-Pauwels",
     "wof:parent_id":1108830193,
     "wof:placetype":"locality",

@@ -28,6 +28,9 @@
     "name:fra_x_preferred":[
         "Archennes"
     ],
+    "name:gle_x_preferred":[
+        "Archennes"
+    ],
     "name:hun_x_preferred":[
         "Archennes"
     ],
@@ -84,7 +87,7 @@
         }
     ],
     "wof:id":1126053229,
-    "wof:lastmodified":1566612055,
+    "wof:lastmodified":1690856715,
     "wof:name":"Archennes",
     "wof:parent_id":102049945,
     "wof:placetype":"locality",

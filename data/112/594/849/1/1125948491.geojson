@@ -31,6 +31,9 @@
     "name:fra_x_preferred":[
         "Horpmaal"
     ],
+    "name:gle_x_preferred":[
+        "Horpmaal"
+    ],
     "name:guj_x_preferred":[
         "\u0a89\u0aa6\u0acd\u0aaf\u0acb\u0a97\u0aaa\u0ab0\u0acd\u0ab5"
     ],
@@ -103,7 +106,7 @@
         }
     ],
     "wof:id":1125948491,
-    "wof:lastmodified":1566612017,
+    "wof:lastmodified":1690856679,
     "wof:name":"Horpmaal",
     "wof:parent_id":1108830275,
     "wof:placetype":"locality",

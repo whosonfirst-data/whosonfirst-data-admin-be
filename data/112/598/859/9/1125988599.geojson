@@ -28,6 +28,9 @@
     "name:fra_x_preferred":[
         "Walsbets"
     ],
+    "name:gle_x_preferred":[
+        "Walsbets"
+    ],
     "name:hun_x_preferred":[
         "Walsbets"
     ],
@@ -91,7 +94,7 @@
         }
     ],
     "wof:id":1125988599,
-    "wof:lastmodified":1566612165,
+    "wof:lastmodified":1690856815,
     "wof:name":"Walsbets",
     "wof:parent_id":1108830259,
     "wof:placetype":"locality",

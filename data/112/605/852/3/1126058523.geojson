@@ -22,6 +22,9 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Sibret"
+    ],
     "name:eng_x_preferred":[
         "Sibret"
     ],
@@ -30,6 +33,9 @@
     ],
     "name:hun_x_preferred":[
         "Sibret"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b7\u30d6\u30ec"
     ],
     "name:nld_x_preferred":[
         "Sibret"
@@ -89,7 +95,7 @@
         }
     ],
     "wof:id":1126058523,
-    "wof:lastmodified":1566612058,
+    "wof:lastmodified":1690856719,
     "wof:name":"Sibret",
     "wof:parent_id":102049915,
     "wof:placetype":"locality",

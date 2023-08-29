@@ -22,10 +22,16 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:deu_x_preferred":[
+        "Anseremme"
+    ],
     "name:eng_x_preferred":[
         "Anseremme"
     ],
     "name:fra_x_preferred":[
+        "Anseremme"
+    ],
+    "name:gle_x_preferred":[
         "Anseremme"
     ],
     "name:hun_x_preferred":[
@@ -97,7 +103,7 @@
         }
     ],
     "wof:id":1125963013,
-    "wof:lastmodified":1566612158,
+    "wof:lastmodified":1690856808,
     "wof:name":"Anseremme",
     "wof:parent_id":102049919,
     "wof:placetype":"locality",

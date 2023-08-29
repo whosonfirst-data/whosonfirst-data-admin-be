@@ -22,10 +22,19 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bar_x_preferred":[
+        "Boirs"
+    ],
+    "name:deu_x_preferred":[
+        "Boirs"
+    ],
     "name:eng_x_preferred":[
         "Boirs"
     ],
     "name:fra_x_preferred":[
+        "Boirs"
+    ],
+    "name:gle_x_preferred":[
         "Boirs"
     ],
     "name:hun_x_preferred":[
@@ -36,6 +45,9 @@
     ],
     "name:nld_x_preferred":[
         "Beurs"
+    ],
+    "name:nld_x_variant":[
+        "Boirs"
     ],
     "name:und_x_variant":[
         "Bassenge (Boirs)"
@@ -92,7 +104,7 @@
         }
     ],
     "wof:id":1126017451,
-    "wof:lastmodified":1566612179,
+    "wof:lastmodified":1690856831,
     "wof:name":"Boirs",
     "wof:parent_id":102049941,
     "wof:placetype":"locality",

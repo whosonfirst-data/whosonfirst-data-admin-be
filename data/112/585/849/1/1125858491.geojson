@@ -34,7 +34,13 @@
     "name:fra_x_preferred":[
         "Saive"
     ],
+    "name:gle_x_preferred":[
+        "Saive"
+    ],
     "name:hun_x_preferred":[
+        "Saive"
+    ],
+    "name:ita_x_preferred":[
         "Saive"
     ],
     "name:lim_x_preferred":[
@@ -104,7 +110,7 @@
         }
     ],
     "wof:id":1125858491,
-    "wof:lastmodified":1566612204,
+    "wof:lastmodified":1690856862,
     "wof:name":"Saive",
     "wof:parent_id":102049941,
     "wof:placetype":"locality",

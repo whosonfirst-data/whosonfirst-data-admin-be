@@ -25,6 +25,9 @@
     "name:bre_x_preferred":[
         "Woesten"
     ],
+    "name:cat_x_preferred":[
+        "Woesten"
+    ],
     "name:ceb_x_preferred":[
         "Woesten"
     ],
@@ -35,6 +38,9 @@
         "\u0648\u0648\u0627\u0633\u062a\u0646"
     ],
     "name:fra_x_preferred":[
+        "Woesten"
+    ],
+    "name:gle_x_preferred":[
         "Woesten"
     ],
     "name:hun_x_preferred":[
@@ -103,7 +109,7 @@
         }
     ],
     "wof:id":1126059135,
-    "wof:lastmodified":1566612055,
+    "wof:lastmodified":1690856714,
     "wof:name":"Woesten",
     "wof:parent_id":1108830565,
     "wof:placetype":"locality",

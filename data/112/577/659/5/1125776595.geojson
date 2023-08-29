@@ -22,6 +22,9 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Noville-les-Bois"
+    ],
     "name:ceb_x_preferred":[
         "Noville-les-Bois"
     ],
@@ -29,6 +32,9 @@
         "Noville-les-Bois"
     ],
     "name:fra_x_preferred":[
+        "Noville-les-Bois"
+    ],
+    "name:gle_x_preferred":[
         "Noville-les-Bois"
     ],
     "name:ltz_x_preferred":[
@@ -96,7 +102,7 @@
         }
     ],
     "wof:id":1125776595,
-    "wof:lastmodified":1566612238,
+    "wof:lastmodified":1690856901,
     "wof:name":"Noville-les-Bois",
     "wof:parent_id":102049931,
     "wof:placetype":"locality",

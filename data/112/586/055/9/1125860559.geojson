@@ -28,6 +28,9 @@
     "name:fra_x_preferred":[
         "Gorsem"
     ],
+    "name:gle_x_preferred":[
+        "Gorsem"
+    ],
     "name:hun_x_preferred":[
         "Gorsem"
     ],
@@ -93,7 +96,7 @@
         }
     ],
     "wof:id":1125860559,
-    "wof:lastmodified":1566612078,
+    "wof:lastmodified":1690856739,
     "wof:name":"Gorsem",
     "wof:parent_id":1108830223,
     "wof:placetype":"locality",

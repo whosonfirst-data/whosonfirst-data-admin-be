@@ -22,6 +22,12 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Everbeek"
+    ],
+    "name:deu_x_preferred":[
+        "Everbeek"
+    ],
     "name:eng_x_preferred":[
         "Everbeek"
     ],
@@ -30,6 +36,9 @@
     ],
     "name:fra_x_variant":[
         "Everbecq"
+    ],
+    "name:gle_x_preferred":[
+        "Everbeek"
     ],
     "name:hun_x_preferred":[
         "Everbeek"
@@ -96,7 +105,7 @@
         }
     ],
     "wof:id":1125993945,
-    "wof:lastmodified":1566612135,
+    "wof:lastmodified":1690856791,
     "wof:name":"Everbeek",
     "wof:parent_id":1108830545,
     "wof:placetype":"locality",

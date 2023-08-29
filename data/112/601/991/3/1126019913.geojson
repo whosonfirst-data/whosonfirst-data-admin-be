@@ -22,6 +22,9 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Velzeke-Ruddershove"
+    ],
     "name:ceb_x_preferred":[
         "Velzeke-Ruddershove"
     ],
@@ -29,6 +32,9 @@
         "Velzeke-Ruddershove"
     ],
     "name:fra_x_preferred":[
+        "Velzeke-Ruddershove"
+    ],
+    "name:gle_x_preferred":[
         "Velzeke-Ruddershove"
     ],
     "name:hun_x_preferred":[
@@ -99,7 +105,7 @@
         }
     ],
     "wof:id":1126019913,
-    "wof:lastmodified":1566612171,
+    "wof:lastmodified":1690856819,
     "wof:name":"Velzeke-Ruddershove",
     "wof:parent_id":1108830019,
     "wof:placetype":"locality",

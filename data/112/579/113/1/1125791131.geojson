@@ -28,6 +28,9 @@
     "name:fra_x_preferred":[
         "Schuiferskapelle"
     ],
+    "name:gle_x_preferred":[
+        "Schuiferskapelle"
+    ],
     "name:hun_x_preferred":[
         "Schuiferskapelle"
     ],
@@ -94,7 +97,7 @@
         }
     ],
     "wof:id":1125791131,
-    "wof:lastmodified":1566612227,
+    "wof:lastmodified":1690856887,
     "wof:name":"Schuiferskapelle",
     "wof:parent_id":1108830265,
     "wof:placetype":"locality",

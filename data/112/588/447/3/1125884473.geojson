@@ -37,6 +37,9 @@
     "name:fra_x_preferred":[
         "Moregem"
     ],
+    "name:gle_x_preferred":[
+        "Moregem"
+    ],
     "name:hun_x_preferred":[
         "Moregem"
     ],
@@ -103,7 +106,7 @@
         }
     ],
     "wof:id":1125884473,
-    "wof:lastmodified":1566612090,
+    "wof:lastmodified":1690856755,
     "wof:name":"Moregem",
     "wof:parent_id":1108830419,
     "wof:placetype":"locality",

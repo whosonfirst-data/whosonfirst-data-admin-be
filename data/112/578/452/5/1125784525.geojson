@@ -28,6 +28,9 @@
     "name:fra_x_preferred":[
         "Goeferdinge"
     ],
+    "name:gle_x_preferred":[
+        "Goeferdinge"
+    ],
     "name:hun_x_preferred":[
         "Goeferdinge"
     ],
@@ -91,7 +94,7 @@
         }
     ],
     "wof:id":1125784525,
-    "wof:lastmodified":1566612209,
+    "wof:lastmodified":1690856868,
     "wof:name":"Goeferdinge",
     "wof:parent_id":1108830521,
     "wof:placetype":"locality",

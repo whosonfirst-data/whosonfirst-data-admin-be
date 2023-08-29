@@ -31,6 +31,9 @@
     "name:bul_x_preferred":[
         "\u0425\u043e\u0431\u043e\u043a\u0435\u043d"
     ],
+    "name:cat_x_preferred":[
+        "Hoboken"
+    ],
     "name:ceb_x_preferred":[
         "Hoboken"
     ],
@@ -55,14 +58,26 @@
     "name:fra_x_preferred":[
         "Hoboken"
     ],
+    "name:gle_x_preferred":[
+        "Hoboken"
+    ],
+    "name:glg_x_preferred":[
+        "Hoboken"
+    ],
     "name:hun_x_preferred":[
         "Hoboken"
     ],
     "name:hye_x_preferred":[
         "\u0540\u0578\u0562\u0578\u0584\u0565\u0576"
     ],
+    "name:ita_x_preferred":[
+        "Hoboken"
+    ],
     "name:lat_x_preferred":[
         "Hoboken"
+    ],
+    "name:lat_x_variant":[
+        "Alto fageti"
     ],
     "name:nld_x_preferred":[
         "Hoboken"
@@ -78,6 +93,9 @@
     ],
     "name:swe_x_preferred":[
         "Hoboken"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0413\u043e\u0431\u043e\u043a\u0435\u043d"
     ],
     "name:war_x_preferred":[
         "Haute Pr\u00e9"
@@ -155,7 +173,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1582345514,
+    "wof:lastmodified":1690856407,
     "wof:name":"Hoboken",
     "wof:parent_id":101748099,
     "wof:placetype":"neighbourhood",

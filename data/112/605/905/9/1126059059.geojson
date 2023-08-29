@@ -37,6 +37,9 @@
     "name:fra_x_preferred":[
         "Pervyse"
     ],
+    "name:gle_x_preferred":[
+        "Pervijze"
+    ],
     "name:hun_x_preferred":[
         "Pervijze"
     ],
@@ -109,7 +112,7 @@
         }
     ],
     "wof:id":1126059059,
-    "wof:lastmodified":1566612057,
+    "wof:lastmodified":1690856717,
     "wof:name":"Pervijze",
     "wof:parent_id":1108830401,
     "wof:placetype":"locality",

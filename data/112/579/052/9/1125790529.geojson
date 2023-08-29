@@ -28,10 +28,16 @@
     "name:fra_x_preferred":[
         "Lamain"
     ],
+    "name:gle_x_preferred":[
+        "Lamain"
+    ],
     "name:hun_x_preferred":[
         "Lamain"
     ],
     "name:nld_x_preferred":[
+        "Lamain"
+    ],
+    "name:vls_x_preferred":[
         "Lamain"
     ],
     "qs_pg:aaroncc":"BE",
@@ -86,7 +92,7 @@
         }
     ],
     "wof:id":1125790529,
-    "wof:lastmodified":1566612222,
+    "wof:lastmodified":1690856880,
     "wof:name":"Lamain",
     "wof:parent_id":102049951,
     "wof:placetype":"locality",

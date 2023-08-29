@@ -108,8 +108,17 @@
     "name:fra_x_preferred":[
         "Mouscron"
     ],
+    "name:frr_x_preferred":[
+        "Mouscron"
+    ],
+    "name:fry_x_preferred":[
+        "Moeskroen"
+    ],
     "name:gle_x_preferred":[
         "Mouscron"
+    ],
+    "name:heb_x_preferred":[
+        "\u05de\u05d5\u05e1\u05e7\u05e8\u05d5\u05df"
     ],
     "name:hun_x_preferred":[
         "Mouscron"
@@ -125,6 +134,9 @@
     ],
     "name:lat_x_preferred":[
         "Musera"
+    ],
+    "name:lav_x_preferred":[
+        "Muskrona"
     ],
     "name:lim_x_preferred":[
         "Moeskroen"
@@ -198,6 +210,12 @@
     "name:war_x_preferred":[
         "Mouscron"
     ],
+    "name:wln_x_preferred":[
+        "Moucron"
+    ],
+    "name:zea_x_preferred":[
+        "Moeskroen"
+    ],
     "name:zho_x_preferred":[
         "\u7a46\u65af\u514b\u9f8d"
     ],
@@ -235,7 +253,7 @@
         "wd:id":"Q220145"
     },
     "wof:country":"BE",
-    "wof:geomhash":"57c309c7b87032cd61107cab9074edbe",
+    "wof:geomhash":"0699a681e9db275dafbc4f206f78ab42",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -246,7 +264,7 @@
         }
     ],
     "wof:id":1108782559,
-    "wof:lastmodified":1684351494,
+    "wof:lastmodified":1690856433,
     "wof:name":"Mouscron",
     "wof:parent_id":85681723,
     "wof:placetype":"county",

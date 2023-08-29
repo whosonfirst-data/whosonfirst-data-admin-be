@@ -37,6 +37,9 @@
     "name:fra_x_preferred":[
         "Emelgem"
     ],
+    "name:gle_x_preferred":[
+        "Emelgem"
+    ],
     "name:hun_x_preferred":[
         "Emelgem"
     ],
@@ -105,7 +108,7 @@
         }
     ],
     "wof:id":1126000451,
-    "wof:lastmodified":1566612186,
+    "wof:lastmodified":1690856842,
     "wof:name":"Emelgem",
     "wof:parent_id":1108830151,
     "wof:placetype":"locality",

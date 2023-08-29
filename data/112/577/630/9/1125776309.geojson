@@ -31,6 +31,9 @@
     "name:fra_x_preferred":[
         "Zandbergen"
     ],
+    "name:gle_x_preferred":[
+        "Zandbergen"
+    ],
     "name:hun_x_preferred":[
         "Zandbergen"
     ],
@@ -96,7 +99,7 @@
         }
     ],
     "wof:id":1125776309,
-    "wof:lastmodified":1566612249,
+    "wof:lastmodified":1690856916,
     "wof:name":"Zandbergen",
     "wof:parent_id":1108830521,
     "wof:placetype":"locality",

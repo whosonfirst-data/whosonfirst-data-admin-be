@@ -31,6 +31,9 @@
     "name:fra_x_preferred":[
         "Xhoris"
     ],
+    "name:gle_x_preferred":[
+        "Xhoris"
+    ],
     "name:ltz_x_preferred":[
         "Xhoris"
     ],
@@ -95,7 +98,7 @@
         }
     ],
     "wof:id":1125886413,
-    "wof:lastmodified":1566612094,
+    "wof:lastmodified":1690856761,
     "wof:name":"Xhoris",
     "wof:parent_id":102049925,
     "wof:placetype":"locality",

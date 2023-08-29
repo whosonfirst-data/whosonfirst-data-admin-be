@@ -34,6 +34,9 @@
     "name:fra_x_preferred":[
         "Zevekote"
     ],
+    "name:gle_x_preferred":[
+        "Zevekote"
+    ],
     "name:hun_x_preferred":[
         "Zevekote"
     ],
@@ -100,7 +103,7 @@
         }
     ],
     "wof:id":1125818939,
-    "wof:lastmodified":1566612085,
+    "wof:lastmodified":1690856747,
     "wof:name":"Zevekote",
     "wof:parent_id":1108830575,
     "wof:placetype":"locality",

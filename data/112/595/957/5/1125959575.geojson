@@ -28,6 +28,9 @@
     "name:fra_x_preferred":[
         "Vroenhoven"
     ],
+    "name:gle_x_preferred":[
+        "Vroenhoven"
+    ],
     "name:hun_x_preferred":[
         "Vroenhoven"
     ],
@@ -93,7 +96,7 @@
         }
     ],
     "wof:id":1125959575,
-    "wof:lastmodified":1566612032,
+    "wof:lastmodified":1690856694,
     "wof:name":"Vroenhoven",
     "wof:parent_id":1108830103,
     "wof:placetype":"locality",

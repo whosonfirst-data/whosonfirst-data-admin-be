@@ -28,6 +28,9 @@
     "name:fra_x_preferred":[
         "H\u00e9rinnes"
     ],
+    "name:gle_x_preferred":[
+        "H\u00e9rinnes"
+    ],
     "name:hun_x_preferred":[
         "H\u00e9rinnes"
     ],
@@ -90,7 +93,7 @@
         }
     ],
     "wof:id":1125778079,
-    "wof:lastmodified":1566612248,
+    "wof:lastmodified":1690856915,
     "wof:name":"H\u00e9rinnes",
     "wof:parent_id":102049951,
     "wof:placetype":"locality",

@@ -22,6 +22,9 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Meensel-Kiezegem"
+    ],
     "name:dan_x_preferred":[
         "Meensel-Kiezegem"
     ],
@@ -35,6 +38,9 @@
         "Meensel-Kiezegem"
     ],
     "name:fra_x_preferred":[
+        "Meensel-Kiezegem"
+    ],
+    "name:gle_x_preferred":[
         "Meensel-Kiezegem"
     ],
     "name:heb_x_preferred":[
@@ -116,7 +122,7 @@
         }
     ],
     "wof:id":1125779145,
-    "wof:lastmodified":1566612242,
+    "wof:lastmodified":1690856906,
     "wof:name":"Meensel-Kiezegem",
     "wof:parent_id":1108830337,
     "wof:placetype":"locality",

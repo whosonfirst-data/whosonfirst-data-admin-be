@@ -28,6 +28,9 @@
     "name:fra_x_preferred":[
         "Val-Meer"
     ],
+    "name:gle_x_preferred":[
+        "Val-Meer"
+    ],
     "name:hun_x_preferred":[
         "Val-Meer"
     ],
@@ -94,7 +97,7 @@
         }
     ],
     "wof:id":1125993729,
-    "wof:lastmodified":1566612138,
+    "wof:lastmodified":1690856796,
     "wof:name":"Val-Meer",
     "wof:parent_id":1108830103,
     "wof:placetype":"locality",

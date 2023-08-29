@@ -28,6 +28,9 @@
     "name:fra_x_preferred":[
         "Vertrijk"
     ],
+    "name:gle_x_preferred":[
+        "Vertrijk"
+    ],
     "name:hun_x_preferred":[
         "Vertrijk"
     ],
@@ -93,7 +96,7 @@
         }
     ],
     "wof:id":1126048811,
-    "wof:lastmodified":1566612063,
+    "wof:lastmodified":1690856724,
     "wof:name":"Vertrijk",
     "wof:parent_id":1108830471,
     "wof:placetype":"locality",

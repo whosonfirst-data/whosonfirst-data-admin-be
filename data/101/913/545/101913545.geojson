@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.000001,
     "geom:area_square_m":8310.503776,
-    "geom:bbox":"5.18931092989,51.1959216809,5.1907117898,51.1968628046",
+    "geom:bbox":"5.189311,51.195922,5.190712,51.196863",
     "geom:latitude":51.196404,
     "geom:longitude":5.190066,
     "iso:country":"BE",
@@ -19,6 +19,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":12.0,
+    "name:cat_x_preferred":[
+        "Wezel"
+    ],
     "name:eng_x_preferred":[
         "Wezel"
     ],
@@ -60,7 +63,7 @@
         "wd:id":"Q2180996"
     },
     "wof:country":"BE",
-    "wof:geomhash":"6a9364eee9f981d6fe24e028f7182c91",
+    "wof:geomhash":"586bea7e9e9c6d00c51f28903353f2fd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -73,7 +76,7 @@
         }
     ],
     "wof:id":101913545,
-    "wof:lastmodified":1566611902,
+    "wof:lastmodified":1690856570,
     "wof:name":"Wezel",
     "wof:parent_id":1108830443,
     "wof:placetype":"locality",
@@ -83,10 +86,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    5.18931092988777,
-    51.1959216809006,
-    5.19071178979885,
-    51.19686280461275
+    5.189311,
+    51.195922,
+    5.190712,
+    51.196863
 ],
-  "geometry": {"coordinates":[[[5.18963691928968,51.1959216809006],[5.18931092988777,51.19680868754722],[5.19061807218247,51.19686280461275],[5.19071178979885,51.19596618153651],[5.18963691928968,51.1959216809006]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[5.189637,51.195922],[5.189311,51.196809],[5.190618,51.196863],[5.190712,51.195966],[5.189637,51.195922]]],"type":"Polygon"}
 }

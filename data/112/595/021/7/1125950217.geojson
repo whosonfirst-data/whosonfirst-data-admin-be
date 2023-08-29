@@ -31,6 +31,9 @@
     "name:fra_x_preferred":[
         "Leval-Trahegnies"
     ],
+    "name:gle_x_preferred":[
+        "Leval-Trahegnies"
+    ],
     "name:hun_x_preferred":[
         "Leval-Trahegnies"
     ],
@@ -89,7 +92,7 @@
         }
     ],
     "wof:id":1125950217,
-    "wof:lastmodified":1566612033,
+    "wof:lastmodified":1690856696,
     "wof:name":"Leval-Trahegnies",
     "wof:parent_id":102049923,
     "wof:placetype":"locality",

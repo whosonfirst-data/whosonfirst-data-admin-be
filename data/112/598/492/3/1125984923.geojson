@@ -25,6 +25,9 @@
     "name:ara_x_preferred":[
         "\u0647\u0627\u0631\u064a\u0644 \u0628\u064a\u0643"
     ],
+    "name:bel_x_preferred":[
+        "\u0425\u0430\u0440\u044d\u043b\u0431\u0435\u043a\u0435"
+    ],
     "name:bre_x_preferred":[
         "Harelbeke"
     ],
@@ -65,6 +68,9 @@
         "\u0627\u0631\u0644\u200c\u0628\u06a9"
     ],
     "name:fra_x_preferred":[
+        "Harelbeke"
+    ],
+    "name:fry_x_preferred":[
         "Harelbeke"
     ],
     "name:gle_x_preferred":[
@@ -205,7 +211,7 @@
         }
     ],
     "wof:id":1125984923,
-    "wof:lastmodified":1566612167,
+    "wof:lastmodified":1690856818,
     "wof:name":"Harelbeke",
     "wof:parent_id":1108830099,
     "wof:placetype":"locality",

@@ -28,6 +28,9 @@
     "name:fra_x_preferred":[
         "Fresin"
     ],
+    "name:gle_x_preferred":[
+        "Vorsen"
+    ],
     "name:hun_x_preferred":[
         "Vorsen"
     ],
@@ -86,7 +89,7 @@
         }
     ],
     "wof:id":1125780721,
-    "wof:lastmodified":1566612212,
+    "wof:lastmodified":1690856872,
     "wof:name":"Vorsen",
     "wof:parent_id":1108830599,
     "wof:placetype":"locality",

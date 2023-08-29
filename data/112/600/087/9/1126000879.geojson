@@ -28,11 +28,20 @@
     "name:fra_x_preferred":[
         "Houdeng-Aimeries"
     ],
+    "name:gle_x_preferred":[
+        "Houdeng-Aimeries"
+    ],
     "name:hun_x_preferred":[
         "Houdeng-Aimeries"
     ],
     "name:nld_x_preferred":[
         "Houdeng-Aimeries"
+    ],
+    "name:ron_x_preferred":[
+        "Houdeng-Aimeries"
+    ],
+    "name:wln_x_preferred":[
+        "Oud\u00e8"
     ],
     "qs_pg:aaroncc":"BE",
     "qs_pg:gn_country":"BE",
@@ -86,7 +95,7 @@
         }
     ],
     "wof:id":1126000879,
-    "wof:lastmodified":1566612187,
+    "wof:lastmodified":1690856843,
     "wof:name":"Houdeng-Aimeries",
     "wof:parent_id":102049943,
     "wof:placetype":"locality",

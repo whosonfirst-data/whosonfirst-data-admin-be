@@ -28,6 +28,9 @@
     "name:fra_x_preferred":[
         "Vollezele"
     ],
+    "name:gle_x_preferred":[
+        "Vollezele"
+    ],
     "name:hun_x_preferred":[
         "Vollezele"
     ],
@@ -93,7 +96,7 @@
         }
     ],
     "wof:id":1125908025,
-    "wof:lastmodified":1566612141,
+    "wof:lastmodified":1690856800,
     "wof:name":"Vollezele",
     "wof:parent_id":1108830579,
     "wof:placetype":"locality",

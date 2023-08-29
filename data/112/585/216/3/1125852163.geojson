@@ -34,6 +34,9 @@
     "name:fra_x_preferred":[
         "Snaaskerke"
     ],
+    "name:gle_x_preferred":[
+        "Snaaskerke"
+    ],
     "name:hun_x_preferred":[
         "Snaaskerke"
     ],
@@ -102,7 +105,7 @@
         }
     ],
     "wof:id":1125852163,
-    "wof:lastmodified":1566612203,
+    "wof:lastmodified":1690856860,
     "wof:name":"Snaaskerke",
     "wof:parent_id":1108830575,
     "wof:placetype":"locality",

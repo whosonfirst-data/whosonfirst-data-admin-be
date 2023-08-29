@@ -31,6 +31,9 @@
     "name:fra_x_preferred":[
         "Calonne"
     ],
+    "name:gle_x_preferred":[
+        "Calonne"
+    ],
     "name:hun_x_preferred":[
         "Calonne"
     ],
@@ -41,6 +44,9 @@
         "Calonne"
     ],
     "name:spa_x_preferred":[
+        "Calonne"
+    ],
+    "name:vls_x_preferred":[
         "Calonne"
     ],
     "name:wln_x_preferred":[
@@ -96,7 +102,7 @@
         }
     ],
     "wof:id":1125895207,
-    "wof:lastmodified":1566612104,
+    "wof:lastmodified":1690856768,
     "wof:name":"Calonne",
     "wof:parent_id":102049951,
     "wof:placetype":"locality",

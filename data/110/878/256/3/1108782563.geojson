@@ -63,6 +63,15 @@
     "name:afr_x_preferred":[
         "Tongeren"
     ],
+    "name:ara_x_preferred":[
+        "\u062a\u0648\u0646\u063a\u064a\u0631\u064a\u0646"
+    ],
+    "name:arz_x_preferred":[
+        "\u062a\u0648\u0646\u062c\u0631\u064a\u0646"
+    ],
+    "name:ast_x_preferred":[
+        "Tongeren"
+    ],
     "name:bel_x_preferred":[
         "\u0422\u043e\u043d\u0433\u0435\u0440\u044d\u043d"
     ],
@@ -183,6 +192,9 @@
     "name:tha_x_preferred":[
         "\u0e42\u0e15\u0e07\u0e40\u0e07\u0e2d\u0e40\u0e23\u0e34\u0e19"
     ],
+    "name:tur_x_preferred":[
+        "Tongeren"
+    ],
     "name:ukr_x_preferred":[
         "\u0422\u043e\u043d\u0433\u0435\u0440\u0435\u043d"
     ],
@@ -196,6 +208,9 @@
         "Tongeren"
     ],
     "name:war_x_preferred":[
+        "Tongeren"
+    ],
+    "name:zea_x_preferred":[
         "Tongeren"
     ],
     "name:zho_x_preferred":[
@@ -235,7 +250,7 @@
         "wd:id":"Q190113"
     },
     "wof:country":"BE",
-    "wof:geomhash":"d72a252ac0eff35935713e4163e288aa",
+    "wof:geomhash":"dae60af10c8beb5408e38f15ac423a04",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -246,7 +261,7 @@
         }
     ],
     "wof:id":1108782563,
-    "wof:lastmodified":1684351494,
+    "wof:lastmodified":1690856432,
     "wof:name":"Tongeren",
     "wof:parent_id":85681705,
     "wof:placetype":"county",

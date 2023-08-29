@@ -31,6 +31,9 @@
     "name:fra_x_preferred":[
         "Chapelle-Saint-Ulric"
     ],
+    "name:gle_x_preferred":[
+        "Sint-Ulriks-Kapelle"
+    ],
     "name:hun_x_preferred":[
         "Sint-Ulriks-Kapelle"
     ],
@@ -99,7 +102,7 @@
         }
     ],
     "wof:id":1126019903,
-    "wof:lastmodified":1566612171,
+    "wof:lastmodified":1690856820,
     "wof:name":"St.-Ulriks-Kapelle",
     "wof:parent_id":1108830207,
     "wof:placetype":"locality",

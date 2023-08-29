@@ -28,6 +28,9 @@
     "name:fra_x_preferred":[
         "Landskouter"
     ],
+    "name:gle_x_preferred":[
+        "Landskouter"
+    ],
     "name:hun_x_preferred":[
         "Landskouter"
     ],
@@ -91,7 +94,7 @@
         }
     ],
     "wof:id":1125877697,
-    "wof:lastmodified":1566612115,
+    "wof:lastmodified":1690856781,
     "wof:name":"Landskouter",
     "wof:parent_id":1108830191,
     "wof:placetype":"locality",

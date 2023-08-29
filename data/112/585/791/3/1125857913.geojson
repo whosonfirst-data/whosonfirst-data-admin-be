@@ -58,6 +58,9 @@
     "name:fra_x_preferred":[
         "Affligem"
     ],
+    "name:gle_x_preferred":[
+        "Affligem"
+    ],
     "name:hun_x_preferred":[
         "Affligem"
     ],
@@ -109,8 +112,14 @@
     "name:war_x_preferred":[
         "Affligem"
     ],
+    "name:zea_x_preferred":[
+        "Affligem"
+    ],
     "name:zho_x_preferred":[
         "\u963f\u592b\u5229\u8d6b\u59c6"
+    ],
+    "name:zho_x_variant":[
+        "\u963f\u592b\u5229\u6d77\u59c6"
     ],
     "qs_pg:aaroncc":"BE",
     "qs_pg:gn_country":"BE",
@@ -168,7 +177,7 @@
         }
     ],
     "wof:id":1125857913,
-    "wof:lastmodified":1566612202,
+    "wof:lastmodified":1690856859,
     "wof:name":"Affligem",
     "wof:parent_id":1108830109,
     "wof:placetype":"locality",

@@ -28,6 +28,9 @@
     "name:fra_x_preferred":[
         "Ooike"
     ],
+    "name:gle_x_preferred":[
+        "Ooike"
+    ],
     "name:hun_x_preferred":[
         "Ooike"
     ],
@@ -91,7 +94,7 @@
         }
     ],
     "wof:id":1126003069,
-    "wof:lastmodified":1566612181,
+    "wof:lastmodified":1690856835,
     "wof:name":"Ooike",
     "wof:parent_id":1108830419,
     "wof:placetype":"locality",

@@ -22,10 +22,19 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bar_x_preferred":[
+        "Bas-Oha"
+    ],
+    "name:deu_x_preferred":[
+        "Bas-Oha"
+    ],
     "name:eng_x_preferred":[
         "Bas-Oha"
     ],
     "name:fra_x_preferred":[
+        "Bas-Oha"
+    ],
+    "name:gle_x_preferred":[
         "Bas-Oha"
     ],
     "name:hun_x_preferred":[
@@ -89,7 +98,7 @@
         }
     ],
     "wof:id":1126005187,
-    "wof:lastmodified":1566612184,
+    "wof:lastmodified":1690856838,
     "wof:name":"Bas-Oha",
     "wof:parent_id":102049925,
     "wof:placetype":"locality",

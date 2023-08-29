@@ -22,10 +22,16 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Courri\u00e8re"
+    ],
     "name:eng_x_preferred":[
         "Courri\u00e8re"
     ],
     "name:fra_x_preferred":[
+        "Courri\u00e8re"
+    ],
+    "name:gle_x_preferred":[
         "Courri\u00e8re"
     ],
     "name:hun_x_preferred":[
@@ -92,7 +98,7 @@
         }
     ],
     "wof:id":1125900015,
-    "wof:lastmodified":1566612141,
+    "wof:lastmodified":1690856800,
     "wof:name":"Courri\u00e8re",
     "wof:parent_id":102049931,
     "wof:placetype":"locality",

@@ -28,6 +28,9 @@
     "name:fra_x_preferred":[
         "Drieslinter"
     ],
+    "name:gle_x_preferred":[
+        "Drieslinter"
+    ],
     "name:hun_x_preferred":[
         "Drieslinter"
     ],
@@ -93,7 +96,7 @@
         }
     ],
     "wof:id":1125979801,
-    "wof:lastmodified":1566612147,
+    "wof:lastmodified":1690856806,
     "wof:name":"Drieslinter",
     "wof:parent_id":1108830045,
     "wof:placetype":"locality",

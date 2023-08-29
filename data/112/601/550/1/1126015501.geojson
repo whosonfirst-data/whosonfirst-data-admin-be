@@ -28,6 +28,9 @@
     "name:fra_x_preferred":[
         "Nettinne"
     ],
+    "name:gle_x_preferred":[
+        "Nettinne"
+    ],
     "name:nld_x_preferred":[
         "Nettinne"
     ],
@@ -88,7 +91,7 @@
         }
     ],
     "wof:id":1126015501,
-    "wof:lastmodified":1566612171,
+    "wof:lastmodified":1690856820,
     "wof:name":"Nettinne",
     "wof:parent_id":102049919,
     "wof:placetype":"locality",

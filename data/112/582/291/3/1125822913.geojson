@@ -28,6 +28,9 @@
     "name:fra_x_preferred":[
         "Loonbeek"
     ],
+    "name:gle_x_preferred":[
+        "Loonbeek"
+    ],
     "name:hun_x_preferred":[
         "Loonbeek"
     ],
@@ -93,7 +96,7 @@
         }
     ],
     "wof:id":1125822913,
-    "wof:lastmodified":1566612197,
+    "wof:lastmodified":1690856853,
     "wof:name":"Loonbeek",
     "wof:parent_id":1108830025,
     "wof:placetype":"locality",

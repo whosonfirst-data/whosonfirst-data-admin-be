@@ -61,6 +61,9 @@
     "name:fra_x_preferred":[
         "Sainte-Ode"
     ],
+    "name:gle_x_preferred":[
+        "Sainte-Ode"
+    ],
     "name:heb_x_preferred":[
         "\u05e1\u05df-\u05d0\u05d5\u05d3\u05d4"
     ],
@@ -103,6 +106,9 @@
     "name:spa_x_preferred":[
         "Sainte-Ode"
     ],
+    "name:swe_x_preferred":[
+        "Sainte-Ode"
+    ],
     "name:und_x_variant":[
         "Saint-Ode"
     ],
@@ -116,6 +122,12 @@
         "Sainte-Ode"
     ],
     "name:war_x_preferred":[
+        "Sainte-Ode"
+    ],
+    "name:wln_x_preferred":[
+        "Sinte-Oude"
+    ],
+    "name:zea_x_preferred":[
         "Sainte-Ode"
     ],
     "name:zho_x_preferred":[
@@ -162,7 +174,7 @@
         }
     ],
     "wof:id":1125860167,
-    "wof:lastmodified":1566612081,
+    "wof:lastmodified":1690856743,
     "wof:name":"Sainte-Ode",
     "wof:parent_id":102049915,
     "wof:placetype":"locality",

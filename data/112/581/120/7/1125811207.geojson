@@ -22,6 +22,9 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "La Gleize"
+    ],
     "name:deu_x_preferred":[
         "La Gleize"
     ],
@@ -35,6 +38,9 @@
         "La Gleize"
     ],
     "name:fra_x_preferred":[
+        "La Gleize"
+    ],
+    "name:gle_x_preferred":[
         "La Gleize"
     ],
     "name:hun_x_preferred":[
@@ -51,6 +57,9 @@
     ],
     "name:urd_x_preferred":[
         "\u0644\u0627 \u06af\u0644\u06cc\u0632\u06cc"
+    ],
+    "name:wln_x_preferred":[
+        "Li Gl\u00e9jhe-dil\u00e9-Stoumont"
     ],
     "name:zho_x_preferred":[
         "\u62ff\u6208\u76e7"
@@ -109,7 +118,7 @@
         }
     ],
     "wof:id":1125811207,
-    "wof:lastmodified":1566612085,
+    "wof:lastmodified":1690856748,
     "wof:name":"La Gleize",
     "wof:parent_id":102049935,
     "wof:placetype":"locality",

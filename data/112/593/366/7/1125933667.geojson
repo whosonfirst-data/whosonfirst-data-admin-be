@@ -34,6 +34,9 @@
     "name:fra_x_preferred":[
         "Heffen"
     ],
+    "name:gle_x_preferred":[
+        "Heffen"
+    ],
     "name:hun_x_preferred":[
         "Heffen"
     ],
@@ -102,7 +105,7 @@
         }
     ],
     "wof:id":1125933667,
-    "wof:lastmodified":1566612020,
+    "wof:lastmodified":1690856683,
     "wof:name":"Heffen",
     "wof:parent_id":1108830407,
     "wof:placetype":"locality",

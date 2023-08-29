@@ -25,6 +25,9 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":14.0,
     "mz:tier_locality":3,
+    "name:cat_x_preferred":[
+        "Cointe"
+    ],
     "name:eng_x_preferred":[
         "Cointe"
     ],
@@ -76,7 +79,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1582345516,
+    "wof:lastmodified":1690856413,
     "wof:name":"Cointe",
     "wof:parent_id":101748083,
     "wof:placetype":"neighbourhood",

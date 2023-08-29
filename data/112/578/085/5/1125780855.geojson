@@ -28,6 +28,9 @@
     "name:fra_x_preferred":[
         "Westrem"
     ],
+    "name:gle_x_preferred":[
+        "Westrem"
+    ],
     "name:hun_x_preferred":[
         "Westrem"
     ],
@@ -86,7 +89,7 @@
         }
     ],
     "wof:id":1125780855,
-    "wof:lastmodified":1566612208,
+    "wof:lastmodified":1690856867,
     "wof:name":"Westrem",
     "wof:parent_id":1108830329,
     "wof:placetype":"locality",

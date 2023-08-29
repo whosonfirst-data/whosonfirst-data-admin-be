@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.000078,
     "geom:area_square_m":617885.778792,
-    "geom:bbox":"5.79803757684,50.4051279287,5.81561229476,50.4148443294",
+    "geom:bbox":"5.798038,50.405128,5.815612,50.414844",
     "geom:latitude":50.409972,
     "geom:longitude":5.806497,
     "gn:population":2970,
@@ -20,6 +20,18 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:afr_x_preferred":[
+        "Stoumont"
+    ],
+    "name:arg_x_preferred":[
+        "Stoumont"
+    ],
+    "name:ast_x_preferred":[
+        "Stoumont"
+    ],
+    "name:bar_x_preferred":[
+        "Stoumont"
+    ],
     "name:bre_x_preferred":[
         "Stoumont"
     ],
@@ -32,6 +44,18 @@
     "name:ceb_x_preferred":[
         "Stoumont"
     ],
+    "name:ces_x_preferred":[
+        "Stoumont"
+    ],
+    "name:cos_x_preferred":[
+        "Stoumont"
+    ],
+    "name:cym_x_preferred":[
+        "Stoumont"
+    ],
+    "name:dan_x_preferred":[
+        "Stoumont"
+    ],
     "name:deu_x_preferred":[
         "Stoumont"
     ],
@@ -39,6 +63,9 @@
         "Stoumont"
     ],
     "name:epo_x_preferred":[
+        "Stoumont"
+    ],
+    "name:est_x_preferred":[
         "Stoumont"
     ],
     "name:eus_x_preferred":[
@@ -53,13 +80,58 @@
     "name:fra_x_preferred":[
         "Stoumont"
     ],
+    "name:frp_x_preferred":[
+        "Stoumont"
+    ],
+    "name:fur_x_preferred":[
+        "Stoumont"
+    ],
+    "name:gla_x_preferred":[
+        "Stoumont"
+    ],
+    "name:gle_x_preferred":[
+        "Stoumont"
+    ],
+    "name:glg_x_preferred":[
+        "Stoumont"
+    ],
+    "name:gsw_x_preferred":[
+        "Stoumont"
+    ],
     "name:heb_x_preferred":[
         "\u05e1\u05d8\u05d5\u05de\u05d5\u05df"
+    ],
+    "name:hrv_x_preferred":[
+        "Stoumont"
     ],
     "name:hun_x_preferred":[
         "Stoumont"
     ],
+    "name:ido_x_preferred":[
+        "Stoumont"
+    ],
+    "name:ile_x_preferred":[
+        "Stoumont"
+    ],
+    "name:ina_x_preferred":[
+        "Stoumont"
+    ],
+    "name:ind_x_preferred":[
+        "Stoumont"
+    ],
+    "name:isl_x_preferred":[
+        "Stoumont"
+    ],
     "name:ita_x_preferred":[
+        "Stoumont"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b9\u30c8\u30a5\u30e2\u30f3"
+    ],
+    "name:kon_x_preferred":[
+        "Stoumont"
+    ],
+    "name:lij_x_preferred":[
         "Stoumont"
     ],
     "name:lim_x_preferred":[
@@ -68,7 +140,25 @@
     "name:ltz_x_preferred":[
         "Stoumont"
     ],
+    "name:min_x_preferred":[
+        "Stoumont"
+    ],
+    "name:mlg_x_preferred":[
+        "Stoumont"
+    ],
+    "name:msa_x_preferred":[
+        "Stoumont"
+    ],
+    "name:nap_x_preferred":[
+        "Stoumont"
+    ],
+    "name:nds_x_preferred":[
+        "Stoumont"
+    ],
     "name:nld_x_preferred":[
+        "Stoumont"
+    ],
+    "name:nno_x_preferred":[
         "Stoumont"
     ],
     "name:nob_x_preferred":[
@@ -77,7 +167,16 @@
     "name:nor_x_preferred":[
         "Stoumont"
     ],
+    "name:nrm_x_preferred":[
+        "Stoumont"
+    ],
     "name:oci_x_preferred":[
+        "Stoumont"
+    ],
+    "name:pcd_x_preferred":[
+        "Stoumont"
+    ],
+    "name:pms_x_preferred":[
         "Stoumont"
     ],
     "name:pol_x_preferred":[
@@ -86,16 +185,34 @@
     "name:por_x_preferred":[
         "Stoumont"
     ],
+    "name:roh_x_preferred":[
+        "Stoumont"
+    ],
     "name:ron_x_preferred":[
         "Stoumont"
     ],
     "name:rus_x_preferred":[
         "\u0421\u0442\u0443\u043c\u043e\u043d"
     ],
+    "name:scn_x_preferred":[
+        "Stoumont"
+    ],
+    "name:sco_x_preferred":[
+        "Stoumont"
+    ],
     "name:slk_x_preferred":[
         "Stoumont"
     ],
+    "name:slv_x_preferred":[
+        "Stoumont"
+    ],
     "name:spa_x_preferred":[
+        "Stoumont"
+    ],
+    "name:srd_x_preferred":[
+        "Stoumont"
+    ],
+    "name:swa_x_preferred":[
         "Stoumont"
     ],
     "name:swe_x_preferred":[
@@ -104,7 +221,13 @@
     "name:und_x_variant":[
         "Staumont"
     ],
+    "name:vec_x_preferred":[
+        "Stoumont"
+    ],
     "name:vie_x_preferred":[
+        "Stoumont"
+    ],
+    "name:vls_x_preferred":[
         "Stoumont"
     ],
     "name:vol_x_preferred":[
@@ -113,8 +236,20 @@
     "name:war_x_preferred":[
         "Stoumont"
     ],
+    "name:wln_x_preferred":[
+        "Stoumont"
+    ],
+    "name:wol_x_preferred":[
+        "Stoumont"
+    ],
+    "name:zea_x_preferred":[
+        "Stoumont"
+    ],
     "name:zho_x_preferred":[
         "\u65af\u56fe\u8499"
+    ],
+    "name:zul_x_preferred":[
+        "Stoumont"
     ],
     "qs:a0":"Belgi\u00eb#Belgique#Belgien",
     "qs:a1":"*Li\u00e8ge",
@@ -157,7 +292,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"7d57eca57fa86b9fb50a0655428e53fd",
+    "wof:geomhash":"d217f105621a926a85e071a48f2ff6c9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -169,7 +304,7 @@
         }
     ],
     "wof:id":101811437,
-    "wof:lastmodified":1582345552,
+    "wof:lastmodified":1690856523,
     "wof:name":"Stoumont",
     "wof:parent_id":102049935,
     "wof:placetype":"locality",
@@ -181,10 +316,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    5.79803757684203,
-    50.40512792870959,
-    5.8156122947575,
-    50.41484432944014
+    5.798038,
+    50.405128,
+    5.815612,
+    50.414844
 ],
-  "geometry": {"coordinates":[[[5.80076752934804,50.41484432944014],[5.80084735563031,50.41394698942008],[5.80646694691364,50.41415280789863],[5.80654666318884,50.41325546308542],[5.8107613064426,50.41340964291913],[5.81107981514845,50.40982024721046],[5.80967503747877,50.4097688756242],[5.80991395907824,50.40707682906447],[5.81553276795739,50.40728219873597],[5.8156122947575,50.40638484480098],[5.81420761488585,50.40633352930763],[5.81428716446862,50.40543617619346],[5.80585930333768,50.40512792870959],[5.80577959447578,50.40602527509543],[5.8043749342192,50.40597383918515],[5.80405595483853,50.4095632172407],[5.80265119119287,50.40951175963539],[5.80257141035702,50.41040910227701],[5.80116662296751,50.41035762634436],[5.80100699685698,50.41215230848132],[5.79819732429144,50.41204930050708],[5.79803757684203,50.41384397694793],[5.79944246483092,50.41389549178672],[5.799362611991,50.41479283068253],[5.80076752934804,50.41484432944014]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[5.800768,50.414844],[5.800847,50.413947],[5.806467,50.414153],[5.806547,50.413255],[5.810761,50.41341],[5.81108,50.40982],[5.809675,50.409769],[5.809914,50.407077],[5.815533,50.407282],[5.815612,50.406385],[5.814208,50.406334],[5.814287,50.405436],[5.805859,50.405128],[5.80578,50.406025],[5.804375,50.405974],[5.804056,50.409563],[5.802651,50.409512],[5.802571,50.410409],[5.801167,50.410358],[5.801007,50.412152],[5.798197,50.412049],[5.798038,50.413844],[5.799442,50.413895],[5.799363,50.414793],[5.800768,50.414844]]],"type":"Polygon"}
 }

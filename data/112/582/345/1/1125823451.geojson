@@ -28,6 +28,9 @@
     "name:fra_x_preferred":[
         "Beverst"
     ],
+    "name:gle_x_preferred":[
+        "Beverst"
+    ],
     "name:hun_x_preferred":[
         "Beverst"
     ],
@@ -94,7 +97,7 @@
         }
     ],
     "wof:id":1125823451,
-    "wof:lastmodified":1566612197,
+    "wof:lastmodified":1690856854,
     "wof:name":"Beverst",
     "wof:parent_id":1108830245,
     "wof:placetype":"locality",

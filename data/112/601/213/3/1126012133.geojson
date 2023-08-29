@@ -28,6 +28,9 @@
     "name:fra_x_preferred":[
         "Jesseren"
     ],
+    "name:gle_x_preferred":[
+        "Jesseren"
+    ],
     "name:hun_x_preferred":[
         "Jesseren"
     ],
@@ -91,7 +94,7 @@
         }
     ],
     "wof:id":1126012133,
-    "wof:lastmodified":1566612177,
+    "wof:lastmodified":1690856829,
     "wof:name":"Jesseren",
     "wof:parent_id":1108830359,
     "wof:placetype":"locality",

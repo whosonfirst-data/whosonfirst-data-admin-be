@@ -31,6 +31,9 @@
     "name:fra_x_preferred":[
         "Lacuisine"
     ],
+    "name:gle_x_preferred":[
+        "Lacuisine"
+    ],
     "name:hun_x_preferred":[
         "Lacuisine"
     ],
@@ -91,7 +94,7 @@
         }
     ],
     "wof:id":1126022293,
-    "wof:lastmodified":1566612045,
+    "wof:lastmodified":1690856700,
     "wof:name":"Lacuisine",
     "wof:parent_id":102049907,
     "wof:placetype":"locality",

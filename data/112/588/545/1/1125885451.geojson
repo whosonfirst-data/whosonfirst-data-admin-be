@@ -31,6 +31,9 @@
     "name:fra_x_preferred":[
         "Lanaye"
     ],
+    "name:gle_x_preferred":[
+        "Lanaye"
+    ],
     "name:hun_x_preferred":[
         "Lanaye"
     ],
@@ -97,7 +100,7 @@
         }
     ],
     "wof:id":1125885451,
-    "wof:lastmodified":1566612092,
+    "wof:lastmodified":1690856759,
     "wof:name":"Lanaye",
     "wof:parent_id":102049941,
     "wof:placetype":"locality",

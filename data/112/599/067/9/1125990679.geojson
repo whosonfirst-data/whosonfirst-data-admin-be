@@ -22,6 +22,9 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Bierwart"
+    ],
     "name:ceb_x_preferred":[
         "Bierwart"
     ],
@@ -29,6 +32,9 @@
         "Bierwart"
     ],
     "name:fra_x_preferred":[
+        "Bierwart"
+    ],
+    "name:gle_x_preferred":[
         "Bierwart"
     ],
     "name:ltz_x_preferred":[
@@ -98,7 +104,7 @@
         }
     ],
     "wof:id":1125990679,
-    "wof:lastmodified":1566612137,
+    "wof:lastmodified":1690856794,
     "wof:name":"Bierwart",
     "wof:parent_id":102049931,
     "wof:placetype":"locality",

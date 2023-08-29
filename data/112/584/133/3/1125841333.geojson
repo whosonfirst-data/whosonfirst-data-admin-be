@@ -112,6 +112,9 @@
     "name:wln_x_preferred":[
         "Fl\u00e9m\u00e5le"
     ],
+    "name:zea_x_preferred":[
+        "Fl\u00e9malle"
+    ],
     "name:zho_x_preferred":[
         "\u5f17\u83b1\u9a6c\u52d2"
     ],
@@ -167,7 +170,7 @@
         }
     ],
     "wof:id":1125841333,
-    "wof:lastmodified":1566612228,
+    "wof:lastmodified":1690856888,
     "wof:name":"Fl\u00e9malle",
     "wof:parent_id":102049941,
     "wof:placetype":"locality",

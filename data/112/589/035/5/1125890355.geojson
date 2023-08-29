@@ -28,6 +28,9 @@
     "name:fra_x_preferred":[
         "Attenrode-Wever"
     ],
+    "name:gle_x_preferred":[
+        "Attenrode-Wever"
+    ],
     "name:hun_x_preferred":[
         "Attenrode-Wever"
     ],
@@ -86,7 +89,7 @@
         }
     ],
     "wof:id":1125890355,
-    "wof:lastmodified":1566612106,
+    "wof:lastmodified":1690856771,
     "wof:name":"Attenrode",
     "wof:parent_id":1108830653,
     "wof:placetype":"locality",

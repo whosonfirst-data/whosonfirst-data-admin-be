@@ -31,6 +31,9 @@
     "name:fra_x_preferred":[
         "Montzen"
     ],
+    "name:gle_x_preferred":[
+        "Montzen"
+    ],
     "name:hun_x_preferred":[
         "Montzen"
     ],
@@ -97,7 +100,7 @@
         }
     ],
     "wof:id":1125811379,
-    "wof:lastmodified":1566612087,
+    "wof:lastmodified":1690856751,
     "wof:name":"Montzen",
     "wof:parent_id":102049935,
     "wof:placetype":"locality",

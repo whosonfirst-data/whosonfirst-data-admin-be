@@ -31,6 +31,9 @@
     "name:fra_x_preferred":[
         "Waha"
     ],
+    "name:gle_x_preferred":[
+        "Waha"
+    ],
     "name:hun_x_preferred":[
         "Waha"
     ],
@@ -98,7 +101,7 @@
         }
     ],
     "wof:id":1125997863,
-    "wof:lastmodified":1566612137,
+    "wof:lastmodified":1690856794,
     "wof:name":"Waha",
     "wof:parent_id":102049921,
     "wof:placetype":"locality",

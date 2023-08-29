@@ -34,6 +34,9 @@
     "name:fra_x_preferred":[
         "Gembes"
     ],
+    "name:gle_x_preferred":[
+        "Gembes"
+    ],
     "name:hun_x_preferred":[
         "Gembes"
     ],
@@ -42,6 +45,9 @@
     ],
     "name:swe_x_preferred":[
         "Gembes"
+    ],
+    "name:vec_x_preferred":[
+        "Fiume Gembes"
     ],
     "name:wln_x_preferred":[
         "Djimbe"
@@ -98,7 +104,7 @@
         }
     ],
     "wof:id":1125931029,
-    "wof:lastmodified":1566612019,
+    "wof:lastmodified":1690856681,
     "wof:name":"Gembes",
     "wof:parent_id":102049913,
     "wof:placetype":"locality",

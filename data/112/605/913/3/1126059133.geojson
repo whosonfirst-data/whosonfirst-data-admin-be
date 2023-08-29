@@ -22,7 +22,13 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:deu_x_preferred":[
+        "Wippelgem"
+    ],
     "name:eng_x_preferred":[
+        "Wippelgem"
+    ],
+    "name:fra_x_preferred":[
         "Wippelgem"
     ],
     "name:nld_x_preferred":[
@@ -88,7 +94,7 @@
         }
     ],
     "wof:id":1126059133,
-    "wof:lastmodified":1566612055,
+    "wof:lastmodified":1690856714,
     "wof:name":"Wippelgem",
     "wof:parent_id":1108830413,
     "wof:placetype":"locality",

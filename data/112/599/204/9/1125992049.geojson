@@ -37,6 +37,9 @@
     "name:fra_x_preferred":[
         "Lippelo"
     ],
+    "name:gle_x_preferred":[
+        "Lippelo"
+    ],
     "name:hun_x_preferred":[
         "Lippelo"
     ],
@@ -48,6 +51,9 @@
     ],
     "name:und_x_variant":[
         "Lippeloo"
+    ],
+    "name:zho_x_preferred":[
+        "\u5229\u73c0\u6d1b"
     ],
     "qs_pg:aaroncc":"BE",
     "qs_pg:gn_country":"BE",
@@ -101,7 +107,7 @@
         }
     ],
     "wof:id":1125992049,
-    "wof:lastmodified":1566612132,
+    "wof:lastmodified":1690856787,
     "wof:name":"Lippelo",
     "wof:parent_id":1108830145,
     "wof:placetype":"locality",

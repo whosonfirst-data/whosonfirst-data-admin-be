@@ -28,6 +28,9 @@
     "name:fra_x_preferred":[
         "Wilderen"
     ],
+    "name:gle_x_preferred":[
+        "Wilderen"
+    ],
     "name:hun_x_preferred":[
         "Wilderen"
     ],
@@ -91,7 +94,7 @@
         }
     ],
     "wof:id":1125895577,
-    "wof:lastmodified":1566612100,
+    "wof:lastmodified":1690856764,
     "wof:name":"Wilderen",
     "wof:parent_id":1108830223,
     "wof:placetype":"locality",

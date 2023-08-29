@@ -52,6 +52,9 @@
     "name:fra_x_preferred":[
         "Roosdaal"
     ],
+    "name:gle_x_preferred":[
+        "Roosdaal"
+    ],
     "name:hun_x_preferred":[
         "Roosdaal"
     ],
@@ -102,6 +105,9 @@
     ],
     "name:war_x_preferred":[
         "Roosdaal"
+    ],
+    "name:zea_x_preferred":[
+        "Ro\u00f4sdaol"
     ],
     "name:zho_x_preferred":[
         "\u7f57\u65af\u8fbe\u5c14"
@@ -162,7 +168,7 @@
         }
     ],
     "wof:id":1125809999,
-    "wof:lastmodified":1566612109,
+    "wof:lastmodified":1690856774,
     "wof:name":"Roosdaal",
     "wof:parent_id":1108830261,
     "wof:placetype":"locality",

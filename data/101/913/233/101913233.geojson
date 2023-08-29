@@ -6,9 +6,9 @@
     "edtf:inception":"uuuu",
     "geom:area":0.000229,
     "geom:area_square_m":1786393.59543,
-    "geom:bbox":"4.49127943335,50.7939802835,4.53613304078,50.8028018837",
+    "geom:bbox":"4.491279,50.79398,4.536133,50.802802",
     "geom:latitude":50.798216,
-    "geom:longitude":4.517121,
+    "geom:longitude":4.517122,
     "iso:country":"BE",
     "lbl:latitude":50.797899,
     "lbl:longitude":4.52052,
@@ -28,6 +28,9 @@
     "name:amh_x_preferred":[
         "\u1265\u1229\u12ad\u1234\u120d"
     ],
+    "name:ara_x_preferred":[
+        "\u0628\u0631\u0648\u0643\u0633\u0644"
+    ],
     "name:arc_x_preferred":[
         "\u0712\u072a\u0718\u071f\u0723\u0720"
     ],
@@ -40,17 +43,26 @@
     "name:bam_x_preferred":[
         "Brussels"
     ],
+    "name:ban_x_preferred":[
+        "Brussel"
+    ],
     "name:bcl_x_preferred":[
         "Brussels"
     ],
     "name:ben_x_preferred":[
         "\u09ac\u09cd\u09b0\u09be\u09b8\u09c7\u09b2\u09cd\u200c\u09b8"
     ],
+    "name:bho_x_preferred":[
+        "\u092c\u094d\u0930\u0938\u0947\u0932\u094d\u0938"
+    ],
     "name:bod_x_preferred":[
         "\u0f54\u0f74\u0f60\u0f74\u0f0b\u0f63\u0f74\u0f60\u0f74\u0f0b\u0f66\u0f7a\u0f63\u200b\u0f0d"
     ],
     "name:bre_x_preferred":[
         "Rannvro Brusel-K\u00earbenn"
+    ],
+    "name:bul_x_preferred":[
+        "\u0411\u0440\u044e\u043a\u0441\u0435\u043b"
     ],
     "name:bxr_x_preferred":[
         "\u0411\u0440\u044e\u0441\u0441\u0435\u043b\u044c"
@@ -157,6 +169,9 @@
     "name:jpn_x_preferred":[
         "\u30d6\u30ea\u30e5\u30c3\u30bb\u30eb\u9996\u90fd\u570f\u5730\u57df"
     ],
+    "name:jpn_x_variant":[
+        "\u30d6\u30ea\u30e5\u30c3\u30bb\u30eb"
+    ],
     "name:kan_x_preferred":[
         "\u0cac\u0ccd\u0cb0\u0cb8\u0cc6\u0cb2\u0ccd\u0cb8\u0ccd"
     ],
@@ -232,6 +247,9 @@
     "name:nno_x_preferred":[
         "Brussel#Region"
     ],
+    "name:nno_x_variant":[
+        "Hovudstadsregionen Brussel"
+    ],
     "name:nob_x_preferred":[
         "Brussel"
     ],
@@ -243,6 +261,9 @@
     ],
     "name:pan_x_preferred":[
         "\u0a2c\u0a30\u0a42\u0a38\u0a32"
+    ],
+    "name:pcd_x_preferred":[
+        "Brusselle"
     ],
     "name:pih_x_preferred":[
         "Brussels"
@@ -262,7 +283,16 @@
     "name:sco_x_preferred":[
         "Brussels"
     ],
+    "name:sco_x_variant":[
+        "Brussels-Caipital Region"
+    ],
+    "name:sin_x_preferred":[
+        "\u0db6\u0dca\u200d\u0dbb\u0dc3\u0dbd\u0dca\u0dc3\u0dca-\u0d9a\u0dd0\u0db4\u0dd2\u0da7\u0dbd\u0dca \u0d9a\u0dbd\u0dcf\u0db4\u0dba"
+    ],
     "name:sme_x_preferred":[
+        "Bryssel"
+    ],
+    "name:smn_x_preferred":[
         "Bryssel"
     ],
     "name:sna_x_preferred":[
@@ -282,6 +312,9 @@
     ],
     "name:swe_x_preferred":[
         "Bryssel-regionen"
+    ],
+    "name:swe_x_variant":[
+        "Brysselregionen"
     ],
     "name:szl_x_preferred":[
         "Bruksela"
@@ -334,6 +367,9 @@
     "name:zho_x_preferred":[
         "\u5e03\u9c81\u585e\u5c14-\u9996\u90fd\u5927\u533a"
     ],
+    "name:zho_x_variant":[
+        "\u5e03\u9c81\u585e\u5c14\u9996\u90fd\u5927\u533a"
+    ],
     "qs:a0":"Belgi\u00eb#Belgique#Belgien",
     "qs:a1":"*Vlaams Brabant",
     "qs:a1r":"0Vlaams Gewest",
@@ -365,7 +401,7 @@
         "wd:id":"Q240"
     },
     "wof:country":"BE",
-    "wof:geomhash":"463b97e8f81230594e305785c5f71f9c",
+    "wof:geomhash":"09a19a3649f0d5d9881bbf6ad24a82f0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -378,7 +414,7 @@
         }
     ],
     "wof:id":101913233,
-    "wof:lastmodified":1566611901,
+    "wof:lastmodified":1690856569,
     "wof:name":"Brussel",
     "wof:parent_id":1108830581,
     "wof:placetype":"locality",
@@ -388,10 +424,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    4.49127943334599,
-    50.79398028347151,
-    4.53613304077743,
-    50.80280188366015
+    4.491279,
+    50.79398,
+    4.536133,
+    50.802802
 ],
-  "geometry": {"coordinates":[[[4.53613304077743,50.79669648692322],[4.53506348015424,50.79664579470244],[4.53516860535274,50.79574973280438],[4.53092365644835,50.79554843744228],[4.53102885751008,50.79465237965377],[4.51687954049248,50.79398028347151],[4.51666859417713,50.79577236906295],[4.51525362915305,50.79570506116266],[4.51514812148787,50.79660110197563],[4.51231814876735,50.79646643121447],[4.51221258214844,50.79736246872426],[4.50513758119996,50.79702548110907],[4.50534897898279,50.79523342062521],[4.50110418521405,50.7950310290222],[4.50099840797463,50.7959270549656],[4.49392369208027,50.79558938159471],[4.49381777501173,50.79648539975591],[4.49240281616085,50.79641781160285],[4.49229686708094,50.79731382794006],[4.49127943334599,50.79726520928523],[4.49229103322756,50.79895120908753],[4.50615346168939,50.80010641145952],[4.52771723929652,50.80241681620299],[4.5346484535275,50.80280188366015],[4.53387831861289,50.80049147891674],[4.53387831861289,50.79895120908753],[4.53613304077743,50.79669648692322]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[4.536133,50.796696],[4.535063,50.796646],[4.535169,50.79575],[4.530924,50.795548],[4.531029,50.794652],[4.51688,50.79398],[4.516669,50.795772],[4.515254,50.795705],[4.515148,50.796601],[4.512318,50.796466],[4.512213,50.797362],[4.505138,50.797025],[4.505349,50.795233],[4.501104,50.795031],[4.500998,50.795927],[4.493924,50.795589],[4.493818,50.796485],[4.492403,50.796418],[4.492297,50.797314],[4.491279,50.797265],[4.492291,50.798951],[4.506153,50.800106],[4.527717,50.802417],[4.534648,50.802802],[4.533878,50.800491],[4.533878,50.798951],[4.536133,50.796696]]],"type":"Polygon"}
 }

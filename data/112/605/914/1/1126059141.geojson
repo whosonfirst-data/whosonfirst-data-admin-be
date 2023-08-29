@@ -34,6 +34,9 @@
     "name:fra_x_preferred":[
         "Woumen"
     ],
+    "name:gle_x_preferred":[
+        "Woumen"
+    ],
     "name:hun_x_preferred":[
         "Woumen"
     ],
@@ -103,7 +106,7 @@
         }
     ],
     "wof:id":1126059141,
-    "wof:lastmodified":1566612055,
+    "wof:lastmodified":1690856715,
     "wof:name":"Woumen",
     "wof:parent_id":1108830401,
     "wof:placetype":"locality",

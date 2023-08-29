@@ -37,6 +37,9 @@
     "name:fra_x_preferred":[
         "Geluveld"
     ],
+    "name:gle_x_preferred":[
+        "Geluveld"
+    ],
     "name:hun_x_preferred":[
         "Geluveld"
     ],
@@ -103,7 +106,7 @@
         }
     ],
     "wof:id":1126029229,
-    "wof:lastmodified":1566612046,
+    "wof:lastmodified":1690856702,
     "wof:name":"Geluveld",
     "wof:parent_id":1108830101,
     "wof:placetype":"locality",

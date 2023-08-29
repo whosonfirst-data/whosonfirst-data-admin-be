@@ -28,6 +28,9 @@
     "name:fra_x_preferred":[
         "Lovenjoel"
     ],
+    "name:gle_x_preferred":[
+        "Lovenjoel"
+    ],
     "name:hun_x_preferred":[
         "Lovenjoel"
     ],
@@ -93,7 +96,7 @@
         }
     ],
     "wof:id":1126041131,
-    "wof:lastmodified":1566612068,
+    "wof:lastmodified":1690856730,
     "wof:name":"Lovenjoel",
     "wof:parent_id":1108830409,
     "wof:placetype":"locality",

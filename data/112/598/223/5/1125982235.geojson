@@ -22,10 +22,16 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Seraing-le-Ch\u00e2teau"
+    ],
     "name:eng_x_preferred":[
         "Seraing-le-Ch\u00e2teau"
     ],
     "name:fra_x_preferred":[
+        "Seraing-le-Ch\u00e2teau"
+    ],
+    "name:gle_x_preferred":[
         "Seraing-le-Ch\u00e2teau"
     ],
     "name:nld_x_preferred":[
@@ -85,7 +91,7 @@
         }
     ],
     "wof:id":1125982235,
-    "wof:lastmodified":1566612166,
+    "wof:lastmodified":1690856817,
     "wof:name":"Seraing-le-Ch\u00e2teau",
     "wof:parent_id":102049925,
     "wof:placetype":"locality",

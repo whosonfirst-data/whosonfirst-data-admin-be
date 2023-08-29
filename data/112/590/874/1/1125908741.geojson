@@ -22,10 +22,16 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Sautour"
+    ],
     "name:eng_x_preferred":[
         "Sautour"
     ],
     "name:fra_x_preferred":[
+        "Sautour"
+    ],
+    "name:gle_x_preferred":[
         "Sautour"
     ],
     "name:nld_x_preferred":[
@@ -88,7 +94,7 @@
         }
     ],
     "wof:id":1125908741,
-    "wof:lastmodified":1566612139,
+    "wof:lastmodified":1690856798,
     "wof:name":"Sautour",
     "wof:parent_id":102049917,
     "wof:placetype":"locality",

@@ -28,8 +28,17 @@
     "name:fra_x_preferred":[
         "Jodoigne-Souveraine"
     ],
+    "name:gle_x_preferred":[
+        "Jodoigne-Souveraine"
+    ],
+    "name:lat_x_preferred":[
+        "Jeldonia superiore"
+    ],
     "name:nld_x_preferred":[
         "Opgeldenaken"
+    ],
+    "name:wln_x_preferred":[
+        "Djodogne Sovrinne"
     ],
     "qs_pg:aaroncc":"BE",
     "qs_pg:gn_country":"BE",
@@ -83,7 +92,7 @@
         }
     ],
     "wof:id":1125832877,
-    "wof:lastmodified":1566612254,
+    "wof:lastmodified":1690856923,
     "wof:name":"Jodoigne-Souveraine",
     "wof:parent_id":102049945,
     "wof:placetype":"locality",

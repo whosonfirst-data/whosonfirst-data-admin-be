@@ -22,6 +22,9 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Sint-Maria-Oudenhove"
+    ],
     "name:ceb_x_preferred":[
         "Sint-Maria-Oudenhove"
     ],
@@ -30,6 +33,9 @@
     ],
     "name:fra_x_preferred":[
         "Audenhove-Sainte-Marie"
+    ],
+    "name:gle_x_preferred":[
+        "Sint-Maria-Oudenhove"
     ],
     "name:hun_x_preferred":[
         "Sint-Maria-Oudenhove"
@@ -92,7 +98,7 @@
         }
     ],
     "wof:id":1126053501,
-    "wof:lastmodified":1566612056,
+    "wof:lastmodified":1690856715,
     "wof:name":"St.-Maria-Oudenhove",
     "wof:parent_id":1108830019,
     "wof:placetype":"locality",

@@ -28,6 +28,9 @@
     "name:fra_x_preferred":[
         "Walem"
     ],
+    "name:gle_x_preferred":[
+        "Walem"
+    ],
     "name:hun_x_preferred":[
         "Walem"
     ],
@@ -93,7 +96,7 @@
         }
     ],
     "wof:id":1126035473,
-    "wof:lastmodified":1566612072,
+    "wof:lastmodified":1690856736,
     "wof:name":"Walem",
     "wof:parent_id":1108830407,
     "wof:placetype":"locality",

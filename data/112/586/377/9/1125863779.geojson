@@ -22,6 +22,9 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Cul-des-Sarts"
+    ],
     "name:eng_x_preferred":[
         "Cul-des-Sarts"
     ],
@@ -89,7 +92,7 @@
         }
     ],
     "wof:id":1125863779,
-    "wof:lastmodified":1566612079,
+    "wof:lastmodified":1690856740,
     "wof:name":"Cul-des-Sarts",
     "wof:parent_id":102049917,
     "wof:placetype":"locality",

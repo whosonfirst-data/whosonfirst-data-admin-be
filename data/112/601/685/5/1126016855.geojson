@@ -55,6 +55,12 @@
     "name:fra_x_preferred":[
         "De Pinte"
     ],
+    "name:fra_x_variant":[
+        "La Pinte"
+    ],
+    "name:gle_x_preferred":[
+        "De Pinte"
+    ],
     "name:hun_x_preferred":[
         "De Pinte"
     ],
@@ -163,7 +169,7 @@
         }
     ],
     "wof:id":1126016855,
-    "wof:lastmodified":1566612176,
+    "wof:lastmodified":1690856828,
     "wof:name":"La Pinte",
     "wof:parent_id":1108830643,
     "wof:placetype":"locality",

@@ -124,6 +124,9 @@
     "name:ita_x_preferred":[
         "Trois-Ponts"
     ],
+    "name:jpn_x_preferred":[
+        "\u30c8\u30ed\u30ef\u30fb\u30dd\u30f3"
+    ],
     "name:kon_x_preferred":[
         "Trois-Ponts"
     ],
@@ -211,6 +214,9 @@
     "name:swe_x_preferred":[
         "Trois-Ponts"
     ],
+    "name:ukr_x_preferred":[
+        "\u0422\u0440\u0443\u0430-\u041f\u043e\u043d"
+    ],
     "name:vec_x_preferred":[
         "Trois-Ponts"
     ],
@@ -230,6 +236,9 @@
         "Trois-Ponts"
     ],
     "name:wol_x_preferred":[
+        "Trois-Ponts"
+    ],
+    "name:zea_x_preferred":[
         "Trois-Ponts"
     ],
     "name:zho_x_preferred":[
@@ -293,7 +302,7 @@
         }
     ],
     "wof:id":1125889999,
-    "wof:lastmodified":1566612090,
+    "wof:lastmodified":1690856755,
     "wof:name":"Trois Ponts",
     "wof:parent_id":102049935,
     "wof:placetype":"locality",

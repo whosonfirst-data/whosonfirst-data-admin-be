@@ -25,6 +25,9 @@
     "name:bul_x_preferred":[
         "\u0422\u0445\u0438\u0435\u0443\u0441\u0438\u0435\u0441"
     ],
+    "name:cat_x_preferred":[
+        "Thieusies"
+    ],
     "name:ceb_x_preferred":[
         "Thieusies"
     ],
@@ -32,6 +35,9 @@
         "Thieusies"
     ],
     "name:fra_x_preferred":[
+        "Thieusies"
+    ],
+    "name:gle_x_preferred":[
         "Thieusies"
     ],
     "name:hun_x_preferred":[
@@ -100,7 +106,7 @@
         }
     ],
     "wof:id":1125958387,
-    "wof:lastmodified":1566612033,
+    "wof:lastmodified":1690856696,
     "wof:name":"Thieusies",
     "wof:parent_id":102049943,
     "wof:placetype":"locality",

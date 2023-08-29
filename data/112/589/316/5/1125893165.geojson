@@ -34,6 +34,12 @@
     "name:fra_x_preferred":[
         "Zerkegem"
     ],
+    "name:fra_x_variant":[
+        "Zerkeghem"
+    ],
+    "name:gle_x_preferred":[
+        "Zerkegem"
+    ],
     "name:hun_x_preferred":[
         "Zerkegem"
     ],
@@ -103,7 +109,7 @@
         }
     ],
     "wof:id":1125893165,
-    "wof:lastmodified":1566612106,
+    "wof:lastmodified":1690856771,
     "wof:name":"Zerkegem",
     "wof:parent_id":1108830157,
     "wof:placetype":"locality",

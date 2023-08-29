@@ -22,13 +22,25 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Tildonk"
+    ],
     "name:eng_x_preferred":[
         "Tildonk"
+    ],
+    "name:eng_x_variant":[
+        "JR Tildonk"
     ],
     "name:fas_x_preferred":[
         "\u062a\u06cc\u0644\u062f\u0648\u0646\u06a9"
     ],
     "name:fra_x_preferred":[
+        "Tildonk"
+    ],
+    "name:fra_x_variant":[
+        "Thildonck"
+    ],
+    "name:ita_x_preferred":[
         "Tildonk"
     ],
     "name:nld_x_preferred":[
@@ -93,7 +105,7 @@
         }
     ],
     "wof:id":1125811715,
-    "wof:lastmodified":1566612089,
+    "wof:lastmodified":1690856754,
     "wof:name":"Tildonk",
     "wof:parent_id":1108830175,
     "wof:placetype":"locality",

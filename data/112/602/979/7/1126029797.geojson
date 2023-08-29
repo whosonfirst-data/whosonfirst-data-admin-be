@@ -31,6 +31,9 @@
     "name:fra_x_preferred":[
         "Ettelgem"
     ],
+    "name:gle_x_preferred":[
+        "Ettelgem"
+    ],
     "name:hun_x_preferred":[
         "Ettelgem"
     ],
@@ -97,7 +100,7 @@
         }
     ],
     "wof:id":1126029797,
-    "wof:lastmodified":1566612046,
+    "wof:lastmodified":1690856701,
     "wof:name":"Ettelgem",
     "wof:parent_id":1108830363,
     "wof:placetype":"locality",

@@ -25,6 +25,12 @@
     "name:bre_x_preferred":[
         "Stavele"
     ],
+    "name:dan_x_preferred":[
+        "Stavele"
+    ],
+    "name:deu_x_preferred":[
+        "Stavele"
+    ],
     "name:eng_x_preferred":[
         "Stavele"
     ],
@@ -34,10 +40,16 @@
     "name:fra_x_preferred":[
         "Stavele"
     ],
+    "name:gle_x_preferred":[
+        "Stavele"
+    ],
     "name:hun_x_preferred":[
         "Stavele"
     ],
     "name:nld_x_preferred":[
+        "Stavele"
+    ],
+    "name:pol_x_preferred":[
         "Stavele"
     ],
     "name:vls_x_preferred":[
@@ -99,7 +111,7 @@
         }
     ],
     "wof:id":1126047309,
-    "wof:lastmodified":1566612061,
+    "wof:lastmodified":1690856722,
     "wof:name":"Stavele",
     "wof:parent_id":1108830587,
     "wof:placetype":"locality",

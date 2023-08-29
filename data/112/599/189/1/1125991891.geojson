@@ -28,6 +28,9 @@
     "name:fra_x_preferred":[
         "Buvingen"
     ],
+    "name:gle_x_preferred":[
+        "Buvingen"
+    ],
     "name:hun_x_preferred":[
         "Buvingen"
     ],
@@ -86,7 +89,7 @@
         }
     ],
     "wof:id":1125991891,
-    "wof:lastmodified":1566612133,
+    "wof:lastmodified":1690856789,
     "wof:name":"Buvingen",
     "wof:parent_id":1108830599,
     "wof:placetype":"locality",

@@ -28,6 +28,9 @@
     "name:fra_x_preferred":[
         "Melkwezer"
     ],
+    "name:gle_x_preferred":[
+        "Melkwezer"
+    ],
     "name:hun_x_preferred":[
         "Melkwezer"
     ],
@@ -91,7 +94,7 @@
         }
     ],
     "wof:id":1126031577,
-    "wof:lastmodified":1566612069,
+    "wof:lastmodified":1690856732,
     "wof:name":"Melkwezer",
     "wof:parent_id":1108830045,
     "wof:placetype":"locality",

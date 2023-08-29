@@ -31,6 +31,9 @@
     "name:fra_x_preferred":[
         "Neufch\u00e2teau"
     ],
+    "name:gle_x_preferred":[
+        "Neufch\u00e2teau"
+    ],
     "name:hun_x_preferred":[
         "Neufch\u00e2teau"
     ],
@@ -100,7 +103,7 @@
         }
     ],
     "wof:id":1125977343,
-    "wof:lastmodified":1566612145,
+    "wof:lastmodified":1690856805,
     "wof:name":"Neufch\u00e2teau",
     "wof:parent_id":102049941,
     "wof:placetype":"locality",

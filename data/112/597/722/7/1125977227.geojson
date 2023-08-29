@@ -22,10 +22,16 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Hachy"
+    ],
     "name:eng_x_preferred":[
         "Hachy"
     ],
     "name:fra_x_preferred":[
+        "Hachy"
+    ],
+    "name:gle_x_preferred":[
         "Hachy"
     ],
     "name:hun_x_preferred":[
@@ -33,6 +39,9 @@
     ],
     "name:ltz_x_preferred":[
         "Hachy"
+    ],
+    "name:ltz_x_variant":[
+        "H\u00e4erzeg"
     ],
     "name:nld_x_preferred":[
         "Hachy"
@@ -94,7 +103,7 @@
         }
     ],
     "wof:id":1125977227,
-    "wof:lastmodified":1566612145,
+    "wof:lastmodified":1690856804,
     "wof:name":"Hachy",
     "wof:parent_id":102049907,
     "wof:placetype":"locality",

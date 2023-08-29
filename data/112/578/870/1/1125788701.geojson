@@ -22,6 +22,9 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Matagne-la-Petite"
+    ],
     "name:dan_x_preferred":[
         "Matagne-la-Petite"
     ],
@@ -32,6 +35,9 @@
         "Matagne-la-Petite"
     ],
     "name:fra_x_preferred":[
+        "Matagne-la-Petite"
+    ],
+    "name:gle_x_preferred":[
         "Matagne-la-Petite"
     ],
     "name:nld_x_preferred":[
@@ -95,7 +101,7 @@
         }
     ],
     "wof:id":1125788701,
-    "wof:lastmodified":1566612211,
+    "wof:lastmodified":1690856871,
     "wof:name":"Matagne-la-Petite",
     "wof:parent_id":102049917,
     "wof:placetype":"locality",

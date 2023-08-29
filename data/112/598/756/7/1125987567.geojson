@@ -28,6 +28,9 @@
     "name:fra_x_preferred":[
         "Massenhoven"
     ],
+    "name:gle_x_preferred":[
+        "Massenhoven"
+    ],
     "name:hun_x_preferred":[
         "Massenhoven"
     ],
@@ -91,7 +94,7 @@
         }
     ],
     "wof:id":1125987567,
-    "wof:lastmodified":1566612166,
+    "wof:lastmodified":1690856817,
     "wof:name":"Massenhoven",
     "wof:parent_id":1108830405,
     "wof:placetype":"locality",

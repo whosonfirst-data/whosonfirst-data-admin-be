@@ -28,6 +28,9 @@
     "name:fra_x_preferred":[
         "Ophasselt"
     ],
+    "name:gle_x_preferred":[
+        "Ophasselt"
+    ],
     "name:hun_x_preferred":[
         "Ophasselt"
     ],
@@ -86,7 +89,7 @@
         }
     ],
     "wof:id":1125779545,
-    "wof:lastmodified":1566612232,
+    "wof:lastmodified":1690856892,
     "wof:name":"Ophasselt",
     "wof:parent_id":1108830521,
     "wof:placetype":"locality",

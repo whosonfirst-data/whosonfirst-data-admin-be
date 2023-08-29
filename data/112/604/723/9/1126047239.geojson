@@ -31,6 +31,9 @@
     "name:fra_x_preferred":[
         "Membre"
     ],
+    "name:gle_x_preferred":[
+        "Membre"
+    ],
     "name:hun_x_preferred":[
         "Membre"
     ],
@@ -100,7 +103,7 @@
         }
     ],
     "wof:id":1126047239,
-    "wof:lastmodified":1566612064,
+    "wof:lastmodified":1690856725,
     "wof:name":"Membre",
     "wof:parent_id":102049919,
     "wof:placetype":"locality",

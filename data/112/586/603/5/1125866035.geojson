@@ -31,10 +31,19 @@
     "name:fra_x_preferred":[
         "Hollain"
     ],
+    "name:gle_x_preferred":[
+        "Hollain"
+    ],
     "name:hun_x_preferred":[
         "Hollain"
     ],
+    "name:lat_x_preferred":[
+        "Holinium"
+    ],
     "name:nld_x_preferred":[
+        "Hollain"
+    ],
+    "name:vls_x_preferred":[
         "Hollain"
     ],
     "qs_pg:aaroncc":"BE",
@@ -87,7 +96,7 @@
         }
     ],
     "wof:id":1125866035,
-    "wof:lastmodified":1566612078,
+    "wof:lastmodified":1690856739,
     "wof:name":"Hollain",
     "wof:parent_id":102049951,
     "wof:placetype":"locality",

@@ -43,6 +43,9 @@
     "name:fra_x_preferred":[
         "Werchter"
     ],
+    "name:gle_x_preferred":[
+        "Werchter"
+    ],
     "name:hun_x_preferred":[
         "Werchter"
     ],
@@ -126,7 +129,7 @@
         }
     ],
     "wof:id":1125936703,
-    "wof:lastmodified":1566612021,
+    "wof:lastmodified":1690856684,
     "wof:name":"Werchter",
     "wof:parent_id":1108830325,
     "wof:placetype":"locality",

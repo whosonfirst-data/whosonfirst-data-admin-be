@@ -31,6 +31,9 @@
     "name:fra_x_preferred":[
         "Mullem"
     ],
+    "name:gle_x_preferred":[
+        "Mullem"
+    ],
     "name:hun_x_preferred":[
         "Mullem"
     ],
@@ -93,7 +96,7 @@
         }
     ],
     "wof:id":1125887765,
-    "wof:lastmodified":1566612092,
+    "wof:lastmodified":1690856758,
     "wof:name":"Mullem",
     "wof:parent_id":1108830311,
     "wof:placetype":"locality",

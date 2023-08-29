@@ -72,6 +72,12 @@
     "name:ast_x_preferred":[
         "Provincia d'Amberes"
     ],
+    "name:aze_x_preferred":[
+        "Antverpen"
+    ],
+    "name:ban_x_preferred":[
+        "Propinsi Antwerpen"
+    ],
     "name:bel_x_preferred":[
         "\u043f\u0440\u0430\u0432\u0456\u043d\u0446\u044b\u044f \u0410\u043d\u0442\u0432\u0435\u0440\u043f\u0435\u043d"
     ],
@@ -105,6 +111,9 @@
     "name:deu_x_preferred":[
         "Antwerpen"
     ],
+    "name:deu_x_variant":[
+        "Provinz Antwerpen"
+    ],
     "name:ell_x_preferred":[
         "\u0391\u03bc\u03b2\u03ad\u03c1\u03c3\u03b1"
     ],
@@ -129,8 +138,14 @@
     "name:fin_x_preferred":[
         "Antwerpenin l\u00e4\u00e4ni"
     ],
+    "name:fin_x_variant":[
+        "Antwerpenin provinssi"
+    ],
     "name:fra_x_preferred":[
         "Anvers"
+    ],
+    "name:fra_x_variant":[
+        "Province d'Anvers"
     ],
     "name:frr_x_preferred":[
         "Antwerpen"
@@ -138,11 +153,17 @@
     "name:fry_x_preferred":[
         "Antwerpen"
     ],
+    "name:gle_x_preferred":[
+        "C\u00faige Antuairp"
+    ],
     "name:glg_x_preferred":[
         "Provincia de Antwerp"
     ],
     "name:guj_x_preferred":[
         "\u0a8f\u0aa8\u0acd\u0a9f\u0ab5\u0ab0\u0acd\u0aaa"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e4\u05e8\u05d5\u05d1\u05d9\u05e0\u05e6\u05d9\u05d9\u05ea \u05d0\u05e0\u05d8\u05d5\u05d5\u05e8\u05e4\u05df"
     ],
     "name:hin_x_preferred":[
         "\u090f\u0902\u091f\u0935\u0930\u094d\u092a"
@@ -186,6 +207,9 @@
     "name:lat_x_preferred":[
         "Antverpia"
     ],
+    "name:lat_x_variant":[
+        "Provincia Antverpia"
+    ],
     "name:lav_x_preferred":[
         "Antverpene"
     ],
@@ -216,11 +240,17 @@
     "name:nld_x_preferred":[
         "Antwerpen"
     ],
+    "name:nld_x_variant":[
+        "Provincie Antwerpen"
+    ],
     "name:nob_x_preferred":[
         "Antwerpen"
     ],
     "name:oci_x_preferred":[
         "Prov\u00edncia d'Anv\u00e8rs"
+    ],
+    "name:oss_x_preferred":[
+        "\u0410\u043d\u0442\u0432\u0435\u0440\u043f\u0435\u043d"
     ],
     "name:pnb_x_preferred":[
         "\u0635\u0648\u0628\u06c1 \u0627\u0646\u0679\u06cc\u0648\u0631\u067e"
@@ -249,6 +279,9 @@
     "name:spa_x_preferred":[
         "Provincia de Amberes"
     ],
+    "name:sqi_x_preferred":[
+        "Provinca Antwerp"
+    ],
     "name:srp_x_preferred":[
         "\u041f\u0440\u043e\u0432\u0438\u043d\u0446\u0438\u0458\u0430 \u0410\u043d\u0442\u0432\u0435\u0440\u043f\u0435\u043d"
     ],
@@ -263,6 +296,9 @@
     ],
     "name:tha_x_preferred":[
         "\u0e21\u0e13\u0e11\u0e25\u0e41\u0e2d\u0e19\u0e15\u0e4c\u0e40\u0e27\u0e34\u0e23\u0e4c\u0e1b"
+    ],
+    "name:tha_x_variant":[
+        "\u0e08\u0e31\u0e07\u0e2b\u0e27\u0e31\u0e14\u0e41\u0e2d\u0e19\u0e15\u0e4c\u0e40\u0e27\u0e34\u0e23\u0e4c\u0e1b"
     ],
     "name:tur_x_preferred":[
         "Anvers"
@@ -279,6 +315,9 @@
     "name:vls_x_preferred":[
         "Antwerpn"
     ],
+    "name:vls_x_variant":[
+        "Provinsje Antwerpn"
+    ],
     "name:vol_x_preferred":[
         "Antwerpen"
     ],
@@ -287,6 +326,9 @@
     ],
     "name:wln_x_preferred":[
         "Province d' Anverse"
+    ],
+    "name:wuu_x_preferred":[
+        "\u5b89\u7279\u536b\u666e\u7701"
     ],
     "name:zea_x_preferred":[
         "Antwerpen"
@@ -337,7 +379,7 @@
         "wd:id":"Q1116"
     },
     "wof:country":"BE",
-    "wof:geomhash":"eb1cb22d6b7ff8be37ca16c74b865ec4",
+    "wof:geomhash":"c5686778f71a301cecefe13a48462e9b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -348,7 +390,7 @@
         }
     ],
     "wof:id":102050005,
-    "wof:lastmodified":1684351494,
+    "wof:lastmodified":1690856402,
     "wof:name":"Antwerpen",
     "wof:parent_id":85681715,
     "wof:placetype":"county",

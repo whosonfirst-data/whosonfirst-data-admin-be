@@ -37,11 +37,17 @@
     "name:fra_x_preferred":[
         "Heist"
     ],
+    "name:gle_x_preferred":[
+        "Heist-aan-Zee"
+    ],
     "name:hun_x_preferred":[
         "Heist-aan-Zee"
     ],
     "name:nld_x_preferred":[
         "Heist"
+    ],
+    "name:nob_x_preferred":[
+        "Heist-aan-Zee"
     ],
     "name:por_x_preferred":[
         "Heist-aan-Zee"
@@ -111,7 +117,7 @@
         }
     ],
     "wof:id":1125953875,
-    "wof:lastmodified":1566612034,
+    "wof:lastmodified":1690856697,
     "wof:name":"Heist",
     "wof:parent_id":1108830675,
     "wof:placetype":"locality",

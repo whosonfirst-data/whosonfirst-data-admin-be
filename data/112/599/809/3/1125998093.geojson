@@ -22,23 +22,206 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:afr_x_preferred":[
+        "Aische-en-Refail"
+    ],
+    "name:arg_x_preferred":[
+        "Aische-en-Refail"
+    ],
+    "name:ast_x_preferred":[
+        "Aische-en-Refail"
+    ],
+    "name:bar_x_preferred":[
+        "Aische-en-Refail"
+    ],
+    "name:bre_x_preferred":[
+        "Aische-en-Refail"
+    ],
+    "name:cat_x_preferred":[
+        "Aische-en-Refail"
+    ],
+    "name:ces_x_preferred":[
+        "Aische-en-Refail"
+    ],
+    "name:cos_x_preferred":[
+        "Aische-en-Refail"
+    ],
+    "name:cym_x_preferred":[
+        "Aische-en-Refail"
+    ],
+    "name:dan_x_preferred":[
+        "Aische-en-Refail"
+    ],
+    "name:deu_x_preferred":[
+        "Aische-en-Refail"
+    ],
     "name:eng_x_preferred":[
+        "Aische-en-Refail"
+    ],
+    "name:epo_x_preferred":[
+        "Aische-en-Refail"
+    ],
+    "name:est_x_preferred":[
+        "Aische-en-Refail"
+    ],
+    "name:eus_x_preferred":[
+        "Aische-en-Refail"
+    ],
+    "name:fin_x_preferred":[
         "Aische-en-Refail"
     ],
     "name:fra_x_preferred":[
         "Aische-en-Refail"
     ],
+    "name:frp_x_preferred":[
+        "Aische-en-Refail"
+    ],
+    "name:fur_x_preferred":[
+        "Aische-en-Refail"
+    ],
+    "name:gla_x_preferred":[
+        "Aische-en-Refail"
+    ],
+    "name:gle_x_preferred":[
+        "Aische-en-Refail"
+    ],
+    "name:glg_x_preferred":[
+        "Aische-en-Refail"
+    ],
+    "name:gsw_x_preferred":[
+        "Aische-en-Refail"
+    ],
+    "name:hrv_x_preferred":[
+        "Aische-en-Refail"
+    ],
     "name:hun_x_preferred":[
+        "Aische-en-Refail"
+    ],
+    "name:ido_x_preferred":[
+        "Aische-en-Refail"
+    ],
+    "name:ile_x_preferred":[
+        "Aische-en-Refail"
+    ],
+    "name:ina_x_preferred":[
+        "Aische-en-Refail"
+    ],
+    "name:ind_x_preferred":[
+        "Aische-en-Refail"
+    ],
+    "name:isl_x_preferred":[
+        "Aische-en-Refail"
+    ],
+    "name:ita_x_preferred":[
+        "Aische-en-Refail"
+    ],
+    "name:kon_x_preferred":[
+        "Aische-en-Refail"
+    ],
+    "name:lij_x_preferred":[
+        "Aische-en-Refail"
+    ],
+    "name:lim_x_preferred":[
+        "Aische-en-Refail"
+    ],
+    "name:ltz_x_preferred":[
+        "Aische-en-Refail"
+    ],
+    "name:min_x_preferred":[
+        "Aische-en-Refail"
+    ],
+    "name:mlg_x_preferred":[
+        "Aische-en-Refail"
+    ],
+    "name:msa_x_preferred":[
+        "Aische-en-Refail"
+    ],
+    "name:nap_x_preferred":[
+        "Aische-en-Refail"
+    ],
+    "name:nds_x_preferred":[
         "Aische-en-Refail"
     ],
     "name:nld_x_preferred":[
         "Aische-en-Refail"
     ],
+    "name:nno_x_preferred":[
+        "Aische-en-Refail"
+    ],
+    "name:nob_x_preferred":[
+        "Aische-en-Refail"
+    ],
+    "name:nrm_x_preferred":[
+        "Aische-en-Refail"
+    ],
+    "name:oci_x_preferred":[
+        "Aische-en-Refail"
+    ],
+    "name:pcd_x_preferred":[
+        "Aische-en-Refail"
+    ],
+    "name:pms_x_preferred":[
+        "Aische-en-Refail"
+    ],
+    "name:pol_x_preferred":[
+        "Aische-en-Refail"
+    ],
+    "name:por_x_preferred":[
+        "Aische-en-Refail"
+    ],
+    "name:roh_x_preferred":[
+        "Aische-en-Refail"
+    ],
+    "name:ron_x_preferred":[
+        "Aische-en-Refail"
+    ],
+    "name:scn_x_preferred":[
+        "Aische-en-Refail"
+    ],
+    "name:sco_x_preferred":[
+        "Aische-en-Refail"
+    ],
+    "name:slk_x_preferred":[
+        "Aische-en-Refail"
+    ],
+    "name:slv_x_preferred":[
+        "Aische-en-Refail"
+    ],
+    "name:spa_x_preferred":[
+        "Aische-en-Refail"
+    ],
+    "name:srd_x_preferred":[
+        "Aische-en-Refail"
+    ],
+    "name:swa_x_preferred":[
+        "Aische-en-Refail"
+    ],
+    "name:swe_x_preferred":[
+        "Aische-en-Refail"
+    ],
     "name:und_x_variant":[
         "Aische"
     ],
+    "name:vec_x_preferred":[
+        "Aische-en-Refail"
+    ],
+    "name:vie_x_preferred":[
+        "Aische-en-Refail"
+    ],
+    "name:vls_x_preferred":[
+        "Aische-en-Refail"
+    ],
+    "name:vol_x_preferred":[
+        "Aische-en-Refail"
+    ],
     "name:wln_x_preferred":[
         "Yache-dil\u00e9-Inguez\u00eaye"
+    ],
+    "name:wol_x_preferred":[
+        "Aische-en-Refail"
+    ],
+    "name:zul_x_preferred":[
+        "Aische-en-Refail"
     ],
     "qs_pg:aaroncc":"BE",
     "qs_pg:gn_country":"BE",
@@ -92,7 +275,7 @@
         }
     ],
     "wof:id":1125998093,
-    "wof:lastmodified":1566612136,
+    "wof:lastmodified":1690856793,
     "wof:name":"Aische-en-Refail",
     "wof:parent_id":102049931,
     "wof:placetype":"locality",

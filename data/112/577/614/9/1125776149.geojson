@@ -28,17 +28,29 @@
     "name:fra_x_preferred":[
         "Huise"
     ],
+    "name:fra_x_variant":[
+        "Huysse"
+    ],
+    "name:gle_x_preferred":[
+        "Huise"
+    ],
     "name:hun_x_preferred":[
         "Huise"
     ],
     "name:jpn_x_preferred":[
         "\u30cf\u30a4\u30bb"
     ],
+    "name:lat_x_preferred":[
+        "Uscia"
+    ],
     "name:nld_x_preferred":[
         "Huise"
     ],
     "name:und_x_variant":[
         "Huysse"
+    ],
+    "name:zho_x_preferred":[
+        "\u8d6b\u4f0a\u745f"
     ],
     "qs_pg:aaroncc":"BE",
     "qs_pg:gn_country":"BE",
@@ -96,7 +108,7 @@
         }
     ],
     "wof:id":1125776149,
-    "wof:lastmodified":1566612246,
+    "wof:lastmodified":1690856911,
     "wof:name":"Huise",
     "wof:parent_id":1108830009,
     "wof:placetype":"locality",

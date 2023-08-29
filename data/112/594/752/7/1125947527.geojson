@@ -25,6 +25,9 @@
     "name:bul_x_preferred":[
         "\u0414\u043e\u0435\u043b"
     ],
+    "name:cat_x_preferred":[
+        "Doel"
+    ],
     "name:ceb_x_preferred":[
         "Doel"
     ],
@@ -38,6 +41,9 @@
         "Doel"
     ],
     "name:fra_x_preferred":[
+        "Doel"
+    ],
+    "name:gle_x_preferred":[
         "Doel"
     ],
     "name:hun_x_preferred":[
@@ -108,7 +114,7 @@
         }
     ],
     "wof:id":1125947527,
-    "wof:lastmodified":1566612013,
+    "wof:lastmodified":1690856674,
     "wof:name":"Doel",
     "wof:parent_id":1108830621,
     "wof:placetype":"locality",

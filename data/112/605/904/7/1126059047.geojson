@@ -31,6 +31,9 @@
     "name:fra_x_preferred":[
         "Aspelare"
     ],
+    "name:gle_x_preferred":[
+        "Aspelare"
+    ],
     "name:hun_x_preferred":[
         "Aspelare"
     ],
@@ -94,7 +97,7 @@
         }
     ],
     "wof:id":1126059047,
-    "wof:lastmodified":1566612056,
+    "wof:lastmodified":1690856717,
     "wof:name":"Aspelare",
     "wof:parent_id":1108830403,
     "wof:placetype":"locality",

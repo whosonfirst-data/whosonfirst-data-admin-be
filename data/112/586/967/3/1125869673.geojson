@@ -22,6 +22,9 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Banneux"
+    ],
     "name:deu_x_preferred":[
         "Banneux"
     ],
@@ -31,6 +34,9 @@
     "name:fra_x_preferred":[
         "Banneux"
     ],
+    "name:fry_x_preferred":[
+        "Banneux"
+    ],
     "name:lim_x_preferred":[
         "Banneux"
     ],
@@ -38,6 +44,9 @@
         "Banneux"
     ],
     "name:nld_x_preferred":[
+        "Banneux"
+    ],
+    "name:spa_x_preferred":[
         "Banneux"
     ],
     "name:vls_x_preferred":[
@@ -103,7 +112,7 @@
         }
     ],
     "wof:id":1125869673,
-    "wof:lastmodified":1566612080,
+    "wof:lastmodified":1690856742,
     "wof:name":"Banneux",
     "wof:parent_id":102049941,
     "wof:placetype":"locality",

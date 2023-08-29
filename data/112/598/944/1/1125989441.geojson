@@ -22,14 +22,26 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Renlies"
+    ],
+    "name:deu_x_preferred":[
+        "Renlies"
+    ],
     "name:eng_x_preferred":[
         "Renlies"
     ],
     "name:fra_x_preferred":[
         "Renlies"
     ],
+    "name:gle_x_preferred":[
+        "Renlies"
+    ],
     "name:hun_x_preferred":[
         "Renlies"
+    ],
+    "name:lat_x_preferred":[
+        "Renleicurtis"
     ],
     "name:ltz_x_preferred":[
         "Renlies"
@@ -38,6 +50,9 @@
         "Renlies"
     ],
     "name:pcd_x_preferred":[
+        "Rinliye"
+    ],
+    "name:wln_x_preferred":[
         "Rinliye"
     ],
     "qs_pg:aaroncc":"BE",
@@ -94,7 +109,7 @@
         }
     ],
     "wof:id":1125989441,
-    "wof:lastmodified":1566612167,
+    "wof:lastmodified":1690856819,
     "wof:name":"Renlies",
     "wof:parent_id":102049923,
     "wof:placetype":"locality",

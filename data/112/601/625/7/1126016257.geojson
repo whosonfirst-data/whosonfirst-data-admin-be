@@ -22,10 +22,16 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:deu_x_preferred":[
+        "Opbrakel"
+    ],
     "name:eng_x_preferred":[
         "Opbrakel"
     ],
     "name:fra_x_preferred":[
+        "Opbrakel"
+    ],
+    "name:gle_x_preferred":[
         "Opbrakel"
     ],
     "name:hun_x_preferred":[
@@ -88,7 +94,7 @@
         }
     ],
     "wof:id":1126016257,
-    "wof:lastmodified":1566612176,
+    "wof:lastmodified":1690856828,
     "wof:name":"Opbrakel",
     "wof:parent_id":1108830545,
     "wof:placetype":"locality",

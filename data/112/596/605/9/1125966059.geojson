@@ -22,10 +22,16 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Chaineux"
+    ],
     "name:eng_x_preferred":[
         "Chaineux"
     ],
     "name:fra_x_preferred":[
+        "Chaineux"
+    ],
+    "name:gle_x_preferred":[
         "Chaineux"
     ],
     "name:hun_x_preferred":[
@@ -84,7 +90,7 @@
         }
     ],
     "wof:id":1125966059,
-    "wof:lastmodified":1566612160,
+    "wof:lastmodified":1690856810,
     "wof:name":"Chaineux",
     "wof:parent_id":102049935,
     "wof:placetype":"locality",

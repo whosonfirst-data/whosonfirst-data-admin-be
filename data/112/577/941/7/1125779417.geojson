@@ -28,6 +28,9 @@
     "name:fra_x_preferred":[
         "Noville-sur-Mehaigne"
     ],
+    "name:gle_x_preferred":[
+        "Noville-sur-Mehaigne"
+    ],
     "name:hun_x_preferred":[
         "Noville-sur-Mehaigne"
     ],
@@ -87,7 +90,7 @@
         }
     ],
     "wof:id":1125779417,
-    "wof:lastmodified":1566612240,
+    "wof:lastmodified":1690856903,
     "wof:name":"Noville-sur-M\u00e9haigne",
     "wof:parent_id":102049931,
     "wof:placetype":"locality",

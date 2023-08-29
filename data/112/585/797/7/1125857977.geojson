@@ -34,6 +34,9 @@
     "name:fra_x_preferred":[
         "Nieuwkapelle"
     ],
+    "name:gle_x_preferred":[
+        "Nieuwkapelle"
+    ],
     "name:hun_x_preferred":[
         "Nieuwkapelle"
     ],
@@ -106,7 +109,7 @@
         }
     ],
     "wof:id":1125857977,
-    "wof:lastmodified":1566612202,
+    "wof:lastmodified":1690856859,
     "wof:name":"Nieuwkapelle",
     "wof:parent_id":1108830401,
     "wof:placetype":"locality",

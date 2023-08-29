@@ -22,13 +22,100 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bre_x_preferred":[
+        "Temploux"
+    ],
+    "name:cat_x_preferred":[
+        "Temploux"
+    ],
+    "name:ces_x_preferred":[
+        "Temploux"
+    ],
+    "name:cos_x_preferred":[
+        "Temploux"
+    ],
+    "name:cym_x_preferred":[
+        "Temploux"
+    ],
+    "name:dan_x_preferred":[
+        "Temploux"
+    ],
+    "name:deu_x_preferred":[
+        "Temploux"
+    ],
     "name:eng_x_preferred":[
+        "Temploux"
+    ],
+    "name:est_x_preferred":[
+        "Temploux"
+    ],
+    "name:fin_x_preferred":[
         "Temploux"
     ],
     "name:fra_x_preferred":[
         "Temploux"
     ],
+    "name:gle_x_preferred":[
+        "Temploux"
+    ],
+    "name:glg_x_preferred":[
+        "Temploux"
+    ],
+    "name:hrv_x_preferred":[
+        "Temploux"
+    ],
+    "name:hun_x_preferred":[
+        "Temploux"
+    ],
+    "name:ind_x_preferred":[
+        "Temploux"
+    ],
+    "name:ita_x_preferred":[
+        "Temploux"
+    ],
+    "name:lav_x_preferred":[
+        "Temploux"
+    ],
+    "name:lit_x_preferred":[
+        "Temploux"
+    ],
+    "name:ltz_x_preferred":[
+        "Temploux"
+    ],
     "name:nld_x_preferred":[
+        "Temploux"
+    ],
+    "name:nrm_x_preferred":[
+        "Temploux"
+    ],
+    "name:oci_x_preferred":[
+        "Temploux"
+    ],
+    "name:pol_x_preferred":[
+        "Temploux"
+    ],
+    "name:por_x_preferred":[
+        "Temploux"
+    ],
+    "name:ron_x_preferred":[
+        "Temploux"
+    ],
+    "name:slk_x_preferred":[
+        "Temploux"
+    ],
+    "name:slv_x_preferred":[
+        "Temploux"
+    ],
+    "name:spa_x_preferred":[
+        "Temploux"
+    ],
+    "name:swe_x_preferred":[
+        "Temploux"
+    ],
+    "name:tah_x_preferred":[
+        "Temploux"
+    ],
+    "name:tur_x_preferred":[
         "Temploux"
     ],
     "name:und_x_variant":[
@@ -91,7 +178,7 @@
         }
     ],
     "wof:id":1126013519,
-    "wof:lastmodified":1566612175,
+    "wof:lastmodified":1690856826,
     "wof:name":"Temploux",
     "wof:parent_id":102049931,
     "wof:placetype":"locality",

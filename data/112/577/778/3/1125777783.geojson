@@ -28,6 +28,9 @@
     "name:fra_x_preferred":[
         "Gijzenzele"
     ],
+    "name:gle_x_preferred":[
+        "Gijzenzele"
+    ],
     "name:hun_x_preferred":[
         "Gijzenzele"
     ],
@@ -89,7 +92,7 @@
         }
     ],
     "wof:id":1125777783,
-    "wof:lastmodified":1566612241,
+    "wof:lastmodified":1690856903,
     "wof:name":"Gijzenzele",
     "wof:parent_id":1108830191,
     "wof:placetype":"locality",

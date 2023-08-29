@@ -55,6 +55,12 @@
     "name:fra_x_preferred":[
         "Wommelgem"
     ],
+    "name:fra_x_variant":[
+        "Wommelghem"
+    ],
+    "name:gle_x_preferred":[
+        "Wommelgem"
+    ],
     "name:hun_x_preferred":[
         "Wommelgem"
     ],
@@ -100,6 +106,9 @@
     "name:swe_x_preferred":[
         "Wommelgem"
     ],
+    "name:tur_x_preferred":[
+        "Wommelgem"
+    ],
     "name:vie_x_preferred":[
         "Wommelgem"
     ],
@@ -107,6 +116,9 @@
         "Wommelgem"
     ],
     "name:war_x_preferred":[
+        "Wommelgem"
+    ],
+    "name:zea_x_preferred":[
         "Wommelgem"
     ],
     "name:zho_x_preferred":[
@@ -169,7 +181,7 @@
         }
     ],
     "wof:id":1125962077,
-    "wof:lastmodified":1566612162,
+    "wof:lastmodified":1690856813,
     "wof:name":"Wommelghem",
     "wof:parent_id":1108830431,
     "wof:placetype":"locality",

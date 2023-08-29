@@ -28,6 +28,9 @@
     "name:fra_x_preferred":[
         "Heurne"
     ],
+    "name:gle_x_preferred":[
+        "Heurne"
+    ],
     "name:hun_x_preferred":[
         "Heurne"
     ],
@@ -90,7 +93,7 @@
         }
     ],
     "wof:id":1125822355,
-    "wof:lastmodified":1566612194,
+    "wof:lastmodified":1690856849,
     "wof:name":"Heurne",
     "wof:parent_id":1108830311,
     "wof:placetype":"locality",

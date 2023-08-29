@@ -31,6 +31,9 @@
     "name:fra_x_preferred":[
         "Labuissi\u00e8re"
     ],
+    "name:gle_x_preferred":[
+        "Labuissi\u00e8re"
+    ],
     "name:hun_x_preferred":[
         "Labuissi\u00e8re"
     ],
@@ -92,7 +95,7 @@
         }
     ],
     "wof:id":1125877709,
-    "wof:lastmodified":1566612115,
+    "wof:lastmodified":1690856779,
     "wof:name":"Labuissi\u00e8re",
     "wof:parent_id":102049923,
     "wof:placetype":"locality",

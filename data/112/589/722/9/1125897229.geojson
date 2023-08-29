@@ -34,6 +34,9 @@
     "name:fra_x_preferred":[
         "Hauset"
     ],
+    "name:gle_x_preferred":[
+        "Hauset"
+    ],
     "name:ita_x_preferred":[
         "Hauset"
     ],
@@ -106,7 +109,7 @@
         }
     ],
     "wof:id":1125897229,
-    "wof:lastmodified":1566612103,
+    "wof:lastmodified":1690856766,
     "wof:name":"Hauset",
     "wof:parent_id":102049935,
     "wof:placetype":"locality",

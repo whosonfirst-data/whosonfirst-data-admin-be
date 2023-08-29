@@ -31,6 +31,9 @@
     "name:fra_x_preferred":[
         "Hertsberge"
     ],
+    "name:gle_x_preferred":[
+        "Hertsberge"
+    ],
     "name:hun_x_preferred":[
         "Hertsberge"
     ],
@@ -102,7 +105,7 @@
         }
     ],
     "wof:id":1125822365,
-    "wof:lastmodified":1566612197,
+    "wof:lastmodified":1690856852,
     "wof:name":"Hertsberge",
     "wof:parent_id":1108830181,
     "wof:placetype":"locality",

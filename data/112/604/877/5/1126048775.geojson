@@ -28,6 +28,9 @@
     "name:fra_x_preferred":[
         "Baisy-Thy"
     ],
+    "name:gle_x_preferred":[
+        "Baisy-Thy"
+    ],
     "name:hun_x_preferred":[
         "Baisy-Thy"
     ],
@@ -97,7 +100,7 @@
         }
     ],
     "wof:id":1126048775,
-    "wof:lastmodified":1566612065,
+    "wof:lastmodified":1690856727,
     "wof:name":"Baisy-Thy",
     "wof:parent_id":102049945,
     "wof:placetype":"locality",

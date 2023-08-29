@@ -31,6 +31,9 @@
     "name:fra_x_preferred":[
         "Meilegem"
     ],
+    "name:gle_x_preferred":[
+        "Meilegem"
+    ],
     "name:hun_x_preferred":[
         "Meilegem"
     ],
@@ -99,7 +102,7 @@
         }
     ],
     "wof:id":1125851671,
-    "wof:lastmodified":1566612203,
+    "wof:lastmodified":1690856859,
     "wof:name":"Meilegem",
     "wof:parent_id":1108830583,
     "wof:placetype":"locality",

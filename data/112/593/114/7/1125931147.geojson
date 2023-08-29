@@ -28,6 +28,9 @@
     "name:fra_x_preferred":[
         "Villerot"
     ],
+    "name:gle_x_preferred":[
+        "Villerot"
+    ],
     "name:hun_x_preferred":[
         "Villerot"
     ],
@@ -86,7 +89,7 @@
         }
     ],
     "wof:id":1125931147,
-    "wof:lastmodified":1566612022,
+    "wof:lastmodified":1690856686,
     "wof:name":"Villerot",
     "wof:parent_id":102049933,
     "wof:placetype":"locality",

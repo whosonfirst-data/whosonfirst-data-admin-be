@@ -28,6 +28,9 @@
     "name:fra_x_preferred":[
         "Zichen-Zussen-Bolder"
     ],
+    "name:gle_x_preferred":[
+        "Zichen-Zussen-Bolder"
+    ],
     "name:hun_x_preferred":[
         "Zichen-Zussen-Bolder"
     ],
@@ -94,7 +97,7 @@
         }
     ],
     "wof:id":1125850309,
-    "wof:lastmodified":1566612203,
+    "wof:lastmodified":1690856861,
     "wof:name":"Zichen-Zussen-Bolder",
     "wof:parent_id":1108830103,
     "wof:placetype":"locality",

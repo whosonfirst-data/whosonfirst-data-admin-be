@@ -28,10 +28,16 @@
     "name:fra_x_preferred":[
         "Baileux"
     ],
+    "name:gle_x_preferred":[
+        "Baileux"
+    ],
     "name:hun_x_preferred":[
         "Baileux"
     ],
     "name:nld_x_preferred":[
+        "Baileux"
+    ],
+    "name:vls_x_preferred":[
         "Baileux"
     ],
     "name:wln_x_preferred":[
@@ -89,7 +95,7 @@
         }
     ],
     "wof:id":1125948389,
-    "wof:lastmodified":1566612017,
+    "wof:lastmodified":1690856680,
     "wof:name":"Baileux",
     "wof:parent_id":102049923,
     "wof:placetype":"locality",

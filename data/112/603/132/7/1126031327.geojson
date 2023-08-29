@@ -31,6 +31,9 @@
     "name:fra_x_preferred":[
         "Rozebeke"
     ],
+    "name:gle_x_preferred":[
+        "Rozebeke"
+    ],
     "name:hun_x_preferred":[
         "Rozebeke"
     ],
@@ -97,7 +100,7 @@
         }
     ],
     "wof:id":1126031327,
-    "wof:lastmodified":1566612069,
+    "wof:lastmodified":1690856731,
     "wof:name":"Rozebeke",
     "wof:parent_id":1108830583,
     "wof:placetype":"locality",

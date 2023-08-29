@@ -22,20 +22,206 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:afr_x_preferred":[
+        "Luingne"
+    ],
+    "name:arg_x_preferred":[
+        "Luingne"
+    ],
+    "name:ast_x_preferred":[
+        "Luingne"
+    ],
+    "name:bar_x_preferred":[
+        "Luingne"
+    ],
+    "name:bre_x_preferred":[
+        "Luingne"
+    ],
+    "name:cat_x_preferred":[
+        "Luingne"
+    ],
+    "name:ces_x_preferred":[
+        "Luingne"
+    ],
+    "name:cos_x_preferred":[
+        "Luingne"
+    ],
+    "name:cym_x_preferred":[
+        "Luingne"
+    ],
+    "name:dan_x_preferred":[
+        "Luingne"
+    ],
+    "name:deu_x_preferred":[
+        "Luingne"
+    ],
     "name:eng_x_preferred":[
+        "Luingne"
+    ],
+    "name:epo_x_preferred":[
+        "Luingne"
+    ],
+    "name:est_x_preferred":[
+        "Luingne"
+    ],
+    "name:eus_x_preferred":[
+        "Luingne"
+    ],
+    "name:fin_x_preferred":[
         "Luingne"
     ],
     "name:fra_x_preferred":[
         "Luingne"
     ],
+    "name:frp_x_preferred":[
+        "Luingne"
+    ],
+    "name:fur_x_preferred":[
+        "Luingne"
+    ],
+    "name:gla_x_preferred":[
+        "Luingne"
+    ],
+    "name:gle_x_preferred":[
+        "Luingne"
+    ],
+    "name:glg_x_preferred":[
+        "Luingne"
+    ],
+    "name:gsw_x_preferred":[
+        "Luingne"
+    ],
+    "name:hrv_x_preferred":[
+        "Luingne"
+    ],
     "name:hun_x_preferred":[
+        "Luingne"
+    ],
+    "name:ido_x_preferred":[
+        "Luingne"
+    ],
+    "name:ile_x_preferred":[
+        "Luingne"
+    ],
+    "name:ina_x_preferred":[
+        "Luingne"
+    ],
+    "name:ind_x_preferred":[
+        "Luingne"
+    ],
+    "name:isl_x_preferred":[
+        "Luingne"
+    ],
+    "name:ita_x_preferred":[
+        "Luingne"
+    ],
+    "name:kon_x_preferred":[
+        "Luingne"
+    ],
+    "name:lij_x_preferred":[
+        "Luingne"
+    ],
+    "name:lim_x_preferred":[
+        "Luingne"
+    ],
+    "name:ltz_x_preferred":[
+        "Luingne"
+    ],
+    "name:min_x_preferred":[
+        "Luingne"
+    ],
+    "name:mlg_x_preferred":[
+        "Luingne"
+    ],
+    "name:msa_x_preferred":[
+        "Luingne"
+    ],
+    "name:nap_x_preferred":[
+        "Luingne"
+    ],
+    "name:nds_x_preferred":[
         "Luingne"
     ],
     "name:nld_x_preferred":[
         "Luingne"
     ],
+    "name:nld_x_variant":[
+        "Lowingen"
+    ],
+    "name:nno_x_preferred":[
+        "Luingne"
+    ],
+    "name:nob_x_preferred":[
+        "Luingne"
+    ],
+    "name:nrm_x_preferred":[
+        "Luingne"
+    ],
+    "name:oci_x_preferred":[
+        "Luingne"
+    ],
+    "name:pcd_x_preferred":[
+        "Luingne"
+    ],
+    "name:pms_x_preferred":[
+        "Luingne"
+    ],
+    "name:pol_x_preferred":[
+        "Luingne"
+    ],
+    "name:por_x_preferred":[
+        "Luingne"
+    ],
+    "name:roh_x_preferred":[
+        "Luingne"
+    ],
+    "name:ron_x_preferred":[
+        "Luingne"
+    ],
+    "name:scn_x_preferred":[
+        "Luingne"
+    ],
+    "name:sco_x_preferred":[
+        "Luingne"
+    ],
+    "name:slk_x_preferred":[
+        "Luingne"
+    ],
+    "name:slv_x_preferred":[
+        "Luingne"
+    ],
+    "name:spa_x_preferred":[
+        "Luingne"
+    ],
+    "name:srd_x_preferred":[
+        "Luingne"
+    ],
+    "name:swa_x_preferred":[
+        "Luingne"
+    ],
+    "name:swe_x_preferred":[
+        "Luingne"
+    ],
+    "name:vec_x_preferred":[
+        "Luingne"
+    ],
+    "name:vie_x_preferred":[
+        "Luingne"
+    ],
     "name:vls_x_preferred":[
         "Lowiengn"
+    ],
+    "name:vol_x_preferred":[
+        "Luingne"
+    ],
+    "name:wln_x_preferred":[
+        "Luingne"
+    ],
+    "name:wol_x_preferred":[
+        "Luingne"
+    ],
+    "name:zul_x_preferred":[
+        "Luingne"
     ],
     "qs_pg:aaroncc":"BE",
     "qs_pg:gn_country":"BE",
@@ -89,7 +275,7 @@
         }
     ],
     "wof:id":1126058889,
-    "wof:lastmodified":1566612052,
+    "wof:lastmodified":1690856710,
     "wof:name":"Luingne",
     "wof:parent_id":1108782559,
     "wof:placetype":"locality",

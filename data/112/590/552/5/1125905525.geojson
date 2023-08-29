@@ -22,14 +22,23 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Rachecourt"
+    ],
     "name:eng_x_preferred":[
         "Rachecourt"
     ],
     "name:fra_x_preferred":[
         "Rachecourt"
     ],
+    "name:gle_x_preferred":[
+        "Rachecourt"
+    ],
     "name:hun_x_preferred":[
         "Rachecourt"
+    ],
+    "name:ltz_x_preferred":[
+        "R\u00e9issech"
     ],
     "name:nld_x_preferred":[
         "Rachecourt"
@@ -88,7 +97,7 @@
         }
     ],
     "wof:id":1125905525,
-    "wof:lastmodified":1566612141,
+    "wof:lastmodified":1690856800,
     "wof:name":"Rachecourt",
     "wof:parent_id":102049909,
     "wof:placetype":"locality",

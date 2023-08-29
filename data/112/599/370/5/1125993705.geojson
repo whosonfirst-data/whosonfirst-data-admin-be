@@ -25,10 +25,16 @@
     "name:ceb_x_preferred":[
         "Annevoie-Rouillon"
     ],
+    "name:deu_x_preferred":[
+        "Annevoie-Rouillon"
+    ],
     "name:eng_x_preferred":[
         "Annevoie-Rouillon"
     ],
     "name:fra_x_preferred":[
+        "Annevoie-Rouillon"
+    ],
+    "name:gle_x_preferred":[
         "Annevoie-Rouillon"
     ],
     "name:hun_x_preferred":[
@@ -100,7 +106,7 @@
         }
     ],
     "wof:id":1125993705,
-    "wof:lastmodified":1566612133,
+    "wof:lastmodified":1690856788,
     "wof:name":"Annevoie-Rouillon",
     "wof:parent_id":102049919,
     "wof:placetype":"locality",

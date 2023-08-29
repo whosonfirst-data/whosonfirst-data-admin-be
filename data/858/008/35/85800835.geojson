@@ -56,6 +56,9 @@
     "name:fra_x_preferred":[
         "Beyne-Heusay"
     ],
+    "name:gle_x_preferred":[
+        "Beyne-Heusay"
+    ],
     "name:glg_x_preferred":[
         "Beyne-Heusay"
     ],
@@ -101,6 +104,9 @@
     "name:swe_x_preferred":[
         "Beyne-Heusay"
     ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0435\u043d-\u0415\u0437\u0435"
+    ],
     "name:vie_x_preferred":[
         "Beyne-Heusay"
     ],
@@ -113,8 +119,14 @@
     "name:wln_x_preferred":[
         "Binne-Heuzea"
     ],
+    "name:zea_x_preferred":[
+        "Beyne-Heusay"
+    ],
     "name:zho_x_preferred":[
         "\u8d1d\u6069\u2014\u5384\u6cfd"
+    ],
+    "name:zho_x_variant":[
+        "\u8d1d\u8bb7-\u5384\u8d5b"
     ],
     "qs:gn_adm0_cc":"BE",
     "qs:gn_fcode":"PPL",
@@ -186,7 +198,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1582345516,
+    "wof:lastmodified":1690856413,
     "wof:name":"Beyne-Heusay",
     "wof:parent_id":101748083,
     "wof:placetype":"neighbourhood",

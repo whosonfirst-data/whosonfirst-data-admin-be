@@ -60,6 +60,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:ara_x_preferred":[
+        "\u062a\u064a\u0644\u062a"
+    ],
     "name:bre_x_preferred":[
         "Tielt"
     ],
@@ -77,6 +80,9 @@
     ],
     "name:deu_x_preferred":[
         "Tielt"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a4\u03b9\u03bb\u03c4"
     ],
     "name:eng_x_preferred":[
         "Tielt"
@@ -96,6 +102,12 @@
     "name:fra_x_preferred":[
         "Tielt"
     ],
+    "name:fry_x_preferred":[
+        "Tielt"
+    ],
+    "name:gle_x_preferred":[
+        "Tielt"
+    ],
     "name:heb_x_preferred":[
         "\u05d8\u05d9\u05dc\u05d8"
     ],
@@ -110,6 +122,9 @@
     ],
     "name:kor_x_preferred":[
         "\ud2f8\ud2b8"
+    ],
+    "name:lat_x_preferred":[
+        "Thillae"
     ],
     "name:lim_x_preferred":[
         "Tielt"
@@ -177,6 +192,9 @@
     "name:war_x_preferred":[
         "Tielt"
     ],
+    "name:zea_x_preferred":[
+        "Tielt"
+    ],
     "name:zho_x_preferred":[
         "\u8482\u5c14\u7279"
     ],
@@ -224,7 +242,7 @@
         "wd:id":"Q651811"
     },
     "wof:country":"BE",
-    "wof:geomhash":"47d5d61b1efd7c0edcf6952d43399657",
+    "wof:geomhash":"2c8a7da23260fbeab806859c95d1e823",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -235,7 +253,7 @@
         }
     ],
     "wof:id":102049981,
-    "wof:lastmodified":1684351493,
+    "wof:lastmodified":1690856401,
     "wof:name":"Tielt",
     "wof:parent_id":85681709,
     "wof:placetype":"county",

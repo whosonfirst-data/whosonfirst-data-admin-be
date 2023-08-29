@@ -22,10 +22,16 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Haneffe"
+    ],
     "name:eng_x_preferred":[
         "Haneffe"
     ],
     "name:fra_x_preferred":[
+        "Haneffe"
+    ],
+    "name:gle_x_preferred":[
         "Haneffe"
     ],
     "name:nld_x_preferred":[
@@ -83,7 +89,7 @@
         }
     ],
     "wof:id":1125786461,
-    "wof:lastmodified":1566612212,
+    "wof:lastmodified":1690856872,
     "wof:name":"Haneffe",
     "wof:parent_id":102049937,
     "wof:placetype":"locality",

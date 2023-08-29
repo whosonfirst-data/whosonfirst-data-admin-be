@@ -56,6 +56,9 @@
     "name:fra_x_preferred":[
         "Berchem"
     ],
+    "name:gle_x_preferred":[
+        "Berchem"
+    ],
     "name:hun_x_preferred":[
         "Berchem"
     ],
@@ -80,7 +83,13 @@
     "name:slv_x_preferred":[
         "Berchem"
     ],
+    "name:spa_x_preferred":[
+        "Berchem"
+    ],
     "name:swe_x_preferred":[
+        "Berchem"
+    ],
+    "name:tur_x_preferred":[
         "Berchem"
     ],
     "name:ukr_x_preferred":[
@@ -91,6 +100,9 @@
     ],
     "name:zho_x_preferred":[
         "\u535a\u5fb9\u59c6"
+    ],
+    "name:zho_x_variant":[
+        "\u8d1d\u5c14\u8d6b\u59c6"
     ],
     "qs:gn_adm0_cc":"BE",
     "qs:gn_fcode":"PPL",
@@ -162,7 +174,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1582345516,
+    "wof:lastmodified":1690856414,
     "wof:name":"Berchem",
     "wof:parent_id":101748099,
     "wof:placetype":"neighbourhood",

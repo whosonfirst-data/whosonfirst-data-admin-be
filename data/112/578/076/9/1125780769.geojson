@@ -31,6 +31,9 @@
     "name:fra_x_preferred":[
         "Waarmaarde"
     ],
+    "name:gle_x_preferred":[
+        "Waarmaarde"
+    ],
     "name:hun_x_preferred":[
         "Waarmaarde"
     ],
@@ -98,7 +101,7 @@
         }
     ],
     "wof:id":1125780769,
-    "wof:lastmodified":1566612208,
+    "wof:lastmodified":1690856867,
     "wof:name":"Waarmaarde",
     "wof:parent_id":1108830525,
     "wof:placetype":"locality",

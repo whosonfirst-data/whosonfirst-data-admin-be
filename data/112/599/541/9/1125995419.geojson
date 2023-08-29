@@ -31,6 +31,9 @@
     "name:fra_x_preferred":[
         "Vinderhoute"
     ],
+    "name:gle_x_preferred":[
+        "Vinderhoute"
+    ],
     "name:hun_x_preferred":[
         "Vinderhoute"
     ],
@@ -39,6 +42,9 @@
     ],
     "name:und_x_variant":[
         "Vindorbaute"
+    ],
+    "name:zho_x_preferred":[
+        "\u82ac\u5fb7\u5c14\u8c6a\u7279"
     ],
     "qs_pg:aaroncc":"BE",
     "qs_pg:gn_country":"BE",
@@ -96,7 +102,7 @@
         }
     ],
     "wof:id":1125995419,
-    "wof:lastmodified":1566612137,
+    "wof:lastmodified":1690856795,
     "wof:name":"Vinderhoute",
     "wof:parent_id":1108830071,
     "wof:placetype":"locality",

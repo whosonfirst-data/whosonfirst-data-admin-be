@@ -25,6 +25,9 @@
     "name:bul_x_preferred":[
         "\u0412\u043b\u0438\u0435\u0440\u0437\u0435\u043b\u0435"
     ],
+    "name:cat_x_preferred":[
+        "Vlierzele"
+    ],
     "name:ceb_x_preferred":[
         "Vlierzele"
     ],
@@ -32,6 +35,9 @@
         "Vlierzele"
     ],
     "name:fra_x_preferred":[
+        "Vlierzele"
+    ],
+    "name:gle_x_preferred":[
         "Vlierzele"
     ],
     "name:hun_x_preferred":[
@@ -95,7 +101,7 @@
         }
     ],
     "wof:id":1125780695,
-    "wof:lastmodified":1566612214,
+    "wof:lastmodified":1690856874,
     "wof:name":"Vlierzele",
     "wof:parent_id":1108830121,
     "wof:placetype":"locality",

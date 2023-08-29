@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"4.36502389472,50.8354291368,4.36502389472,50.8354291368",
+    "geom:bbox":"4.365024,50.835429,4.365024,50.835429",
     "geom:latitude":50.835429,
     "geom:longitude":4.365024,
     "iso:country":"BE",
@@ -26,8 +26,14 @@
     "name:ces_x_preferred":[
         "Matonge"
     ],
+    "name:deu_x_preferred":[
+        "Matong\u00e9"
+    ],
     "name:eng_x_preferred":[
         "Matonge"
+    ],
+    "name:eng_x_variant":[
+        "Matong\u00e9"
     ],
     "name:fra_x_preferred":[
         "Matong\u00e9"
@@ -38,13 +44,31 @@
     "name:kor_x_preferred":[
         "\ub9c8\ud1b5\uac8c"
     ],
+    "name:lat_x_preferred":[
+        "Matong\u00e9"
+    ],
+    "name:lim_x_preferred":[
+        "Matong\u00e9"
+    ],
     "name:nld_x_preferred":[
         "Matonge"
+    ],
+    "name:nld_x_variant":[
+        "Matong\u00e9"
+    ],
+    "name:pcd_x_preferred":[
+        "Matong\u00e9"
     ],
     "name:pol_x_preferred":[
         "Matonge"
     ],
     "name:swe_x_preferred":[
+        "Matong\u00e9"
+    ],
+    "name:vls_x_preferred":[
+        "Matong\u00e9"
+    ],
+    "name:wln_x_preferred":[
         "Matong\u00e9"
     ],
     "src:lbl_centroid":"mz",
@@ -62,7 +86,7 @@
     },
     "wof:country":"BE",
     "wof:created":1491360293,
-    "wof:geomhash":"95e622060d437d2e418ccdf443579f3b",
+    "wof:geomhash":"92a29f849f87f15268195cfc344fbcae",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -75,7 +99,7 @@
         }
     ],
     "wof:id":1108938327,
-    "wof:lastmodified":1566611506,
+    "wof:lastmodified":1690856428,
     "wof:name":"Matonge",
     "wof:parent_id":101751573,
     "wof:placetype":"neighbourhood",
@@ -85,10 +109,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    4.36502389471678,
-    50.83542913679393,
-    4.36502389471678,
-    50.83542913679393
+    4.365024,
+    50.835429,
+    4.365024,
+    50.835429
 ],
-  "geometry": {"coordinates":[4.36502389471678,50.83542913679393],"type":"Point"}
+  "geometry": {"coordinates":[4.365024,50.835429],"type":"Point"}
 }

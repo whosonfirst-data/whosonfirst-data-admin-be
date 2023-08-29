@@ -28,6 +28,9 @@
     "name:fra_x_preferred":[
         "Vlissegem"
     ],
+    "name:gle_x_preferred":[
+        "Vlissegem"
+    ],
     "name:hun_x_preferred":[
         "Vlissegem"
     ],
@@ -96,7 +99,7 @@
         }
     ],
     "wof:id":1125776339,
-    "wof:lastmodified":1566612237,
+    "wof:lastmodified":1690856898,
     "wof:name":"Vlissegem",
     "wof:parent_id":1108830685,
     "wof:placetype":"locality",

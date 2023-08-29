@@ -28,6 +28,9 @@
     "name:fra_x_preferred":[
         "Grazen"
     ],
+    "name:gle_x_preferred":[
+        "Grazen"
+    ],
     "name:hun_x_preferred":[
         "Grazen"
     ],
@@ -91,7 +94,7 @@
         }
     ],
     "wof:id":1125784425,
-    "wof:lastmodified":1566612213,
+    "wof:lastmodified":1690856872,
     "wof:name":"Grazen",
     "wof:parent_id":1108830543,
     "wof:placetype":"locality",

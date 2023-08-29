@@ -31,6 +31,9 @@
     "name:fra_x_preferred":[
         "Voormezele"
     ],
+    "name:gle_x_preferred":[
+        "Voormezele"
+    ],
     "name:hun_x_preferred":[
         "Voormezele"
     ],
@@ -99,7 +102,7 @@
         }
     ],
     "wof:id":1125784789,
-    "wof:lastmodified":1566612207,
+    "wof:lastmodified":1690856865,
     "wof:name":"Voormezele",
     "wof:parent_id":1108830595,
     "wof:placetype":"locality",

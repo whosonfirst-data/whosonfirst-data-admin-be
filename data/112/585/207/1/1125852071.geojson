@@ -28,6 +28,9 @@
     "name:fra_x_preferred":[
         "Duras"
     ],
+    "name:gle_x_preferred":[
+        "Duras"
+    ],
     "name:hun_x_preferred":[
         "Duras"
     ],
@@ -93,7 +96,7 @@
         }
     ],
     "wof:id":1125852071,
-    "wof:lastmodified":1566612205,
+    "wof:lastmodified":1690856862,
     "wof:name":"Duras",
     "wof:parent_id":1108830223,
     "wof:placetype":"locality",
