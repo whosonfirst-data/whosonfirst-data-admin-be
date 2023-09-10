@@ -10,8 +10,8 @@
     "geom:latitude":50.639294,
     "geom:longitude":5.673927,
     "iso:country":"BE",
-    "lbl:latitude":50.641488,
-    "lbl:longitude":5.691343,
+    "lbl:latitude":50.641138,
+    "lbl:longitude":5.676098,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mps:latitude":50.641138,
@@ -64,7 +64,7 @@
     "qs:type":"suburbs point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl_centroid":"yerbashapes",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85681691,
         102191581,
@@ -96,7 +96,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1690856488,
+    "wof:lastmodified":1694320287,
     "wof:name":"Queue-du-Bois",
     "wof:parent_id":102049941,
     "wof:placetype":"locality",

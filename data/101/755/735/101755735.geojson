@@ -10,8 +10,8 @@
     "geom:latitude":51.235453,
     "geom:longitude":3.249209,
     "iso:country":"BE",
-    "lbl:latitude":51.247525,
-    "lbl:longitude":3.245512,
+    "lbl:latitude":51.230431,
+    "lbl:longitude":3.245364,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mps:latitude":51.230431,
@@ -82,7 +82,7 @@
     "qs:type":"suburbs point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl_centroid":"yerbashapes",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":230,
     "wof:belongsto":[
         85681709,
@@ -118,7 +118,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1690856473,
+    "wof:lastmodified":1694320287,
     "wof:name":"Koolkerke",
     "wof:parent_id":1108830689,
     "wof:placetype":"locality",
