@@ -11,8 +11,8 @@
     "geom:longitude":4.276984,
     "gn:id":"",
     "iso:country":"BE",
-    "lbl:latitude":50.820989,
-    "lbl:longitude":4.297843,
+    "lbl:latitude":50.818832,
+    "lbl:longitude":4.280089,
     "lbl:max_zoom":18.0,
     "mps:latitude":50.818832,
     "mps:longitude":4.280089,
@@ -69,7 +69,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl_centroid":"mz",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85632997,
@@ -104,7 +104,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1690856407,
+    "wof:lastmodified":1694320288,
     "wof:name":"La Roue",
     "wof:parent_id":101751573,
     "wof:placetype":"neighbourhood",
