@@ -322,15 +322,21 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "begov:niscode":"27",
         "digitalenvoy:region_code":11071,
         "eurostat:nuts_2021_id":"BE22",
         "fips:code":"BE05",
         "gn:id":2792347,
         "gp:id":7153301,
         "hasc:id":"BE.LI",
+        "iso:code":"BE-VLI",
         "iso:id":"BE-VLI",
         "unlc:id":"BE-VLI"
     },
+    "wof:concordances_official":"begov:niscode",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"BE",
     "wof:geomhash":"c6c203fbf8e8edd5718915f4246e55df",
     "wof:hierarchy":[
@@ -352,7 +358,7 @@
         "fra",
         "deu"
     ],
-    "wof:lastmodified":1684351396,
+    "wof:lastmodified":1695885160,
     "wof:name":"Limburg",
     "wof:parent_id":404227357,
     "wof:placetype":"region",

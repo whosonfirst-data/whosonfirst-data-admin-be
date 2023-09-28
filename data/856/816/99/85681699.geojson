@@ -390,15 +390,21 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "begov:niscode":"39",
         "digitalenvoy:region_code":11073,
         "eurostat:nuts_2021_id":"BE35",
         "fips:code":"BE07",
         "gn:id":2790469,
         "gp:id":7153303,
         "hasc:id":"BE.NA",
+        "iso:code":"BE-WNA",
         "iso:id":"BE-WNA",
         "unlc:id":"BE-WNA"
     },
+    "wof:concordances_official":"begov:niscode",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"BE",
     "wof:geomhash":"d28bae6709386ddeeda3ce03453fbfaa",
     "wof:hierarchy":[
@@ -420,7 +426,7 @@
         "fra",
         "deu"
     ],
-    "wof:lastmodified":1684351396,
+    "wof:lastmodified":1695885160,
     "wof:name":"Namur",
     "wof:parent_id":404227353,
     "wof:placetype":"region",

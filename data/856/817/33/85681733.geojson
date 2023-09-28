@@ -198,14 +198,20 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "begov:niscode":"24",
         "digitalenvoy:region_code":11054,
         "eurostat:nuts_2021_id":"BE23",
         "fips:code":"BE08",
         "gn:id":2789733,
         "gp:id":7153304,
         "hasc:id":"BE.OV",
+        "iso:code":"BE-VOV",
         "iso:id":"BE-VOV"
     },
+    "wof:concordances_official":"begov:niscode",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"BE",
     "wof:geomhash":"6e60305630899c6ea330ff0be74ee576",
     "wof:hierarchy":[
@@ -227,7 +233,7 @@
         "fra",
         "deu"
     ],
-    "wof:lastmodified":1684351396,
+    "wof:lastmodified":1695885161,
     "wof:name":"Oost-Vlaanderen",
     "wof:parent_id":404227357,
     "wof:placetype":"region",

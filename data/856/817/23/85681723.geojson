@@ -207,15 +207,21 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "begov:niscode":"35",
         "digitalenvoy:region_code":11062,
         "eurostat:nuts_2021_id":"BE32",
         "fips:code":"BE03",
         "gn:id":2796741,
         "gp:id":7153299,
         "hasc:id":"BE.HT",
+        "iso:code":"BE-WHT",
         "iso:id":"BE-WHT",
         "unlc:id":"BE-WHT"
     },
+    "wof:concordances_official":"begov:niscode",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"BE",
     "wof:geomhash":"f5724bd0f7b6ee0007196e0ab36722df",
     "wof:hierarchy":[
@@ -237,7 +243,7 @@
         "fra",
         "deu"
     ],
-    "wof:lastmodified":1684351396,
+    "wof:lastmodified":1695885160,
     "wof:name":"Hainaut",
     "wof:parent_id":404227353,
     "wof:placetype":"region",

@@ -183,15 +183,21 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "begov:niscode":"36",
         "digitalenvoy:region_code":11056,
         "eurostat:nuts_2021_id":"BE33",
         "fips:code":"BE04",
         "gn:id":2792411,
         "gp:id":7153300,
         "hasc:id":"BE.LG",
+        "iso:code":"BE-WLG",
         "iso:id":"BE-WLG",
         "unlc:id":"BE-WLG"
     },
+    "wof:concordances_official":"begov:niscode",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"BE",
     "wof:geomhash":"bdbebcc332fb8e4d1c5a423262fe73bd",
     "wof:hierarchy":[
@@ -213,7 +219,7 @@
         "fra",
         "deu"
     ],
-    "wof:lastmodified":1684351396,
+    "wof:lastmodified":1695885160,
     "wof:name":"Liege",
     "wof:parent_id":404227353,
     "wof:placetype":"region",

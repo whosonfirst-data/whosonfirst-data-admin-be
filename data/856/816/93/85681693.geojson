@@ -190,15 +190,21 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "begov:niscode":"32",
         "digitalenvoy:region_code":11081,
         "eurostat:nuts_2021_id":"BE31",
         "fips:code":"BE10",
         "gn:id":3333251,
         "gp:id":22525997,
         "hasc:id":"BE.BW",
+        "iso:code":"BE-WBR",
         "iso:id":"BE-WBR",
         "unlc:id":"BE-WBR"
     },
+    "wof:concordances_official":"begov:niscode",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"BE",
     "wof:geomhash":"102f902d3e450b0409f6f7c2b621b628",
     "wof:hierarchy":[
@@ -220,7 +226,7 @@
         "fra",
         "deu"
     ],
-    "wof:lastmodified":1684351396,
+    "wof:lastmodified":1695885160,
     "wof:name":"Brabant wallon",
     "wof:parent_id":404227353,
     "wof:placetype":"region",

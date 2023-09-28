@@ -191,14 +191,20 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "begov:niscode":"23",
         "digitalenvoy:region_code":11058,
         "eurostat:nuts_2021_id":"BE25",
         "fips:code":"BE09",
         "gn:id":2783770,
         "gp:id":7153305,
         "hasc:id":"BE.WV",
+        "iso:code":"BE-VWV",
         "iso:id":"BE-VWV"
     },
+    "wof:concordances_official":"begov:niscode",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"BE",
     "wof:geomhash":"b599549a842cf4203ff10c1204501df0",
     "wof:hierarchy":[
@@ -220,7 +226,7 @@
         "fra",
         "deu"
     ],
-    "wof:lastmodified":1684351396,
+    "wof:lastmodified":1695885160,
     "wof:name":"West-Vlaanderen",
     "wof:parent_id":404227357,
     "wof:placetype":"region",
