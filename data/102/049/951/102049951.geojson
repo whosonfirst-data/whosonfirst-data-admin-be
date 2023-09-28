@@ -302,12 +302,17 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "begov:niscode":"357",
         "eurostat:nuts_2021_id":"BE328",
         "hasc:id":"BE.HT.TR",
         "wd:id":"Q173219"
     },
+    "wof:concordances_official":"begov:niscode",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"BE",
-    "wof:geomhash":"471c085157517fff1ec6502a29ff3114",
+    "wof:geomhash":"3ebfe16fb5e72646aea6d23d4f49b677",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -318,7 +323,7 @@
         }
     ],
     "wof:id":102049951,
-    "wof:lastmodified":1690856399,
+    "wof:lastmodified":1695886582,
     "wof:name":"Tournai",
     "wof:parent_id":85681723,
     "wof:placetype":"county",

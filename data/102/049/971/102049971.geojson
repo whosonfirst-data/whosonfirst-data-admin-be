@@ -110,9 +110,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "begov:niscode":"233",
         "eurostat:nuts_2021_id":"BE253",
         "hasc:id":"BE.WV.IP"
     },
+    "wof:concordances_official":"begov:niscode",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"BE",
     "wof:geomhash":"a45f90b8ff4d62c941e780cf34cd29e5",
     "wof:hierarchy":[
@@ -125,7 +130,7 @@
         }
     ],
     "wof:id":102049971,
-    "wof:lastmodified":1684351493,
+    "wof:lastmodified":1695886583,
     "wof:name":"Ieper",
     "wof:parent_id":85681709,
     "wof:placetype":"county",

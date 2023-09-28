@@ -374,12 +374,17 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "begov:niscode":"211",
         "eurostat:nuts_2021_id":"BE211",
         "hasc:id":"BE.AN.AW",
         "wd:id":"Q1116"
     },
+    "wof:concordances_official":"begov:niscode",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"BE",
-    "wof:geomhash":"c5686778f71a301cecefe13a48462e9b",
+    "wof:geomhash":"eb1cb22d6b7ff8be37ca16c74b865ec4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -390,7 +395,7 @@
         }
     ],
     "wof:id":102050005,
-    "wof:lastmodified":1690856402,
+    "wof:lastmodified":1695886585,
     "wof:name":"Antwerpen",
     "wof:parent_id":85681715,
     "wof:placetype":"county",

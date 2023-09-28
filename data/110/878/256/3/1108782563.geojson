@@ -58,7 +58,7 @@
     "mps:latitude":50.822513,
     "mps:longitude":5.493739,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":6.0,
     "name:afr_x_preferred":[
         "Tongeren"
@@ -245,12 +245,17 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "begov:niscode":"273",
         "eurostat:nuts_2021_id":"BE223",
         "hasc:id":"BE.LI.TG",
         "wd:id":"Q190113"
     },
+    "wof:concordances_official":"begov:niscode",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"BE",
-    "wof:geomhash":"dae60af10c8beb5408e38f15ac423a04",
+    "wof:geomhash":"d72a252ac0eff35935713e4163e288aa",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -261,7 +266,7 @@
         }
     ],
     "wof:id":1108782563,
-    "wof:lastmodified":1690856432,
+    "wof:lastmodified":1695887184,
     "wof:name":"Tongeren",
     "wof:parent_id":85681705,
     "wof:placetype":"county",

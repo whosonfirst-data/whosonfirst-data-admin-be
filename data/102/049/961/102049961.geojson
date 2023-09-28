@@ -299,9 +299,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "begov:niscode":"234",
         "eurostat:nuts_2021_id":"BE254",
         "hasc:id":"BE.WV.KR"
     },
+    "wof:concordances_official":"begov:niscode",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"BE",
     "wof:geomhash":"b42ac57af24acc989cc75217ec14e8c8",
     "wof:hierarchy":[
@@ -314,7 +319,7 @@
         }
     ],
     "wof:id":102049961,
-    "wof:lastmodified":1684351493,
+    "wof:lastmodified":1695886582,
     "wof:name":"Kortrijk",
     "wof:parent_id":85681709,
     "wof:placetype":"county",

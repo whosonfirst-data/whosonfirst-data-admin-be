@@ -311,9 +311,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "begov:niscode":"352",
         "eurostat:nuts_2021_id":"BE32B",
         "hasc:id":"BE.HT.CR"
     },
+    "wof:concordances_official":"begov:niscode",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"BE",
     "wof:geomhash":"2dbe5ed6e8a38a9925145e19cb3551d6",
     "wof:hierarchy":[
@@ -326,7 +331,7 @@
         }
     ],
     "wof:id":102049927,
-    "wof:lastmodified":1684351492,
+    "wof:lastmodified":1695886581,
     "wof:name":"Charleroi",
     "wof:parent_id":85681723,
     "wof:placetype":"county",

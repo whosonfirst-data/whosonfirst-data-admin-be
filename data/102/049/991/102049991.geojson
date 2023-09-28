@@ -231,12 +231,17 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "begov:niscode":"238",
         "eurostat:nuts_2021_id":"BE258",
         "hasc:id":"BE.WV.VR",
         "wd:id":"Q506707"
     },
+    "wof:concordances_official":"begov:niscode",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"BE",
-    "wof:geomhash":"8526e9dbdfdd6b5784022fef31ce2f5f",
+    "wof:geomhash":"b6c703866c0840b3e1fffaf92d4d094e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -247,7 +252,7 @@
         }
     ],
     "wof:id":102049991,
-    "wof:lastmodified":1690856395,
+    "wof:lastmodified":1695886584,
     "wof:name":"Veurne",
     "wof:parent_id":85681709,
     "wof:placetype":"county",

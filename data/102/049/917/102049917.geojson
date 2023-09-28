@@ -228,12 +228,17 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "begov:niscode":"393",
         "eurostat:nuts_2021_id":"BE353",
         "hasc:id":"BE.NA.PV",
         "wd:id":"Q650239"
     },
+    "wof:concordances_official":"begov:niscode",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"BE",
-    "wof:geomhash":"2be0357e0e5bc96c36eb10b499a5f340",
+    "wof:geomhash":"63e0021d45e86a736ac993238c7b019c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -244,7 +249,7 @@
         }
     ],
     "wof:id":102049917,
-    "wof:lastmodified":1690856400,
+    "wof:lastmodified":1695886580,
     "wof:name":"Philippeville",
     "wof:parent_id":85681699,
     "wof:placetype":"county",

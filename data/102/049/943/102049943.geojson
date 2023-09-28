@@ -240,12 +240,17 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "begov:niscode":"355",
         "eurostat:nuts_2021_id":"BE32C",
         "hasc:id":"BE.HT.SG",
         "wd:id":"Q462985"
     },
+    "wof:concordances_official":"begov:niscode",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"BE",
-    "wof:geomhash":"dc2a51a172811b8fb2f39b4ad5476cd9",
+    "wof:geomhash":"8906e77684c0d2eec528498a4ee2b977",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -256,7 +261,7 @@
         }
     ],
     "wof:id":102049943,
-    "wof:lastmodified":1690856401,
+    "wof:lastmodified":1695886582,
     "wof:name":"Soignies",
     "wof:parent_id":85681723,
     "wof:placetype":"county",

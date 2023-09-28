@@ -237,12 +237,17 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "begov:niscode":"351",
         "eurostat:nuts_2021_id":"BE32A",
         "hasc:id":"BE.HT.AT",
         "wd:id":"Q95096"
     },
+    "wof:concordances_official":"begov:niscode",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"BE",
-    "wof:geomhash":"ecd36d9730d3cee0bfc8cc8d76ff07ed",
+    "wof:geomhash":"05ce4bd697edd1278ae5266c32902e6c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -253,7 +258,7 @@
         }
     ],
     "wof:id":102049949,
-    "wof:lastmodified":1690856397,
+    "wof:lastmodified":1695886582,
     "wof:name":"Ath",
     "wof:parent_id":85681723,
     "wof:placetype":"county",

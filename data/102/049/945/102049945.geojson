@@ -237,12 +237,17 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "begov:niscode":"325",
         "eurostat:nuts_2021_id":"BE310",
         "hasc:id":"BE.BW.NV",
         "wd:id":"Q319463"
     },
+    "wof:concordances_official":"begov:niscode",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"BE",
-    "wof:geomhash":"625447c80acc1c2e4a5ed7ee6f5e8d92",
+    "wof:geomhash":"102f902d3e450b0409f6f7c2b621b628",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -253,7 +258,7 @@
         }
     ],
     "wof:id":102049945,
-    "wof:lastmodified":1690856399,
+    "wof:lastmodified":1695886582,
     "wof:name":"Nivelles",
     "wof:parent_id":85681693,
     "wof:placetype":"county",

@@ -219,12 +219,17 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "begov:niscode":"383",
         "eurostat:nuts_2021_id":"BE343",
         "hasc:id":"BE.LX.MR",
         "wd:id":"Q269908"
     },
+    "wof:concordances_official":"begov:niscode",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"BE",
-    "wof:geomhash":"15216cf6ceb8e06d503cc1c39b189d83",
+    "wof:geomhash":"fc84018fa1431c85a01634a5d7654da2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -235,7 +240,7 @@
         }
     ],
     "wof:id":102049921,
-    "wof:lastmodified":1690856400,
+    "wof:lastmodified":1695886581,
     "wof:name":"Marche-en-Famenne",
     "wof:parent_id":85681727,
     "wof:placetype":"county",

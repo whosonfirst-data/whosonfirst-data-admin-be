@@ -161,9 +161,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "begov:niscode":"384",
         "eurostat:nuts_2021_id":"BE344",
         "hasc:id":"BE.LX.NC"
     },
+    "wof:concordances_official":"begov:niscode",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"BE",
     "wof:geomhash":"ff34756a0de5b02f9b7ca66af4ad80c3",
     "wof:hierarchy":[
@@ -176,7 +181,7 @@
         }
     ],
     "wof:id":102049913,
-    "wof:lastmodified":1684351492,
+    "wof:lastmodified":1695886580,
     "wof:name":"Neufch\u00e2teau",
     "wof:parent_id":85681727,
     "wof:placetype":"county",

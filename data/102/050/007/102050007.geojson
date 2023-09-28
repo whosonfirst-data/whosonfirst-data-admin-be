@@ -251,12 +251,17 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "begov:niscode":"213",
         "eurostat:nuts_2021_id":"BE213",
         "hasc:id":"BE.AN.TH",
         "wd:id":"Q271783"
     },
+    "wof:concordances_official":"begov:niscode",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"BE",
-    "wof:geomhash":"6ec0e50898321f4ff8920bed0e613663",
+    "wof:geomhash":"fc6495bd7a212ec53911d70ca3fbb5df",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -267,7 +272,7 @@
         }
     ],
     "wof:id":102050007,
-    "wof:lastmodified":1690856401,
+    "wof:lastmodified":1695886585,
     "wof:name":"Turnhout",
     "wof:parent_id":85681715,
     "wof:placetype":"county",

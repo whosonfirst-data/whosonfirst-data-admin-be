@@ -237,12 +237,17 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "begov:niscode":"237",
         "eurostat:nuts_2021_id":"BE257",
         "hasc:id":"BE.WV.TL",
         "wd:id":"Q651811"
     },
+    "wof:concordances_official":"begov:niscode",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"BE",
-    "wof:geomhash":"2c8a7da23260fbeab806859c95d1e823",
+    "wof:geomhash":"47d5d61b1efd7c0edcf6952d43399657",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -253,7 +258,7 @@
         }
     ],
     "wof:id":102049981,
-    "wof:lastmodified":1690856401,
+    "wof:lastmodified":1695886583,
     "wof:name":"Tielt",
     "wof:parent_id":85681709,
     "wof:placetype":"county",
