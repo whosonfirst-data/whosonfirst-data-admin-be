@@ -417,10 +417,12 @@
     "wof:breaches":[],
     "wof:concordances":{
         "eurostat:nuts_2021_id":"BE3",
+        "iso:code":"BE-WAL",
         "wd:id":"Q231"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"BE",
-    "wof:geomhash":"f6b0225c7f52cf3883c58e4b5b43a980",
+    "wof:geomhash":"05efcff6da2d970d87e448d4686a0dec",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -439,7 +441,7 @@
         "fra",
         "deu"
     ],
-    "wof:lastmodified":1690856673,
+    "wof:lastmodified":1695884169,
     "wof:name":"Wallonia",
     "wof:parent_id":85632997,
     "wof:placetype":"macroregion",
