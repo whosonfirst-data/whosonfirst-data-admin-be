@@ -31,12 +31,24 @@
     "geom:latitude":51.028669,
     "geom:longitude":4.45024,
     "iso:country":"BE",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:nld_x_preferred_placetype":[
+        "gemeinde"
+    ],
     "lbl:latitude":51.032041,
     "lbl:longitude":4.436721,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Mechelen"
@@ -227,9 +239,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "begov:niscode":"12025",
         "eg:gisco_id":"BE_12025",
         "eurostat:nuts_2021_id":"12025"
     },
+    "wof:concordances_official":"begov:niscode",
     "wof:country":"BE",
     "wof:created":1488241158,
     "wof:geomhash":"4da4f5636fba4759dd5832c608067b73",
@@ -244,7 +258,7 @@
         }
     ],
     "wof:id":1108830407,
-    "wof:lastmodified":1684351671,
+    "wof:lastmodified":1695878109,
     "wof:name":"Mechelen",
     "wof:parent_id":102049985,
     "wof:placetype":"localadmin",

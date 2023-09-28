@@ -31,12 +31,24 @@
     "geom:latitude":51.062324,
     "geom:longitude":3.095491,
     "iso:country":"BE",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:nld_x_preferred_placetype":[
+        "gemeinde"
+    ],
     "lbl:latitude":51.058831,
     "lbl:longitude":3.091611,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bre_x_preferred":[
         "Torhout"
@@ -137,9 +149,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "begov:niscode":"31033",
         "eg:gisco_id":"BE_31033",
         "eurostat:nuts_2021_id":"31033"
     },
+    "wof:concordances_official":"begov:niscode",
     "wof:country":"BE",
     "wof:created":1488241147,
     "wof:geomhash":"7213195e547cee66fb5c830e32b0c90b",
@@ -154,7 +168,7 @@
         }
     ],
     "wof:id":1108830333,
-    "wof:lastmodified":1684351667,
+    "wof:lastmodified":1695878100,
     "wof:name":"Torhout",
     "wof:parent_id":102050003,
     "wof:placetype":"localadmin",

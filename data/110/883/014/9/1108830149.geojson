@@ -31,12 +31,24 @@
     "geom:latitude":51.138445,
     "geom:longitude":5.346485,
     "iso:country":"BE",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:nld_x_preferred_placetype":[
+        "gemeinde"
+    ],
     "lbl:latitude":51.137399,
     "lbl:longitude":5.346489,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Hechtel-Eksel"
@@ -131,9 +143,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "begov:niscode":"72038",
         "eg:gisco_id":"BE_72038",
         "eurostat:nuts_2021_id":"72038"
     },
+    "wof:concordances_official":"begov:niscode",
     "wof:country":"BE",
     "wof:created":1488241119,
     "wof:geomhash":"bd2df8dc27515488ef2e34a892b1187b",
@@ -148,7 +162,7 @@
         }
     ],
     "wof:id":1108830149,
-    "wof:lastmodified":1684351657,
+    "wof:lastmodified":1695878079,
     "wof:name":"Hechtel-Eksel",
     "wof:parent_id":102049993,
     "wof:placetype":"localadmin",

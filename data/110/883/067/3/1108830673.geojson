@@ -31,12 +31,24 @@
     "geom:latitude":51.111754,
     "geom:longitude":2.679367,
     "iso:country":"BE",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:nld_x_preferred_placetype":[
+        "gemeinde"
+    ],
     "lbl:latitude":51.115607,
     "lbl:longitude":2.677887,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bre_x_preferred":[
         "Koksijde"
@@ -137,9 +149,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "begov:niscode":"38014",
         "eg:gisco_id":"BE_38014",
         "eurostat:nuts_2021_id":"38014"
     },
+    "wof:concordances_official":"begov:niscode",
     "wof:country":"BE",
     "wof:created":1488241208,
     "wof:geomhash":"7089aad63675ddb556359c2fb0ee1cc1",
@@ -154,7 +168,7 @@
         }
     ],
     "wof:id":1108830673,
-    "wof:lastmodified":1684351687,
+    "wof:lastmodified":1695878141,
     "wof:name":"Koksijde",
     "wof:parent_id":102049991,
     "wof:placetype":"localadmin",

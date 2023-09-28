@@ -31,12 +31,24 @@
     "geom:latitude":51.045336,
     "geom:longitude":5.408415,
     "iso:country":"BE",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:nld_x_preferred_placetype":[
+        "gemeinde"
+    ],
     "lbl:latitude":51.048741,
     "lbl:longitude":5.399222,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Houthalen-Helchteren"
@@ -140,9 +152,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "begov:niscode":"72039",
         "eg:gisco_id":"BE_72039",
         "eurostat:nuts_2021_id":"72039"
     },
+    "wof:concordances_official":"begov:niscode",
     "wof:country":"BE",
     "wof:created":1488241133,
     "wof:geomhash":"0af137b34fec187151f3a315a7952d0d",
@@ -157,7 +171,7 @@
         }
     ],
     "wof:id":1108830235,
-    "wof:lastmodified":1684351661,
+    "wof:lastmodified":1695878089,
     "wof:name":"Houthalen-Helchteren",
     "wof:parent_id":102049993,
     "wof:placetype":"localadmin",

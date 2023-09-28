@@ -19,12 +19,24 @@
     "geom:latitude":51.051138,
     "geom:longitude":4.230962,
     "iso:country":"BE",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:nld_x_preferred_placetype":[
+        "gemeinde"
+    ],
     "lbl:latitude":51.055577,
     "lbl:longitude":4.238977,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bre_x_preferred":[
         "Sint-Amands"
@@ -110,10 +122,13 @@
         102049985
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "begov:niscode":"12034"
+    },
+    "wof:concordances_official":"begov:niscode",
     "wof:country":"BE",
     "wof:created":1488241119,
-    "wof:geomhash":"b7902414077c590ad911d6529d535cbb",
+    "wof:geomhash":"af084dc3ef11483070523211a24e2863",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -125,7 +140,7 @@
         }
     ],
     "wof:id":1108830145,
-    "wof:lastmodified":1566611528,
+    "wof:lastmodified":1695878059,
     "wof:name":"Sint-Amands",
     "wof:parent_id":102049985,
     "wof:placetype":"localadmin",

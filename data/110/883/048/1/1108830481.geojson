@@ -31,12 +31,24 @@
     "geom:latitude":50.912037,
     "geom:longitude":3.367311,
     "iso:country":"BE",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:nld_x_preferred_placetype":[
+        "gemeinde"
+    ],
     "lbl:latitude":50.917466,
     "lbl:longitude":3.376684,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bre_x_preferred":[
         "Wielsbeke"
@@ -134,9 +146,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "begov:niscode":"37017",
         "eg:gisco_id":"BE_37017",
         "eurostat:nuts_2021_id":"37017"
     },
+    "wof:concordances_official":"begov:niscode",
     "wof:country":"BE",
     "wof:created":1488241170,
     "wof:geomhash":"93aa6d64ae3c10548212c3065eff20f8",
@@ -151,7 +165,7 @@
         }
     ],
     "wof:id":1108830481,
-    "wof:lastmodified":1684351676,
+    "wof:lastmodified":1695878118,
     "wof:name":"Wielsbeke",
     "wof:parent_id":102049981,
     "wof:placetype":"localadmin",

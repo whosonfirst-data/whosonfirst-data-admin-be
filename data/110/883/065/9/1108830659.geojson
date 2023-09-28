@@ -31,12 +31,24 @@
     "geom:latitude":51.122674,
     "geom:longitude":4.342852,
     "iso:country":"BE",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:nld_x_preferred_placetype":[
+        "gemeinde"
+    ],
     "lbl:latitude":51.123287,
     "lbl:longitude":4.346297,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bre_x_preferred":[
         "Schelle"
@@ -122,9 +134,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "begov:niscode":"11038",
         "eg:gisco_id":"BE_11038",
         "eurostat:nuts_2021_id":"11038"
     },
+    "wof:concordances_official":"begov:niscode",
     "wof:country":"BE",
     "wof:created":1488241206,
     "wof:geomhash":"bed67e14494a17c84ad99342d879d528",
@@ -139,7 +153,7 @@
         }
     ],
     "wof:id":1108830659,
-    "wof:lastmodified":1684351687,
+    "wof:lastmodified":1695878140,
     "wof:name":"Schelle",
     "wof:parent_id":102050005,
     "wof:placetype":"localadmin",

@@ -31,12 +31,24 @@
     "geom:latitude":50.754687,
     "geom:longitude":5.061629,
     "iso:country":"BE",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:nld_x_preferred_placetype":[
+        "gemeinde"
+    ],
     "lbl:latitude":50.753654,
     "lbl:longitude":5.072067,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bre_x_preferred":[
         "Landen"
@@ -122,9 +134,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "begov:niscode":"24059",
         "eg:gisco_id":"BE_24059",
         "eurostat:nuts_2021_id":"24059"
     },
+    "wof:concordances_official":"begov:niscode",
     "wof:country":"BE",
     "wof:created":1488241136,
     "wof:geomhash":"b8f3cd05855a9e641a9e8ed0e73a79c2",
@@ -139,7 +153,7 @@
         }
     ],
     "wof:id":1108830259,
-    "wof:lastmodified":1684351663,
+    "wof:lastmodified":1695878092,
     "wof:name":"Landen",
     "wof:parent_id":102049969,
     "wof:placetype":"localadmin",

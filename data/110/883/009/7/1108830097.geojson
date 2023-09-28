@@ -31,12 +31,24 @@
     "geom:latitude":51.118366,
     "geom:longitude":4.573897,
     "iso:country":"BE",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:nld_x_preferred_placetype":[
+        "gemeinde"
+    ],
     "lbl:latitude":51.124851,
     "lbl:longitude":4.580628,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Lier"
@@ -104,9 +116,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "begov:niscode":"12021",
         "eg:gisco_id":"BE_12021",
         "eurostat:nuts_2021_id":"12021"
     },
+    "wof:concordances_official":"begov:niscode",
     "wof:country":"BE",
     "wof:created":1488241111,
     "wof:geomhash":"c3afcc8e13427532469b70da01358071",
@@ -121,7 +135,7 @@
         }
     ],
     "wof:id":1108830097,
-    "wof:lastmodified":1684351654,
+    "wof:lastmodified":1695878073,
     "wof:name":"Lier",
     "wof:parent_id":102049985,
     "wof:placetype":"localadmin",

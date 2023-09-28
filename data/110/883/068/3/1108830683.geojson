@@ -31,12 +31,24 @@
     "geom:latitude":51.238092,
     "geom:longitude":2.976297,
     "iso:country":"BE",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:nld_x_preferred_placetype":[
+        "gemeinde"
+    ],
     "lbl:latitude":51.238983,
     "lbl:longitude":2.976843,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:als_x_preferred":[
         "Bredene"
@@ -131,9 +143,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "begov:niscode":"35002",
         "eg:gisco_id":"BE_35002",
         "eurostat:nuts_2021_id":"35002"
     },
+    "wof:concordances_official":"begov:niscode",
     "wof:country":"BE",
     "wof:created":1488241210,
     "wof:geomhash":"91d667ecda4d02f785cc9f6c0937ab2f",
@@ -148,7 +162,7 @@
         }
     ],
     "wof:id":1108830683,
-    "wof:lastmodified":1684351688,
+    "wof:lastmodified":1695878142,
     "wof:name":"Bredene",
     "wof:parent_id":102049999,
     "wof:placetype":"localadmin",

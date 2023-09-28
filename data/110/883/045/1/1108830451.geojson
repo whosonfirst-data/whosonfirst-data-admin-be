@@ -31,12 +31,24 @@
     "geom:latitude":51.113302,
     "geom:longitude":3.961414,
     "iso:country":"BE",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:nld_x_preferred_placetype":[
+        "gemeinde"
+    ],
     "lbl:latitude":51.112748,
     "lbl:longitude":3.955862,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Lokeren"
@@ -164,9 +176,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "begov:niscode":"46014",
         "eg:gisco_id":"BE_46014",
         "eurostat:nuts_2021_id":"46014"
     },
+    "wof:concordances_official":"begov:niscode",
     "wof:country":"BE",
     "wof:created":1488241165,
     "wof:geomhash":"5c423834c804026a391b322de61f8acb",
@@ -181,7 +195,7 @@
         }
     ],
     "wof:id":1108830451,
-    "wof:lastmodified":1684351674,
+    "wof:lastmodified":1695878115,
     "wof:name":"Lokeren",
     "wof:parent_id":102049997,
     "wof:placetype":"localadmin",

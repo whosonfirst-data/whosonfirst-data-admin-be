@@ -31,12 +31,24 @@
     "geom:latitude":50.810128,
     "geom:longitude":3.05647,
     "iso:country":"BE",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:nld_x_preferred_placetype":[
+        "gemeinde"
+    ],
     "lbl:latitude":50.810825,
     "lbl:longitude":3.055434,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Wervik"
@@ -143,9 +155,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "begov:niscode":"33029",
         "eg:gisco_id":"BE_33029",
         "eurostat:nuts_2021_id":"33029"
     },
+    "wof:concordances_official":"begov:niscode",
     "wof:country":"BE",
     "wof:created":1488241125,
     "wof:geomhash":"2d0d4e5266575716c9010eba130eb602",
@@ -160,7 +174,7 @@
         }
     ],
     "wof:id":1108830187,
-    "wof:lastmodified":1684351659,
+    "wof:lastmodified":1695878084,
     "wof:name":"Wervik",
     "wof:parent_id":102049971,
     "wof:placetype":"localadmin",

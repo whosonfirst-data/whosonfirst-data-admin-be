@@ -31,12 +31,24 @@
     "geom:latitude":50.779123,
     "geom:longitude":4.87652,
     "iso:country":"BE",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:nld_x_preferred_placetype":[
+        "gemeinde"
+    ],
     "lbl:latitude":50.785891,
     "lbl:longitude":4.871289,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bre_x_preferred":[
         "Hoegaarden"
@@ -131,9 +143,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "begov:niscode":"24041",
         "eg:gisco_id":"BE_24041",
         "eurostat:nuts_2021_id":"24041"
     },
+    "wof:concordances_official":"begov:niscode",
     "wof:country":"BE",
     "wof:created":1488241139,
     "wof:geomhash":"c754bff216e877a98cd0a6a9ce036253",
@@ -148,7 +162,7 @@
         }
     ],
     "wof:id":1108830281,
-    "wof:lastmodified":1684351664,
+    "wof:lastmodified":1695878094,
     "wof:name":"Hoegaarden",
     "wof:parent_id":102049969,
     "wof:placetype":"localadmin",

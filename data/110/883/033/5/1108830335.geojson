@@ -31,12 +31,24 @@
     "geom:latitude":50.970002,
     "geom:longitude":2.896439,
     "iso:country":"BE",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:nld_x_preferred_placetype":[
+        "gemeinde"
+    ],
     "lbl:latitude":50.971251,
     "lbl:longitude":2.902097,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bre_x_preferred":[
         "Houthulst"
@@ -134,9 +146,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "begov:niscode":"32006",
         "eg:gisco_id":"BE_32006",
         "eurostat:nuts_2021_id":"32006"
     },
+    "wof:concordances_official":"begov:niscode",
     "wof:country":"BE",
     "wof:created":1488241147,
     "wof:geomhash":"9d6876da62ea2a7ba39cbf02000620b9",
@@ -151,7 +165,7 @@
         }
     ],
     "wof:id":1108830335,
-    "wof:lastmodified":1684351667,
+    "wof:lastmodified":1695878100,
     "wof:name":"Houthulst",
     "wof:parent_id":102049987,
     "wof:placetype":"localadmin",

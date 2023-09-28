@@ -31,12 +31,24 @@
     "geom:latitude":50.893133,
     "geom:longitude":5.023111,
     "iso:country":"BE",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:nld_x_preferred_placetype":[
+        "gemeinde"
+    ],
     "lbl:latitude":50.896226,
     "lbl:longitude":5.021955,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bre_x_preferred":[
         "Kortenaken"
@@ -122,9 +134,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "begov:niscode":"24054",
         "eg:gisco_id":"BE_24054",
         "eurostat:nuts_2021_id":"24054"
     },
+    "wof:concordances_official":"begov:niscode",
     "wof:country":"BE",
     "wof:created":1488241148,
     "wof:geomhash":"237fb1979b3242f705ae31dc6b8ca76a",
@@ -139,7 +153,7 @@
         }
     ],
     "wof:id":1108830345,
-    "wof:lastmodified":1684351667,
+    "wof:lastmodified":1695878102,
     "wof:name":"Kortenaken",
     "wof:parent_id":102049969,
     "wof:placetype":"localadmin",

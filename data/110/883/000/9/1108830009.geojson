@@ -14,17 +14,29 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003108,
-    "geom:area_square_m":24230773.811383,
+    "geom:area_square_m":24230773.811384,
     "geom:bbox":"3.56372889733,50.8823570105,3.68677426917,50.9401629841",
     "geom:latitude":50.908348,
     "geom:longitude":3.622255,
     "iso:country":"BE",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:nld_x_preferred_placetype":[
+        "gemeinde"
+    ],
     "lbl:latitude":50.916732,
     "lbl:longitude":3.605919,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bre_x_preferred":[
         "Zingem"
@@ -110,10 +122,13 @@
         102049963
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "begov:niscode":"45057"
+    },
+    "wof:concordances_official":"begov:niscode",
     "wof:country":"BE",
     "wof:created":1488241096,
-    "wof:geomhash":"2b03eacb230e76788b3abac74d36ef32",
+    "wof:geomhash":"c988d3641555bc8d339e26be7ea27c42",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -125,7 +140,7 @@
         }
     ],
     "wof:id":1108830009,
-    "wof:lastmodified":1566611558,
+    "wof:lastmodified":1695878060,
     "wof:name":"Zingem",
     "wof:parent_id":102049963,
     "wof:placetype":"localadmin",

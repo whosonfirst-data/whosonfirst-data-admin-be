@@ -31,12 +31,24 @@
     "geom:latitude":50.750392,
     "geom:longitude":4.301844,
     "iso:country":"BE",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:nld_x_preferred_placetype":[
+        "gemeinde"
+    ],
     "lbl:latitude":50.748663,
     "lbl:longitude":4.301833,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bre_x_preferred":[
         "Beersel"
@@ -134,9 +146,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "begov:niscode":"23003",
         "eg:gisco_id":"BE_23003",
         "eurostat:nuts_2021_id":"23003"
     },
+    "wof:concordances_official":"begov:niscode",
     "wof:country":"BE",
     "wof:created":1488241135,
     "wof:geomhash":"6abb4e53afa8f50ccc3e4cd9e2bdf2bb",
@@ -151,7 +165,7 @@
         }
     ],
     "wof:id":1108830253,
-    "wof:lastmodified":1684351662,
+    "wof:lastmodified":1695878091,
     "wof:name":"Beersel",
     "wof:parent_id":102049973,
     "wof:placetype":"localadmin",

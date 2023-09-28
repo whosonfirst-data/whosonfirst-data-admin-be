@@ -14,17 +14,29 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005259,
-    "geom:area_square_m":40743813.731706,
+    "geom:area_square_m":40743813.731709,
     "geom:bbox":"5.32014086842,51.1642614189,5.44298046738,51.2468849786",
     "geom:latitude":51.200297,
     "geom:longitude":5.393401,
     "iso:country":"BE",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:nld_x_preferred_placetype":[
+        "gemeinde"
+    ],
     "lbl:latitude":51.203959,
     "lbl:longitude":5.394335,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Overpelt"
@@ -119,10 +131,13 @@
         102049993
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "begov:niscode":"72029"
+    },
+    "wof:concordances_official":"begov:niscode",
     "wof:country":"BE",
     "wof:created":1488241207,
-    "wof:geomhash":"e170c11052e5d6bbecea10dfcaf2b18e",
+    "wof:geomhash":"d49df18c82d389c729eed89e807c9c56",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -134,7 +149,7 @@
         }
     ],
     "wof:id":1108830665,
-    "wof:lastmodified":1566611653,
+    "wof:lastmodified":1695878061,
     "wof:name":"Overpelt",
     "wof:parent_id":102049993,
     "wof:placetype":"localadmin",

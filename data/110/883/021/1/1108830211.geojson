@@ -14,17 +14,29 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.011714,
-    "geom:area_square_m":90990799.302846,
+    "geom:area_square_m":90990799.302843,
     "geom:bbox":"5.45438407266,51.0294779015,5.66606660486,51.1463475274",
     "geom:latitude":51.084407,
     "geom:longitude":5.552194,
     "iso:country":"BE",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:nld_x_preferred_placetype":[
+        "gemeinde"
+    ],
     "lbl:latitude":51.09262,
     "lbl:longitude":5.532931,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Meeuwen-Gruitrode"
@@ -119,10 +131,13 @@
         102049993
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "begov:niscode":"72040"
+    },
+    "wof:concordances_official":"begov:niscode",
     "wof:country":"BE",
     "wof:created":1488241129,
-    "wof:geomhash":"ca393f3b26ce4a3b5edc7c8cd16d5b50",
+    "wof:geomhash":"f84f6c4bd7a7d12f1339240e1e9226b7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -134,7 +149,7 @@
         }
     ],
     "wof:id":1108830211,
-    "wof:lastmodified":1566611634,
+    "wof:lastmodified":1695878061,
     "wof:name":"Meeuwen-Gruitrode",
     "wof:parent_id":102049993,
     "wof:placetype":"localadmin",

@@ -14,17 +14,29 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00481,
-    "geom:area_square_m":37325033.068441,
+    "geom:area_square_m":37325033.068442,
     "geom:bbox":"3.36785801955,51.1092715751,3.52518658238,51.1598964839",
     "geom:latitude":51.132676,
     "geom:longitude":3.451546,
     "iso:country":"BE",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:nld_x_preferred_placetype":[
+        "gemeinde"
+    ],
     "lbl:latitude":51.133701,
     "lbl:longitude":3.459407,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bre_x_preferred":[
         "Knesselare"
@@ -110,10 +122,13 @@
         102049989
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "begov:niscode":"44029"
+    },
+    "wof:concordances_official":"begov:niscode",
     "wof:country":"BE",
     "wof:created":1488241180,
-    "wof:geomhash":"aa6f997b7b34be2b25ee1b21a181b427",
+    "wof:geomhash":"262cfce1a8284d023e99b8a334d1c227",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -125,7 +140,7 @@
         }
     ],
     "wof:id":1108830533,
-    "wof:lastmodified":1566611553,
+    "wof:lastmodified":1695878060,
     "wof:name":"Knesselare",
     "wof:parent_id":102049989,
     "wof:placetype":"localadmin",

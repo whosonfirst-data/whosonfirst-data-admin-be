@@ -31,12 +31,24 @@
     "geom:latitude":51.18045,
     "geom:longitude":3.873289,
     "iso:country":"BE",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:nld_x_preferred_placetype":[
+        "gemeinde"
+    ],
     "lbl:latitude":51.179198,
     "lbl:longitude":3.86775,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Wachtebeke"
@@ -137,9 +149,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "begov:niscode":"44073",
         "eg:gisco_id":"BE_44073",
         "eurostat:nuts_2021_id":"44073"
     },
+    "wof:concordances_official":"begov:niscode",
     "wof:country":"BE",
     "wof:created":1488241105,
     "wof:geomhash":"f75778e21ffba3abf5a8d9be93ce03c7",
@@ -154,7 +168,7 @@
         }
     ],
     "wof:id":1108830059,
-    "wof:lastmodified":1684351652,
+    "wof:lastmodified":1695878068,
     "wof:name":"Wachtebeke",
     "wof:parent_id":102049989,
     "wof:placetype":"localadmin",

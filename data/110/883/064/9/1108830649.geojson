@@ -31,12 +31,24 @@
     "geom:latitude":50.935432,
     "geom:longitude":5.308235,
     "iso:country":"BE",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:nld_x_preferred_placetype":[
+        "gemeinde"
+    ],
     "lbl:latitude":50.938014,
     "lbl:longitude":5.306704,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Hasselt"
@@ -236,9 +248,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "begov:niscode":"71022",
         "eg:gisco_id":"BE_71022",
         "eurostat:nuts_2021_id":"71022"
     },
+    "wof:concordances_official":"begov:niscode",
     "wof:country":"BE",
     "wof:created":1488241204,
     "wof:geomhash":"6aa72dfbb6c278365ec94552d20a50b2",
@@ -253,7 +267,7 @@
         }
     ],
     "wof:id":1108830649,
-    "wof:lastmodified":1684351686,
+    "wof:lastmodified":1695878138,
     "wof:name":"Hasselt",
     "wof:parent_id":102049975,
     "wof:placetype":"localadmin",

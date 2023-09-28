@@ -31,12 +31,24 @@
     "geom:latitude":51.080707,
     "geom:longitude":2.588274,
     "iso:country":"BE",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:nld_x_preferred_placetype":[
+        "gemeinde"
+    ],
     "lbl:latitude":51.081959,
     "lbl:longitude":2.588271,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "De Panne"
@@ -146,9 +158,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "begov:niscode":"38008",
         "eg:gisco_id":"BE_38008",
         "eurostat:nuts_2021_id":"38008"
     },
+    "wof:concordances_official":"begov:niscode",
     "wof:country":"BE",
     "wof:created":1488241212,
     "wof:geomhash":"aae1bbaa273e8be7a000c75d75eaf0b1",
@@ -163,7 +177,7 @@
         }
     ],
     "wof:id":1108830697,
-    "wof:lastmodified":1684351689,
+    "wof:lastmodified":1695878144,
     "wof:name":"De Panne",
     "wof:parent_id":102049991,
     "wof:placetype":"localadmin",

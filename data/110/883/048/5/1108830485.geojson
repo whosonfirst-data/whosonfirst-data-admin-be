@@ -31,12 +31,24 @@
     "geom:latitude":50.710659,
     "geom:longitude":3.932122,
     "iso:country":"BE",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:nld_x_preferred_placetype":[
+        "gemeinde"
+    ],
     "lbl:latitude":50.712394,
     "lbl:longitude":3.928671,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Bever"
@@ -101,9 +113,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "begov:niscode":"23009",
         "eg:gisco_id":"BE_23009",
         "eurostat:nuts_2021_id":"23009"
     },
+    "wof:concordances_official":"begov:niscode",
     "wof:country":"BE",
     "wof:created":1488241170,
     "wof:geomhash":"49cfa11eed3ab9c8a73740bbd3f394d7",
@@ -118,7 +132,7 @@
         }
     ],
     "wof:id":1108830485,
-    "wof:lastmodified":1684351676,
+    "wof:lastmodified":1695878118,
     "wof:name":"Bever",
     "wof:parent_id":102049973,
     "wof:placetype":"localadmin",

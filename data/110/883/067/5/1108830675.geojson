@@ -31,12 +31,24 @@
     "geom:latitude":51.332466,
     "geom:longitude":3.308092,
     "iso:country":"BE",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:nld_x_preferred_placetype":[
+        "gemeinde"
+    ],
     "lbl:latitude":51.331353,
     "lbl:longitude":3.309615,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Knokke-Heist"
@@ -170,9 +182,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "begov:niscode":"31043",
         "eg:gisco_id":"BE_31043",
         "eurostat:nuts_2021_id":"31043"
     },
+    "wof:concordances_official":"begov:niscode",
     "wof:country":"BE",
     "wof:created":1488241209,
     "wof:geomhash":"958c359cb5a25063c547ff55b3fefb18",
@@ -187,7 +201,7 @@
         }
     ],
     "wof:id":1108830675,
-    "wof:lastmodified":1684351688,
+    "wof:lastmodified":1695878141,
     "wof:name":"Knokke-Heist",
     "wof:parent_id":102050003,
     "wof:placetype":"localadmin",

@@ -31,12 +31,24 @@
     "geom:latitude":50.805362,
     "geom:longitude":5.592331,
     "iso:country":"BE",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:nld_x_preferred_placetype":[
+        "gemeinde"
+    ],
     "lbl:latitude":50.807332,
     "lbl:longitude":5.593652,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Riemst"
@@ -134,9 +146,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "begov:niscode":"73066",
         "eg:gisco_id":"BE_73066",
         "eurostat:nuts_2021_id":"73066"
     },
+    "wof:concordances_official":"begov:niscode",
     "wof:country":"BE",
     "wof:created":1488241112,
     "wof:geomhash":"93f77b8402104948c1eeeb8b79728ee8",
@@ -151,7 +165,7 @@
         }
     ],
     "wof:id":1108830103,
-    "wof:lastmodified":1684351654,
+    "wof:lastmodified":1695878074,
     "wof:name":"Riemst",
     "wof:parent_id":1108782563,
     "wof:placetype":"localadmin",

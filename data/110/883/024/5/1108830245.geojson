@@ -31,12 +31,24 @@
     "geom:latitude":50.872101,
     "geom:longitude":5.533639,
     "iso:country":"BE",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:nld_x_preferred_placetype":[
+        "gemeinde"
+    ],
     "lbl:latitude":50.867406,
     "lbl:longitude":5.535029,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Bilzen"
@@ -155,9 +167,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "begov:niscode":"73006",
         "eg:gisco_id":"BE_73006",
         "eurostat:nuts_2021_id":"73006"
     },
+    "wof:concordances_official":"begov:niscode",
     "wof:country":"BE",
     "wof:created":1488241134,
     "wof:geomhash":"8bfaee5464a777685556d415b48294fa",
@@ -172,7 +186,7 @@
         }
     ],
     "wof:id":1108830245,
-    "wof:lastmodified":1684351661,
+    "wof:lastmodified":1695878090,
     "wof:name":"Bilzen",
     "wof:parent_id":1108782563,
     "wof:placetype":"localadmin",

@@ -31,12 +31,24 @@
     "geom:latitude":50.779681,
     "geom:longitude":3.530096,
     "iso:country":"BE",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:nld_x_preferred_placetype":[
+        "gemeinde"
+    ],
     "lbl:latitude":50.787472,
     "lbl:longitude":3.536405,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bre_x_preferred":[
         "Kluisbergen"
@@ -131,9 +143,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "begov:niscode":"45060",
         "eg:gisco_id":"BE_45060",
         "eurostat:nuts_2021_id":"45060"
     },
+    "wof:concordances_official":"begov:niscode",
     "wof:country":"BE",
     "wof:created":1488241116,
     "wof:geomhash":"69c7813b1bbb3cb9f0e3d0a5a5925594",
@@ -148,7 +162,7 @@
         }
     ],
     "wof:id":1108830129,
-    "wof:lastmodified":1684351655,
+    "wof:lastmodified":1695878077,
     "wof:name":"Kluisbergen",
     "wof:parent_id":102049963,
     "wof:placetype":"localadmin",

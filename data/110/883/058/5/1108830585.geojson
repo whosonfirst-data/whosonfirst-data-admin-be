@@ -31,12 +31,24 @@
     "geom:latitude":50.759742,
     "geom:longitude":2.897591,
     "iso:country":"BE",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:nld_x_preferred_placetype":[
+        "gemeinde"
+    ],
     "lbl:latitude":50.76055,
     "lbl:longitude":2.900402,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0645\u064a\u0633\u0646"
@@ -140,9 +152,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "begov:niscode":"33016",
         "eg:gisco_id":"BE_33016",
         "eurostat:nuts_2021_id":"33016"
     },
+    "wof:concordances_official":"begov:niscode",
     "wof:country":"BE",
     "wof:created":1488241190,
     "wof:geomhash":"4eb52aaa175f264f9b9a3a4ddea32a4f",
@@ -157,7 +171,7 @@
         }
     ],
     "wof:id":1108830585,
-    "wof:lastmodified":1684351682,
+    "wof:lastmodified":1695878130,
     "wof:name":"Mesen",
     "wof:parent_id":102049971,
     "wof:placetype":"localadmin",

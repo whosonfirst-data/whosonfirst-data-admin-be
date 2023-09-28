@@ -31,12 +31,24 @@
     "geom:latitude":51.217662,
     "geom:longitude":4.7729,
     "iso:country":"BE",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:nld_x_preferred_placetype":[
+        "gemeinde"
+    ],
     "lbl:latitude":51.220385,
     "lbl:longitude":4.773718,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bre_x_preferred":[
         "Vorselaar"
@@ -122,9 +134,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "begov:niscode":"13044",
         "eg:gisco_id":"BE_13044",
         "eurostat:nuts_2021_id":"13044"
     },
+    "wof:concordances_official":"begov:niscode",
     "wof:country":"BE",
     "wof:created":1488241133,
     "wof:geomhash":"0735c4ff7f3ad4e1a8c7aa3c451a9767",
@@ -139,7 +153,7 @@
         }
     ],
     "wof:id":1108830237,
-    "wof:lastmodified":1684351661,
+    "wof:lastmodified":1695878089,
     "wof:name":"Vorselaar",
     "wof:parent_id":102050007,
     "wof:placetype":"localadmin",

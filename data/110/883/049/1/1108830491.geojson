@@ -31,12 +31,24 @@
     "geom:latitude":51.314403,
     "geom:longitude":4.823323,
     "iso:country":"BE",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:nld_x_preferred_placetype":[
+        "gemeinde"
+    ],
     "lbl:latitude":51.315214,
     "lbl:longitude":4.816932,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0628\u064a\u0631\u0633\u0647"
@@ -131,9 +143,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "begov:niscode":"13004",
         "eg:gisco_id":"BE_13004",
         "eurostat:nuts_2021_id":"13004"
     },
+    "wof:concordances_official":"begov:niscode",
     "wof:country":"BE",
     "wof:created":1488241171,
     "wof:geomhash":"6141b0a61aff9746270f03086e5690bb",
@@ -148,7 +162,7 @@
         }
     ],
     "wof:id":1108830491,
-    "wof:lastmodified":1684351676,
+    "wof:lastmodified":1695878119,
     "wof:name":"Beerse",
     "wof:parent_id":102050007,
     "wof:placetype":"localadmin",

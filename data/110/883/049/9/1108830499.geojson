@@ -31,12 +31,24 @@
     "geom:latitude":50.744459,
     "geom:longitude":4.37366,
     "iso:country":"BE",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:nld_x_preferred_placetype":[
+        "gemeinde"
+    ],
     "lbl:latitude":50.74796,
     "lbl:longitude":4.374425,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Sint-Genesius-Rode"
@@ -128,9 +140,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "begov:niscode":"23101",
         "eg:gisco_id":"BE_23101",
         "eurostat:nuts_2021_id":"23101"
     },
+    "wof:concordances_official":"begov:niscode",
     "wof:country":"BE",
     "wof:created":1488241174,
     "wof:geomhash":"a52b870cd7b0f3a99a257d7eda07fc62",
@@ -145,7 +159,7 @@
         }
     ],
     "wof:id":1108830499,
-    "wof:lastmodified":1684351677,
+    "wof:lastmodified":1695878120,
     "wof:name":"Sint-Genesius-Rode",
     "wof:parent_id":102049973,
     "wof:placetype":"localadmin",

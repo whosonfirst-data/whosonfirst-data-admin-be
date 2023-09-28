@@ -31,12 +31,24 @@
     "geom:latitude":51.355154,
     "geom:longitude":4.767497,
     "iso:country":"BE",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:nld_x_preferred_placetype":[
+        "gemeinde"
+    ],
     "lbl:latitude":51.351525,
     "lbl:longitude":4.763038,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bre_x_preferred":[
         "Rijkevorsel"
@@ -119,9 +131,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "begov:niscode":"13037",
         "eg:gisco_id":"BE_13037",
         "eurostat:nuts_2021_id":"13037"
     },
+    "wof:concordances_official":"begov:niscode",
     "wof:country":"BE",
     "wof:created":1488241171,
     "wof:geomhash":"d02fd5ba0a76c31c0472ad470345b957",
@@ -136,7 +150,7 @@
         }
     ],
     "wof:id":1108830487,
-    "wof:lastmodified":1684351676,
+    "wof:lastmodified":1695878119,
     "wof:name":"Rijkevorsel",
     "wof:parent_id":102050007,
     "wof:placetype":"localadmin",

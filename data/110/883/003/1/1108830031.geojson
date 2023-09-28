@@ -31,12 +31,24 @@
     "geom:latitude":50.771781,
     "geom:longitude":5.464415,
     "iso:country":"BE",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:nld_x_preferred_placetype":[
+        "gemeinde"
+    ],
     "lbl:latitude":50.776521,
     "lbl:longitude":5.464377,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Tongeren"
@@ -185,9 +197,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "begov:niscode":"73083",
         "eg:gisco_id":"BE_73083",
         "eurostat:nuts_2021_id":"73083"
     },
+    "wof:concordances_official":"begov:niscode",
     "wof:country":"BE",
     "wof:created":1488241099,
     "wof:geomhash":"7ae7669e8d698caceb82ec1c60b7afcf",
@@ -202,7 +216,7 @@
         }
     ],
     "wof:id":1108830031,
-    "wof:lastmodified":1684351650,
+    "wof:lastmodified":1695878065,
     "wof:name":"Tongeren",
     "wof:parent_id":1108782563,
     "wof:placetype":"localadmin",

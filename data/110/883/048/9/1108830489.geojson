@@ -31,12 +31,24 @@
     "geom:latitude":50.998754,
     "geom:longitude":3.953474,
     "iso:country":"BE",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:nld_x_preferred_placetype":[
+        "gemeinde"
+    ],
     "lbl:latitude":50.997394,
     "lbl:longitude":3.966049,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bre_x_preferred":[
         "Wichelen"
@@ -128,9 +140,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "begov:niscode":"42026",
         "eg:gisco_id":"BE_42026",
         "eurostat:nuts_2021_id":"42026"
     },
+    "wof:concordances_official":"begov:niscode",
     "wof:country":"BE",
     "wof:created":1488241171,
     "wof:geomhash":"409bffc29f31a36b6c36112bea9e94ab",
@@ -145,7 +159,7 @@
         }
     ],
     "wof:id":1108830489,
-    "wof:lastmodified":1684351676,
+    "wof:lastmodified":1695878119,
     "wof:name":"Wichelen",
     "wof:parent_id":102049979,
     "wof:placetype":"localadmin",

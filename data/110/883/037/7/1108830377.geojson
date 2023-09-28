@@ -31,12 +31,24 @@
     "geom:latitude":51.328494,
     "geom:longitude":4.376764,
     "iso:country":"BE",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:nld_x_preferred_placetype":[
+        "gemeinde"
+    ],
     "lbl:latitude":51.326951,
     "lbl:longitude":4.372288,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bel_x_preferred":[
         "\u0421\u0442\u0430\u0431\u0440\u0443\u043a"
@@ -128,9 +140,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "begov:niscode":"11044",
         "eg:gisco_id":"BE_11044",
         "eurostat:nuts_2021_id":"11044"
     },
+    "wof:concordances_official":"begov:niscode",
     "wof:country":"BE",
     "wof:created":1488241153,
     "wof:geomhash":"6cbbd15c6081f4f673784c3fcffe69bc",
@@ -145,7 +159,7 @@
         }
     ],
     "wof:id":1108830377,
-    "wof:lastmodified":1684351669,
+    "wof:lastmodified":1695878105,
     "wof:name":"Stabroek",
     "wof:parent_id":102050005,
     "wof:placetype":"localadmin",

@@ -31,12 +31,24 @@
     "geom:latitude":51.003622,
     "geom:longitude":4.354735,
     "iso:country":"BE",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:nld_x_preferred_placetype":[
+        "gemeinde"
+    ],
     "lbl:latitude":51.00106,
     "lbl:longitude":4.354198,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bar_x_preferred":[
         "Kapelle-op-den-Bos"
@@ -128,9 +140,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "begov:niscode":"23039",
         "eg:gisco_id":"BE_23039",
         "eurostat:nuts_2021_id":"23039"
     },
+    "wof:concordances_official":"begov:niscode",
     "wof:country":"BE",
     "wof:created":1488241102,
     "wof:geomhash":"3424a244861febe4106343d0152424bb",
@@ -145,7 +159,7 @@
         }
     ],
     "wof:id":1108830039,
-    "wof:lastmodified":1684351651,
+    "wof:lastmodified":1695878066,
     "wof:name":"Kapelle-op-den-Bos",
     "wof:parent_id":102049973,
     "wof:placetype":"localadmin",
