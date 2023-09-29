@@ -659,21 +659,27 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "begov:niscode":"40",
         "digitalenvoy:region_code":28295,
         "eurostat:nuts_2021_id":"BE10",
         "fips:code":"BE11",
         "gn:id":6693370,
         "gp:id":55965974,
         "hasc:id":"BE.BR",
+        "iso:code":"BE-BRU",
         "iso:id":"BE-BRU",
         "unlc:id":"BE-BRU",
         "wd:id":"Q240"
     },
+    "wof:concordances_official":"begov:niscode",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:coterminous":[
         1175610569
     ],
     "wof:country":"BE",
-    "wof:geomhash":"63ba5553be5939d695f2c2c22f43ea7a",
+    "wof:geomhash":"52f9d4327c9f4727b8607f6b10906bc8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -693,7 +699,7 @@
         "fra",
         "deu"
     ],
-    "wof:lastmodified":1690856405,
+    "wof:lastmodified":1695885160,
     "wof:name":"Brussels-Capital Region",
     "wof:parent_id":404227355,
     "wof:placetype":"region",

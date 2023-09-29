@@ -224,9 +224,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "begov:niscode":"382",
         "eurostat:nuts_2021_id":"BE342",
         "hasc:id":"BE.LX.BS"
     },
+    "wof:concordances_official":"begov:niscode",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"BE",
     "wof:geomhash":"9e1bde13a04b4b458aba56abf1b5e97c",
     "wof:hierarchy":[
@@ -239,7 +244,7 @@
         }
     ],
     "wof:id":102049915,
-    "wof:lastmodified":1684351492,
+    "wof:lastmodified":1695886580,
     "wof:name":"Bastogne",
     "wof:parent_id":85681727,
     "wof:placetype":"county",

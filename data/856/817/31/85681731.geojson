@@ -460,18 +460,24 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "begov:niscode":"22",
         "digitalenvoy:region_code":14480,
         "eurostat:nuts_2021_id":"BE24",
         "fips:code":"BE12",
         "gn:id":3333250,
         "gp:id":22525998,
         "hasc:id":"BE.VB",
+        "iso:code":"BE-VBR",
         "iso:id":"BE-VBR",
         "unlc:id":"BE-VBR",
         "wd:id":"Q1118"
     },
+    "wof:concordances_official":"begov:niscode",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"BE",
-    "wof:geomhash":"6fdfc5afd3afa1ac14b1254aa723f6c8",
+    "wof:geomhash":"8f88ee00c273659f9349d46f1c7f0b26",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -491,7 +497,7 @@
         "fra",
         "deu"
     ],
-    "wof:lastmodified":1690856404,
+    "wof:lastmodified":1695885161,
     "wof:name":"Vlaams-Brabant",
     "wof:parent_id":404227357,
     "wof:placetype":"region",

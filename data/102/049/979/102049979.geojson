@@ -239,9 +239,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "begov:niscode":"242",
         "eurostat:nuts_2021_id":"BE232",
         "hasc:id":"BE.OV.DM"
     },
+    "wof:concordances_official":"begov:niscode",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"BE",
     "wof:geomhash":"be33a06b137e27fc84378653b65d7fde",
     "wof:hierarchy":[
@@ -254,7 +259,7 @@
         }
     ],
     "wof:id":102049979,
-    "wof:lastmodified":1684351493,
+    "wof:lastmodified":1695886583,
     "wof:name":"Dendermonde",
     "wof:parent_id":85681733,
     "wof:placetype":"county",

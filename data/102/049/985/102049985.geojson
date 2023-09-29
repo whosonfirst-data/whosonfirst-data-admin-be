@@ -275,9 +275,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "begov:niscode":"212",
         "eurostat:nuts_2021_id":"BE212",
         "hasc:id":"BE.AN.MH"
     },
+    "wof:concordances_official":"begov:niscode",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"BE",
     "wof:geomhash":"284e615822d9503431515facaf75a304",
     "wof:hierarchy":[
@@ -290,7 +295,7 @@
         }
     ],
     "wof:id":102049985,
-    "wof:lastmodified":1684351493,
+    "wof:lastmodified":1695886583,
     "wof:name":"Mechelen",
     "wof:parent_id":85681715,
     "wof:placetype":"county",

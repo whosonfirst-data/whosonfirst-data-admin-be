@@ -276,12 +276,17 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "begov:niscode":"363",
         "eurostat:nuts_2021_id":"BE335",
         "hasc:id":"BE.LG.VV",
         "wd:id":"Q202954"
     },
+    "wof:concordances_official":"begov:niscode",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"BE",
-    "wof:geomhash":"b17bc4162b3d83a3beec80c57bffbb1a",
+    "wof:geomhash":"2fa700e987b8ce0ca1d8d3a4da096fbb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -292,7 +297,7 @@
         }
     ],
     "wof:id":102049935,
-    "wof:lastmodified":1690856398,
+    "wof:lastmodified":1695886581,
     "wof:name":"Verviers",
     "wof:parent_id":85681691,
     "wof:placetype":"county",

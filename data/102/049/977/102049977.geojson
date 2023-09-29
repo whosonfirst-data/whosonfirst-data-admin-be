@@ -276,12 +276,17 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "begov:niscode":"236",
         "eurostat:nuts_2021_id":"BE256",
         "hasc:id":"BE.WV.RS",
         "wd:id":"Q211037"
     },
+    "wof:concordances_official":"begov:niscode",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"BE",
-    "wof:geomhash":"803d2f5be468a2f57c7fc8def2b635f7",
+    "wof:geomhash":"565adad30ef83db1a92c8aa650608f09",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -292,7 +297,7 @@
         }
     ],
     "wof:id":102049977,
-    "wof:lastmodified":1690856396,
+    "wof:lastmodified":1695886583,
     "wof:name":"Roeselare",
     "wof:parent_id":85681709,
     "wof:placetype":"county",

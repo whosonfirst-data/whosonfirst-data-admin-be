@@ -31,12 +31,24 @@
     "geom:latitude":51.248813,
     "geom:longitude":3.21444,
     "iso:country":"BE",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:nld_x_preferred_placetype":[
+        "gemeinde"
+    ],
     "lbl:latitude":51.216028,
     "lbl:longitude":3.215778,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "reversegeo:latitude":51.216028,
     "reversegeo:longitude":3.215778,
@@ -53,9 +65,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "begov:niscode":"31005",
         "eg:gisco_id":"BE_31005",
         "eurostat:nuts_2021_id":"31005"
     },
+    "wof:concordances_official":"begov:niscode",
     "wof:country":"BE",
     "wof:created":1488241210,
     "wof:geomhash":"35f4d9104f4d16e374cff26ee5bcae56",
@@ -70,7 +84,7 @@
         }
     ],
     "wof:id":1108830689,
-    "wof:lastmodified":1684351688,
+    "wof:lastmodified":1695878143,
     "wof:name":"Brugge",
     "wof:parent_id":102050003,
     "wof:placetype":"localadmin",

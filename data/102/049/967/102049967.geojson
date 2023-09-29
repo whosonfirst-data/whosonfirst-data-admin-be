@@ -147,9 +147,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "begov:niscode":"241",
         "eurostat:nuts_2021_id":"BE231",
         "hasc:id":"BE.OV.AL"
     },
+    "wof:concordances_official":"begov:niscode",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"BE",
     "wof:geomhash":"d186590f8a6924e9ecd77d88c7e84dec",
     "wof:hierarchy":[
@@ -162,7 +167,7 @@
         }
     ],
     "wof:id":102049967,
-    "wof:lastmodified":1684351493,
+    "wof:lastmodified":1695886582,
     "wof:name":"Aalst",
     "wof:parent_id":85681733,
     "wof:placetype":"county",

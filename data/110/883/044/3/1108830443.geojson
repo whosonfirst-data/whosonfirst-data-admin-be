@@ -31,12 +31,24 @@
     "geom:latitude":51.158604,
     "geom:longitude":5.182984,
     "iso:country":"BE",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:nld_x_preferred_placetype":[
+        "gemeinde"
+    ],
     "lbl:latitude":51.153711,
     "lbl:longitude":5.161326,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Balen"
@@ -128,9 +140,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "begov:niscode":"13003",
         "eg:gisco_id":"BE_13003",
         "eurostat:nuts_2021_id":"13003"
     },
+    "wof:concordances_official":"begov:niscode",
     "wof:country":"BE",
     "wof:created":1488241164,
     "wof:geomhash":"3e69bb2e8946bad99549d248b5e15f6f",
@@ -145,7 +159,7 @@
         }
     ],
     "wof:id":1108830443,
-    "wof:lastmodified":1684351674,
+    "wof:lastmodified":1695878114,
     "wof:name":"Balen",
     "wof:parent_id":102050007,
     "wof:placetype":"localadmin",

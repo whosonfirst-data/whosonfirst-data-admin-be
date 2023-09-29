@@ -31,12 +31,24 @@
     "geom:latitude":51.414936,
     "geom:longitude":5.025964,
     "iso:country":"BE",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:nld_x_preferred_placetype":[
+        "gemeinde"
+    ],
     "lbl:latitude":51.411806,
     "lbl:longitude":5.031991,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0631\u0627\u0641\u064a\u0644\u0633"
@@ -131,9 +143,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "begov:niscode":"13035",
         "eg:gisco_id":"BE_13035",
         "eurostat:nuts_2021_id":"13035"
     },
+    "wof:concordances_official":"begov:niscode",
     "wof:country":"BE",
     "wof:created":1488241124,
     "wof:geomhash":"92dd5983cc4d4de3e0ac2d763f885595",
@@ -148,7 +162,7 @@
         }
     ],
     "wof:id":1108830179,
-    "wof:lastmodified":1684351658,
+    "wof:lastmodified":1695878083,
     "wof:name":"Ravels",
     "wof:parent_id":102050007,
     "wof:placetype":"localadmin",

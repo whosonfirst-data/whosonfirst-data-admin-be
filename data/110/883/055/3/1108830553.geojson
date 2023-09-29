@@ -31,12 +31,24 @@
     "geom:latitude":50.90959,
     "geom:longitude":4.30932,
     "iso:country":"BE",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:nld_x_preferred_placetype":[
+        "gemeinde"
+    ],
     "lbl:latitude":50.905533,
     "lbl:longitude":4.306325,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bre_x_preferred":[
         "Wemmel"
@@ -128,9 +140,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "begov:niscode":"23102",
         "eg:gisco_id":"BE_23102",
         "eurostat:nuts_2021_id":"23102"
     },
+    "wof:concordances_official":"begov:niscode",
     "wof:country":"BE",
     "wof:created":1488241183,
     "wof:geomhash":"ce9168e154bfa2e44fffeda29e5bffc4",
@@ -145,7 +159,7 @@
         }
     ],
     "wof:id":1108830553,
-    "wof:lastmodified":1684351680,
+    "wof:lastmodified":1695878127,
     "wof:name":"Wemmel",
     "wof:parent_id":102049973,
     "wof:placetype":"localadmin",

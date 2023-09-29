@@ -31,12 +31,24 @@
     "geom:latitude":51.256168,
     "geom:longitude":4.581479,
     "iso:country":"BE",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:nld_x_preferred_placetype":[
+        "gemeinde"
+    ],
     "lbl:latitude":51.254664,
     "lbl:longitude":4.577282,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bre_x_preferred":[
         "Schilde"
@@ -119,9 +131,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "begov:niscode":"11039",
         "eg:gisco_id":"BE_11039",
         "eurostat:nuts_2021_id":"11039"
     },
+    "wof:concordances_official":"begov:niscode",
     "wof:country":"BE",
     "wof:created":1488241125,
     "wof:geomhash":"5141e6b980151a6b7dddee01e5da1b78",
@@ -136,7 +150,7 @@
         }
     ],
     "wof:id":1108830185,
-    "wof:lastmodified":1684351659,
+    "wof:lastmodified":1695878084,
     "wof:name":"Schilde",
     "wof:parent_id":102050005,
     "wof:placetype":"localadmin",

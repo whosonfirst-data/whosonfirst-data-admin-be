@@ -31,12 +31,24 @@
     "geom:latitude":51.335943,
     "geom:longitude":4.6282,
     "iso:country":"BE",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:nld_x_preferred_placetype":[
+        "gemeinde"
+    ],
     "lbl:latitude":51.333514,
     "lbl:longitude":4.61165,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "reversegeo:latitude":51.333514,
     "reversegeo:longitude":4.61165,
@@ -53,9 +65,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "begov:niscode":"11009",
         "eg:gisco_id":"BE_11009",
         "eurostat:nuts_2021_id":"11009"
     },
+    "wof:concordances_official":"begov:niscode",
     "wof:country":"BE",
     "wof:created":1488241154,
     "wof:geomhash":"2338982e190f5c6a752c22fdd86b7d5d",
@@ -70,7 +84,7 @@
         }
     ],
     "wof:id":1108830385,
-    "wof:lastmodified":1684351670,
+    "wof:lastmodified":1695878106,
     "wof:name":"Brecht",
     "wof:parent_id":102050005,
     "wof:placetype":"localadmin",

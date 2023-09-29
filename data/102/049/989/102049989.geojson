@@ -129,9 +129,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "begov:niscode":"244",
         "eurostat:nuts_2021_id":"BE234",
         "hasc:id":"BE.OV.GT"
     },
+    "wof:concordances_official":"begov:niscode",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"BE",
     "wof:geomhash":"16c792db67a4d26501559a95c5b99456",
     "wof:hierarchy":[
@@ -144,7 +149,7 @@
         }
     ],
     "wof:id":102049989,
-    "wof:lastmodified":1684351493,
+    "wof:lastmodified":1695886584,
     "wof:name":"Gent",
     "wof:parent_id":85681733,
     "wof:placetype":"county",

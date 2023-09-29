@@ -258,12 +258,17 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "begov:niscode":"361",
         "eurostat:nuts_2021_id":"BE331",
         "hasc:id":"BE.LG.HY",
         "wd:id":"Q207095"
     },
+    "wof:concordances_official":"begov:niscode",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"BE",
-    "wof:geomhash":"f03164ec25ad784b35fb5f576be421bd",
+    "wof:geomhash":"4d72eeadea95bef88539ea17f751f494",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -274,7 +279,7 @@
         }
     ],
     "wof:id":102049925,
-    "wof:lastmodified":1690856397,
+    "wof:lastmodified":1695886581,
     "wof:name":"Huy",
     "wof:parent_id":85681691,
     "wof:placetype":"county",

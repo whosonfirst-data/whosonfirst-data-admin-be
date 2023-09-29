@@ -14,17 +14,29 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005518,
-    "geom:area_square_m":42730885.542208,
+    "geom:area_square_m":42730885.542212,
     "geom:bbox":"5.39948084779,51.1820342666,5.52905682389,51.2764322748",
     "geom:latitude":51.228875,
     "geom:longitude":5.459444,
     "iso:country":"BE",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:nld_x_preferred_placetype":[
+        "gemeinde"
+    ],
     "lbl:latitude":51.213617,
     "lbl:longitude":5.465777,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Neerpelt"
@@ -119,10 +131,13 @@
         102049993
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "begov:niscode":"72025"
+    },
+    "wof:concordances_official":"begov:niscode",
     "wof:country":"BE",
     "wof:created":1488241128,
-    "wof:geomhash":"0b0a1e049f9e3bf8e2d9c9516db9361d",
+    "wof:geomhash":"1bb043313bb553aacce508b1774d925e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -134,7 +149,7 @@
         }
     ],
     "wof:id":1108830205,
-    "wof:lastmodified":1566611602,
+    "wof:lastmodified":1695878060,
     "wof:name":"Neerpelt",
     "wof:parent_id":102049993,
     "wof:placetype":"localadmin",

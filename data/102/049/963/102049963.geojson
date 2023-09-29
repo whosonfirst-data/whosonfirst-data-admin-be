@@ -270,12 +270,17 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "begov:niscode":"245",
         "eurostat:nuts_2021_id":"BE235",
         "hasc:id":"BE.OV.OD",
         "wd:id":"Q12992"
     },
+    "wof:concordances_official":"begov:niscode",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"BE",
-    "wof:geomhash":"99a530b761d466cd16ec5a50ec039ba3",
+    "wof:geomhash":"88fa1b34bec5448e816e4ab7fb8be453",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -286,7 +291,7 @@
         }
     ],
     "wof:id":102049963,
-    "wof:lastmodified":1690856396,
+    "wof:lastmodified":1695886582,
     "wof:name":"Oudenaarde",
     "wof:parent_id":85681733,
     "wof:placetype":"county",

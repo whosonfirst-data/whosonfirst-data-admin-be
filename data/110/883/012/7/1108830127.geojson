@@ -31,12 +31,24 @@
     "geom:latitude":50.831322,
     "geom:longitude":3.174016,
     "iso:country":"BE",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:nld_x_preferred_placetype":[
+        "gemeinde"
+    ],
     "lbl:latitude":50.830237,
     "lbl:longitude":3.174939,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0648\u0641\u0644\u062c\u0645"
@@ -149,9 +161,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "begov:niscode":"34041",
         "eg:gisco_id":"BE_34041",
         "eurostat:nuts_2021_id":"34041"
     },
+    "wof:concordances_official":"begov:niscode",
     "wof:country":"BE",
     "wof:created":1488241115,
     "wof:geomhash":"3bb77b0e2eaefb861abc4e8748c6316e",
@@ -166,7 +180,7 @@
         }
     ],
     "wof:id":1108830127,
-    "wof:lastmodified":1684351655,
+    "wof:lastmodified":1695878076,
     "wof:name":"Wevelgem",
     "wof:parent_id":102049961,
     "wof:placetype":"localadmin",

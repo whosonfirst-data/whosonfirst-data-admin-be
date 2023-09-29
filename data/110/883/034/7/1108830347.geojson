@@ -14,17 +14,29 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002819,
-    "geom:area_square_m":21863268.522436,
+    "geom:area_square_m":21863268.522435,
     "geom:bbox":"3.56123297297,51.1188462875,3.64782923068,51.1755254224",
     "geom:latitude":51.152085,
     "geom:longitude":3.609667,
     "iso:country":"BE",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:nld_x_preferred_placetype":[
+        "gemeinde"
+    ],
     "lbl:latitude":51.152214,
     "lbl:longitude":3.612615,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bre_x_preferred":[
         "Waarschoot"
@@ -110,10 +122,13 @@
         102049989
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "begov:niscode":"44072"
+    },
+    "wof:concordances_official":"begov:niscode",
     "wof:country":"BE",
     "wof:created":1488241149,
-    "wof:geomhash":"c58fde0eb3abebd81cbbd75997ec0085",
+    "wof:geomhash":"2ba4bc8c659e290318487b4cfd74336b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -125,7 +140,7 @@
         }
     ],
     "wof:id":1108830347,
-    "wof:lastmodified":1566611663,
+    "wof:lastmodified":1695878062,
     "wof:name":"Waarschoot",
     "wof:parent_id":102049989,
     "wof:placetype":"localadmin",

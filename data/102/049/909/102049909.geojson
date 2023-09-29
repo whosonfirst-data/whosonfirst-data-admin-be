@@ -300,12 +300,17 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "begov:niscode":"381",
         "eurostat:nuts_2021_id":"BE341",
         "hasc:id":"BE.LX.AR",
         "wd:id":"Q675960"
     },
+    "wof:concordances_official":"begov:niscode",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"BE",
-    "wof:geomhash":"85fd6d70255cda97f3933f7e16d645b5",
+    "wof:geomhash":"5e6254286b241f7d0a9786f545673c6b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -316,7 +321,7 @@
         }
     ],
     "wof:id":102049909,
-    "wof:lastmodified":1690856394,
+    "wof:lastmodified":1695886580,
     "wof:name":"Arlon",
     "wof:parent_id":85681727,
     "wof:placetype":"county",

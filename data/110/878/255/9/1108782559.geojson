@@ -58,7 +58,7 @@
     "mps:latitude":50.7285,
     "mps:longitude":2.905331,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":6.0,
     "name:bel_x_preferred":[
         "\u041c\u0443\u0441\u043a\u0440\u043e\u043d"
@@ -248,12 +248,17 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "begov:niscode":"354",
         "eurostat:nuts_2021_id":"TR611",
         "hasc:id":"BE.HT.MC",
         "wd:id":"Q220145"
     },
+    "wof:concordances_official":"begov:niscode",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"BE",
-    "wof:geomhash":"0699a681e9db275dafbc4f206f78ab42",
+    "wof:geomhash":"57c309c7b87032cd61107cab9074edbe",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -264,7 +269,7 @@
         }
     ],
     "wof:id":1108782559,
-    "wof:lastmodified":1690856433,
+    "wof:lastmodified":1695887184,
     "wof:name":"Mouscron",
     "wof:parent_id":85681723,
     "wof:placetype":"county",

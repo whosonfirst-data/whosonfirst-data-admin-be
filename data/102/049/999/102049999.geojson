@@ -324,12 +324,17 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "begov:niscode":"235",
         "eurostat:nuts_2021_id":"BE255",
         "hasc:id":"BE.WV.OS",
         "wd:id":"Q12996"
     },
+    "wof:concordances_official":"begov:niscode",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"BE",
-    "wof:geomhash":"043a1ff394568cdc694001d3f28fa902",
+    "wof:geomhash":"d2cb78ebbfc65aa02b3cf4feb5ee237b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -340,7 +345,7 @@
         }
     ],
     "wof:id":102049999,
-    "wof:lastmodified":1690856396,
+    "wof:lastmodified":1695886584,
     "wof:name":"Oostende",
     "wof:parent_id":85681709,
     "wof:placetype":"county",

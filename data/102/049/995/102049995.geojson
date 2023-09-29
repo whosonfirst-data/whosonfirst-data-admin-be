@@ -225,12 +225,17 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "begov:niscode":"243",
         "eurostat:nuts_2021_id":"BE233",
         "hasc:id":"BE.OV.EK",
         "wd:id":"Q12440"
     },
+    "wof:concordances_official":"begov:niscode",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"BE",
-    "wof:geomhash":"58565809aca245546587bbefb8aab13f",
+    "wof:geomhash":"e29d0bafa5f3bd1dcb609ae982058821",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -241,7 +246,7 @@
         }
     ],
     "wof:id":102049995,
-    "wof:lastmodified":1690856398,
+    "wof:lastmodified":1695886584,
     "wof:name":"Eeklo",
     "wof:parent_id":85681733,
     "wof:placetype":"county",

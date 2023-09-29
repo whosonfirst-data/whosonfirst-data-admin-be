@@ -31,12 +31,24 @@
     "geom:latitude":50.86651,
     "geom:longitude":4.093036,
     "iso:country":"BE",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:nld_x_preferred_placetype":[
+        "gemeinde"
+    ],
     "lbl:latitude":50.868523,
     "lbl:longitude":4.096311,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Liedekerke"
@@ -131,9 +143,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "begov:niscode":"23044",
         "eg:gisco_id":"BE_23044",
         "eurostat:nuts_2021_id":"23044"
     },
+    "wof:concordances_official":"begov:niscode",
     "wof:country":"BE",
     "wof:created":1488241186,
     "wof:geomhash":"b63d4dd6345af54acdb57fb9b4a055de",
@@ -148,7 +162,7 @@
         }
     ],
     "wof:id":1108830577,
-    "wof:lastmodified":1684351681,
+    "wof:lastmodified":1695878129,
     "wof:name":"Liedekerke",
     "wof:parent_id":102049973,
     "wof:placetype":"localadmin",

@@ -110,9 +110,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "begov:niscode":"231",
         "eurostat:nuts_2021_id":"BE251",
         "hasc:id":"BE.WV.BG"
     },
+    "wof:concordances_official":"begov:niscode",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"BE",
     "wof:geomhash":"99991cb5db4c3f4431d4db1713cc106a",
     "wof:hierarchy":[
@@ -125,7 +130,7 @@
         }
     ],
     "wof:id":102050003,
-    "wof:lastmodified":1684351494,
+    "wof:lastmodified":1695886584,
     "wof:name":"Brugge",
     "wof:parent_id":85681709,
     "wof:placetype":"county",

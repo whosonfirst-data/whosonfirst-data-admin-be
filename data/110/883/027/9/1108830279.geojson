@@ -14,17 +14,29 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00321,
-    "geom:area_square_m":24957264.161209,
+    "geom:area_square_m":24957264.161208,
     "geom:bbox":"5.51845617451,51.0187670424,5.62968317197,51.0643298312",
     "geom:latitude":51.040361,
     "geom:longitude":5.571397,
     "iso:country":"BE",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:nld_x_preferred_placetype":[
+        "gemeinde"
+    ],
     "lbl:latitude":51.040477,
     "lbl:longitude":5.581444,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Opglabbeek"
@@ -119,10 +131,13 @@
         102049975
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "begov:niscode":"71047"
+    },
+    "wof:concordances_official":"begov:niscode",
     "wof:country":"BE",
     "wof:created":1488241139,
-    "wof:geomhash":"6796cc7527fafce2f64ea22125e4f2bb",
+    "wof:geomhash":"9a24ee078caa62bf7089a9b6bee764a1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -134,7 +149,7 @@
         }
     ],
     "wof:id":1108830279,
-    "wof:lastmodified":1566611602,
+    "wof:lastmodified":1695878061,
     "wof:name":"Opglabbeek",
     "wof:parent_id":102049975,
     "wof:placetype":"localadmin",

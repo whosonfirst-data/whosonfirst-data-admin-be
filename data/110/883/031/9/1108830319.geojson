@@ -31,12 +31,24 @@
     "geom:latitude":51.17978,
     "geom:longitude":4.739125,
     "iso:country":"BE",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:nld_x_preferred_placetype":[
+        "gemeinde"
+    ],
     "lbl:latitude":51.180566,
     "lbl:longitude":4.739121,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bre_x_preferred":[
         "Grobbendonk"
@@ -122,9 +134,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "begov:niscode":"13010",
         "eg:gisco_id":"BE_13010",
         "eurostat:nuts_2021_id":"13010"
     },
+    "wof:concordances_official":"begov:niscode",
     "wof:country":"BE",
     "wof:created":1488241145,
     "wof:geomhash":"84d7699eb04aebe35cc34b602703195b",
@@ -139,7 +153,7 @@
         }
     ],
     "wof:id":1108830319,
-    "wof:lastmodified":1684351666,
+    "wof:lastmodified":1695878098,
     "wof:name":"Grobbendonk",
     "wof:parent_id":102050007,
     "wof:placetype":"localadmin",

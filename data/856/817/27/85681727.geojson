@@ -845,15 +845,21 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "begov:niscode":"38",
         "digitalenvoy:region_code":11060,
         "eurostat:nuts_2021_id":"BE34",
         "fips:code":"BE06",
         "gn:id":2791993,
         "gp:id":7153302,
         "hasc:id":"BE.LX",
+        "iso:code":"BE-WLX",
         "iso:id":"BE-WLX",
         "unlc:id":"BE-WLX"
     },
+    "wof:concordances_official":"begov:niscode",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"BE",
     "wof:geomhash":"75f1a8a68325855159967104afeadbdc",
     "wof:hierarchy":[
@@ -875,7 +881,7 @@
         "fra",
         "deu"
     ],
-    "wof:lastmodified":1684351396,
+    "wof:lastmodified":1695885160,
     "wof:name":"Luxembourg",
     "wof:parent_id":404227353,
     "wof:placetype":"region",

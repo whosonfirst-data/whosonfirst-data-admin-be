@@ -353,12 +353,17 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "begov:niscode":"362",
         "eurostat:nuts_2021_id":"BE332",
         "hasc:id":"BE.LG.LG",
         "wd:id":"Q1127"
     },
+    "wof:concordances_official":"begov:niscode",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"BE",
-    "wof:geomhash":"f1eddb65b59b91458313eca18a6f9017",
+    "wof:geomhash":"2d3f99e33f940a34fd6e441595697b2e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -369,7 +374,7 @@
         }
     ],
     "wof:id":102049941,
-    "wof:lastmodified":1690856397,
+    "wof:lastmodified":1695886581,
     "wof:name":"Li\u00e8ge",
     "wof:parent_id":85681691,
     "wof:placetype":"county",

@@ -31,12 +31,24 @@
     "geom:latitude":50.871828,
     "geom:longitude":3.149238,
     "iso:country":"BE",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:nld_x_preferred_placetype":[
+        "gemeinde"
+    ],
     "lbl:latitude":50.869351,
     "lbl:longitude":3.136743,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bre_x_preferred":[
         "Ledegem"
@@ -134,9 +146,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "begov:niscode":"36010",
         "eg:gisco_id":"BE_36010",
         "eurostat:nuts_2021_id":"36010"
     },
+    "wof:concordances_official":"begov:niscode",
     "wof:country":"BE",
     "wof:created":1488241138,
     "wof:geomhash":"cf7549a54df93655feb517552772567a",
@@ -151,7 +165,7 @@
         }
     ],
     "wof:id":1108830277,
-    "wof:lastmodified":1684351664,
+    "wof:lastmodified":1695878094,
     "wof:name":"Ledegem",
     "wof:parent_id":102049977,
     "wof:placetype":"localadmin",

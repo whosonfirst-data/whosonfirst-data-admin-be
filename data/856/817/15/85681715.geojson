@@ -580,18 +580,24 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "begov:niscode":"21",
         "digitalenvoy:region_code":11057,
         "eurostat:nuts_2021_id":"BE21",
         "fips:code":"BE01",
         "gn:id":2803136,
         "gp:id":7153308,
         "hasc:id":"BE.AN",
+        "iso:code":"BE-VAN",
         "iso:id":"BE-VAN",
         "unlc:id":"BE-VAN",
         "wd:id":"Q12892"
     },
+    "wof:concordances_official":"begov:niscode",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"BE",
-    "wof:geomhash":"4571ce636ce417dcd9886f1b0a3578f1",
+    "wof:geomhash":"2d2e02b4e2d0e704fbf048cb77a11dcc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -611,7 +617,7 @@
         "fra",
         "deu"
     ],
-    "wof:lastmodified":1690856405,
+    "wof:lastmodified":1695885160,
     "wof:name":"Antwerpen",
     "wof:parent_id":404227357,
     "wof:placetype":"region",

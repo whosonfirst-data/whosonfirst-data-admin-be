@@ -284,9 +284,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "begov:niscode":"271",
         "eurostat:nuts_2021_id":"BE224",
         "hasc:id":"BE.LI.HS"
     },
+    "wof:concordances_official":"begov:niscode",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"BE",
     "wof:geomhash":"700a602a8bdb1d7f62fbc80cc0eaf767",
     "wof:hierarchy":[
@@ -299,7 +304,7 @@
         }
     ],
     "wof:id":102049975,
-    "wof:lastmodified":1684351493,
+    "wof:lastmodified":1695886583,
     "wof:name":"Hasselt",
     "wof:parent_id":85681705,
     "wof:placetype":"county",

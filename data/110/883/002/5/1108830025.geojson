@@ -31,12 +31,24 @@
     "geom:latitude":50.789739,
     "geom:longitude":4.611934,
     "iso:country":"BE",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:nld_x_preferred_placetype":[
+        "gemeinde"
+    ],
     "lbl:latitude":50.800125,
     "lbl:longitude":4.607011,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bre_x_preferred":[
         "Huldenberg"
@@ -125,9 +137,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "begov:niscode":"24045",
         "eg:gisco_id":"BE_24045",
         "eurostat:nuts_2021_id":"24045"
     },
+    "wof:concordances_official":"begov:niscode",
     "wof:country":"BE",
     "wof:created":1488241098,
     "wof:geomhash":"a32a265c0400f480beb945de5e5327ef",
@@ -142,7 +156,7 @@
         }
     ],
     "wof:id":1108830025,
-    "wof:lastmodified":1684351650,
+    "wof:lastmodified":1695878064,
     "wof:name":"Huldenberg",
     "wof:parent_id":102049969,
     "wof:placetype":"localadmin",

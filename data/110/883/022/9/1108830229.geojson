@@ -31,12 +31,24 @@
     "geom:latitude":51.067359,
     "geom:longitude":4.035905,
     "iso:country":"BE",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:nld_x_preferred_placetype":[
+        "gemeinde"
+    ],
     "lbl:latitude":51.066691,
     "lbl:longitude":4.036828,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bre_x_preferred":[
         "Zele"
@@ -134,9 +146,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "begov:niscode":"42028",
         "eg:gisco_id":"BE_42028",
         "eurostat:nuts_2021_id":"42028"
     },
+    "wof:concordances_official":"begov:niscode",
     "wof:country":"BE",
     "wof:created":1488241132,
     "wof:geomhash":"295eb657c48eb3d07aa877fb1a33cd26",
@@ -151,7 +165,7 @@
         }
     ],
     "wof:id":1108830229,
-    "wof:lastmodified":1684351661,
+    "wof:lastmodified":1695878088,
     "wof:name":"Zele",
     "wof:parent_id":102049979,
     "wof:placetype":"localadmin",

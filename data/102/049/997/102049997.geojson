@@ -245,9 +245,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "begov:niscode":"246",
         "eurostat:nuts_2021_id":"BE236",
         "hasc:id":"BE.OV.SN"
     },
+    "wof:concordances_official":"begov:niscode",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"BE",
     "wof:geomhash":"b04e651f1184ccfcc7e98bf20d43b7cd",
     "wof:hierarchy":[
@@ -260,7 +265,7 @@
         }
     ],
     "wof:id":102049997,
-    "wof:lastmodified":1684351494,
+    "wof:lastmodified":1695886584,
     "wof:name":"Sint-Niklaas",
     "wof:parent_id":85681733,
     "wof:placetype":"county",

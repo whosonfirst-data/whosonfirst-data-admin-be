@@ -31,12 +31,24 @@
     "geom:latitude":51.301541,
     "geom:longitude":3.139814,
     "iso:country":"BE",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:nld_x_preferred_placetype":[
+        "gemeinde"
+    ],
     "lbl:latitude":51.302786,
     "lbl:longitude":3.140501,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bre_x_preferred":[
         "Blankenberge"
@@ -149,9 +161,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "begov:niscode":"31004",
         "eg:gisco_id":"BE_31004",
         "eurostat:nuts_2021_id":"31004"
     },
+    "wof:concordances_official":"begov:niscode",
     "wof:country":"BE",
     "wof:created":1488241211,
     "wof:geomhash":"a5609c639873369be1974d4cfd9ea7c3",
@@ -166,7 +180,7 @@
         }
     ],
     "wof:id":1108830693,
-    "wof:lastmodified":1684351688,
+    "wof:lastmodified":1695878143,
     "wof:name":"Blankenberge",
     "wof:parent_id":102050003,
     "wof:placetype":"localadmin",

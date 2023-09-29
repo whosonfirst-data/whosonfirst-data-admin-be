@@ -290,9 +290,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "begov:niscode":"224",
         "eurostat:nuts_2021_id":"BE242",
         "hasc:id":"BE.VB.LV"
     },
+    "wof:concordances_official":"begov:niscode",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"BE",
     "wof:geomhash":"b1c8de842cfbce3108ca0686a9f0aed1",
     "wof:hierarchy":[
@@ -305,7 +310,7 @@
         }
     ],
     "wof:id":102049969,
-    "wof:lastmodified":1684351493,
+    "wof:lastmodified":1695886582,
     "wof:name":"Leuven",
     "wof:parent_id":85681731,
     "wof:placetype":"county",

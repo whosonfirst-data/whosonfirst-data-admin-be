@@ -110,9 +110,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "begov:niscode":"223",
         "eurostat:nuts_2021_id":"BE241",
         "hasc:id":"BE.VB.HV"
     },
+    "wof:concordances_official":"begov:niscode",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"BE",
     "wof:geomhash":"b7776d21bb9d856dcd7423721ad9d094",
     "wof:hierarchy":[
@@ -125,7 +130,7 @@
         }
     ],
     "wof:id":102049973,
-    "wof:lastmodified":1684351493,
+    "wof:lastmodified":1695886583,
     "wof:name":"Halle-Vilvoorde",
     "wof:parent_id":85681731,
     "wof:placetype":"county",

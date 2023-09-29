@@ -31,12 +31,24 @@
     "geom:latitude":51.143337,
     "geom:longitude":3.70817,
     "iso:country":"BE",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:nld_x_preferred_placetype":[
+        "gemeinde"
+    ],
     "lbl:latitude":51.141869,
     "lbl:longitude":3.715073,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bre_x_preferred":[
         "Evergem"
@@ -143,9 +155,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "begov:niscode":"44019",
         "eg:gisco_id":"BE_44019",
         "eurostat:nuts_2021_id":"44019"
     },
+    "wof:concordances_official":"begov:niscode",
     "wof:country":"BE",
     "wof:created":1488241159,
     "wof:geomhash":"d1c2814660e7f5f60fe590e3b1315229",
@@ -160,7 +174,7 @@
         }
     ],
     "wof:id":1108830413,
-    "wof:lastmodified":1684351672,
+    "wof:lastmodified":1695878110,
     "wof:name":"Evergem",
     "wof:parent_id":102049989,
     "wof:placetype":"localadmin",

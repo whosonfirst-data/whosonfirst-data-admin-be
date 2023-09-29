@@ -31,12 +31,24 @@
     "geom:latitude":51.071647,
     "geom:longitude":4.736039,
     "iso:country":"BE",
+    "label:deu_x_preferred_placetype":[
+        "gemeinde"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:fra_x_preferred_placetype":[
+        "commune"
+    ],
+    "label:nld_x_preferred_placetype":[
+        "gemeinde"
+    ],
     "lbl:latitude":51.06948,
     "lbl:longitude":4.728238,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:bre_x_preferred":[
         "Heist-op-den-Berg"
@@ -128,9 +140,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "begov:niscode":"12014",
         "eg:gisco_id":"BE_12014",
         "eurostat:nuts_2021_id":"12014"
     },
+    "wof:concordances_official":"begov:niscode",
     "wof:country":"BE",
     "wof:created":1488241098,
     "wof:geomhash":"d0325ca882b2b50e907c6951effd63f7",
@@ -145,7 +159,7 @@
         }
     ],
     "wof:id":1108830023,
-    "wof:lastmodified":1684351649,
+    "wof:lastmodified":1695878064,
     "wof:name":"Heist-op-den-Berg",
     "wof:parent_id":102049985,
     "wof:placetype":"localadmin",

@@ -255,12 +255,17 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "begov:niscode":"391",
         "eurostat:nuts_2021_id":"BE351",
         "hasc:id":"BE.NA.DN",
         "wd:id":"Q108247"
     },
+    "wof:concordances_official":"begov:niscode",
+    "wof:concordances_official_alt":[
+        "hasc:id"
+    ],
     "wof:country":"BE",
-    "wof:geomhash":"af6c67fcb5396eeed79ec196519d0cdc",
+    "wof:geomhash":"9655a15d776a514d4537ff6819d55fa5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -271,7 +276,7 @@
         }
     ],
     "wof:id":102049919,
-    "wof:lastmodified":1690856400,
+    "wof:lastmodified":1695886580,
     "wof:name":"Dinant",
     "wof:parent_id":85681699,
     "wof:placetype":"county",
