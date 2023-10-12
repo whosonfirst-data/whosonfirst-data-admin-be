@@ -17,7 +17,7 @@
     "mps:latitude":51.2531,
     "mps:longitude":4.447378,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:is_funky":0,
     "mz:is_hard_boundary":0,
     "mz:is_landuse_aoi":0,
@@ -49,6 +49,9 @@
     ],
     "name:eng_x_preferred":[
         "Merksem"
+    ],
+    "name:eng_x_variant":[
+        "Merxem"
     ],
     "name:epo_x_preferred":[
         "Merksem"
@@ -126,11 +129,11 @@
     "wd:wordcount":279,
     "wof:belongsto":[
         102191581,
-        1108830423,
         85632997,
-        404227357,
-        101748099,
         102050005,
+        1108830423,
+        101748099,
+        404227357,
         85681715
     ],
     "wof:breaches":[],
@@ -163,7 +166,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1690856420,
+    "wof:lastmodified":1697055179,
     "wof:name":"Merksem",
     "wof:parent_id":101748099,
     "wof:placetype":"neighbourhood",
