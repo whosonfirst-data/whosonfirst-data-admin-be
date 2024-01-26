@@ -9,7 +9,24 @@
     "geom:bbox":"3.455097,50.583972,3.520844,50.604986",
     "geom:latitude":50.595675,
     "geom:longitude":3.484337,
+    "gn:admin1_code":"WAL",
+    "gn:admin2_code":"WHT",
+    "gn:admin3_code":"57.0",
+    "gn:admin4_code":"57081.0",
+    "gn:asciiname":"Ramecroix",
+    "gn:country_code":"BE",
+    "gn:dem":40,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2788392,
+    "gn:latitude":50.59567,
+    "gn:longitude":3.47382,
+    "gn:modification_date":"2017-03-25",
+    "gn:name":"Ramecroix",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
     "iso:country":"BE",
+    "lbl:bbox":"3.45382,50.57567,3.49382,50.61567",
     "lbl:latitude":50.592755,
     "lbl:longitude":3.48475,
     "lbl:max_zoom":18.0,
@@ -67,6 +84,11 @@
         "qs_pg:id":246574,
         "wd:id":"Q1822416"
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            2788392
+        ]
+    },
     "wof:country":"BE",
     "wof:geomhash":"38f4a6c2222bc4f5956b61816990c990",
     "wof:hierarchy":[
@@ -80,13 +102,15 @@
         }
     ],
     "wof:id":101811443,
-    "wof:lastmodified":1690856527,
+    "wof:lastmodified":1706239328,
     "wof:name":"Ramecroix",
     "wof:parent_id":102049951,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-be",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1293031957
+    ],
     "wof:tags":[]
 },
   "bbox": [

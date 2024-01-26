@@ -9,8 +9,24 @@
     "geom:bbox":"4.908027,50.629474,4.921306,50.647591",
     "geom:latitude":50.638181,
     "geom:longitude":4.915662,
+    "gn:admin1_code":"WAL",
+    "gn:admin2_code":"WBR",
+    "gn:admin3_code":"25.0",
+    "gn:admin4_code":"25122.0",
+    "gn:asciiname":"Ramillies-Offus",
+    "gn:country_code":"BE",
+    "gn:dem":142,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7647770,
+    "gn:latitude":50.63651,
+    "gn:longitude":4.91535,
+    "gn:modification_date":"2017-03-25",
+    "gn:name":"Ramillies-Offus",
     "gn:population":5749,
+    "gn:timezone":"Europe/Brussels",
     "iso:country":"BE",
+    "lbl:bbox":"4.89535,50.61651,4.93535,50.65651",
     "lbl:latitude":50.636756,
     "lbl:longitude":4.916114,
     "lbl:max_zoom":15.0,
@@ -153,6 +169,11 @@
         "qs_pg:id":187019,
         "wd:id":"Q531456"
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            7647770
+        ]
+    },
     "wof:country":"BE",
     "wof:geom_alt":[
         "quattroshapes_pg"
@@ -169,7 +190,7 @@
         }
     ],
     "wof:id":101810507,
-    "wof:lastmodified":1690856549,
+    "wof:lastmodified":1706239328,
     "wof:name":"Ramillies-Offus",
     "wof:parent_id":102049945,
     "wof:placetype":"locality",
@@ -177,7 +198,9 @@
     "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-be",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1226682629
+    ],
     "wof:tags":[]
 },
   "bbox": [

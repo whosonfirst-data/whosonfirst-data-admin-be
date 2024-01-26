@@ -9,7 +9,24 @@
     "geom:bbox":"3.549953,50.829947,3.569887,50.844503",
     "geom:latitude":50.836191,
     "geom:longitude":3.559055,
+    "gn:admin1_code":"VLG",
+    "gn:admin2_code":"VOV",
+    "gn:admin3_code":"45.0",
+    "gn:admin4_code":"45061.0",
+    "gn:asciiname":"Petegem-aan-de-Schelde",
+    "gn:country_code":"BE",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8629581,
+    "gn:latitude":50.83344,
+    "gn:longitude":3.55609,
+    "gn:modification_date":"2016-08-02",
+    "gn:name":"Petegem-aan-de-Schelde",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
     "iso:country":"BE",
+    "lbl:bbox":"3.53609,50.81344,3.57609,50.85344",
     "lbl:latitude":50.835503,
     "lbl:longitude":3.559206,
     "lbl:max_zoom":18.0,
@@ -68,6 +85,11 @@
         "qs_pg:id":1220784,
         "wd:id":"Q2284987"
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            8629581
+        ]
+    },
     "wof:country":"BE",
     "wof:geomhash":"ab03ff4e7d63da34eeb446b1a9f46a6c",
     "wof:hierarchy":[
@@ -82,13 +104,15 @@
         }
     ],
     "wof:id":101809245,
-    "wof:lastmodified":1690856622,
+    "wof:lastmodified":1706239328,
     "wof:name":"Petegem-aan-de-Schelde",
     "wof:parent_id":1108830419,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-be",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1343592357
+    ],
     "wof:tags":[]
 },
   "bbox": [

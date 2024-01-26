@@ -9,8 +9,25 @@
     "geom:bbox":"4.175138,51.02137,4.20961,51.043332",
     "geom:latitude":51.030871,
     "geom:longitude":4.188863,
+    "gn:admin1_code":"VLG",
+    "gn:admin2_code":"VOV",
+    "gn:admin3_code":"42.0",
+    "gn:admin4_code":"42006.0",
+    "gn:asciiname":"Briel",
+    "gn:country_code":"BE",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2801039,
     "gn:id":"2801038,2801039",
+    "gn:latitude":51.03063,
+    "gn:longitude":4.18333,
+    "gn:modification_date":"2016-08-02",
+    "gn:name":"Briel",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
     "iso:country":"BE",
+    "lbl:bbox":"4.16333,51.01063,4.20333,51.05063",
     "lbl:latitude":51.02879,
     "lbl:longitude":4.18626,
     "lbl:max_zoom":18.0,
@@ -69,8 +86,10 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "gn:id":2801039,
         "gp:id":966793,
-        "wd:id":"Q3068474"
+        "wd:id":"Q3068474",
+        "wk:page":"Briel_%28parish%29"
     },
     "wof:country":"BE",
     "wof:geomhash":"c36afee186e78aacb06d1e2ac8ea0001",
@@ -86,13 +105,15 @@
         }
     ],
     "wof:id":101755603,
-    "wof:lastmodified":1690856456,
+    "wof:lastmodified":1706239327,
     "wof:name":"Briel",
     "wof:parent_id":1108830107,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-be",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1343395007
+    ],
     "wof:tags":[]
 },
   "bbox": [
