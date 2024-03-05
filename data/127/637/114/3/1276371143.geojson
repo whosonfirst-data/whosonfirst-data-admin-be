@@ -115,6 +115,11 @@
     "wof:concordances":{
         "gn:id":2784966
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            2784965
+        ]
+    },
     "wof:country":"BE",
     "wof:geomhash":"d33ce7a5283372fe1edadb97a801ee04",
     "wof:hierarchy":[
@@ -129,13 +134,15 @@
         }
     ],
     "wof:id":1276371143,
-    "wof:lastmodified":1566611307,
+    "wof:lastmodified":1706239329,
     "wof:name":"Veld",
     "wof:parent_id":1108830563,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-be",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1293814411
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -45,6 +45,11 @@
     "wof:concordances":{
         "gn:id":2795679
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            2795680
+        ]
+    },
     "wof:country":"BE",
     "wof:geomhash":"b6ff41c64e3fc03884e93a717c0f24e6",
     "wof:hierarchy":[
@@ -59,13 +64,15 @@
         }
     ],
     "wof:id":1276266097,
-    "wof:lastmodified":1566611242,
+    "wof:lastmodified":1706239329,
     "wof:name":"Hoeksken",
     "wof:parent_id":1108830215,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-be",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1327164827
+    ],
     "wof:tags":[]
 },
   "bbox": [

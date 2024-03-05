@@ -45,6 +45,11 @@
     "wof:concordances":{
         "gn:id":2791096
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            2750759
+        ]
+    },
     "wof:country":"BE",
     "wof:geomhash":"a5fcbf5320b804247500baac51a571e0",
     "wof:hierarchy":[
@@ -59,13 +64,15 @@
         }
     ],
     "wof:id":1243293249,
-    "wof:lastmodified":1566612361,
+    "wof:lastmodified":1706239329,
     "wof:name":"Moershoofde",
     "wof:parent_id":1108830091,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-be",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1360180607
+    ],
     "wof:tags":[]
 },
   "bbox": [

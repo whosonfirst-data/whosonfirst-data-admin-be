@@ -9,7 +9,24 @@
     "geom:bbox":"5.816648,50.639857,5.890348,50.67771",
     "geom:latitude":50.65776,
     "geom:longitude":5.852879,
+    "gn:admin1_code":"WAL",
+    "gn:admin2_code":"WLG",
+    "gn:admin3_code":"63.0",
+    "gn:admin4_code":"63089.0",
+    "gn:asciiname":"Thimister",
+    "gn:country_code":"BE",
+    "gn:dem":261,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2785562,
+    "gn:latitude":50.65539,
+    "gn:longitude":5.86421,
+    "gn:modification_date":"2011-03-24",
+    "gn:name":"Thimister",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
     "iso:country":"BE",
+    "lbl:bbox":"5.84421,50.63539,5.88421,50.67539",
     "lbl:latitude":50.666641,
     "lbl:longitude":5.843895,
     "lbl:max_zoom":18.0,
@@ -36,6 +53,9 @@
     ],
     "name:nld_x_preferred":[
         "Thimister"
+    ],
+    "name:und_x_variant":[
+        "Thimister-Clermont (Thimister)"
     ],
     "qs:a0":"Belgi\u00eb#Belgique#Belgien",
     "qs:a1":"*Li\u00e8ge",
@@ -67,6 +87,11 @@
         "qs_pg:id":911213,
         "wd:id":"Q2369893"
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            2785562
+        ]
+    },
     "wof:country":"BE",
     "wof:geomhash":"d9c48105ac93d891e31ed4add8283899",
     "wof:hierarchy":[
@@ -80,13 +105,15 @@
         }
     ],
     "wof:id":101755147,
-    "wof:lastmodified":1690856498,
+    "wof:lastmodified":1706239327,
     "wof:name":"Thimister",
     "wof:parent_id":102049935,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-be",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1193173003
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -10,6 +10,7 @@
     "geom:latitude":50.746629,
     "geom:longitude":5.815557,
     "iso:country":"BE",
+    "lbl:bbox":"5.796198,50.727599,5.836198,50.767599",
     "lbl:latitude":50.74587,
     "lbl:longitude":5.815443,
     "lbl:max_zoom":18.0,
@@ -19,6 +20,7 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":12.0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:cat_x_preferred":[
         "Sint-Martens-Voeren"
     ],
@@ -59,9 +61,28 @@
     "qs:pop":0,
     "qs:source":"LCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
     "qs:type":"rural hamlet many local_admin match geoplanet",
+    "qs_pg:name":"Fouron-St.-Martin",
+    "qs_pg:name_adm0":"Belgique",
+    "qs_pg:name_adm1":"Limburg",
+    "qs_pg:photos":111,
+    "qs_pg:photos_1k":22,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":3,
+    "qs_pg:photos_all":111,
+    "qs_pg:photos_sr":3,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":989412,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424757,
+    "qs_pg:woe_id":969768,
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
+    "woe:adm0_id":23424757,
+    "woe:name_adm0":"Belgique",
+    "woe:name_adm1":"Limburg",
+    "woe:placetype":"Town",
     "wof:belongsto":[
         85681705,
         102191581,
@@ -77,6 +98,14 @@
         "qs_pg:id":989412,
         "wd:id":"Q2148763"
     },
+    "wof:concordances_alt":{
+        "gp:id":[
+            969768
+        ],
+        "qs_pg:id":[
+            989412
+        ]
+    },
     "wof:country":"BE",
     "wof:geomhash":"f99203ea762cc668fbc8457f837d1ebf",
     "wof:hierarchy":[
@@ -91,13 +120,15 @@
         }
     ],
     "wof:id":101912969,
-    "wof:lastmodified":1690856557,
+    "wof:lastmodified":1706239328,
     "wof:name":"Fouron-St.-Martin",
     "wof:parent_id":1108830021,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-be",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1125795167
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -11,6 +11,7 @@
     "geom:longitude":5.823615,
     "gn:population":4235,
     "iso:country":"BE",
+    "lbl:bbox":"5.803807,50.717914,5.843807,50.757914",
     "lbl:latitude":50.729816,
     "lbl:longitude":5.825684,
     "lbl:max_zoom":15.0,
@@ -20,6 +21,7 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:cat_x_preferred":[
         "Sint-Pieters-Voeren"
     ],
@@ -69,10 +71,29 @@
     "qs:pop":0,
     "qs:source":"LCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
     "qs:type":"rural hamlet many local_admin match geoplanet",
+    "qs_pg:name":"Fouron-St.-Pierre",
+    "qs_pg:name_adm0":"Belgique",
+    "qs_pg:name_adm1":"Limburg",
+    "qs_pg:photos":126,
+    "qs_pg:photos_1k":26,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":3,
+    "qs_pg:photos_all":126,
+    "qs_pg:photos_sr":3,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":475274,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424757,
+    "qs_pg:woe_id":969769,
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
+    "woe:adm0_id":23424757,
+    "woe:name_adm0":"Belgique",
+    "woe:name_adm1":"Limburg",
+    "woe:placetype":"Town",
     "wof:belongsto":[
         85681705,
         102191581,
@@ -88,6 +109,14 @@
         "qs_pg:id":475274,
         "wd:id":"Q2124087"
     },
+    "wof:concordances_alt":{
+        "gp:id":[
+            969769
+        ],
+        "qs_pg:id":[
+            475274
+        ]
+    },
     "wof:country":"BE",
     "wof:geomhash":"10ec5f9c82cf45e172ae83091d68b3da",
     "wof:hierarchy":[
@@ -102,7 +131,7 @@
         }
     ],
     "wof:id":101912973,
-    "wof:lastmodified":1690856557,
+    "wof:lastmodified":1706239328,
     "wof:name":"Fouron-St.-Pierre",
     "wof:parent_id":1108830021,
     "wof:placetype":"locality",
@@ -110,7 +139,9 @@
     "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-be",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1125906547
+    ],
     "wof:tags":[]
 },
   "bbox": [

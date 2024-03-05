@@ -9,7 +9,24 @@
     "geom:bbox":"3.105308,50.960537,3.153892,51.000061",
     "geom:latitude":50.975359,
     "geom:longitude":3.128193,
+    "gn:admin1_code":"VLG",
+    "gn:admin2_code":"VWV",
+    "gn:admin3_code":"36.0",
+    "gn:admin4_code":"36015.0",
+    "gn:asciiname":"Beveren",
+    "gn:country_code":"BE",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2802032,
+    "gn:latitude":50.97256,
+    "gn:longitude":3.14389,
+    "gn:modification_date":"2018-07-04",
+    "gn:name":"Beveren",
+    "gn:population":0,
+    "gn:timezone":"Europe/Brussels",
     "iso:country":"BE",
+    "lbl:bbox":"3.12389,50.95256,3.16389,50.99256",
     "lbl:latitude":50.971272,
     "lbl:longitude":3.126533,
     "lbl:max_zoom":18.0,
@@ -112,6 +129,9 @@
     "name:nob_x_preferred":[
         "Beveren"
     ],
+    "name:nor_x_preferred":[
+        "Beveren"
+    ],
     "name:oci_x_preferred":[
         "Beveren"
     ],
@@ -207,7 +227,12 @@
         "wd:id":"Q270644"
     },
     "wof:concordances_alt":{
-        "qs_pg:id":1077654
+        "gn:id":[
+            2802032
+        ],
+        "qs_pg:id":[
+            1077654
+        ]
     },
     "wof:country":"BE",
     "wof:geom_alt":[
@@ -226,13 +251,15 @@
         }
     ],
     "wof:id":101755571,
-    "wof:lastmodified":1690856493,
+    "wof:lastmodified":1706239327,
     "wof:name":"Beveren",
     "wof:parent_id":1108830397,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-be",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1293817449
+    ],
     "wof:tags":[]
 },
   "bbox": [
