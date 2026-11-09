@@ -37,9 +37,7 @@
     "wof:belongsto":[
         85681713,
         102191581,
-        85632997,
-        404227355,
-        102049957
+        85632997
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,16 +49,14 @@
         {
             "continent_id":102191581,
             "country_id":85632997,
-            "county_id":102049957,
             "locality_id":1193051843,
-            "macroregion_id":404227355,
             "region_id":85681713
         }
     ],
     "wof:id":1193051843,
     "wof:lastmodified":1566611450,
     "wof:name":"Sint-Job",
-    "wof:parent_id":102049957,
+    "wof:parent_id":85681713,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-be",
     "wof:superseded_by":[],

@@ -45,10 +45,8 @@
     "wof:belongsto":[
         102191581,
         85632997,
-        404227355,
-        101751573,
-        102049957,
-        85681713
+        85681713,
+        1175610569
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -62,9 +60,7 @@
         {
             "continent_id":102191581,
             "country_id":85632997,
-            "county_id":102049957,
-            "locality_id":101751573,
-            "macroregion_id":404227355,
+            "locality_id":1175610569,
             "neighbourhood_id":1126106933,
             "region_id":85681713
         }
@@ -72,7 +68,7 @@
     "wof:id":1126106933,
     "wof:lastmodified":1566612043,
     "wof:name":"Stokkelbos",
-    "wof:parent_id":101751573,
+    "wof:parent_id":1175610569,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-be",
     "wof:superseded_by":[],

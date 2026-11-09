@@ -141,10 +141,7 @@
     "wof:belongsto":[
         85681713,
         102191581,
-        85632997,
-        404227355,
-        101913251,
-        102049957
+        85632997
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -160,16 +157,13 @@
         {
             "continent_id":102191581,
             "country_id":85632997,
-            "county_id":102049957,
-            "locality_id":101913251,
-            "macroregion_id":404227355,
             "region_id":85681713
         }
     ],
     "wof:id":1175610541,
     "wof:lastmodified":1690856433,
     "wof:name":"Linkebeek",
-    "wof:parent_id":102049957,
+    "wof:parent_id":85681713,
     "wof:placetype":"locality",
     "wof:population":4823,
     "wof:population_rank":4,

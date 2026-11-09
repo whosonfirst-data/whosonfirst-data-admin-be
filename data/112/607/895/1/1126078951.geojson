@@ -52,7 +52,7 @@
         1108830473,
         85632997,
         404227357,
-        101755541,
+        1175610541,
         102049973,
         85681731
     ],
@@ -71,7 +71,7 @@
             "country_id":85632997,
             "county_id":102049973,
             "localadmin_id":1108830473,
-            "locality_id":101755541,
+            "locality_id":1175610541,
             "macroregion_id":404227357,
             "neighbourhood_id":1126078951,
             "region_id":85681731
@@ -80,7 +80,7 @@
     "wof:id":1126078951,
     "wof:lastmodified":1566612190,
     "wof:name":"Hollebeek",
-    "wof:parent_id":101755541,
+    "wof:parent_id":1175610541,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-be",
     "wof:superseded_by":[],

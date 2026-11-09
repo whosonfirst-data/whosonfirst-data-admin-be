@@ -39,9 +39,7 @@
     "wof:belongsto":[
         85681713,
         102191581,
-        85632997,
-        404227355,
-        102049957
+        85632997
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,16 +51,14 @@
         {
             "continent_id":102191581,
             "country_id":85632997,
-            "county_id":102049957,
             "locality_id":1360017075,
-            "macroregion_id":404227355,
             "region_id":85681713
         }
     ],
     "wof:id":1360017075,
     "wof:lastmodified":1566611777,
     "wof:name":"Vlasendaal",
-    "wof:parent_id":102049957,
+    "wof:parent_id":85681713,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-be",
     "wof:superseded_by":[],
