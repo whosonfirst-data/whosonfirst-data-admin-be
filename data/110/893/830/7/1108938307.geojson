@@ -39,7 +39,7 @@
     "wof:concordances":{},
     "wof:country":"BE",
     "wof:created":1491360282,
-    "wof:geomhash":"73d0e7d917bc7d89b76846e7cab37552",
+    "wof:geomhash":"90e7a7188b688aa0bede3f87c60bf483",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -67,5 +67,5 @@
     4.37795572495393,
     50.84184311973849
 ],
-  "geometry": {"coordinates":[4.37795572495393,50.84184311973849],"type":"Point"}
+  "geometry": {"coordinates":[4.377956,50.841843],"type":"Point"}
 }

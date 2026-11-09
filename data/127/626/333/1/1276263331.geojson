@@ -45,7 +45,7 @@
         "gn:id":2797259
     },
     "wof:country":"BE",
-    "wof:geomhash":"bb01b9704c8831314ff1e30b685bf8b1",
+    "wof:geomhash":"d681b8bc26c79ce0b43bd4a82b978595",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,5 +72,5 @@
     5.89073,
     50.37224000000001
 ],
-  "geometry": {"coordinates":[5.89073,50.37224000000001],"type":"Point"}
+  "geometry": {"coordinates":[5.89073,50.37224],"type":"Point"}
 }

@@ -63,7 +63,7 @@
     },
     "wof:country":"BE",
     "wof:created":1497042462,
-    "wof:geomhash":"c96d6132b56e2a96d19e7225edfec7e3",
+    "wof:geomhash":"f38ec88773f9b6cd75efa60a49016f3b",
     "wof:hierarchy":[
         {
             "country_id":85632997,
@@ -88,5 +88,5 @@
     5.71667,
     50.0
 ],
-  "geometry": {"coordinates":[5.71667,50.0],"type":"Point"}
+  "geometry": {"coordinates":[5.71667,50],"type":"Point"}
 }
