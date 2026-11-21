@@ -10,8 +10,8 @@
     "geom:latitude":50.888301,
     "geom:longitude":4.396539,
     "iso:country":"BE",
-    "lbl:latitude":50.894257,
-    "lbl:longitude":4.383588,
+    "lbl:latitude":50.887599,
+    "lbl:longitude":4.395704,
     "lbl:max_zoom":18.0,
     "mps:latitude":50.88744,
     "mps:longitude":4.395872,
@@ -55,7 +55,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl_centroid":"mz",
+    "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[
         102191581,
         85632997,
