@@ -1,0 +1,78 @@
+{
+  "id": 9895011422,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.63333,50.93333,5.63333,50.93333",
+    "geom:latitude":50.93333,
+    "geom:longitude":5.63333,
+    "iso:country":"BE",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 2793386: name \"Langenberg\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/2793386"
+        },
+        {
+            "citation":"GeoNames populated place 2793386: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/2793386"
+        },
+        {
+            "citation":"GeoNames populated place 2793386: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/2793386"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1108830075 (Lanaken), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632997,
+        85681705,
+        102191581,
+        404227357,
+        1108782563,
+        1108830075
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2793386
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"fa50c5cae3e44b75483c156720ceddb5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":1108782563,
+            "localadmin_id":1108830075,
+            "locality_id":9895011422,
+            "macroregion_id":404227357,
+            "region_id":85681705
+        }
+    ],
+    "wof:id":9895011422,
+    "wof:lastmodified":1795735116,
+    "wof:name":"Langenberg",
+    "wof:parent_id":1108830075,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.63333,
+    50.93333,
+    5.63333,
+    50.93333
+],
+  "geometry": {"coordinates":[5.63333,50.93333],"type":"Point"}
+}

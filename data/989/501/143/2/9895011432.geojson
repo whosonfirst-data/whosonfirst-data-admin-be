@@ -1,0 +1,78 @@
+{
+  "id": 9895011432,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.19733,51.25842,4.19733,51.25842",
+    "geom:latitude":51.25842,
+    "geom:longitude":4.19733,
+    "iso:country":"BE",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 2795884: name \"Het Fort\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/2795884"
+        },
+        {
+            "citation":"GeoNames populated place 2795884: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/2795884"
+        },
+        {
+            "citation":"GeoNames populated place 2795884: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/2795884"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1108830621 (Beveren), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632997,
+        85681733,
+        102049997,
+        102191581,
+        404227357,
+        1108830621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2795884
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"8f8ad9268391fe23a77923fbc3d2bbb0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049997,
+            "localadmin_id":1108830621,
+            "locality_id":9895011432,
+            "macroregion_id":404227357,
+            "region_id":85681733
+        }
+    ],
+    "wof:id":9895011432,
+    "wof:lastmodified":1795735116,
+    "wof:name":"Het Fort",
+    "wof:parent_id":1108830621,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.19733,
+    51.25842,
+    4.19733,
+    51.25842
+],
+  "geometry": {"coordinates":[4.19733,51.25842],"type":"Point"}
+}

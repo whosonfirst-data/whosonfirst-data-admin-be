@@ -1,0 +1,76 @@
+{
+  "id": 9895011453,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.57085,50.64701,3.57085,50.64701",
+    "geom:latitude":50.64701,
+    "geom:longitude":3.57085,
+    "iso:country":"BE",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12166262: name \"Montoeul-au-Bois\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12166262"
+        },
+        {
+            "citation":"GeoNames populated place 12166262: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12166262"
+        },
+        {
+            "citation":"GeoNames populated place 12166262: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12166262"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102049949 (Ath), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632997,
+        85681723,
+        102049949,
+        102191581,
+        404227353
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12166262
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"140f73e7962700ef641d619d6fd31b65",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049949,
+            "locality_id":9895011453,
+            "macroregion_id":404227353,
+            "region_id":85681723
+        }
+    ],
+    "wof:id":9895011453,
+    "wof:lastmodified":1795735116,
+    "wof:name":"Montoeul-au-Bois",
+    "wof:parent_id":102049949,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.57085,
+    50.64701,
+    3.57085,
+    50.64701
+],
+  "geometry": {"coordinates":[3.57085,50.64701],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 9895011455,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.06304,50.51908,6.06304,50.51908",
+    "geom:latitude":50.51908,
+    "geom:longitude":6.06304,
+    "iso:country":"BE",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12382186: name \"Baraque Michel\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12382186"
+        },
+        {
+            "citation":"GeoNames populated place 12382186: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12382186"
+        },
+        {
+            "citation":"GeoNames populated place 12382186: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12382186"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102049935 (Verviers), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632997,
+        85681691,
+        102049935,
+        102191581,
+        404227353
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12382186
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"adffbf72dfa31dc08bde4d9e0e74f7f0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049935,
+            "locality_id":9895011455,
+            "macroregion_id":404227353,
+            "region_id":85681691
+        }
+    ],
+    "wof:id":9895011455,
+    "wof:lastmodified":1795735116,
+    "wof:name":"Baraque Michel",
+    "wof:parent_id":102049935,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.06304,
+    50.51908,
+    6.06304,
+    50.51908
+],
+  "geometry": {"coordinates":[6.06304,50.51908],"type":"Point"}
+}

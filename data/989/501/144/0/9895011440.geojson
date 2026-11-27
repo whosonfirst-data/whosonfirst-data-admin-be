@@ -1,0 +1,76 @@
+{
+  "id": 9895011440,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.80817,50.44435,5.80817,50.44435",
+    "geom:latitude":50.44435,
+    "geom:longitude":5.80817,
+    "iso:country":"BE",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 2800954: name \"Bronromme\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/2800954"
+        },
+        {
+            "citation":"GeoNames populated place 2800954: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/2800954"
+        },
+        {
+            "citation":"GeoNames populated place 2800954: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/2800954"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102049935 (Verviers), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632997,
+        85681691,
+        102049935,
+        102191581,
+        404227353
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2800954
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"79e36acc4b4406f34cc615dd1ef36fa9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049935,
+            "locality_id":9895011440,
+            "macroregion_id":404227353,
+            "region_id":85681691
+        }
+    ],
+    "wof:id":9895011440,
+    "wof:lastmodified":1795735116,
+    "wof:name":"Bronromme",
+    "wof:parent_id":102049935,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.80817,
+    50.44435,
+    5.80817,
+    50.44435
+],
+  "geometry": {"coordinates":[5.80817,50.44435],"type":"Point"}
+}

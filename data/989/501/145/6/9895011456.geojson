@@ -1,0 +1,78 @@
+{
+  "id": 9895011456,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.0953,51.0271,3.0953,51.0271",
+    "geom:latitude":51.0271,
+    "geom:longitude":3.0953,
+    "iso:country":"BE",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12750515: name \"Sint-Henricus\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12750515"
+        },
+        {
+            "citation":"GeoNames populated place 12750515: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12750515"
+        },
+        {
+            "citation":"GeoNames populated place 12750515: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12750515"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1108830333 (Torhout), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632997,
+        85681709,
+        102050003,
+        102191581,
+        404227357,
+        1108830333
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12750515
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"8f909e065745edc6f317c6dd2cfd8128",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102050003,
+            "localadmin_id":1108830333,
+            "locality_id":9895011456,
+            "macroregion_id":404227357,
+            "region_id":85681709
+        }
+    ],
+    "wof:id":9895011456,
+    "wof:lastmodified":1795735116,
+    "wof:name":"Sint-Henricus",
+    "wof:parent_id":1108830333,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.0953,
+    51.0271,
+    3.0953,
+    51.0271
+],
+  "geometry": {"coordinates":[3.0953,51.0271],"type":"Point"}
+}

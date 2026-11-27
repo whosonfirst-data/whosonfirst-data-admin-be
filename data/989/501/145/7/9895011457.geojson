@@ -1,0 +1,79 @@
+{
+  "id": 9895011457,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.28506,50.80458,4.28506,50.80458",
+    "geom:latitude":50.80458,
+    "geom:longitude":4.28506,
+    "gn:population":6915,
+    "iso:country":"BE",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12902635: name \"Negenmanneke\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12902635"
+        },
+        {
+            "citation":"GeoNames populated place 12902635: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12902635"
+        },
+        {
+            "citation":"GeoNames populated place 12902635: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12902635"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1108830529 (Sint-Pieters-Leeuw), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632997,
+        85681731,
+        102049973,
+        102191581,
+        404227357,
+        1108830529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12902635
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"9f973f7f3886e7237e4c397b8986db18",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049973,
+            "localadmin_id":1108830529,
+            "locality_id":9895011457,
+            "macroregion_id":404227357,
+            "region_id":85681731
+        }
+    ],
+    "wof:id":9895011457,
+    "wof:lastmodified":1795735116,
+    "wof:name":"Negenmanneke",
+    "wof:parent_id":1108830529,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.28506,
+    50.80458,
+    4.28506,
+    50.80458
+],
+  "geometry": {"coordinates":[4.28506,50.80458],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 9895011406,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.04544,51.06891,4.04544,51.06891",
+    "geom:latitude":51.06891,
+    "geom:longitude":4.04544,
+    "iso:country":"BE",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 2783360: name \"Zandberg\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/2783360"
+        },
+        {
+            "citation":"GeoNames populated place 2783360: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/2783360"
+        },
+        {
+            "citation":"GeoNames populated place 2783360: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/2783360"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1108830229 (Zele), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632997,
+        85681733,
+        102049979,
+        102191581,
+        404227357,
+        1108830229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2783360
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"8ddb43316c442395f3f470c5522ca7b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049979,
+            "localadmin_id":1108830229,
+            "locality_id":9895011406,
+            "macroregion_id":404227357,
+            "region_id":85681733
+        }
+    ],
+    "wof:id":9895011406,
+    "wof:lastmodified":1795735116,
+    "wof:name":"Zandberg",
+    "wof:parent_id":1108830229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.04544,
+    51.06891,
+    4.04544,
+    51.06891
+],
+  "geometry": {"coordinates":[4.04544,51.06891],"type":"Point"}
+}

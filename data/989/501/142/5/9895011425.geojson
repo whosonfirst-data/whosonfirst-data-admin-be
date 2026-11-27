@@ -1,0 +1,78 @@
+{
+  "id": 9895011425,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.97688,51.2244,3.97688,51.2244",
+    "geom:latitude":51.2244,
+    "geom:longitude":3.97688,
+    "iso:country":"BE",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 2794173: name \"Koewacht\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/2794173"
+        },
+        {
+            "citation":"GeoNames populated place 2794173: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/2794173"
+        },
+        {
+            "citation":"GeoNames populated place 2794173: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/2794173"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1108830603 (Moerbeke), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632997,
+        85681733,
+        102049989,
+        102191581,
+        404227357,
+        1108830603
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2794173
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"bc253fcc25bbc10de40398a3e5bb79c2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049989,
+            "localadmin_id":1108830603,
+            "locality_id":9895011425,
+            "macroregion_id":404227357,
+            "region_id":85681733
+        }
+    ],
+    "wof:id":9895011425,
+    "wof:lastmodified":1795735116,
+    "wof:name":"Koewacht",
+    "wof:parent_id":1108830603,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.97688,
+    51.2244,
+    3.97688,
+    51.2244
+],
+  "geometry": {"coordinates":[3.97688,51.2244],"type":"Point"}
+}

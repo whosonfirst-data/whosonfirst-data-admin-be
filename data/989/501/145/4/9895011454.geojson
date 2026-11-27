@@ -1,0 +1,76 @@
+{
+  "id": 9895011454,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.68203,50.42481,5.68203,50.42481",
+    "geom:latitude":50.42481,
+    "geom:longitude":5.68203,
+    "iso:country":"BE",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12382015: name \"Houssonloge\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12382015"
+        },
+        {
+            "citation":"GeoNames populated place 12382015: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12382015"
+        },
+        {
+            "citation":"GeoNames populated place 12382015: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12382015"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102049941 (Li\u00e8ge), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632997,
+        85681691,
+        102049941,
+        102191581,
+        404227353
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12382015
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"d1bcb409fc4249dba84c82dfa21e6b56",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049941,
+            "locality_id":9895011454,
+            "macroregion_id":404227353,
+            "region_id":85681691
+        }
+    ],
+    "wof:id":9895011454,
+    "wof:lastmodified":1795735116,
+    "wof:name":"Houssonloge",
+    "wof:parent_id":102049941,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.68203,
+    50.42481,
+    5.68203,
+    50.42481
+],
+  "geometry": {"coordinates":[5.68203,50.42481],"type":"Point"}
+}

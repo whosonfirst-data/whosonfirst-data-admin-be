@@ -1,0 +1,78 @@
+{
+  "id": 9895011438,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.09439,50.87766,5.09439,50.87766",
+    "geom:latitude":50.87766,
+    "geom:longitude":5.09439,
+    "iso:country":"BE",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 2797502: name \"Glabbeek\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/2797502"
+        },
+        {
+            "citation":"GeoNames populated place 2797502: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/2797502"
+        },
+        {
+            "citation":"GeoNames populated place 2797502: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/2797502"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1108830543 (Geetbets), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632997,
+        85681731,
+        102049969,
+        102191581,
+        404227357,
+        1108830543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2797502
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"0e3dc321f9bcfbfecf24c66bde42b8ba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049969,
+            "localadmin_id":1108830543,
+            "locality_id":9895011438,
+            "macroregion_id":404227357,
+            "region_id":85681731
+        }
+    ],
+    "wof:id":9895011438,
+    "wof:lastmodified":1795735116,
+    "wof:name":"Glabbeek",
+    "wof:parent_id":1108830543,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.09439,
+    50.87766,
+    5.09439,
+    50.87766
+],
+  "geometry": {"coordinates":[5.09439,50.87766],"type":"Point"}
+}

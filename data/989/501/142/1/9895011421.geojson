@@ -1,0 +1,76 @@
+{
+  "id": 9895011421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.36667,50.71667,3.36667,50.71667",
+    "geom:latitude":50.71667,
+    "geom:longitude":3.36667,
+    "iso:country":"BE",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 2793343: name \"Lannoy\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/2793343"
+        },
+        {
+            "citation":"GeoNames populated place 2793343: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/2793343"
+        },
+        {
+            "citation":"GeoNames populated place 2793343: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/2793343"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102049951 (Tournai), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632997,
+        85681723,
+        102049951,
+        102191581,
+        404227353
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2793343
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"0e2e2bd64f7dcf7e065475a55660173b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049951,
+            "locality_id":9895011421,
+            "macroregion_id":404227353,
+            "region_id":85681723
+        }
+    ],
+    "wof:id":9895011421,
+    "wof:lastmodified":1795735116,
+    "wof:name":"Lannoy",
+    "wof:parent_id":102049951,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.36667,
+    50.71667,
+    3.36667,
+    50.71667
+],
+  "geometry": {"coordinates":[3.36667,50.71667],"type":"Point"}
+}

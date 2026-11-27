@@ -1,0 +1,74 @@
+{
+  "id": 9895090091,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.02244,51.24954,4.02244,51.24954",
+    "geom:latitude":51.24954,
+    "geom:longitude":4.02244,
+    "iso:country":"BE",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 2796204: name \"Heikant\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/2796204"
+        },
+        {
+            "citation":"GeoNames populated place 2796204: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/2796204"
+        },
+        {
+            "citation":"GeoNames populated place 2796204: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/2796204"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85681733 (Oost-Vlaanderen), the record that holds the GeoNames id of the division GeoNames files this place under. No boundary of the repository contains the point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632997,
+        85681733,
+        102191581,
+        404227357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2796204
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"c6bedfd12eefad578f54ee4c48512422",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "locality_id":9895090091,
+            "macroregion_id":404227357,
+            "region_id":85681733
+        }
+    ],
+    "wof:id":9895090091,
+    "wof:lastmodified":1795746212,
+    "wof:name":"Heikant",
+    "wof:parent_id":85681733,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.02244,
+    51.24954,
+    4.02244,
+    51.24954
+],
+  "geometry": {"coordinates":[4.02244,51.24954],"type":"Point"}
+}

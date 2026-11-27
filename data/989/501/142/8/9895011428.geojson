@@ -1,0 +1,76 @@
+{
+  "id": 9895011428,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.94713,50.62849,5.94713,50.62849",
+    "geom:latitude":50.62849,
+    "geom:longitude":5.94713,
+    "iso:country":"BE",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 2795465: name \"Honthem\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/2795465"
+        },
+        {
+            "citation":"GeoNames populated place 2795465: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/2795465"
+        },
+        {
+            "citation":"GeoNames populated place 2795465: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/2795465"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102049935 (Verviers), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632997,
+        85681691,
+        102049935,
+        102191581,
+        404227353
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2795465
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"93c4cb09af822e56f4f034c7ec4c6efc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049935,
+            "locality_id":9895011428,
+            "macroregion_id":404227353,
+            "region_id":85681691
+        }
+    ],
+    "wof:id":9895011428,
+    "wof:lastmodified":1795735116,
+    "wof:name":"Honthem",
+    "wof:parent_id":102049935,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.94713,
+    50.62849,
+    5.94713,
+    50.62849
+],
+  "geometry": {"coordinates":[5.94713,50.62849],"type":"Point"}
+}

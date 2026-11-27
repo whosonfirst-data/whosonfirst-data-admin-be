@@ -1,0 +1,78 @@
+{
+  "id": 9895011426,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.75,51.11667,3.75,51.11667",
+    "geom:latitude":51.11667,
+    "geom:longitude":3.75,
+    "iso:country":"BE",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 2795159: name \"Hulst\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/2795159"
+        },
+        {
+            "citation":"GeoNames populated place 2795159: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/2795159"
+        },
+        {
+            "citation":"GeoNames populated place 2795159: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/2795159"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1108830083 (Gent), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632997,
+        85681733,
+        102049989,
+        102191581,
+        404227357,
+        1108830083
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2795159
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"d7fd229fa544b59e78a92ef33e1ed0ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049989,
+            "localadmin_id":1108830083,
+            "locality_id":9895011426,
+            "macroregion_id":404227357,
+            "region_id":85681733
+        }
+    ],
+    "wof:id":9895011426,
+    "wof:lastmodified":1795735116,
+    "wof:name":"Hulst",
+    "wof:parent_id":1108830083,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.75,
+    51.11667,
+    3.75,
+    51.11667
+],
+  "geometry": {"coordinates":[3.75,51.11667],"type":"Point"}
+}

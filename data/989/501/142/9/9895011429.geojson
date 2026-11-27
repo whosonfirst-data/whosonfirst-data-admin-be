@@ -1,0 +1,78 @@
+{
+  "id": 9895011429,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.63333,51.15,4.63333,51.15",
+    "geom:latitude":51.15,
+    "geom:longitude":4.63333,
+    "iso:country":"BE",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 2795598: name \"Hoge Heide\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/2795598"
+        },
+        {
+            "citation":"GeoNames populated place 2795598: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/2795598"
+        },
+        {
+            "citation":"GeoNames populated place 2795598: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/2795598"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1108830199 (Nijlen), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632997,
+        85681715,
+        102049985,
+        102191581,
+        404227357,
+        1108830199
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2795598
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"7a0c3a8c62dd8dac545563d4068a6cb7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049985,
+            "localadmin_id":1108830199,
+            "locality_id":9895011429,
+            "macroregion_id":404227357,
+            "region_id":85681715
+        }
+    ],
+    "wof:id":9895011429,
+    "wof:lastmodified":1795735116,
+    "wof:name":"Hoge Heide",
+    "wof:parent_id":1108830199,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.63333,
+    51.15,
+    4.63333,
+    51.15
+],
+  "geometry": {"coordinates":[4.63333,51.15],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 9895011439,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.75381,50.49607,3.75381,50.49607",
+    "geom:latitude":50.49607,
+    "geom:longitude":3.75381,
+    "iso:country":"BE",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 2800843: name \"Les Bruy\u00e8res\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/2800843"
+        },
+        {
+            "citation":"GeoNames populated place 2800843: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/2800843"
+        },
+        {
+            "citation":"GeoNames populated place 2800843: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/2800843"
+        },
+        {
+            "citation":"The hierarchy of WOF county 102049933 (Mons), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632997,
+        85681723,
+        102049933,
+        102191581,
+        404227353
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2800843
+    },
+    "wof:country":"BE",
+    "wof:geomhash":"39682d1d9f134927ca723e9d526a959f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632997,
+            "county_id":102049933,
+            "locality_id":9895011439,
+            "macroregion_id":404227353,
+            "region_id":85681723
+        }
+    ],
+    "wof:id":9895011439,
+    "wof:lastmodified":1795735116,
+    "wof:name":"Les Bruy\u00e8res",
+    "wof:parent_id":102049933,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-be",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.75381,
+    50.49607,
+    3.75381,
+    50.49607
+],
+  "geometry": {"coordinates":[3.75381,50.49607],"type":"Point"}
+}
